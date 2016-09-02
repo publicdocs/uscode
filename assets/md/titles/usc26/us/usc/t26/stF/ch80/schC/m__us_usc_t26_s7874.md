@@ -181,7 +181,7 @@
 
         (2) transactions designed to have persons cease to be (or not become) members of expanded affiliated groups or related persons.
 
-(Added [Pub. L. 108–357, title VIII, § 801(a)][/us/pl/108/357/s801/a], Oct. 22, 2004, [118 Stat. 1562][/us/stat/118/1562]; amended [Pub. L. 109–135, title IV, § 403(u)][/us/pl/109/135/s403/u], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 801(a), Oct. 22, 2004, [118 Stat. 1562][/us/stat/118/1562]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(u), Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628].)
 
  __Amendments__ 
 
@@ -193,7 +193,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 801(c)][/us/pl/108/357/s801/c], Oct. 22, 2004, [118 Stat. 1566][/us/stat/118/1566], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 801(c), Oct. 22, 2004, [118 Stat. 1566][/us/stat/118/1566], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after March 4, 2003.”
 
@@ -204,16 +204,16 @@
 ----------
 ----------
 
-[/us/pl/108/357/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs801%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1562
-[/us/pl/109/135/s403/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fu
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2628
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs801%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1566
 
 

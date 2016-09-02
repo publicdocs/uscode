@@ -109,23 +109,23 @@
 
         (2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “is”. </sup></sup>  included in the gross income of the director.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1680][/us/stat/96/1680]; amended [Pub. L. 97–448, title III, § 305(d)(2)][/us/pl/97/448/s305/d/2], Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 98–369, div. A, title VII, § 721(r)][/us/pl/98/369/s721/r], July 18, 1984, [98 Stat. 970][/us/stat/98/970]; [Pub. L. 99–514, title XVIII, § 1879(m)(1)(B)][/us/pl/99/514/s1879/m/1/B], Oct. 22, 1986, [100 Stat. 2910][/us/stat/100/2910]; [Pub. L. 104–188, title I, § 1309(a)(2)][/us/pl/104/188/s1309/a/2]–(c), Aug. 20, 1996, [110 Stat. 1783][/us/stat/110/1783]; [Pub. L. 110–28, title VIII, § 8232(b)][/us/pl/110/28/s8232/b], May 25, 2007, [121 Stat. 197][/us/stat/121/197].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1680][/us/stat/96/1680]; amended [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 305(d)(2), Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 721(r), July 18, 1984, [98 Stat. 970][/us/stat/98/970]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1879(m)(1)(B), Oct. 22, 1986, [100 Stat. 2910][/us/stat/100/2910]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1309(a)(2)–(c), Aug. 20, 1996, [110 Stat. 1783][/us/stat/110/1783]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8232(b), May 25, 2007, [121 Stat. 197][/us/stat/121/197].)
 
  __Amendments__ 
 
     2007—Subsec. (f). [Pub. L. 110–28][/us/pl/110/28] added subsec. (f).
 
-    1996—Subsec. (d). [Pub. L. 104–188, § 1309(a)(2)][/us/pl/104/188/s1309/a/2], inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
+    1996—Subsec. (d). [Pub. L. 104–188][/us/pl/104/188], § 1309(a)(2), inserted at end “In the case of any distribution made during any taxable year, the adjusted basis of the stock shall be determined with regard to the adjustments provided in paragraph (1) of section 1367(a) for the taxable year.”
 
-    Subsec. (e)(1)(A). [Pub. L. 104–188, § 1309(c)][/us/pl/104/188/s1309/c], substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
+    Subsec. (e)(1)(A). [Pub. L. 104–188][/us/pl/104/188], § 1309(c), substituted “as otherwise provided in this paragraph” for “as provided in subparagraph (B)” and “section 1367(a)(2)” for “section 1367(b)(2)(A)”.
 
-    Subsec. (e)(1)(C). [Pub. L. 104–188, § 1309(b)][/us/pl/104/188/s1309/b], added subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 104–188][/us/pl/104/188], § 1309(b), added subpar. (C).
 
     1986—Subsec. (e)(1)(A). [Pub. L. 99–514][/us/pl/99/514] inserted “and no adjustment shall be made for Federal taxes attributable to any taxable year in which the corporation was a C corporation” before period at end.
 
-    1984—Subsec. (c). [Pub. L. 98–369, § 721(r)(2)][/us/pl/98/369/s721/r/2], inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
+    1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 721(r)(2), inserted “Except to the extent provided in regulations, if the distributions during the taxable year exceed the amount in the accumulated adjustments account at the close of the taxable year, for purposes of this subsection, the balance of such account shall be allocated among such distributions in proportion to their respective sizes.”
 
-    Subsec. (e)(1)(A). [Pub. L. 98–369, § 721(r)(1)][/us/pl/98/369/s721/r/1], substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation’s taxable income and not properly chargeable to capital account)”.
+    Subsec. (e)(1)(A). [Pub. L. 98–369][/us/pl/98/369], § 721(r)(1), substituted “(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase ‘(but not below zero)’ shall be disregarded in section 1367(b)(2)(A))” for “(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation’s taxable income and not properly chargeable to capital account)”.
 
     1983—Subsec. (e)(3). [Pub. L. 97–448][/us/pl/97/448] added par. (3).
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–448, title III, § 311(c)(4)][/us/pl/97/448/s311/c/4], Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
+[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 311(c)(4), Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
 
 > “The amendments made by subsection (d) of section 305 \[amending this section and sections 221, 1374, and 4975 of this title, enacting provisions set out as a note under [section 1361 of this title][/us/usc/t26/s1361], and amending provisions set out as a note under [section 1361 of this title][/us/usc/t26/s1361]\] shall take effect on the date of the enactment of the Subchapter S Revision Act of 1982 \[Oct. 19, 1982\].”
 
@@ -166,25 +166,25 @@
 ----------
 ----------
 
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1680
-[/us/pl/97/448/s305/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs305%2Fd%2F2
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2399
-[/us/pl/98/369/s721/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fr
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F970
-[/us/pl/99/514/s1879/m/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fm%2F1%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2910
-[/us/pl/104/188/s1309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1309%2Fa%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1783
-[/us/pl/110/28/s8232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8232%2Fb
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F197
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
-[/us/pl/104/188/s1309/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1309%2Fa%2F2
-[/us/pl/104/188/s1309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1309%2Fc
-[/us/pl/104/188/s1309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1309%2Fb
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s721/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fr%2F2
-[/us/pl/98/369/s721/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fr%2F1
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28/s8232/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8232%2Fc
@@ -199,7 +199,7 @@
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/98/369/s721/y/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fy%2F1
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/97/448/s311/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs311%2Fc%2F4
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2411
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361

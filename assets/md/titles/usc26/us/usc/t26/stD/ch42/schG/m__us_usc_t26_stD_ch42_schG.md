@@ -43,7 +43,7 @@
 
  __Codification__ 
 
-    [Pub. L. 109–280, title XII, § 1231(a)][/us/pl/109/280/s1231/a], Aug. 17, 2006, [120 Stat. 1094][/us/stat/120/1094], which directed the addition of subchapter G at the end of chapter 42, without specifying the act to be amended, was executed by adding subchapter G at the end of chapter 42 of this title, which consists of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+    [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1231(a), Aug. 17, 2006, [120 Stat. 1094][/us/stat/120/1094], which directed the addition of subchapter G at the end of chapter 42, without specifying the act to be amended, was executed by adding subchapter G at the end of chapter 42 of this title, which consists of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1231%2Fa
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1094
 
 

@@ -31,7 +31,7 @@
 
         The Secretary may provide by regulations for the addition of tracer elements to distilled spirits to facilitate the enforcement of this chapter. Tracer elements to be added to distilled spirits at any distilled spirits plant under provisions of this subsection shall be of such character and in such quantity as the Secretary may authorize or require, and such as will not impair the quality of the distilled spirits for their intended use.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1357][/us/stat/72/1357]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 807(a)(21)][/us/pl/96/39/s807/a/21], July 26, 1979, [93 Stat. 283][/us/stat/93/283].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1357][/us/stat/72/1357]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(21), July 26, 1979, [93 Stat. 283][/us/stat/93/283].)
 
  __Prior Provisions__ 
 
@@ -122,11 +122,11 @@ Provisions similar to those comprising subsecs. (a) to (c) of this section were 
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1357
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39/s807/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F21
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F283
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736

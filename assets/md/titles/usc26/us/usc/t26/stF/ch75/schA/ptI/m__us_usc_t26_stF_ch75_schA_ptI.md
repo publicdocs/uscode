@@ -171,17 +171,17 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title I, § 1105(b)][/us/pl/105/206/s1105/b], July 22, 1998, [112 Stat. 711][/us/stat/112/711], added item 7217.
+    1998—[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1105(b), July 22, 1998, [112 Stat. 711][/us/stat/112/711], added item 7217.
 
-    1997—[Pub. L. 105–35, § 2(b)(2)][/us/pl/105/35/s2/b/2], Aug. 5, 1997, [111 Stat. 1105][/us/stat/111/1105], added item 7213A.
+    1997—[Pub. L. 105–35][/us/pl/105/35], § 2(b)(2), Aug. 5, 1997, [111 Stat. 1105][/us/stat/111/1105], added item 7213A.
 
-    1982—[Pub. L. 97–248, title III, § 357(b)(2)][/us/pl/97/248/s357/b/2], Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], struck out item 7217 “Civil damages for unauthorized disclosure of returns and return information”.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 357(b)(2), Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], struck out item 7217 “Civil damages for unauthorized disclosure of returns and return information”.
 
-    1976—[Pub. L. 94–455, title XII, § 1202(e)(2)][/us/pl/94/455/s1202/e/2], Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687], added item 7217.
+    1976—[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(e)(2), Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687], added item 7217.
 
-    1971—[Pub. L. 92–178, title III, § 316(b)][/us/pl/92/178/s316/b], Dec. 10, 1971, [85 Stat. 529][/us/stat/85/529], added item 7216.
+    1971—[Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 316(b), Dec. 10, 1971, [85 Stat. 529][/us/stat/85/529], added item 7216.
 
-    1958—[Pub. L. 85–321, § 3(b)][/us/pl/85/321/s3/b], Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6], added item 7215.
+    1958—[Pub. L. 85–321][/us/pl/85/321], § 3(b), Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6], added item 7215.
 
 ----------
 
@@ -190,17 +190,17 @@
 ----------
 ----------
 
-[/us/pl/105/206/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1105%2Fb
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F711
-[/us/pl/105/35/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs2%2Fb%2F2
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
 [/us/stat/111/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1105
-[/us/pl/97/248/s357/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs357%2Fb%2F2
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F646
-[/us/pl/94/455/s1202/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fe%2F2
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1687
-[/us/pl/92/178/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs316%2Fb
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F529
-[/us/pl/85/321/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321%2Fs3%2Fb
+[/us/pl/85/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321
 [/us/stat/72/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F6
 
 

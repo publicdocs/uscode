@@ -31,11 +31,11 @@
 
         In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1394][/us/stat/72/1394]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 96–39, title VIII, § 807(a)(51)][/us/pl/96/39/s807/a/51], July 26, 1979, [93 Stat. 288][/us/stat/93/288]; [Pub. L. 114–113, div. Q, title III, § 332(b)(1)][/us/pl/114/113/s332/b/1], Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1394][/us/stat/72/1394]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(51), July 26, 1979, [93 Stat. 288][/us/stat/93/288]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 332(b)(1), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–113, div. Q, title III, § 332(b)(1)][/us/pl/114/113/s332/b/1], (c), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, this section is amended:
+    [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 332(b)(1), (c), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, this section is amended:
 
     (1) in subsection (a), by striking out “No individual” and inserting “Except as provided under subsection (d), no individual”; and
 
@@ -61,17 +61,17 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–113, § 332(b)(1)(A)][/us/pl/114/113/s332/b/1/A], substituted “Except as provided under subsection (d), no individual” for “No individual”.
+    2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113], § 332(b)(1)(A), substituted “Except as provided under subsection (d), no individual” for “No individual”.
 
-    Subsec. (d). [Pub. L. 114–113, § 332(b)(1)(B)][/us/pl/114/113/s332/b/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 114–113][/us/pl/114/113], § 332(b)(1)(B), added subsec. (d).
 
     1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39] substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], substituted “Secretary of the Treasury” for “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
 
-    Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], substituted “Secretary of the Treasury” for “Secretary”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -96,15 +96,15 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1394
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/96/39/s807/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F51
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F288
-[/us/pl/114/113/s332/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F1
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
-[/us/pl/114/113/s332/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F1
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F680
@@ -112,12 +112,12 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F630
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/114/113/s332/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F1%2FA
-[/us/pl/114/113/s332/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fb%2F1%2FB
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs332%2Fc
 [/us/usc/t26/s5061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5061

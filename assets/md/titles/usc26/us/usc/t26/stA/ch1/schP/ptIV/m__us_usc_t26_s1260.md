@@ -137,7 +137,7 @@
 
         (2) to exclude certain forward contracts which do not convey substantially all of the economic return with respect to a financial asset.
 
-(Added [Pub. L. 106–170, title V, § 534(a)][/us/pl/106/170/s534/a], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; amended [Pub. L. 108–357, title IV, § 413(c)(23)][/us/pl/108/357/s413/c/23], Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 110–172, § 11(a)(23)][/us/pl/110/172/s11/a/23], (24)(B), Dec. 29, 2007, [121 Stat. 2486][/us/stat/121/2486].)
+(Added [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 534(a), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; amended [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(23), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(23), (24)(B), Dec. 29, 2007, [121 Stat. 2486][/us/stat/121/2486].)
 
  __Amendments__ 
 
@@ -151,7 +151,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–170, title V, § 534(c)][/us/pl/106/170/s534/c], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934], provided that: 
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 534(c), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after July 11, 1999.”
 
@@ -162,18 +162,18 @@
 ----------
 ----------
 
-[/us/pl/106/170/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs534%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
-[/us/pl/108/357/s413/c/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F23
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
-[/us/pl/110/172/s11/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F23
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2486
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/106/170/s534/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs534%2Fc
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1934
 
 

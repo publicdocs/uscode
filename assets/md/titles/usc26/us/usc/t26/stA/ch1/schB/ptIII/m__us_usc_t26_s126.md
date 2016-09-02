@@ -71,7 +71,7 @@
 
         Notwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall be made with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
 
-(Added [Pub. L. 95–600, title V, § 543(a)][/us/pl/95/600/s543/a], Nov. 6, 1978, [92 Stat. 2888][/us/stat/92/2888]; amended [Pub. L. 96–222, title I, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], (C), (E), Apr. 1, 1980, [94 Stat. 220][/us/stat/94/220], 221; [Pub. L. 113–295, div. A, title II, § 221(a)(22)][/us/pl/113/295/s221/a/22], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].)
+(Added [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 543(a), Nov. 6, 1978, [92 Stat. 2888][/us/stat/92/2888]; amended [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 105(a)(7)(A), (C), (E), Apr. 1, 1980, [94 Stat. 220][/us/stat/94/220], 221; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(22), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
     The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(6), is [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], [50 Stat. 522][/us/stat/50/522], as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7][/us/usc/t7/s1000] and Tables.
 
-    Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(7), related to a forestry incentives program, was classified to [section 2103 of Title 16][/us/usc/t16/s2103], Conservation, and was repealed by [Pub. L. 107–171, title VIII, § 8001(a)][/us/pl/107/171/s8001/a], May 13, 2002, [116 Stat. 468][/us/stat/116/468]. A new section 4 of the Act, as enacted by [Pub. L. 107–171][/us/pl/107/171], was also classified to [section 2103 of Title 16][/us/usc/t16/s2103], related to a forest land enhancement program, and was repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
+    Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(7), related to a forestry incentives program, was classified to [section 2103 of Title 16][/us/usc/t16/s2103], Conservation, and was repealed by [Pub. L. 107–171, title VIII][/us/pl/107/171/tVIII], § 8001(a), May 13, 2002, [116 Stat. 468][/us/stat/116/468]. A new section 4 of the Act, as enacted by [Pub. L. 107–171][/us/pl/107/171], was also classified to [section 2103 of Title 16][/us/usc/t16/s2103], related to a forest land enhancement program, and was repealed by [Pub. L. 113–79, title VIII][/us/pl/113/79/tVIII], § 8001(a), Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
 
  __Prior Provisions__ 
 
@@ -93,13 +93,13 @@
 
     2014—Subsec. (a)(6) to (10). [Pub. L. 113–295][/us/pl/113/295] redesignated pars. (7) to (10) as (6) to (9), respectively, and struck out former par. (6) which read as follows: “The great plains conservation program authorized by section 16 of the Soil Conservation and Domestic Policy Act ([16 U.S.C. 590p(b)][/us/usc/t16/s590p/b]).”
 
-    1980—Subsec. (a). [Pub. L. 96–222, § 105(a)(7)(C)][/us/pl/96/222/s105/a/7/C], (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
+    1980—Subsec. (a). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(C), (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
 
-    Subsec. (b). [Pub. L. 96–222, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], inserted provisions relating to payments not chargeable to capital account.
+    Subsec. (b). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(A), inserted provisions relating to payments not chargeable to capital account.
 
-    Subsec. (c). [Pub. L. 96–222, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], substituted provisions allowing the taxpayer to elect not to have this section apply to any excludable portion for provisions relating to the application of subsec. (a) of this section with other sections.
+    Subsec. (c). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(A), substituted provisions allowing the taxpayer to elect not to have this section apply to any excludable portion for provisions relating to the application of subsec. (a) of this section with other sections.
 
-    Subsecs. (d), (e). [Pub. L. 96–222, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(A), added subsecs. (d) and (e).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -111,7 +111,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–600, title V, § 543(d)][/us/pl/95/600/s543/d], Nov. 6, 1978, [92 Stat. 2890][/us/stat/92/2890], provided that: 
+[Pub. L. 95–600, title V][/us/pl/95/600/tV], § 543(d), Nov. 6, 1978, [92 Stat. 2890][/us/stat/92/2890], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 1255 of this title][/us/usc/t26/s1255]\] shall apply with respect to grants made under the programs after September 30, 1979.”
 
@@ -129,11 +129,11 @@
 [/us/usc/t7/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
 [/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
-[/us/pl/95/600/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs543%2Fa
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2888
-[/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F220
-[/us/pl/113/295/s221/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F22
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1468
@@ -147,19 +147,19 @@
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
 [/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
-[/us/pl/107/171/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs8001%2Fa
+[/us/pl/107/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVIII
 [/us/stat/116/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F468
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
-[/us/pl/113/79/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8001%2Fa
+[/us/pl/113/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2FtVIII
 [/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t16/s590p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fb
-[/us/pl/96/222/s105/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FC
-[/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
-[/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
-[/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -167,7 +167,7 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/95/600/s543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs543%2Fd
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2890
 [/us/usc/t26/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1255
 

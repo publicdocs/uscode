@@ -21,7 +21,7 @@
 
     (2) a nonresident alien individual or foreign corporation which is a beneficiary of an estate or trust which is engaged in any trade or business within the United States shall be treated as being engaged in such trade or business within the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 281][/us/stat/68A/281]; [Pub. L. 89–809, title I, § 103(e)(1)][/us/pl/89/809/s103/e/1], Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 281][/us/stat/68A/281]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(e)(1), Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F281
-[/us/pl/89/809/s103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fe%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1551
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809

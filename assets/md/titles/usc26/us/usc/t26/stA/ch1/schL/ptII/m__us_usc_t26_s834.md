@@ -117,27 +117,27 @@
 
             The term “dividends to policyholders” means dividends and similar distributions paid or declared to policyholders. For purposes of the preceding sentence, the term “paid or declared” shall be construed according to the method regularly employed in keeping the books of the insurance company.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 261][/us/stat/68A/261], § 822; [Mar. 13, 1956, ch. 83, § 3(a)(3)][/us/act/1956-03-13/ch83/s3/a/3]–(8), [70 Stat. 47][/us/stat/70/47], 48; [Pub. L. 87–834, § 8(b)][/us/pl/87/834/s8/b], Oct. 16, 1962, [76 Stat. 991][/us/stat/76/991]; [Pub. L. 88–272, title II, § 228(b)(2)][/us/pl/88/272/s228/b/2], Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 89–809, title I, § 104(i)(5)][/us/pl/89/809/s104/i/5], Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1792, 1834; renumbered § 834 and amended [Pub. L. 99–514, title X, § 1024(a)(3)][/us/pl/99/514/s1024/a/3], (c)(7), (8), Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405], 2407.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 261][/us/stat/68A/261], § 822; [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 3(a)(3)–(8), [70 Stat. 47][/us/stat/70/47], 48; [Pub. L. 87–834][/us/pl/87/834], § 8(b), Oct. 16, 1962, [76 Stat. 991][/us/stat/76/991]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 228(b)(2), Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(i)(5), Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1792, 1834; renumbered § 834 and amended [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(a)(3), (c)(7), (8), Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405], 2407.)
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, § 1024(a)(3)][/us/pl/99/514/s1024/a/3], renumbered [section 822 of this title][/us/usc/t26/s822] as this section.
+    1986—[Pub. L. 99–514][/us/pl/99/514], § 1024(a)(3), renumbered [section 822 of this title][/us/usc/t26/s822] as this section.
 
-    Subsec. (a). [Pub. L. 99–514, § 1024(c)(7)][/us/pl/99/514/s1024/c/7], amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: “For purposes of this part—
+    Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: “For purposes of this part—
 
     “(1) The term ‘taxable investment income’ means the gross investment income, minus the deductions provided in subsection (c).
 
     “(2) The term ‘investment loss’ means the amount by which the deductions provided in subsection (c) exceed the gross investment income.”
 
-    Subsec. (d). [Pub. L. 99–514, § 1024(c)(8)][/us/pl/99/514/s1024/c/8], substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
 
-    1976—Subsec. (c)(2). [Pub. L. 94–455, § 1901(b)(1)(P)][/us/pl/94/455/s1901/b/1/P], struck out “partially tax-exempt interest and” before “dividends received allowed by”.
+    1976—Subsec. (c)(2). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
 
-    Subsec. (c)(5). [Pub. L. 94–455, § 1901(a)(105)(A)][/us/pl/94/455/s1901/a/105/A], struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “purchase or carry obligations”.
+    Subsec. (c)(5). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(105)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “purchase or carry obligations”.
 
-    Subsec. (c)(6)(A). [Pub. L. 94–455, § 1901(b)(1)(Q)][/us/pl/94/455/s1901/b/1/Q], struck out “or to the deduction provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
+    Subsec. (c)(6)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(1)(Q), struck out “or to the deduction provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
 
-    Subsec. (c)(7). [Pub. L. 94–455, § 1901(b)(1)(R)][/us/pl/94/455/s1901/b/1/R], struck out “partially tax-exempt interest and to” after “and following, relating to”.
+    Subsec. (c)(7). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(1)(R), struck out “partially tax-exempt interest and to” after “and following, relating to”.
 
     Subsec. (d)(2). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(105)(B), (b)(1)(S), 1906(b)(13)(A), struck out in subpar. (B) “or his delegate” after “Secretary” and substituted in provisions preceding subpar. (A) “and the deduction provided in subsection (c)(1)” for “, the deduction provided in subsection (c)(1), and the deduction allowed by section 242 (relating to partially tax-exempt interest)” and in provisions following subpar. (B) “No accrual” for “For taxable years beginning after December 31, 1962, no accrual”.
 
@@ -145,15 +145,15 @@
 
     1964—Subsec. (d)(2). [Pub. L. 88–272][/us/pl/88/272] provided that for taxable years beginning after Dec. 31, 1962, no accrual of discount shall be required under par. (2) on any bond.
 
-    1962—[Pub. L. 87–834, § 8(b)(1)][/us/pl/87/834/s8/b/1], substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 8(b)(1), substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
 
-    Subsec. (a). [Pub. L. 87–834, § 8(b)(1)][/us/pl/87/834/s8/b/1], defined “taxable investment income” and “investment loss” for purposes of this part, and struck out provisions which defined “mutual insurance company taxable income” for purposes of [section 821 of this title][/us/usc/t26/s821], which provisions are now contained in [section 821(b) of this title][/us/usc/t26/s821/b].
+    Subsec. (a). [Pub. L. 87–834][/us/pl/87/834], § 8(b)(1), defined “taxable investment income” and “investment loss” for purposes of this part, and struck out provisions which defined “mutual insurance company taxable income” for purposes of [section 821 of this title][/us/usc/t26/s821], which provisions are now contained in [section 821(b) of this title][/us/usc/t26/s821/b].
 
-    Subsec. (c). [Pub. L. 87–834, § 8(b)(2)][/us/pl/87/834/s8/b/2], (3), substituted “taxable investment income” for “mutual insurance company taxable income” in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to “taxable income” shall be treated as a reference to “taxable investment income”.
+    Subsec. (c). [Pub. L. 87–834][/us/pl/87/834], § 8(b)(2), (3), substituted “taxable investment income” for “mutual insurance company taxable income” in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to “taxable income” shall be treated as a reference to “taxable investment income”.
 
-    Subsec. (e). [Pub. L. 87–834, § 8(b)(2)][/us/pl/87/834/s8/b/2], substituted “taxable investment income” for “mutual insurance company taxable income”.
+    Subsec. (e). [Pub. L. 87–834][/us/pl/87/834], § 8(b)(2), substituted “taxable investment income” for “mutual insurance company taxable income”.
 
-    Subsec. (f). [Pub. L. 87–834, § 8(b)(4)][/us/pl/87/834/s8/b/4], added subsec. (f). Provisions of subsec. (f) were formerly contained in [section 823 of this title][/us/usc/t26/s823].
+    Subsec. (f). [Pub. L. 87–834][/us/pl/87/834], § 8(b)(4), added subsec. (f). Provisions of subsec. (f) were formerly contained in [section 823 of this title][/us/usc/t26/s823].
 
     1956—Subsec. (b). Act Mar. 13, 1956, § 3(a)(3), principally included royalties, and the income from a trade or business other than the insurance business carried on by the insurance company in “gross investment income”.
 
@@ -192,36 +192,36 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F261
-[/us/act/1956-03-13/ch83/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs3%2Fa%2F3
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F47
-[/us/pl/87/834/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F991
-[/us/pl/88/272/s228/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs228%2Fb%2F2
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F99
-[/us/pl/89/809/s104/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F5
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1562
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1782
-[/us/pl/99/514/s1024/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F3
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2405
-[/us/pl/99/514/s1024/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F3
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs822
-[/us/pl/99/514/s1024/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F7
-[/us/pl/99/514/s1024/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F8
-[/us/pl/94/455/s1901/b/1/P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F1%2FP
-[/us/pl/94/455/s1901/a/105/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F105%2FA
-[/us/pl/94/455/s1901/b/1/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F1%2FQ
-[/us/pl/94/455/s1901/b/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F1%2FR
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/87/834/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb%2F1
-[/us/pl/87/834/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/usc/t26/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs821
 [/us/usc/t26/s821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs821%2Fb
-[/us/pl/87/834/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb%2F2
-[/us/pl/87/834/s8/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb%2F2
-[/us/pl/87/834/s8/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fb%2F4
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/usc/t26/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs823
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1024/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fe

@@ -87,7 +87,7 @@
 
         (4) the relationship of stock to the decedent’s estate shall be measured with reference solely to the amount of the generation-skipping transfer.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 88][/us/stat/68A/88]; [Pub. L. 94–455, title XX][/us/pl/94/455], §§ 2004(e), 2006(b)(4), Oct. 4, 1976, [90 Stat. 1871][/us/stat/90/1871], 1889; [Pub. L. 97–34, title IV, § 422(b)][/us/pl/97/34/s422/b], (e)(1), Aug. 13, 1981, [95 Stat. 314][/us/stat/95/314], 316; [Pub. L. 99–514, title XIV, § 1432(b)][/us/pl/99/514/s1432/b], Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 88][/us/stat/68A/88]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], §§ 2004(e), 2006(b)(4), Oct. 4, 1976, [90 Stat. 1871][/us/stat/90/1871], 1889; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(b), (e)(1), Aug. 13, 1981, [95 Stat. 314][/us/stat/95/314], 316; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1432(b), Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730].)
 
  __Amendments__ 
 
@@ -101,23 +101,23 @@
 
     “(4) the relationship of stock to the decedent’s estate shall be measured with reference solely to the amount of the generation-skipping transfer.”
 
-    1981—Subsec. (b)(1)(C). [Pub. L. 97–34, § 422(e)(1)][/us/pl/97/34/s422/e/1], struck out “or 6166A” after “section 6166” in two places.
+    1981—Subsec. (b)(1)(C). [Pub. L. 97–34][/us/pl/97/34], § 422(e)(1), struck out “or 6166A” after “section 6166” in two places.
 
-    Subsec. (b)(2)(A). [Pub. L. 97–34, § 422(b)(1)][/us/pl/97/34/s422/b/1], substituted “35” for “50” before percent.
+    Subsec. (b)(2)(A). [Pub. L. 97–34][/us/pl/97/34], § 422(b)(1), substituted “35” for “50” before percent.
 
-    Subsec. (b)(2)(B). [Pub. L. 97–34, § 422(b)(2)][/us/pl/97/34/s422/b/2], in heading, substituted “stock in 2” for “stock of two”, in first sentence, struck out “the 50 percent requirement” before “of subparagraph (A)” and substituted “2” for “two” and “20 percent or more in value” for “more than 75 percent in value”, and, in last sentence, substituted “For purposes of the 20-percent requirement” for “For the purpose of the 75 percent requirement” and, in determining value of decedent’s gross estate, treated the estate as including stock which at decedent’s death represented surviving spouse’s interest in property held by the decedent and surviving spouse either as joint tenants, tenants by the entirety, or tenants in common.
+    Subsec. (b)(2)(B). [Pub. L. 97–34][/us/pl/97/34], § 422(b)(2), in heading, substituted “stock in 2” for “stock of two”, in first sentence, struck out “the 50 percent requirement” before “of subparagraph (A)” and substituted “2” for “two” and “20 percent or more in value” for “more than 75 percent in value”, and, in last sentence, substituted “For purposes of the 20-percent requirement” for “For the purpose of the 75 percent requirement” and, in determining value of decedent’s gross estate, treated the estate as including stock which at decedent’s death represented surviving spouse’s interest in property held by the decedent and surviving spouse either as joint tenants, tenants by the entirety, or tenants in common.
 
-    1976—Subsec. (b)(1)(C). [Pub. L. 94–455, § 2004(e)(1)][/us/pl/94/455/s2004/e/1], added subpar. (C).
+    1976—Subsec. (b)(1)(C). [Pub. L. 94–455][/us/pl/94/455], § 2004(e)(1), added subpar. (C).
 
-    Subsec. (b)(2)(A). [Pub. L. 94–455, § 2004(e)(2)(A)][/us/pl/94/455/s2004/e/2/A], substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
+    Subsec. (b)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 2004(e)(2)(A), substituted provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate exceeds 50 percent of the gross estate over deductions allowed under sections 2053 and 2054 for provisions limiting the applicability of subsec. (a) to corporate distributions in which the value of the corporate stock included in decedent’s gross estate is either more than 35 percent of the gross estate or 50 percent of the taxable estate.
 
-    Subsec. (b)(2)(B). [Pub. L. 94–455, § 2004(e)(2)(B)][/us/pl/94/455/s2004/e/2/B], substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
+    Subsec. (b)(2)(B). [Pub. L. 94–455][/us/pl/94/455], § 2004(e)(2)(B), substituted “the 50 percent requirement” for “the 35 percent and 50 percent requirements”.
 
-    Subsec. (b)(3), (4). [Pub. L. 94–455, § 2004(e)(3)][/us/pl/94/455/s2004/e/3], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 94–455][/us/pl/94/455], § 2004(e)(3), added pars. (3) and (4).
 
-    Subsec. (c). [Pub. L. 94–455, § 2004(e)(4)][/us/pl/94/455/s2004/e/4], substituted “limitation specified in subsection (b)” for “limitation specified in subsection (b)(1)”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 2004(e)(4), substituted “limitation specified in subsection (b)” for “limitation specified in subsection (b)(1)”.
 
-    Subsec. (d). [Pub. L. 94–455, § 2006(b)(4)][/us/pl/94/455/s2006/b/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 2006(b)(4), added subsec. (d).
 
  __Effective Date of 1986 Amendment__ 
 
@@ -142,22 +142,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F88
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1871
-[/us/pl/97/34/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fb
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F314
-[/us/pl/99/514/s1432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1432%2Fb
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2730
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/34/s422/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F1
-[/us/pl/97/34/s422/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fb%2F1
-[/us/pl/97/34/s422/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fb%2F2
-[/us/pl/94/455/s2004/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fe%2F1
-[/us/pl/94/455/s2004/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fe%2F2%2FA
-[/us/pl/94/455/s2004/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fe%2F2%2FB
-[/us/pl/94/455/s2004/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fe%2F3
-[/us/pl/94/455/s2004/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fe%2F4
-[/us/pl/94/455/s2006/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fb%2F4
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433

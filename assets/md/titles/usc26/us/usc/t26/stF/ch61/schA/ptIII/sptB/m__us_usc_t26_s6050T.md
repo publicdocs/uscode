@@ -47,11 +47,11 @@
 
         The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
 
-(Added [Pub. L. 107–210, div. A, title II, § 202(c)(1)][/us/pl/107/210/s202/c/1], Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962].)
+(Added [Pub. L. 107–210, div. A, title II][/us/pl/107/210/dA/tII], § 202(c)(1), Aug. 6, 2002, [116 Stat. 962][/us/stat/116/962].)
 
  __Effective Date__ 
 
-[Pub. L. 107–210, div. A, title II, § 202(e)][/us/pl/107/210/s202/e], Aug. 6, 2002, [116 Stat. 963][/us/stat/116/963], provided that: 
+[Pub. L. 107–210, div. A, title II][/us/pl/107/210/dA/tII], § 202(e), Aug. 6, 2002, [116 Stat. 963][/us/stat/116/963], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 7527 of this title][/us/usc/t26/s7527] and amending sections 6103, 6724, and 7213A of this title\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\].”
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/107/210/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs202%2Fc%2F1
+[/us/pl/107/210/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtII
 [/us/stat/116/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F962
-[/us/pl/107/210/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs202%2Fe
+[/us/pl/107/210/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtII
 [/us/stat/116/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F963
 [/us/usc/t26/s7527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7527
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210

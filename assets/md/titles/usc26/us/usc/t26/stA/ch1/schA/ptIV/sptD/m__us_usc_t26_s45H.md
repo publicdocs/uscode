@@ -123,25 +123,25 @@
 
         No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
 
-(Added [Pub. L. 108–357, title III, § 339(a)][/us/pl/108/357/s339/a], Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; amended [Pub. L. 110–172, § 7(a)(1)(A)][/us/pl/110/172/s7/a/1/A], (2)(A), (3)(A), (B), Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481], 2482.)
+(Added [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 339(a), Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; amended [Pub. L. 110–172][/us/pl/110/172], § 7(a)(1)(A), (2)(A), (3)(A), (B), Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481], 2482.)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1)(A). [Pub. L. 110–172, § 7(a)(3)(A)][/us/pl/110/172/s7/a/3/A], substituted “qualified costs” for “qualified capital costs”.
+    2007—Subsec. (b)(1)(A). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
 
-    Subsec. (c)(2). [Pub. L. 110–172, § 7(a)(3)(B)][/us/pl/110/172/s7/a/3/B], struck out “capital” before “costs” in heading.
+    Subsec. (c)(2). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(3)(B), struck out “capital” before “costs” in heading.
 
-    [Pub. L. 110–172, § 7(a)(3)(A)][/us/pl/110/172/s7/a/3/A], substituted “qualified costs” for “qualified capital costs”.
+    [Pub. L. 110–172][/us/pl/110/172], § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
 
-    Subsec. (d). [Pub. L. 110–172, § 7(a)(1)(A)][/us/pl/110/172/s7/a/1/A], redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.”
+    Subsec. (d). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(1)(A), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.”
 
-    Subsec. (e). [Pub. L. 110–172, § 7(a)(1)(A)][/us/pl/110/172/s7/a/1/A], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(1)(A), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(1), (2). [Pub. L. 110–172, § 7(a)(3)(A)][/us/pl/110/172/s7/a/3/A], substituted “qualified costs” for “qualified capital costs”.
+    Subsec. (e)(1), (2). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
 
-    Subsec. (f). [Pub. L. 110–172, § 7(a)(1)(A)][/us/pl/110/172/s7/a/1/A], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 110–172, § 7(a)(2)(A)][/us/pl/110/172/s7/a/2/A], added subsec. (g). Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 110–172][/us/pl/110/172], § 7(a)(2)(A), added subsec. (g). Former subsec. (g) redesignated (f).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -158,18 +158,18 @@
 ----------
 ----------
 
-[/us/pl/108/357/s339/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs339%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1481
-[/us/pl/110/172/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F1%2FA
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2481
-[/us/pl/110/172/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F3%2FA
-[/us/pl/110/172/s7/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F3%2FB
-[/us/pl/110/172/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F3%2FA
-[/us/pl/110/172/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F1%2FA
-[/us/pl/110/172/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F1%2FA
-[/us/pl/110/172/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F3%2FA
-[/us/pl/110/172/s7/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F1%2FA
-[/us/pl/110/172/s7/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F2%2FA
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/110/172/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fe

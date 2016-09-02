@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t26/stF/ch75/schB/m__us_usc_t26_s7263.md) | [Next](./../../../../../..//us/usc/t26/stF/ch75/schB/m__us_usc_t26_s7265.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7264)
 
-## \[§ 7264. Repealed. [Pub. L. 94–455, title XIX, § 1904(b)(9)(C)(i)][/us/pl/94/455/s1904/b/9/C/i], Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816]\]
+## \[§ 7264. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(9)(C)(i), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 863][/us/stat/68A/863], provided the penalty for offenses relating to renovated or adulterated butter.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1904/b/9/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F9%2FC%2Fi
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1816
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F863

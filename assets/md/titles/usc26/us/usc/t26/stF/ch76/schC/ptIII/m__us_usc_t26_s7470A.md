@@ -23,7 +23,7 @@
 
         The Tax Court may impose a reasonable registration fee on persons (other than judges and special trial judges of the Tax Court) participating at judicial conferences convened pursuant to subsection (a). Amounts so received by the Tax Court shall be available to the Tax Court to defray the expenses of such conferences.
 
-(Added [Pub. L. 114–113, div. Q, title IV, § 432(a)][/us/pl/114/113/s432/a], Dec. 18, 2015, [129 Stat. 3126][/us/stat/129/3126].)
+(Added [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 432(a), Dec. 18, 2015, [129 Stat. 3126][/us/stat/129/3126].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/114/113/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs432%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3126
 
 

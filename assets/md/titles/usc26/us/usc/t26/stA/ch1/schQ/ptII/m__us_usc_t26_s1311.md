@@ -45,13 +45,13 @@
 
             In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 337][/us/stat/68A/337]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 337][/us/stat/68A/337]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788], 1834.)
 
  __Amendments__ 
 
     1976—Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(142), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and “of the United States” after “Tax Court” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 94–455, § 1901(a)(142)][/us/pl/94/455/s1901/a/142], struck out “of the United States” after “Tax Court”.
+    Subsec. (b)(3). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(142), struck out “of the United States” after “Tax Court”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -66,10 +66,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F337
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1788
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1901/a/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F142
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/a/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F142
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2

@@ -27,11 +27,11 @@
 
         For purposes of this section, the term “foreign tax redetermination” means any redetermination for which a notice is required under subsection (c) of section 905 or paragraph (2) of section 404A(g).
 
-(Added [Pub. L. 96–603, § 2(c)(2)][/us/pl/96/603/s2/c/2], Dec. 28, 1980, [94 Stat. 3509][/us/stat/94/3509].)
+(Added [Pub. L. 96–603][/us/pl/96/603], § 2(c)(2), Dec. 28, 1980, [94 Stat. 3509][/us/stat/94/3509].)
 
  __Prior Provisions__ 
 
-    A prior section 6689, added [Pub. L. 93–17, § 3(d)(2)][/us/pl/93/17/s3/d/2], Apr. 10, 1973, [87 Stat. 16][/us/stat/87/16], related to failure by certain foreign issuers and obligors to comply with United States investment equalization tax requirements, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(b)(10)(E)(i)][/us/pl/94/455/s1904/b/10/E/i], Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817].
+    A prior section 6689, added [Pub. L. 93–17][/us/pl/93/17], § 3(d)(2), Apr. 10, 1973, [87 Stat. 16][/us/stat/87/16], related to failure by certain foreign issuers and obligors to comply with United States investment equalization tax requirements, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(10)(E)(i), Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817].
 
  __Effective Date__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/96/603/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fc%2F2
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3509
-[/us/pl/93/17/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17%2Fs3%2Fd%2F2
+[/us/pl/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17
 [/us/stat/87/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F16
-[/us/pl/94/455/s1904/b/10/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F10%2FE%2Fi
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1817
 [/us/pl/96/603/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fe
 [/us/usc/t26/s404A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404A

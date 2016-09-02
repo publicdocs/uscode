@@ -323,11 +323,11 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
-(Added [Pub. L. 98–369, div. A, title V, § 511(a)][/us/pl/98/369/s511/a], July 18, 1984, [98 Stat. 856][/us/stat/98/856]; amended [Pub. L. 99–514, title XVIII, § 1851(a)(2)][/us/pl/99/514/s1851/a/2], (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, [100 Stat. 2858–2860][/us/stat/100/2858-2860], 2862; [Pub. L. 100–647, title I, § 1018(t)(1)(C)][/us/pl/100/647/s1018/t/1/C], (2)(A), (u)(12), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], 3590; [Pub. L. 104–188, title I, § 1704(t)(60)][/us/pl/104/188/s1704/t/60], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 109–280, title VIII, § 843(a)][/us/pl/109/280/s843/a], Aug. 17, 2006, [120 Stat. 1010][/us/stat/120/1010].)
+(Added [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 511(a), July 18, 1984, [98 Stat. 856][/us/stat/98/856]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, [100 Stat. 2858–2860][/us/stat/100/2858-2860], 2862; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], 3590; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(60), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 843(a), Aug. 17, 2006, [120 Stat. 1010][/us/stat/120/1010].)
 
  __References in Text__ 
 
-    Section 501(c)(20), referred to in subsec. (g)(1), (2), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
+    Section 501(c)(20), referred to in subsec. (g)(1), (2), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(19)(B)(iii), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 
@@ -335,43 +335,43 @@
 
     1996—Subsec. (c)(3). [Pub. L. 104–188][/us/pl/104/188] substituted “severance” for “severence” in heading.
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 1018(u)(12)][/us/pl/100/647/s1018/u/12], made technical amendment to directory language of [Pub. L. 99–514, § 1851(a)(6)(B)][/us/pl/99/514/s1851/a/6/B]. See 1986 Amendment note below.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(12), made technical amendment to directory language of [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(6)(B). See 1986 Amendment note below.
 
-    Subsec. (f)(5). [Pub. L. 100–647, § 1018(t)(2)(A)][/us/pl/100/647/s1018/t/2/A], repealed [Pub. L. 99–514, § 1851(a)(4)][/us/pl/99/514/s1851/a/4]. See 1986 Amendment note below.
+    Subsec. (f)(5). [Pub. L. 100–647][/us/pl/100/647], § 1018(t)(2)(A), repealed [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(4). See 1986 Amendment note below.
 
-    [Pub. L. 100–647, § 1018(t)(1)(C)][/us/pl/100/647/s1018/t/1/C], substituted “account” for “accounts”.
+    [Pub. L. 100–647][/us/pl/100/647], § 1018(t)(1)(C), substituted “account” for “accounts”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1851(a)(6)(B)][/us/pl/99/514/s1851/a/6/B], as amended by [Pub. L. 100–647, § 1018(u)(12)][/us/pl/100/647/s1018/u/12], inserted “and section 512” after “this subpart”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(6)(B), as amended by [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(12), inserted “and section 512” after “this subpart”.
 
-    Subsec. (c)(5)(A). [Pub. L. 99–514, § 1851(a)(5)][/us/pl/99/514/s1851/a/5], substituted “under this subsection” for “under paragraph (1)”.
+    Subsec. (c)(5)(A). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(5), substituted “under this subsection” for “under paragraph (1)”.
 
-    Subsec. (d)(1). [Pub. L. 99–514, § 1851(a)(2)(B)][/us/pl/99/514/s1851/a/2/B], inserted “The requirements of this paragraph shall apply to the first taxable year for which a reserve is taken into account under subsection (c)(2) and to all subsequent taxable years.”
+    Subsec. (d)(1). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(2)(B), inserted “The requirements of this paragraph shall apply to the first taxable year for which a reserve is taken into account under subsection (c)(2) and to all subsequent taxable years.”
 
-    Subsec. (d)(2). [Pub. L. 99–514, § 1851(a)(2)(A)][/us/pl/99/514/s1851/a/2/A], inserted “Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.”
+    Subsec. (d)(2). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(2)(A), inserted “Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.”
 
-    Subsec. (e). [Pub. L. 99–514, § 1851(a)(3)(A)][/us/pl/99/514/s1851/a/3/A], amended subsec. (e) generally. Prior to amendment, par. (1), benefits must be nondiscriminatory, read as follows: “No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b)(1) with respect to such benefits.”, and par. (2), taxable life insurance benefits not taken into account, read as follows: “No life insurance benefit may be taken into account under subsection (c)(2) to the extent—
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(3)(A), amended subsec. (e) generally. Prior to amendment, par. (1), benefits must be nondiscriminatory, read as follows: “No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b)(1) with respect to such benefits.”, and par. (2), taxable life insurance benefits not taken into account, read as follows: “No life insurance benefit may be taken into account under subsection (c)(2) to the extent—
 
     “(A) such benefit is includible in gross income under section 79, or
 
     “(B) such benefit would be includible in gross income under section 101(b) (determined by substituting ‘$50,000’ for ‘$5,000’).”
 
-    Subsec. (f)(5). [Pub. L. 99–514, § 1851(a)(13)][/us/pl/99/514/s1851/a/13], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Higher limit in case of collectively bargained plans.—Not later than July 1, 1985, the Secretary shall by regulations provide for special account limits in the case of any qualified asset account under a welfare benefit fund established under a collective bargaining agreement.”
+    Subsec. (f)(5). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(13), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Higher limit in case of collectively bargained plans.—Not later than July 1, 1985, the Secretary shall by regulations provide for special account limits in the case of any qualified asset account under a welfare benefit fund established under a collective bargaining agreement.”
 
-    [Pub. L. 99–514, § 1851(a)(4)][/us/pl/99/514/s1851/a/4], which directed amendment of par. (5) by substituting “welfare benefit fund maintained pursuant to” for “welfare benefit fund established under”, was repealed by [Pub. L. 100–647, § 1018(t)(2)(A)][/us/pl/100/647/s1018/t/2/A].
+    [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(4), which directed amendment of par. (5) by substituting “welfare benefit fund maintained pursuant to” for “welfare benefit fund established under”, was repealed by [Pub. L. 100–647][/us/pl/100/647], § 1018(t)(2)(A).
 
-    Subsec. (f)(7)(C), (D). [Pub. L. 99–514, § 1851(a)(7)][/us/pl/99/514/s1851/a/7], added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
+    Subsec. (f)(7)(C), (D). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
 
     “(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
     “(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
 
-    Subsec. (g)(3). [Pub. L. 99–514, § 1851(a)(9)][/us/pl/99/514/s1851/a/9], added par. (3).
+    Subsec. (g)(3). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(9), added par. (3).
 
-    Subsec. (h)(1). [Pub. L. 99–514, § 1851(a)(6)(A)][/us/pl/99/514/s1851/a/6/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund.”
+    Subsec. (h)(1). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title VIII, § 843(b)][/us/pl/109/280/s843/b], Aug. 17, 2006, [120 Stat. 1010][/us/stat/120/1010], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 843(b), Aug. 17, 2006, [120 Stat. 1010][/us/stat/120/1010], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -381,7 +381,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -389,7 +389,7 @@
 
  __Application of Section 419A(e) to Group-Term Life Insurance__ 
 
-[Pub. L. 99–514, title XVIII, § 1851(a)(3)(B)][/us/pl/99/514/s1851/a/3/B], Oct. 22, 1986, [100 Stat. 2859][/us/stat/100/2859], as amended by [Pub. L. 100–647, title I, § 1018(t)(2)(D)][/us/pl/100/647/s1018/t/2/D], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(3)(B), Oct. 22, 1986, [100 Stat. 2859][/us/stat/100/2859], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(t)(2)(D), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], provided that: 
 
 > “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[[section 223(a) of Pub. L. 98–369][/us/pl/98/369/s223/a], amending [section 79 of this title][/us/usc/t26/s79]\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under [section 79 of this title][/us/usc/t26/s79]\].”
 
@@ -401,53 +401,53 @@
 ----------
 
 [/us/usc/t42/s300gg–91/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391%2Fd%2F3
-[/us/pl/98/369/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fa
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F856
-[/us/pl/99/514/s1851/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2858-2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2858-2860
-[/us/pl/100/647/s1018/t/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F1%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
-[/us/pl/104/188/s1704/t/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F60
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
-[/us/pl/109/280/s843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs843%2Fa
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1010
-[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/100/647/s1018/u/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F12
-[/us/pl/99/514/s1851/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F6%2FB
-[/us/pl/100/647/s1018/t/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F2%2FA
-[/us/pl/99/514/s1851/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F4
-[/us/pl/100/647/s1018/t/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F1%2FC
-[/us/pl/99/514/s1851/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F6%2FB
-[/us/pl/100/647/s1018/u/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F12
-[/us/pl/99/514/s1851/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F5
-[/us/pl/99/514/s1851/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F2%2FB
-[/us/pl/99/514/s1851/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F2%2FA
-[/us/pl/99/514/s1851/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F3%2FA
-[/us/pl/99/514/s1851/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F13
-[/us/pl/99/514/s1851/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F4
-[/us/pl/100/647/s1018/t/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F2%2FA
-[/us/pl/99/514/s1851/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F7
-[/us/pl/99/514/s1851/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F9
-[/us/pl/99/514/s1851/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F6%2FA
-[/us/pl/109/280/s843/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs843%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1010
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1851/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F3%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2859
-[/us/pl/100/647/s1018/t/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F2%2FD
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
 [/us/pl/98/369/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs223%2Fa
 [/us/usc/t26/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs79

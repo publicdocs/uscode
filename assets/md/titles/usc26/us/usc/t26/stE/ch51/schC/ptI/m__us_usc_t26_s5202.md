@@ -17,7 +17,7 @@
 
     All operations on the premises of a distilled spirits plant shall be conducted under such supervision and controls (including the use of Government locks and seals) as the Secretary shall by regulations prescribe.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1357][/us/stat/72/1357]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 806(a)][/us/pl/96/39/s806/a], July 26, 1979, [93 Stat. 279][/us/stat/93/279].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1357][/us/stat/72/1357]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 806(a), July 26, 1979, [93 Stat. 279][/us/stat/93/279].)
 
  __Prior Provisions__ 
 
@@ -160,11 +160,11 @@ Provisions similar to those comprising this section were contained in prior sect
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1357
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs806%2Fa
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F279
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736

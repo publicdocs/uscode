@@ -21,7 +21,7 @@
 
     (2) the biodiesel fuels credit determined with respect to the taxpayer for the taxable year under section 40A(a).
 
-(Added [Pub. L. 96–223, title II, § 232(c)(1)][/us/pl/96/223/s232/c/1], Apr. 2, 1980, [94 Stat. 276][/us/stat/94/276], § 86; renumbered § 87, [Pub. L. 98–21, title I, § 121(a)][/us/pl/98/21/s121/a], Apr. 20, 1983, [97 Stat. 80][/us/stat/97/80]; amended [Pub. L. 98–369, div. A, title IV, § 474(r)(3)][/us/pl/98/369/s474/r/3], July 18, 1984, [98 Stat. 839][/us/stat/98/839]; [Pub. L. 108–357, title III, § 302(c)(1)(A)][/us/pl/108/357/s302/c/1/A], Oct. 22, 2004, [118 Stat. 1465][/us/stat/118/1465].)
+(Added [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(c)(1), Apr. 2, 1980, [94 Stat. 276][/us/stat/94/276], § 86; renumbered § 87, [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 121(a), Apr. 20, 1983, [97 Stat. 80][/us/stat/97/80]; amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(3), July 18, 1984, [98 Stat. 839][/us/stat/98/839]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 302(c)(1)(A), Oct. 22, 2004, [118 Stat. 1465][/us/stat/118/1465].)
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/96/223/s232/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fc%2F1
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F276
-[/us/pl/98/21/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs121%2Fa
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F80
-[/us/pl/98/369/s474/r/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F3
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F839
-[/us/pl/108/357/s302/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs302%2Fc%2F1%2FA
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1465
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

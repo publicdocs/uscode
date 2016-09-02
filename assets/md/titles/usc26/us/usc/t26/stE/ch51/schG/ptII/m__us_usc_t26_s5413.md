@@ -17,7 +17,7 @@
 
     A brewer, under such regulations as the Secretary shall prescribe, may obtain beer in his own hogsheads, barrels, and kegs, marked with his name and address, from another brewer, with taxpayment thereof to be by the producer in the manner prescribed by section 5054.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1389][/us/stat/72/1389]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1389][/us/stat/72/1389]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1389
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F675

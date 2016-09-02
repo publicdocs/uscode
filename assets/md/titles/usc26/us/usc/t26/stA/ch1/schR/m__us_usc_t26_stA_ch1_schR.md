@@ -91,7 +91,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter R, consisting of section 1361, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by [Pub. L. 89–389, § 4(b)(1)][/us/pl/89/389/s4/b/1], Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116], effective Jan. 1, 1969.
+    A prior subchapter R, consisting of section 1361, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by [Pub. L. 89–389][/us/pl/89/389], § 4(b)(1), Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116], effective Jan. 1, 1969.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/89/389/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389%2Fs4%2Fb%2F1
+[/us/pl/89/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389
 [/us/stat/80/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F116
 
 

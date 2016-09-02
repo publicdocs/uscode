@@ -35,11 +35,11 @@
 
         For purposes of this subsection, the price for which the article was sold shall be determined as provided in section 4216. For purposes of paragraph (2) no adjustment or readjustment shall be made in such price by reason of any discount, rebate, allowance, return or repossession of a container or covering, or otherwise. An election under paragraph (2) shall be made in the return reporting the tax applicable to the sale or use of the article, and may not be revoked.
 
-(Added [Pub. L. 85–859, title I, § 119(a)][/us/pl/85/859/s119/a], Sept. 2, 1958, [72 Stat. 1285][/us/stat/72/1285]; amended [Pub. L. 86–418, § 2(b)][/us/pl/86/418/s2/b], Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VII, § 735(c)(10)][/us/pl/98/369/s735/c/10], July 18, 1984, [98 Stat. 983][/us/stat/98/983].)
+(Added [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 119(a), Sept. 2, 1958, [72 Stat. 1285][/us/stat/72/1285]; amended [Pub. L. 86–418][/us/pl/86/418], § 2(b), Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(10), July 18, 1984, [98 Stat. 983][/us/stat/98/983].)
 
  __Prior Provisions__ 
 
-    A prior section 4223, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 495][/us/stat/68A/495], related to exemption of articles manufactured or produced by Indians, prior to repeal by [Pub. L. 85–859, § 119(a)][/us/pl/85/859/s119/a]. See [section 4225 of this title][/us/usc/t26/s4225].
+    A prior section 4223, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 495][/us/stat/68A/495], related to exemption of articles manufactured or produced by Indians, prior to repeal by [Pub. L. 85–859][/us/pl/85/859], § 119(a). See [section 4225 of this title][/us/usc/t26/s4225].
 
  __Amendments__ 
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/85/859/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs119%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1285
-[/us/pl/86/418/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418%2Fs2%2Fb
+[/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
 [/us/stat/74/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F38
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s735/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F10
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F983
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F495
-[/us/pl/85/859/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs119%2Fa
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/usc/t26/s4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4225
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

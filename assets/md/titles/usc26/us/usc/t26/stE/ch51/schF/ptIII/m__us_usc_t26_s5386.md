@@ -23,7 +23,7 @@
 
         Special natural wines may be cellar treated under the provisions of section 5382(a) and (c).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1386][/us/stat/72/1386]; amended [Pub. L. 90–619, § 5][/us/pl/90/619/s5], Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1386][/us/stat/72/1386]; amended [Pub. L. 90–619][/us/pl/90/619], § 5, Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1386
-[/us/pl/90/619/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs5
+[/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/stat/82/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1237
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F671

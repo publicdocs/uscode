@@ -37,13 +37,13 @@
 
         This section shall not apply to any tax imposed by chapter 21 or chapter 23.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 897][/us/stat/68A/897]; [Pub. L. 94–455, title XIX, § 1906(a)(50)][/us/pl/94/455/s1906/a/50], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 897][/us/stat/68A/897]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(50), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 94–455, § 1906(a)(50)][/us/pl/94/455/s1906/a/50], struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(50), struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -58,10 +58,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F897
-[/us/pl/94/455/s1906/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F50
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1831
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F50
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fd%2F1
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013

@@ -27,7 +27,7 @@
 
         The election under subsection (a) for any taxable year shall be made within the time prescribed by law (including extensions thereof) for filing the return for such taxable year. Such election shall be made in such manner as the Secretary may by regulations prescribe. Such election may not be revoked except with the consent of the Secretary.
 
-(Added [Pub. L. 86–779, § 6(a)][/us/pl/86/779/s6/a], Sept. 14, 1960, [74 Stat. 1001][/us/stat/74/1001]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 86–779][/us/pl/86/779], § 6(a), Sept. 14, 1960, [74 Stat. 1001][/us/stat/74/1001]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 86–779, § 6(d)][/us/pl/86/779/s6/d], Sept. 14, 1960, [74 Stat. 1001][/us/stat/74/1001], provided that: 
+[Pub. L. 86–779][/us/pl/86/779], § 6(d), Sept. 14, 1960, [74 Stat. 1001][/us/stat/74/1001], provided that: 
 
 > “The amendments made by subsections (a), (b), and (c) \[enacting this section and amending [section 263 of this title][/us/usc/t26/s263]\] shall apply to taxable years beginning after December 31, 1959.”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/86/779/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs6%2Fa
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1001
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/86/779/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs6%2Fd
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1001
 [/us/usc/t26/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs263
 

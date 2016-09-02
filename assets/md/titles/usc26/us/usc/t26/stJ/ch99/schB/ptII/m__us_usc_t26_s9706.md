@@ -159,7 +159,7 @@
 
             (C) For the fiscal year beginning on October 1, 2009, 15 percent.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3047][/us/stat/106/3047]; amended [Pub. L. 103–296, title I, § 108(h)(9)(B)][/us/pl/103/296/s108/h/9/B], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 109–432, div. C, title II, § 212(a)(3)][/us/pl/109/432/s212/a/3], Dec. 20, 2006, [120 Stat. 3025][/us/stat/120/3025].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3047][/us/stat/106/3047]; amended [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(h)(9)(B), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 212(a)(3), Dec. 20, 2006, [120 Stat. 3025][/us/stat/120/3025].)
 
  __Constitutionality__ 
 
@@ -186,11 +186,11 @@ For information regarding constitutionality of certain provisions of this sectio
 ----------
 ----------
 
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3047
-[/us/pl/103/296/s108/h/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fh%2F9%2FB
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1487
-[/us/pl/109/432/s212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F3
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3025
 [/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432

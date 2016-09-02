@@ -83,7 +83,7 @@
 
             (B) the issuer of such bond makes an irrevocable election to have this subsection apply.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1531(b)][/us/pl/111/5/s1531/b], Feb. 17, 2009, [123 Stat. 359][/us/stat/123/359]; amended [Pub. L. 111–147, title III, § 301(a)][/us/pl/111/147/s301/a], Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–312, title VII, § 758(b)][/us/pl/111/312/s758/b], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323]; [Pub. L. 113–295, div. A, title II, § 202(d)][/us/pl/113/295/s202/d], Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1531(b), Feb. 17, 2009, [123 Stat. 359][/us/stat/123/359]; amended [Pub. L. 111–147, title III][/us/pl/111/147/tIII], § 301(a), Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 758(b), Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 202(d), Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024].)
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 
     Amendment by [Pub. L. 111–312][/us/pl/111/312] applicable to obligations issued after Dec. 31, 2010, see [section 758(c) of Pub. L. 111–312][/us/pl/111/312/s758/c], set out as a note under [section 54E of this title][/us/usc/t26/s54E].
 
-[Pub. L. 111–147, title III, § 301(c)(1)][/us/pl/111/147/s301/c/1], Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
+[Pub. L. 111–147, title III][/us/pl/111/147/tIII], § 301(c)(1), Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
@@ -116,13 +116,13 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F359
-[/us/pl/111/147/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fa
+[/us/pl/111/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIII
 [/us/stat/124/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F77
-[/us/pl/111/312/s758/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3323
-[/us/pl/113/295/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fd
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
@@ -134,7 +134,7 @@
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s758/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fc
 [/us/usc/t26/s54E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54E
-[/us/pl/111/147/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fc%2F1
+[/us/pl/111/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIII
 [/us/stat/124/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F78
 [/us/pl/111/5/s1531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fe
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54

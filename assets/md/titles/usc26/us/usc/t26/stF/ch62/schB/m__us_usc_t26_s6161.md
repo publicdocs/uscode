@@ -63,7 +63,7 @@
 
             For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 762][/us/stat/68A/762]; [Pub. L. 85–866, title II, § 206(c)][/us/pl/85/866/s206/c], Sept. 2, 1958, [72 Stat. 1684][/us/stat/72/1684]; [Pub. L. 91–172, title I, § 101(j)(37)][/us/pl/91/172/s101/j/37], Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530]; [Pub. L. 91–614, title I, § 101(h)][/us/pl/91/614/s101/h], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 93–406, title II, § 1016(a)(7)][/us/pl/93/406/s1016/a/7], Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(C)][/us/pl/94/455/s1307/d/2/C], title XVI, § 1605(b)(3), title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(1), (2), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1754, 1834, 1867, 1868; [Pub. L. 96–223, title I, § 101(f)(1)(H)][/us/pl/96/223/s101/f/1/H], Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–589, § 6(i)(8)][/us/pl/96/589/s6/i/8], Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410]; [Pub. L. 97–34, title IV, § 422(e)(1)][/us/pl/97/34/s422/e/1], Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316]; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(viii)][/us/pl/100/418/s1941/b/2/B/viii], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 107–134, title I, § 112(d)(3)][/us/pl/107/134/s112/d/3], Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 762][/us/stat/68A/762]; [Pub. L. 85–866, title II][/us/pl/85/866/tII], § 206(c), Sept. 2, 1958, [72 Stat. 1684][/us/stat/72/1684]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(37), Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(h), Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(a)(7), Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(d)(2)(C), title XVI, § 1605(b)(3), title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(1), (2), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1754, 1834, 1867, 1868; [Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(f)(1)(H), Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–589][/us/pl/96/589], § 6(i)(8), Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(1), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(2)(B)(viii), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 112(d)(3), Jan. 23, 2002, [115 Stat. 2435][/us/stat/115/2435].)
 
  __Amendments__ 
 
@@ -77,13 +77,13 @@
 
     Subsec. (c). [Pub. L. 96–589][/us/pl/96/589] substituted “Claims in cases under title 11 of the United States Code or in receivership proceedings” for “Claims in bankruptcy or receivership proceedings” in heading, and substituted reference to cases under title 11 of the United States Code, for reference to bankruptcy proceedings in text.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(1). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (a)(2). [Pub. L. 94–455, § 2004(c)(1)][/us/pl/94/455/s2004/c/1], struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
+    Subsec. (a)(2). [Pub. L. 94–455][/us/pl/94/455], § 2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
 
-    Subsec. (d)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1974—Subsec. (b). [Pub. L. 93–406][/us/pl/93/406] inserted references to chapter 43.
 
@@ -109,7 +109,7 @@
 
     Amendment by [Pub. L. 96–589][/us/pl/96/589] effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see [section 7(e) of Pub. L. 96–589][/us/pl/96/589/s7/e], set out as a note under [section 108 of this title][/us/usc/t26/s108].
 
-[Pub. L. 96–223, title I, § 101(i)][/us/pl/96/223/s101/i], Apr. 2, 1980, [94 Stat. 254][/us/stat/94/254], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(i), Apr. 2, 1980, [94 Stat. 254][/us/stat/94/254], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -141,7 +141,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title II, § 206(f)][/us/pl/85/866/s206/f], Sept. 2, 1958, [72 Stat. 1685][/us/stat/72/1685], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 85–866, title II][/us/pl/85/866/tII], § 206(f), Sept. 2, 1958, [72 Stat. 1685][/us/stat/72/1685], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting [section 6166 of this title][/us/usc/t26/s6166] and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
 
@@ -154,35 +154,35 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F762
-[/us/pl/85/866/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs206%2Fc
+[/us/pl/85/866/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtII
 [/us/stat/72/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1684
-[/us/pl/91/172/s101/j/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F37
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F530
-[/us/pl/91/614/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fh
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1838
-[/us/pl/93/406/s1016/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F7
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F929
-[/us/pl/94/455/s1307/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F2%2FC
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1727
-[/us/pl/96/223/s101/f/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Ff%2F1%2FH
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F252
-[/us/pl/96/589/s6/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fi%2F8
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3410
-[/us/pl/97/34/s422/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
-[/us/pl/100/418/s1941/b/2/B/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FB%2Fviii
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1323
-[/us/pl/107/134/s112/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs112%2Fd%2F3
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2435
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s2004/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fc%2F1
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
@@ -199,9 +199,9 @@
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs7%2Fe
 [/us/usc/t26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs108
-[/us/pl/96/223/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Fi
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F254
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/455/s1307/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F2%2FC
 [/us/pl/94/455/s1307/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fe%2F6
@@ -223,9 +223,9 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s101/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fk%2F1
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940
-[/us/pl/85/866/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs206%2Ff
+[/us/pl/85/866/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtII
 [/us/stat/72/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1685
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6166
 

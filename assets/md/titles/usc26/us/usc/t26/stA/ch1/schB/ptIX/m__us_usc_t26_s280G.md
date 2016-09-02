@@ -215,11 +215,11 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section (including regulations for the application of this section in the case of related corporations and in the case of personal service corporations).
 
-(Added [Pub. L. 98–369, div. A, title I, § 67(a)][/us/pl/98/369/s67/a], July 18, 1984, [98 Stat. 585][/us/stat/98/585]; amended [Pub. L. 99–121, title I, § 102(c)(4)][/us/pl/99/121/s102/c/4], Oct. 11, 1985, [99 Stat. 508][/us/stat/99/508]; [Pub. L. 99–514, title XVIII, § 1804(j)][/us/pl/99/514/s1804/j], Oct. 22, 1986, [100 Stat. 2807][/us/stat/100/2807]; [Pub. L. 100–647, title I, § 1018(d)(6)][/us/pl/100/647/s1018/d/6]–(8), Nov. 10, 1988, [102 Stat. 3581][/us/stat/102/3581]; [Pub. L. 104–188, title I, § 1421(b)(9)(A)][/us/pl/104/188/s1421/b/9/A], Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798]; [Pub. L. 110–343, div. A, title III, § 302(b)][/us/pl/110/343/s302/b], Oct. 3, 2008, [122 Stat. 3805][/us/stat/122/3805].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 67(a), July 18, 1984, [98 Stat. 585][/us/stat/98/585]; amended [Pub. L. 99–121, title I][/us/pl/99/121/tI], § 102(c)(4), Oct. 11, 1985, [99 Stat. 508][/us/stat/99/508]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(j), Oct. 22, 1986, [100 Stat. 2807][/us/stat/100/2807]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(d)(6)–(8), Nov. 10, 1988, [102 Stat. 3581][/us/stat/102/3581]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1421(b)(9)(A), Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798]; [Pub. L. 110–343, div. A, title III][/us/pl/110/343/dA/tIII], § 302(b), Oct. 3, 2008, [122 Stat. 3805][/us/stat/122/3805].)
 
  __References in Text__ 
 
-    The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1), (2)(C)(ii)(I), is [Pub. L. 110–343, div. A][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765]. Section 101(a) of the Act enacted [section 5211(a) of Title 12][/us/usc/t12/s5211/a], Banks and Banking, and amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 31][/us/usc/t31/s301], Money and Finance. Section 120 of the Act is classified to [section 5230 of Title 12][/us/usc/t12/s5230]. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
+    The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1), (2)(C)(ii)(I), is [Pub. L. 110–343, div. A][/us/pl/110/343/dA], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765]. Section 101(a) of the Act enacted [section 5211(a) of Title 12][/us/usc/t12/s5211/a], Banks and Banking, and amended [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 31][/us/usc/t31/s301], Money and Finance. Section 120 of the Act is classified to [section 5230 of Title 12][/us/usc/t12/s5230]. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
 
  __Amendments__ 
 
@@ -227,31 +227,31 @@
 
     1996—Subsec. (b)(6)(D). [Pub. L. 104–188][/us/pl/104/188] added subpar. (D).
 
-    1988—Subsec. (b)(5)(A). [Pub. L. 100–647, § 1018(d)(6)][/us/pl/100/647/s1018/d/6], substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder’s redemption and liquidation rights.”
+    1988—Subsec. (b)(5)(A). [Pub. L. 100–647][/us/pl/100/647], § 1018(d)(6), substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder’s redemption and liquidation rights.”
 
-    Subsec. (b)(5)(B). [Pub. L. 100–647, § 1018(d)(7)][/us/pl/100/647/s1018/d/7], inserted at end “The regulations prescribed under subsection (e) shall include regulations providing for the application of this subparagraph in the case of shareholders which are not individuals (including the treatment of nonvoting interests in an entity which is a shareholder) and where an entity holds a de minimis amount of stock in the corporation.”
+    Subsec. (b)(5)(B). [Pub. L. 100–647][/us/pl/100/647], § 1018(d)(7), inserted at end “The regulations prescribed under subsection (e) shall include regulations providing for the application of this subparagraph in the case of shareholders which are not individuals (including the treatment of nonvoting interests in an entity which is a shareholder) and where an entity holds a de minimis amount of stock in the corporation.”
 
-    Subsec. (d)(5). [Pub. L. 100–647, § 1018(d)(8)][/us/pl/100/647/s1018/d/8], substituted “officer of any member” for “officer or any member”.
+    Subsec. (d)(5). [Pub. L. 100–647][/us/pl/100/647], § 1018(d)(8), substituted “officer of any member” for “officer or any member”.
 
-    1986—Subsec. (b)(2)(A). [Pub. L. 99–514, § 1804(j)(6)][/us/pl/99/514/s1804/j/6], inserted “For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.”
+    1986—Subsec. (b)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(6), inserted “For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.”
 
-    Subsec. (b)(2)(B). [Pub. L. 99–514, § 1804(j)(7)][/us/pl/99/514/s1804/j/7], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘parachute payment’ shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations.”
+    Subsec. (b)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(7), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘parachute payment’ shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations.”
 
-    Subsec. (b)(4). [Pub. L. 99–514, § 1804(j)(2)][/us/pl/99/514/s1804/j/2], substituted “Treatment of amounts which taxpayer establishes as reasonable compensation” for “Excess parachute payments reduced to extent taxpayer establishes reasonable compensation” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount.”
+    Subsec. (b)(4). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(2), substituted “Treatment of amounts which taxpayer establishes as reasonable compensation” for “Excess parachute payments reduced to extent taxpayer establishes reasonable compensation” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount.”
 
-    Subsec. (b)(5). [Pub. L. 99–514, § 1804(j)(1)][/us/pl/99/514/s1804/j/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(1), added par. (5).
 
-    Subsec. (b)(6). [Pub. L. 99–514, § 1804(j)(3)][/us/pl/99/514/s1804/j/3], added par. (6).
+    Subsec. (b)(6). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(3), added par. (6).
 
-    Subsec. (c). [Pub. L. 99–514, § 1804(j)(5)][/us/pl/99/514/s1804/j/5], inserted provision defining “highly-compensated individual”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(5), inserted provision defining “highly-compensated individual”.
 
-    Subsec. (d)(2). [Pub. L. 99–514, § 1804(j)(8)][/us/pl/99/514/s1804/j/8], substituted “performed personal services for the corporation” for “was an employee of the corporation”.
+    Subsec. (d)(2). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(8), substituted “performed personal services for the corporation” for “was an employee of the corporation”.
 
-    Subsec. (d)(5). [Pub. L. 99–514, § 1804(j)(4)][/us/pl/99/514/s1804/j/4], added par. (5).
+    Subsec. (d)(5). [Pub. L. 99–514][/us/pl/99/514], § 1804(j)(4), added par. (5).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. A, title III, § 302(c)(2)][/us/pl/110/343/s302/c/2], Oct. 3, 2008, [122 Stat. 3806][/us/stat/122/3806], provided that: 
+[Pub. L. 110–343, div. A, title III][/us/pl/110/343/dA/tIII], § 302(c)(2), Oct. 3, 2008, [122 Stat. 3806][/us/stat/122/3806], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to payments with respect to severances occurring during the period during which the authorities under section 101(a) of this Act \[enacting [section 5211(a) of Title 12][/us/usc/t12/s5211/a], Banks and Banking, and amending [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and [section 301 of Title 31][/us/usc/t31/s301], Money and Finance\] are in effect (determined under section 120 of this Act \[[12 U.S.C. 5230][/us/usc/t12/s5230]\]).”
 
@@ -265,7 +265,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1985 Amendment__ 
 
@@ -273,7 +273,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 67(e)][/us/pl/98/369/s67/e], July 18, 1984, [98 Stat. 587][/us/stat/98/587], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 67(e), July 18, 1984, [98 Stat. 587][/us/stat/98/587], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -298,19 +298,19 @@
 ----------
 ----------
 
-[/us/pl/98/369/s67/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs67%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F585
-[/us/pl/99/121/s102/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fc%2F4
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F508
-[/us/pl/99/514/s1804/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2807
-[/us/pl/100/647/s1018/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F6
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3581
-[/us/pl/104/188/s1421/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1421%2Fb%2F9%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1798
-[/us/pl/110/343/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs302%2Fb
+[/us/pl/110/343/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtIII
 [/us/stat/122/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3805
-[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211%2Fa
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
@@ -319,18 +319,18 @@
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/100/647/s1018/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F6
-[/us/pl/100/647/s1018/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F7
-[/us/pl/100/647/s1018/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F8
-[/us/pl/99/514/s1804/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F6
-[/us/pl/99/514/s1804/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F7
-[/us/pl/99/514/s1804/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F2
-[/us/pl/99/514/s1804/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F1
-[/us/pl/99/514/s1804/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F3
-[/us/pl/99/514/s1804/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F5
-[/us/pl/99/514/s1804/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F8
-[/us/pl/99/514/s1804/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fj%2F4
-[/us/pl/110/343/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs302%2Fc%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/110/343/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdA%2FtIII
 [/us/stat/122/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3806
 [/us/usc/t12/s5211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5211%2Fa
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
@@ -344,13 +344,13 @@
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
 [/us/pl/99/121/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs105%2Fa%2F1
 [/us/usc/t26/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1274
-[/us/pl/98/369/s67/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs67%2Fe
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F587
 [/us/usc/t26/s4999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4999
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

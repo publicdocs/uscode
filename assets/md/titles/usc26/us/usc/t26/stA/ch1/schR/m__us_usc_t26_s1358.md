@@ -33,7 +33,7 @@
 
         (2) as between an  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  person’s qualifying shipping activities and other activities carried on by it.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1456][/us/stat/118/1456].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1456][/us/stat/118/1456].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1456
 
 

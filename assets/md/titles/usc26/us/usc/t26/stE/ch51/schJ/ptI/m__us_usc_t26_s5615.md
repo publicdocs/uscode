@@ -77,7 +77,7 @@
 
         All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1405][/us/stat/72/1405]; amended [Pub. L. 96–39, title VIII, § 807(a)(56)][/us/pl/96/39/s807/a/56], July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 98–369, div. A, title IV, § 451(b)(2)][/us/pl/98/369/s451/b/2], July 18, 1984, [98 Stat. 819][/us/stat/98/819].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1405][/us/stat/72/1405]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(56), July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 451(b)(2), July 18, 1984, [98 Stat. 819][/us/stat/98/819].)
 
  __Prior Provisions__ 
 
@@ -296,11 +296,11 @@ Provisions similar to those comprising this section were contained in prior sect
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1405
-[/us/pl/96/39/s807/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F56
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
-[/us/pl/98/369/s451/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs451%2Fb%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F819
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F686

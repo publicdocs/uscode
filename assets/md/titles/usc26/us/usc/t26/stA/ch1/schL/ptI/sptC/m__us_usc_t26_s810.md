@@ -113,19 +113,19 @@
 
         For purposes of this section and section 812 (as in effect before the enactment of the Life Insurance Tax Act of 1984), this section shall be treated as a continuation of such section 812.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 738][/us/stat/98/738]; amended [Pub. L. 111–92, § 13(c)][/us/pl/111/92/s13/c], Nov. 6, 2009, [123 Stat. 2994][/us/stat/123/2994]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(J)][/us/pl/113/295/s221/a/41/J], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(a), July 18, 1984, [98 Stat. 738][/us/stat/98/738]; amended [Pub. L. 111–92][/us/pl/111/92], § 13(c), Nov. 6, 2009, [123 Stat. 2994][/us/stat/123/2994]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(J), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
-    Paragraphs (2) and (3) of section 804, referred to in subsec. (d)(1), were repealed and a new paragraph (2) enacted by [Pub. L. 99–514, title X, § 1011(b)(2)][/us/pl/99/514/s1011/b/2], Oct. 22, 1986, [100 Stat. 2389][/us/stat/100/2389].
+    Paragraphs (2) and (3) of section 804, referred to in subsec. (d)(1), were repealed and a new paragraph (2) enacted by [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1011(b)(2), Oct. 22, 1986, [100 Stat. 2389][/us/stat/100/2389].
 
-    [Section 805(b)(5) of this title][/us/usc/t26/s805/b/5], referred to in subsec. (f), was redesignated [section 805(b)(4) of this title][/us/usc/t26/s805/b/4] by [Pub. L. 99–514, title VIII, § 805(c)(6)][/us/pl/99/514/s805/c/6], Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362].
+    [Section 805(b)(5) of this title][/us/usc/t26/s805/b/5], referred to in subsec. (f), was redesignated [section 805(b)(4) of this title][/us/usc/t26/s805/b/4] by [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 805(c)(6), Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362].
 
     The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means title II of div. A of [Pub. L. 98–369][/us/pl/98/369], which amended this part generally and was approved July 18, 1984.
 
  __Prior Provisions__ 
 
-    A prior section 810, added [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a], June 25, 1959, [73 Stat. 125][/us/stat/73/125]; amended [Pub. L. 91–172, title I, § 121(b)(5)(B)][/us/pl/91/172/s121/b/5/B], title IX, § 907(a)(2), Dec. 30, 1969, [83 Stat. 541][/us/stat/83/541], 715, related to rules for certain reserves, prior to the general revision of this part by [Pub. L. 98–369, § 211(a)][/us/pl/98/369/s211/a].
+    A prior section 810, added [Pub. L. 86–69][/us/pl/86/69], § 2(a), June 25, 1959, [73 Stat. 125][/us/stat/73/125]; amended [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 121(b)(5)(B), title IX, § 907(a)(2), Dec. 30, 1969, [83 Stat. 541][/us/stat/83/541], 715, related to rules for certain reserves, prior to the general revision of this part by [Pub. L. 98–369][/us/pl/98/369], § 211(a).
 
  __Amendments__ 
 
@@ -154,24 +154,24 @@
 ----------
 ----------
 
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F738
-[/us/pl/111/92/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs13%2Fc
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2994
-[/us/pl/113/295/s221/a/41/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FJ
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
-[/us/pl/99/514/s1011/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1011%2Fb%2F2
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2389
 [/us/usc/t26/s805/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs805%2Fb%2F5
 [/us/usc/t26/s805/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs805%2Fb%2F4
-[/us/pl/99/514/s805/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs805%2Fc%2F6
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2362
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F125
-[/us/pl/91/172/s121/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fb%2F5%2FB
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F541
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295

@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “quid pro quo contribution” means a payment made partly as a contribution and partly in consideration for goods or services provided to the payor by the donee organization. A quid pro quo contribution does not include any payment made to an organization, organized exclusively for religious purposes, in return for which the taxpayer receives solely an intangible religious benefit that generally is not sold in a commercial transaction outside the donative context.
 
-(Added [Pub. L. 103–66, title XIII, § 13173(a)][/us/pl/103/66/s13173/a], Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13173(a), Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13173(d)][/us/pl/103/66/s13173/d], Aug. 10, 1993, [107 Stat. 457][/us/stat/107/457], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13173(d), Aug. 10, 1993, [107 Stat. 457][/us/stat/107/457], provided that: 
 
 > “The provisions of this section \[enacting this section and [section 6714 of this title][/us/usc/t26/s6714] and renumbering former section 6115 as 6116 of this title\] shall apply to quid pro quo contributions made on or after January 1, 1994.”
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13173%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F456
 [/us/usc/t26/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6116
-[/us/pl/103/66/s13173/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13173%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F457
 [/us/usc/t26/s6714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6714
 

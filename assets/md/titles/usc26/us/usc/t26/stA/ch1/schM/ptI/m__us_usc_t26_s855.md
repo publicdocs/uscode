@@ -39,7 +39,7 @@
 
         If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 274][/us/stat/68A/274]; [Pub. L. 86–779, § 10(b)(2)][/us/pl/86/779/s10/b/2], Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009]; [Pub. L. 88–272, title II, § 229(a)(5)][/us/pl/88/272/s229/a/5], Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 651(b)(1)(B), 655(a)(5), Oct. 22, 1986, [100 Stat. 2296][/us/stat/100/2296], 2299; [Pub. L. 100–647, title I, § 1006][/us/pl/100/647/s1006](l)(1)(B), Nov. 10, 1988, [102 Stat. 3413][/us/stat/102/3413]; [Pub. L. 111–325, title III][/us/pl/111/325], §§ 301(g), 304(a)–(c), Dec. 22, 2010, [124 Stat. 3547–3549][/us/stat/124/3547-3549]; [Pub. L. 113–295, div. A, title II, § 205(b)][/us/pl/113/295/s205/b], Dec. 19, 2014, [128 Stat. 4026][/us/stat/128/4026].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 274][/us/stat/68A/274]; [Pub. L. 86–779][/us/pl/86/779], § 10(b)(2), Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 229(a)(5), Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], §§ 651(b)(1)(B), 655(a)(5), Oct. 22, 1986, [100 Stat. 2296][/us/stat/100/2296], 2299; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(l)(1)(B), Nov. 10, 1988, [102 Stat. 3413][/us/stat/102/3413]; [Pub. L. 111–325, title III][/us/pl/111/325/tIII], §§ 301(g), 304(a)–(c), Dec. 22, 2010, [124 Stat. 3547–3549][/us/stat/124/3547-3549]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 205(b), Dec. 19, 2014, [128 Stat. 4026][/us/stat/128/4026].)
 
  __References in Text__ 
 
@@ -49,21 +49,21 @@
 
     2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] inserted “on or” before “before” in introductory provisions.
 
-    2010—Subsec. (a). [Pub. L. 111–325, § 304(c)][/us/pl/111/325/s304/c], in concluding provisions, inserted at end “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.”
+    2010—Subsec. (a). [Pub. L. 111–325][/us/pl/111/325], § 304(c), in concluding provisions, inserted at end “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.”
 
-    [Pub. L. 111–325, § 301(g)(2)][/us/pl/111/325/s301/g/2], substituted “and (c)” for “, (c) and (d)” in concluding provisions.
+    [Pub. L. 111–325][/us/pl/111/325], § 301(g)(2), substituted “and (c)” for “, (c) and (d)” in concluding provisions.
 
-    Subsec. (a)(1). [Pub. L. 111–325, § 304(a)][/us/pl/111/325/s304/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and”.
+    Subsec. (a)(1). [Pub. L. 111–325][/us/pl/111/325], § 304(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and”.
 
-    Subsec. (a)(2). [Pub. L. 111–325, § 304(b)][/us/pl/111/325/s304/b], substituted “the first dividend payment of the same type of dividend” for “the first regular dividend payment”.
+    Subsec. (a)(2). [Pub. L. 111–325][/us/pl/111/325], § 304(b), substituted “the first dividend payment of the same type of dividend” for “the first regular dividend payment”.
 
-    Subsecs. (c), (d). [Pub. L. 111–325, § 301(g)(1)][/us/pl/111/325/s301/g/1], redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.”
+    Subsecs. (c), (d). [Pub. L. 111–325][/us/pl/111/325], § 301(g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.”
 
     1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647] substituted “section 852(b)(7)” for “section 852(b)(6)”.
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 651(b)(1)(B)][/us/pl/99/514/s651/b/1/B], substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
 
-    Subsec. (c). [Pub. L. 99–514, § 655(a)(5)][/us/pl/99/514/s655/a/5], substituted “60 days” for “45 days”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 655(a)(5), substituted “60 days” for “45 days”.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -79,7 +79,7 @@
 
     Amendment by [section 301(g) of Pub. L. 111–325][/us/pl/111/325/s301/g] applicable to taxable years beginning after Dec. 22, 2010, see [section 301(h) of Pub. L. 111–325][/us/pl/111/325/s301/h], set out as a note under [section 852 of this title][/us/usc/t26/s852].
 
-[Pub. L. 111–325, title III, § 304(d)][/us/pl/111/325/s304/d], Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549], provided that: 
+[Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 304(d), Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
@@ -110,32 +110,32 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F274
-[/us/pl/86/779/s10/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs10%2Fb%2F2
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1009
-[/us/pl/88/272/s229/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs229%2Fa%2F5
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F99
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2296
-[/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3413
-[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3547-3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3547-3549
-[/us/pl/113/295/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fb
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4026
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/111/325/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs304%2Fc
-[/us/pl/111/325/s301/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fg%2F2
-[/us/pl/111/325/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs304%2Fa
-[/us/pl/111/325/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs304%2Fb
-[/us/pl/111/325/s301/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fg%2F1
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s651/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs651%2Fb%2F1%2FB
-[/us/pl/99/514/s655/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs655%2Fa%2F5
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
@@ -147,7 +147,7 @@
 [/us/pl/111/325/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fg
 [/us/pl/111/325/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fh
 [/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
-[/us/pl/111/325/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs304%2Fd
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3549
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

@@ -73,11 +73,11 @@
 
         The interest charge determined under this section shall not be allowed as a deduction for purposes of any tax imposed by this title.
 
-(Added [Pub. L. 94–455, title X, § 1014(b)][/us/pl/94/455/s1014/b], Oct. 4, 1976, [90 Stat. 1617][/us/stat/90/1617]; amended [Pub. L. 101–508, title XI, § 11802(f)(3)][/us/pl/101/508/s11802/f/3], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 104–188, title I, § 1906(a)][/us/pl/104/188/s1906/a], Aug. 20, 1996, [110 Stat. 1914][/us/stat/110/1914].)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1014(b), Oct. 4, 1976, [90 Stat. 1617][/us/stat/90/1617]; amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11802(f)(3), Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1906(a), Aug. 20, 1996, [110 Stat. 1914][/us/stat/110/1914].)
 
  __Prior Provisions__ 
 
-    A prior section 668, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 225][/us/stat/68A/225]; Oct. 16, 1962, [Pub. L. 87–834, § 7(d)][/us/pl/87/834/s7/d], [76 Stat. 986][/us/stat/76/986]; Dec. 30, 1969, [Pub. L. 91–172, title III, § 331(a)][/us/pl/91/172/s331/a], [83 Stat. 594][/us/stat/83/594], related to treatment of amounts deemed distributed in preceding years, prior to repeal by [Pub. L. 94–455, title VII, § 701(a)(3)][/us/pl/94/455/s701/a/3], Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577]. See [section 667 of this title][/us/usc/t26/s667].
+    A prior section 668, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 225][/us/stat/68A/225]; Oct. 16, 1962, [Pub. L. 87–834][/us/pl/87/834], § 7(d), [76 Stat. 986][/us/stat/76/986]; Dec. 30, 1969, [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(a), [83 Stat. 594][/us/stat/83/594], related to treatment of amounts deemed distributed in preceding years, prior to repeal by [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(a)(3), Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577]. See [section 667 of this title][/us/usc/t26/s667].
 
  __Amendments__ 
 
@@ -91,13 +91,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1906(d)(1)][/us/pl/104/188/s1906/d/1], Aug. 20, 1996, [110 Stat. 1916][/us/stat/110/1916], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1906(d)(1), Aug. 20, 1996, [110 Stat. 1916][/us/stat/110/1916], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Nov. 20, 1996\].”
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title X, § 1014(d)][/us/pl/94/455/s1014/d], Oct. 4, 1976, [90 Stat. 1617][/us/stat/90/1617], provided that: 
+[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1014(d), Oct. 4, 1976, [90 Stat. 1617][/us/stat/90/1617], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 667 of this title][/us/usc/t26/s667]\] shall apply to taxable years beginning after December 31, 1976.”
 
@@ -112,26 +112,26 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1014%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1617
-[/us/pl/101/508/s11802/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11802%2Ff%2F3
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-530
-[/us/pl/104/188/s1906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1906%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1914
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F225
-[/us/pl/87/834/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fd
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F986
-[/us/pl/91/172/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fa
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F594
-[/us/pl/94/455/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fa%2F3
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1577
 [/us/usc/t26/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs667
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/104/188/s1906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1906%2Fd%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1916
-[/us/pl/94/455/s1014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1014%2Fd
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1617
 [/us/usc/t26/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs667
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

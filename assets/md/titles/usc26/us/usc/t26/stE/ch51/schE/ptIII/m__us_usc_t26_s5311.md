@@ -17,7 +17,7 @@
 
     It shall be lawful for any internal revenue officer to detain any container, containing or supposed to contain, distilled spirits, wines, or beer, when he has reason to believe that the tax imposed by law on such distilled spirits, wines, or beer has not been paid or determined as required by law, or that such container is being removed in violation of law; and every such container may be held by him at a safe place until it shall be determined whether the property so detained is liable by law to be proceeded against for forfeiture; but such summary detention shall not continue in any case longer than 72 hours without process of law or intervention of the officer to whom such detention is to be reported.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1375][/us/stat/72/1375].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1375][/us/stat/72/1375].)
 
  __Prior Provisions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1375
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F658

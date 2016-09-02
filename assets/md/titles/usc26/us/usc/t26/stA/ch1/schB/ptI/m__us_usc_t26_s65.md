@@ -17,7 +17,7 @@
 
     For purposes of this subtitle, the term “ordinary loss” includes any loss from the sale or exchange of property which is not a capital asset. Any loss from the sale or exchange of property which is treated or considered, under other provisions of this subtitle, as “ordinary loss” shall be treated as loss from the sale or exchange of property which is not a capital asset.
 
-(Added [Pub. L. 94–455, title XIX, § 1901(a)(11)][/us/pl/94/455/s1901/a/11], Oct. 4, 1976, [90 Stat. 1765][/us/stat/90/1765].)
+(Added [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(11), Oct. 4, 1976, [90 Stat. 1765][/us/stat/90/1765].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F11
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1765
 
 

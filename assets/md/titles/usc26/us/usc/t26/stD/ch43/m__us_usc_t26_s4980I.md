@@ -305,7 +305,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out this section.
 
-(Added and amended [Pub. L. 111–148, title IX, § 9001(a)][/us/pl/111/148/s9001/a], title X, § 10901(a), (b), Mar. 23, 2010, [124 Stat. 847][/us/stat/124/847], 1015, 1016; [Pub. L. 111–152, title I, § 1401(a)][/us/pl/111/152/s1401/a], Mar. 30, 2010, [124 Stat. 1059][/us/stat/124/1059]; [Pub. L. 114–113, div. P, title I][/us/pl/114/113], §§ 101(b), 102, Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037].)
+(Added and amended [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9001(a), title X, § 10901(a), (b), Mar. 23, 2010, [124 Stat. 847][/us/stat/124/847], 1015, 1016; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1401(a), Mar. 30, 2010, [124 Stat. 1059][/us/stat/124/1059]; [Pub. L. 114–113, div. P, title I][/us/pl/114/113/dP/tI], §§ 101(b), 102, Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037].)
 
  __References in Text__ 
 
@@ -319,55 +319,55 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(3)(C)(v). [Pub. L. 114–113, § 101(b)][/us/pl/114/113/s101/b], substituted “as determined for” for “as in effect” in introductory provisions and “as so determined” for “as so in effect” in subcl. (I).
+    2015—Subsec. (b)(3)(C)(v). [Pub. L. 114–113][/us/pl/114/113], § 101(b), substituted “as determined for” for “as in effect” in introductory provisions and “as so determined” for “as so in effect” in subcl. (I).
 
-    Subsec. (f)(10). [Pub. L. 114–113, § 102][/us/pl/114/113/s102], amended par. (10) generally. Prior to amendment, text read as follows: “For denial of a deduction for the tax imposed by this section, see section 275(a)(6).”
+    Subsec. (f)(10). [Pub. L. 114–113][/us/pl/114/113], § 102, amended par. (10) generally. Prior to amendment, text read as follows: “For denial of a deduction for the tax imposed by this section, see section 275(a)(6).”
 
-    2010—Subsec. (b)(3)(B). [Pub. L. 111–152, § 1401(a)(1)][/us/pl/111/152/s1401/a/1], designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), the annual” for “The annual”, and added cl. (ii).
+    2010—Subsec. (b)(3)(B). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), the annual” for “The annual”, and added cl. (ii).
 
-    Subsec. (b)(3)(C). [Pub. L. 111–152, § 1401(a)(2)(A)][/us/pl/111/152/s1401/a/2/A], struck out introductory provisions which read: “Except as provided in subparagraph (D)—”.
+    Subsec. (b)(3)(C). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(A), struck out introductory provisions which read: “Except as provided in subparagraph (D)—”.
 
-    Subsec. (b)(3)(C)(i). [Pub. L. 111–152, § 1401(a)(2)(B)(i)][/us/pl/111/152/s1401/a/2/B/i], substituted “2018” for “2013” in heading and introductory provisions.
+    Subsec. (b)(3)(C)(i). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(B)(i), substituted “2018” for “2013” in heading and introductory provisions.
 
-    Subsec. (b)(3)(C)(i)(I). [Pub. L. 111–152, § 1401(a)(2)(B)(ii)][/us/pl/111/152/s1401/a/2/B/ii], substituted “$10,200 multiplied by the health cost adjustment percentage (determined by only taking into account self-only coverage)” for “$8,500”.
+    Subsec. (b)(3)(C)(i)(I). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(B)(ii), substituted “$10,200 multiplied by the health cost adjustment percentage (determined by only taking into account self-only coverage)” for “$8,500”.
 
-    Subsec. (b)(3)(C)(i)(II). [Pub. L. 111–152, § 1401(a)(2)(B)(iii)][/us/pl/111/152/s1401/a/2/B/iii], substituted “$27,500 multiplied by the health cost adjustment percentage (determined by only taking into account coverage other than self-only coverage)” for “$23,000”.
+    Subsec. (b)(3)(C)(i)(II). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(B)(iii), substituted “$27,500 multiplied by the health cost adjustment percentage (determined by only taking into account coverage other than self-only coverage)” for “$23,000”.
 
-    Subsec. (b)(3)(C)(ii), (iii). [Pub. L. 111–152, § 1401(a)(2)(C)][/us/pl/111/152/s1401/a/2/C], added cls. (ii) and (iii). Former cls. (ii) and (iii) redesignated (iv) and (v), respectively.
+    Subsec. (b)(3)(C)(ii), (iii). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(C), added cls. (ii) and (iii). Former cls. (ii) and (iii) redesignated (iv) and (v), respectively.
 
-    Subsec. (b)(3)(C)(iv). [Pub. L. 111–152, § 1401(a)(2)(D)][/us/pl/111/152/s1401/a/2/D], inserted “covered by the plan” after “whose employees” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
+    Subsec. (b)(3)(C)(iv). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(D), inserted “covered by the plan” after “whose employees” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
 
     “(I) the dollar amount in clause (i)(I) (determined after the application of subparagraph (D)) shall be increased by $1,350, and
 
     “(II) the dollar amount in clause (i)(II) (determined after the application of subparagraph (D)) shall be increased by $3,000.”
 
-    [Pub. L. 111–152, § 1401(a)(2)(C)][/us/pl/111/152/s1401/a/2/C], redesignated cl. (ii) as (iv).
+    [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(C), redesignated cl. (ii) as (iv).
 
-    Subsec. (b)(3)(C)(v). [Pub. L. 111–152, § 1401(a)(2)(E)(i)][/us/pl/111/152/s1401/a/2/E/i], (ii), substituted “2018” for “2013” and “clauses (i) (after the application of clause (ii)) and (iv)” for “clauses (i) and (ii)” in introductory provisions.
+    Subsec. (b)(3)(C)(v). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(E)(i), (ii), substituted “2018” for “2013” and “clauses (i) (after the application of clause (ii)) and (iv)” for “clauses (i) and (ii)” in introductory provisions.
 
-    [Pub. L. 111–152, § 1401(a)(2)(C)][/us/pl/111/152/s1401/a/2/C], redesignated cl. (iii) as (v).
+    [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(C), redesignated cl. (iii) as (v).
 
-    Subsec. (b)(3)(C)(v)(II). [Pub. L. 111–152, § 1401(a)(2)(E)(iii)][/us/pl/111/152/s1401/a/2/E/iii], inserted “in the case of determinations for calendar years beginning before 2020” after “1 percentage point”.
+    Subsec. (b)(3)(C)(v)(II). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(2)(E)(iii), inserted “in the case of determinations for calendar years beginning before 2020” after “1 percentage point”.
 
-    Subsec. (b)(3)(D). [Pub. L. 111–152, § 1401(a)(3)][/us/pl/111/152/s1401/a/3], struck out subpar. (D) which provided transition rule for States with highest coverage costs.
+    Subsec. (b)(3)(D). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(3), struck out subpar. (D) which provided transition rule for States with highest coverage costs.
 
-    Subsec. (d)(1)(B)(i). [Pub. L. 111–148, § 10901(b)][/us/pl/111/148/s10901/b], substituted “section 9832(c)(1) (other than subparagraph (G) thereof)” for “section 9832(c)(1)(A)”.
+    Subsec. (d)(1)(B)(i). [Pub. L. 111–148][/us/pl/111/148], § 10901(b), substituted “section 9832(c)(1) (other than subparagraph (G) thereof)” for “section 9832(c)(1)(A)”.
 
-    Subsec. (d)(1)(B)(ii), (iii). [Pub. L. 111–152, § 1401(a)(4)][/us/pl/111/152/s1401/a/4], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (d)(1)(B)(ii), (iii). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(4), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (d)(3). [Pub. L. 111–152, § 1401(a)(5)][/us/pl/111/152/s1401/a/5], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–152][/us/pl/111/152], § 1401(a)(5), added par. (3).
 
-    Subsec. (f)(3). [Pub. L. 111–148, § 10901(a)][/us/pl/111/148/s10901/a], inserted “individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ([8 U.S.C. 1288(b)][/us/usc/t8/s1288/b]), determined without regard to paragraph (2) thereof),” before “and individuals engaged in the construction, mining”.
+    Subsec. (f)(3). [Pub. L. 111–148][/us/pl/111/148], § 10901(a), inserted “individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act ([8 U.S.C. 1288(b)][/us/usc/t8/s1288/b]), determined without regard to paragraph (2) thereof),” before “and individuals engaged in the construction, mining”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10901(c)][/us/pl/111/148/s10901/c], Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], as amended by [Pub. L. 111–152, title I, § 1401(b)(2)][/us/pl/111/152/s1401/b/2], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10901(c), Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], as amended by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1401(b)(2), Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I][/us/pl/114/113/dP/tI], § 101(a), Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2019.”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title IX, § 9001(c)][/us/pl/111/148/s9001/c], Mar. 23, 2010, [124 Stat. 853][/us/stat/124/853], as amended by [Pub. L. 111–152, title I, § 1401(b)(1)][/us/pl/111/152/s1401/b/1], Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9001(c), Mar. 23, 2010, [124 Stat. 853][/us/stat/124/853], as amended by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1401(b)(1), Mar. 30, 2010, [124 Stat. 1060][/us/stat/124/1060]; [Pub. L. 114–113, div. P, title I][/us/pl/114/113/dP/tI], § 101(a), Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2019.”
 
@@ -379,11 +379,11 @@
 ----------
 
 [/us/usc/t8/s1288/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1288%2Fb
-[/us/pl/111/148/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9001%2Fa
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F847
-[/us/pl/111/152/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1059
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dP/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtI
 [/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -391,36 +391,36 @@
 [/us/usc/t42/s3796b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3796b
 [/us/usc/t29/s203/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fy
 [/us/usc/t29/s1002/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F16%2FB
-[/us/pl/114/113/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fb
-[/us/pl/114/113/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs102
-[/us/pl/111/152/s1401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F1
-[/us/pl/111/152/s1401/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FA
-[/us/pl/111/152/s1401/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FB%2Fi
-[/us/pl/111/152/s1401/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FB%2Fii
-[/us/pl/111/152/s1401/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FB%2Fiii
-[/us/pl/111/152/s1401/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FC
-[/us/pl/111/152/s1401/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FD
-[/us/pl/111/152/s1401/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FC
-[/us/pl/111/152/s1401/a/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FE%2Fi
-[/us/pl/111/152/s1401/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FC
-[/us/pl/111/152/s1401/a/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F2%2FE%2Fiii
-[/us/pl/111/152/s1401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F3
-[/us/pl/111/148/s10901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10901%2Fb
-[/us/pl/111/152/s1401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F4
-[/us/pl/111/152/s1401/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fa%2F5
-[/us/pl/111/148/s10901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10901%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t8/s1288/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1288%2Fb
-[/us/pl/111/148/s10901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10901%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1016
-[/us/pl/111/152/s1401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fb%2F2
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1060
-[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/pl/114/113/dP/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtI
 [/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
-[/us/pl/111/148/s9001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9001%2Fc
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F853
-[/us/pl/111/152/s1401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1401%2Fb%2F1
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1060
-[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/pl/114/113/dP/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtI
 [/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 
 

@@ -275,37 +275,37 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of contingent payments.
 
-(Added [Pub. L. 98–369, div. A, title I, § 92(a)][/us/pl/98/369/s92/a], July 18, 1984, [98 Stat. 609][/us/stat/98/609]; amended [Pub. L. 99–514, title II, § 201(d)(8)][/us/pl/99/514/s201/d/8], title V, § 511(d)(2)(A), title VI, § 631(e)(10), title XVIII, §§ 1807(b), 1879(f)(1), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2248, 2274, 2816, 2906; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, [102 Stat. 3371][/us/stat/102/3371], 3392; [Pub. L. 108–27, title III, § 302(e)(4)(B)(ii)][/us/pl/108/27/s302/e/4/B/ii], May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 92(a), July 18, 1984, [98 Stat. 609][/us/stat/98/609]; amended [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 201(d)(8), title V, § 511(d)(2)(A), title VI, § 631(e)(10), title XVIII, §§ 1807(b), 1879(f)(1), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2248, 2274, 2816, 2906; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, [102 Stat. 3371][/us/stat/102/3371], 3392; [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 302(e)(4)(B)(ii), May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
 
  __Amendments__ 
 
     2003—Subsec. (c)(5)(C). [Pub. L. 108–27][/us/pl/108/27] struck out “, 341(e)(12),” after “170(e)”.
 
-    1988—Subsec. (c)(5)(C). [Pub. L. 100–647, § 1005(c)(10)][/us/pl/100/647/s1005/c/10], made technical correction to directory language of [Pub. L. 99–514, § 511(d)(2)(A)][/us/pl/99/514/s511/d/2/A]. See 1986 Amendment note below.
+    1988—Subsec. (c)(5)(C). [Pub. L. 100–647][/us/pl/100/647], § 1005(c)(10), made technical correction to directory language of [Pub. L. 99–514][/us/pl/99/514], § 511(d)(2)(A). See 1986 Amendment note below.
 
-    Subsec. (e)(3)(A). [Pub. L. 100–647, § 1002(i)(2)(H)][/us/pl/100/647/s1002/i/2/H], at end of table inserted item relating to any railroad grading or tunnel bore.
+    Subsec. (e)(3)(A). [Pub. L. 100–647][/us/pl/100/647], § 1002(i)(2)(H), at end of table inserted item relating to any railroad grading or tunnel bore.
 
-    1986—Subsec. (b)(4)(A). [Pub. L. 99–514, § 1807(b)(2)(A)][/us/pl/99/514/s1807/b/2/A], substituted “statutory recovery period” for “statutory recover period”.
+    1986—Subsec. (b)(4)(A). [Pub. L. 99–514][/us/pl/99/514], § 1807(b)(2)(A), substituted “statutory recovery period” for “statutory recover period”.
 
-    Subsec. (c)(4). [Pub. L. 99–514, § 1807(b)(2)(B)][/us/pl/99/514/s1807/b/2/B], substituted “subsection (b)(4)(A)” for “subsection (b)(3)(A)”.
+    Subsec. (c)(4). [Pub. L. 99–514][/us/pl/99/514], § 1807(b)(2)(B), substituted “subsection (b)(4)(A)” for “subsection (b)(3)(A)”.
 
-    Subsec. (c)(5)(C). [Pub. L. 99–514, § 631(e)(10)][/us/pl/99/514/s631/e/10], struck out “453B(d)(2),” after “341(e)(12),”.
+    Subsec. (c)(5)(C). [Pub. L. 99–514][/us/pl/99/514], § 631(e)(10), struck out “453B(d)(2),” after “341(e)(12),”.
 
-    [Pub. L. 99–514, § 511(d)(2)(A)][/us/pl/99/514/s511/d/2/A], as amended by [Pub. L. 100–647, § 1005(c)(10)][/us/pl/100/647/s1005/c/10], struck out “163(d),” after “sections”.
+    [Pub. L. 99–514][/us/pl/99/514], § 511(d)(2)(A), as amended by [Pub. L. 100–647][/us/pl/100/647], § 1005(c)(10), struck out “163(d),” after “sections”.
 
-    Subsec. (d)(2). [Pub. L. 99–514, § 1807(b)(2)(C)][/us/pl/99/514/s1807/b/2/C], substituted “section 1274(c)(4)(C)” for “section 1274(c)(2)(C)”.
+    Subsec. (d)(2). [Pub. L. 99–514][/us/pl/99/514], § 1807(b)(2)(C), substituted “section 1274(c)(4)(C)” for “section 1274(c)(2)(C)”.
 
-    Subsec. (e)(3)(A). [Pub. L. 99–514, § 201(d)(8)(A)][/us/pl/99/514/s201/d/8/A], in amending subpar. (A) generally, included in table 7-year property, 15-year and 20-year property, and residential rental property and nonresidential real property having recovery periods of 7, 15, and 19 years, respectively, and struck out from table low-income housing, 15-year public utility property, and 19-year real property having recovery periods of 15, 15, and 19 years, respectively.
+    Subsec. (e)(3)(A). [Pub. L. 99–514][/us/pl/99/514], § 201(d)(8)(A), in amending subpar. (A) generally, included in table 7-year property, 15-year and 20-year property, and residential rental property and nonresidential real property having recovery periods of 7, 15, and 19 years, respectively, and struck out from table low-income housing, 15-year public utility property, and 19-year real property having recovery periods of 15, 15, and 19 years, respectively.
 
-    [Pub. L. 99–514, § 1879(f)(1)][/us/pl/99/514/s1879/f/1], substituted “19-year real property” and “19 years” for “18-year real property” and “18 years”, respectively.
+    [Pub. L. 99–514][/us/pl/99/514], § 1879(f)(1), substituted “19-year real property” and “19 years” for “18-year real property” and “18 years”, respectively.
 
-    Subsec. (e)(3)(B). [Pub. L. 99–514, § 201(d)(8)(A)][/us/pl/99/514/s201/d/8/A], in amending subpar. (B) generally, substituted in heading “not depreciable under section 168” for “which is not recovery property” and in text “In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.” for “In the case of any property, which is not recovery property, subparagraph (A) shall be applied as if such property were recovery property.”
+    Subsec. (e)(3)(B). [Pub. L. 99–514][/us/pl/99/514], § 201(d)(8)(A), in amending subpar. (B) generally, substituted in heading “not depreciable under section 168” for “which is not recovery property” and in text “In the case of property to which section 168 does not apply, subparagraph (A) shall be applied as if section 168 applies to such property.” for “In the case of any property, which is not recovery property, subparagraph (A) shall be applied as if such property were recovery property.”
 
-    Subsec. (e)(5). [Pub. L. 99–514, § 201(d)(8)(B)][/us/pl/99/514/s201/d/8/B], substituted “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
+    Subsec. (e)(5). [Pub. L. 99–514][/us/pl/99/514], § 201(d)(8)(B), substituted “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
 
-    [Pub. L. 99–514, § 1807(b)(2)(D)][/us/pl/99/514/s1807/b/2/D], substituted “section 168(e)(4)(D)” for “section 168(d)(4)(D)”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1807(b)(2)(D), substituted “section 168(e)(4)(D)” for “section 168(d)(4)(D)”.
 
-    Subsec. (g). [Pub. L. 99–514, § 1807(b)(1)][/us/pl/99/514/s1807/b/1], inserted at end “The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.”
+    Subsec. (g). [Pub. L. 99–514][/us/pl/99/514], § 1807(b)(1), inserted at end “The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies.”
 
  __Effective Date of 2003 Amendment__ 
 
@@ -325,15 +325,15 @@
 
     Amendment by [section 631(e)(10) of Pub. L. 99–514][/us/pl/99/514/s631/e/10] applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in [section 338 of this title][/us/usc/t26/s338] for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see [section 633 of Pub. L. 99–514][/us/pl/99/514/s633], set out as an Effective Date note under [section 336 of this title][/us/usc/t26/s336].
 
-    Amendment by [section 1807(b) of Pub. L. 99–514][/us/pl/99/514/s1807/b] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1807(b) of Pub. L. 99–514][/us/pl/99/514/s1807/b] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
-[Pub. L. 99–514, title XVIII, § 1879(f)(2)][/us/pl/99/514/s1879/f/2], Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1879(f)(2), Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by [section 103 of Public Law 99–121][/us/pl/99/121/s103].”
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 92(c)][/us/pl/98/369/s92/c], July 18, 1984, [98 Stat. 612][/us/stat/98/612], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 92(c), July 18, 1984, [98 Stat. 612][/us/stat/98/612], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -506,30 +506,30 @@
 ----------
 ----------
 
-[/us/pl/98/369/s92/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs92%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F609
-[/us/pl/99/514/s201/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F8
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2141
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3371
-[/us/pl/108/27/s302/e/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F4%2FB%2Fii
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F764
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
-[/us/pl/100/647/s1005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fc%2F10
-[/us/pl/99/514/s511/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F2%2FA
-[/us/pl/100/647/s1002/i/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fi%2F2%2FH
-[/us/pl/99/514/s1807/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb%2F2%2FA
-[/us/pl/99/514/s1807/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb%2F2%2FB
-[/us/pl/99/514/s631/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F10
-[/us/pl/99/514/s511/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F2%2FA
-[/us/pl/100/647/s1005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fc%2F10
-[/us/pl/99/514/s1807/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb%2F2%2FC
-[/us/pl/99/514/s201/d/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F8%2FA
-[/us/pl/99/514/s1879/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Ff%2F1
-[/us/pl/99/514/s201/d/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F8%2FA
-[/us/pl/99/514/s201/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F8%2FB
-[/us/pl/99/514/s1807/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb%2F2%2FD
-[/us/pl/99/514/s1807/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/108/27/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Ff
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -551,15 +551,15 @@
 [/us/pl/99/514/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs633
 [/us/usc/t26/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs336
 [/us/pl/99/514/s1807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fb
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/514/s1879/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Ff%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2906
 [/us/pl/99/121/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs103
-[/us/pl/98/369/s92/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs92%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F612
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

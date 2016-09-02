@@ -41,17 +41,17 @@
 
             For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added [Pub. L. 111–347, title III, § 301(a)(1)][/us/pl/111/347/s301/a/1], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666].)
+(Added [Pub. L. 111–347, title III][/us/pl/111/347/tIII], § 301(a)(1), Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666].)
 
  __Effective Date__ 
 
-[Pub. L. 111–347, title III, § 301(a)(3)][/us/pl/111/347/s301/a/3], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that: 
+[Pub. L. 111–347, title III][/us/pl/111/347/tIII], § 301(a)(3), Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act \[Jan. 2, 2011\].”
 
  __Prohibition on Reimbursement of Fees__ 
 
-[Pub. L. 111–347, title III, § 301(b)][/us/pl/111/347/s301/b], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that:
+[Pub. L. 111–347, title III][/us/pl/111/347/tIII], § 301(b), Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -67,7 +67,7 @@
 
  __Application__ 
 
-[Pub. L. 111–347, title III, § 301(c)][/us/pl/111/347/s301/c], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that: 
+[Pub. L. 111–347, title III][/us/pl/111/347/tIII], § 301(c), Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], provided that: 
 
 > “This section \[enacting this section and provisions set out as notes under this section\] and the amendments made by this section shall be applied in a manner consistent with United States obligations under international agreements.”
 
@@ -78,15 +78,15 @@
 ----------
 ----------
 
-[/us/pl/111/347/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs301%2Fa%2F1
+[/us/pl/111/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtIII
 [/us/stat/124/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3666
-[/us/pl/111/347/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs301%2Fa%2F3
+[/us/pl/111/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtIII
 [/us/stat/124/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3666
-[/us/pl/111/347/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs301%2Fb
+[/us/pl/111/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtIII
 [/us/stat/124/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3666
 [/us/usc/t41/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/111/347/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs301%2Fc
+[/us/pl/111/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtIII
 [/us/stat/124/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3666
 
 

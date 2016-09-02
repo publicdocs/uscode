@@ -23,7 +23,7 @@
 
         For purposes of subsection (a), control means, with respect to any foreign corporation, the ownership, directly or indirectly, of stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote. For purposes of this subsection, the rules for determining ownership of stock prescribed by section 958 shall apply.
 
-(Added [Pub. L. 87–834, § 16(a)][/us/pl/87/834/s16/a], Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045]; amended [Pub. L. 89–809, title I, § 104(m)(3)][/us/pl/89/809/s104/m/3], Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(K)][/us/pl/94/455/s1901/b/3/K], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793]; [Pub. L. 113–295, div. A, title II, § 221(a)(84)][/us/pl/113/295/s221/a/84], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 16(a), Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045]; amended [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(m)(3), Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(3)(K), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(84), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–834, § 16(c)][/us/pl/87/834/s16/c], Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 16(c), Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1962.”
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/87/834/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs16%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1045
-[/us/pl/89/809/s104/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fm%2F3
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1563
-[/us/pl/94/455/s1901/b/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FK
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
-[/us/pl/113/295/s221/a/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F84
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -78,7 +78,7 @@
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809/s104/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fn
 [/us/usc/t26/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs11
-[/us/pl/87/834/s16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs16%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1045
 
 

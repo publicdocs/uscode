@@ -67,11 +67,11 @@
 
             The Secretary may authorize the Governor of the Virgin Islands, or his duly authorized agents, to issue or adopt such regulations, to approve such bonds, and to issue, suspend, or revoke such permits, as are necessary to carry out the provisions of this subsection. When regulations have been issued or adopted under this paragraph with concurrence of the Secretary he may exempt the Virgin Islands from any provisions of law and regulations otherwise made applicable by the provisions of paragraph (1), except that denatured distilled spirits, articles and distilled spirits for tax-free purposes which are brought into the United States from the Virgin Islands under the provisions of this subsection shall in all respects conform to the requirements of law and regulations imposed on like products of domestic manufacture.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1375][/us/stat/72/1375]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1375][/us/stat/72/1375]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834.)
 
  __References in Text__ 
 
-    Section 5001(a)(10), referred to in subsec. (a)(2), was redesignated section 5001(a)(9) by [Pub. L. 103–465, title I, § 136(a)][/us/pl/103/465/s136/a], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841].
+    Section 5001(a)(10), referred to in subsec. (a)(2), was redesignated section 5001(a)(9) by [Pub. L. 103–465, title I][/us/pl/103/465/tI], § 136(a), Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841].
 
  __Prior Provisions__ 
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a)(2). [Pub. L. 94–455, § 1905(a)(18)][/us/pl/94/455/s1905/a/18], substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
+    1976—Subsec. (a)(2). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
 
-    Subsec. (b)(2), (3). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsec. (b)(2), (3). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -96,11 +96,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1375
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
-[/us/pl/103/465/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fa
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4841
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F659
@@ -108,8 +108,8 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F660
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/94/455/s1905/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F18
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1905/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F18
 [/us/pl/94/455/s1905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fd
 [/us/usc/t26/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5005

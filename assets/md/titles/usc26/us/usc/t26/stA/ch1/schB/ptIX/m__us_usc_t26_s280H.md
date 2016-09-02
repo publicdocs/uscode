@@ -111,21 +111,21 @@
 
             The term “personal service corporation” has the meaning given to such term by section 441(i)(2).
 
-(Added [Pub. L. 100–203, title X, § 10206(c)(1)][/us/pl/100/203/s10206/c/1], Dec. 22, 1987, [101 Stat. 1330–401][/us/stat/101/1330-401]; amended [Pub. L. 100–647, title II, § 2004(e)(2)(B)][/us/pl/100/647/s2004/e/2/B], (3), (14)(A), (C), Nov. 10, 1988, [102 Stat. 3600][/us/stat/102/3600], 3602.)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10206(c)(1), Dec. 22, 1987, [101 Stat. 1330–401][/us/stat/101/1330-401]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(e)(2)(B), (3), (14)(A), (C), Nov. 10, 1988, [102 Stat. 3600][/us/stat/102/3600], 3602.)
 
  __Amendments__ 
 
-    1988—Subsecs. (c)(1)(A)(i), (d)(1). [Pub. L. 100–647, § 2004(e)(14)(C)][/us/pl/100/647/s2004/e/14/C], substituted “amounts paid” for “amounts paid or incurred”.
+    1988—Subsecs. (c)(1)(A)(i), (d)(1). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(14)(C), substituted “amounts paid” for “amounts paid or incurred”.
 
-    Subsec. (f)(2). [Pub. L. 100–647, § 2004(e)(3)][/us/pl/100/647/s2004/e/3], substituted “section 269A(b)(2) (as modified by section 441(i)(2))” for “section 296A(b)(2)”.
+    Subsec. (f)(2). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(3), substituted “section 269A(b)(2) (as modified by section 441(i)(2))” for “section 296A(b)(2)”.
 
-    Subsec. (f)(4). [Pub. L. 100–647, § 2004(e)(14)(A)][/us/pl/100/647/s2004/e/14/A], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘adjusted taxable income’ means taxable income increased by any amount paid or incurred to an employee-owner which was includible in the gross income of such employee-owner.”
+    Subsec. (f)(4). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(14)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘adjusted taxable income’ means taxable income increased by any amount paid or incurred to an employee-owner which was includible in the gross income of such employee-owner.”
 
-    Subsec. (f)(5). [Pub. L. 100–647, § 2004(e)(2)(B)][/us/pl/100/647/s2004/e/2/B], added par. (5).
+    Subsec. (f)(5). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(2)(B), added par. (5).
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date__ 
 
@@ -138,16 +138,16 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fc%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-401
-[/us/pl/100/647/s2004/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F2%2FB
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3600
-[/us/pl/100/647/s2004/e/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F14%2FC
-[/us/pl/100/647/s2004/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F3
-[/us/pl/100/647/s2004/e/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F14%2FA
-[/us/pl/100/647/s2004/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F2%2FB
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/100/203/s10206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fd%2F1

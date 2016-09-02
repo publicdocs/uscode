@@ -347,7 +347,7 @@
 
         The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4661.
 
-(Added [Pub. L. 96–510, title II, § 211(a)][/us/pl/96/510/s211/a], Dec. 11, 1980, [94 Stat. 2799][/us/stat/94/2799]; amended [Pub. L. 98–369, div. A, title X, § 1019(a)][/us/pl/98/369/s1019/a]–(c), July 18, 1984, [98 Stat. 1022–1024][/us/stat/98/1022-1024]; [Pub. L. 99–499, title V, § 513(b)][/us/pl/99/499/s513/b]–(g), Oct. 17, 1986, [100 Stat. 1762–1765][/us/stat/100/1762-1765]; [Pub. L. 100–647, title II, § 2001(a)][/us/pl/100/647/s2001/a], Nov. 10, 1988, [102 Stat. 3593][/us/stat/102/3593]; [Pub. L. 106–170, title V, § 532(c)(2)(U)][/us/pl/106/170/s532/c/2/U], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931].)
+(Added [Pub. L. 96–510, title II][/us/pl/96/510/tII], § 211(a), Dec. 11, 1980, [94 Stat. 2799][/us/stat/94/2799]; amended [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1019(a)–(c), July 18, 1984, [98 Stat. 1022–1024][/us/stat/98/1022-1024]; [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 513(b)–(g), Oct. 17, 1986, [100 Stat. 1762–1765][/us/stat/100/1762-1765]; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2001(a), Nov. 10, 1988, [102 Stat. 3593][/us/stat/102/3593]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(2)(U), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931].)
 
  __References in Text__ 
 
@@ -359,39 +359,39 @@
 
     1999—Subsec. (c)(2)(C). [Pub. L. 106–170][/us/pl/106/170] substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-    1988—Subsec. (b)(10)(A). [Pub. L. 100–647, § 2001(a)(2)][/us/pl/100/647/s2001/a/2], substituted “one or more” for “a mixture of”.
+    1988—Subsec. (b)(10)(A). [Pub. L. 100–647][/us/pl/100/647], § 2001(a)(2), substituted “one or more” for “a mixture of”.
 
-    Subsec. (e)(3), (4). [Pub. L. 100–647, § 2001(a)(1)][/us/pl/100/647/s2001/a/1], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (e)(3), (4). [Pub. L. 100–647][/us/pl/100/647], § 2001(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-    1986—Subsec. (b)(7). [Pub. L. 99–499, § 513(c)][/us/pl/99/499/s513/c], added par. (7).
+    1986—Subsec. (b)(7). [Pub. L. 99–499][/us/pl/99/499], § 513(c), added par. (7).
 
-    Subsec. (b)(8). [Pub. L. 99–499, § 513(d)][/us/pl/99/499/s513/d], added par. (8).
+    Subsec. (b)(8). [Pub. L. 99–499][/us/pl/99/499], § 513(d), added par. (8).
 
-    Subsec. (b)(9). [Pub. L. 99–499, § 513(e)(1)][/us/pl/99/499/s513/e/1], added par. (9).
+    Subsec. (b)(9). [Pub. L. 99–499][/us/pl/99/499], § 513(e)(1), added par. (9).
 
-    Subsec. (b)(10). [Pub. L. 99–499, § 513(g)][/us/pl/99/499/s513/g], added par. (10).
+    Subsec. (b)(10). [Pub. L. 99–499][/us/pl/99/499], § 513(g), added par. (10).
 
-    Subsec. (c). [Pub. L. 99–499, § 513(f)][/us/pl/99/499/s513/f], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
+    Subsec. (c). [Pub. L. 99–499][/us/pl/99/499], § 513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
 
-    Subsec. (d)(1). [Pub. L. 99–499, § 513(b)(2)][/us/pl/99/499/s513/b/2], substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
+    Subsec. (d)(1). [Pub. L. 99–499][/us/pl/99/499], § 513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
 
-    Subsec. (d)(4). [Pub. L. 99–499, § 513(e)(2)][/us/pl/99/499/s513/e/2], added par. (4).
+    Subsec. (d)(4). [Pub. L. 99–499][/us/pl/99/499], § 513(e)(2), added par. (4).
 
-    Subsecs. (e), (f). [Pub. L. 99–499, § 513(b)(1)][/us/pl/99/499/s513/b/1], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 99–499][/us/pl/99/499], § 513(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    1984—Subsec. (b)(1). [Pub. L. 98–369, § 1019(a)(3)][/us/pl/98/369/s1019/a/3], inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
+    1984—Subsec. (b)(1). [Pub. L. 98–369][/us/pl/98/369], § 1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
 
-    Subsec. (b)(2)(A). [Pub. L. 98–369, § 1019(b)(2)(A)][/us/pl/98/369/s1019/b/2/A], substituted “qualified fertilizer substance” for “qualified substance”.
+    Subsec. (b)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
 
-    Subsec. (b)(2)(B) to (D). [Pub. L. 98–369, § 1019(b)(1)][/us/pl/98/369/s1019/b/1], inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
+    Subsec. (b)(2)(B) to (D). [Pub. L. 98–369][/us/pl/98/369], § 1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
 
-    Subsec. (b)(5), (6). [Pub. L. 98–369, § 1019(a)(1)][/us/pl/98/369/s1019/a/1], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 98–369][/us/pl/98/369], § 1019(a)(1), added pars. (5) and (6).
 
-    Subsec. (c). [Pub. L. 98–369, § 1019(c)][/us/pl/98/369/s1019/c], substituted “Except as provided in subsection (b), if” for “If”.
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 1019(c), substituted “Except as provided in subsection (b), if” for “If”.
 
-    Subsec. (d)(2)(B). [Pub. L. 98–369, § 1019(b)(2)(B)][/us/pl/98/369/s1019/b/2/B], inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
+    Subsec. (d)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
 
-    Subsec. (d)(3). [Pub. L. 98–369, § 1019(a)(2)][/us/pl/98/369/s1019/a/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 98–369][/us/pl/98/369], § 1019(a)(2), added par. (3).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -399,7 +399,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499/tV], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -407,7 +407,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X, § 1019(d)][/us/pl/98/369/s1019/d], July 18, 1984, [98 Stat. 1024][/us/stat/98/1024], provided that:
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1019(d), July 18, 1984, [98 Stat. 1024][/us/stat/98/1024], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -424,46 +424,46 @@
 ----------
 ----------
 
-[/us/pl/96/510/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs211%2Fa
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2799
-[/us/pl/98/369/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1022-1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1022-1024
-[/us/pl/99/499/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fb
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1762-1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1762-1765
-[/us/pl/100/647/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fa
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3593
-[/us/pl/106/170/s532/c/2/U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F2%2FU
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
 [/us/usc/t42/s9606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9606
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/100/647/s2001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fa%2F2
-[/us/pl/100/647/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fa%2F1
-[/us/pl/99/499/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fc
-[/us/pl/99/499/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fd
-[/us/pl/99/499/s513/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fe%2F1
-[/us/pl/99/499/s513/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fg
-[/us/pl/99/499/s513/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Ff
-[/us/pl/99/499/s513/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fb%2F2
-[/us/pl/99/499/s513/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fe%2F2
-[/us/pl/99/499/s513/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fb%2F1
-[/us/pl/98/369/s1019/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fa%2F3
-[/us/pl/98/369/s1019/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fb%2F2%2FA
-[/us/pl/98/369/s1019/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fb%2F1
-[/us/pl/98/369/s1019/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fa%2F1
-[/us/pl/98/369/s1019/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fc
-[/us/pl/98/369/s1019/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fb%2F2%2FB
-[/us/pl/98/369/s1019/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fa%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/pl/100/647/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499/s513/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fh
 [/us/usc/t26/s4661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4661
-[/us/pl/98/369/s1019/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1019%2Fd
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1024
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 

@@ -67,7 +67,7 @@ Amendments  </td>
 
 </table>
 
-    1998—[Pub. L. 105–206, title III, § 3306(b)][/us/pl/105/206/s3306/b], July 22, 1998, [112 Stat. 744][/us/stat/112/744], added item for subchapter C.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3306(b), July 22, 1998, [112 Stat. 744][/us/stat/112/744], added item for subchapter C.
 
 ----------
 
@@ -76,7 +76,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/105/206/s3306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3306%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F744
 
 

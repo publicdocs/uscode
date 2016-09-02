@@ -17,7 +17,7 @@
 
     Unless the decedent directs otherwise in his will, if any part of the gross estate on which the tax has been paid consists of the value of property included in the gross estate under section 2041, the executor shall be entitled to recover from the person receiving such property by reason of the exercise, nonexercise, or release of a power of appointment such portion of the total tax paid as the value of such property bears to the taxable estate. If there is more than one such person, the executor shall be entitled to recover from such persons in the same ratio. In the case of such property received by the surviving spouse of the decedent for which a deduction is allowed under section 2056 (relating to marital deduction), this section shall not apply to such property except as to the value thereof reduced by an amount equal to the excess of the aggregate amount of the marital deductions allowed under section 2056 over the amount of proceeds of insurance upon the life of the decedent receivable by the surviving spouse for which proceeds a marital deduction is allowed under such section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 402][/us/stat/68A/402]; [Pub. L. 94–455, title XX, § 2001(c)(1)(I)][/us/pl/94/455/s2001/c/1/I], Oct. 4, 1976, [90 Stat. 1852][/us/stat/90/1852].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 402][/us/stat/68A/402]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(1)(I), Oct. 4, 1976, [90 Stat. 1852][/us/stat/90/1852].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F402
-[/us/pl/94/455/s2001/c/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FI
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1852
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

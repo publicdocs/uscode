@@ -67,25 +67,25 @@
 
             Amounts invested in less developed country corporations described in section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975) shall be treated as qualified investments in foreign base company shipping operations and shall not be treated as investments in less developed countries for purposes of section 951(a)(1)(A)(ii).
 
-(Added [Pub. L. 94–12, title VI, § 602(d)(3)(A)][/us/pl/94/12/s602/d/3/A], Mar. 29, 1975, [89 Stat. 62][/us/stat/89/62]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XII, § 1221(c)(3)(B)][/us/pl/99/514/s1221/c/3/B], (C), Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553]; [Pub. L. 100–647, title I, § 1012(i)(11)][/us/pl/100/647/s1012/i/11], Nov. 10, 1988, [102 Stat. 3509][/us/stat/102/3509].)
+(Added [Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(d)(3)(A), Mar. 29, 1975, [89 Stat. 62][/us/stat/89/62]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1221(c)(3)(B), (C), Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(i)(11), Nov. 10, 1988, [102 Stat. 3509][/us/stat/102/3509].)
 
  __References in Text__ 
 
-    Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1013][/us/stat/76/1013], and as in effect from 1962 until the repeal of that section and the enactment of this section by [Pub. L. 94–12][/us/pl/94/12].
+    Section 955(c)(2) (as in effect before the enactment of the Tax Reduction Act of 1975), referred to in subsecs. (a)(2) and (b)(5), refers to section 955(c)(2) as added by [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1013][/us/stat/76/1013], and as in effect from 1962 until the repeal of that section and the enactment of this section by [Pub. L. 94–12][/us/pl/94/12].
 
     The Tax Reduction Act of 1975, referred to in subsecs. (a)(2) and (b)(5), is [Pub. L. 94–12][/us/pl/94/12], Mar. 29, 1975, [89 Stat. 26][/us/stat/89/26], as amended, which was enacted Mar. 29, 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 955, added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1013][/us/stat/76/1013], related to investments in less developed countries and dealing with less developed country corporations, prior to repeal by [Pub. L. 94–12, title VI, § 602(c)(5)][/us/pl/94/12/s602/c/5], Mar. 29, 1975, [89 Stat. 59][/us/stat/89/59].
+    A prior section 955, added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1013][/us/stat/76/1013], related to investments in less developed countries and dealing with less developed country corporations, prior to repeal by [Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(c)(5), Mar. 29, 1975, [89 Stat. 59][/us/stat/89/59].
 
  __Amendments__ 
 
     1988—Subsec. (a)(2)(A). [Pub. L. 100–647][/us/pl/100/647] inserted “(to the extent such amount exceeds the sum of the decreases in qualified investments determined under this paragraph for prior taxable years beginning after 1986)” after “beginning before 1987”.
 
-    1986—Subsec. (a)(1)(A). [Pub. L. 99–514, § 1221(c)(3)(B)][/us/pl/99/514/s1221/c/3/B], inserted “beginning before 1987” after “all prior taxable years”.
+    1986—Subsec. (a)(1)(A). [Pub. L. 99–514][/us/pl/99/514], § 1221(c)(3)(B), inserted “beginning before 1987” after “all prior taxable years”.
 
-    Subsec. (a)(2)(A). [Pub. L. 99–514, § 1221(c)(3)(C)][/us/pl/99/514/s1221/c/3/C], substituted “as of the close of the last taxable year beginning before 1987” for “at the close of the preceding taxable year”.
+    Subsec. (a)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 1221(c)(3)(C), substituted “as of the close of the last taxable year beginning before 1987” for “at the close of the preceding taxable year”.
 
     1976—Subsec. (b)(2), (3). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -99,7 +99,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–12, title VI, § 602(f)][/us/pl/94/12/s602/f], Mar. 29, 1975, [89 Stat. 64][/us/stat/89/64], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(f), Mar. 29, 1975, [89 Stat. 64][/us/stat/89/64], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending sections 851, 902, 951, and 954 of this title, and repealing section 963 and former [section 955 of this title][/us/usc/t26/s955]\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
 
@@ -110,27 +110,27 @@
 ----------
 ----------
 
-[/us/pl/94/12/s602/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fd%2F3%2FA
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F62
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1221/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fc%2F3%2FB
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2553
-[/us/pl/100/647/s1012/i/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F11
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3509
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1013
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/stat/89/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F26
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1013
-[/us/pl/94/12/s602/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fc%2F5
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F59
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1221/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fc%2F3%2FB
-[/us/pl/99/514/s1221/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fc%2F3%2FC
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -139,9 +139,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1221/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fg
 [/us/usc/t26/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs954
-[/us/pl/94/12/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Ff
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F64
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs955
 

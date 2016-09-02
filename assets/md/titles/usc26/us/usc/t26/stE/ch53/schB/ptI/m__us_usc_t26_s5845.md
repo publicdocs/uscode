@@ -69,23 +69,23 @@
 
         The term “manufacturer” means any person who is engaged in the business of manufacturing firearms.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1230][/us/stat/82/1230]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], (J), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835; [Pub. L. 99–308, § 109][/us/pl/99/308/s109], May 19, 1986, [100 Stat. 460][/us/stat/100/460].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1230][/us/stat/82/1230]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), (J), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835; [Pub. L. 99–308][/us/pl/99/308], § 109, May 19, 1986, [100 Stat. 460][/us/stat/100/460].)
 
  __Prior Provisions__ 
 
     A prior section 5845, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 725][/us/stat/68A/725], related to the importation of firearms into the United States or its territory, prior to the general revisions of this chapter by [Pub. L. 90–618][/us/pl/90/618].
 
-    Provisions similar to those comprising this section were contained in prior section 5848, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 727][/us/stat/68A/727], as amended by acts Sept. 2, 1958, [Pub. L. 85–859, title II, § 203(f)][/us/pl/85/859/s203/f], [72 Stat. 1427][/us/stat/72/1427]; June 1, 1960, [Pub. L. 86–478, § 3][/us/pl/86/478/s3], [74 Stat. 149][/us/stat/74/149], prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
+    Provisions similar to those comprising this section were contained in prior section 5848, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 727][/us/stat/68A/727], as amended by acts Sept. 2, 1958, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 203(f), [72 Stat. 1427][/us/stat/72/1427]; June 1, 1960, [Pub. L. 86–478][/us/pl/86/478], § 3, [74 Stat. 149][/us/stat/74/149], prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
 
  __Amendments__ 
 
-    1986—Subsec. (a)(7). [Pub. L. 99–308, § 109(b)][/us/pl/99/308/s109/b], substituted “any silencer (as defined in [section 921 of title 18][/us/usc/t18/s921], United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
+    1986—Subsec. (a)(7). [Pub. L. 99–308][/us/pl/99/308], § 109(b), substituted “any silencer (as defined in [section 921 of title 18][/us/usc/t18/s921], United States Code)” for “a muffler or a silencer for any firearm whether or not such firearm is included within this definition”.
 
-    Subsec. (b). [Pub. L. 99–308, § 109(a)][/us/pl/99/308/s109/a], substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
+    Subsec. (b). [Pub. L. 99–308][/us/pl/99/308], § 109(a), substituted “any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun,” for “any combination of parts designed and intended for use in converting a weapon into a machinegun,”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (f). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
+    Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), (J), struck out “or his delegate” after “shotgun or shotgun shell which the Secretary” and “of the Treasury or his delegate” after “or any other device which the Secretary”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -103,27 +103,27 @@
 ----------
 
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1230
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/308/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs109
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/stat/100/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F460
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F725
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F727
-[/us/pl/85/859/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs203%2Ff
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1427
-[/us/pl/86/478/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478%2Fs3
+[/us/pl/86/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478
 [/us/stat/74/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F149
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
-[/us/pl/99/308/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs109%2Fb
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921
-[/us/pl/99/308/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs109%2Fa
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308
 [/us/pl/99/308/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F308%2Fs110%2Fa
 [/us/usc/t18/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921

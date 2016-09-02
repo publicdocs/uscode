@@ -131,7 +131,7 @@
 
         The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 551][/us/stat/98/551]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, [100 Stat. 2796][/us/stat/100/2796], 2912; [Pub. L. 100–647, title I, § 1018(q)(4)(A)][/us/pl/100/647/s1018/q/4/A], Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585]; [Pub. L. 108–357, title VIII, § 831(a)][/us/pl/108/357/s831/a], Oct. 22, 2004, [118 Stat. 1587][/us/stat/118/1587].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 551][/us/stat/98/551]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], §§ 1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, [100 Stat. 2796][/us/stat/100/2796], 2912; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(q)(4)(A), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 831(a), Oct. 22, 2004, [118 Stat. 1587][/us/stat/118/1587].)
 
  __Amendments__ 
 
@@ -151,11 +151,11 @@
 
     “(4) subsection (b)(2) shall be applied by increasing the basis of the bond or coupon by the interest accrued but not paid before the time such bond or coupon was disposed of (and not previously reflected in basis).”
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1803(a)(13)(B)(i)][/us/pl/99/514/s1803/a/13/B/i], amended par. (1) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(13)(B)(i), amended par. (1) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
-    Subsec. (b)(2). [Pub. L. 99–514, § 1803(a)(13)(B)(ii)][/us/pl/99/514/s1803/a/13/B/ii], substituted “the amount included in gross income under paragraph (1)” for “the amount of the accrued interest described in paragraph (1)”.
+    Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(13)(B)(ii), substituted “the amount included in gross income under paragraph (1)” for “the amount of the accrued interest described in paragraph (1)”.
 
-    Subsec. (d). [Pub. L. 99–514, § 1879(s)(1)][/us/pl/99/514/s1879/s/1], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1879(s)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3))—
 
     “(1) subsections (a) and (b)(1) shall not apply,
 
@@ -169,7 +169,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1018(q)(4)(B)][/us/pl/100/647/s1018/q/4/B], Nov. 10, 1988, [102 Stat. 3586][/us/stat/102/3586], provided that:
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(q)(4)(B), Nov. 10, 1988, [102 Stat. 3586][/us/stat/102/3586], provided that:
 
 >     “(i) Except as provided in clause (ii), the amendment made by subparagraph (A) \[amending this section\] shall apply to any purchase or sale after June 10, 1987, of any stripped tax-exempt obligation or stripped coupon from such an obligation.
 
@@ -187,7 +187,7 @@
 
     Amendment by [section 1803(a)(13)(B) of Pub. L. 99–514][/us/pl/99/514/s1803/a/13/B] applicable to obligations acquired after Oct. 22, 1986, see [section 1803(a)(13)(C) of Pub. L. 99–514][/us/pl/99/514/s1803/a/13/C], set out as a note under [section 1276 of this title][/us/usc/t26/s1276].
 
-[Pub. L. 99–514, title XVIII, § 1879(s)(2)][/us/pl/99/514/s1879/s/2], Oct. 22, 1986, [100 Stat. 2913][/us/stat/100/2913], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1879(s)(2), Oct. 22, 1986, [100 Stat. 2913][/us/stat/100/2913], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to any purchase or sale of any stripped tax-exempt obligation or stripped coupon from such an obligation after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -206,28 +206,28 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F551
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2796
-[/us/pl/100/647/s1018/q/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fq%2F4%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3585
-[/us/pl/108/357/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs831%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1587
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1803/a/13/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FB%2Fi
-[/us/pl/99/514/s1803/a/13/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FB%2Fii
-[/us/pl/99/514/s1879/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fs%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs831%2Fc
 [/us/usc/t26/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs305
-[/us/pl/100/647/s1018/q/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fq%2F4%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3586
 [/us/pl/99/514/s1803/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FB
 [/us/pl/99/514/s1803/a/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FC
 [/us/usc/t26/s1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1276
-[/us/pl/99/514/s1879/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fs%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2913
 [/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44
 [/us/usc/t26/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1271

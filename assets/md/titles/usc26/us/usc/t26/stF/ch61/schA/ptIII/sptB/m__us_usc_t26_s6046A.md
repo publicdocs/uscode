@@ -43,23 +43,23 @@
 
         For provisions relating to penalties for violations of this section, see sections 6679 and 7203.
 
-(Added [Pub. L. 97–248, title IV, § 405(a)][/us/pl/97/248/s405/a], Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; amended [Pub. L. 105–34, title XI, § 1143(a)][/us/pl/105/34/s1143/a], Aug. 5, 1997, [111 Stat. 983][/us/stat/111/983].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 405(a), Sept. 3, 1982, [96 Stat. 669][/us/stat/96/669]; amended [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1143(a), Aug. 5, 1997, [111 Stat. 983][/us/stat/111/983].)
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1143(a)(1)][/us/pl/105/34/s1143/a/1], inserted at end “Paragraphs (1) and (2) shall apply to any acquisition or disposition only if the United States person directly or indirectly holds at least a 10-percent interest in such partnership either before or after such acquisition or disposition, and paragraph (3) shall apply to any change only if the change is equivalent to at least a 10-percent interest in such partnership.”
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1143(a)(1), inserted at end “Paragraphs (1) and (2) shall apply to any acquisition or disposition only if the United States person directly or indirectly holds at least a 10-percent interest in such partnership either before or after such acquisition or disposition, and paragraph (3) shall apply to any change only if the change is equivalent to at least a 10-percent interest in such partnership.”
 
-    Subsecs. (d), (e). [Pub. L. 105–34, § 1143(a)(2)][/us/pl/105/34/s1143/a/2], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 105–34][/us/pl/105/34], § 1143(a)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1143(c)][/us/pl/105/34/s1143/c], Aug. 5, 1997, [111 Stat. 984][/us/stat/111/984], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1143(c), Aug. 5, 1997, [111 Stat. 984][/us/stat/111/984], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6679 of this title][/us/usc/t26/s6679]\] shall apply to transfers and changes after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title IV, § 407(b)][/us/pl/97/248/s407/b], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], provided that: 
+[Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 407(b), Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], provided that: 
 
 > “The amendments made by section 405 \[enacting this section and amending [section 6679 of this title][/us/usc/t26/s6679]\] shall apply with respect to acquisitions or dispositions of, or substantial changes in, interests in foreign partnerships occurring after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -74,16 +74,16 @@
 ----------
 ----------
 
-[/us/pl/97/248/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs405%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F669
-[/us/pl/105/34/s1143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1143%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F983
-[/us/pl/105/34/s1143/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1143%2Fa%2F1
-[/us/pl/105/34/s1143/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1143%2Fa%2F2
-[/us/pl/105/34/s1143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1143%2Fc
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F984
 [/us/usc/t26/s6679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6679
-[/us/pl/97/248/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs407%2Fb
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
 [/us/usc/t26/s6679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6679
 [/us/pl/97/248/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs406

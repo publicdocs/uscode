@@ -87,7 +87,7 @@
 
             The term “qualified issuer” means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
 
-(Added [Pub. L. 110–343, div. B, title I, § 107(a)][/us/pl/110/343/s107/a], Oct. 3, 2008, [122 Stat. 3817][/us/stat/122/3817]; amended [Pub. L. 111–5, div. B, title I, § 1111][/us/pl/111/5/s1111], Feb. 17, 2009, [123 Stat. 322][/us/stat/123/322].)
+(Added [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 107(a), Oct. 3, 2008, [122 Stat. 3817][/us/stat/122/3817]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1111, Feb. 17, 2009, [123 Stat. 322][/us/stat/123/322].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Application of Certain Labor Standards to Projects Financed With Certain Tax-Favored Bonds__ 
 
-[Pub. L. 111–5, div. B, title I, § 1601][/us/pl/111/5/s1601], Feb. 17, 2009, [123 Stat. 362][/us/stat/123/362], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1601, Feb. 17, 2009, [123 Stat. 362][/us/stat/123/362], provided that: 
 
 > “Subchapter IV of chapter 31 of the \[sic\] title 40, United States Code, shall apply to projects financed with the proceeds of—
 
@@ -128,9 +128,9 @@
 ----------
 ----------
 
-[/us/pl/110/343/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3817
-[/us/pl/111/5/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1111
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F322
 [/us/usc/t16/s824q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824q
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -140,7 +140,7 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/343/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fd
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/111/5/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1601
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F362
 
 

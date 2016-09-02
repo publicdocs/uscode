@@ -47,13 +47,13 @@
 
         Paragraphs (1) and (4) shall not apply for purposes of section 956(c)(2) to treat stock of a domestic corporation as not owned by a United States shareholder.
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1018][/us/stat/76/1018]; amended [Pub. L. 88–554, § 4(b)(5)][/us/pl/88/554/s4/b/5], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 94–455, title X, § 1021(b)][/us/pl/94/455/s1021/b], Oct. 4, 1976, [90 Stat. 1619][/us/stat/90/1619]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1703(i)(4), 1704(t)(7), Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876], 1887.)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1018][/us/stat/76/1018]; amended [Pub. L. 88–554][/us/pl/88/554], § 4(b)(5), Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1021(b), Oct. 4, 1976, [90 Stat. 1619][/us/stat/90/1619]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1703(i)(4), 1704(t)(7), Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876], 1887.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–188, § 1704(t)(7)][/us/pl/104/188/s1704/t/7], substituted “section 960(a)(1)” for “sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)” in introductory provisions.
+    1996—Subsec. (a)(1). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(7), substituted “section 960(a)(1)” for “sections 955(b)(1)(A) and (B), 955(c)(2)(A)(ii), and 960(a)(1)” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 104–188, § 1703(i)(4)][/us/pl/104/188/s1703/i/4], substituted “956(c)(2)” for “956(b)(2)” wherever appearing in introductory and closing provisions.
+    Subsec. (b). [Pub. L. 104–188][/us/pl/104/188], § 1703(i)(4), substituted “956(c)(2)” for “956(b)(2)” wherever appearing in introductory and closing provisions.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] inserted “956(b)(2)” after “purposes of sections 951(b), 954(d)(3),”, “to treat the stock of a domestic corporation as owned by a United States shareholder of the controlled foreign corporation for purposes of section 956(b)(2)” after “meaning of section 954(d)(3)” and “Paragraphs (1) and (4) shall not apply for purposes of section 956(b)(2) to treat stock of a domestic corporation as not owned by a United States shareholder” following subpar. (4).
 
@@ -78,16 +78,16 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1018
-[/us/pl/88/554/s4/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554%2Fs4%2Fb%2F5
+[/us/pl/88/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554
 [/us/stat/78/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F763
-[/us/pl/94/455/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1021%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1619
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1876
-[/us/pl/104/188/s1704/t/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F7
-[/us/pl/104/188/s1703/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fi%2F4
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554
 [/us/usc/t26/s318/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs318%2Fa%2F2

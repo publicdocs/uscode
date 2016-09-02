@@ -135,7 +135,7 @@
 
             In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 208][/us/stat/68A/208]; [Pub. L. 85–866, title I, § 36(a)][/us/pl/85/866/s36/a], Sept. 2, 1958, [72 Stat. 1633][/us/stat/72/1633]; [Pub. L. 86–564, title III, § 302(a)][/us/pl/86/564/s302/a], (b), June 30, 1960, [74 Stat. 291][/us/stat/74/291], 292; [Pub. L. 87–834, § 13(e)][/us/pl/87/834/s13/e], Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 88–571, § 6(a)][/us/pl/88/571/s6/a], Sept. 2, 1964, [78 Stat. 860][/us/stat/78/860]; [Pub. L. 89–809, title II][/us/pl/89/809], §§ 207(a), 208(a), 209(a), (b), Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], 1580; [Pub. L. 91–172, title V][/us/pl/91/172], §§ 501(a), 502(a), Dec. 30, 1969, [83 Stat. 629][/us/stat/83/629], 630; [Pub. L. 93–499, § 2(a)][/us/pl/93/499/s2/a], Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; [Pub. L. 94–12, title V, § 501(b)(1)][/us/pl/94/12/s501/b/1], (2), Mar. 29, 1975, [89 Stat. 53][/us/stat/89/53]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 95–618, title IV, § 403(a)(1)][/us/pl/95/618/s403/a/1], (2)(A), Nov. 9, 1978, [92 Stat. 3203][/us/stat/92/3203]; [Pub. L. 99–514, title IV, § 412(a)(2)][/us/pl/99/514/s412/a/2], Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11522(a), 11815(b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], 1388–557, 1388–558; [Pub. L. 104–188, title I, § 1704(t)(34)][/us/pl/104/188/s1704/t/34], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title I, § 102(d)(6)][/us/pl/108/357/s102/d/6], Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429]; [Pub. L. 109–135, title IV, § 412(gg)][/us/pl/109/135/s412/gg], Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 208][/us/stat/68A/208]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 36(a), Sept. 2, 1958, [72 Stat. 1633][/us/stat/72/1633]; [Pub. L. 86–564, title III][/us/pl/86/564/tIII], § 302(a), (b), June 30, 1960, [74 Stat. 291][/us/stat/74/291], 292; [Pub. L. 87–834][/us/pl/87/834], § 13(e), Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 88–571][/us/pl/88/571], § 6(a), Sept. 2, 1964, [78 Stat. 860][/us/stat/78/860]; [Pub. L. 89–809, title II][/us/pl/89/809/tII], §§ 207(a), 208(a), 209(a), (b), Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], 1580; [Pub. L. 91–172, title V][/us/pl/91/172/tV], §§ 501(a), 502(a), Dec. 30, 1969, [83 Stat. 629][/us/stat/83/629], 630; [Pub. L. 93–499][/us/pl/93/499], § 2(a), Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; [Pub. L. 94–12, title V][/us/pl/94/12/tV], § 501(b)(1), (2), Mar. 29, 1975, [89 Stat. 53][/us/stat/89/53]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 95–618, title IV][/us/pl/95/618/tIV], § 403(a)(1), (2)(A), Nov. 9, 1978, [92 Stat. 3203][/us/stat/92/3203]; [Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 412(a)(2), Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11522(a), 11815(b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], 1388–557, 1388–558; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(34), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 102(d)(6), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(gg), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639].)
 
  __Amendments__ 
 
@@ -145,63 +145,63 @@
 
     1996—Subsec. (e)(1)(B). [Pub. L. 104–188][/us/pl/104/188] substituted “subsection (b).” for “subsection (b),”.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 11522(a)][/us/pl/101/508/s11522/a], inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
 
-    Subsec. (e)(1)(B). [Pub. L. 101–508, § 11815(b)(2)][/us/pl/101/508/s11815/b/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the applicable percentage (determined under the table contained in paragraph (2)) shall be deemed to be the percentage specified in subsection (b).”
+    Subsec. (e)(1)(B). [Pub. L. 101–508][/us/pl/101/508], § 11815(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the applicable percentage (determined under the table contained in paragraph (2)) shall be deemed to be the percentage specified in subsection (b).”
 
-    Subsec. (e)(2) to (4). [Pub. L. 101–508, § 11815(b)(1)][/us/pl/101/508/s11815/b/1], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to the applicable percentage depletion for geothermal deposits.
+    Subsec. (e)(2) to (4). [Pub. L. 101–508][/us/pl/101/508], § 11815(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to the applicable percentage depletion for geothermal deposits.
 
     1986—Subsec. (e)(4). [Pub. L. 99–514][/us/pl/99/514] added par. (4).
 
-    1978—Subsec. (c)(1). [Pub. L. 95–618, § 403(a)(2)(A)][/us/pl/95/618/s403/a/2/A], inserted “and other than a geothermal deposit” after “oil or gas well”.
+    1978—Subsec. (c)(1). [Pub. L. 95–618][/us/pl/95/618], § 403(a)(2)(A), inserted “and other than a geothermal deposit” after “oil or gas well”.
 
-    Subsec. (e). [Pub. L. 95–618, § 403(a)(1)][/us/pl/95/618/s403/a/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–618][/us/pl/95/618], § 403(a)(1), added subsec. (e).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1901(b)(3)(K)][/us/pl/94/455/s1901/b/3/K], substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
-    Subsec. (c)(2), (4)(I). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(2), (4)(I). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    1975—Subsec. (b)(1). [Pub. L. 94–12, § 501(b)(2)(A)][/us/pl/94/12/s501/b/2/A], struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
+    1975—Subsec. (b)(1). [Pub. L. 94–12][/us/pl/94/12], § 501(b)(2)(A), struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
 
-    Subsec. (b)(3), (4). [Pub. L. 94–12, § 501(b)(2)(B)][/us/pl/94/12/s501/b/2/B], substituted “(1)(B)” for “(1)(C)” wherever appearing.
+    Subsec. (b)(3), (4). [Pub. L. 94–12][/us/pl/94/12], § 501(b)(2)(B), substituted “(1)(B)” for “(1)(C)” wherever appearing.
 
-    Subsec. (b)(7). [Pub. L. 94–12, § 501(b)(2)][/us/pl/94/12/s501/b/2] (B), (C), substituted “(1)(B)” for “(1)(C)” in provisions preceding subpar. (A) and added subpar. (C).
+    Subsec. (b)(7). [Pub. L. 94–12][/us/pl/94/12], § 501(b)(2) (B), (C), substituted “(1)(B)” for “(1)(C)” in provisions preceding subpar. (A) and added subpar. (C).
 
-    Subsec. (d). [Pub. L. 94–12, § 501(b)(1)][/us/pl/94/12/s501/b/1], substituted provisions denying the percentage depletion allowance in the case of oil and gas wells except as provided in section 613A for provisions governing the application of percentage depletion rates to certain taxable years ending in 1954.
+    Subsec. (d). [Pub. L. 94–12][/us/pl/94/12], § 501(b)(1), substituted provisions denying the percentage depletion allowance in the case of oil and gas wells except as provided in section 613A for provisions governing the application of percentage depletion rates to certain taxable years ending in 1954.
 
     1974—Subsec. (c)(4)(E). [Pub. L. 93–499][/us/pl/93/499] inserted reference to decarbonation of trona.
 
-    1969—Subsec. (b). [Pub. L. 91–172, § 501(a)][/us/pl/91/172/s501/a], reduced the percentage depletion rate on oil and gas wells from 27½ percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
+    1969—Subsec. (b). [Pub. L. 91–172][/us/pl/91/172], § 501(a), reduced the percentage depletion rate on oil and gas wells from 27½ percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
 
-    Subsec. (c)(4)(H), (I). [Pub. L. 91–172, § 502(a)][/us/pl/91/172/s502/a], added subpar. (H) and redesignated former subpar. (H) as (I).
+    Subsec. (c)(4)(H), (I). [Pub. L. 91–172][/us/pl/91/172], § 502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
-    1966—Subsec. (b)(2)(B). [Pub. L. 89–809, § 207(a)(1)][/us/pl/89/809/s207/a/1], inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
+    1966—Subsec. (b)(2)(B). [Pub. L. 89–809][/us/pl/89/809], § 207(a)(1), inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
 
     Subsec. (b)(3)(B). [Pub. L. 89–809][/us/pl/89/809], §§ 207(a)(2), 209(a)(2), substituted “if neither paragraph (2)(B), (5), or (6)(B) applies” for “if paragraph (5)(B) does not apply”.
 
-    Subsec. (b)(5). [Pub. L. 89–809, § 209(a)(1)][/us/pl/89/809/s209/a/1], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 89–809][/us/pl/89/809], § 209(a)(1), added par. (5). Former par. (5) redesignated (6).
 
     Subsec. (b)(6). [Pub. L. 89–809][/us/pl/89/809], §§ 208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out “mollusk shells (including clam shells and oyster shells),”, substituted “shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))” for “shale, and stone, except stone described in paragraph (6)” in subpar. (A), and struck out “building or paving brick,” and “sewer pipe,” in subpar. (B). Former par. (6) redesignated (7).
 
     Subsec. (b)(7). [Pub. L. 89–809][/us/pl/89/809], §§ 208(a)(2), 209(a)(1), (5), redesignated par. (6) as (7) and inserted “mollusk shells (including clam shells and oyster shells),” after “marble,” and “(other than slate to which paragraph (5) applies)” after “any other such mineral”.
 
-    Subsec. (c)(4)(G). [Pub. L. 89–809, § 209(b)][/us/pl/89/809/s209/b], substituted “paragraph (5) or (6)(B)” for “paragraph (5)(B)”.
+    Subsec. (c)(4)(G). [Pub. L. 89–809][/us/pl/89/809], § 209(b), substituted “paragraph (5) or (6)(B)” for “paragraph (5)(B)”.
 
     1964—Subsec. (b)(2)(B), (6). [Pub. L. 88–571][/us/pl/88/571] inserted “beryllium” after “antimony” in par. (2)(B), and deleted “beryl” after “bauxite” in pars. (2)(B) and (6).
 
     1962—Subsec. (a). [Pub. L. 87–834][/us/pl/87/834] inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
-    1960—Subsec. (b)(3). [Pub. L. 86–564, § 302(a)(1)][/us/pl/86/564/s302/a/1], limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
+    1960—Subsec. (b)(3). [Pub. L. 86–564][/us/pl/86/564], § 302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
-    Subsec. (b)(5). [Pub. L. 86–564, § 302(a)(2)][/us/pl/86/564/s302/a/2], substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
+    Subsec. (b)(5). [Pub. L. 86–564][/us/pl/86/564], § 302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
-    Subsec. (b)(6). [Pub. L. 86–564, § 302(a)(3)][/us/pl/86/564/s302/a/3], struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
+    Subsec. (b)(6). [Pub. L. 86–564][/us/pl/86/564], § 302(a)(3), struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
 
-    Subsec. (c)(2). [Pub. L. 86–564, § 302(b)(1)][/us/pl/86/564/s302/b/1], substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
+    Subsec. (c)(2). [Pub. L. 86–564][/us/pl/86/564], § 302(b)(1), substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
 
-    Subsec. (c)(4). [Pub. L. 86–564, § 302(b)(2)][/us/pl/86/564/s302/b/2], substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
+    Subsec. (c)(4). [Pub. L. 86–564][/us/pl/86/564], § 302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
 
-    Subsec. (c)(5). [Pub. L. 86–564, § 302(b)(2)][/us/pl/86/564/s302/b/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 86–564][/us/pl/86/564], § 302(b)(2), added par. (5).
 
     1958—Subsec. (d). [Pub. L. 85–866][/us/pl/85/866] added subsec. (d).
 
@@ -211,19 +211,19 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11522(c)][/us/pl/101/508/s11522/c], Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11522(c), Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall apply to taxable years beginning after December 31, 1990.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title IV, § 412(a)(3)][/us/pl/99/514/s412/a/3], Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227], provided that: 
+[Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 412(a)(3), Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227], provided that: 
 
 > “The amendment made by this subsection \[amending this section and [section 613A of this title][/us/usc/t26/s613A]\] shall apply to amounts received or accrued after August 16, 1986, in taxable years ending after such date.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–618, title IV, § 403(c)][/us/pl/95/618/s403/c], Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204], provided that: 
+[Pub. L. 95–618, title IV][/us/pl/95/618/tIV], § 403(c), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 613A and 614 of this title\] shall take effect on October 1, 1978, and shall apply to taxable years ending on or after such date.”
 
@@ -237,37 +237,37 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–499, § 2(b)][/us/pl/93/499/s2/b], Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550], provided that: 
+[Pub. L. 93–499][/us/pl/93/499], § 2(b), Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1970.”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title V, § 501(b)][/us/pl/91/172/s501/b], Dec. 30, 1969, [83 Stat. 630][/us/stat/83/630], provided that: 
+[Pub. L. 91–172, title V][/us/pl/91/172/tV], § 501(b), Dec. 30, 1969, [83 Stat. 630][/us/stat/83/630], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after October 9, 1969.”
 
-[Pub. L. 91–172, title V, § 502(b)][/us/pl/91/172/s502/b], Dec. 30, 1969, [83 Stat. 630][/us/stat/83/630], provided that: 
+[Pub. L. 91–172, title V][/us/pl/91/172/tV], § 502(b), Dec. 30, 1969, [83 Stat. 630][/us/stat/83/630], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 30, 1969\].”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–809, title II, § 207(b)][/us/pl/89/809/s207/b], Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 207(b), Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
-[Pub. L. 89–809, title II, § 208(b)][/us/pl/89/809/s208/b], Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 208(b), Nov. 13, 1966, [80 Stat. 1579][/us/stat/80/1579], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
-[Pub. L. 89–809, title II, § 209(c)][/us/pl/89/809/s209/c], Nov. 13, 1966, [80 Stat. 1580][/us/stat/80/1580], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 209(c), Nov. 13, 1966, [80 Stat. 1580][/us/stat/80/1580], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–571, § 6(b)][/us/pl/88/571/s6/b], Sept. 2, 1964, [78 Stat. 860][/us/stat/78/860], provided that: 
+[Pub. L. 88–571][/us/pl/88/571], § 6(b), Sept. 2, 1964, [78 Stat. 860][/us/stat/78/860], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1963.”
 
@@ -277,7 +277,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–564, title III, § 302(c)][/us/pl/86/564/s302/c], June 30, 1960, [74 Stat. 293][/us/stat/74/293], as amended by [Pub. L. 86–781, § 4][/us/pl/86/781/s4], Sept. 14, 1960, [74 Stat. 1018][/us/stat/74/1018]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 86–564, title III][/us/pl/86/564/tIII], § 302(c), June 30, 1960, [74 Stat. 293][/us/stat/74/293], as amended by [Pub. L. 86–781][/us/pl/86/781], § 4, Sept. 14, 1960, [74 Stat. 1018][/us/stat/74/1018]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(c) __Effective Date.—__ 
 
@@ -337,11 +337,11 @@
 
  __Election for Quartzite and Clay Used in Production of Refractory Products__ 
 
-    [Pub. L. 87–321, § 2][/us/pl/87/321/s2], Sept. 26, 1961, [75 Stat. 683][/us/stat/75/683], provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+    [Pub. L. 87–321][/us/pl/87/321], § 2, Sept. 26, 1961, [75 Stat. 683][/us/stat/75/683], provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
  __Refund or Credit of Overpayments; Limitations; Interest__ 
 
-    [Pub. L. 85–866, title I, § 36(b)][/us/pl/85/866/s36/b], Sept. 2, 1958, [72 Stat. 1633][/us/stat/72/1633], provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
+    [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 36(b), Sept. 2, 1958, [72 Stat. 1633][/us/stat/72/1633], provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
 
 ----------
 
@@ -352,78 +352,78 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F208
-[/us/pl/85/866/s36/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs36%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1633
-[/us/pl/86/564/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fa
+[/us/pl/86/564/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2FtIII
 [/us/stat/74/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F291
-[/us/pl/87/834/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs13%2Fe
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1034
-[/us/pl/88/571/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F571%2Fs6%2Fa
+[/us/pl/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F571
 [/us/stat/78/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F860
-[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1579
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F629
-[/us/pl/93/499/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs2%2Fa
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1550
-[/us/pl/94/12/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fb%2F1
+[/us/pl/94/12/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtV
 [/us/stat/89/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F53
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
-[/us/pl/95/618/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F1
+[/us/pl/95/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtIV
 [/us/stat/92/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3203
-[/us/pl/99/514/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs412%2Fa%2F2
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2227
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-486
-[/us/pl/104/188/s1704/t/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F34
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
-[/us/pl/108/357/s102/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F6
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1429
-[/us/pl/109/135/s412/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fgg
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2639
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508/s11522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fa
-[/us/pl/101/508/s11815/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fb%2F2
-[/us/pl/101/508/s11815/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fb%2F1
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/95/618/s403/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F2%2FA
-[/us/pl/95/618/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F1
-[/us/pl/94/455/s1901/b/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FK
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/12/s501/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fb%2F2%2FA
-[/us/pl/94/12/s501/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fb%2F2%2FB
-[/us/pl/94/12/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fb%2F2
-[/us/pl/94/12/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fb%2F1
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
-[/us/pl/91/172/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs501%2Fa
-[/us/pl/91/172/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs502%2Fa
-[/us/pl/89/809/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs207%2Fa%2F1
-[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
-[/us/pl/89/809/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs209%2Fa%2F1
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
-[/us/pl/89/809/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs209%2Fb
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F571
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
-[/us/pl/86/564/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fa%2F1
-[/us/pl/86/564/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fa%2F2
-[/us/pl/86/564/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fa%2F3
-[/us/pl/86/564/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fb%2F1
-[/us/pl/86/564/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fb%2F2
-[/us/pl/86/564/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fb%2F2
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
+[/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/101/508/s11522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-486
-[/us/pl/99/514/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs412%2Fa%2F3
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2227
 [/us/usc/t26/s613A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613A
-[/us/pl/95/618/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fc
+[/us/pl/95/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtIV
 [/us/stat/92/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3204
 [/us/pl/94/455/s1901/b/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FK
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -431,28 +431,28 @@
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/94/12/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fc
 [/us/usc/t26/s613A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613A
-[/us/pl/93/499/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs2%2Fb
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1550
-[/us/pl/91/172/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs501%2Fb
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F630
-[/us/pl/91/172/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs502%2Fb
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F630
-[/us/pl/89/809/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs207%2Fb
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1579
-[/us/pl/89/809/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs208%2Fb
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1579
-[/us/pl/89/809/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs209%2Fc
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1580
-[/us/pl/88/571/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F571%2Fs6%2Fb
+[/us/pl/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F571
 [/us/stat/78/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F860
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834/s13/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs13%2Fg
 [/us/usc/t26/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1245
-[/us/pl/86/564/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2Fs302%2Fc
+[/us/pl/86/564/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564%2FtIII
 [/us/stat/74/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F293
-[/us/pl/86/781/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F781%2Fs4
+[/us/pl/86/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F781
 [/us/stat/74/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1018
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s7405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7405
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
@@ -463,9 +463,9 @@
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
 [/us/pl/87/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F312
 [/us/stat/75/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F674
-[/us/pl/87/321/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F321%2Fs2
+[/us/pl/87/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F321
 [/us/stat/75/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F683
-[/us/pl/85/866/s36/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs36%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1633
 
 

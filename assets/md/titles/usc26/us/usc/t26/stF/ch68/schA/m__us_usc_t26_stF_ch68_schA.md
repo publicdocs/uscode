@@ -57,7 +57,7 @@ Amendments  </td>
 
 </table>
 
-    1989—[Pub. L. 101–239, title VII, § 7721(c)(13)][/us/pl/101/239/s7721/c/13], Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], added part analysis consisting of parts I to III.
+    1989—[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(c)(13), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], added part analysis consisting of parts I to III.
 
 ----------
 
@@ -66,7 +66,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/101/239/s7721/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F13
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2400
 
 

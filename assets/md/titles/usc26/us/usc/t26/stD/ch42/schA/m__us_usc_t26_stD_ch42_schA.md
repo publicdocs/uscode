@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–227, § 4(c)(2)(A)][/us/pl/95/227/s4/c/2/A], Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22], added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
+    1978—[Pub. L. 95–227][/us/pl/95/227], § 4(c)(2)(A), Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22], added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
 
-    1969—[Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 498][/us/stat/83/498], added analysis of sections.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 498][/us/stat/83/498], added analysis of sections.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/95/227/s4/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F2%2FA
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F22
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F498
 
 

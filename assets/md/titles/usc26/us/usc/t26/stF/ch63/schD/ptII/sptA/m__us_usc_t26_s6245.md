@@ -33,15 +33,15 @@
 
             The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment, for purposes of this section, section 6246, and section 6247, and the taxpayer shall have no right to bring a proceeding under section 6247 with respect to such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
 
-(Added [Pub. L. 105–34, title XII, § 1222(a)][/us/pl/105/34/s1222/a], Aug. 5, 1997, [111 Stat. 1013][/us/stat/111/1013].)
+(Added [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1222(a), Aug. 5, 1997, [111 Stat. 1013][/us/stat/111/1013].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(b)(2)][/us/pl/114/74/s1101/b/2], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(b)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
 
  __Prior Provisions__ 
 
-    A prior section 6245, added [Pub. L. 97–354, § 4(a)][/us/pl/97/354/s4/a], Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692], defined “subchapter S item” for purposes of subchapter, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
+    A prior section 6245, added [Pub. L. 97–354][/us/pl/97/354], § 4(a), Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692], defined “subchapter S item” for purposes of subchapter, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1307(c)(1), 1317(a), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781], 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
  __Effective Date of Repeal__ 
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1013
-[/us/pl/114/74/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F2
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/97/354/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs4%2Fa
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1692
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1781
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

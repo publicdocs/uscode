@@ -79,7 +79,7 @@
 
             then an amount equal to the expenses which were so deducted shall be included in gross income for the first such subsequent taxable year.
 
-    \[(e) __Repealed.__  __[__  __Pub. L. 103–66, title XIII, § 13213(a)(2)(A)__  __][/us/pl/103/66/s13213/a/2/A]__  __,__  __Aug. 10, 1993__  __,__  __[__  __107 Stat. 473__  __][/us/stat/107/473]__  __\]__ 
+    \[(e) __Repealed.__  __[__  __Pub. L. 103–66, title XIII__  __][/us/pl/103/66/tXIII]__  __, § 13213(a)(2)(A),__  __Aug. 10, 1993__  __,__  __[__  __107 Stat. 473__  __][/us/stat/107/473]__  __\]__ 
 
     (f) __Self-employed individual__ 
 
@@ -153,7 +153,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 88–272, title II, § 213(a)(1)][/us/pl/88/272/s213/a/1], Feb. 26, 1964, [78 Stat. 50][/us/stat/78/50]; amended [Pub. L. 91–172, title II, § 231(a)][/us/pl/91/172/s231/a], Dec. 30, 1969, [83 Stat. 577][/us/stat/83/577]; [Pub. L. 94–455, title V, § 506][/us/pl/94/455/s506] (a)–(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1568][/us/stat/90/1568], 1834; [Pub. L. 95–615, title II, § 204][/us/pl/95/615/s204], Nov. 8, 1978, [92 Stat. 3106][/us/stat/92/3106]; [Pub. L. 103–66, title XIII, § 13213(a)(1)][/us/pl/103/66/s13213/a/1]–(2)(D), (b), Aug. 10, 1993, [107 Stat. 473][/us/stat/107/473], 474.)
+(Added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 213(a)(1), Feb. 26, 1964, [78 Stat. 50][/us/stat/78/50]; amended [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 231(a), Dec. 30, 1969, [83 Stat. 577][/us/stat/83/577]; [Pub. L. 94–455, title V][/us/pl/94/455/tV], § 506 (a)–(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1568][/us/stat/90/1568], 1834; [Pub. L. 95–615, title II][/us/pl/95/615/tII], § 204, Nov. 8, 1978, [92 Stat. 3106][/us/stat/92/3106]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13213(a)(1)–(2)(D), (b), Aug. 10, 1993, [107 Stat. 473][/us/stat/107/473], 474.)
 
  __Prior Provisions__ 
 
@@ -161,13 +161,13 @@
 
  __Amendments__ 
 
-    1993—Subsec. (b). [Pub. L. 103–66, § 13213(a)(1)][/us/pl/103/66/s13213/a/1], amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residence sale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
+    1993—Subsec. (b). [Pub. L. 103–66][/us/pl/103/66], § 13213(a)(1), amended subsec. (b) generally, restating former par. (1)(A) and (B) as par. (1) and former par. (3)(C) as par. (2) and striking out former par. (1)(C) to (E) which included certain traveling, meals, lodging, and residence sale, purchase, and lease expenses in the term “moving expenses”, par. (2) which defined “qualified residence sale, purchase, or lease expenses”, and par. (3)(A) and (B) which placed dollar limits on the amount allowed to be deducted as moving expenses.
 
-    Subsec. (c)(1). [Pub. L. 103–66, § 13213(b)][/us/pl/103/66/s13213/b], substituted “50 miles” for “35 miles” in subpars. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 103–66][/us/pl/103/66], § 13213(b), substituted “50 miles” for “35 miles” in subpars. (A) and (B).
 
-    Subsec. (e). [Pub. L. 103–66, § 13213(a)(2)(A)][/us/pl/103/66/s13213/a/2/A], struck out heading and text of subsec. (e). Text read as follows: “The amount realized on the sale of the residence described in subparagraph (A) of subsection (b)(2) shall not be decreased by the amount of any expenses described in such subparagraph which are allowed as a deduction under subsection (a), and the basis of a residence described in subparagraph (B) of subsection (b)(2) shall not be increased by the amount of any expenses described in such subparagraph which are allowed as a deduction under subsection (a). This subsection shall not apply to any expenses with respect to which an amount is included in gross income under subsection (d)(3).”
+    Subsec. (e). [Pub. L. 103–66][/us/pl/103/66], § 13213(a)(2)(A), struck out heading and text of subsec. (e). Text read as follows: “The amount realized on the sale of the residence described in subparagraph (A) of subsection (b)(2) shall not be decreased by the amount of any expenses described in such subparagraph which are allowed as a deduction under subsection (a), and the basis of a residence described in subparagraph (B) of subsection (b)(2) shall not be increased by the amount of any expenses described in such subparagraph which are allowed as a deduction under subsection (a). This subsection shall not apply to any expenses with respect to which an amount is included in gross income under subsection (d)(3).”
 
-    Subsec. (f). [Pub. L. 103–66, § 13213(a)(2)(B)][/us/pl/103/66/s13213/a/2/B], amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
+    Subsec. (f). [Pub. L. 103–66][/us/pl/103/66], § 13213(a)(2)(B), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
     “(1) Definition.—For purposes of this section, the term ‘self-employed individual’ means an individual who performs personal services—
 
@@ -177,9 +177,9 @@
 
     “(2) Rule for application of subsections (b)(1)(c) and (d).—For purposes of subparagraphs (C) and (D) of subsection (b)(1), an individual who commences work at a new principal place of work as a self-employed individual shall be treated as having obtained employment when he has made substantial arrangements to commence such work.”
 
-    Subsec. (g)(3). [Pub. L. 103–66, § 13213(a)(2)(C)][/us/pl/103/66/s13213/a/2/C], inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “for purposes of subsection (b)(3), as if such place of work was within the same general location as the member’s new principal place of work, and”.
+    Subsec. (g)(3). [Pub. L. 103–66][/us/pl/103/66], § 13213(a)(2)(C), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “for purposes of subsection (b)(3), as if such place of work was within the same general location as the member’s new principal place of work, and”.
 
-    Subsec. (h). [Pub. L. 103–66, § 13213(a)(2)(D)][/us/pl/103/66/s13213/a/2/D], redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out heading and text of former par. (1). Text read as follows: “In the case of a foreign move—
+    Subsec. (h). [Pub. L. 103–66][/us/pl/103/66], § 13213(a)(2)(D), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out heading and text of former par. (1). Text read as follows: “In the case of a foreign move—
 
     “(A) subsection (b)(1)(D) shall be applied by substituting ‘90 consecutive days’ for ‘30 consecutive days’,
 
@@ -189,11 +189,11 @@
 
     1978—Subsecs. (h) to (j). [Pub. L. 95–615][/us/pl/95/615] added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
-    1976—Subsec. (b)(3)(A). [Pub. L. 94–455, § 506(b)(1)][/us/pl/94/455/s506/b/1], (2), substituted “$1,500” for “$1,000” after “(1) shall not exceed” and “$3,000” for “$2,500” after “lease expenses shall not exceed”.
+    1976—Subsec. (b)(3)(A). [Pub. L. 94–455][/us/pl/94/455], § 506(b)(1), (2), substituted “$1,500” for “$1,000” after “(1) shall not exceed” and “$3,000” for “$2,500” after “lease expenses shall not exceed”.
 
-    Subsec. (b)(3)(B). [Pub. L. 94–455, § 506(b)(3)][/us/pl/94/455/s506/b/3], substituted “ ‘$750’ for ‘$1,500’ ” for “ ‘$500’ for ‘$1,000’ ” after “applied by substituting” and “ ‘$1,500’ for ‘$3,000’ ” for “ ‘$1,250’ for ‘$2,500’ ” after “and by substituting”.
+    Subsec. (b)(3)(B). [Pub. L. 94–455][/us/pl/94/455], § 506(b)(3), substituted “ ‘$750’ for ‘$1,500’ ” for “ ‘$500’ for ‘$1,000’ ” after “applied by substituting” and “ ‘$1,500’ for ‘$3,000’ ” for “ ‘$1,250’ for ‘$2,500’ ” after “and by substituting”.
 
-    Subsec. (c)(1)(A), (B). [Pub. L. 94–455, § 506(a)][/us/pl/94/455/s506/a], substituted “35” for “50” after “at least”.
+    Subsec. (c)(1)(A), (B). [Pub. L. 94–455][/us/pl/94/455], § 506(a), substituted “35” for “50” after “at least”.
 
     Subsecs. (g), (h). [Pub. L. 94–455][/us/pl/94/455], §§ 506(c), 1906(b)(13)(A), added subsec. (g), redesignated former subsec. (g) as (h) and struck out “or his delegate” after “Secretary”.
 
@@ -209,13 +209,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title V, § 506(d)][/us/pl/94/455/s506/d], Oct. 4, 1976, [90 Stat. 1569][/us/stat/90/1569], provided that: 
+[Pub. L. 94–455, title V][/us/pl/94/455/tV], § 506(d), Oct. 4, 1976, [90 Stat. 1569][/us/stat/90/1569], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title II, § 231(d)][/us/pl/91/172/s231/d], Dec. 30, 1969, [83 Stat. 580][/us/stat/83/580], as amended by [Pub. L. 91–642, § 2][/us/pl/91/642/s2], Dec. 31, 1970, [84 Stat. 1880][/us/stat/84/1880]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–172, title II][/us/pl/91/172/tII], § 231(d), Dec. 30, 1969, [83 Stat. 580][/us/stat/83/580], as amended by [Pub. L. 91–642][/us/pl/91/642], § 2, Dec. 31, 1970, [84 Stat. 1880][/us/stat/84/1880]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting [section 82 of this title][/us/usc/t26/s82] and amending this section and sections 1001 and 1016 of this title\] shall apply to taxable years beginning after December 31, 1969, except that—
 
@@ -229,7 +229,7 @@
 
  __Moving Expenses of Members of the Uniformed Services__ 
 
-[Pub. L. 93–490, § 2][/us/pl/93/490/s2], Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466], authorized the Secretary of the Treasury, applicable with respect to taxable years ending before January 1, 1976, to:
+[Pub. L. 93–490][/us/pl/93/490], § 2, Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466], authorized the Secretary of the Treasury, applicable with respect to taxable years ending before January 1, 1976, to:
 
     (1) enter into an agreement with the Secretary concerned under which the Secretary concerned would not be required to withhold tax on, or to report, moving expense reimbursements made to members of the armed forces;
 
@@ -244,29 +244,29 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13213/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FA
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F473
-[/us/pl/88/272/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs213%2Fa%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F50
-[/us/pl/91/172/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fa
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F577
-[/us/pl/94/455/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs506
+[/us/pl/94/455/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtV
 [/us/stat/90/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1568
-[/us/pl/95/615/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs204
+[/us/pl/95/615/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2FtII
 [/us/stat/92/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3106
-[/us/pl/103/66/s13213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F473
 [/us/usc/t26/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs224
-[/us/pl/103/66/s13213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F1
-[/us/pl/103/66/s13213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fb
-[/us/pl/103/66/s13213/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FA
-[/us/pl/103/66/s13213/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FB
-[/us/pl/103/66/s13213/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FC
-[/us/pl/103/66/s13213/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FD
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
-[/us/pl/94/455/s506/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs506%2Fb%2F1
-[/us/pl/94/455/s506/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs506%2Fb%2F3
-[/us/pl/94/455/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs506%2Fa
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
@@ -275,18 +275,18 @@
 [/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/pl/95/615/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs209
 [/us/usc/t26/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs911
-[/us/pl/94/455/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs506%2Fd
+[/us/pl/94/455/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtV
 [/us/stat/90/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1569
-[/us/pl/91/172/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fd
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F580
-[/us/pl/91/642/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F642%2Fs2
+[/us/pl/91/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F642
 [/us/stat/84/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1880
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs82
 [/us/pl/88/272/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs213%2Fd
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/93/490/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490%2Fs2
+[/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/stat/88/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1466
 
 

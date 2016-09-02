@@ -33,15 +33,15 @@
 
         Whenever the Secretary is satisfied, with respect to any notification made under subsection (a), that all requirements of law and regulations with respect to the taxes imposed by subtitle C or chapter 33, as the case may be, will henceforth be complied with, he may cancel such notification. Such cancellation shall take effect at such time as is specified in the notice of such cancellation.
 
-(Added [Pub. L. 85–321, § 1][/us/pl/85/321/s1], Feb. 11, 1958, [72 Stat. 5][/us/stat/72/5]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–223, title I, § 101(c)(3)][/us/pl/96/223/s101/c/3], Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 100–418, title I, § 1941(b)(2)(O)][/us/pl/100/418/s1941/b/2/O], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
+(Added [Pub. L. 85–321][/us/pl/85/321], § 1, Feb. 11, 1958, [72 Stat. 5][/us/stat/72/5]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(c)(3), Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(2)(O), Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 1941(b)(2)(O)(i)][/us/pl/100/418/s1941/b/2/O/i], substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 100–418, § 1941(b)(2)(O)(i)][/us/pl/100/418/s1941/b/2/O/i], (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1941(b)(2)(O)(i), (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
 
-    Subsec. (c). [Pub. L. 100–418, § 1941(b)(2)(O)(ii)][/us/pl/100/418/s1941/b/2/O/ii], substituted “or chapter 33” for “, chapter 33, or section 4986”.
+    Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1941(b)(2)(O)(ii), substituted “or chapter 33” for “, chapter 33, or section 4986”.
 
     1980—Subsecs. (a) to (c). [Pub. L. 96–223][/us/pl/96/223] inserted references to tax imposed by section 4986.
 
@@ -57,7 +57,7 @@
 
  __Notification of Failure To Collect, Account for, and Pay Over Taxes__ 
 
-[Pub. L. 85–321, § 4][/us/pl/85/321/s4], Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 85–321][/us/pl/85/321], § 4, Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Notification may be made under section 7512(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act)—
 
@@ -72,17 +72,17 @@
 ----------
 ----------
 
-[/us/pl/85/321/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321%2Fs1
+[/us/pl/85/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321
 [/us/stat/72/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F5
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/223/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Fc%2F3
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F251
-[/us/pl/100/418/s1941/b/2/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FO
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1324
-[/us/pl/100/418/s1941/b/2/O/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FO%2Fi
-[/us/pl/100/418/s1941/b/2/O/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FO%2Fi
-[/us/pl/100/418/s1941/b/2/O/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FO%2Fii
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -91,9 +91,9 @@
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/96/223/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Fi
 [/us/usc/t26/s6161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6161
-[/us/pl/85/321/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321%2Fs4
+[/us/pl/85/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321
 [/us/stat/72/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F6
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

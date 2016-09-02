@@ -57,7 +57,7 @@ Amendments  </td>
 
 </table>
 
-    1982—[Pub. L. 97–248, title III, § 330(b)][/us/pl/97/248/s330/b], Sept. 3, 1982, [96 Stat. 620][/us/stat/96/620], added item for part III.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 330(b), Sept. 3, 1982, [96 Stat. 620][/us/stat/96/620], added item for part III.
 
 ----------
 
@@ -66,7 +66,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/97/248/s330/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs330%2Fb
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F620
 
 

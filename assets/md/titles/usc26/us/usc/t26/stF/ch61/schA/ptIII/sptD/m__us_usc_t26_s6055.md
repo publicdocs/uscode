@@ -77,7 +77,7 @@
 
         For purposes of this section, the term “minimum essential coverage” has the meaning given such term by section 5000A(f).
 
-(Added [Pub. L. 111–148, title I, § 1502(a)][/us/pl/111/148/s1502/a], Mar. 23, 2010, [124 Stat. 250][/us/stat/124/250].)
+(Added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1502(a), Mar. 23, 2010, [124 Stat. 250][/us/stat/124/250].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1502(e)][/us/pl/111/148/s1502/e], Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1502(e), Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 18092 of Title 42][/us/usc/t42/s18092], The Public Health and Welfare, and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to calendar years beginning after 2013.”
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1502%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F250
-[/us/pl/111/148/s1502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1502%2Fe
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F252
 [/us/usc/t42/s18092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18092
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724

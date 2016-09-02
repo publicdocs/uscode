@@ -23,7 +23,7 @@
 
         If a deduction is allowable under section 170 (relating to charitable contributions) by reason of a sale, then the adjusted basis for determining the gain from such sale shall be that portion of the adjusted basis which bears the same ratio to the adjusted basis as the amount realized bears to the fair market value of the property.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 296][/us/stat/68A/296]; [Pub. L. 91–172, title II, § 201(f)][/us/pl/91/172/s201/f], Dec. 30, 1969, [83 Stat. 564][/us/stat/83/564].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 296][/us/stat/68A/296]; [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 201(f), Dec. 30, 1969, [83 Stat. 564][/us/stat/83/564].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F296
-[/us/pl/91/172/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Ff
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F564
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172

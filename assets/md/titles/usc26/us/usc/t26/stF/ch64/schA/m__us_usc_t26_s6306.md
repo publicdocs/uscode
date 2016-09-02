@@ -157,7 +157,7 @@
 
         (2) For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).
 
-(Added [Pub. L. 108–357, title VIII, § 881(a)(1)][/us/pl/108/357/s881/a/1], Oct. 22, 2004, [118 Stat. 1625][/us/stat/118/1625]; amended [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94], §§ 32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, [129 Stat. 1733–1736][/us/stat/129/1733-1736].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(a)(1), Oct. 22, 2004, [118 Stat. 1625][/us/stat/118/1625]; amended [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], §§ 32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, [129 Stat. 1733–1736][/us/stat/129/1733-1736].)
 
  __References in Text__ 
 
@@ -165,43 +165,43 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–94, § 32102(a)][/us/pl/114/94/s32102/a], added subsec. (c). Former subsec. (c) redesignated (d).
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94], § 32102(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 114–94, § 32102(b)][/us/pl/114/94/s32102/b], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 114–94][/us/pl/114/94], § 32102(b), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    [Pub. L. 114–94, § 32102(a)][/us/pl/114/94/s32102/a], redesignated subsec. (c) as (d).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(a), redesignated subsec. (c) as (d).
 
-    Subsec. (e). [Pub. L. 114–94, § 32102(b)][/us/pl/114/94/s32102/b], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 114–94][/us/pl/114/94], § 32102(b), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    [Pub. L. 114–94, § 32102(a)][/us/pl/114/94/s32102/a], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(a), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(2). [Pub. L. 114–94, § 32103(a)][/us/pl/114/94/s32103/a], substituted “to fund the special compliance personnel program account under section 6307” for “for collection enforcement activities of the Internal Revenue Service”.
+    Subsec. (e)(2). [Pub. L. 114–94][/us/pl/114/94], § 32103(a), substituted “to fund the special compliance personnel program account under section 6307” for “for collection enforcement activities of the Internal Revenue Service”.
 
-    Subsec. (f). [Pub. L. 114–94, § 32102(b)][/us/pl/114/94/s32102/b], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 114–94][/us/pl/114/94], § 32102(b), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 114–94, § 32102(a)][/us/pl/114/94/s32102/a], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(a), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 114–94, § 32102(b)][/us/pl/114/94/s32102/b], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 114–94][/us/pl/114/94], § 32102(b), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    [Pub. L. 114–94, § 32102(a)][/us/pl/114/94/s32102/a], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(a), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 114–94, § 32102(c)][/us/pl/114/94/s32102/c], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 114–94][/us/pl/114/94], § 32102(c), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    [Pub. L. 114–94, § 32102(b)][/us/pl/114/94/s32102/b], redesignated subsec. (g) as (h).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(b), redesignated subsec. (g) as (h).
 
-    Subsec. (i). [Pub. L. 114–94, § 32102(e)][/us/pl/114/94/s32102/e], added subsec. (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 114–94][/us/pl/114/94], § 32102(e), added subsec. (i). Former subsec. (i) redesignated (j).
 
-    [Pub. L. 114–94, § 32102(c)][/us/pl/114/94/s32102/c], redesignated subsec. (h) as (i).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(c), redesignated subsec. (h) as (i).
 
-    Subsec. (j). [Pub. L. 114–94, § 32102(f)(1)][/us/pl/114/94/s32102/f/1], added subsec. (j). Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 114–94][/us/pl/114/94], § 32102(f)(1), added subsec. (j). Former subsec. (j) redesignated (k).
 
-    [Pub. L. 114–94, § 32102(e)][/us/pl/114/94/s32102/e], redesignated subsec. (i) as (j).
+    [Pub. L. 114–94][/us/pl/114/94], § 32102(e), redesignated subsec. (i) as (j).
 
-    Subsec. (k). [Pub. L. 114–94, § 32102(f)(1)][/us/pl/114/94/s32102/f/1], redesignated subsec. (j) as (k).
+    Subsec. (k). [Pub. L. 114–94][/us/pl/114/94], § 32102(f)(1), redesignated subsec. (j) as (k).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–94, div. C, title XXXII, § 32102(g)(1)][/us/pl/114/94/s32102/g/1], (2), Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736], provided that:
+[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32102(g)(1), (2), Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -211,23 +211,23 @@
 
 >     The Secretary shall begin entering into contracts and agreements as described in the amendment made by subsection (c) \[amending this section\] within 3 months after the date of the enactment of this Act.”
 
-[Pub. L. 114–94, div. C, title XXXII, § 32102(g)(4)][/us/pl/114/94/s32102/g/4], Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736], provided that: 
+[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32102(g)(4), Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736], provided that: 
 
 > “The amendments made by subsections (e) and (f) \[amending this section and repealing a note set out below\] shall take effect on the date of the enactment of this Act \[Dec. 4, 2015\].”
 
-[Pub. L. 114–94, div. C, title XXXII, § 32103(d)][/us/pl/114/94/s32103/d], Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738], provided that: 
+[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32103(d), Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to amounts collected and retained by the Secretary \[probably means Secretary of the Treasury\] after the date of the enactment of this Act \[Dec. 4, 2015\].”
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 881(f)][/us/pl/108/357/s881/f], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(f), Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], provided that: 
 
 > “The amendments made to \[by\] this section \[enacting this section and [section 7433A of this title][/us/usc/t26/s7433A], amending sections 7809 and 7811 of this title, and amending provisions set out as a note under [section 7804 of this title][/us/usc/t26/s7804]\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Biennial Report__ 
 
-    [Pub. L. 108–357, title VIII, § 881(e)][/us/pl/108/357/s881/e], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by [Pub. L. 114–94, div. C, title XXXII, § 32102(f)(2)][/us/pl/114/94/s32102/f/2], Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736].
+    [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(e), Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627], directed the Secretary of the Treasury to biennially submit (beginning in 2005) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report with respect to qualified tax collection contracts under this section, prior to repeal by [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32102(f)(2), Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736].
 
 ----------
 
@@ -238,44 +238,44 @@
 
 [/us/usc/t15/s1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692
 [/us/usc/t31/s3711/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3711%2Fg
-[/us/pl/108/357/s881/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fa%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1625
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1733-1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1733-1736
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F874
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/114/94/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fa
-[/us/pl/114/94/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fb
-[/us/pl/114/94/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fa
-[/us/pl/114/94/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fb
-[/us/pl/114/94/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fa
-[/us/pl/114/94/s32103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32103%2Fa
-[/us/pl/114/94/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fb
-[/us/pl/114/94/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fa
-[/us/pl/114/94/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fb
-[/us/pl/114/94/s32102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fa
-[/us/pl/114/94/s32102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fc
-[/us/pl/114/94/s32102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fb
-[/us/pl/114/94/s32102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fe
-[/us/pl/114/94/s32102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fc
-[/us/pl/114/94/s32102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Ff%2F1
-[/us/pl/114/94/s32102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fe
-[/us/pl/114/94/s32102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Ff%2F1
-[/us/pl/114/94/s32102/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fg%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1736
-[/us/pl/114/94/s32102/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Fg%2F4
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1736
-[/us/pl/114/94/s32103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32103%2Fd
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
-[/us/pl/108/357/s881/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Ff
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1627
 [/us/usc/t26/s7433A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7433A
 [/us/usc/t26/s7804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7804
-[/us/pl/108/357/s881/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fe
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1627
-[/us/pl/114/94/s32102/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32102%2Ff%2F2
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1736
 
 

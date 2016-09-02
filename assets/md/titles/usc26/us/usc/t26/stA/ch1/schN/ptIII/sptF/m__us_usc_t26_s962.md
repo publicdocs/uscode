@@ -35,7 +35,7 @@
 
         The earnings and profits of a foreign corporation attributable to amounts which were included in the gross income of a United States shareholder under section 951(a) and with respect to which an election under this section applied shall, when such earnings and profits are distributed, notwithstanding the provisions of section 959(a)(1), be included in gross income to the extent that such earnings and profits so distributed exceed the amount of tax paid under this chapter on the amounts to which such election applied.
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1023][/us/stat/76/1023]; amended [Pub. L. 94–12, title III, § 303(c)(3)][/us/pl/94/12/s303/c/3], Mar. 29, 1975, [89 Stat. 45][/us/stat/89/45]; [Pub. L. 94–164, § 4(d)(1)][/us/pl/94/164/s4/d/1], Dec. 23, 1975, [89 Stat. 975][/us/stat/89/975]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III, § 301(b)(16)][/us/pl/95/600/s301/b/16], Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 100–647, title I, § 1007(g)(11)][/us/pl/100/647/s1007/g/11], Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1023][/us/stat/76/1023]; amended [Pub. L. 94–12, title III][/us/pl/94/12/tIII], § 303(c)(3), Mar. 29, 1975, [89 Stat. 45][/us/stat/89/45]; [Pub. L. 94–164][/us/pl/94/164], § 4(d)(1), Dec. 23, 1975, [89 Stat. 975][/us/stat/89/975]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(16), Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1007(g)(11), Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435].)
 
  __Amendments__ 
 
@@ -70,17 +70,17 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1023
-[/us/pl/94/12/s303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs303%2Fc%2F3
+[/us/pl/94/12/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtIII
 [/us/stat/89/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F45
-[/us/pl/94/164/s4/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F164%2Fs4%2Fd%2F1
+[/us/pl/94/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F164
 [/us/stat/89/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F975
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s301/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F16
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2822
-[/us/pl/100/647/s1007/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fg%2F11
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3435
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

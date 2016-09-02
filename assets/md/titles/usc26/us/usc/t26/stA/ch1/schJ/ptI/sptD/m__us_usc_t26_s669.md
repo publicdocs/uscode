@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schJ/ptI/sptD/m__us_usc_t26_s668.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schJ/ptI/sptE/m__us_usc_t26_stA_ch1_schJ_ptI_sptE.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs669)
 
-## \[§ 669. Repealed. [Pub. L. 94–455, title VII, § 701(d)(1)][/us/pl/94/455/s701/d/1], Oct. 4, 1976, [90 Stat. 1578][/us/stat/90/1578]\]
+## \[§ 669. Repealed. [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(d)(1), Oct. 4, 1976, [90 Stat. 1578][/us/stat/90/1578]\]
 
-    Section, acts Oct. 16, 1962, [Pub. L. 87–834, § 7(e)][/us/pl/87/834/s7/e], [76 Stat. 986][/us/stat/76/986]; Dec. 30, 1969, [Pub. L. 91–172, title III, § 331(a)][/us/pl/91/172/s331/a], [83 Stat. 596][/us/stat/83/596], related to the treatment of capital gain deemed distributed in preceding years.
+    Section, acts Oct. 16, 1962, [Pub. L. 87–834][/us/pl/87/834], § 7(e), [76 Stat. 986][/us/stat/76/986]; Dec. 30, 1969, [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(a), [83 Stat. 596][/us/stat/83/596], related to the treatment of capital gain deemed distributed in preceding years.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/94/455/s701/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fd%2F1
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1578
-[/us/pl/87/834/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fe
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F986
-[/us/pl/91/172/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fa
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F596
 [/us/pl/94/455/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fh
 [/us/usc/t26/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs667

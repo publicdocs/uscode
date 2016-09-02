@@ -59,7 +59,7 @@
 
         For treatment of marketable securities as money for purposes of this section, see section 731(c).
 
-(Added [Pub. L. 102–486, title XIX, § 1937(a)][/us/pl/102/486/s1937/a], Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032]; amended [Pub. L. 103–465, title VII, § 741(b)][/us/pl/103/465/s741/b], Dec. 8, 1994, [108 Stat. 5009][/us/stat/108/5009]; [Pub. L. 104–188, title I, § 1704(j)(8)][/us/pl/104/188/s1704/j/8], Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882]; [Pub. L. 105–34, title X, § 1063(a)][/us/pl/105/34/s1063/a], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1937(a), Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032]; amended [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 741(b), Dec. 8, 1994, [108 Stat. 5009][/us/stat/108/5009]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(j)(8), Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1063(a), Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
 
  __Amendments__ 
 
@@ -67,9 +67,9 @@
 
     1996—[Pub. L. 104–188][/us/pl/104/188] provided that [section 1937(a) of Pub. L. 102–486][/us/pl/102/486/s1937/a], shall be applied as if “Subpart B” appeared instead of “Subpart C”. [Section 1937(a) of Pub. L. 102–486][/us/pl/102/486/s1937/a] directed amendment of subpart C of this part by adding this section at the end thereof.
 
-    1994—Subsec. (c)(1). [Pub. L. 103–465, § 741(b)(1)][/us/pl/103/465/s741/b/1], amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
+    1994—Subsec. (c)(1). [Pub. L. 103–465][/us/pl/103/465], § 741(b)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Except for purposes of determining the amount recognized under subsection (a), such increase shall be treated as occurring immediately before the distribution.”
 
-    Subsec. (e). [Pub. L. 103–465, § 741(b)(2)][/us/pl/103/465/s741/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–465][/us/pl/103/465], § 741(b)(2), added subsec. (e).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -90,20 +90,20 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1937/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1937%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3032
-[/us/pl/103/465/s741/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs741%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5009
-[/us/pl/104/188/s1704/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fj%2F8
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1882
-[/us/pl/105/34/s1063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1063%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F947
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/102/486/s1937/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1937%2Fa
 [/us/pl/102/486/s1937/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1937%2Fa
-[/us/pl/103/465/s741/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs741%2Fb%2F1
-[/us/pl/103/465/s741/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs741%2Fb%2F2
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1063%2Fb
 [/us/usc/t26/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs704

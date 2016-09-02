@@ -17,7 +17,7 @@
 
     All provisions of law relating to special taxes imposed by chapter 51 and to engraving, issuance, sale, accountability, cancellation, and distribution of stamps for tax payment shall, insofar as not inconsistent with the provisions of this chapter, be applicable with respect to the taxes imposed by sections 5801, 5811, and 5821.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
 
  __Prior Provisions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1232
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F726

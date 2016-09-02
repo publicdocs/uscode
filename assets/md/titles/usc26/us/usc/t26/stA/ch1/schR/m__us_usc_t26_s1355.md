@@ -223,43 +223,43 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1452][/us/stat/118/1452]; amended [Pub. L. 109–135, title IV, § 403(g)(1)(B)][/us/pl/109/135/s403/g/1/B]–(2), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624]; [Pub. L. 109–222, title II, § 205(a)][/us/pl/109/222/s205/a], May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432], §§ 413(a), 415(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1452][/us/stat/118/1452]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(g)(1)(B)–(2), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624]; [Pub. L. 109–222, title II][/us/pl/109/222/tII], § 205(a), May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], §§ 413(a), 415(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963].)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(4). [Pub. L. 109–432, § 413(a)][/us/pl/109/432/s413/a], substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
+    2006—Subsec. (a)(4). [Pub. L. 109–432][/us/pl/109/432], § 413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
 
     [Pub. L. 109–222][/us/pl/109/222] inserted “(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)” after “10,000”.
 
-    Subsecs. (g), (h). [Pub. L. 109–432, § 415(a)][/us/pl/109/432/s415/a], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 109–432][/us/pl/109/432], § 415(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-    2005—Subsec. (a)(8). [Pub. L. 109–135, § 403(g)(1)(B)][/us/pl/109/135/s403/g/1/B], struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
+    2005—Subsec. (a)(8). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
 
-    Subsec. (b)(1). [Pub. L. 109–135, § 403(g)(1)(C)][/us/pl/109/135/s403/g/1/C], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
+    Subsec. (b)(1). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
 
     “(A) owned by, or chartered (including a time charter) to, the person, and
 
     “(B) is in use as a qualifying vessel during such period.”
 
-    Subsec. (c)(3). [Pub. L. 109–135, § 403(g)(2)][/us/pl/109/135/s403/g/2], substituted “determined by treating all members of such group as 1 person.” for “determined—
+    Subsec. (c)(3). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(2), substituted “determined by treating all members of such group as 1 person.” for “determined—
 
     “(A) by treating all members of such group as 1 person, and
 
     “(B) by disregarding vessel charters between members of such group.”
 
-    Subsec. (d)(3). [Pub. L. 109–135, § 403(g)(1)(D)][/us/pl/109/135/s403/g/1/D], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the extent of a partner’s ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner’s interest in the partnership.”
+    Subsec. (d)(3). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the extent of a partner’s ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner’s interest in the partnership.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 413(b)][/us/pl/109/432/s413/b], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 413(b), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 \[[Pub. L. 109–222][/us/pl/109/222]\].”
 
-[Pub. L. 109–432, div. A, title IV, § 415(b)][/us/pl/109/432/s415/b], Dec. 20, 2006, [120 Stat. 2965][/us/stat/120/2965], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 415(b), Dec. 20, 2006, [120 Stat. 2965][/us/stat/120/2965], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
-[Pub. L. 109–222, title II, § 205(b)][/us/pl/109/222/s205/b], May 17, 2006, [120 Stat. 350][/us/stat/120/350], provided that: 
+[Pub. L. 109–222, title II][/us/pl/109/222/tII], § 205(b), May 17, 2006, [120 Stat. 350][/us/stat/120/350], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
@@ -274,27 +274,27 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1452
-[/us/pl/109/135/s403/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F1%2FB
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
-[/us/pl/109/222/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs205%2Fa
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F350
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
+[/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
-[/us/pl/109/432/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs413%2Fa
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/109/432/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs415%2Fa
-[/us/pl/109/135/s403/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F1%2FB
-[/us/pl/109/135/s403/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F1%2FC
-[/us/pl/109/135/s403/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F2
-[/us/pl/109/135/s403/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F1%2FD
-[/us/pl/109/432/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs413%2Fb
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/109/432/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs415%2Fb
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2965
-[/us/pl/109/222/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs205%2Fb
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F350
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

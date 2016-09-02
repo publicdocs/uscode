@@ -231,7 +231,7 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–589, § 6(g)(3)(E)][/us/pl/96/589/s6/g/3/E], Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410], substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
+    1980—[Pub. L. 96–589][/us/pl/96/589], § 6(g)(3)(E), Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410], substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
 
 ----------
 
@@ -240,7 +240,7 @@
 ----------
 ----------
 
-[/us/pl/96/589/s6/g/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fg%2F3%2FE
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3410
 
 

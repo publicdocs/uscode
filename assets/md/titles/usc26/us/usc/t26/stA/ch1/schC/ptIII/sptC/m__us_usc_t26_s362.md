@@ -119,7 +119,7 @@
 
                     Any election under clause (i) shall be made at such time and in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 90–621, § 2(b)][/us/pl/90/621/s2/b], Oct. 22, 1968, [82 Stat. 1311][/us/stat/82/1311]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2120(b), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1913; [Pub. L. 99–514, title VIII, § 824(b)][/us/pl/99/514/s824/b], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 106–36, title III, § 3001(b)(2)][/us/pl/106/36/s3001/b/2], June 25, 1999, [113 Stat. 182][/us/stat/113/182]; [Pub. L. 108–357, title VIII, § 836(a)][/us/pl/108/357/s836/a], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 109–135, title IV, § 403(dd)(2)][/us/pl/109/135/s403/dd/2], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631]; [Pub. L. 113–295, div. A, title II, § 221(a)(51)][/us/pl/113/295/s221/a/51], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 90–621][/us/pl/90/621], § 2(b), Oct. 22, 1968, [82 Stat. 1311][/us/stat/82/1311]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XXI, § 2120(b), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1913; [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 824(b), Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 106–36, title III][/us/pl/106/36/tIII], § 3001(b)(2), June 25, 1999, [113 Stat. 182][/us/stat/113/182]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 836(a), Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(dd)(2), Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(51), Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
 
@@ -135,9 +135,9 @@
 
     1986—Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514] struck out par. (3) relating to exceptions for contributions in aid of construction.
 
-    1976—Subsec. (c)(2)(B). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (c)(2)(B). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c)(3). [Pub. L. 94–455, § 2120(b)][/us/pl/94/455/s2120/b], added par. (3).
+    Subsec. (c)(3). [Pub. L. 94–455][/us/pl/94/455], § 2120(b), added par. (3).
 
     1968—Subsec. (b). [Pub. L. 90–621][/us/pl/90/621] substituted the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) for the issuance of stock or securities of the transferee as the transaction rendering the subsection applicable.
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 836(c)(1)][/us/pl/108/357/s836/c/1], Oct. 22, 2004, [118 Stat. 1596][/us/stat/118/1596], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 836(c)(1), Oct. 22, 2004, [118 Stat. 1596][/us/stat/118/1596], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -180,19 +180,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F118
-[/us/pl/90/621/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F621%2Fs2%2Fb
+[/us/pl/90/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F621
 [/us/stat/82/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1311
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs824%2Fb
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2374
-[/us/pl/106/36/s3001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fb%2F2
+[/us/pl/106/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtIII
 [/us/stat/113/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F182
-[/us/pl/108/357/s836/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs836%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1594
-[/us/pl/109/135/s403/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fdd%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
-[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -200,8 +200,8 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s2120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2120%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/90/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F621
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
@@ -210,7 +210,7 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s836/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs836%2Fc%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1596
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
 [/us/pl/106/36/s3001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fe

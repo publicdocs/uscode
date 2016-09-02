@@ -49,17 +49,17 @@
 
         (2) a return under subsection (c), see section 6652(1). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “6652(l).” </sup></sup> 
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 746][/us/stat/68A/746]; [Pub. L. 91–172, title I, § 101(j)(35)][/us/pl/91/172/s101/j/35], Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV, § 1501(d)(1)(C)][/us/pl/99/514/s1501/d/1/C], Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 101–239, title VII, § 7208(b)(1)][/us/pl/101/239/s7208/b/1], (3)(A), (B), Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], 2338; [Pub. L. 104–188, title I, § 1704(t)(17)][/us/pl/104/188/s1704/t/17], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 746][/us/stat/68A/746]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(35), Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(d)(1)(C), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7208(b)(1), (3)(A), (B), Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], 2338; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(17), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888].)
 
  __Amendments__ 
 
     1996—[Pub. L. 104–188][/us/pl/104/188] substituted “Liquidating, etc., transactions” for “Liquidating; etc., transactions” in section catchline.
 
-    1989—[Pub. L. 101–239, § 7208(b)(3)(B)][/us/pl/101/239/s7208/b/3/B], substituted “Liquidating; etc., transactions” for “Returns regarding liquidation, dissolution, termination, or contraction” in section catchline.
+    1989—[Pub. L. 101–239][/us/pl/101/239], § 7208(b)(3)(B), substituted “Liquidating; etc., transactions” for “Returns regarding liquidation, dissolution, termination, or contraction” in section catchline.
 
-    Subsec. (a). [Pub. L. 101–239, § 7208(b)(3)(A)][/us/pl/101/239/s7208/b/3/A], substituted “Corporate liquidating, etc., transactions” for “Corporations” in heading.
+    Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7208(b)(3)(A), substituted “Corporate liquidating, etc., transactions” for “Corporations” in heading.
 
-    Subsecs. (c), (d). [Pub. L. 101–239, § 7208(b)(1)][/us/pl/101/239/s7208/b/1], added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “Cross Reference.—For provisions relating to penalties for failure to file a return required by subsection (b), see section 6652(c).”
+    Subsecs. (c), (d). [Pub. L. 101–239][/us/pl/101/239], § 7208(b)(1), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “Cross Reference.—For provisions relating to penalties for failure to file a return required by subsection (b), see section 6652(c).”
 
     1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514] substituted “section 6652(c)” for “section 6652(d)”.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7208(b)(4)][/us/pl/101/239/s7208/b/4], Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7208(b)(4), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 6652 of this title][/us/usc/t26/s6652]\] shall apply to transactions after March 31, 1990.”
 
@@ -90,24 +90,24 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F746
-[/us/pl/91/172/s101/j/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F35
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F529
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1501/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fd%2F1%2FC
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
-[/us/pl/101/239/s7208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fb%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2337
-[/us/pl/104/188/s1704/t/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F17
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/239/s7208/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fb%2F3%2FB
-[/us/pl/101/239/s7208/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fb%2F3%2FA
-[/us/pl/101/239/s7208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fb%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/101/239/s7208/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fb%2F4
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2338
 [/us/usc/t26/s6652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6652
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

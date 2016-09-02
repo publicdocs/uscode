@@ -81,9 +81,9 @@ Amendments  </td>
 
 </table>
 
-    1986—[Pub. L. 99–514, title XII, § 1235(g)][/us/pl/99/514/s1235/g], Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576], added item for part VI.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(g), Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576], added item for part VI.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 42(b)(1)][/us/pl/98/369/s42/b/1], July 18, 1984, [98 Stat. 557][/us/stat/98/557], added item for part V.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(b)(1), July 18, 1984, [98 Stat. 557][/us/stat/98/557], added item for part V.
 
 ----------
 
@@ -92,9 +92,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/99/514/s1235/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fg
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2576
-[/us/pl/98/369/s42/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fb%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
 
 

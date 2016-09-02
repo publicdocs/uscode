@@ -31,7 +31,7 @@
 
         (2) Section 933, relating to income tax on residents of Puerto Rico.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 909][/us/stat/68A/909]; [Pub. L. 85–859, title II, § 204(19)][/us/pl/85/859/s204/19], Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430]; [Pub. L. 91–513, title III, § 1102(k)][/us/pl/91/513/s1102/k], Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 94–455, title XIX, § 1904(b)(6)(B)][/us/pl/94/455/s1904/b/6/B], Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815]; [Pub. L. 99–514, title XII, § 1272(d)(11)][/us/pl/99/514/s1272/d/11], Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594]; [Pub. L. 101–508, title XI, § 11801(c)(22)(E)][/us/pl/101/508/s11801/c/22/E], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 909][/us/stat/68A/909]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(19), Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(k), Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(6)(B), Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1272(d)(11), Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(22)(E), Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(2), (3). [Pub. L. 101–508, § 11801(c)(22)(E)(i)][/us/pl/101/508/s11801/c/22/E/i], substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former chapter 37 relating to tax on sugar.
+    1990—Subsec. (a)(2), (3). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(22)(E)(i), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former chapter 37 relating to tax on sugar.
 
-    Subsec. (b)(2), (3). [Pub. L. 101–508, § 11801(c)(22)(E)(ii)][/us/pl/101/508/s11801/c/22/E/ii], substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former section 6418(b) relating to the exportation of sugar to Puerto Rico.
+    Subsec. (b)(2), (3). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(22)(E)(ii), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former section 6418(b) relating to the exportation of sugar to Puerto Rico.
 
     1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
@@ -78,21 +78,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F909
-[/us/pl/85/859/s204/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F19
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1430
-[/us/pl/91/513/s1102/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fk
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1293
-[/us/pl/94/455/s1904/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F6%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1815
-[/us/pl/99/514/s1272/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fd%2F11
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2594
-[/us/pl/101/508/s11801/c/22/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F22%2FE
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-528
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F415
 [/us/usc/t26/s3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3128
-[/us/pl/101/508/s11801/c/22/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F22%2FE%2Fi
-[/us/pl/101/508/s11801/c/22/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F22%2FE%2Fii
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

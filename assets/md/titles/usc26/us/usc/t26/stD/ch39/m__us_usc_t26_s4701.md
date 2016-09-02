@@ -51,7 +51,7 @@
 
             The term “registered form” has the same meaning as when used in section 163(f).
 
-(Added [Pub. L. 97–248, title III, § 310(b)(4)(A)][/us/pl/97/248/s310/b/4/A], Sept. 3, 1982, [96 Stat. 598][/us/stat/96/598]; amended [Pub. L. 99–514, title XIII, § 1301(j)(5)][/us/pl/99/514/s1301/j/5], Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657]; [Pub. L. 111–147, title V, § 502(e)][/us/pl/111/147/s502/e], Mar. 18, 2010, [124 Stat. 108][/us/stat/124/108].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 310(b)(4)(A), Sept. 3, 1982, [96 Stat. 598][/us/stat/96/598]; amended [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(5), Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 502(e), Mar. 18, 2010, [124 Stat. 108][/us/stat/124/108].)
 
  __Amendments__ 
 
@@ -78,11 +78,11 @@
 ----------
 ----------
 
-[/us/pl/97/248/s310/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs310%2Fb%2F4%2FA
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F598
-[/us/pl/99/514/s1301/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F5
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2657
-[/us/pl/111/147/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fe
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F108
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

@@ -105,21 +105,21 @@
 
         (3) For special rules in case of the borrower under certain loans for personal use, see section 1275(b).
 
-(Added [Pub. L. 88–272, title II, § 224(a)][/us/pl/88/272/s224/a], Feb. 26, 1964, [78 Stat. 77][/us/stat/78/77]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1834; [Pub. L. 97–34, title I, § 126(a)][/us/pl/97/34/s126/a], Aug. 13, 1981, [95 Stat. 202][/us/stat/95/202]; [Pub. L. 97–448, title I, § 101(g)][/us/pl/97/448/s101/g], Jan. 12, 1983, [96 Stat. 2367][/us/stat/96/2367]; [Pub. L. 98–369, div. A, title I, § 41(b)][/us/pl/98/369/s41/b], July 18, 1984, [98 Stat. 553][/us/stat/98/553]; [Pub. L. 99–121, title I][/us/pl/99/121], §§ 101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, [99 Stat. 505][/us/stat/99/505], 508; [Pub. L. 99–514, title XVIII, § 1803(a)(14)(B)][/us/pl/99/514/s1803/a/14/B], Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797].)
+(Added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 224(a), Feb. 26, 1964, [78 Stat. 77][/us/stat/78/77]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1834; [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 126(a), Aug. 13, 1981, [95 Stat. 202][/us/stat/95/202]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 101(g), Jan. 12, 1983, [96 Stat. 2367][/us/stat/96/2367]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(b), July 18, 1984, [98 Stat. 553][/us/stat/98/553]; [Pub. L. 99–121, title I][/us/pl/99/121/tI], §§ 101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, [99 Stat. 505][/us/stat/99/505], 508; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1803(a)(14)(B), Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797].)
 
  __Amendments__ 
 
     1986—Subsec. (d)(3). [Pub. L. 99–514][/us/pl/99/514] substituted “for which an issue price is determined under section 1273(b) (other than paragraph (4) thereof) or section 1274” for “to which section 1272 applies”.
 
-    1985—Subsec. (b). [Pub. L. 99–121, § 101(a)(2)(A)][/us/pl/99/121/s101/a/2/A], struck out “120 percent of” after “discount rate equal to” in closing provisions.
+    1985—Subsec. (b). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(2)(A), struck out “120 percent of” after “discount rate equal to” in closing provisions.
 
-    Subsec. (c)(1)(B). [Pub. L. 99–121, § 101(a)(2)(B)][/us/pl/99/121/s101/a/2/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “under which, using a discount rate equal to 110 percent of the applicable Federal rate determined under section 1274(d), there is total unstated interest.”
+    Subsec. (c)(1)(B). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “under which, using a discount rate equal to 110 percent of the applicable Federal rate determined under section 1274(d), there is total unstated interest.”
 
-    Subsec. (e). [Pub. L. 99–121, § 102(c)(1)][/us/pl/99/121/s102/c/1], (2), redesignated subsec. (f) as (e), and as so redesignated substituted “6 percent” for “7 percent” in par. (1). Former subsec. (e), which related to the interest rates in the case of the sales of principal residences or farm lands, was struck out.
+    Subsec. (e). [Pub. L. 99–121][/us/pl/99/121], § 102(c)(1), (2), redesignated subsec. (f) as (e), and as so redesignated substituted “6 percent” for “7 percent” in par. (1). Former subsec. (e), which related to the interest rates in the case of the sales of principal residences or farm lands, was struck out.
 
-    Subsec. (f). [Pub. L. 99–121, § 102(c)(1)][/us/pl/99/121/s102/c/1], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 99–121][/us/pl/99/121], § 102(c)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsecs. (g), (h). [Pub. L. 99–121, § 102(c)(1)][/us/pl/99/121/s102/c/1], (3), redesignated subsec. (h) as (g) and amended it generally, designating existing undesignated cross reference as par. (3), and adding pars. (1) and (2). Former subsec. (g) redesignated (f).
+    Subsecs. (g), (h). [Pub. L. 99–121][/us/pl/99/121], § 102(c)(1), (3), redesignated subsec. (h) as (g) and amended it generally, designating existing undesignated cross reference as par. (3), and adding pars. (1) and (2). Former subsec. (g) redesignated (f).
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] amended subsec. (a) generally, substituting “For purposes of this title, in the case of any payment (1) under any contract for the sale or exchange of any property, and (2) to which this section applies, there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment” for “For purposes of this title, in the case of any contract for the sale or exchange of property there shall be treated as interest that part of a payment to which this section applies which bears the same ratio to the amount of such payment as the total unstated interest under such contract bears to the total of the payments to which this section applies which are due under such contract”.
 
@@ -147,13 +147,13 @@
 
     1981—Subsec. (g). [Pub. L. 97–34][/us/pl/97/34] added subsec. (g).
 
-    1976—Subsecs. (b), (c)(1)(B), (e). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (b), (c)(1)(B), (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (f)(3). [Pub. L. 94–455, § 1901(b)(3)(B)][/us/pl/94/455/s1901/b/3/B], substituted “all of the gain, if any, on such” for “no part of any gain on such” and “ordinary income” for gain from the sale or exchange of property other than a capital asset”.
+    Subsec. (f)(3). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(B), substituted “all of the gain, if any, on such” for “no part of any gain on such” and “ordinary income” for gain from the sale or exchange of property other than a capital asset”.
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1985 Amendment__ 
 
@@ -169,7 +169,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title I, § 126(b)][/us/pl/97/34/s126/b], Aug. 13, 1981, [95 Stat. 202][/us/stat/95/202], provided that: 
+[Pub. L. 97–34, title I][/us/pl/97/34/tI], § 126(b), Aug. 13, 1981, [95 Stat. 202][/us/stat/95/202], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to payments made after June 30, 1981, pursuant to sales or exchanges after such date.”
 
@@ -187,7 +187,7 @@
 
  __Treatment of Transfers of Land Between Related Parties__ 
 
-[Pub. L. 99–514, title XVIII, § 1803(a)(9)][/us/pl/99/514/s1803/a/9], Oct. 22, 1986, [100 Stat. 2794][/us/stat/100/2794], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1803(a)(9), Oct. 22, 1986, [100 Stat. 2794][/us/stat/100/2794], provided that: 
 
 > “In the case of any sale or exchange before July 1, 1985, to which section 483(f) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of [Public Law 99–121][/us/pl/99/121] \[Oct. 11, 1985\]) applies, such section shall be treated as providing that the discount rate to be used for purposes of section 483(c)(1) of such Code shall be 6 percent, compounded semiannually.”
 
@@ -202,26 +202,26 @@
 ----------
 ----------
 
-[/us/pl/88/272/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs224%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F77
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1792
-[/us/pl/97/34/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs126%2Fa
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F202
-[/us/pl/97/448/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs101%2Fg
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2367
-[/us/pl/98/369/s41/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F553
-[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F505
-[/us/pl/99/514/s1803/a/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F14%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2797
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/121/s101/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F2%2FA
-[/us/pl/99/121/s101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F2%2FB
-[/us/pl/99/121/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fc%2F1
-[/us/pl/99/121/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fc%2F1
-[/us/pl/99/121/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fc%2F1
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -235,10 +235,10 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
@@ -251,7 +251,7 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/448/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/34/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs126%2Fb
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F202
 [/us/pl/94/455/s1901/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FB
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -261,7 +261,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1803/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F9
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2794
 [/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

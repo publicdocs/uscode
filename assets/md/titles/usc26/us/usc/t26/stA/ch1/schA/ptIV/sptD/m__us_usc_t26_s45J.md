@@ -95,7 +95,7 @@
 
         Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e) shall apply for purposes of this section.
 
-(Added [Pub. L. 109–58, title XIII, § 1306(a)][/us/pl/109/58/s1306/a], Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; amended [Pub. L. 109–135, title IV, § 402(d)][/us/pl/109/135/s402/d], Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610]; [Pub. L. 110–172, § 6(a)][/us/pl/110/172/s6/a], Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1306(a), Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 402(d), Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610]; [Pub. L. 110–172][/us/pl/110/172], § 6(a), Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
     2007—Subsec. (b)(2). [Pub. L. 110–172][/us/pl/110/172] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The national megawatt capacity limitation shall be 6,000 megawatts.”
 
-    2005—Subsec. (c)(2). [Pub. L. 109–135, § 402(d)(1)][/us/pl/109/135/s402/d/1], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.”
+    2005—Subsec. (c)(2). [Pub. L. 109–135][/us/pl/109/135], § 402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section.”
 
-    Subsec. (e). [Pub. L. 109–135, § 402(d)(2)][/us/pl/109/135/s402/d/2], struck out “(2),” after “(1),”.
+    Subsec. (e). [Pub. L. 109–135][/us/pl/109/135], § 402(d)(2), struck out “(2),” after “(1),”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -128,16 +128,16 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1306%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F997
-[/us/pl/109/135/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fd
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2610
-[/us/pl/110/172/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fa
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2479
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/109/135/s402/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fd%2F1
-[/us/pl/109/135/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fd%2F2
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/172/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fe

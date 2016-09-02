@@ -37,7 +37,7 @@
 
         (2) no unpaid interest on such transfers.
 
-(Added [Pub. L. 98–76, title II, § 231(a)][/us/pl/98/76/s231/a], Aug. 12, 1983, [97 Stat. 426][/us/stat/97/426]; amended [Pub. L. 99–272, title XIII, § 13301(a)][/us/pl/99/272/s13301/a], Apr. 7, 1986, [100 Stat. 325][/us/stat/100/325]; [Pub. L. 100–647, title I, § 1018(u)(17)][/us/pl/100/647/s1018/u/17], title VIII, § 7106(a), Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590], 3772.)
+(Added [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(a), Aug. 12, 1983, [97 Stat. 426][/us/stat/97/426]; amended [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13301(a), Apr. 7, 1986, [100 Stat. 325][/us/stat/100/325]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(17), title VIII, § 7106(a), Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590], 3772.)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, § 7106(a)][/us/pl/100/647/s7106/a], amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
+    1988—[Pub. L. 100–647][/us/pl/100/647], § 7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the “applicable percentage” of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
 
-    [Pub. L. 100–647, § 1018(u)(17)][/us/pl/100/647/s1018/u/17], added a period at end of par. (4).
+    [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(17), added a period at end of par. (4).
 
     1986—Subsec. (c). [Pub. L. 99–272][/us/pl/99/272] amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows:
 
@@ -67,19 +67,19 @@
 
     Amendment by [section 1018(u)(17) of Pub. L. 100–647][/us/pl/100/647/s1018/u/17] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VII, § 7106(d)][/us/pl/100/647/s7106/d], Nov. 10, 1988, [102 Stat. 3774][/us/stat/102/3774], provided that: 
+[Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(d), Nov. 10, 1988, [102 Stat. 3774][/us/stat/102/3774], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting [section 3323 of this title][/us/usc/t26/s3323], and amending provisions set out as a note under [section 231n of Title 45][/us/usc/t45/s231n], Railroads\], and the provisions of subsection (b) \[set out below\], shall apply to remuneration paid after December 31, 1988.”
 
  __Effective Date__ 
 
-[Pub. L. 98–76, title II, § 231(d)][/us/pl/98/76/s231/d], Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429], provided that: 
+[Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(d), Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429], provided that: 
 
 > “The amendments made by this section \[enacting this chapter and amending sections 6157, 6201, 6317, 6513, and 6601 of this title\] shall apply to remuneration paid after June 30, 1986.”
 
  __Continuation of Surtax Rate Through 1990__ 
 
-[Pub. L. 100–647, title VII, § 7106(b)][/us/pl/100/647/s7106/b], Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773], provided that:
+[Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(b), Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -110,27 +110,27 @@
 ----------
 ----------
 
-[/us/pl/98/76/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fa
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F426
-[/us/pl/99/272/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13301%2Fa
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F325
-[/us/pl/100/647/s1018/u/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F17
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3590
 [/us/usc/t45/s360/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs360%2Fd
-[/us/pl/100/647/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fa
-[/us/pl/100/647/s1018/u/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F17
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/100/647/s1018/u/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F17
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s7106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fd
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3774
 [/us/usc/t26/s3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3323
 [/us/usc/t45/s231n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231n
-[/us/pl/98/76/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fd
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F429
-[/us/pl/100/647/s7106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fb
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3773
 [/us/usc/t45/s360/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs360%2Fd
 

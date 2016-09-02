@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(7)][/us/pl/101/508/s11801/b/7], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part II “Exclusions from gross income”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(7), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part II “Exclusions from gross income”.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(21)(H)][/us/pl/94/455/s1901/b/21/H], Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], struck out item 615 “Exploration expenditures”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(21)(H), Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], struck out item 615 “Exploration expenditures”.
 
-    1969—[Pub. L. 91–172, title V][/us/pl/91/172], §§ 503(b), 505(c), Dec. 30, 1969, [83 Stat. 631][/us/stat/83/631], 634, added items for parts IV and V.
+    1969—[Pub. L. 91–172, title V][/us/pl/91/172/tV], §§ 503(b), 505(c), Dec. 30, 1969, [83 Stat. 631][/us/stat/83/631], 634, added items for parts IV and V.
 
-    [Pub. L. 91–172, title V, § 504(c)(5)][/us/pl/91/172/s504/c/5], Dec. 30, 1969, [83 Stat. 633][/us/stat/83/633], substituted “Pre-1970 exploration expenditures” for “Exploration expenditures” in item 615 and substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in item 617.
+    [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 504(c)(5), Dec. 30, 1969, [83 Stat. 633][/us/stat/83/633], substituted “Pre-1970 exploration expenditures” for “Exploration expenditures” in item 615 and substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in item 617.
 
-    1966—[Pub. L. 89–570, § 1(d)][/us/pl/89/570/s1/d], Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762], added item 617.
+    1966—[Pub. L. 89–570][/us/pl/89/570], § 1(d), Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762], added item 617.
 
 ----------
 
@@ -108,15 +108,15 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F7
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/94/455/s1901/b/21/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F21%2FH
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1798
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F631
-[/us/pl/91/172/s504/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fc%2F5
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F633
-[/us/pl/89/570/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570%2Fs1%2Fd
+[/us/pl/89/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570
 [/us/stat/80/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F762
 
 

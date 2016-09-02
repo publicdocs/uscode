@@ -139,9 +139,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 749][/us/stat/112/749], added part heading.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3401(b), July 22, 1998, [112 Stat. 749][/us/stat/112/749], added part heading.
 
-    1966—[Pub. L. 89–719, title I, § 104(j)][/us/pl/89/719/s104/j], Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138], inserted “and return property” in item 6343.
+    1966—[Pub. L. 89–719, title I][/us/pl/89/719/tI], § 104(j), Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138], inserted “and return property” in item 6343.
 
 ----------
 
@@ -150,9 +150,9 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3401%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F749
-[/us/pl/89/719/s104/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs104%2Fj
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1138
 
 

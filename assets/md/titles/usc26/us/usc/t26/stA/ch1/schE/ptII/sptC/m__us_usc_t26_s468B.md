@@ -123,7 +123,7 @@
 
             For purposes of this paragraph, the term “government entity” means the United States, any State or political subdivision thereof, the District of Columbia, any possession of the United States, and any agency or instrumentality of any of the foregoing.
 
-(Added [Pub. L. 99–514, title XVIII, § 1807(a)(7)(A)][/us/pl/99/514/s1807/a/7/A], Oct. 22, 1986, [100 Stat. 2814][/us/stat/100/2814]; amended [Pub. L. 100–647, title I, § 1018(f)(1)][/us/pl/100/647/s1018/f/1], (2), (4), (5)(A), Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582]; [Pub. L. 101–508, title XI, § 11702(e)(1)][/us/pl/101/508/s11702/e/1], Nov. 5, 1990, [104 Stat. 1388–515][/us/stat/104/1388-515]; [Pub. L. 109–222, title II, § 201(a)][/us/pl/109/222/s201/a], May 17, 2006, [120 Stat. 347][/us/stat/120/347]; [Pub. L. 109–432, div. A, title IV, § 409(a)][/us/pl/109/432/s409/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963].)
+(Added [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(7)(A), Oct. 22, 1986, [100 Stat. 2814][/us/stat/100/2814]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(f)(1), (2), (4), (5)(A), Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11702(e)(1), Nov. 5, 1990, [104 Stat. 1388–515][/us/stat/104/1388-515]; [Pub. L. 109–222, title II][/us/pl/109/222/tII], § 201(a), May 17, 2006, [120 Stat. 347][/us/stat/120/347]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 409(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963].)
 
  __References in Text__ 
 
@@ -137,25 +137,25 @@
 
     1990—Subsec. (e). [Pub. L. 101–508][/us/pl/101/508] substituted “This section (other than subsection (g))” for “This section”.
 
-    1988—Subsec. (b)(2). [Pub. L. 100–647, § 1018(f)(4)(B)][/us/pl/100/647/s1018/f/4/B], substituted “No other” for “no other” in concluding provisions.
+    1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(4)(B), substituted “No other” for “no other” in concluding provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 100–647, § 1018(f)(4)(A)][/us/pl/100/647/s1018/f/4/A], substituted “a corporation.” for “the corporation,”.
+    Subsec. (b)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(4)(A), substituted “a corporation.” for “the corporation,”.
 
-    Subsec. (d)(1)(A). [Pub. L. 100–647, § 1018(f)(1)][/us/pl/100/647/s1018/f/1], inserted “(or any related person)” after “taxpayer”.
+    Subsec. (d)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(1), inserted “(or any related person)” after “taxpayer”.
 
-    Subsec. (d)(2)(A). [Pub. L. 100–647, § 1018(f)(2)][/us/pl/100/647/s1018/f/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is established pursuant to a court order,”.
+    Subsec. (d)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is established pursuant to a court order,”.
 
-    Subsec. (d)(2)(E). [Pub. L. 100–647, § 1018(f)(1)][/us/pl/100/647/s1018/f/1], inserted “(or any related person)” after “taxpayer”.
+    Subsec. (d)(2)(E). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(1), inserted “(or any related person)” after “taxpayer”.
 
-    Subsec. (g). [Pub. L. 100–647, § 1018(f)(5)(A)][/us/pl/100/647/s1018/f/5/A], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–647][/us/pl/100/647], § 1018(f)(5)(A), added subsec. (g).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 409(b)][/us/pl/109/432/s409/b], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 409(b), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[[Pub. L. 109–222][/us/pl/109/222]\].”
 
-[Pub. L. 109–222, title II, § 201(b)][/us/pl/109/222/s201/b], May 17, 2006, [120 Stat. 348][/us/stat/120/348], provided that: 
+[Pub. L. 109–222, title II][/us/pl/109/222/tII], § 201(b), May 17, 2006, [120 Stat. 348][/us/stat/120/348], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to accounts and funds established after the date of the enactment of this Act \[May 17, 2006\].”
 
@@ -169,7 +169,7 @@
 
  __Effective Date__ 
 
-    Section effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as an Effective Date of 1986 Amendment note under [section 48 of this title][/us/usc/t26/s48].
+    Section effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as an Effective Date of 1986 Amendment note under [section 48 of this title][/us/usc/t26/s48].
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -177,7 +177,7 @@
 
  __Special Rule for Taxpayer in Bankruptcy Reorganization__ 
 
-[Pub. L. 99–514, title XVIII, § 1807(a)(7)(C)][/us/pl/99/514/s1807/a/7/C], Oct. 22, 1986, [100 Stat. 2816][/us/stat/100/2816], as amended by [Pub. L. 100–647, title I, § 1018(f)(3)][/us/pl/100/647/s1018/f/3], Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(7)(C), Oct. 22, 1986, [100 Stat. 2816][/us/stat/100/2816], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(f)(3), Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582], provided that: 
 
 > “In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
 
@@ -189,7 +189,7 @@
 
  __Clarification of Law With Respect to Certain Funds__ 
 
-    [Pub. L. 99–514, title XVIII, § 1807(a)(7)(D)][/us/pl/99/514/s1807/a/7/D], Oct. 22, 1986, [100 Stat. 2816][/us/stat/100/2816], provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by [Pub. L. 100–647, title I, § 1018(f)(5)(B)][/us/pl/100/647/s1018/f/5/B], Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582].
+    [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(7)(D), Oct. 22, 1986, [100 Stat. 2816][/us/stat/100/2816], provided that nothing in any provision of law be construed as providing that an escrow account, settlement fund, or similar fund established after Aug. 16, 1986, not be subject to current income tax and that if contributions to such account or fund are not deductible then the account or fund be taxed as a grantor trust, prior to repeal by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(f)(5)(B), Nov. 10, 1988, [102 Stat. 3582][/us/stat/102/3582].
 
 ----------
 
@@ -198,15 +198,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1807/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F7%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2814
-[/us/pl/100/647/s1018/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3582
-[/us/pl/101/508/s11702/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fe%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-515
-[/us/pl/109/222/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs201%2Fa
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F347
-[/us/pl/109/432/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs409%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -214,16 +214,16 @@
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1018/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F4%2FB
-[/us/pl/100/647/s1018/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F4%2FA
-[/us/pl/100/647/s1018/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F1
-[/us/pl/100/647/s1018/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F2
-[/us/pl/100/647/s1018/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F1
-[/us/pl/100/647/s1018/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F5%2FA
-[/us/pl/109/432/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs409%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/109/222/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs201%2Fb
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F348
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -233,19 +233,19 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1807/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F7%2FC
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2816
-[/us/pl/100/647/s1018/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3582
-[/us/pl/99/514/s1807/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F7%2FD
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2816
-[/us/pl/100/647/s1018/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ff%2F5%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3582
 
 

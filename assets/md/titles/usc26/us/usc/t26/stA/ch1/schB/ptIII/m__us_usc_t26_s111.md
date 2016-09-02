@@ -51,13 +51,13 @@
 
         (2) where any excluded amount under subsection (a) was not allowable as a deduction for the prior taxable year for purposes of this subtitle other than of section 531 or section 541 but was allowable for the same taxable year under section 531 or section 541, then such excluded amount shall be allowable if it did not result in a reduction of the tax under section 531 or the tax under section 541.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 33][/us/stat/68A/33]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 2(c)][/us/pl/96/589/s2/c], Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 98–369, div. A, title I, § 171(a)][/us/pl/98/369/s171/a], July 18, 1984, [98 Stat. 698][/us/stat/98/698]; [Pub. L. 99–514, title XVIII, § 1812(a)(1)][/us/pl/99/514/s1812/a/1], (2), Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 33][/us/stat/68A/33]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589][/us/pl/96/589], § 2(c), Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 171(a), July 18, 1984, [98 Stat. 698][/us/stat/98/698]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(a)(1), (2), Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833].)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1812(a)(1)][/us/pl/99/514/s1812/a/1], substituted “did not reduce the amount of tax imposed by this chapter” for “did not reduce income subject to tax”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1812(a)(1), substituted “did not reduce the amount of tax imposed by this chapter” for “did not reduce income subject to tax”.
 
-    Subsec. (c). [Pub. L. 99–514, § 1812(a)(2)][/us/pl/99/514/s1812/a/2], substituted “reducing tax imposed by this chapter” for “reducing income subject to tax or reducing tax imposed by this chapter, as the case may be”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1812(a)(2), substituted “reducing tax imposed by this chapter” for “reducing income subject to tax or reducing tax imposed by this chapter, as the case may be”.
 
     1984—[Pub. L. 98–369][/us/pl/98/369] amended section generally, substituting provisions relating to recovery of tax benefit items for provisions relating to recovery of bad debts, prior taxes, and delinquency amounts.
 
@@ -67,11 +67,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 171(c)][/us/pl/98/369/s171/c], July 18, 1984, [98 Stat. 699][/us/stat/98/699], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 171(c), July 18, 1984, [98 Stat. 699][/us/stat/98/699], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to amounts recovered after December 31, 1983, in taxable years ending after such date.”
 
@@ -92,24 +92,24 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F33
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/589/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs2%2Fc
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3396
-[/us/pl/98/369/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs171%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F698
-[/us/pl/99/514/s1812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2833
-[/us/pl/99/514/s1812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F1
-[/us/pl/99/514/s1812/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs171%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F699
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589

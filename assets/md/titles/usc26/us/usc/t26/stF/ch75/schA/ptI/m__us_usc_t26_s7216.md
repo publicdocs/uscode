@@ -43,7 +43,7 @@
 
             Subsection (a) shall not apply to a disclosure or use of information which is permitted by regulations prescribed by the Secretary under this section. Such regulations shall permit (subject to such conditions as such regulations shall provide) the disclosure or use of information for quality or peer reviews.
 
-(Added [Pub. L. 92–178, title III, § 316(a)][/us/pl/92/178/s316/a], Dec. 10, 1971, [85 Stat. 529][/us/stat/85/529]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV, § 412(b)(10)][/us/pl/98/369/s412/b/10], July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 100–647, title VI, § 6242(b)][/us/pl/100/647/s6242/b], Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749]; [Pub. L. 101–239, title VII, § 7739(a)][/us/pl/101/239/s7739/a], Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404].)
+(Added [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 316(a), Dec. 10, 1971, [85 Stat. 529][/us/stat/85/529]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 412(b)(10), July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6242(b), Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7739(a), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7739(b)][/us/pl/101/239/s7739/b], Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7739(b), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–178, title III, § 316(c)][/us/pl/92/178/s316/c], Dec. 10, 1971, [85 Stat. 530][/us/stat/85/530], provided that: 
+[Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 316(c), Dec. 10, 1971, [85 Stat. 530][/us/stat/85/530], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Dec. 10, 1971\].”
 
@@ -82,21 +82,21 @@
 ----------
 ----------
 
-[/us/pl/92/178/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs316%2Fa
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F529
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s412/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs412%2Fb%2F10
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F792
-[/us/pl/100/647/s6242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6242%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3749
-[/us/pl/101/239/s7739/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7739%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2404
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/101/239/s7739/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7739%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2404
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s6242/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6242%2Fd
@@ -104,7 +104,7 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s414/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs414%2Fa%2F1
 [/us/usc/t26/s6654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6654
-[/us/pl/92/178/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs316%2Fc
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F530
 
 

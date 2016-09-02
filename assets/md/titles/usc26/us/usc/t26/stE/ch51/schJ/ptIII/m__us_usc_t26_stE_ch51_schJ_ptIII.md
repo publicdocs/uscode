@@ -75,13 +75,13 @@
 
  __Prior Provisions__ 
 
-    A prior part III consisted of sections 5671 to 5676 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part III consisted of sections 5671 to 5676 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–458, § 2(b)(5)(B)][/us/pl/95/458/s2/b/5/B], Oct. 14, 1978, [92 Stat. 1257][/us/stat/92/1257], substituted “production or removal” for “removal” in item 5674.
+    1978—[Pub. L. 95–458][/us/pl/95/458], § 2(b)(5)(B), Oct. 14, 1978, [92 Stat. 1257][/us/stat/92/1257], substituted “production or removal” for “removal” in item 5674.
 
-    1976—[Pub. L. 94–455, title XIX, § 1905(b)(1)(B)][/us/pl/94/455/s1905/b/1/B], Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822], struck out item 5676 “Penalties relating to beer stamps”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(1)(B), Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822], struck out item 5676 “Penalties relating to beer stamps”.
 
 ----------
 
@@ -90,11 +90,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/95/458/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fb%2F5%2FB
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1257
-[/us/pl/94/455/s1905/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F1%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1822
 
 

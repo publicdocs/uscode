@@ -35,17 +35,17 @@
 
         The date on which a levy on property or rights to property is made shall be the date on which the notice of seizure provided in section 6335(a) is given.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 806][/us/stat/68A/806]; [Pub. L. 89–719, title I, § 113(b)][/us/pl/89/719/s113/b], Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title I, § 1015(u)(1)][/us/pl/100/647/s1015/u/1], Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573]; [Pub. L. 101–239, title VII, § 7811(k)(2)][/us/pl/101/239/s7811/k/2], Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412]; [Pub. L. 101–508, title XI, § 11317(a)][/us/pl/101/508/s11317/a], Nov. 5, 1990, [104 Stat. 1388–458][/us/stat/104/1388-458]; [Pub. L. 105–206, title III, § 3461(a)][/us/pl/105/206/s3461/a], July 22, 1998, [112 Stat. 764][/us/stat/112/764].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 806][/us/stat/68A/806]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 113(b), Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(u)(1), Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(k)(2), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11317(a), Nov. 5, 1990, [104 Stat. 1388–458][/us/stat/104/1388-458]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3461(a), July 22, 1998, [112 Stat. 764][/us/stat/112/764].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–206, § 3461(a)(2)][/us/pl/105/206/s3461/a/2], struck out first sentence of concluding provisions which read as follows: “The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.”
+    1998—Subsec. (a). [Pub. L. 105–206][/us/pl/105/206], § 3461(a)(2), struck out first sentence of concluding provisions which read as follows: “The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.”
 
-    Subsec. (a)(2). [Pub. L. 105–206, § 3461(a)(1)][/us/pl/105/206/s3461/a/1], added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collection agreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
+    Subsec. (a)(2). [Pub. L. 105–206][/us/pl/105/206], § 3461(a)(1), added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collection agreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 11317(a)(1)][/us/pl/101/508/s11317/a/1], substituted “10 years” for “6 years”.
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 11317(a)(1), substituted “10 years” for “6 years”.
 
-    Subsec. (a)(2). [Pub. L. 101–508, § 11317(a)(2)][/us/pl/101/508/s11317/a/2], substituted “10-year period” for “6-year period” wherever appearing.
+    Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 11317(a)(2), substituted “10-year period” for “6-year period” wherever appearing.
 
     1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239] substituted “unenforceable” for “enforceable” in last sentence.
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1015(u)(2)][/us/pl/100/647/s1015/u/2], Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(u)(2), Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -86,22 +86,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F806
-[/us/pl/89/719/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs113%2Fb
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1146
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/100/647/s1015/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fu%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3573
-[/us/pl/101/239/s7811/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fk%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2412
-[/us/pl/101/508/s11317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11317%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-458
-[/us/pl/105/206/s3461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3461%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F764
-[/us/pl/105/206/s3461/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3461%2Fa%2F2
-[/us/pl/105/206/s3461/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3461%2Fa%2F1
-[/us/pl/101/508/s11317/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11317%2Fa%2F1
-[/us/pl/101/508/s11317/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11317%2Fa%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -117,7 +117,7 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s1015/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fu%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3573
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719

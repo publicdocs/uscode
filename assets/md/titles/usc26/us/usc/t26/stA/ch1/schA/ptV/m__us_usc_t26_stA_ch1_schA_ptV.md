@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Part V, consisting of a prior section 51, was repealed by [Pub. L. 94–455, title XIX, § 1901(a)(7)][/us/pl/94/455/s1901/a/7], Oct. 4, 1976, [90 Stat. 1765][/us/stat/90/1765]. See Prior Provisions note set out under [section 51 of this title][/us/usc/t26/s51].
+    Part V, consisting of a prior section 51, was repealed by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(7), Oct. 4, 1976, [90 Stat. 1765][/us/stat/90/1765]. See Prior Provisions note set out under [section 51 of this title][/us/usc/t26/s51].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F7
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1765
 [/us/usc/t26/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs51
 

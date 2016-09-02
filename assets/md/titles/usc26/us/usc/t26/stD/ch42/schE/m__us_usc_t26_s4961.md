@@ -41,7 +41,7 @@
 
             If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
 
-(Added [Pub. L. 96–596, § 2(c)(1)][/us/pl/96/596/s2/c/1], Dec. 24, 1980, [94 Stat. 3472][/us/stat/94/3472]; amended [Pub. L. 99–514, title XVIII, § 1899A(50)][/us/pl/99/514/s1899A/50], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
+(Added [Pub. L. 96–596][/us/pl/96/596], § 2(c)(1), Dec. 24, 1980, [94 Stat. 3472][/us/stat/94/3472]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(50), Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–596, § 2(d)][/us/pl/96/596/s2/d], Dec. 24, 1980, [94 Stat. 3474][/us/stat/94/3474], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 96–596][/us/pl/96/596], § 2(d), Dec. 24, 1980, [94 Stat. 3474][/us/stat/94/3474], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __First tier taxes__  __.—__ 
 
@@ -76,20 +76,20 @@
 ----------
 ----------
 
-[/us/pl/96/596/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fc%2F1
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3472
-[/us/pl/99/514/s1899A/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F50
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2961
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
-[/us/pl/96/596/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fd
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3474
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s4962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4962
 

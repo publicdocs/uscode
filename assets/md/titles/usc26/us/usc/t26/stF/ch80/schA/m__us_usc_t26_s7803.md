@@ -315,7 +315,7 @@
 
             (C) not later than December 31, 2010, submit a written report to Congress on the implementation of section 6103(k)(10).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 92–310, title II, § 230(e)][/us/pl/92/310/s230/e], June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX, § 1906(a)(58)][/us/pl/94/455/s1906/a/58], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 105–206, title I, § 1102(a)][/us/pl/105/206/s1102/a], July 22, 1998, [112 Stat. 697][/us/stat/112/697]; [Pub. L. 110–176, § 1(a)][/us/pl/110/176/s1/a], Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532]; [Pub. L. 110–428, § 2(c)][/us/pl/110/428/s2/c], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840]; [Pub. L. 114–113, div. Q, title IV, § 401(a)][/us/pl/114/113/s401/a], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 230(e), June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(58), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1102(a), July 22, 1998, [112 Stat. 697][/us/stat/112/697]; [Pub. L. 110–176][/us/pl/110/176], § 1(a), Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532]; [Pub. L. 110–428][/us/pl/110/428], § 2(c), Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 401(a), Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117].)
 
  __References in Text__ 
 
@@ -337,9 +337,9 @@
 
     1998—[Pub. L. 105–206][/us/pl/105/206] amended section catchline and text generally, substituting present provisions for provisions which: in subsec. (a), authorized appointment of persons for administration and enforcement of internal revenue laws; in subsec. (b), directed Secretary to determine and designate posts of duty of employees in field service, and authorized Secretary to order such employees to duty within and outside District of Columbia; and in subsec. (c), directed Secretary to issue notice and demand for failure to account for and pay over money or property collected in connection with internal revenue laws, and deemed amount so demanded to be imposed and assessed upon the officer or employee upon the date of such notice and demand. See [section 7804 of this title][/us/usc/t26/s7804].
 
-    1976—Subsecs. (a), (b), (c). [Pub. L. 94–455, § 1906(b)][/us/pl/94/455/s1906/b] (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (a), (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1906(a)(58)][/us/pl/94/455/s1906/a/58], redesignated subsec. (d) as (c).
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(58), redesignated subsec. (d) as (c).
 
     1972—Subsec. (c). [Pub. L. 92–310][/us/pl/92/310] repealed subsec. (c) which related to bonds of officers and employees.
 
@@ -351,7 +351,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 401(b)][/us/pl/114/113/s401/b], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 401(b), Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -359,13 +359,13 @@
 
     Amendment by [Pub. L. 110–428][/us/pl/110/428] applicable to disclosures made after Dec. 31, 2008, see [section 2(d) of Pub. L. 110–428][/us/pl/110/428/s2/d], set out as a note under [section 6103 of this title][/us/usc/t26/s6103].
 
-[Pub. L. 110–176, § 1(b)][/us/pl/110/176/s1/b], Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532], provided that: 
+[Pub. L. 110–176][/us/pl/110/176], § 1(b), Jan. 4, 2008, [121 Stat. 2532][/us/stat/121/2532], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[[Pub. L. 105–206][/us/pl/105/206]\].”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title I, § 1102(f)][/us/pl/105/206/s1102/f], July 22, 1998, [112 Stat. 705][/us/stat/112/705], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1102(f), July 22, 1998, [112 Stat. 705][/us/stat/112/705], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -401,17 +401,17 @@
 [/us/usc/t5/s552/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F7
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F915
-[/us/pl/92/310/s230/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs230%2Fe
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F209
-[/us/pl/94/455/s1906/a/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F58
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1833
-[/us/pl/105/206/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F697
-[/us/pl/110/176/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F176%2Fs1%2Fa
+[/us/pl/110/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F176
 [/us/stat/121/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2532
-[/us/pl/110/428/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs2%2Fc
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/stat/122/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4840
-[/us/pl/114/113/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
 [/us/pl/95/452/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs5
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -422,18 +422,18 @@
 [/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t26/s7804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7804
-[/us/pl/94/455/s1906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb
-[/us/pl/94/455/s1906/a/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F58
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
-[/us/pl/114/113/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs401%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
 [/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/pl/110/428/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs2%2Fd
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/110/176/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F176%2Fs1%2Fb
+[/us/pl/110/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F176
 [/us/stat/121/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2532
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/206/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Ff
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F705
 [/us/usc/t5/s5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5109
 

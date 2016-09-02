@@ -233,7 +233,7 @@
 
         Such election may be made for a taxable year only if made on or before the due date (including extensions) for filing the return of tax for such taxable year.
 
-(Added [Pub. L. 108–357, title IV, § 422(a)][/us/pl/108/357/s422/a], Oct. 22, 2004, [118 Stat. 1514][/us/stat/118/1514]; amended [Pub. L. 109–135, title IV, § 403(q)][/us/pl/109/135/s403/q], Dec. 21, 2005, [119 Stat. 2627][/us/stat/119/2627].)
+(Added [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 422(a), Oct. 22, 2004, [118 Stat. 1514][/us/stat/118/1514]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(q), Dec. 21, 2005, [119 Stat. 2627][/us/stat/119/2627].)
 
  __References in Text__ 
 
@@ -241,13 +241,13 @@
 
  __Amendments__ 
 
-    2005—Subsec. (a)(2)(B). [Pub. L. 109–135, § 403(q)(1)][/us/pl/109/135/s403/q/1], inserted “from another controlled foreign corporation in such chain of ownership” before “, but only to the extent”.
+    2005—Subsec. (a)(2)(B). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(1), inserted “from another controlled foreign corporation in such chain of ownership” before “, but only to the extent”.
 
-    Subsec. (b)(2)(A). [Pub. L. 109–135, § 403(q)(2)][/us/pl/109/135/s403/q/2], inserted “cash” before “dividends”.
+    Subsec. (b)(2)(A). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(2), inserted “cash” before “dividends”.
 
-    Subsec. (b)(3). [Pub. L. 109–135, § 403(q)(3)][/us/pl/109/135/s403/q/3], inserted at end “The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.”
+    Subsec. (b)(3). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(3), inserted at end “The Secretary may prescribe such regulations as may be necessary or appropriate to prevent the avoidance of the purposes of this paragraph, including regulations which provide that cash dividends shall not be taken into account under subsection (a) to the extent such dividends are attributable to the direct or indirect transfer (including through the use of intervening entities or capital contributions) of cash or other property from a related person (as so defined) to a controlled foreign corporation.”
 
-    Subsec. (c)(1). [Pub. L. 109–135, § 403(q)(4)][/us/pl/109/135/s403/q/4], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘applicable financial statement’ means, with respect to a United States shareholder, the most recently audited financial statement (including notes and other documents which accompany such statement) which includes such shareholder—
+    Subsec. (c)(1). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘applicable financial statement’ means, with respect to a United States shareholder, the most recently audited financial statement (including notes and other documents which accompany such statement) which includes such shareholder—
 
     “(A) which is certified on or before June 30, 2003, as being prepared in accordance with generally accepted accounting principles, and
 
@@ -261,13 +261,13 @@
 
     In the case of a corporation required to file a financial statement with the Securities and Exchange Commission, such term means the most recent such statement filed on or before June 30, 2003.”
 
-    Subsec. (d)(2). [Pub. L. 109–135, § 403(q)(5)][/us/pl/109/135/s403/q/5], substituted “directly allocable” for “properly allocated and apportioned”.
+    Subsec. (d)(2). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(5), substituted “directly allocable” for “properly allocated and apportioned”.
 
-    Subsec. (d)(4). [Pub. L. 109–135, § 403(q)(6)][/us/pl/109/135/s403/q/6], added par. (4).
+    Subsec. (d)(4). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(6), added par. (4).
 
-    Subsec. (e)(1). [Pub. L. 109–135, § 403(q)(7)][/us/pl/109/135/s403/q/7], inserted “which are imposed by foreign countries and possessions of the United States and are” after “taxes” in concluding provisions.
+    Subsec. (e)(1). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(7), inserted “which are imposed by foreign countries and possessions of the United States and are” after “taxes” in concluding provisions.
 
-    Subsec. (f). [Pub. L. 109–135, § 403(q)(8)][/us/pl/109/135/s403/q/8], inserted “on or” before “before the due date” in concluding provisions.
+    Subsec. (f). [Pub. L. 109–135][/us/pl/109/135], § 403(q)(8), inserted “on or” before “before the due date” in concluding provisions.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -284,19 +284,19 @@
 ----------
 ----------
 
-[/us/pl/108/357/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs422%2Fa
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1514
-[/us/pl/109/135/s403/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2627
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/109/135/s403/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F1
-[/us/pl/109/135/s403/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F2
-[/us/pl/109/135/s403/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F3
-[/us/pl/109/135/s403/q/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F4
-[/us/pl/109/135/s403/q/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F5
-[/us/pl/109/135/s403/q/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F6
-[/us/pl/109/135/s403/q/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F7
-[/us/pl/109/135/s403/q/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fq%2F8
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

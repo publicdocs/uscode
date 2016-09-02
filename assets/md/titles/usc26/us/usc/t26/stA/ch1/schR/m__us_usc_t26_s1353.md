@@ -45,7 +45,7 @@
 
         If for any period 2 or more persons are operators of a qualifying vessel, the notional shipping income from the operation of such vessel for such period shall be allocated among such persons on the basis of their respective ownership, charter, and operating agreement interests in such vessel or on such other basis as the Secretary may prescribe by regulations.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1450][/us/stat/118/1450]; amended [Pub. L. 109–135, title IV, § 403(g)(1)(A)][/us/pl/109/135/s403/g/1/A], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1450][/us/stat/118/1450]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(g)(1)(A), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
 
  __Amendments__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1450
-[/us/pl/109/135/s403/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F1%2FA
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135

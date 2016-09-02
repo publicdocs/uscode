@@ -43,7 +43,7 @@
 
             For purposes of this section, the rules of section 2001(d) shall apply.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I, § 108(a)][/us/pl/89/809/s108/a], Nov. 13, 1966, [80 Stat. 1571][/us/stat/80/1571]; [Pub. L. 94–455, title XX, § 2001(c)(1)(D)][/us/pl/94/455/s2001/c/1/D], Oct. 4, 1976, [90 Stat. 1850][/us/stat/90/1850]; [Pub. L. 100–647, title V, § 5032(a)][/us/pl/100/647/s5032/a], (c), Nov. 10, 1988, [102 Stat. 3669][/us/stat/102/3669]; [Pub. L. 101–239, title VII, § 7815(c)][/us/pl/101/239/s7815/c], Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 103–66, title XIII, § 13208(b)(3)][/us/pl/103/66/s13208/b/3], Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469]; [Pub. L. 107–147, title IV, § 411(g)(2)][/us/pl/107/147/s411/g/2], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(a), Nov. 13, 1966, [80 Stat. 1571][/us/stat/80/1571]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(1)(D), Oct. 4, 1976, [90 Stat. 1850][/us/stat/90/1850]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5032(a), (c), Nov. 10, 1988, [102 Stat. 3669][/us/stat/102/3669]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(c), Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13208(b)(3), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(g)(2), Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 
     1989—Subsec. (b). [Pub. L. 101–239][/us/pl/101/239] inserted at end “For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(3) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.”
 
-    1988—Subsec. (b). [Pub. L. 100–647, § 5032(a)][/us/pl/100/647/s5032/a], substituted “a tentative tax computed under section 2001(c)” for “a tentative tax computed in accordance with the rate schedule set forth in subsection (d)” in pars. (1) and (2).
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 5032(a), substituted “a tentative tax computed under section 2001(c)” for “a tentative tax computed in accordance with the rate schedule set forth in subsection (d)” in pars. (1) and (2).
 
-    Subsec. (d). [Pub. L. 100–647, § 5032(c)][/us/pl/100/647/s5032/c], struck out subsec. (d) which provided a rate schedule.
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 5032(c), struck out subsec. (d) which provided a rate schedule.
 
     1976—[Pub. L. 94–455][/us/pl/94/455] redesignated existing provisions as (a) to (d), inserted provisions for adjustments for taxable gifts, revised the tax rate schedule, and struck out provisions relating to property held by Alien Property Custodian.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5032(d)][/us/pl/100/647/s5032/d], Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5032(d), Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2102 of this title][/us/usc/t26/s2102]\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–809, title I, § 108(i)][/us/pl/89/809/s108/i], Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574], provided that: 
+[Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(i), Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
@@ -98,23 +98,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F397
-[/us/pl/89/809/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fa
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1571
-[/us/pl/94/455/s2001/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FD
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1850
-[/us/pl/100/647/s5032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5032%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3669
-[/us/pl/101/239/s7815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
-[/us/pl/103/66/s13208/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13208%2Fb%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F469
-[/us/pl/107/147/s411/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fg%2F2
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F46
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s5032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5032%2Fa
-[/us/pl/100/647/s5032/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5032%2Fc
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
@@ -128,13 +128,13 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s5032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5032%2Fd
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3670
 [/us/usc/t26/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2102
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001
-[/us/pl/89/809/s108/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fi
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1574
 
 

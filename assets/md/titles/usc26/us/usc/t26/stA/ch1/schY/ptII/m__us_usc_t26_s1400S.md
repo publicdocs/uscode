@@ -171,7 +171,7 @@
 
         With respect to taxable years beginning in 2005 or 2006, the Secretary may make such adjustments in the application of the internal revenue laws as may be necessary to ensure that taxpayers do not lose any deduction or credit or experience a change of filing status by reason of temporary relocations by reason of Hurricane Katrina, Hurricane Rita, or Hurricane Wilma. Any adjustments made under the preceding sentence shall ensure that an individual is not taken into account by more than one taxpayer with respect to the same tax benefit.
 
-(Added [Pub. L. 109–135, title II, § 201(a)][/us/pl/109/135/s201/a], Dec. 21, 2005, [119 Stat. 2604][/us/stat/119/2604]; amended [Pub. L. 110–172, § 11(a)(14)(C)][/us/pl/110/172/s11/a/14/C], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485].)
+(Added [Pub. L. 109–135, title II][/us/pl/109/135/tII], § 201(a), Dec. 21, 2005, [119 Stat. 2604][/us/stat/119/2604]; amended [Pub. L. 110–172][/us/pl/110/172], § 11(a)(14)(C), Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485].)
 
  __Amendments__ 
 
@@ -184,9 +184,9 @@
 ----------
 ----------
 
-[/us/pl/109/135/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs201%2Fa
+[/us/pl/109/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtII
 [/us/stat/119/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2604
-[/us/pl/110/172/s11/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F14%2FC
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2485
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 

@@ -33,17 +33,17 @@
 
         In the case of amounts to which subsection (a) applies, any notice to shareholders or holders of beneficial interests required under this part with respect to such amounts shall be made not later than 30 days after the close of the taxable year in which the distribution is made (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year).
 
-(Added [Pub. L. 86–779, § 10(a)][/us/pl/86/779/s10/a], Sept. 14, 1960, [74 Stat. 1008][/us/stat/74/1008]; amended [Pub. L. 94–455, title XVI][/us/pl/94/455], §§ 1604(h), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1752][/us/stat/90/1752], 1834; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 665(b)(2), 668(b)(1)(B), Oct. 22, 1986, [100 Stat. 2304][/us/stat/100/2304], 2307; [Pub. L. 100–647, title I, § 1018(u)(27)][/us/pl/100/647/s1018/u/27], Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 113–295, div. A, title II, § 220(m)][/us/pl/113/295/s220/m], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+(Added [Pub. L. 86–779][/us/pl/86/779], § 10(a), Sept. 14, 1960, [74 Stat. 1008][/us/stat/74/1008]; amended [Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], §§ 1604(h), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1752][/us/stat/90/1752], 1834; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], §§ 665(b)(2), 668(b)(1)(B), Oct. 22, 1986, [100 Stat. 2304][/us/stat/100/2304], 2307; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(27), Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(m), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Amendments__ 
 
     2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] substituted “857(b)(9)” for “857(b)(8)”.
 
-    1988—Subsec. (b). [Pub. L. 100–647, § 1018(u)(27)][/us/pl/100/647/s1018/u/27], made technical correction to directory language of [Pub. L. 99–514][/us/pl/99/514], see 1986 Amendment note below.
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(27), made technical correction to directory language of [Pub. L. 99–514][/us/pl/99/514], see 1986 Amendment note below.
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 668(b)(1)(B)][/us/pl/99/514/s668/b/1/B], as amended by [Pub. L. 100–647, § 1018(u)(27)][/us/pl/100/647/s1018/u/27], substituted “Except as provided in section 857(b)(8), amounts” for “Amounts”.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 668(b)(1)(B), as amended by [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(27), substituted “Except as provided in section 857(b)(8), amounts” for “Amounts”.
 
-    Subsec. (c). [Pub. L. 99–514, § 665(b)(2)][/us/pl/99/514/s665/b/2], inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 665(b)(2), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1604(h), 1906(b)(13)(A), inserted “(and specifies in dollar amounts)” after “to the extent the trust elects in such return” and substituted “paid only during such taxable year” for “paid during such taxable year”, and struck out “or his delegate” after “Secretary”.
 
@@ -70,22 +70,22 @@
 ----------
 ----------
 
-[/us/pl/86/779/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs10%2Fa
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1008
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1752
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2304
-[/us/pl/100/647/s1018/u/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F27
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3591
-[/us/pl/113/295/s220/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fm
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/100/647/s1018/u/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F27
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s668/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs668%2Fb%2F1%2FB
-[/us/pl/100/647/s1018/u/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F27
-[/us/pl/99/514/s665/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs665%2Fb%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

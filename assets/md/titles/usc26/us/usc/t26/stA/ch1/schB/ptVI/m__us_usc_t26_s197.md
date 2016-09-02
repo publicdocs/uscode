@@ -311,7 +311,7 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
 
-(Added [Pub. L. 103–66, title XIII, § 13261(a)][/us/pl/103/66/s13261/a], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 847(b)(3), 886(a), Oct. 22, 2004, [118 Stat. 1602][/us/stat/118/1602], 1641.)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13261(a), Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], §§ 847(b)(3), 886(a), Oct. 22, 2004, [118 Stat. 1602][/us/stat/118/1602], 1641.)
 
  __References in Text__ 
 
@@ -319,15 +319,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (e)(6) to (8). [Pub. L. 108–357, § 886(a)][/us/pl/108/357/s886/a], redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
+    2004—Subsec. (e)(6) to (8). [Pub. L. 108–357][/us/pl/108/357], § 886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
 
-    Subsec. (f)(10). [Pub. L. 108–357, § 847(b)(3)][/us/pl/108/357/s847/b/3], added par. (10).
+    Subsec. (f)(10). [Pub. L. 108–357][/us/pl/108/357], § 847(b)(3), added par. (10).
 
  __Effective Date of 2004 Amendment__ 
 
     Amendment by [section 847(b)(3) of Pub. L. 108–357][/us/pl/108/357/s847/b/3] applicable to leases entered into after Oct. 3, 2004, see [section 849(b)(4) of Pub. L. 108–357][/us/pl/108/357/s849/b/4], set out as an Effective Date note under [section 470 of this title][/us/usc/t26/s470].
 
-[Pub. L. 108–357, title VIII, § 886(c)][/us/pl/108/357/s886/c], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 886(c), Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -339,7 +339,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13261(g)][/us/pl/103/66/s13261/g], Aug. 10, 1993, [107 Stat. 540][/us/stat/107/540], as amended by [Pub. L. 104–188, title I, § 1703][/us/pl/104/188/s1703](l), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13261(g), Aug. 10, 1993, [107 Stat. 540][/us/stat/107/540], as amended by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(l), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -392,23 +392,23 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F532
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1602
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/108/357/s886/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fa
-[/us/pl/108/357/s847/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs847%2Fb%2F3
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s847/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs847%2Fb%2F3
 [/us/pl/108/357/s849/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs849%2Fb%2F4
 [/us/usc/t26/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs470
-[/us/pl/108/357/s886/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1641
 [/us/usc/t26/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1056
 [/us/usc/t26/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1245
-[/us/pl/103/66/s13261/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fg
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F540
-[/us/pl/104/188/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1877
 
 

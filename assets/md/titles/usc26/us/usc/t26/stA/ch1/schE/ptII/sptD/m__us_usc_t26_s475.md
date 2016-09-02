@@ -251,7 +251,7 @@
 
         (3) to prevent the use by taxpayers of subsection (c)(4) to avoid the application of this section to a receivable that is inventory in the hands of the taxpayer (or a person who bears a relationship to the taxpayer described in section 267(b) or 707(b)).
 
-(Added [Pub. L. 103–66, title XIII, § 13223(a)][/us/pl/103/66/s13223/a], Aug. 10, 1993, [107 Stat. 481][/us/stat/107/481]; amended [Pub. L. 105–34, title X, § 1001(b)][/us/pl/105/34/s1001/b], Aug. 5, 1997, [111 Stat. 906][/us/stat/111/906]; [Pub. L. 105–206, title VI, § 6010(a)(3)][/us/pl/105/206/s6010/a/3], title VII, § 7003(a), (b), July 22, 1998, [112 Stat. 813][/us/stat/112/813], 832; [Pub. L. 106–170, title V, § 532(b)(1)][/us/pl/106/170/s532/b/1], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–147, title IV, § 417(10)][/us/pl/107/147/s417/10], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13223(a), Aug. 10, 1993, [107 Stat. 481][/us/stat/107/481]; amended [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1001(b), Aug. 5, 1997, [111 Stat. 906][/us/stat/111/906]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(a)(3), title VII, § 7003(a), (b), July 22, 1998, [112 Stat. 813][/us/stat/112/813], 832; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(b)(1), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(10), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Amendments__ 
 
@@ -261,11 +261,11 @@
 
     1999—Subsec. (c)(3). [Pub. L. 106–170][/us/pl/106/170] substituted “manages” for “reduces”.
 
-    1998—Subsec. (c)(4). [Pub. L. 105–206, § 7003(a)][/us/pl/105/206/s7003/a], added par. (4).
+    1998—Subsec. (c)(4). [Pub. L. 105–206][/us/pl/105/206], § 7003(a), added par. (4).
 
-    Subsec. (f)(1)(D). [Pub. L. 105–206, § 6010(a)(3)][/us/pl/105/206/s6010/a/3], inserted at end “Subsection (d)(3) shall not apply under the preceding sentence for purposes of applying sections 1402 and 7704.”
+    Subsec. (f)(1)(D). [Pub. L. 105–206][/us/pl/105/206], § 6010(a)(3), inserted at end “Subsection (d)(3) shall not apply under the preceding sentence for purposes of applying sections 1402 and 7704.”
 
-    Subsec. (g)(3). [Pub. L. 105–206, § 7003(b)][/us/pl/105/206/s7003/b], added par. (3).
+    Subsec. (g)(3). [Pub. L. 105–206][/us/pl/105/206], § 7003(b), added par. (3).
 
     1997—Subsecs. (e) to (g). [Pub. L. 105–34][/us/pl/105/34] added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
@@ -277,7 +277,7 @@
 
     Amendment by [section 6010(a)(3) of Pub. L. 105–206][/us/pl/105/206/s6010/a/3] effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which such amendment relates, see [section 6024 of Pub. L. 105–206][/us/pl/105/206/s6024], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 105–206, title VII, § 7003(c)][/us/pl/105/206/s7003/c], July 22, 1998, [112 Stat. 833][/us/stat/112/833], provided that:
+[Pub. L. 105–206, title VII][/us/pl/105/206/tVII], § 7003(c), July 22, 1998, [112 Stat. 833][/us/stat/112/833], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -295,7 +295,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1001(d)][/us/pl/105/34/s1001/d], Aug. 5, 1997, [111 Stat. 907][/us/stat/111/907], as amended by [Pub. L. 105–206, title VI, § 6010(a)(4)][/us/pl/105/206/s6010/a/4], July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1001(d), Aug. 5, 1997, [111 Stat. 907][/us/stat/111/907], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(a)(4), July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -345,7 +345,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13223(c)][/us/pl/103/66/s13223/c], Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13223(c), Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -396,24 +396,24 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13223%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F481
-[/us/pl/105/34/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1001%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F906
-[/us/pl/105/206/s6010/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F3
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F813
-[/us/pl/106/170/s532/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fb%2F1
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s417/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F10
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/105/206/s7003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7003%2Fa
-[/us/pl/105/206/s6010/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F3
-[/us/pl/105/206/s7003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7003%2Fb
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
@@ -422,14 +422,14 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/206/s7003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7003%2Fc
+[/us/pl/105/206/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVII
 [/us/stat/112/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F833
-[/us/pl/105/34/s1001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1001%2Fd
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F907
-[/us/pl/105/206/s6010/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F4
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F813
 [/us/usc/t26/s1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1259
-[/us/pl/103/66/s13223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13223%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F484
 [/us/usc/t26/s988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs988
 

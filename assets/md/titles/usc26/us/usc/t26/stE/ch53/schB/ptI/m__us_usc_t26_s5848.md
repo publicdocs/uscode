@@ -23,11 +23,11 @@
 
         Subsection (a) of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
 
  __Prior Provisions__ 
 
-    A prior section 5848, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 727][/us/stat/68A/727], as amended by acts Sept. 2, 1958, [Pub. L. 85–859, title II, § 203(f)][/us/pl/85/859/s203/f], [72 Stat. 1427][/us/stat/72/1427]; June 1, 1960, [Pub. L. 86–478, § 3][/us/pl/86/478/s3], [74 Stat. 149][/us/stat/74/149], related to definition of a firearm, machine gun, rifle, shotgun, other weapon, importer, manufacturer, dealer, interstate commerce, transfer and person, prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
+    A prior section 5848, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 727][/us/stat/68A/727], as amended by acts Sept. 2, 1958, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 203(f), [72 Stat. 1427][/us/stat/72/1427]; June 1, 1960, [Pub. L. 86–478][/us/pl/86/478], § 3, [74 Stat. 149][/us/stat/74/149], related to definition of a firearm, machine gun, rifle, shotgun, other weapon, importer, manufacturer, dealer, interstate commerce, transfer and person, prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
 
 ----------
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1232
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F727
-[/us/pl/85/859/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs203%2Ff
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1427
-[/us/pl/86/478/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478%2Fs3
+[/us/pl/86/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478
 [/us/stat/74/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F149
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 

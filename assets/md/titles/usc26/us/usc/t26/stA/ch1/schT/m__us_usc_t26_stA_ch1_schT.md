@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–809, title II, § 211(b)(5)][/us/pl/89/809/s211/b/5], Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582], inserted “and per-unit retain allocations” in heading of part II.
+    1966—[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(b)(5), Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582], inserted “and per-unit retain allocations” in heading of part II.
 
-    1962—[Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], added headings of subchapter T and of parts I to III.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], added headings of subchapter T and of parts I to III.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/89/809/s211/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fb%2F5
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1582
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1045
 
 

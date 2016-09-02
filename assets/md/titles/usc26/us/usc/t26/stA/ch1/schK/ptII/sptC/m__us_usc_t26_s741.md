@@ -17,7 +17,7 @@
 
     In the case of a sale or exchange of an interest in a partnership, gain or loss shall be recognized to the transferor partner. Such gain or loss shall be considered as gain or loss from the sale or exchange of a capital asset, except as otherwise provided in section 751 (relating to unrealized receivables and inventory items).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 248][/us/stat/68A/248]; [Pub. L. 107–147, title IV, § 417(12)][/us/pl/107/147/s417/12], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 248][/us/stat/68A/248]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(12), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F248
-[/us/pl/107/147/s417/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F12
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 

@@ -31,7 +31,7 @@
 
         Except as otherwise provided by the Secretary, any statement required by subsection (a) shall be furnished not later than 15 days after the date of the transfer described in such subsection.
 
-(Added [Pub. L. 110–343, div. B, title IV, § 403(c)(1)][/us/pl/110/343/s403/c/1], Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858].)
+(Added [Pub. L. 110–343, div. B, title IV][/us/pl/110/343/dB/tIV], § 403(c)(1), Oct. 3, 2008, [122 Stat. 3858][/us/stat/122/3858].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fc%2F1
+[/us/pl/110/343/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIV
 [/us/stat/122/3858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3858
 [/us/pl/110/343/s403/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fe%2F1
 [/us/usc/t26/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1012

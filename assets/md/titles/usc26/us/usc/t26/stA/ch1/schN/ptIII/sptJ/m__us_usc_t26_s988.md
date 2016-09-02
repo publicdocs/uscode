@@ -295,7 +295,7 @@
 
             (B) section 212 (other than that part of section 212 dealing with expenses incurred in connection with taxes).
 
-(Added [Pub. L. 99–514, title XII, § 1261(a)][/us/pl/99/514/s1261/a], Oct. 22, 1986, [100 Stat. 2587][/us/stat/100/2587]; amended [Pub. L. 100–647, title I, § 1012(v)(2)(A)][/us/pl/100/647/s1012/v/2/A], (3), (4), (6)–(8), title VI, § 6130(a), (b), Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], 3530, 3717; [Pub. L. 101–239, title VII, § 7811(i)(7)][/us/pl/101/239/s7811/i/7], Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410]; [Pub. L. 103–66, title XIII, § 13223(b)(1)][/us/pl/103/66/s13223/b/1], Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484]; [Pub. L. 105–34, title XI, § 1104(a)][/us/pl/105/34/s1104/a], Aug. 5, 1997, [111 Stat. 967][/us/stat/111/967]; [Pub. L. 106–170, title V, § 532(b)(3)][/us/pl/106/170/s532/b/3], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(a), Oct. 22, 1986, [100 Stat. 2587][/us/stat/100/2587]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(2)(A), (3), (4), (6)–(8), title VI, § 6130(a), (b), Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], 3530, 3717; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(7), Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13223(b)(1), Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1104(a), Aug. 5, 1997, [111 Stat. 967][/us/stat/111/967]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(b)(3), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930].)
 
  __Amendments__ 
 
@@ -307,31 +307,31 @@
 
     1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239] inserted introductory provision “Notwithstanding any other provision of this chapter—”.
 
-    1988—Subsec. (a)(3)(B)(i). [Pub. L. 100–647, § 1012(v)(8)][/us/pl/100/647/s1012/v/8], inserted at end “If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if such individual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.”
+    1988—Subsec. (a)(3)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(8), inserted at end “If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if such individual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.”
 
-    Subsec. (a)(3)(B)(iii). [Pub. L. 100–647, § 1012(v)(7)][/us/pl/100/647/s1012/v/7], added cl. (iii).
+    Subsec. (a)(3)(B)(iii). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(7), added cl. (iii).
 
-    Subsec. (b)(3). [Pub. L. 100–647, § 1012(v)(3)(A)][/us/pl/100/647/s1012/v/3/A], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(3)(A), added par. (3).
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 100–647, § 6130(a)][/us/pl/100/647/s6130/a], struck out “unless such instrument would be marked to market under section 1256 if held on the last day of the taxable year” after “similar financial instrument”.
+    Subsec. (c)(1)(B)(iii). [Pub. L. 100–647][/us/pl/100/647], § 6130(a), struck out “unless such instrument would be marked to market under section 1256 if held on the last day of the taxable year” after “similar financial instrument”.
 
-    [Pub. L. 100–647, § 1012(v)(6)][/us/pl/100/647/s1012/v/6], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Entering into or acquiring any forward contract, futures contract, option, or similar financial instrument if such instrument is not marked to market at the close of the taxable year under section 1256.”
+    [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(6), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Entering into or acquiring any forward contract, futures contract, option, or similar financial instrument if such instrument is not marked to market at the close of the taxable year under section 1256.”
 
-    Subsec. (c)(1)(C)(i)(II). [Pub. L. 100–647, § 1012(v)(3)(B)][/us/pl/100/647/s1012/v/3/B], amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “for purposes of determining the foreign currency gain or loss from such transaction, paragraphs (1) and (2) of subsection (b) shall be applied by substituting ‘acquisition date’ for ‘booking date’ and ‘disposition’ for ‘payment date’.”
+    Subsec. (c)(1)(C)(i)(II). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(3)(B), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “for purposes of determining the foreign currency gain or loss from such transaction, paragraphs (1) and (2) of subsection (b) shall be applied by substituting ‘acquisition date’ for ‘booking date’ and ‘disposition’ for ‘payment date’.”
 
-    Subsec. (c)(1)(D), (E). [Pub. L. 100–647, § 6130(b)][/us/pl/100/647/s6130/b], added subpars. (D) and (E).
+    Subsec. (c)(1)(D), (E). [Pub. L. 100–647][/us/pl/100/647], § 6130(b), added subpars. (D) and (E).
 
-    Subsec. (c)(2)(C). [Pub. L. 100–647, § 1012(v)(3)(C)][/us/pl/100/647/s1012/v/3/C], struck out subpar. (C) which defined “booking date” in the case of a transaction described in par. (1)(B)(iii) as the date on which the position is entered into or acquired.
+    Subsec. (c)(2)(C). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(3)(C), struck out subpar. (C) which defined “booking date” in the case of a transaction described in par. (1)(B)(iii) as the date on which the position is entered into or acquired.
 
-    Subsec. (c)(3). [Pub. L. 100–647, § 1012(v)(3)(D)][/us/pl/100/647/s1012/v/3/D], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘payment date’ means—
+    Subsec. (c)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(3)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘payment date’ means—
 
     “(A) in the case of a transaction described in paragraph (1)(B)(i) or (ii), the date on which payment is made or received, or
 
     “(B) in the case of a transaction described in paragraph (1)(B)(iii), the date payment is made or received or the date the taxpayer’s rights with respect to the position are terminated.”
 
-    Subsec. (c)(5). [Pub. L. 100–647, § 1012(v)(2)(A)][/us/pl/100/647/s1012/v/2/A], added par. (5).
+    Subsec. (c)(5). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(2)(A), added par. (5).
 
-    Subsec. (d)(1). [Pub. L. 100–647, § 1012(v)(4)][/us/pl/100/647/s1012/v/4], substituted “this subtitle” for “this section”.
+    Subsec. (d)(1). [Pub. L. 100–647][/us/pl/100/647], § 1012(v)(4), substituted “this subtitle” for “this section”.
 
  __Effective Date of 1999 Amendment__ 
 
@@ -339,7 +339,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1104(b)][/us/pl/105/34/s1104/b], Aug. 5, 1997, [111 Stat. 967][/us/stat/111/967], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1104(b), Aug. 5, 1997, [111 Stat. 967][/us/stat/111/967], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
@@ -353,13 +353,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1012(v)(2)(B)][/us/pl/100/647/s1012/v/2/B], Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(2)(B), Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall not apply in any case in which the taxpayer takes or makes delivery before June 11, 1987.”
 
     Amendment by section 1012(v)(3), (4), (6)–(8) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6130(d)][/us/pl/100/647/s6130/d], Nov. 10, 1988, [102 Stat. 3719][/us/stat/102/3719], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6130(d), Nov. 10, 1988, [102 Stat. 3719][/us/stat/102/3719], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -392,37 +392,37 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2587
-[/us/pl/100/647/s1012/v/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F2%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3529
-[/us/pl/101/239/s7811/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F7
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2410
-[/us/pl/103/66/s13223/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13223%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F484
-[/us/pl/105/34/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1104%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F967
-[/us/pl/106/170/s532/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fb%2F3
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1012/v/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F8
-[/us/pl/100/647/s1012/v/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F7
-[/us/pl/100/647/s1012/v/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F3%2FA
-[/us/pl/100/647/s6130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6130%2Fa
-[/us/pl/100/647/s1012/v/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F6
-[/us/pl/100/647/s1012/v/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F3%2FB
-[/us/pl/100/647/s6130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6130%2Fb
-[/us/pl/100/647/s1012/v/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F3%2FC
-[/us/pl/100/647/s1012/v/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F3%2FD
-[/us/pl/100/647/s1012/v/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F2%2FA
-[/us/pl/100/647/s1012/v/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F4
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/105/34/s1104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1104%2Fb
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F967
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13223%2Fc
@@ -431,13 +431,13 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s1012/v/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F2%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3529
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6130/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6130%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3719
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
 [/us/pl/99/514/s1261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fe

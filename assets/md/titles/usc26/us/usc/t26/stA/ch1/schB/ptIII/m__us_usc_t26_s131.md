@@ -91,7 +91,7 @@
 
             (B) 5 qualified foster individuals not described in subparagraph (A).
 
-(Added [Pub. L. 97–473, title I, § 102(a)][/us/pl/97/473/s102/a], Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606]; amended [Pub. L. 99–514, title XVII, § 1707(a)][/us/pl/99/514/s1707/a], Oct. 22, 1986, [100 Stat. 2781][/us/stat/100/2781]; [Pub. L. 107–147, title IV, § 404(a)][/us/pl/107/147/s404/a]–(c), Mar. 9, 2002, [116 Stat. 41][/us/stat/116/41].)
+(Added [Pub. L. 97–473, title I][/us/pl/97/473/tI], § 102(a), Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606]; amended [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1707(a), Oct. 22, 1986, [100 Stat. 2781][/us/stat/100/2781]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 404(a)–(c), Mar. 9, 2002, [116 Stat. 41][/us/stat/116/41].)
 
  __Prior Provisions__ 
 
@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1). [Pub. L. 107–147, § 404(a)][/us/pl/107/147/s404/a], amended provisions preceding subpar. (B) generally. Prior to amendment, text of such provisions read as follows: “The term ‘qualified foster care payment’ means any amount—
+    2002—Subsec. (b)(1). [Pub. L. 107–147][/us/pl/107/147], § 404(a), amended provisions preceding subpar. (B) generally. Prior to amendment, text of such provisions read as follows: “The term ‘qualified foster care payment’ means any amount—
 
     “(A) which is paid by a State or political subdivision thereof or by a placement agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and”.
 
-    Subsec. (b)(2)(B). [Pub. L. 107–147, § 404(b)][/us/pl/107/147/s404/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
+    Subsec. (b)(2)(B). [Pub. L. 107–147][/us/pl/107/147], § 404(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of an individual who has not attained age 19, an organization which is licensed by a State (or political subdivision thereof) as a placement agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
 
-    Subsec. (b)(3), (4). [Pub. L. 107–147, § 404(c)][/us/pl/107/147/s404/c], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (b)(3), (4). [Pub. L. 107–147][/us/pl/107/147], § 404(c), added par. (3) and redesignated former par. (3) as (4).
 
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Gross income shall not include amounts received by a foster parent during the taxable year as qualified foster care payments.”
 
@@ -133,19 +133,19 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–147, title IV, § 404(d)][/us/pl/107/147/s404/d], Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], provided that: 
+[Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 404(d), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVII, § 1707(b)][/us/pl/99/514/s1707/b], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782], provided that: 
+[Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1707(b), Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
 
  __Effective Date__ 
 
-[Pub. L. 97–473, title I, § 102(c)][/us/pl/97/473/s102/c], Jan. 14, 1983, [96 Stat. 2607][/us/stat/96/2607], provided that: 
+[Pub. L. 97–473, title I][/us/pl/97/473/tI], § 102(c), Jan. 14, 1983, [96 Stat. 2607][/us/stat/96/2607], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1978.”
 
@@ -156,24 +156,24 @@
 ----------
 ----------
 
-[/us/pl/97/473/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs102%2Fa
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
 [/us/stat/96/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2606
-[/us/pl/99/514/s1707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1707%2Fa
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2781
-[/us/pl/107/147/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs404%2Fa
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F41
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/107/147/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs404%2Fa
-[/us/pl/107/147/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs404%2Fb
-[/us/pl/107/147/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs404%2Fc
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/107/147/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs404%2Fd
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F42
-[/us/pl/99/514/s1707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1707%2Fb
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2782
-[/us/pl/97/473/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs102%2Fc
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
 [/us/stat/96/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2607
 
 

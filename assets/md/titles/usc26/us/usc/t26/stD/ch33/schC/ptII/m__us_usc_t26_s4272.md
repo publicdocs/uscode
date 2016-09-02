@@ -35,11 +35,11 @@
 
         For purposes of this part, the term “transportation” includes layover or waiting time and movement of the aircraft in deadhead service.
 
-(Added [Pub. L. 91–258, title II, § 204][/us/pl/91/258/s204], May 21, 1970, [84 Stat. 240][/us/stat/84/240]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 91–258, title II][/us/pl/91/258/tII], § 204, May 21, 1970, [84 Stat. 240][/us/stat/84/240]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
-    Prior sections 4272 and 4273 were repealed by [Pub. L. 85–475, § 4(a)][/us/pl/85/475/s4/a], June 30, 1958, [72 Stat. 260][/us/stat/72/260]. For effective date of repeal, see [section 4(c) of Pub. L. 85–475][/us/pl/85/475/s4/c], set out as an Effective Date of 1958 Amendment note under [section 6415 of this title][/us/usc/t26/s6415].
+    Prior sections 4272 and 4273 were repealed by [Pub. L. 85–475][/us/pl/85/475], § 4(a), June 30, 1958, [72 Stat. 260][/us/stat/72/260]. For effective date of repeal, see [section 4(c) of Pub. L. 85–475][/us/pl/85/475/s4/c], set out as an Effective Date of 1958 Amendment note under [section 6415 of this title][/us/usc/t26/s6415].
 
     Section 4272, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 507][/us/stat/68A/507], 508, related to exemptions from tax for the transportation of property.
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/91/258/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs204
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F240
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/85/475/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475%2Fs4%2Fa
+[/us/pl/85/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475
 [/us/stat/72/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F260
 [/us/pl/85/475/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475%2Fs4%2Fc
 [/us/usc/t26/s6415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6415

@@ -53,13 +53,13 @@
 
             Rules similar to the rules of subsections (f), (g), (h), (i), (j), and (k) of section 1202 shall apply.
 
-(Added [Pub. L. 105–34, title III, § 313(a)][/us/pl/105/34/s313/a], Aug. 5, 1997, [111 Stat. 841][/us/stat/111/841]; amended [Pub. L. 105–206, title VI, § 6005(f)][/us/pl/105/206/s6005/f], July 22, 1998, [112 Stat. 806][/us/stat/112/806].)
+(Added [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 313(a), Aug. 5, 1997, [111 Stat. 841][/us/stat/111/841]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6005(f), July 22, 1998, [112 Stat. 806][/us/stat/112/806].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–206, § 6005(f)(1)][/us/pl/105/206/s6005/f/1], in introductory provisions, substituted “a taxpayer other than a corporation” for “an individual” and “such taxpayer” for “such individual”.
+    1998—Subsec. (a). [Pub. L. 105–206][/us/pl/105/206], § 6005(f)(1), in introductory provisions, substituted “a taxpayer other than a corporation” for “an individual” and “such taxpayer” for “such individual”.
 
-    Subsec. (b)(5). [Pub. L. 105–206, § 6005(f)(2)][/us/pl/105/206/s6005/f/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 105–206][/us/pl/105/206], § 6005(f)(2), added par. (5).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/105/34/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs313%2Fa
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F841
-[/us/pl/105/206/s6005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Ff
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F806
-[/us/pl/105/206/s6005/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Ff%2F1
-[/us/pl/105/206/s6005/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Ff%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024

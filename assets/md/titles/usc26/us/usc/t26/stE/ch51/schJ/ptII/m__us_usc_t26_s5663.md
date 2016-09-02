@@ -17,7 +17,7 @@
 
     For penalties of common application pertaining to liquors, including wines, see part IV.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1407][/us/stat/72/1407]; amended [Pub. L. 96–39, title VIII, § 807(a)(57)][/us/pl/96/39/s807/a/57], July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1407][/us/stat/72/1407]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(57), July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
 
  __Prior Provisions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1407
-[/us/pl/96/39/s807/a/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F57
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F695

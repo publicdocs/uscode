@@ -171,19 +171,19 @@
 
                 For purposes of subparagraph (A), the term “nonexempt portion” means the value (at the time of allocation) of the property or trust, multiplied by the inclusion ratio with respect to such property or trust.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2721][/us/stat/100/2721]; amended [Pub. L. 100–647, title I, § 1014(g)(16)][/us/pl/100/647/s1014/g/16], Nov. 10, 1988, [102 Stat. 3566][/us/stat/102/3566]; [Pub. L. 107–16, title V, § 561(a)][/us/pl/107/16/s561/a], (b), June 7, 2001, [115 Stat. 86][/us/stat/115/86], 89.)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2721][/us/stat/100/2721]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(16), Nov. 10, 1988, [102 Stat. 3566][/us/stat/102/3566]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 561(a), (b), June 7, 2001, [115 Stat. 86][/us/stat/115/86], 89.)
 
  __Amendments__ 
 
-    2001—Subsec. (b)(2). [Pub. L. 107–16, § 561(b)][/us/pl/107/16/s561/b], substituted “or subsection (c)(1)” for “with respect to a prior direct skip”.
+    2001—Subsec. (b)(2). [Pub. L. 107–16][/us/pl/107/16], § 561(b), substituted “or subsection (c)(1)” for “with respect to a prior direct skip”.
 
-    Subsecs. (c) to (e). [Pub. L. 107–16, § 561(a)][/us/pl/107/16/s561/a], added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 107–16][/us/pl/107/16], § 561(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
     1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647] substituted “paragraph (1) with respect to a prior direct skip)” for “paragraph (1)) with respect to a prior direct skip”.
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–16, title V, § 561(c)][/us/pl/107/16/s561/c], June 7, 2001, [115 Stat. 89][/us/stat/115/89], provided that:
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 561(c), June 7, 2001, [115 Stat. 89][/us/stat/115/89], provided that:
 
 >     “(1)  __Deemed allocation__  __.—__ 
 
@@ -208,16 +208,16 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2721
-[/us/pl/100/647/s1014/g/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F16
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3566
-[/us/pl/107/16/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs561%2Fa
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F86
-[/us/pl/107/16/s561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs561%2Fb
-[/us/pl/107/16/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs561%2Fa
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/107/16/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs561%2Fc
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F89
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

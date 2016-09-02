@@ -17,7 +17,7 @@
 
     For purposes of determining the withholding tax liability incurred in the Virgin Islands pursuant to this title (as made applicable to the Virgin Islands) with respect to amounts received from sources within the Virgin Islands by citizens and resident alien individuals of the United States, and corporations organized in the United States, the rate of withholding tax under sections 1441 and 1442 on income subject to tax under section 871(a)(1) or 881 shall not exceed the rate of tax on such income under section 871(a)(1) or 881, as the case may be.
 
-(Added [Pub. L. 97–455, § 1(b)][/us/pl/97/455/s1/b], Jan. 12, 1983, [96 Stat. 2497][/us/stat/96/2497]; amended [Pub. L. 100–647, title I, § 1012(x)][/us/pl/100/647/s1012/x], Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530].)
+(Added [Pub. L. 97–455][/us/pl/97/455], § 1(b), Jan. 12, 1983, [96 Stat. 2497][/us/stat/96/2497]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(x), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/97/455/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs1%2Fb
+[/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/stat/96/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2497
-[/us/pl/100/647/s1012/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fx
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3530
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

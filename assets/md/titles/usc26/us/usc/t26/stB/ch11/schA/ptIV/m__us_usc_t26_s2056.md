@@ -239,13 +239,13 @@
 
                 If a judicial proceeding described in subparagraph (A)(ii) is commenced with respect to any trust, the period for assessing any deficiency of tax attributable to any failure of such trust to be a qualified domestic trust shall not expire before the date 1 year after the date on which the Secretary is notified that the trust has been changed pursuant to such judicial proceeding or that such proceeding has been terminated.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 392][/us/stat/68A/392]; [Pub. L. 89–621, § 1(a)][/us/pl/89/621/s1/a], Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872]; [Pub. L. 94–455, title XIX, § 1902(a)(12)(A)][/us/pl/94/455/s1902/a/12/A], title XX, §§ 2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1854, 1894; [Pub. L. 95–600, title VII, § 702(g)(1)][/us/pl/95/600/s702/g/1], (2), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV, § 403(a)(1)][/us/pl/97/34/s403/a/1], (d)(1), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 302; [Pub. L. 97–448, title I, § 104(a)(2)(A)][/us/pl/97/448/s104/a/2/A], (8), Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380], 2381; [Pub. L. 98–369, div. A, title X, § 1027(a)][/us/pl/98/369/s1027/a], July 18, 1984, [98 Stat. 1031][/us/stat/98/1031]; [Pub. L. 100–647, title V, § 5033(a)(1)][/us/pl/100/647/s5033/a/1], title VI, § 6152(a), Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670], 3725; [Pub. L. 101–239, title VII, § 7815(d)(4)(A)][/us/pl/101/239/s7815/d/4/A], (5), (6), (8), 7816(q), Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415], 2416, 2423; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11701(l)(1), 11702(g)(5), Nov. 5, 1990, [104 Stat. 1388–513][/us/stat/104/1388-513], 1388–516; [Pub. L. 102–486, title XIX, § 1941(a)][/us/pl/102/486/s1941/a], Oct. 24, 1992, [106 Stat. 3036][/us/stat/106/3036]; [Pub. L. 105–34, title XIII, § 1311(a)][/us/pl/105/34/s1311/a], title XV, § 1530(c)(8), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], 1078.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 392][/us/stat/68A/392]; [Pub. L. 89–621][/us/pl/89/621], § 1(a), Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1902(a)(12)(A), title XX, §§ 2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1854, 1894; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(g)(1), (2), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(a)(1), (d)(1), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 302; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(a)(2)(A), (8), Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380], 2381; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1027(a), July 18, 1984, [98 Stat. 1031][/us/stat/98/1031]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5033(a)(1), title VI, § 6152(a), Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670], 3725; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415], 2416, 2423; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11701(l)(1), 11702(g)(5), Nov. 5, 1990, [104 Stat. 1388–513][/us/stat/104/1388-513], 1388–516; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1941(a), Oct. 24, 1992, [106 Stat. 3036][/us/stat/106/3036]; [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1311(a), title XV, § 1530(c)(8), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], 1078.)
 
  __Amendments__ 
 
-    1997—Subsec. (b)(7)(C). [Pub. L. 105–34, § 1311(a)][/us/pl/105/34/s1311/a], inserted “(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)” after “section 2039”.
+    1997—Subsec. (b)(7)(C). [Pub. L. 105–34][/us/pl/105/34], § 1311(a), inserted “(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)” after “section 2039”.
 
-    Subsec. (b)(8). [Pub. L. 105–34, § 1530(c)(8)][/us/pl/105/34/s1530/c/8], amended par. (8) generally. Prior to amendment, par. (8) read as follows:
+    Subsec. (b)(8). [Pub. L. 105–34][/us/pl/105/34], § 1530(c)(8), amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
     “(8) Special rule for charitable remainder trusts.—
 
@@ -259,51 +259,51 @@
 
     1992—Subsec. (b)(10). [Pub. L. 102–486][/us/pl/102/486] added par. (10).
 
-    1990—Subsec. (d)(3). [Pub. L. 101–508, § 11702(g)(5)][/us/pl/101/508/s11702/g/5], substituted “section 2056A(b)(7)” for “section 2056A(b)(6)”.
+    1990—Subsec. (d)(3). [Pub. L. 101–508][/us/pl/101/508], § 11702(g)(5), substituted “section 2056A(b)(7)” for “section 2056A(b)(6)”.
 
-    Subsec. (d)(4), (5). [Pub. L. 101–508, § 11701][/us/pl/101/508/s11701](l)(1), redesignated par. (4) relating to reformations permitted as par. (5).
+    Subsec. (d)(4), (5). [Pub. L. 101–508][/us/pl/101/508], § 11701(l)(1), redesignated par. (4) relating to reformations permitted as par. (5).
 
-    1989—Subsec. (b)(7)(C). [Pub. L. 101–239, § 7816(q)][/us/pl/101/239/s7816/q], inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
+    1989—Subsec. (b)(7)(C). [Pub. L. 101–239][/us/pl/101/239], § 7816(q), inserted “included in the gross estate of the decedent under section 2039” after “an annuity”.
 
-    Subsec. (d)(2)(B). [Pub. L. 101–239, § 7815(d)(4)(A)][/us/pl/101/239/s7815/d/4/A], substituted “Special rule” for “Property passing outside of probate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent’s probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
+    Subsec. (d)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(4)(A), substituted “Special rule” for “Property passing outside of probate estate” in heading and amended text generally. Prior to amendment, text read as follows: “If any property passes from the decedent to the surviving spouse of the decedent outside of the decedent’s probate estate, for purposes of subparagraph (A), such property shall be treated as passing to such spouse in a qualified domestic trust if such property is transferred to such a trust before the day on which the return of the tax imposed by section 2001 is made.”
 
-    Subsec. (d)(3). [Pub. L. 101–239, § 7815(d)(6)][/us/pl/101/239/s7815/d/6], substituted “this chapter” for “section 2001” in subpar. (C) and inserted “and without regard to subsection (d)(3) of such section” after “first decedent died” in concluding provisions.
+    Subsec. (d)(3). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(6), substituted “this chapter” for “section 2001” in subpar. (C) and inserted “and without regard to subsection (d)(3) of such section” after “first decedent died” in concluding provisions.
 
-    Subsec. (d)(4). [Pub. L. 101–239, § 7815(d)(8)][/us/pl/101/239/s7815/d/8], added par. (4) relating to reformations permitted.
+    Subsec. (d)(4). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(8), added par. (4) relating to reformations permitted.
 
-    [Pub. L. 101–239, § 7815(d)(5)][/us/pl/101/239/s7815/d/5], added par. (4) relating to special rule where resident spouse becomes citizen.
+    [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(5), added par. (4) relating to special rule where resident spouse becomes citizen.
 
-    1988—Subsec. (b)(7)(C). [Pub. L. 100–647, § 6152(a)][/us/pl/100/647/s6152/a], added subpar. (C).
+    1988—Subsec. (b)(7)(C). [Pub. L. 100–647][/us/pl/100/647], § 6152(a), added subpar. (C).
 
-    Subsec. (d). [Pub. L. 100–647, § 5033(a)(1)][/us/pl/100/647/s5033/a/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 5033(a)(1), added subsec. (d).
 
     1984—Subsec. (b)(7)(B)(ii)(I). [Pub. L. 98–369][/us/pl/98/369] inserted “, or has a usufruct interest for life in the property”.
 
-    1983—Subsec. (b)(7)(B)(ii). [Pub. L. 97–448, § 104(a)(8)][/us/pl/97/448/s104/a/8], inserted provision that an annuity shall be treated in a manner similar to an income interest in property (regardless of whether the property from which the annuity is payable can be separately identified).
+    1983—Subsec. (b)(7)(B)(ii). [Pub. L. 97–448][/us/pl/97/448], § 104(a)(8), inserted provision that an annuity shall be treated in a manner similar to an income interest in property (regardless of whether the property from which the annuity is payable can be separately identified).
 
-    Subsec. (b)(9). [Pub. L. 97–448, § 104(a)(2)(A)][/us/pl/97/448/s104/a/2/A], added par. (9).
+    Subsec. (b)(9). [Pub. L. 97–448][/us/pl/97/448], § 104(a)(2)(A), added par. (9).
 
-    1981—Subsec. (a). [Pub. L. 97–34, § 403(a)(1)(B)][/us/pl/97/34/s403/a/1/B], substituted “subsection (b)” for “subsections (b) and (c)”.
+    1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34], § 403(a)(1)(B), substituted “subsection (b)” for “subsections (b) and (c)”.
 
-    Subsec. (b)(7), (8). [Pub. L. 97–34, § 403(d)(1)][/us/pl/97/34/s403/d/1], added pars. (7) and (8).
+    Subsec. (b)(7), (8). [Pub. L. 97–34][/us/pl/97/34], § 403(d)(1), added pars. (7) and (8).
 
-    Subsecs. (c), (d). [Pub. L. 97–34, § 403(a)(1)(A)][/us/pl/97/34/s403/a/1/A], redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
+    Subsecs. (c), (d). [Pub. L. 97–34][/us/pl/97/34], § 403(a)(1)(A), redesignated subsec. (d) as (c) and struck out former subsec. (c) relating to limitation on aggregate of deductions.
 
     1978—Subsec. (c)(1)(B). [Pub. L. 95–600][/us/pl/95/600] inserted in cl. (ii) “required to be included in a gift tax return” after “with respect to any gift” and inserted following cl. (ii) “For purposes of this subparagraph, a gift which is includible in the gross estate of the donor by reason of section 2035 shall not be taken into account”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 2009(b)(4)(E)][/us/pl/94/455/s2009/b/4/E], substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 2009(b)(4)(E), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
 
-    Subsec. (c)(1). [Pub. L. 94–455, § 2002(a)][/us/pl/94/455/s2002/a], designated existing provisions as subpar. (A), substituted provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed the greater of $250,000 or 50 percent of the value of the adjusted gross estate as defined in par. (2) for provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed 50 percent of the value of the adjusted gross estate as defined in par. (2), and added subpars. (B) and (C).
+    Subsec. (c)(1). [Pub. L. 94–455][/us/pl/94/455], § 2002(a), designated existing provisions as subpar. (A), substituted provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed the greater of $250,000 or 50 percent of the value of the adjusted gross estate as defined in par. (2) for provisions that the aggregate amount of the deductions allowed under this section (computed without regard to this subsection) shall not exceed 50 percent of the value of the adjusted gross estate as defined in par. (2), and added subpars. (B) and (C).
 
-    Subsec. (c)(2)(B). [Pub. L. 94–455, § 1902(a)(12)(A)][/us/pl/94/455/s1902/a/12/A], struck out “Territory,” after “State,” in provisions preceding cl. (i).
+    Subsec. (c)(2)(B). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(12)(A), struck out “Territory,” after “State,” in provisions preceding cl. (i).
 
-    Subsecs. (d), (e). [Pub. L. 94–455, § 2009(b)(4)(D)][/us/pl/94/455/s2009/b/4/D], redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
+    Subsecs. (d), (e). [Pub. L. 94–455][/us/pl/94/455], § 2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
     1966—Subsec. (d)(2). [Pub. L. 89–621][/us/pl/89/621] provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1311(b)][/us/pl/105/34/s1311/b], Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1311(b), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -311,7 +311,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1941(c)][/us/pl/102/486/s1941/c], Oct. 24, 1992, [106 Stat. 3036][/us/stat/106/3036], provided that:
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1941(c), Oct. 24, 1992, [106 Stat. 3036][/us/stat/106/3036], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -335,13 +335,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by section 11701(l)(1) of [Pub. L. 101–508][/us/pl/101/508] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
+    Amendment by section 11701(l)(1) of [Pub. L. 101–508][/us/pl/101/508] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
 
     Amendment by [section 11702(g)(5) of Pub. L. 101–508][/us/pl/101/508/s11702/g/5] effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, [Pub. L. 100–647][/us/pl/100/647], to which such amendment relates, see [section 11702(j) of Pub. L. 101–508][/us/pl/101/508/s11702/j], set out as a note under [section 59 of this title][/us/usc/t26/s59].
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7815(d)(4)(B)][/us/pl/101/239/s7815/d/4/B], Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(d)(4)(B), Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415], provided that: 
 
 > “In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shall not expire before the date 1 year after such date of enactment.”
 
@@ -349,11 +349,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5033(d)(1)][/us/pl/100/647/s5033/d/1], Nov. 10, 1988, [102 Stat. 3673][/us/stat/102/3673], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5033(d)(1), Nov. 10, 1988, [102 Stat. 3673][/us/stat/102/3673], provided that: 
 
 > “The amendments made by subsections (a) and (c) \[enacting [section 2056A of this title][/us/usc/t26/s2056A] and amending this section and [section 2106 of this title][/us/usc/t26/s2106]\] shall apply to estates of the decedents dying after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
-[Pub. L. 100–647, title VI, § 6152(c)][/us/pl/100/647/s6152/c], Nov. 10, 1988, [102 Stat. 3725][/us/stat/102/3725], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6152(c), Nov. 10, 1988, [102 Stat. 3725][/us/stat/102/3725], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -381,7 +381,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title IV, § 403(e)][/us/pl/97/34/s403/e], Aug. 13, 1981, [95 Stat. 305][/us/stat/95/305], as amended by [Pub. L. 97–448, title I, § 104(a)(10)][/us/pl/97/448/s104/a/10], Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(e), Aug. 13, 1981, [95 Stat. 305][/us/stat/95/305], as amended by [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(a)(10), Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) Except as otherwise provided in this subsection, the amendments made by this section \[enacting sections 2044 and 2207A of this title, amending this section and sections 691, 2012, 2035, 2040, 2045, 2046, 2519, 2523, 2602, and 6019 of this title, and repealing sections 2515 and 2515A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
 
@@ -403,7 +403,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(g)(3)][/us/pl/95/600/s702/g/3], Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(g)(3), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 
@@ -411,7 +411,7 @@
 
     Amendment by [section 1902(a)(12)(A) of Pub. L. 94–455][/us/pl/94/455/s1902/a/12/A] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
-[Pub. L. 94–455, title XX, § 2002(d)(1)][/us/pl/94/455/s2002/d/1], Oct. 4, 1976, [90 Stat. 1856][/us/stat/90/1856], provided that:
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2002(d)(1), Oct. 4, 1976, [90 Stat. 1856][/us/stat/90/1856], provided that:
 
 >     “(1)
 
@@ -435,25 +435,25 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–621, § 1(b)][/us/pl/89/621/s1/b], Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872], provided that: 
+[Pub. L. 89–621][/us/pl/89/621], § 1(b), Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying on or after the date of the enactment of this Act \[Oct. 4, 1966\].”
 
  __Commencement of Judicial Proceeding To Reform Trust__ 
 
-[Pub. L. 101–508, title XI, § 11701][/us/pl/101/508/s11701](l)(2), Nov. 5, 1990, [104 Stat. 1388–513][/us/stat/104/1388-513], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11701(l)(2), Nov. 5, 1990, [104 Stat. 1388–513][/us/stat/104/1388-513], provided that: 
 
 > “The period during which a proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Application of Amendments by__  __[__  __Section 5033 of Pub. L. 100–647__  __][/us/pl/100/647/s5033]__  __to Estates of, or Gifts by, Noncitizen and Nonresident Individuals__ 
 
-[Pub. L. 101–239, title VII, § 7815(d)(14)][/us/pl/101/239/s7815/d/14], Dec. 19, 1989, [103 Stat. 2418][/us/stat/103/2418], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(d)(14), Dec. 19, 1989, [103 Stat. 2418][/us/stat/103/2418], provided that: 
 
 > “In the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of the 1988 Act \[[Pub. L. 100–647][/us/pl/100/647], enacting [section 2056A of this title][/us/usc/t26/s2056A] and amending this section and sections 2106 and 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions. In the case of the estate of an individual dying before the date 3 years after the date of the enactment of this Act \[Dec. 19, 1989\], or a gift by an individual before the date 3 years after the date of the enactment of this Act, the requirement of the preceding sentence that the individual not be a citizen or resident of the United States shall not apply.”
 
  __Disclaimer of Interest Arising From Estates of Persons Dying Before__  __Oct. 4, 1966__  __, Having Estate Tax Return Filing Date On or After__  __Jan. 1, 1965__ 
 
-    [Pub. L. 89–621, § 1(c)][/us/pl/89/621/s1/c], Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872], provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
+    [Pub. L. 89–621][/us/pl/89/621], § 1(c), Oct. 4, 1966, [80 Stat. 872][/us/stat/80/872], provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 
 ----------
 
@@ -464,79 +464,79 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F392
-[/us/pl/89/621/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621%2Fs1%2Fa
-[/us/stat/80/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F872
-[/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
-[/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
-[/us/pl/95/600/s702/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fg%2F1
-[/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
-[/us/pl/97/34/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fa%2F1
-[/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
-[/us/pl/97/448/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F2%2FA
-[/us/stat/96/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2380
-[/us/pl/98/369/s1027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1027%2Fa
-[/us/stat/98/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1031
-[/us/pl/100/647/s5033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fa%2F1
-[/us/stat/102/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3670
-[/us/pl/101/239/s7815/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F4%2FA
-[/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/stat/104/1388-513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-513
-[/us/pl/102/486/s1941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1941%2Fa
-[/us/stat/106/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3036
-[/us/pl/105/34/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1311%2Fa
-[/us/stat/111/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1044
-[/us/pl/105/34/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1311%2Fa
-[/us/pl/105/34/s1530/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F8
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/101/508/s11702/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F5
-[/us/pl/101/508/s11701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701
-[/us/pl/101/239/s7816/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fq
-[/us/pl/101/239/s7815/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F4%2FA
-[/us/pl/101/239/s7815/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F6
-[/us/pl/101/239/s7815/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F8
-[/us/pl/101/239/s7815/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F5
-[/us/pl/100/647/s6152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6152%2Fa
-[/us/pl/100/647/s5033/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fa%2F1
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/448/s104/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F8
-[/us/pl/97/448/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F2%2FA
-[/us/pl/97/34/s403/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fa%2F1%2FB
-[/us/pl/97/34/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fd%2F1
-[/us/pl/97/34/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fa%2F1%2FA
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s2009/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F4%2FE
-[/us/pl/94/455/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2002%2Fa
-[/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
-[/us/pl/94/455/s2009/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F4%2FD
 [/us/pl/89/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621
-[/us/pl/105/34/s1311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1311%2Fb
+[/us/stat/80/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F872
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
+[/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
+[/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
+[/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
+[/us/stat/96/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2380
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
+[/us/stat/98/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1031
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
+[/us/stat/102/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3670
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
+[/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
+[/us/stat/104/1388-513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-513
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
+[/us/stat/106/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3036
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
+[/us/stat/111/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1044
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/89/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1044
 [/us/pl/105/34/s1530/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F8
 [/us/pl/105/34/s1530/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fd
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/102/486/s1941/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1941%2Fc
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3036
 [/us/usc/t26/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2523
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/pl/101/508/s11701/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fn
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/pl/101/508/s11702/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F5
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508/s11702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fj
 [/us/usc/t26/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs59
-[/us/pl/101/239/s7815/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F4%2FB
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s5033/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fd%2F1
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3673
 [/us/usc/t26/s2056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056A
 [/us/usc/t26/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2106
-[/us/pl/100/647/s6152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6152%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3725
 [/us/usc/t26/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2523
 [/us/usc/t26/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2523
@@ -548,34 +548,34 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/448/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/34/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fe
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F305
-[/us/pl/97/448/s104/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F10
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2381
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6019
 [/us/usc/t26/s2523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2523
-[/us/pl/95/600/s702/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fg%2F3
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
 [/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
-[/us/pl/94/455/s2002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2002%2Fd%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1856
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2009/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fe%2F2
 [/us/usc/t26/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2518
-[/us/pl/89/621/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621%2Fs1%2Fb
+[/us/pl/89/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621
 [/us/stat/80/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F872
-[/us/pl/101/508/s11701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-513
 [/us/pl/100/647/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033
-[/us/pl/101/239/s7815/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F14
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t26/s2056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056A
-[/us/pl/89/621/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621%2Fs1%2Fc
+[/us/pl/89/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F621
 [/us/stat/80/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F872
 
 

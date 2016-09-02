@@ -39,15 +39,15 @@
 
         (2) For rules relating to the basis of obligations of the United States acquired in an exchange for other obligations described in subsection (a), see subsection (d) of section 1031.
 
-(Added [Pub. L. 86–346, title II, § 201(a)][/us/pl/86/346/s201/a], Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; amended [Pub. L. 94–455, title XIX, § 1901(a)(130)][/us/pl/94/455/s1901/a/130], (b)(3)(I), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1793; [Pub. L. 97–452, § 2(c)(3)][/us/pl/97/452/s2/c/3], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–369, div. A, title I, § 42(a)(11)][/us/pl/98/369/s42/a/11], July 18, 1984, [98 Stat. 557][/us/stat/98/557].)
+(Added [Pub. L. 86–346, title II][/us/pl/86/346/tII], § 201(a), Sept. 22, 1959, [73 Stat. 622][/us/stat/73/622]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(130), (b)(3)(I), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1793; [Pub. L. 97–452][/us/pl/97/452], § 2(c)(3), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(a)(11), July 18, 1984, [98 Stat. 557][/us/stat/98/557].)
 
  __Amendments__ 
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 42(a)(11)(C)][/us/pl/98/369/s42/a/11/C], substituted “original issue discount rules” for “section 1232” in heading.
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(11)(C), substituted “original issue discount rules” for “section 1232” in heading.
 
-    Subsec. (b)(1). [Pub. L. 98–369, § 42(a)(11)(A)][/us/pl/98/369/s42/a/11/A], (B), substituted “section 1271(c)(2)” for “section 1232(a)(2)(B)”, and “subpart A of part V of subchapter P” for “section 1232”.
+    Subsec. (b)(1). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(11)(A), (B), substituted “section 1271(c)(2)” for “section 1232(a)(2)(B)”, and “subpart A of part V of subchapter P” for “section 1232”.
 
-    Subsec. (b)(2). [Pub. L. 98–369, § 42(a)(11)(B)][/us/pl/98/369/s42/a/11/B], substituted “subpart A of part V of subchapter P” for “section 1232”.
+    Subsec. (b)(2). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(11)(B), substituted “subpart A of part V of subchapter P” for “section 1232”.
 
     1983—Subsec. (a). [Pub. L. 97–452][/us/pl/97/452] substituted “chapter 31 of title 31” and “chapter” for “the Second Liberty Bond Act” and “Act”, respectively.
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 86–346, title II, § 203][/us/pl/86/346/s203], Sept. 22, 1959, [73 Stat. 624][/us/stat/73/624], provided that: 
+[Pub. L. 86–346, title II][/us/pl/86/346/tII], § 203, Sept. 22, 1959, [73 Stat. 624][/us/stat/73/624], provided that: 
 
 > “The amendments made by this title \[enacting this section and amending [section 1031 of this title][/us/usc/t26/s1031] and section 742a of former Title 31, Money and Finance\] shall be effective for taxable years ending after the date of enactment of this Act \[Sept. 22, 1959\].”
 
@@ -74,17 +74,17 @@
 ----------
 ----------
 
-[/us/pl/86/346/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs201%2Fa
+[/us/pl/86/346/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtII
 [/us/stat/73/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F622
-[/us/pl/94/455/s1901/a/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F130
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1786
-[/us/pl/97/452/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fc%2F3
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
-[/us/pl/98/369/s42/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F11
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
-[/us/pl/98/369/s42/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F11%2FC
-[/us/pl/98/369/s42/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F11%2FA
-[/us/pl/98/369/s42/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F11%2FB
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -93,7 +93,7 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/86/346/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs203
+[/us/pl/86/346/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtII
 [/us/stat/73/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F624
 [/us/usc/t26/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1031
 

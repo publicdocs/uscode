@@ -17,7 +17,7 @@
 
     Neither the basis nor the adjusted basis of any portion of real property shall, in the case of the lessor of such property, be increased or diminished on account of income derived by the lessor in respect of such property and excludable from gross income under section 109 (relating to improvements by lessee on lessor’s property).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 301][/us/stat/68A/301]; [Pub. L. 113–295, div. A, title II, § 221(a)(76)][/us/pl/113/295/s221/a/76], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 301][/us/stat/68A/301]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(76), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F301
-[/us/pl/113/295/s221/a/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F76
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295

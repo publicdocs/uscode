@@ -37,7 +37,7 @@
 
         Any postponement of the date specified for the reacquisition of possession or enjoyment of the reversionary interest shall be treated as a new transfer in trust commencing with the date on which the postponement is effective and terminating with the date prescribed by the postponement. However, income for any period shall not be included in the income of the grantor by reason of the preceding sentence if such income would not be so includible in the absence of such postponement.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 227][/us/stat/68A/227]; [Pub. L. 91–172, title II, § 201(c)][/us/pl/91/172/s201/c], Dec. 30, 1969, [83 Stat. 560][/us/stat/83/560]; [Pub. L. 99–514, title XIV, § 1402(a)][/us/pl/99/514/s1402/a], Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711]; [Pub. L. 100–647, title I, § 1014(b)][/us/pl/100/647/s1014/b], Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 227][/us/stat/68A/227]; [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 201(c), Dec. 30, 1969, [83 Stat. 560][/us/stat/83/560]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1402(a), Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(b), Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XIV, § 1402(c)][/us/pl/99/514/s1402/c], Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712], provided that:
+[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1402(c), Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -76,11 +76,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F227
-[/us/pl/91/172/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fc
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F560
-[/us/pl/99/514/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1402%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2711
-[/us/pl/100/647/s1014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fb
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3559
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -89,7 +89,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1402%2Fc
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2712
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s201/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fg%2F3

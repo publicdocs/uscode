@@ -241,65 +241,65 @@
 
         (2) regulations providing the opportunity for an individual to have notice of, and an opportunity to participate in, any administrative proceeding with respect to an election made under subsection (b) or (c) or a request for equitable relief made under subsection (f) by the other individual filing the joint return.
 
-(Added [Pub. L. 105–206, title III, § 3201(a)][/us/pl/105/206/s3201/a], July 22, 1998, [112 Stat. 734][/us/stat/112/734]; amended [Pub. L. 105–277, div. J, title IV, § 4002(c)(2)][/us/pl/105/277/s4002/c/2], Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 109–432, div. C, title IV, § 408(a)][/us/pl/109/432/s408/a], (b), Dec. 20, 2006, [120 Stat. 3061][/us/stat/120/3061], 3062; [Pub. L. 114–113, div. Q, title IV, § 424(a)(1)][/us/pl/114/113/s424/a/1], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(a), July 22, 1998, [112 Stat. 734][/us/stat/112/734]; amended [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4002(c)(2), Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 408(a), (b), Dec. 20, 2006, [120 Stat. 3061][/us/stat/120/3061], 3062; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 424(a)(1), Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
 
  __Prior Provisions__ 
 
-    A prior section 6015, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 737][/us/stat/68A/737]; Sept. 2, 1958, [Pub. L. 85–866, title I, § 74][/us/pl/85/866/s74], [72 Stat. 1660][/us/stat/72/1660]; Sept. 14, 1960, [Pub. L. 86–779, § 5(a)][/us/pl/86/779/s5/a], [74 Stat. 1000][/us/stat/74/1000]; Sept. 25, 1962, [Pub. L. 87–682, § 1(a)(1)][/us/pl/87/682/s1/a/1], [76 Stat. 575][/us/stat/76/575]; Mar. 15, 1966, [Pub. L. 89–368, title I, § 102(a)][/us/pl/89/368/s102/a], [80 Stat. 62][/us/stat/80/62]; Nov. 13, 1966, [Pub. L. 89–809, title I, § 103(j)][/us/pl/89/809/s103/j], [80 Stat. 1554][/us/stat/80/1554]; Dec. 30, 1969, [Pub. L. 91–172, title III, § 301(b)(12)][/us/pl/91/172/s301/b/12], title VIII, § 803(d)(7), title IX, § 944(a), [83 Stat. 586][/us/stat/83/586], 684, 729; Dec. 10, 1971, [Pub. L. 92–178, title II, § 209(a)][/us/pl/92/178/s209/a], [85 Stat. 517][/us/stat/85/517]; Oct. 4, 1976, [Pub. L. 94–455, title XIX, § 1906(a)(2)][/us/pl/94/455/s1906/a/2], (b)(13)(A), [90 Stat. 1824][/us/stat/90/1824], 1834; Nov. 6, 1978, [Pub. L. 95–600, title IV, § 421(e)(7)][/us/pl/95/600/s421/e/7], [92 Stat. 2876][/us/stat/92/2876]; Aug. 13, 1981, [Pub. L. 97–34, title VII, § 725(a)][/us/pl/97/34/s725/a], (c)(2), [95 Stat. 345][/us/stat/95/345], 346; Sept. 3, 1982, [Pub. L. 97–248, title II, § 201(d)(7)][/us/pl/97/248/s201/d/7], formerly § 201(c)(7), title III, §§ 307(a)(6), 308(a), 328(b)(1), [96 Stat. 420][/us/stat/96/420], 589, 591, 618, redesignated and amended Jan. 12, 1983, [Pub. L. 97–448, title I, § 107(c)(2)][/us/pl/97/448/s107/c/2], title II, § 201(j)(1), title III, § 306(a)(1)(A)(i), [96 Stat. 2391][/us/stat/96/2391], 2395, 2400; Aug. 5, 1983, [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], [97 Stat. 369][/us/stat/97/369], related to declaration of estimated income tax by individuals, prior to repeal by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 412(a)(1), 414(a)(1), July 18, 1984, [98 Stat. 792][/us/stat/98/792], 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
+    A prior section 6015, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 737][/us/stat/68A/737]; Sept. 2, 1958, [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 74, [72 Stat. 1660][/us/stat/72/1660]; Sept. 14, 1960, [Pub. L. 86–779][/us/pl/86/779], § 5(a), [74 Stat. 1000][/us/stat/74/1000]; Sept. 25, 1962, [Pub. L. 87–682][/us/pl/87/682], § 1(a)(1), [76 Stat. 575][/us/stat/76/575]; Mar. 15, 1966, [Pub. L. 89–368, title I][/us/pl/89/368/tI], § 102(a), [80 Stat. 62][/us/stat/80/62]; Nov. 13, 1966, [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(j), [80 Stat. 1554][/us/stat/80/1554]; Dec. 30, 1969, [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 301(b)(12), title VIII, § 803(d)(7), title IX, § 944(a), [83 Stat. 586][/us/stat/83/586], 684, 729; Dec. 10, 1971, [Pub. L. 92–178, title II][/us/pl/92/178/tII], § 209(a), [85 Stat. 517][/us/stat/85/517]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(2), (b)(13)(A), [90 Stat. 1824][/us/stat/90/1824], 1834; Nov. 6, 1978, [Pub. L. 95–600, title IV][/us/pl/95/600/tIV], § 421(e)(7), [92 Stat. 2876][/us/stat/92/2876]; Aug. 13, 1981, [Pub. L. 97–34, title VII][/us/pl/97/34/tVII], § 725(a), (c)(2), [95 Stat. 345][/us/stat/95/345], 346; Sept. 3, 1982, [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 201(d)(7), formerly § 201(c)(7), title III, §§ 307(a)(6), 308(a), 328(b)(1), [96 Stat. 420][/us/stat/96/420], 589, 591, 618, redesignated and amended Jan. 12, 1983, [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 107(c)(2), title II, § 201(j)(1), title III, § 306(a)(1)(A)(i), [96 Stat. 2391][/us/stat/96/2391], 2395, 2400; Aug. 5, 1983, [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 102(a), [97 Stat. 369][/us/stat/97/369], related to declaration of estimated income tax by individuals, prior to repeal by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], §§ 412(a)(1), 414(a)(1), July 18, 1984, [98 Stat. 792][/us/stat/98/792], 793, applicable with respect to taxable years beginning after Dec. 31, 1984.
 
  __Amendments__ 
 
     2015—Subsec. (e)(6). [Pub. L. 114–113][/us/pl/114/113] added par. (6).
 
-    2006—Subsec. (e)(1). [Pub. L. 109–432, § 408(a)][/us/pl/109/432/s408/a], inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
+    2006—Subsec. (e)(1). [Pub. L. 109–432][/us/pl/109/432], § 408(a), inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
 
-    Subsec. (e)(1)(A)(i)(II). [Pub. L. 109–432, § 408(b)(1)][/us/pl/109/432/s408/b/1], inserted “or request is made” after “filed”.
+    Subsec. (e)(1)(A)(i)(II). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(1), inserted “or request is made” after “filed”.
 
-    Subsec. (e)(1)(B)(i). [Pub. L. 109–432, § 408(b)(2)][/us/pl/109/432/s408/b/2], inserted “or requesting equitable relief under subsection (f)” after “subsection (b) or (c)” and “or request” after “such election”.
+    Subsec. (e)(1)(B)(i). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(2), inserted “or requesting equitable relief under subsection (f)” after “subsection (b) or (c)” and “or request” after “such election”.
 
-    Subsec. (e)(1)(B)(ii). [Pub. L. 109–432, § 408(b)(3)][/us/pl/109/432/s408/b/3], inserted “or to which the request under subsection (f) relates” before period at end.
+    Subsec. (e)(1)(B)(ii). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(3), inserted “or to which the request under subsection (f) relates” before period at end.
 
-    Subsec. (e)(4). [Pub. L. 109–432, § 408(b)(4)][/us/pl/109/432/s408/b/4], inserted “or the request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
+    Subsec. (e)(4). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(4), inserted “or the request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
 
-    Subsec. (e)(5). [Pub. L. 109–432, § 408(b)(5)][/us/pl/109/432/s408/b/5], inserted “or who requests equitable relief under subsection (f)” after “subsection (b) or (c)”.
+    Subsec. (e)(5). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(5), inserted “or who requests equitable relief under subsection (f)” after “subsection (b) or (c)”.
 
-    Subsec. (g)(2). [Pub. L. 109–432, § 408(b)(6)][/us/pl/109/432/s408/b/6], inserted “or of any request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
+    Subsec. (g)(2). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(6), inserted “or of any request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
 
-    Subsec. (h)(2). [Pub. L. 109–432, § 408(b)(7)][/us/pl/109/432/s408/b/7], inserted “or a request for equitable relief made under subsection (f)” after “subsection (b) or (c)”.
+    Subsec. (h)(2). [Pub. L. 109–432][/us/pl/109/432], § 408(b)(7), inserted “or a request for equitable relief made under subsection (f)” after “subsection (b) or (c)”.
 
-    2000—Subsec. (c)(3)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(1)\], substituted “may be made at any time after a deficiency for such year is asserted but” for “shall be made”.
+    2000—Subsec. (c)(3)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(1)\], substituted “may be made at any time after a deficiency for such year is asserted but” for “shall be made”.
 
-    Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(3)(A)\], inserted “against whom a deficiency has been asserted and” after “individual” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(3)(A)\], inserted “against whom a deficiency has been asserted and” after “individual” in introductory provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(3)(B)\], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The individual may petition the Tax Court (and the Tax Court shall have jurisdiction) to determine the appropriate relief available to the individual under this section if such petition is filed during the 90-day period beginning on the date on which the Secretary mails by certified or registered mail a notice to such individual of the Secretary’s determination of relief available to the individual. Notwithstanding the preceding sentence, an individual may file such petition at any time after the date which is 6 months after the date such election is filed with the Secretary and before the close of such 90-day period.”
+    Subsec. (e)(1)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(3)(B)\], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The individual may petition the Tax Court (and the Tax Court shall have jurisdiction) to determine the appropriate relief available to the individual under this section if such petition is filed during the 90-day period beginning on the date on which the Secretary mails by certified or registered mail a notice to such individual of the Secretary’s determination of relief available to the individual. Notwithstanding the preceding sentence, an individual may file such petition at any time after the date which is 6 months after the date such election is filed with the Secretary and before the close of such 90-day period.”
 
-    Subsec. (e)(1)(B)(i). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(3)(C)\], substituted “until the close of the 90th day referred to in subparagraph (A)(ii)” for “until the expiration of the 90-day period described in subparagraph (A)” and inserted “under subparagraph (A)” after “filed with the Tax Court”.
+    Subsec. (e)(1)(B)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(3)(C)\], substituted “until the close of the 90th day referred to in subparagraph (A)(ii)” for “until the expiration of the 90-day period described in subparagraph (A)” and inserted “under subparagraph (A)” after “filed with the Tax Court”.
 
-    Subsec. (e)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(3)(D)(ii)\], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter.”
+    Subsec. (e)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(3)(D)(ii)\], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter.”
 
-    Subsec. (e)(3). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(2)(B)\], amended par. (3) generally, substituting “Limitation on Tax Court jurisdiction” for “Applicable rules” in heading and restating provisions relating to limitations on the Tax Court’s jurisdiction and eliminating provisions relating to res judicata and allowance of credits or refunds in text.
+    Subsec. (e)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(2)(B)\], amended par. (3) generally, substituting “Limitation on Tax Court jurisdiction” for “Applicable rules” in heading and restating provisions relating to limitations on the Tax Court’s jurisdiction and eliminating provisions relating to res judicata and allowance of credits or refunds in text.
 
-    Subsec. (e)(5). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(3)(D)(i)\], added par. (5).
+    Subsec. (e)(5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(3)(D)(i)\], added par. (5).
 
-    Subsecs. (g), (h). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
 
     1998—Subsec. (e)(3)(A). [Pub. L. 105–277][/us/pl/105/277] substituted “of subsection (b) or (f)” for “of this section”.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 424(a)(2)][/us/pl/114/113/s424/a/2], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 424(a)(2), Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to petitions filed under section 6015(e) of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title IV, § 408(c)][/us/pl/109/432/s408/c], Dec. 20, 2006, [120 Stat. 3062][/us/stat/120/3062], provided that: 
+[Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 408(c), Dec. 20, 2006, [120 Stat. 3062][/us/stat/120/3062], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643, provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and sections 6330, 6331, 7421, and 7463 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]. The amendments made by subsections (c), (d), and (e) \[amending sections 6103, 6110, and 6330 of this title\] shall take effect as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998 \[[Pub. L. 105–206][/us/pl/105/206]\] to which they relate.”
 
@@ -309,7 +309,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3201(g)][/us/pl/105/206/s3201/g], July 22, 1998, [112 Stat. 740][/us/stat/112/740], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(g), July 22, 1998, [112 Stat. 740][/us/stat/112/740], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Separate Form for Applying for Spousal Relief__ 
 
-[Pub. L. 105–206, title III, § 3201(c)][/us/pl/105/206/s3201/c], July 22, 1998, [112 Stat. 740][/us/stat/112/740], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(c), July 22, 1998, [112 Stat. 740][/us/stat/112/740], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall develop a separate form with instructions for use by taxpayers in applying for relief under section 6015(a) of the Internal Revenue Code of 1986, as added by this section.”
 
@@ -332,79 +332,79 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F734
-[/us/pl/105/277/s4002/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fc%2F2
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-906
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/432/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fa
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3061
-[/us/pl/114/113/s424/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fa%2F1
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F737
-[/us/pl/85/866/s74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs74
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1660
-[/us/pl/86/779/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs5%2Fa
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1000
-[/us/pl/87/682/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F682%2Fs1%2Fa%2F1
+[/us/pl/87/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F682
 [/us/stat/76/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F575
-[/us/pl/89/368/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs102%2Fa
+[/us/pl/89/368/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2FtI
 [/us/stat/80/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F62
-[/us/pl/89/809/s103/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fj
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1554
-[/us/pl/91/172/s301/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs301%2Fb%2F12
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F586
-[/us/pl/92/178/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs209%2Fa
+[/us/pl/92/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtII
 [/us/stat/85/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F517
-[/us/pl/94/455/s1906/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F2
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1824
-[/us/pl/95/600/s421/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs421%2Fe%2F7
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2876
-[/us/pl/97/34/s725/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs725%2Fa
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F345
-[/us/pl/97/248/s201/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F7
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F420
-[/us/pl/97/448/s107/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs107%2Fc%2F2
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2391
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F792
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/109/432/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fa
-[/us/pl/109/432/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F1
-[/us/pl/109/432/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F2
-[/us/pl/109/432/s408/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F3
-[/us/pl/109/432/s408/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F4
-[/us/pl/109/432/s408/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F5
-[/us/pl/109/432/s408/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F6
-[/us/pl/109/432/s408/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fb%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/114/113/s424/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fa%2F2
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
-[/us/pl/109/432/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs408%2Fc
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3062
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277/s4002/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fk
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/206/s3201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fg
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F740
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
-[/us/pl/105/206/s3201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F740
 
 

@@ -31,11 +31,11 @@
 
         With respect to any person described in subsection (a) and subject to registration requirements under this title, rules similar to rules of section 4222(c) shall apply with respect to any requirement under this section.
 
-(Added [Pub. L. 108–357, title III, § 303(a)][/us/pl/108/357/s303/a], Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466].)
+(Added [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 303(a), Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466].)
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title III, § 303(c)][/us/pl/108/357/s303/c], Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 303(c), Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on January 1, 2005.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs303%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1466
-[/us/pl/108/357/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs303%2Fc
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1466
 
 

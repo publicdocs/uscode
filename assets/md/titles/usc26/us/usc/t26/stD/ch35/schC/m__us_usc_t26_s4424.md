@@ -49,13 +49,13 @@
 
         Section 6103(f) shall apply with respect to any return, payment, or registration made pursuant to this chapter.
 
-(Added [Pub. L. 93–499, § 3(c)(1)][/us/pl/93/499/s3/c/1], Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; amended [Pub. L. 94–455, title XII, § 1202(h)(6)][/us/pl/94/455/s1202/h/6], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1688][/us/stat/90/1688], 1834.)
+(Added [Pub. L. 93–499][/us/pl/93/499], § 3(c)(1), Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; amended [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(h)(6), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1688][/us/stat/90/1688], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (d). [Pub. L. 94–455, § 1202(h)(6)][/us/pl/94/455/s1202/h/6], substituted “6103(f)” for “6103(d)”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1202(h)(6), substituted “6103(f)” for “6103(d)”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -72,12 +72,12 @@
 ----------
 ----------
 
-[/us/pl/93/499/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs3%2Fc%2F1
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1550
-[/us/pl/94/455/s1202/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F6
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1688
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1202/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F6
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1202/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F6
 [/us/pl/94/455/s1202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fi
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103

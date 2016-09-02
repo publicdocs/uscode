@@ -59,23 +59,23 @@
 
         For purposes of this section, a securitization partnership (as defined in section 743(f)) shall not be treated as having a substantial basis reduction with respect to any distribution of property to a partner.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 247][/us/stat/68A/247]; [Pub. L. 98–369, div. A, title I, § 78(a)][/us/pl/98/369/s78/a], July 18, 1984, [98 Stat. 597][/us/stat/98/597]; [Pub. L. 108–357, title VIII, § 833(c)(1)][/us/pl/108/357/s833/c/1]–(5)(A), Oct. 22, 2004, [118 Stat. 1591][/us/stat/118/1591], 1592; [Pub. L. 109–135, title IV, § 403(bb)][/us/pl/109/135/s403/bb], Dec. 21, 2005, [119 Stat. 2630][/us/stat/119/2630].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 247][/us/stat/68A/247]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 78(a), July 18, 1984, [98 Stat. 597][/us/stat/98/597]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 833(c)(1)–(5)(A), Oct. 22, 2004, [118 Stat. 1591][/us/stat/118/1591], 1592; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(bb), Dec. 21, 2005, [119 Stat. 2630][/us/stat/119/2630].)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–135, § 403(bb)(1)][/us/pl/109/135/s403/bb/1], inserted “with respect to such distribution” before period at end.
+    2005—Subsec. (a). [Pub. L. 109–135][/us/pl/109/135], § 403(bb)(1), inserted “with respect to such distribution” before period at end.
 
-    Subsec. (b). [Pub. L. 109–135, § 403(bb)(2)][/us/pl/109/135/s403/bb/2], reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In the case of a distribution of property to a partner, a partnership, with respect to which the election provided in section 754 is in effect or unless there is a substantial basis reduction, shall—”.
+    Subsec. (b). [Pub. L. 109–135][/us/pl/109/135], § 403(bb)(2), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In the case of a distribution of property to a partner, a partnership, with respect to which the election provided in section 754 is in effect or unless there is a substantial basis reduction, shall—”.
 
-    2004—[Pub. L. 108–357, § 833(c)(5)(A)][/us/pl/108/357/s833/c/5/A], substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
+    2004—[Pub. L. 108–357][/us/pl/108/357], § 833(c)(5)(A), substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–357, § 833(c)(1)][/us/pl/108/357/s833/c/1], inserted “or unless there is a substantial basis reduction” before period at end.
+    Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 833(c)(1), inserted “or unless there is a substantial basis reduction” before period at end.
 
-    Subsec. (b). [Pub. L. 108–357, § 833(c)(2)][/us/pl/108/357/s833/c/2], inserted “or unless there is a substantial basis reduction” after “section 754 is in effect” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 833(c)(2), inserted “or unless there is a substantial basis reduction” after “section 754 is in effect” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 108–357, § 833(c)(3)][/us/pl/108/357/s833/c/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–357][/us/pl/108/357], § 833(c)(3), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 108–357, § 833(c)(4)][/us/pl/108/357/s833/c/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–357][/us/pl/108/357], § 833(c)(4), added subsec. (e).
 
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] inserted at end “Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect.”
 
@@ -85,13 +85,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 833(d)(3)][/us/pl/108/357/s833/d/3], Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 833(d)(3), Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], provided that: 
 
 > “The amendments made by subsection (c) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 78(b)][/us/pl/98/369/s78/b], July 18, 1984, [98 Stat. 597][/us/stat/98/597], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 78(b), July 18, 1984, [98 Stat. 597][/us/stat/98/597], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after March 1, 1984, in taxable years ending after such date.”
 
@@ -104,27 +104,27 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F247
-[/us/pl/98/369/s78/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs78%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F597
-[/us/pl/108/357/s833/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1591
-[/us/pl/109/135/s403/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fbb
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2630
-[/us/pl/109/135/s403/bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fbb%2F1
-[/us/pl/109/135/s403/bb/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fbb%2F2
-[/us/pl/108/357/s833/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F5%2FA
-[/us/pl/108/357/s833/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F1
-[/us/pl/108/357/s833/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F2
-[/us/pl/108/357/s833/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F3
-[/us/pl/108/357/s833/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F4
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s833/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fd%2F3
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1592
-[/us/pl/98/369/s78/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs78%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F597
 
 

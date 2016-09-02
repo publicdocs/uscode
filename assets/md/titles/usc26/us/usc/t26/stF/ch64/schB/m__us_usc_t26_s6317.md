@@ -17,7 +17,7 @@
 
     Payment of Federal unemployment tax for a calendar quarter or other period within a calendar year pursuant to section 6157 shall be considered payment on account of the tax imposed by chapter 23 of such calendar year.
 
-(Added [Pub. L. 91–53, § 2(c)][/us/pl/91/53/s2/c], Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; amended [Pub. L. 98–76, title II, § 231(b)(2)(B)][/us/pl/98/76/s231/b/2/B], Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 100–647, title VII, § 7106(c)(3)][/us/pl/100/647/s7106/c/3], Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773].)
+(Added [Pub. L. 91–53][/us/pl/91/53], § 2(c), Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; amended [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(b)(2)(B), Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(c)(3), Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/91/53/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs2%2Fc
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F92
-[/us/pl/98/76/s231/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fb%2F2%2FB
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F429
-[/us/pl/100/647/s7106/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fc%2F3
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3773
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76

@@ -281,7 +281,7 @@
 
         (5) any knowing failure to file a return of tax imposed by this title.
 
-(Added [Pub. L. 98–369, div. A, title X, § 1033(a)][/us/pl/98/369/s1033/a], July 18, 1984, [98 Stat. 1034][/us/stat/98/1034]; amended [Pub. L. 99–514, title XVIII, § 1899A(61)][/us/pl/99/514/s1899A/61], (62), Oct. 22, 1986, [100 Stat. 2962][/us/stat/100/2962]; [Pub. L. 100–203, title X, § 10713(b)(2)(G)][/us/pl/100/203/s10713/b/2/G], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title I, § 1018(u)(49)][/us/pl/100/647/s1018/u/49], Nov. 10, 1988, [102 Stat. 3593][/us/stat/102/3593]; [Pub. L. 101–239, title VII, § 7822(d)(1)][/us/pl/101/239/s7822/d/1], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 104–188, title I, § 1704(t)(59)][/us/pl/104/188/s1704/t/59], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–206, title I, § 1102(e)(3)][/us/pl/105/206/s1102/e/3], July 22, 1998, [112 Stat. 705][/us/stat/112/705].)
+(Added [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1033(a), July 18, 1984, [98 Stat. 1034][/us/stat/98/1034]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(61), (62), Oct. 22, 1986, [100 Stat. 2962][/us/stat/100/2962]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(b)(2)(G), Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(49), Nov. 10, 1988, [102 Stat. 3593][/us/stat/102/3593]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7822(d)(1), Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(59), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1102(e)(3), July 22, 1998, [112 Stat. 705][/us/stat/112/705].)
 
  __Prior Provisions__ 
 
@@ -299,13 +299,13 @@
 
     1987—Subsec. (i)(3). [Pub. L. 100–203][/us/pl/100/203], as amended by [Pub. L. 101–239][/us/pl/101/239], substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
 
-    1986—Subsec. (a)(1)(B). [Pub. L. 99–514, § 1899A(62)][/us/pl/99/514/s1899A/62], reenacted subpar. (B) without change.
+    1986—Subsec. (a)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1899A(62), reenacted subpar. (B) without change.
 
-    Subsec. (i). [Pub. L. 99–514, § 1899A(61)][/us/pl/99/514/s1899A/61], redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
+    Subsec. (i). [Pub. L. 99–514][/us/pl/99/514], § 1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
 
  __Effective Date of 1989 Amendment__ 
 
-    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
+    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -313,7 +313,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title X, § 1033(d)][/us/pl/98/369/s1033/d], July 18, 1984, [98 Stat. 1039][/us/stat/98/1039], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1033(d), July 18, 1984, [98 Stat. 1039][/us/stat/98/1039], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
 
@@ -329,19 +329,19 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/369/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1033%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1034
-[/us/pl/99/514/s1899A/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F61
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2962
-[/us/pl/100/203/s10713/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FG
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-470
-[/us/pl/100/647/s1018/u/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F49
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3593
-[/us/pl/101/239/s7822/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7822%2Fd%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2425
-[/us/pl/104/188/s1704/t/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F59
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
-[/us/pl/105/206/s1102/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Fe%2F3
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F705
 [/us/usc/t26/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7613
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -351,17 +351,17 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/99/514/s1899A/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F62
-[/us/pl/99/514/s1899A/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F61
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/101/239/s7823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7823
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/98/369/s1033/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1033%2Fd
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1039
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

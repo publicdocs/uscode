@@ -83,15 +83,15 @@
 
  __Repeal of Part__ 
 
-    [Pub. L. 114–74, title XI, § 1101(b)(1)][/us/pl/114/74/s1101/b/1], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this part is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(b)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this part is repealed.
 
  __Prior Provisions__ 
 
-    A prior part IV, relating to effective date for subchapter, consisted of [section 771 of this title][/us/usc/t26/s771], prior to repeal by [Pub. L. 94–455, title XIX, § 1901(a)(94)][/us/pl/94/455/s1901/a/94], Oct. 4, 1976, [90 Stat. 1780][/us/stat/90/1780].
+    A prior part IV, relating to effective date for subchapter, consisted of [section 771 of this title][/us/usc/t26/s771], prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(94), Oct. 4, 1976, [90 Stat. 1780][/us/stat/90/1780].
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XII, § 1221(a)][/us/pl/105/34/s1221/a], Aug. 5, 1997, [111 Stat. 1001][/us/stat/111/1001], added part heading and section analysis.
+    1997—[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1221(a), Aug. 5, 1997, [111 Stat. 1001][/us/stat/111/1001], added part heading and section analysis.
 
 ----------
 
@@ -100,12 +100,12 @@
 ----------
 ----------
 
-[/us/pl/114/74/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F1
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/usc/t26/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs771
-[/us/pl/94/455/s1901/a/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F94
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1780
-[/us/pl/105/34/s1221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1221%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1001
 
 

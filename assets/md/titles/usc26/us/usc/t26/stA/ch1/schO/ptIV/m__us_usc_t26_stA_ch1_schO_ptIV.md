@@ -115,23 +115,23 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(78)][/us/pl/113/295/s221/a/78], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049], struck out item 1051 “Property acquired during affiliation”.
+    2014—[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(78), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049], struck out item 1051 “Property acquired during affiliation”.
 
-    2004—[Pub. L. 108–357, title VIII, § 886(b)(1)(B)][/us/pl/108/357/s886/b/1/B], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], struck out item 1056 “Basis limitation for player contracts transferred in connection with the the sale of a franchise”.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 886(b)(1)(B), Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], struck out item 1056 “Basis limitation for player contracts transferred in connection with the the sale of a franchise”.
 
-    1997—[Pub. L. 105–34, title XI, § 1131(c)(5)][/us/pl/105/34/s1131/c/5], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], struck out item 1057 “Election to treat transfer to foreign trust, etc., as taxable exchange”.
+    1997—[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(c)(5), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], struck out item 1057 “Election to treat transfer to foreign trust, etc., as taxable exchange”.
 
-    1986—[Pub. L. 99–514, title VI, § 641(b)][/us/pl/99/514/s641/b], title XII, § 1248(b), Oct. 22, 1986, [100 Stat. 2283][/us/stat/100/2283], 2584, added items 1059A and 1060 and renumbered former item 1060 as 1061.
+    1986—[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 641(b), title XII, § 1248(b), Oct. 22, 1986, [100 Stat. 2283][/us/stat/100/2283], 2584, added items 1059A and 1060 and renumbered former item 1060 as 1061.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 53(d)][/us/pl/98/369/s53/d], July 18, 1984, [98 Stat. 568][/us/stat/98/568], added item 1059 and renumbered former item 1059 as 1060.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 53(d), July 18, 1984, [98 Stat. 568][/us/stat/98/568], added item 1059 and renumbered former item 1059 as 1060.
 
-    1978—[Pub. L. 95–345, § 2(d)(2)][/us/pl/95/345/s2/d/2], Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483], added item 1058 and renumbered former item 1058 as 1059.
+    1978—[Pub. L. 95–345][/us/pl/95/345], § 2(d)(2), Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483], added item 1058 and renumbered former item 1058 as 1059.
 
-    1976—[Pub. L. 94–455, title II, § 212(a)(2)][/us/pl/94/455/s212/a/2], title X, 1015(c), Oct. 4, 1976, [90 Stat. 1546][/us/stat/90/1546], 1618, added items 1056 and 1057 and renumbered former item 1056 as 1058.
+    1976—[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 212(a)(2), title X, 1015(c), Oct. 4, 1976, [90 Stat. 1546][/us/stat/90/1546], 1618, added items 1056 and 1057 and renumbered former item 1056 as 1058.
 
-    1963—[Pub. L. 88–9, § 1(d)][/us/pl/88/9/s1/d], Apr. 10, 1963, [77 Stat. 8][/us/stat/77/8], added item 1055 and renumbered former item 1055 as 1056.
+    1963—[Pub. L. 88–9][/us/pl/88/9], § 1(d), Apr. 10, 1963, [77 Stat. 8][/us/stat/77/8], added item 1055 and renumbered former item 1055 as 1056.
 
-    1960—[Pub. L. 86–779, § 8(c)][/us/pl/86/779/s8/c], Sept. 14, 1960, [74 Stat. 1003][/us/stat/74/1003], renumbered former item 1054 as 1055 and added new item 1054.
+    1960—[Pub. L. 86–779][/us/pl/86/779], § 8(c), Sept. 14, 1960, [74 Stat. 1003][/us/stat/74/1003], renumbered former item 1054 as 1055 and added new item 1054.
 
 ----------
 
@@ -140,23 +140,23 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F78
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
-[/us/pl/108/357/s886/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fb%2F1%2FB
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1641
-[/us/pl/105/34/s1131/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F5
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
-[/us/pl/99/514/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs641%2Fb
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2283
-[/us/pl/98/369/s53/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs53%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F568
-[/us/pl/95/345/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fd%2F2
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/stat/92/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F483
-[/us/pl/94/455/s212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs212%2Fa%2F2
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1546
-[/us/pl/88/9/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9%2Fs1%2Fd
+[/us/pl/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9
 [/us/stat/77/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F8
-[/us/pl/86/779/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs8%2Fc
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1003
 
 

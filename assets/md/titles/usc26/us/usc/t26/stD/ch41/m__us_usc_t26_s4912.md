@@ -53,11 +53,11 @@
 
             If more than 1 person is liable under subsection (b), all such persons shall be jointly and severally liable under such subsection.
 
-(Added [Pub. L. 100–203, title X, § 10714(a)][/us/pl/100/203/s10714/a], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10714(a), Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470].)
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10714(e)][/us/pl/100/203/s10714/e], Dec. 22, 1987, [101 Stat. 1330–472][/us/stat/101/1330-472], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10714(e), Dec. 22, 1987, [101 Stat. 1330–472][/us/stat/101/1330-472], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 6501 and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10714%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-470
-[/us/pl/100/203/s10714/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10714%2Fe
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-472
 
 

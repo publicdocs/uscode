@@ -57,15 +57,15 @@
 
             The provisions of section 507(a) shall not apply to a trust which is described in subsection (a)(2) by reason of a distribution of qualified employer securities (as defined in section 664(g)(4)) to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by section 664(g)).
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 517][/us/stat/83/517]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XV, § 1530(c)(9)][/us/pl/105/34/s1530/c/9], Aug. 5, 1997, [111 Stat. 1079][/us/stat/111/1079]; [Pub. L. 107–16, title V, § 542(e)(4)][/us/pl/107/16/s542/e/4], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 108–357, title IV, § 413(c)(30)][/us/pl/108/357/s413/c/30], Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 517][/us/stat/83/517]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1530(c)(9), Aug. 5, 1997, [111 Stat. 1079][/us/stat/111/1079]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(e)(4), June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(30), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2)(A). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (a)(2)(A) to read as if amendment by [Pub. L. 107–16, § 542(e)(4)][/us/pl/107/16/s542/e/4], had never been enacted. See 2001 Amendment note below.
+    2010—Subsec. (a)(2)(A). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (a)(2)(A) to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(e)(4), had never been enacted. See 2001 Amendment note below.
 
     2004—Subsecs. (a)(1), (2), (b)(3). [Pub. L. 108–357][/us/pl/108/357] struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
 
-    2001—Subsec. (a)(2)(A). [Pub. L. 107–16, § 542(e)(4)][/us/pl/107/16/s542/e/4], inserted “642(c),” after “170(f)(2)(B),”.
+    2001—Subsec. (a)(2)(A). [Pub. L. 107–16][/us/pl/107/16], § 542(e)(4), inserted “642(c),” after “170(f)(2)(B),”.
 
     1997—Subsec. (b)(4). [Pub. L. 105–34][/us/pl/105/34] added par. (4).
 
@@ -94,22 +94,22 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F517
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/34/s1530/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F9
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1079
-[/us/pl/107/16/s542/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F4
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F85
-[/us/pl/108/357/s413/c/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F30
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F4
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/107/16/s542/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F4
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312

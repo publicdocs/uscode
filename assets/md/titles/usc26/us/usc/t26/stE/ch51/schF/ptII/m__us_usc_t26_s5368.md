@@ -23,7 +23,7 @@
 
         Wines shall be removed in such containers (including vessels, vehicles, and pipelines) bearing such marks and labels evidencing compliance with this chapter, as the Secretary may by regulations prescribe.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1381][/us/stat/72/1381]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1381][/us/stat/72/1381]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834.)
 
  __Prior Provisions__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1381
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F666

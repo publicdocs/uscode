@@ -91,7 +91,7 @@
 
             The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this subsection, including regulations or other guidance which prevent the inappropriate use of the foreign corporation’s foreign income taxes not deemed paid by reason of paragraph (1).
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1020][/us/stat/76/1020]; amended [Pub. L. 94–455, title X][/us/pl/94/455], §§ 1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, [90 Stat. 1622][/us/stat/90/1622], 1628, 1633; [Pub. L. 99–514, title XII, § 1202(b)][/us/pl/99/514/s1202/b], Oct. 22, 1986, [100 Stat. 2530][/us/stat/100/2530]; [Pub. L. 103–66, title XIII, § 13233(b)(1)][/us/pl/103/66/s13233/b/1], Aug. 10, 1993, [107 Stat. 502][/us/stat/107/502]; [Pub. L. 105–34, title XI, § 1113(b)][/us/pl/105/34/s1113/b], Aug. 5, 1997, [111 Stat. 971][/us/stat/111/971]; [Pub. L. 111–226, title II, § 214(a)][/us/pl/111/226/s214/a], Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1020][/us/stat/76/1020]; amended [Pub. L. 94–455, title X][/us/pl/94/455/tX], §§ 1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, [90 Stat. 1622][/us/stat/90/1622], 1628, 1633; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1202(b), Oct. 22, 1986, [100 Stat. 2530][/us/stat/100/2530]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13233(b)(1), Aug. 10, 1993, [107 Stat. 502][/us/stat/107/502]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1113(b), Aug. 5, 1997, [111 Stat. 971][/us/stat/111/971]; [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 214(a), Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399].)
 
  __References in Text__ 
 
@@ -117,11 +117,11 @@
 
     1976—Subsec. (a)(1). [Pub. L. 94–455][/us/pl/94/455], §§ 1033(b)(2), 1037(a), substituted “bears to the entire amount of the earnings and profits of such foreign corporation for such taxable year” for “bears to–” after “gross income of the domestic corporation”, struck out subpars. (C) and (D) relating to corporations which are and are not less developed country corporations, inserted in subpar. (A) “(hereafter in this subsection referred to as the ‘first foreign corporation’)” after “foreign corporation”, substituted in subpar. (B) “of a second foreign corporation (hereinafter in this subsection referred to as the ‘second foreign corporation’) at least 10 percent of the voting stock of which is owned by the first foreign corporation, or” for “of a foreign corporation at least 50 percent of the voting stock of which is owned by a foreign corporation at least 10 percent of the voting stock of which in turn owned by such domestic corporation” after “(B)”, added subpar. (C), and inserted at end “This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earning and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied.”
 
-    Subsec. (b). [Pub. L. 94–455, § 1031(b)(1)][/us/pl/94/455/s1031/b/1], struck out “applicable” in par. (1) after “amount, the”, in par. (2) after “increase of the”, and in subpar. (A) of par. (2) after “by which the”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1031(b)(1), struck out “applicable” in par. (1) after “amount, the”, in par. (2) after “increase of the”, and in subpar. (A) of par. (2) after “by which the”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–226, title II, § 214(b)][/us/pl/111/226/s214/b], Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399], provided that: 
+[Pub. L. 111–226, title II][/us/pl/111/226/tII], § 214(b), Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to acquisitions of United States property (as defined in section 956(c) of the Internal Revenue Code of 1986) after December 31, 2010.”
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13233(b)(2)][/us/pl/103/66/s13233/b/2], Aug. 10, 1993, [107 Stat. 504][/us/stat/107/504], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13233(b)(2), Aug. 10, 1993, [107 Stat. 504][/us/stat/107/504], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after September 30, 1993.”
 
@@ -145,7 +145,7 @@
 
     Amendment by [section 1033(b)(2) of Pub. L. 94–455][/us/pl/94/455/s1033/b/2] applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1977, and in respect of any distribution received by a domestic corporation before Jan. 1, 1978, in a taxable year of such corporation beginning after Dec. 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year beginning after Dec. 31, 1975, see [section 1033(c) of Pub. L. 94–455][/us/pl/94/455/s1033/c], set out as a note under [section 902 of this title][/us/usc/t26/s902].
 
-[Pub. L. 94–455, title X, § 1037(b)][/us/pl/94/455/s1037/b], Oct. 4, 1976, [90 Stat. 1634][/us/stat/90/1634], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1037(b), Oct. 4, 1976, [90 Stat. 1634][/us/stat/90/1634], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to earnings and profits of a foreign corporation, included, under section 951(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the gross income of a domestic corporation in taxable years beginning after December 31, 1976.”
 
@@ -156,17 +156,17 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1020
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1622
-[/us/pl/99/514/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1202%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2530
-[/us/pl/103/66/s13233/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13233%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F502
-[/us/pl/105/34/s1113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fb
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F971
-[/us/pl/111/226/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs214%2Fa
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2399
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
@@ -174,13 +174,13 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1031/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fb%2F1
-[/us/pl/111/226/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs214%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2399
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fc
 [/us/usc/t26/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs902
-[/us/pl/103/66/s13233/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13233%2Fb%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F504
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs951%2Fa
@@ -192,9 +192,9 @@
 [/us/pl/94/455/s1033/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fb%2F2
 [/us/pl/94/455/s1033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fc
 [/us/usc/t26/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs902
-[/us/pl/94/455/s1037/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1037%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1634
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

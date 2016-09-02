@@ -39,7 +39,7 @@
 
         The election under subsection (a) shall be made not later than the time prescribed for filing the return of tax imposed by this chapter for the first taxable year of the estate (determined with regard to extensions) and, once made, shall be irrevocable.
 
-(Added [Pub. L. 105–34, title XIII, § 1305(a)][/us/pl/105/34/s1305/a], Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040], § 646; renumbered § 645, [Pub. L. 105–206, title VI, § 6013(a)(1)][/us/pl/105/206/s6013/a/1], July 22, 1998, [112 Stat. 819][/us/stat/112/819].)
+(Added [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1305(a), Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040], § 646; renumbered § 645, [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6013(a)(1), July 22, 1998, [112 Stat. 819][/us/stat/112/819].)
 
  __Prior Provisions__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–34, title XIII, § 1305(d)][/us/pl/105/34/s1305/d], Aug. 5, 1997, [111 Stat. 1041][/us/stat/111/1041], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1305(d), Aug. 5, 1997, [111 Stat. 1041][/us/stat/111/1041], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 2652 of this title][/us/usc/t26/s2652]\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1305%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1040
-[/us/pl/105/206/s6013/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fa%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F819
 [/us/usc/t26/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs644
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t26/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs646
-[/us/pl/105/34/s1305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1305%2Fd
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1041
 [/us/usc/t26/s2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2652
 

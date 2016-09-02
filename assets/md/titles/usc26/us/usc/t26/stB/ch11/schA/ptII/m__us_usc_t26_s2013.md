@@ -69,7 +69,7 @@
 
         (2) the value of such property and the amount of the taxable estate of the transferor shall be determined as if section 2032A did not apply with respect to such property.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 377][/us/stat/68A/377]; [Pub. L. 94–455, title XIX, § 1902(a)(2)][/us/pl/94/455/s1902/a/2], title XX, §§ 2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, [90 Stat. 1804][/us/stat/90/1804], 1850, 1862, 1888; [Pub. L. 99–514, title XIV, § 1432(c)(2)][/us/pl/99/514/s1432/c/2], Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730]; [Pub. L. 100–647, title I, § 1011A(g)(7)][/us/pl/100/647/s1011A/g/7], Nov. 10, 1988, [102 Stat. 3481][/us/stat/102/3481]; [Pub. L. 105–34, title X, § 1073(b)(2)][/us/pl/105/34/s1073/b/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title V, § 532(c)(2)][/us/pl/107/16/s532/c/2], June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 377][/us/stat/68A/377]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1902(a)(2), title XX, §§ 2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, [90 Stat. 1804][/us/stat/90/1804], 1850, 1862, 1888; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1432(c)(2), Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011A(g)(7), Nov. 10, 1988, [102 Stat. 3481][/us/stat/102/3481]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1073(b)(2), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(2), June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
 
  __Amendments__ 
 
@@ -81,15 +81,15 @@
 
     1986—Subsec. (g). [Pub. L. 99–514][/us/pl/99/514] struck out subsec. (g) which provided for treatment of tax imposed on certain generation-skipping transfers.
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 2001(c)(1)(C)(i)][/us/pl/94/455/s2001/c/1/C/i], struck out “and increased by the exemption provided for by section 2052 or section 2106(a)(3), or the corresponding provisions of prior laws, in determining the taxable estate of the transferor for purposes of the estate tax” after “death taxes paid with respect to such estate”.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 2001(c)(1)(C)(i), struck out “and increased by the exemption provided for by section 2052 or section 2106(a)(3), or the corresponding provisions of prior laws, in determining the taxable estate of the transferor for purposes of the estate tax” after “death taxes paid with respect to such estate”.
 
-    Subsec. (c)(1)(A). [Pub. L. 94–455, § 2001(c)(1)(C)(ii)][/us/pl/94/455/s2001/c/1/C/ii], substituted “credits provided for in sections 2010, 2011, 2012, and 2014) computed” for “credits for State death taxes, gift tax, and foreign death taxes provided for in sections 2011, 2012, and 2014) computed”.
+    Subsec. (c)(1)(A). [Pub. L. 94–455][/us/pl/94/455], § 2001(c)(1)(C)(ii), substituted “credits provided for in sections 2010, 2011, 2012, and 2014) computed” for “credits for State death taxes, gift tax, and foreign death taxes provided for in sections 2011, 2012, and 2014) computed”.
 
-    Subsec. (d)(3). [Pub. L. 94–455, § 1902(a)(2)][/us/pl/94/455/s1902/a/2], struck out “, or the corresponding provision of prior law,” after “marital deductions)”.
+    Subsec. (d)(3). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(2), struck out “, or the corresponding provision of prior law,” after “marital deductions)”.
 
-    Subsec. (f). [Pub. L. 94–455, § 2003(c)][/us/pl/94/455/s2003/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], § 2003(c), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 94–455, § 2006(b)(2)][/us/pl/94/455/s2006/b/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 94–455][/us/pl/94/455], § 2006(b)(2), added subsec. (g).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -120,25 +120,25 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F377
-[/us/pl/94/455/s1902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F2
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1804
-[/us/pl/99/514/s1432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1432%2Fc%2F2
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2730
-[/us/pl/100/647/s1011A/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fg%2F7
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3481
-[/us/pl/105/34/s1073/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1073%2Fb%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F948
-[/us/pl/107/16/s532/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F2
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F74
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/94/455/s2001/c/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FC%2Fi
-[/us/pl/94/455/s2001/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FC%2Fii
-[/us/pl/94/455/s1902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F2
-[/us/pl/94/455/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2003%2Fc
-[/us/pl/94/455/s2006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fb%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012

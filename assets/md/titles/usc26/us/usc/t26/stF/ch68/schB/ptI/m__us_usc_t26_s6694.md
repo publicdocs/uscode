@@ -93,11 +93,11 @@
 
         For definition of tax return preparer, see section 7701(a)(36).
 
-(Added [Pub. L. 94–455, title XII, § 1203(b)(1)][/us/pl/94/455/s1203/b/1], Oct. 4, 1976, [90 Stat. 1689][/us/stat/90/1689]; amended [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7732(a), 7737(a), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2404; [Pub. L. 110–28, title VIII, § 8246(a)(2)(F)(i)][/us/pl/110/28/s8246/a/2/F/i], (b), May 25, 2007, [121 Stat. 201][/us/stat/121/201], 203; [Pub. L. 110–343, div. C, title V, § 506(a)][/us/pl/110/343/s506/a], Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880]; [Pub. L. 114–113, div. Q, title II, § 210(a)][/us/pl/114/113/s210/a], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(b)(1), Oct. 4, 1976, [90 Stat. 1689][/us/stat/90/1689]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7732(a), 7737(a), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2404; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(F)(i), (b), May 25, 2007, [121 Stat. 201][/us/stat/121/201], 203; [Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 506(a), Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880]; [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 210(a), Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085].)
 
  __Codification__ 
 
-    Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by [Pub. L. 94–455, § 2005(d)(2)][/us/pl/94/455/s2005/d/2], was renumbered section 6698 by [Pub. L. 95–600][/us/pl/95/600], renumbered section 6698A by [Pub. L. 96–222][/us/pl/96/222], and repealed by [Pub. L. 96–223][/us/pl/96/223].
+    Another section 6694, relating to failure to file information with respect to carryover basis property, which was added by [Pub. L. 94–455][/us/pl/94/455], § 2005(d)(2), was renumbered section 6698 by [Pub. L. 95–600][/us/pl/95/600], renumbered section 6698A by [Pub. L. 96–222][/us/pl/96/222], and repealed by [Pub. L. 96–223][/us/pl/96/223].
 
  __Amendments__ 
 
@@ -105,9 +105,9 @@
 
     2008—Subsec. (a). [Pub. L. 110–343][/us/pl/110/343] amended subsec. (a) generally. Prior to amendment, subsec. (a) provided penalty for understatement due to unreasonable positions.
 
-    2007—[Pub. L. 110–28, § 8246(a)(2)(F)(i)(I)][/us/pl/110/28/s8246/a/2/F/i/I], substituted “tax return preparer” for “income tax return preparer” in section catchline.
+    2007—[Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(F)(i)(I), substituted “tax return preparer” for “income tax return preparer” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–28, § 8246(b)][/us/pl/110/28/s8246/b], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If—
+    Subsec. (a). [Pub. L. 110–28][/us/pl/110/28], § 8246(b), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If—
 
     “(1) any part of any understatement of liability with respect to any return or claim for refund is due to a position for which there was not a realistic possibility of being sustained on its merits,
 
@@ -117,7 +117,7 @@
 
     such person shall pay a penalty of $250 with respect to such return or claim unless it is shown that there is reasonable cause for the understatement and such person acted in good faith.”
 
-    Subsec. (b). [Pub. L. 110–28, § 8246(b)][/us/pl/110/28/s8246/b], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due—
+    Subsec. (b). [Pub. L. 110–28][/us/pl/110/28], § 8246(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due—
 
     “(1) to a willful attempt in any manner to understate the liability for tax by a person who is an income tax return preparer with respect to such return or claim, or
 
@@ -125,29 +125,29 @@
 
     such person shall pay a penalty of $1,000 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
 
-    Subsec. (c)(1). [Pub. L. 110–28, § 8246(a)(2)(F)(i)(II)][/us/pl/110/28/s8246/a/2/F/i/II], substituted “a tax return preparer” for “an income tax return preparer”.
+    Subsec. (c)(1). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(F)(i)(II), substituted “a tax return preparer” for “an income tax return preparer”.
 
-    Subsec. (c)(2). [Pub. L. 110–28, § 8246(a)(2)(F)(i)(III)][/us/pl/110/28/s8246/a/2/F/i/III], substituted “the tax return preparer” for “the income tax return preparer”.
+    Subsec. (c)(2). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(F)(i)(III), substituted “the tax return preparer” for “the income tax return preparer”.
 
-    Subsec. (e). [Pub. L. 110–28, § 8246(a)(2)(F)(i)(IV)][/us/pl/110/28/s8246/a/2/F/i/IV], substituted “this title” for “subtitle A”.
+    Subsec. (e). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(F)(i)(IV), substituted “this title” for “subtitle A”.
 
-    Subsec. (f). [Pub. L. 110–28, § 8246(a)(2)(F)(i)(V)][/us/pl/110/28/s8246/a/2/F/i/V], substituted “tax return preparer” for “income tax return preparer”.
+    Subsec. (f). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(F)(i)(V), substituted “tax return preparer” for “income tax return preparer”.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7732(a)][/us/pl/101/239/s7732/a], substituted “Understatements due to unrealistic positions” for “Negligent or intentional disregard of rules and regulations” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7732(a), substituted “Understatements due to unrealistic positions” for “Negligent or intentional disregard of rules and regulations” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim.”
 
-    Subsec. (b). [Pub. L. 101–239, § 7732(a)][/us/pl/101/239/s7732/a], substituted “Willful or reckless conduct” for “Willful understatement of liability” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
+    Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 7732(a), substituted “Willful or reckless conduct” for “Willful understatement of liability” in heading and amended text generally. Prior to amendment, text read as follows: “If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).”
 
-    Subsec. (c)(1). [Pub. L. 101–239, § 7737(a)][/us/pl/101/239/s7737/a], inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
+    Subsec. (c)(1). [Pub. L. 101–239][/us/pl/101/239], § 7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title II, § 210(b)][/us/pl/114/113/s210/b], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 210(b), Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to returns prepared for taxable years ending after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title V, § 506(b)][/us/pl/110/343/s506/b], Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880], provided that: 
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 506(b), Oct. 3, 2008, [122 Stat. 3880][/us/stat/122/3880], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply—
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7732(b)][/us/pl/101/239/s7732/b], Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7732(b), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to documents prepared after December 31, 1989.”
 
@@ -172,40 +172,40 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fb%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1689
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2402
-[/us/pl/110/28/s8246/a/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
-[/us/pl/110/343/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs506%2Fa
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3880
-[/us/pl/114/113/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fa
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
-[/us/pl/94/455/s2005/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Fd%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/110/28/s8246/a/2/F/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FI
-[/us/pl/110/28/s8246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fb
-[/us/pl/110/28/s8246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fb
-[/us/pl/110/28/s8246/a/2/F/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FII
-[/us/pl/110/28/s8246/a/2/F/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FIII
-[/us/pl/110/28/s8246/a/2/F/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FIV
-[/us/pl/110/28/s8246/a/2/F/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FF%2Fi%2FV
-[/us/pl/101/239/s7732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7732%2Fa
-[/us/pl/101/239/s7732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7732%2Fa
-[/us/pl/101/239/s7737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7737%2Fa
-[/us/pl/114/113/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210%2Fb
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
-[/us/pl/110/343/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs506%2Fb
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3880
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28/s8246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fc
 [/us/usc/t26/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6060
-[/us/pl/101/239/s7732/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7732%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2402
 
 

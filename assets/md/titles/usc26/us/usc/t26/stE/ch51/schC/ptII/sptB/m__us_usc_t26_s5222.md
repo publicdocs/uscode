@@ -49,7 +49,7 @@
 
         For penalty and forfeiture for unlawful production, removal, or use of material fit for distillation or for the production of distilled spirits, and for penalty and forfeiture for unlawful production of distilled spirits, see sections 5601(a)(7), 5601(a)(8), and 5615(4).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1365][/us/stat/72/1365]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(b)(6)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 95–458, § 2(b)(4)][/us/pl/95/458/s2/b/4], Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256]; [Pub. L. 96–39, title VIII, § 807(a)(30)][/us/pl/96/39/s807/a/30], July 26, 1979, [93 Stat. 286][/us/stat/93/286]; [Pub. L. 105–34, title XIV, § 1414(a)][/us/pl/105/34/s1414/a], Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1365][/us/stat/72/1365]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(b)(6)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 95–458][/us/pl/95/458], § 2(b)(4), Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(30), July 26, 1979, [93 Stat. 286][/us/stat/93/286]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1414(a), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047].)
 
  __Prior Provisions__ 
 
@@ -127,9 +127,9 @@ Provisions similar to those comprising subsecs. (a)(1), (2)(D), (b), and (d) of 
 
     1978—Subsec. (a)(2)(C). [Pub. L. 95–458][/us/pl/95/458] inserted reference to section 5053(e).
 
-    1976—Subsecs. (a)(1), (b), (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (a)(1), (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1905(b)(6)(D)][/us/pl/94/455/s1905/b/6/D], struck out “5601(b)(3), 5601(b)(4),” after “5601(a)(8),”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1905(b)(6)(D), struck out “5601(b)(3), 5601(b)(4),” after “5601(a)(8),”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -154,15 +154,15 @@ Provisions similar to those comprising subsecs. (a)(1), (2)(D), (b), and (d) of 
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1365
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/95/458/s2/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fb%2F4
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1256
-[/us/pl/96/39/s807/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F30
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F286
-[/us/pl/105/34/s1414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
@@ -170,8 +170,8 @@ Provisions similar to those comprising subsecs. (a)(1), (2)(D), (b), and (d) of 
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1905/b/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F6%2FD
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fd
 [/us/usc/t26/s5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5053

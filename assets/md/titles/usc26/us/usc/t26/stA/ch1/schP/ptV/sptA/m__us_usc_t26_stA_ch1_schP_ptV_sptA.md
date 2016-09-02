@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    1985—[Pub. L. 99–121, title I, § 102(d)][/us/pl/99/121/s102/d], Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509], added item 1274A.
+    1985—[Pub. L. 99–121, title I][/us/pl/99/121/tI], § 102(d), Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509], added item 1274A.
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/99/121/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fd
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F509
 
 

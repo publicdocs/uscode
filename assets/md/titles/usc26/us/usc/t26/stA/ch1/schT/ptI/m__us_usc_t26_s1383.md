@@ -37,15 +37,15 @@
 
         (3) If the tax imposed by this chapter for the taxable year is the amount determined under subsection (a)(2), then the deduction described in subsection (a) shall not be taken into account for any purpose of this subtitle other than for purposes of this section.
 
-(Added [Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1047][/us/stat/76/1047]; amended [Pub. L. 89–809, title II, § 211(a)(5)][/us/pl/89/809/s211/a/5]–(7), Nov. 13, 1966, [80 Stat. 1581][/us/stat/80/1581].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1047][/us/stat/76/1047]; amended [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(a)(5)–(7), Nov. 13, 1966, [80 Stat. 1581][/us/stat/80/1581].)
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–809, § 211(a)(5)][/us/pl/89/809/s211/a/5], inserted “or nonqualified per-unit retain certificates” in section catchline.
+    1966—[Pub. L. 89–809][/us/pl/89/809], § 211(a)(5), inserted “or nonqualified per-unit retain certificates” in section catchline.
 
-    Subsec. (a). [Pub. L. 89–809, § 211(a)(6)][/us/pl/89/809/s211/a/6], substituted “section 1382(b)(2) or (4)” for “1382(b)(2)” and inserted references to per-unit retain certificates.
+    Subsec. (a). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(6), substituted “section 1382(b)(2) or (4)” for “1382(b)(2)” and inserted references to per-unit retain certificates.
 
-    Subsec. (b)(2). [Pub. L. 89–809, § 211(a)(7)][/us/pl/89/809/s211/a/7], substituted “section 1382(b)(2) or (4)” for “section 1382(b)(2)” and inserted references to per-unit retain certificates.
+    Subsec. (b)(2). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(7), substituted “section 1382(b)(2) or (4)” for “section 1382(b)(2)” and inserted references to per-unit retain certificates.
 
  __Effective Date of 1966 Amendment__ 
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1047
-[/us/pl/89/809/s211/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F5
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1581
-[/us/pl/89/809/s211/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F5
-[/us/pl/89/809/s211/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F6
-[/us/pl/89/809/s211/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F7
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/usc/t26/s1381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1381%2Fa
 [/us/pl/89/809/s211/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fe%2F1

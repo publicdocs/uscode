@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 835(b)(12)][/us/pl/108/357/s835/b/12], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594], struck out item for part V “Financial asset securitization investment trusts”.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 835(b)(12), Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594], struck out item for part V “Financial asset securitization investment trusts”.
 
-    1996—[Pub. L. 104–188, title I, § 1621(c)][/us/pl/104/188/s1621/c], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867], added item for part V.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1621(c), Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867], added item for part V.
 
-    1988—[Pub. L. 100–647, title I, § 1018(u)(30)][/us/pl/100/647/s1018/u/30], Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591], added item for part IV.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(30), Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591], added item for part IV.
 
-    1978—[Pub. L. 95–600, title III, § 362(d)(8)][/us/pl/95/600/s362/d/8], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], added item for part III.
+    1978—[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(d)(8), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], added item for part III.
 
 ----------
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/108/357/s835/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs835%2Fb%2F12
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1594
-[/us/pl/104/188/s1621/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1621%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1867
-[/us/pl/100/647/s1018/u/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F30
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3591
-[/us/pl/95/600/s362/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fd%2F8
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2852
 
 

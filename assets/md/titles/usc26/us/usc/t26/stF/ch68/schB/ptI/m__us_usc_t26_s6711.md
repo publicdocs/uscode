@@ -51,11 +51,11 @@
 
             The day on which any failure referred to in subsection (a) occurs shall be determined under rules similar to the rules of section 6710(d).
 
-(Added [Pub. L. 100–203, title X, § 10705(a)][/us/pl/100/203/s10705/a], Dec. 22, 1987, [101 Stat. 1330–463][/us/stat/101/1330-463].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10705(a), Dec. 22, 1987, [101 Stat. 1330–463][/us/stat/101/1330-463].)
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10705(c)][/us/pl/100/203/s10705/c], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10705(c), Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to offers and solicitations after January 31, 1988.”
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10705%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-463
-[/us/pl/100/203/s10705/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10705%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-464
 
 

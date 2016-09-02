@@ -33,7 +33,7 @@
 
         In accordance with regulations prescribed by the Secretary, the Secretary may require from time to time such supplemental information from any person required to register under this section as may be needful to the enforcement of this chapter.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 527][/us/stat/68A/527]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(I)][/us/pl/94/455/s1906/b/13/I], Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 527][/us/stat/68A/527]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(I), Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835].)
 
  __Constitutionality__ 
 
@@ -56,7 +56,7 @@ For information regarding constitutionality of section 4412 of act Aug. 16, 1954
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F527
-[/us/pl/94/455/s1906/b/13/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FI
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1835
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/499/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs3%2Fd%2F2

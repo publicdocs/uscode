@@ -41,17 +41,17 @@
 
         If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of wages or compensation and the underpayment cannot be adjusted under subsection (a) of this section, the amount of the underpayment shall be assessed and collected in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 768][/us/stat/68A/768]; [Pub. L. 86–778, title I, § 103(r)(1)][/us/pl/86/778/s103/r/1], Sept. 13, 1960, [74 Stat. 940][/us/stat/74/940]; [Pub. L. 89–97, title III, § 317(d)][/us/pl/89/97/s317/d], July 30, 1965, [79 Stat. 389][/us/stat/79/389]; [Pub. L. 94–455, title XIX, § 1906(a)(13)][/us/pl/94/455/s1906/a/13], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1834; [Pub. L. 99–272, title XIII, § 13205(a)(2)(D)][/us/pl/99/272/s13205/a/2/D], Apr. 7, 1986, [100 Stat. 315][/us/stat/100/315].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 768][/us/stat/68A/768]; [Pub. L. 86–778, title I][/us/pl/86/778/tI], § 103(r)(1), Sept. 13, 1960, [74 Stat. 940][/us/stat/74/940]; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 317(d), July 30, 1965, [79 Stat. 389][/us/stat/79/389]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(13), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1834; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13205(a)(2)(D), Apr. 7, 1986, [100 Stat. 315][/us/stat/100/315].)
 
  __Amendments__ 
 
     1986—Subsec. (a)(5). [Pub. L. 99–272][/us/pl/99/272] added par. (5).
 
-    1976—Subsec. (a)(1). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(1). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (a)(4). [Pub. L. 94–455, § 1906(a)(13)][/us/pl/94/455/s1906/a/13], substituted “Mayor of the District of Columbia and each agent designated by him” for “Commissioners of the District of Columbia and each agent designated by them” after “owned thereby, the”.
+    Subsec. (a)(4). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(13), substituted “Mayor of the District of Columbia and each agent designated by him” for “Commissioners of the District of Columbia and each agent designated by them” after “owned thereby, the”.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1965—Subsec. (a)(4). [Pub. L. 89–97][/us/pl/89/97] added par. (4).
 
@@ -82,18 +82,18 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F768
-[/us/pl/86/778/s103/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs103%2Fr%2F1
+[/us/pl/86/778/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtI
 [/us/stat/74/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F940
-[/us/pl/89/97/s317/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs317%2Fd
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F389
-[/us/pl/94/455/s1906/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F13
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1825
-[/us/pl/99/272/s13205/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13205%2Fa%2F2%2FD
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F315
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F13
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

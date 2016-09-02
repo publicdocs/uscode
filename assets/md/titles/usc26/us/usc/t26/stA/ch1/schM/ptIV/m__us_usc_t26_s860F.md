@@ -141,33 +141,33 @@
 
         For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residual interests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
 
-(Added [Pub. L. 99–514, title VI, § 671(a)][/us/pl/99/514/s671/a], Oct. 22, 1986, [100 Stat. 2313][/us/stat/100/2313]; amended [Pub. L. 100–647, title I, § 1006(t)(3)][/us/pl/100/647/s1006/t/3], (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, [102 Stat. 3419][/us/stat/102/3419], 3420, 3423, 3426; [Pub. L. 104–188, title I, § 1704(t)(74)][/us/pl/104/188/s1704/t/74], Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891].)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 671(a), Oct. 22, 1986, [100 Stat. 2313][/us/stat/100/2313]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, [102 Stat. 3419][/us/stat/102/3419], 3420, 3423, 3426; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(74), Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891].)
 
  __Amendments__ 
 
     1996—Subsec. (a)(5). [Pub. L. 104–188][/us/pl/104/188] substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
 
-    1988—Subsec. (a)(2)(A). [Pub. L. 100–647, § 1006(t)(3)(B)(i)][/us/pl/100/647/s1006/t/3/B/i], struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
+    1988—Subsec. (a)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 100–647, § 1006(t)(3)(A)][/us/pl/100/647/s1006/t/3/A], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
 
-    Subsec. (a)(2)(A)(iii), (C). [Pub. L. 100–647, § 1006(t)(22)(B)][/us/pl/100/647/s1006/t/22/B], (C), substituted “REMIC” for “real estate mortgage pool”.
+    Subsec. (a)(2)(A)(iii), (C). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(22)(B), (C), substituted “REMIC” for “real estate mortgage pool”.
 
-    Subsec. (a)(2)(D). [Pub. L. 100–647, § 1006(t)(3)(C)][/us/pl/100/647/s1006/t/3/C], struck out “described in subsection (b)” before period at end.
+    Subsec. (a)(2)(D). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(3)(C), struck out “described in subsection (b)” before period at end.
 
-    Subsec. (a)(5). [Pub. L. 100–647, § 1006(t)(3)(B)(ii)][/us/pl/100/647/s1006/t/3/B/ii], added par. (5).
+    Subsec. (a)(5). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(3)(B)(ii), added par. (5).
 
-    Subsec. (b)(1)(A). [Pub. L. 100–647, § 1006(t)(4)][/us/pl/100/647/s1006/t/4], substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
+    Subsec. (b)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
 
-    Subsec. (b)(1)(C)(ii). [Pub. L. 100–647, § 1006(t)(22)(D)][/us/pl/100/647/s1006/t/22/D], substituted “REMIC” for “real estate mortgage pool”.
+    Subsec. (b)(1)(C)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
 
-    Subsec. (b)(1)(D)(ii). [Pub. L. 100–647, § 1006(t)(14)][/us/pl/100/647/s1006/t/14], (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”.
+    Subsec. (b)(1)(D)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(14), (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”.
 
-    Subsec. (e). [Pub. L. 100–647, § 1006(t)(18)(A)][/us/pl/100/647/s1006/t/18/A], inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(18)(A), inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1006(t)(18)(B)][/us/pl/100/647/s1006/t/18/B], Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(18)(B), Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426], provided that: 
 
 > “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act.”
 
@@ -180,23 +180,23 @@
 ----------
 ----------
 
-[/us/pl/99/514/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2313
-[/us/pl/100/647/s1006/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3419
-[/us/pl/104/188/s1704/t/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F74
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1891
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/100/647/s1006/t/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F3%2FB%2Fi
-[/us/pl/100/647/s1006/t/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F3%2FA
-[/us/pl/100/647/s1006/t/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F22%2FB
-[/us/pl/100/647/s1006/t/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F3%2FC
-[/us/pl/100/647/s1006/t/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F3%2FB%2Fii
-[/us/pl/100/647/s1006/t/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F4
-[/us/pl/100/647/s1006/t/22/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F22%2FD
-[/us/pl/100/647/s1006/t/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F14
-[/us/pl/100/647/s1006/t/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F18%2FA
-[/us/pl/100/647/s1006/t/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F18%2FB
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3426
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

@@ -17,7 +17,7 @@
 
     Except as provided in section 132(a)(6), there shall be included in gross income (as compensation for services) any amount received or accrued, directly or indirectly, by an individual as a payment for or reimbursement of expenses of moving from one residence to another residence which is attributable to employment or self-employment.
 
-(Added [Pub. L. 91–172, title II, § 231(b)][/us/pl/91/172/s231/b], Dec. 30, 1969, [83 Stat. 579][/us/stat/83/579]; amended [Pub. L. 103–66, title XIII, § 13213(d)(3)(A)][/us/pl/103/66/s13213/d/3/A], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474].)
+(Added [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 231(b), Dec. 30, 1969, [83 Stat. 579][/us/stat/83/579]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13213(d)(3)(A), Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/91/172/s231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fb
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F579
-[/us/pl/103/66/s13213/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fd%2F3%2FA
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F474
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66

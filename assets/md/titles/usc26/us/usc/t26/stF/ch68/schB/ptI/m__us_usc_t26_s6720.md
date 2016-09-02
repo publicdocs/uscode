@@ -33,7 +33,7 @@
 
         (B) $5,000.
 
-(Added [Pub. L. 108–357, title VIII, § 884(b)(1)][/us/pl/108/357/s884/b/1], Oct. 22, 2004, [118 Stat. 1634][/us/stat/118/1634].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 884(b)(1), Oct. 22, 2004, [118 Stat. 1634][/us/stat/118/1634].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s884/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs884%2Fb%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1634
 [/us/pl/108/357/s884/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs884%2Fc
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170

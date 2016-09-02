@@ -145,41 +145,41 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 94–455, title X, § 1013(a)][/us/pl/94/455/s1013/a], Oct. 4, 1976, [90 Stat. 1614][/us/stat/90/1614]; amended [Pub. L. 96–603, § 2(b)][/us/pl/96/603/s2/b], Dec. 28, 1980, [94 Stat. 3509][/us/stat/94/3509]; [Pub. L. 104–188, title I, § 1903(a)][/us/pl/104/188/s1903/a]–(f), Aug. 20, 1996, [110 Stat. 1909][/us/stat/110/1909], 1910; [Pub. L. 105–34, title XVI, § 1601(i)(2)][/us/pl/105/34/s1601/i/2], Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093]; [Pub. L. 105–206, title VI, § 6018(g)][/us/pl/105/206/s6018/g], July 22, 1998, [112 Stat. 823][/us/stat/112/823]; [Pub. L. 111–147, title V][/us/pl/111/147], §§ 531, 532(a), 533(c), Mar. 18, 2010, [124 Stat. 113][/us/stat/124/113], 114.)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1013(a), Oct. 4, 1976, [90 Stat. 1614][/us/stat/90/1614]; amended [Pub. L. 96–603][/us/pl/96/603], § 2(b), Dec. 28, 1980, [94 Stat. 3509][/us/stat/94/3509]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1903(a)–(f), Aug. 20, 1996, [110 Stat. 1909][/us/stat/110/1909], 1910; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(i)(2), Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6018(g), July 22, 1998, [112 Stat. 823][/us/stat/112/823]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], §§ 531, 532(a), 533(c), Mar. 18, 2010, [124 Stat. 113][/us/stat/124/113], 114.)
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–147, § 531(a)][/us/pl/111/147/s531/a], inserted concluding provisions.
+    2010—Subsec. (c)(1). [Pub. L. 111–147][/us/pl/111/147], § 531(a), inserted concluding provisions.
 
-    Subsec. (c)(4), (5). [Pub. L. 111–147, § 531(b)][/us/pl/111/147/s531/b], (c), added pars. (4) and (5).
+    Subsec. (c)(4), (5). [Pub. L. 111–147][/us/pl/111/147], § 531(b), (c), added pars. (4) and (5).
 
-    Subsec. (c)(6). [Pub. L. 111–147, § 533(c)][/us/pl/111/147/s533/c], added par. (6).
+    Subsec. (c)(6). [Pub. L. 111–147][/us/pl/111/147], § 533(c), added par. (6).
 
-    Subsecs. (d), (e). [Pub. L. 111–147, § 532(a)][/us/pl/111/147/s532/a], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 111–147][/us/pl/111/147], § 532(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1998—Subsec. (a)(1). [Pub. L. 105–206][/us/pl/105/206] provided that the amendment made by [section 1903(b) of Pub. L. 104–188][/us/pl/104/188/s1903/b] shall be applied as if “or” in the material proposed to be stricken were capitalized. See 1996 Amendment note below.
 
     1997—Subsec. (a)(3)(C)(ii), (iii). [Pub. L. 105–34][/us/pl/105/34] inserted “, owner,” after “grantor”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–188, § 1903(b)][/us/pl/104/188/s1903/b], which directed that subsec. (a) of this section be amended by substituting “section 6048(a)(3)(B)(ii)” for “section 404(a)(4) or 404A”, was executed to par. (1) by making the substitution for “section 404(a)(4) Or section 404A” to reflect the probable intent of Congress. See 1998 Amendment note above.
+    1996—Subsec. (a)(1). [Pub. L. 104–188][/us/pl/104/188], § 1903(b), which directed that subsec. (a) of this section be amended by substituting “section 6048(a)(3)(B)(ii)” for “section 404(a)(4) or 404A”, was executed to par. (1) by making the substitution for “section 404(a)(4) Or section 404A” to reflect the probable intent of Congress. See 1998 Amendment note above.
 
-    Subsec. (a)(2)(B). [Pub. L. 104–188, § 1903(a)(1)][/us/pl/104/188/s1903/a/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Transfers where gain is recognized to transferor.—To any sale or exchange of the property at its fair market value in a transaction in which all of the gain to the transferor is realized at the time of the transfer and is recognized either at such time or is returned as provided in section 453.”
+    Subsec. (a)(2)(B). [Pub. L. 104–188][/us/pl/104/188], § 1903(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Transfers where gain is recognized to transferor.—To any sale or exchange of the property at its fair market value in a transaction in which all of the gain to the transferor is realized at the time of the transfer and is recognized either at such time or is returned as provided in section 453.”
 
-    Subsec. (a)(3). [Pub. L. 104–188, § 1903(a)(2)][/us/pl/104/188/s1903/a/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–188][/us/pl/104/188], § 1903(a)(2), added par. (3).
 
-    Subsec. (a)(4), (5). [Pub. L. 104–188, § 1903(c)][/us/pl/104/188/s1903/c], added pars. (4) and (5).
+    Subsec. (a)(4), (5). [Pub. L. 104–188][/us/pl/104/188], § 1903(c), added pars. (4) and (5).
 
-    Subsec. (c)(2)(A). [Pub. L. 104–188, § 1903(e)][/us/pl/104/188/s1903/e], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of a foreign corporation, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation is owned (within the meaning of section 958(a)) or is considered to be owned (within the meaning of section 958(b)) by United States shareholders (as defined in section 951(b)),”.
+    Subsec. (c)(2)(A). [Pub. L. 104–188][/us/pl/104/188], § 1903(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of a foreign corporation, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such corporation is owned (within the meaning of section 958(a)) or is considered to be owned (within the meaning of section 958(b)) by United States shareholders (as defined in section 951(b)),”.
 
-    Subsec. (c)(3). [Pub. L. 104–188, § 1903(d)][/us/pl/104/188/s1903/d], added par. (3).
+    Subsec. (c)(3). [Pub. L. 104–188][/us/pl/104/188], § 1903(d), added par. (3).
 
-    Subsec. (d). [Pub. L. 104–188, § 1903(f)][/us/pl/104/188/s1903/f], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–188][/us/pl/104/188], § 1903(f), added subsec. (d).
 
     1980—Subsec. (a)(1). [Pub. L. 96–603][/us/pl/96/603] inserted “Or section 404A” after “section 404(a)(4)”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–147, title V, § 532(b)][/us/pl/111/147/s532/b], Mar. 18, 2010, [124 Stat. 114][/us/stat/124/114], provided that: 
+[Pub. L. 111–147, title V][/us/pl/111/147/tV], § 532(b), Mar. 18, 2010, [124 Stat. 114][/us/stat/124/114], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers of property after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
@@ -195,7 +195,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1903(g)][/us/pl/104/188/s1903/g], Aug. 20, 1996, [110 Stat. 1910][/us/stat/110/1910], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1903(g), Aug. 20, 1996, [110 Stat. 1910][/us/stat/110/1910], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers of property after February 6, 1995.”
 
@@ -205,7 +205,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title X, § 1013(f)(1)][/us/pl/94/455/s1013/f/1], Oct. 4, 1976, [90 Stat. 1616][/us/stat/90/1616], provided that: 
+[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1013(f)(1), Oct. 4, 1976, [90 Stat. 1616][/us/stat/90/1616], provided that: 
 
 > “The amendments made by this section (other than subsection (c)) \[enacting this section and amending sections 643, 678, 6048, and 6678 of this title\] shall apply to taxable years ending after December 31, 1975, but only in the case of—
 
@@ -220,34 +220,34 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1614
-[/us/pl/96/603/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fb
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3509
-[/us/pl/104/188/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1909
-[/us/pl/105/34/s1601/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fi%2F2
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1093
-[/us/pl/105/206/s6018/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6018%2Fg
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F823
-[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F113
-[/us/pl/111/147/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs531%2Fa
-[/us/pl/111/147/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs531%2Fb
-[/us/pl/111/147/s533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs533%2Fc
-[/us/pl/111/147/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs532%2Fa
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/188/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fb
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/104/188/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fb
-[/us/pl/104/188/s1903/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fa%2F1
-[/us/pl/104/188/s1903/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fa%2F2
-[/us/pl/104/188/s1903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fc
-[/us/pl/104/188/s1903/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fe
-[/us/pl/104/188/s1903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fd
-[/us/pl/104/188/s1903/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Ff
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
-[/us/pl/111/147/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs532%2Fb
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F114
 [/us/pl/111/147/s533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs533%2Fc
 [/us/pl/111/147/s533/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs533%2Fe
@@ -260,12 +260,12 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1903/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1903%2Fg
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1910
 [/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/pl/96/603/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fe
 [/us/usc/t26/s404A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404A
-[/us/pl/94/455/s1013/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Ff%2F1
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1616
 
 

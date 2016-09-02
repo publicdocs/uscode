@@ -31,7 +31,7 @@
 
         For purposes of applying section 4980E to a contribution to a health savings account of an employee who is not a highly compensated employee (as defined in section 414(q)), highly compensated employees shall not be treated as comparable participating employees.
 
-(Added [Pub. L. 108–173, title XII, § 1201(d)(4)(A)][/us/pl/108/173/s1201/d/4/A], Dec. 8, 2003, [117 Stat. 2478][/us/stat/117/2478]; amended [Pub. L. 109–432, div. A, title III, § 306(a)][/us/pl/109/432/s306/a], Dec. 20, 2006, [120 Stat. 2951][/us/stat/120/2951].)
+(Added [Pub. L. 108–173, title XII][/us/pl/108/173/tXII], § 1201(d)(4)(A), Dec. 8, 2003, [117 Stat. 2478][/us/stat/117/2478]; amended [Pub. L. 109–432, div. A, title III][/us/pl/109/432/dA/tIII], § 306(a), Dec. 20, 2006, [120 Stat. 2951][/us/stat/120/2951].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title III, § 306(b)][/us/pl/109/432/s306/b], Dec. 20, 2006, [120 Stat. 2951][/us/stat/120/2951], provided that: 
+[Pub. L. 109–432, div. A, title III][/us/pl/109/432/dA/tIII], § 306(b), Dec. 20, 2006, [120 Stat. 2951][/us/stat/120/2951], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/108/173/s1201/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fd%2F4%2FA
+[/us/pl/108/173/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXII
 [/us/stat/117/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2478
-[/us/pl/109/432/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs306%2Fa
+[/us/pl/109/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIII
 [/us/stat/120/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2951
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/432/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs306%2Fb
+[/us/pl/109/432/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIII
 [/us/stat/120/2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2951
 [/us/pl/108/173/s1201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fk
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62

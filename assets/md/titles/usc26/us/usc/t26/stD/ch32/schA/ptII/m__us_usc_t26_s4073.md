@@ -17,7 +17,7 @@
 
     The tax imposed by section 4071 shall not apply to tires sold for the exclusive use of the Department of Defense or the Coast Guard.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 482][/us/stat/68A/482]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 204(c), [70 Stat. 389][/us/stat/70/389]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VII, § 735(c)(4)][/us/pl/98/369/s735/c/4], July 18, 1984, [98 Stat. 982][/us/stat/98/982]; [Pub. L. 108–357, title VIII, § 869(c)][/us/pl/108/357/s869/c], Oct. 22, 2004, [118 Stat. 1623][/us/stat/118/1623].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 482][/us/stat/68A/482]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 204(c), [70 Stat. 389][/us/stat/70/389]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(4), July 18, 1984, [98 Stat. 982][/us/stat/98/982]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 869(c), Oct. 22, 2004, [118 Stat. 1623][/us/stat/118/1623].)
 
  __Amendments__ 
 
@@ -52,11 +52,11 @@
 [/us/stat/68A/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F482
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F389
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s735/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F4
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F982
-[/us/pl/108/357/s869/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1623
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

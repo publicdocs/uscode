@@ -89,7 +89,7 @@
 
         For purposes of this section, any reference to section 6103 shall be treated as including a reference to section 6311(e).
 
-(Added [Pub. L. 97–248, title III, § 357(a)][/us/pl/97/248/s357/a], Sept. 3, 1982, [96 Stat. 645][/us/stat/96/645]; amended [Pub. L. 98–67, title I, § 104(b)][/us/pl/98/67/s104/b], Aug. 5, 1983, [97 Stat. 379][/us/stat/97/379]; [Pub. L. 105–34, title XII, § 1205(c)(2)][/us/pl/105/34/s1205/c/2], Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998]; [Pub. L. 105–35, § 3(a)][/us/pl/105/35/s3/a]–(d)(4), (6), Aug. 5, 1997, [111 Stat. 1105][/us/stat/111/1105], 1106; [Pub. L. 105–206, title III, § 3101(f)][/us/pl/105/206/s3101/f], title VI, § 6012(b)(3), July 22, 1998, [112 Stat. 729][/us/stat/112/729], 819; [Pub. L. 109–280, title XII, § 1224(b)(7)][/us/pl/109/280/s1224/b/7], Aug. 17, 2006, [120 Stat. 1093][/us/stat/120/1093].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 357(a), Sept. 3, 1982, [96 Stat. 645][/us/stat/96/645]; amended [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 104(b), Aug. 5, 1983, [97 Stat. 379][/us/stat/97/379]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1205(c)(2), Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998]; [Pub. L. 105–35][/us/pl/105/35], § 3(a)–(d)(4), (6), Aug. 5, 1997, [111 Stat. 1105][/us/stat/111/1105], 1106; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3101(f), title VI, § 6012(b)(3), July 22, 1998, [112 Stat. 729][/us/stat/112/729], 819; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1224(b)(7), Aug. 17, 2006, [120 Stat. 1093][/us/stat/120/1093].)
 
  __Prior Provisions__ 
 
@@ -99,33 +99,33 @@
 
     2006—Subsec. (a)(2). [Pub. L. 109–280][/us/pl/109/280], which directed insertion of “or in violation of section 6104(c)” after “6103” in subsec. (a)(2) of section 7431, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7431 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-    1998—Subsec. (c)(2). [Pub. L. 105–206, § 3101(f)][/us/pl/105/206/s3101/f], substituted “, plus” for the period at end.
+    1998—Subsec. (c)(2). [Pub. L. 105–206][/us/pl/105/206], § 3101(f), substituted “, plus” for the period at end.
 
-    Subsec. (c)(3). [Pub. L. 105–206, § 3101(f)][/us/pl/105/206/s3101/f], added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–206][/us/pl/105/206], § 3101(f), added par. (3).
 
-    Subsecs. (g), (h). [Pub. L. 105–206, § 6012(b)(3)][/us/pl/105/206/s6012/b/3], redesignated subsec. (g), relating to special rule for information obtained under section 6103(k)(8), as (h), and substituted “(9)” for “(8)” in heading.
+    Subsecs. (g), (h). [Pub. L. 105–206][/us/pl/105/206], § 6012(b)(3), redesignated subsec. (g), relating to special rule for information obtained under section 6103(k)(8), as (h), and substituted “(9)” for “(8)” in heading.
 
-    1997—[Pub. L. 105–35, § 3(d)(4)][/us/pl/105/35/s3/d/4], inserted “inspection or” before “disclosure” in section catchline.
+    1997—[Pub. L. 105–35][/us/pl/105/35], § 3(d)(4), inserted “inspection or” before “disclosure” in section catchline.
 
-    Subsec. (a)(1), (2). [Pub. L. 105–35, § 3(a)(1)][/us/pl/105/35/s3/a/1], (2), substituted “Inspection or disclosure” for “Disclosure” in headings and “inspects or discloses” for “discloses” in text.
+    Subsec. (a)(1), (2). [Pub. L. 105–35][/us/pl/105/35], § 3(a)(1), (2), substituted “Inspection or disclosure” for “Disclosure” in headings and “inspects or discloses” for “discloses” in text.
 
-    Subsec. (b). [Pub. L. 105–35, § 3(c)][/us/pl/105/35/s3/c], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 105–35][/us/pl/105/35], § 3(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(b) No Liability for Good Faith but Erroneous Interpretation.—No liability shall arise under this section with respect to any disclosure which results from a good faith, but erroneous, interpretation of section 6103.”
 
-    Subsec. (c)(1). [Pub. L. 105–35, § 3(d)(1)][/us/pl/105/35/s3/d/1], (2), inserted “inspection or” before “disclosure” in subpars. (A) and (B)(i) and substituted “willful inspection or disclosure or an inspection or disclosure” for “willful disclosure or a disclosure” in subpar. (B)(ii).
+    Subsec. (c)(1). [Pub. L. 105–35][/us/pl/105/35], § 3(d)(1), (2), inserted “inspection or” before “disclosure” in subpars. (A) and (B)(i) and substituted “willful inspection or disclosure or an inspection or disclosure” for “willful disclosure or a disclosure” in subpar. (B)(ii).
 
-    Subsec. (d). [Pub. L. 105–35, § 3(d)(1)][/us/pl/105/35/s3/d/1], inserted “inspection or” before “disclosure”.
+    Subsec. (d). [Pub. L. 105–35][/us/pl/105/35], § 3(d)(1), inserted “inspection or” before “disclosure”.
 
-    Subsec. (e). [Pub. L. 105–35, § 3(b)][/us/pl/105/35/s3/b], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 105–35][/us/pl/105/35], § 3(b), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 105–35, § 3(b)][/us/pl/105/35/s3/b], (d)(3), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 105–35][/us/pl/105/35], § 3(b), (d)(3), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, subsec. (f) read as follows:
 
     “(f) Return; Return Information.—For purposes of this section, the terms ‘return’ and ‘return information’ have the respective meanings given such terms in section 6103(b).”
 
-    Subsec. (g). [Pub. L. 105–35, § 3(b)][/us/pl/105/35/s3/b], (d)(6), redesignated subsec. (f) as (g) and substituted “any inspection or use” for “any use” in par. (2).
+    Subsec. (g). [Pub. L. 105–35][/us/pl/105/35], § 3(b), (d)(6), redesignated subsec. (f) as (g) and substituted “any inspection or use” for “any use” in par. (2).
 
-    [Pub. L. 105–34, § 1205(c)(2)][/us/pl/105/34/s1205/c/2], added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
+    [Pub. L. 105–34][/us/pl/105/34], § 1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
 
     1983—Subsec. (f). [Pub. L. 98–67][/us/pl/98/67] added subsec. (f).
 
@@ -141,7 +141,7 @@
 
  __Effective Date of 1997 Amendments__ 
 
-[Pub. L. 105–35, § 3(e)][/us/pl/105/35/s3/e], Aug. 5, 1997, [111 Stat. 1106][/us/stat/111/1106], provided that: 
+[Pub. L. 105–35][/us/pl/105/35], § 3(e), Aug. 5, 1997, [111 Stat. 1106][/us/stat/111/1106], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to inspections and disclosures occurring on and after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -153,7 +153,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 357(c)][/us/pl/97/248/s357/c], Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 357(c), Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], provided that: 
 
 > “The amendments made by this section \[enacting this section and repealing [section 7217 of this title][/us/usc/t26/s7217]\] shall apply with respect to disclosures made after the date of enactment of this Act \[Sept. 3, 1982\].”
 
@@ -165,32 +165,32 @@
 ----------
 
 [/us/usc/t18/s1030/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fa%2F2
-[/us/pl/97/248/s357/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs357%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F645
-[/us/pl/98/67/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs104%2Fb
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F379
-[/us/pl/105/34/s1205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fc%2F2
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F998
-[/us/pl/105/35/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fa
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
 [/us/stat/111/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1105
-[/us/pl/105/206/s3101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3101%2Ff
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F729
-[/us/pl/109/280/s1224/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1224%2Fb%2F7
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1093
 [/us/usc/t26/s7437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7437
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/105/206/s3101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3101%2Ff
-[/us/pl/105/206/s3101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3101%2Ff
-[/us/pl/105/206/s6012/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6012%2Fb%2F3
-[/us/pl/105/35/s3/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fd%2F4
-[/us/pl/105/35/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fa%2F1
-[/us/pl/105/35/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fc
-[/us/pl/105/35/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fd%2F1
-[/us/pl/105/35/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fd%2F1
-[/us/pl/105/35/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fb
-[/us/pl/105/35/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fb
-[/us/pl/105/35/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fb
-[/us/pl/105/34/s1205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fc%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1224/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1224%2Fc
@@ -202,7 +202,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/35/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs3%2Fe
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
 [/us/stat/111/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1106
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fd
@@ -210,7 +210,7 @@
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/pl/98/67/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs110%2Fc
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31
-[/us/pl/97/248/s357/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs357%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F646
 [/us/usc/t26/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7217
 

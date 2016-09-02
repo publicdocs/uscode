@@ -53,7 +53,7 @@
 
         (3) For provisions authorizing withdrawals of wine free of tax or without payment of tax, see section 5362.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1331][/us/stat/72/1331]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–458, § 2(a)][/us/pl/95/458/s2/a], Oct. 14, 1978, [92 Stat. 1255][/us/stat/92/1255].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1331][/us/stat/72/1331]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–458][/us/pl/95/458], § 2(a), Oct. 14, 1978, [92 Stat. 1255][/us/stat/92/1255].)
 
  __Prior Provisions__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–458, § 2(c)][/us/pl/95/458/s2/c], Oct. 14, 1978, [92 Stat. 1257][/us/stat/92/1257], provided that: 
+[Pub. L. 95–458][/us/pl/95/458], § 2(c), Oct. 14, 1978, [92 Stat. 1257][/us/stat/92/1257], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
 
@@ -78,18 +78,18 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1331
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/458/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fa
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1255
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F610
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/95/458/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fc
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1257
 
 

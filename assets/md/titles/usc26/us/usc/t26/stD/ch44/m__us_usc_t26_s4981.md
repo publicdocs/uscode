@@ -115,13 +115,13 @@
 
             (B) any income giving rise to the adjustment shall be treated as arising when the dividend is paid.
 
-(Added [Pub. L. 94–455, title XVI, § 1605(a)][/us/pl/94/455/s1605/a], Oct. 4, 1976, [90 Stat. 1754][/us/stat/90/1754]; amended [Pub. L. 99–514, title VI, § 668(a)][/us/pl/99/514/s668/a], Oct. 22, 1986, [100 Stat. 2306][/us/stat/100/2306]; [Pub. L. 100–647, title I, § 1006(s)(1)][/us/pl/100/647/s1006/s/1], (3), Nov. 10, 1988, [102 Stat. 3418][/us/stat/102/3418].)
+(Added [Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], § 1605(a), Oct. 4, 1976, [90 Stat. 1754][/us/stat/90/1754]; amended [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 668(a), Oct. 22, 1986, [100 Stat. 2306][/us/stat/100/2306]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(s)(1), (3), Nov. 10, 1988, [102 Stat. 3418][/us/stat/102/3418].)
 
  __Amendments__ 
 
-    1988—Subsec. (c)(1)(A). [Pub. L. 100–647, § 1006(s)(3)][/us/pl/100/647/s1006/s/3], inserted “(but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)” after “such calendar year”.
+    1988—Subsec. (c)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 1006(s)(3), inserted “(but computed without regard to that portion of such deduction which is attributable to the amount excluded under section 857(b)(2)(D)” after “such calendar year”.
 
-    Subsec. (e)(2). [Pub. L. 100–647, § 1006(s)(1)][/us/pl/100/647/s1006/s/1], amended par. (2) generally, designating existing provisions as subpar. (A) and adding subpars. (B) and (C).
+    Subsec. (e)(2). [Pub. L. 100–647][/us/pl/100/647], § 1006(s)(1), amended par. (2) generally, designating existing provisions as subpar. (A) and adding subpars. (B) and (C).
 
     1986—[Pub. L. 99–514][/us/pl/99/514] substituted “Excise tax on undistributed income of real estate investment trusts” for “Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year” as section catchline and amended text generally. Prior to amendment text read as follows: “Effective with respect to taxable years beginning after December 31, 1979, there is hereby imposed on each real estate investment trust for the taxable year a tax equal to 3 percent of the amount (if any) by which 75 percent of the real estate investment trust taxable income (as defined in section 857(b)(2), but determined without regard to section 857(b)(2)(B), and by excluding any net capital gain for the taxable year) exceeds the amount of the dividends paid deduction (as defined in section 561, but computed without regard to capital gains dividends as defined in section 857(b)(3)(C) and without regard to any dividend paid after the close of the taxable year) for the taxable year. For purposes of the preceding sentence, the determination of the real estate investment trust taxable income shall be made by taking into account only the amount and character of the items of income and deduction as reported by such trust in its return for the taxable year.”
 
@@ -140,14 +140,14 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1605%2Fa
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1754
-[/us/pl/99/514/s668/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs668%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2306
-[/us/pl/100/647/s1006/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fs%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3418
-[/us/pl/100/647/s1006/s/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fs%2F3
-[/us/pl/100/647/s1006/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fs%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

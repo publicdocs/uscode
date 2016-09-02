@@ -83,11 +83,11 @@
 
  __Prior Provisions__ 
 
-    A prior part I, Establishment, consisted of sections 5231 to 5233, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part I, Establishment, consisted of sections 5231 to 5233, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title IV, § 454(c)(14)][/us/pl/98/369/s454/c/14], July 18, 1984, [98 Stat. 823][/us/stat/98/823], struck out item 5205 “Stamps”.
+    1984—[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(14), July 18, 1984, [98 Stat. 823][/us/stat/98/823], struck out item 5205 “Stamps”.
 
 ----------
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/98/369/s454/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F14
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F823
 
 

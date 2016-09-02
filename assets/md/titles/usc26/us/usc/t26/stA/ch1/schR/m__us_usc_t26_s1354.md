@@ -71,7 +71,7 @@
 
         If a qualifying vessel operator has made an election under subsection (a) and if such election has been terminated under subsection (d), such operator (and any successor operator) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1451][/us/stat/118/1451]; amended [Pub. L. 109–135, title IV, § 403(g)(4)][/us/pl/109/135/s403/g/4], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624]; [Pub. L. 114–41, title II, § 2006(a)(2)(C)][/us/pl/114/41/s2006/a/2/C], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1451][/us/stat/118/1451]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(g)(4), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624]; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2006(a)(2)(C), July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
 
@@ -94,11 +94,11 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1451
-[/us/pl/109/135/s403/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F4
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
-[/us/pl/114/41/s2006/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FC
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135

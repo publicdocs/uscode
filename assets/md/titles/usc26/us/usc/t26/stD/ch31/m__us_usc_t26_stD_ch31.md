@@ -81,11 +81,11 @@
 
     The subject matter of the prior sections was as follows:
 
-    A prior section 4001, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 473][/us/stat/68A/473]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 101][/us/pl/85/859/s101], [72 Stat. 1275][/us/stat/72/1275]; Sept. 21, 1959, [Pub. L. 86–344, § 1(a)][/us/pl/86/344/s1/a], [73 Stat. 617][/us/stat/73/617], imposed an excise tax equivalent to 10 percent of selling price upon jewelry, stones, watches, clocks, case and movements for watches and clocks, flatware and hollow ware, opera glasses, lorgnettes, marine glasses, field glasses, and binoculars.
+    A prior section 4001, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 473][/us/stat/68A/473]; Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 101, [72 Stat. 1275][/us/stat/72/1275]; Sept. 21, 1959, [Pub. L. 86–344][/us/pl/86/344], § 1(a), [73 Stat. 617][/us/stat/73/617], imposed an excise tax equivalent to 10 percent of selling price upon jewelry, stones, watches, clocks, case and movements for watches and clocks, flatware and hollow ware, opera glasses, lorgnettes, marine glasses, field glasses, and binoculars.
 
     A prior section 4002, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 473][/us/stat/68A/473], defined “articles sold at retail” to include articles sold at auction.
 
-    A prior section 4003, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 474][/us/stat/68A/474]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 102][/us/pl/85/859/s102], [72 Stat. 1276][/us/stat/72/1276], specified exemptions to tax imposed by section 4001.
+    A prior section 4003, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 474][/us/stat/68A/474]; Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 102, [72 Stat. 1276][/us/stat/72/1276], specified exemptions to tax imposed by section 4001.
 
     A prior section 4011, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 475][/us/stat/68A/475], imposed an excise tax equivalent to 10 percent of selling price upon fur articles.
 
@@ -93,11 +93,11 @@
 
     A prior section 4013, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 475][/us/stat/68A/475], specified exemptions to tax imposed by section 4011.
 
-    A prior section 4021, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 476][/us/stat/68A/476]; Apr. 8, 1960, [Pub. L. 86–413, § 1][/us/pl/86/413/s1], [74 Stat. 31][/us/stat/74/31], imposed an excise tax equivalent to 10 percent of selling price upon toilet preparations.
+    A prior section 4021, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 476][/us/stat/68A/476]; Apr. 8, 1960, [Pub. L. 86–413][/us/pl/86/413], § 1, [74 Stat. 31][/us/stat/74/31], imposed an excise tax equivalent to 10 percent of selling price upon toilet preparations.
 
     A prior section 4022, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 476][/us/stat/68A/476], specified certain exemptions from tax imposed by section 4021, including items for babies, items used in barber shops and beauty parlors, and miniature samples.
 
-    A prior section 4031, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 477][/us/stat/68A/477]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 103][/us/pl/85/859/s103], [72 Stat. 1276][/us/stat/72/1276], imposed an excise tax equivalent to 10 percent of selling price upon luggage and handbags, including billfolds and wallets, traveler’s garment bags, and briefcases.
+    A prior section 4031, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 477][/us/stat/68A/477]; Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 103, [72 Stat. 1276][/us/stat/72/1276], imposed an excise tax equivalent to 10 percent of selling price upon luggage and handbags, including billfolds and wallets, traveler’s garment bags, and briefcases.
 
     A prior section 4042, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 478][/us/stat/68A/478], provided a cross reference to section 4222 for exemption from tax where special motor fuels are sold for use for certain vessels.
 
@@ -105,29 +105,29 @@
 
     A prior section 4052, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479], provided that lease of an article would be considered sale of article for excise tax purposes.
 
-    A prior section 4053, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 104][/us/pl/85/859/s104], [72 Stat. 1276][/us/stat/72/1276], made provision for imposition of retailers tax on installment sales.
+    A prior section 4053, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479]; Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 104, [72 Stat. 1276][/us/stat/72/1276], made provision for imposition of retailers tax on installment sales.
 
     A prior section 4054, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479], related to application of taxes to retail sales by United States or by any agency or instrumentality of United States unless specifically exempted from such tax.
 
-    A prior section 4055, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480]; June 21, 1965, [Pub. L. 89–44, title I, § 101(b)(3)][/us/pl/89/44/s101/b/3], [79 Stat. 136][/us/stat/79/136], exempted from taxes articles sold for exclusive use of any State, Territory of United States, or any political subdivision thereof, or District of Columbia, including use by such entities of any liquid as a fuel.
+    A prior section 4055, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480]; June 21, 1965, [Pub. L. 89–44, title I][/us/pl/89/44/tI], § 101(b)(3), [79 Stat. 136][/us/stat/79/136], exempted from taxes articles sold for exclusive use of any State, Territory of United States, or any political subdivision thereof, or District of Columbia, including use by such entities of any liquid as a fuel.
 
     A prior section 4056, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480], provided that no tax shall be imposed upon sale of any article for export, or for shipment to a possession of United States and in due course so shipped and exported.
 
-    A prior section 4057, added [Pub. L. 85–859, title I, § 105(a)][/us/pl/85/859/s105/a], Sept. 2, 1958, [72 Stat. 1277][/us/stat/72/1277]; amended [Pub. L. 86–344, § 2(a)][/us/pl/86/344/s2/a], Sept. 21, 1959, [73 Stat. 617][/us/stat/73/617]; [Pub. L. 89–44, title I, § 101(b)(4)][/us/pl/89/44/s101/b/4], June 21, 1965, [79 Stat. 136][/us/stat/79/136]; [Pub. L. 91–172, title I, § 101(j)(25)][/us/pl/91/172/s101/j/25], Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528], provided an exception with respect to sale of any article to a non-profit educational organization for its exclusive use including use of any liquid as a fuel and defined “non-profit educational organization”.
+    A prior section 4057, added [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 105(a), Sept. 2, 1958, [72 Stat. 1277][/us/stat/72/1277]; amended [Pub. L. 86–344][/us/pl/86/344], § 2(a), Sept. 21, 1959, [73 Stat. 617][/us/stat/73/617]; [Pub. L. 89–44, title I][/us/pl/89/44/tI], § 101(b)(4), June 21, 1965, [79 Stat. 136][/us/stat/79/136]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(25), Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528], provided an exception with respect to sale of any article to a non-profit educational organization for its exclusive use including use of any liquid as a fuel and defined “non-profit educational organization”.
 
-    A prior section 4058, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480], § 4058, formerly 4057; renumbered Sept. 2, 1958, [Pub. L. 85–859, title I, § 105(a)][/us/pl/85/859/s105/a], [72 Stat. 1277][/us/stat/72/1277], related to cross references for exemption of sales to United States in certain cases and administrative provisions of general application.
+    A prior section 4058, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480], § 4058, formerly 4057; renumbered Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 105(a), [72 Stat. 1277][/us/stat/72/1277], related to cross references for exemption of sales to United States in certain cases and administrative provisions of general application.
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(103)(A)][/us/pl/113/295/s221/a/103/A], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052], struck out item for subchapter A “Luxury passenger vehicles”.
+    2014—[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(103)(A), Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052], struck out item for subchapter A “Luxury passenger vehicles”.
 
-    1993—[Pub. L. 103–66, title XIII, § 13161(b)(3)][/us/pl/103/66/s13161/b/3], Aug. 10, 1993, [107 Stat. 453][/us/stat/107/453], substituted “Luxury passenger vehicles” for “Certain luxury items” in item for subchapter A.
+    1993—[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13161(b)(3), Aug. 10, 1993, [107 Stat. 453][/us/stat/107/453], substituted “Luxury passenger vehicles” for “Certain luxury items” in item for subchapter A.
 
-    1990—[Pub. L. 101–508, title XI, § 11221(e)][/us/pl/101/508/s11221/e], Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444], added item for subchapter A and redesignated former items for subchapters A and B as B and C, respectively.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11221(e), Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444], added item for subchapter A and redesignated former items for subchapters A and B as B and C, respectively.
 
-    1983—[Pub. L. 97–424, title V, § 512(b)(2)(A)][/us/pl/97/424/s512/b/2/A], Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], substituted “Retail Excise Taxes” for “Special Fuels” in chapter heading, and added an analysis for subchapters A and B.
+    1983—[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 512(b)(2)(A), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], substituted “Retail Excise Taxes” for “Special Fuels” in chapter heading, and added an analysis for subchapters A and B.
 
-    1976—[Pub. L. 94–455, title XIX, § 1904(a)(1)(A)][/us/pl/94/455/s1904/a/1/A], Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810], substituted “Special Fuels” for “Retailers Excise Taxes” in chapter heading.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(1)(A), Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810], substituted “Special Fuels” for “Retailers Excise Taxes” in chapter heading.
 
 ----------
 
@@ -152,15 +152,15 @@
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F473
-[/us/pl/85/859/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs101
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1275
-[/us/pl/86/344/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F344%2Fs1%2Fa
+[/us/pl/86/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F344
 [/us/stat/73/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F617
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F473
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F474
-[/us/pl/85/859/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs102
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1276
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F475
@@ -170,13 +170,13 @@
 [/us/stat/68A/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F475
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F476
-[/us/pl/86/413/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F413%2Fs1
+[/us/pl/86/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F413
 [/us/stat/74/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F31
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F476
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F477
-[/us/pl/85/859/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs103
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1276
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F478
@@ -186,37 +186,37 @@
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
-[/us/pl/85/859/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs104
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1276
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F480
-[/us/pl/89/44/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs101%2Fb%2F3
+[/us/pl/89/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtI
 [/us/stat/79/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F136
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F480
-[/us/pl/85/859/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs105%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1277
-[/us/pl/86/344/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F344%2Fs2%2Fa
+[/us/pl/86/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F344
 [/us/stat/73/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F617
-[/us/pl/89/44/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs101%2Fb%2F4
+[/us/pl/89/44/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtI
 [/us/stat/79/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F136
-[/us/pl/91/172/s101/j/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F25
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F528
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F480
-[/us/pl/85/859/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs105%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1277
-[/us/pl/113/295/s221/a/103/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
-[/us/pl/103/66/s13161/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13161%2Fb%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F453
-[/us/pl/101/508/s11221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Fe
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-444
-[/us/pl/97/424/s512/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs512%2Fb%2F2%2FA
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2177
-[/us/pl/94/455/s1904/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1810
 
 

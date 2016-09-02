@@ -103,7 +103,7 @@
 
             For purposes of paragraph (1), the term “securitization partnership” means any partnership the sole business activity of which is to issue securities which provide for a fixed principal (or similar) amount and which are primarily serviced by the cash flows of a discrete pool (either fixed or revolving) of receivables or other financial assets that by their terms convert into cash in a finite period, but only if the sponsor of the pool reasonably believes that the receivables and other financial assets comprising the pool are not acquired so as to be disposed of.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 249][/us/stat/68A/249]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 71(b)][/us/pl/98/369/s71/b], July 18, 1984, [98 Stat. 589][/us/stat/98/589]; [Pub. L. 108–357, title VIII, § 833(b)(1)][/us/pl/108/357/s833/b/1]–(4)(A), (5), (6)(A), Oct. 22, 2004, [118 Stat. 1589][/us/stat/118/1589], 1591.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 249][/us/stat/68A/249]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 71(b), July 18, 1984, [98 Stat. 589][/us/stat/98/589]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 833(b)(1)–(4)(A), (5), (6)(A), Oct. 22, 2004, [118 Stat. 1589][/us/stat/118/1589], 1591.)
 
  __References in Text__ 
 
@@ -111,17 +111,17 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, § 833(b)(6)(A)][/us/pl/108/357/s833/b/6/A], substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
+    2004—[Pub. L. 108–357][/us/pl/108/357], § 833(b)(6)(A), substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–357, § 833(b)(1)][/us/pl/108/357/s833/b/1], inserted “or unless the partnership has a substantial built-in loss immediately after such transfer” before period at end.
+    Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 833(b)(1), inserted “or unless the partnership has a substantial built-in loss immediately after such transfer” before period at end.
 
-    Subsec. (b). [Pub. L. 108–357, § 833(b)(2)][/us/pl/108/357/s833/b/2], inserted “or which has a substantial built-in loss immediately after such transfer” after “section 754 is in effect” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 833(b)(2), inserted “or which has a substantial built-in loss immediately after such transfer” after “section 754 is in effect” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 108–357, § 833(b)(3)][/us/pl/108/357/s833/b/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–357][/us/pl/108/357], § 833(b)(3), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 108–357, § 833(b)(4)(A)][/us/pl/108/357/s833/b/4/A], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–357][/us/pl/108/357], § 833(b)(4)(A), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 108–357, § 833(b)(5)][/us/pl/108/357/s833/b/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–357][/us/pl/108/357], § 833(b)(5), added subsec. (f).
 
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in penultimate sentence.
 
@@ -129,7 +129,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 833(d)(2)][/us/pl/108/357/s833/d/2], Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 833(d)(2), Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -152,21 +152,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F249
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s71/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs71%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F589
-[/us/pl/108/357/s833/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1589
-[/us/pl/108/357/s833/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F6%2FA
-[/us/pl/108/357/s833/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F1
-[/us/pl/108/357/s833/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F2
-[/us/pl/108/357/s833/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F3
-[/us/pl/108/357/s833/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F4%2FA
-[/us/pl/108/357/s833/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fb%2F5
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/108/357/s833/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fd%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1592
 [/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

@@ -45,7 +45,7 @@
 
         This section shall not fail to apply to a contract or option to acquire or sell stock or securities solely by reason of the fact that the contract or option settles in (or could be settled in) cash or property other than such stock or securities.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 319][/us/stat/68A/319]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 106(a)][/us/pl/98/369/s106/a], (b), July 18, 1984, [98 Stat. 629][/us/stat/98/629]; [Pub. L. 100–647, title V, § 5075(a)][/us/pl/100/647/s5075/a], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–649; [Pub. L. 107–147, title IV, § 412(d)(2)][/us/pl/107/147/s412/d/2], Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 319][/us/stat/68A/319]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 106(a), (b), July 18, 1984, [98 Stat. 629][/us/stat/98/629]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5075(a), Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title IV, § 401(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–649; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 412(d)(2), Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 
     1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647] inserted sentence at end defining “stock or securities”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 106(b)][/us/pl/98/369/s106/b], substituted “no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business” for “no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 106(b), substituted “no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business” for “no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business”.
 
-    Subsec. (e). [Pub. L. 98–369, § 106(a)][/us/pl/98/369/s106/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 106(a), added subsec. (e).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -67,13 +67,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5075(b)][/us/pl/100/647/s5075/b], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5075(b), Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any sale after the date of enactment of this Act \[Nov. 10, 1988\], in taxable years ending after such date.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 106(c)][/us/pl/98/369/s106/c], July 18, 1984, [98 Stat. 629][/us/stat/98/629], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 106(c), July 18, 1984, [98 Stat. 629][/us/stat/98/629], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -92,29 +92,29 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F319
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs106%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F629
-[/us/pl/100/647/s5075/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5075%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3682
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s412/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F2
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F53
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/98/369/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs106%2Fb
-[/us/pl/98/369/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs106%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/107/147/s412/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fe
 [/us/usc/t26/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs151
-[/us/pl/100/647/s5075/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5075%2Fb
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3682
-[/us/pl/98/369/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs106%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F629
 
 

@@ -55,7 +55,7 @@
 
             Paragraph (1) shall not apply to a sale or other disposition which is a part of a transaction in which the entire interest in property is transferred to any person or persons.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 295][/us/stat/68A/295]; [Pub. L. 91–172, title II, § 231(c)(2)][/us/pl/91/172/s231/c/2], title V, § 516(a), Dec. 30, 1969, [83 Stat. 579][/us/stat/83/579], 646; [Pub. L. 94–455, title XIX, § 1901(a)(121)][/us/pl/94/455/s1901/a/121], Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]; [Pub. L. 95–600, title VII, § 702(c)(9)][/us/pl/95/600/s702/c/9], Nov. 6, 1978, [92 Stat. 2928][/us/stat/92/2928]; [Pub. L. 96–223, title IV, § 401(a)][/us/pl/96/223/s401/a], Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 98–369, div. A, title IV, § 421(b)(4)][/us/pl/98/369/s421/b/4], July 18, 1984, [98 Stat. 794][/us/stat/98/794]; [Pub. L. 103–66, title XIII, § 13213(a)(2)(E)][/us/pl/103/66/s13213/a/2/E], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 295][/us/stat/68A/295]; [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 231(c)(2), title V, § 516(a), Dec. 30, 1969, [83 Stat. 579][/us/stat/83/579], 646; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(121), Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(c)(9), Nov. 6, 1978, [92 Stat. 2928][/us/stat/92/2928]; [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 401(a), Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 421(b)(4), July 18, 1984, [98 Stat. 794][/us/stat/98/794]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13213(a)(2)(E), Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 
     1976—Subsec. (c). [Pub. L. 94–455][/us/pl/94/455] substituted provision recognizing the entire amount of gain or loss, except as otherwise provided, for provision referring to section 1002 for the determination of the extent of gain or loss to be recognized.
 
-    1969—Subsec. (e). [Pub. L. 91–172, § 516(a)][/us/pl/91/172/s516/a], added subsec. (e).
+    1969—Subsec. (e). [Pub. L. 91–172][/us/pl/91/172], § 516(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 91–172, § 231(c)(2)][/us/pl/91/172/s231/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 91–172][/us/pl/91/172], § 231(c)(2), added subsec. (f).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -97,7 +97,7 @@
 
     Amendment by [section 231(c)(2) of Pub. L. 91–172][/us/pl/91/172/s231/c/2] applicable to taxable years beginning after Dec. 31, 1969, see [section 231(d) of Pub. L. 91–172][/us/pl/91/172/s231/d], set out as a note under [section 217 of this title][/us/usc/t26/s217].
 
-[Pub. L. 91–172, title V, § 516(d)][/us/pl/91/172/s516/d], Dec. 30, 1969, [83 Stat. 648][/us/stat/83/648], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–172, title V][/us/pl/91/172/tV], § 516(d), Dec. 30, 1969, [83 Stat. 648][/us/stat/83/648], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall apply to sales or other dispositions after October 9, 1969.
 
@@ -107,7 +107,7 @@
 
  __Repeals__ 
 
-    [Pub. L. 95–600, § 702(c)(9)][/us/pl/95/600/s702/c/9], cited as a credit to this section, and the amendment made thereby, were repealed by [Pub. L. 96–223, title IV, § 401(a)][/us/pl/96/223/s401/a], [94 Stat. 299][/us/stat/94/299], resulting in the text of this section reading as it read prior to enactment of section 702(c)(9). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
+    [Pub. L. 95–600][/us/pl/95/600], § 702(c)(9), cited as a credit to this section, and the amendment made thereby, were repealed by [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 401(a), [94 Stat. 299][/us/stat/94/299], resulting in the text of this section reading as it read prior to enactment of section 702(c)(9). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
 
 ----------
 
@@ -118,17 +118,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F295
-[/us/pl/91/172/s231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fc%2F2
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F579
-[/us/pl/94/455/s1901/a/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F121
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1784
-[/us/pl/95/600/s702/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fc%2F9
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2928
-[/us/pl/96/223/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs401%2Fa
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F299
-[/us/pl/98/369/s421/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs421%2Fb%2F4
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F794
-[/us/pl/103/66/s13213/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fa%2F2%2FE
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F474
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -136,8 +136,8 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/172/s516/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs516%2Fa
-[/us/pl/91/172/s231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fc%2F2
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fe
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
@@ -158,13 +158,13 @@
 [/us/pl/91/172/s231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fc%2F2
 [/us/pl/91/172/s231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs231%2Fd
 [/us/usc/t26/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs217
-[/us/pl/91/172/s516/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs516%2Fd
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F648
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1231
-[/us/pl/95/600/s702/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fc%2F9
-[/us/pl/96/223/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs401%2Fa
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F299
 
 

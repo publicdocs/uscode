@@ -29,7 +29,7 @@
 
         (B) treating gain or loss determined under this paragraph as ordinary income or loss, respectively, and sourcing such gain or loss by reference to the source of the income giving rise to post-1986 accumulated earnings.
 
-(Added [Pub. L. 99–514, title XII, § 1261(a)][/us/pl/99/514/s1261/a], Oct. 22, 1986, [100 Stat. 2586][/us/stat/100/2586]; amended [Pub. L. 100–647, title I, § 1012(v)(1)(B)][/us/pl/100/647/s1012/v/1/B], Nov. 10, 1988, [102 Stat. 3528][/us/stat/102/3528].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(a), Oct. 22, 1986, [100 Stat. 2586][/us/stat/100/2586]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(1)(B), Nov. 10, 1988, [102 Stat. 3528][/us/stat/102/3528].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2586
-[/us/pl/100/647/s1012/v/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F1%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3528
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

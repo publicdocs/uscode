@@ -121,13 +121,13 @@
 
         then, for purposes of applying subsection (d)(2) and section 541 (relating to personal holding company tax) to the subsidiary for the taxable year, there shall be taken into account under section 543(a)(5) (relating to produced film rents) any interest in a film acquired by the parent and transferred to the subsidiary as if such interest were acquired by the subsidiary at the time it was acquired by the parent.
 
-(Added [Pub. L. 92–178, title V, § 501][/us/pl/92/178/s501], Dec. 10, 1971, [85 Stat. 535][/us/stat/85/535]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–354, § 5(a)(32)][/us/pl/97/354/s5/a/32], Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 98–369, div. A, title VIII, § 802(c)(1)][/us/pl/98/369/s802/c/1], July 18, 1984, [98 Stat. 999][/us/stat/98/999]; [Pub. L. 104–188, title I, § 1616(b)(11)][/us/pl/104/188/s1616/b/11], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857]; [Pub. L. 110–172, § 11(g)(16)][/us/pl/110/172/s11/g/16], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491].)
+(Added [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 501, Dec. 10, 1971, [85 Stat. 535][/us/stat/85/535]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(32), Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 802(c)(1), July 18, 1984, [98 Stat. 999][/us/stat/98/999]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(b)(11), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(16), Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491].)
 
  __References in Text__ 
 
     The China Trade Act, referred to in subsec. (d)(6), is [act Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], [42 Stat. 849][/us/stat/42/849], as amended, which is classified generally to chapter 4 (§ 141 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 141 of Title 15][/us/usc/t15/s141] and Tables.
 
-    Section 941, referred to in subsec. (d)(6), was repealed by [Pub. L. 94–455, title X, § 1053(c)][/us/pl/94/455/s1053/c], Oct. 4, 1976, [90 Stat. 1648][/us/stat/90/1648].
+    Section 941, referred to in subsec. (d)(6), was repealed by [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1053(c), Oct. 4, 1976, [90 Stat. 1648][/us/stat/90/1648].
 
  __Amendments__ 
 
@@ -160,22 +160,22 @@
 ----------
 ----------
 
-[/us/pl/92/178/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs501
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F535
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/354/s5/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F32
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1695
-[/us/pl/98/369/s802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs802%2Fc%2F1
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F999
-[/us/pl/104/188/s1616/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F11
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
-[/us/pl/110/172/s11/g/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F16
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2491
 [/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F849
 [/us/usc/t15/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs141
-[/us/pl/94/455/s1053/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1053%2Fc
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1648
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

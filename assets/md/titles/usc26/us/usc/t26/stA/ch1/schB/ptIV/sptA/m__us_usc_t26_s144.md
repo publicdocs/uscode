@@ -423,7 +423,7 @@
 
             Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
 
-(Added [Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2621][/us/stat/100/2621]; amended [Pub. L. 100–647, title I, § 1013(a)(4)(A)][/us/pl/100/647/s1013/a/4/A], (B)(i), (ii), (C), (5), title VI, § 6176(a), Nov. 10, 1988, [102 Stat. 3537][/us/stat/102/3537], 3538, 3726; [Pub. L. 101–239, title VII, § 7105][/us/pl/101/239/s7105], Dec. 19, 1989, [103 Stat. 2306][/us/stat/103/2306]; [Pub. L. 101–508, title XI, § 11409(a)][/us/pl/101/508/s11409/a], Nov. 5, 1990, [104 Stat. 1388–478][/us/stat/104/1388-478]; [Pub. L. 102–227, title I, § 109(a)][/us/pl/102/227/s109/a], Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688]; [Pub. L. 103–66, title XIII, § 13122(a)][/us/pl/103/66/s13122/a], Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432]; [Pub. L. 108–357, title III, § 340][/us/pl/108/357/s340], Oct. 22, 2004, [118 Stat. 1485][/us/stat/118/1485]; [Pub. L. 109–222, title II, § 208][/us/pl/109/222/s208], May 17, 2006, [120 Stat. 351][/us/stat/120/351]; [Pub. L. 111–5, div. B, title I, § 1301(a)][/us/pl/111/5/s1301/a], Feb. 17, 2009, [123 Stat. 344][/us/stat/123/344].)
+(Added [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(b), Oct. 22, 1986, [100 Stat. 2621][/us/stat/100/2621]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, § 6176(a), Nov. 10, 1988, [102 Stat. 3537][/us/stat/102/3537], 3538, 3726; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7105, Dec. 19, 1989, [103 Stat. 2306][/us/stat/103/2306]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11409(a), Nov. 5, 1990, [104 Stat. 1388–478][/us/stat/104/1388-478]; [Pub. L. 102–227, title I][/us/pl/102/227/tI], § 109(a), Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13122(a), Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 340, Oct. 22, 2004, [118 Stat. 1485][/us/stat/118/1485]; [Pub. L. 109–222, title II][/us/pl/109/222/tII], § 208, May 17, 2006, [120 Stat. 351][/us/stat/120/351]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1301(a), Feb. 17, 2009, [123 Stat. 344][/us/stat/123/344].)
 
  __References in Text__ 
 
@@ -433,13 +433,13 @@
 
     The date of enactment of this clause, referred to in subsec. (a)(12)(C)(iii), is the date of enactment of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
 
-    The Higher Education Act of 1965, referred to in subsec. (b)(1), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1386][/us/stat/100/1386], which is classified to [section 1078–2 of Title 20][/us/usc/t20/s1078–2], does not contain a par. (1). Section 438 of that Act is classified to [section 1087–1 of Title 20][/us/usc/t20/s1087–1]. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
+    The Higher Education Act of 1965, referred to in subsec. (b)(1), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Section 428B(a) of that Act as enacted in the general amendment of part B of title IV of that Act by [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1386][/us/stat/100/1386], which is classified to [section 1078–2 of Title 20][/us/usc/t20/s1078–2], does not contain a par. (1). Section 438 of that Act is classified to [section 1087–1 of Title 20][/us/usc/t20/s1087–1]. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    The Public Health Service Act, referred to in subsec. (b)(1)(B), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Subpart I of part C of title VII of the Act was classified generally to subpart I (§ 294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. See subpart I (§ 292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsec. (b)(1)(B), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682]. Subpart I of part C of title VII of the Act was classified generally to subpart I (§ 294 et seq.) of part C of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, prior to the general revision of subchapter V of chapter 6A by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. See subpart I (§ 292 et seq.) of part A of revised subchapter V of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 144, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 41][/us/stat/68A/41]; Feb. 26, 1964, [Pub. L. 88–272, title I, § 112(c)][/us/pl/88/272/s112/c], title II, § 232(c), [78 Stat. 24][/us/stat/78/24], 110; Dec. 10, 1971, [Pub. L. 92–178, title II, § 206][/us/pl/92/178/s206], title III, § 301(c), [85 Stat. 511][/us/stat/85/511], 520; Oct. 4, 1976, [Pub. L. 94–455, title V, § 501(b)(3)][/us/pl/94/455/s501/b/3]–(5), title XIX, § 1906(b)(13)(A), [90 Stat. 1558][/us/stat/90/1558], 1559, 1834, related to method for electing to take standard deduction, prior to repeal by [Pub. L. 95–30, title I, § 101(d)(1)][/us/pl/95/30/s101/d/1], May 23, 1977, [91 Stat. 133][/us/stat/91/133], applicable to taxable years beginning after Dec. 31, 1976.
+    A prior section 144, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 41][/us/stat/68A/41]; Feb. 26, 1964, [Pub. L. 88–272, title I][/us/pl/88/272/tI], § 112(c), title II, § 232(c), [78 Stat. 24][/us/stat/78/24], 110; Dec. 10, 1971, [Pub. L. 92–178, title II][/us/pl/92/178/tII], § 206, title III, § 301(c), [85 Stat. 511][/us/stat/85/511], 520; Oct. 4, 1976, [Pub. L. 94–455, title V][/us/pl/94/455/tV], § 501(b)(3)–(5), title XIX, § 1906(b)(13)(A), [90 Stat. 1558][/us/stat/90/1558], 1559, 1834, related to method for electing to take standard deduction, prior to repeal by [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 101(d)(1), May 23, 1977, [91 Stat. 133][/us/stat/91/133], applicable to taxable years beginning after Dec. 31, 1976.
 
  __Amendments__ 
 
@@ -451,9 +451,9 @@
 
     2006—Subsec. (a)(4)(F), (G). [Pub. L. 109–222][/us/pl/109/222] substituted “December 31, 2006” for “September 30, 2009”.
 
-    2004—Subsec. (a)(4)(F). [Pub. L. 108–357, § 340(b)][/us/pl/108/357/s340/b], inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
+    2004—Subsec. (a)(4)(F). [Pub. L. 108–357][/us/pl/108/357], § 340(b), inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
 
-    Subsec. (a)(4)(G). [Pub. L. 108–357, § 340(a)][/us/pl/108/357/s340/a], added subpar. (G).
+    Subsec. (a)(4)(G). [Pub. L. 108–357][/us/pl/108/357], § 340(a), added subpar. (G).
 
     1993—Subsec. (a)(12)(B). [Pub. L. 103–66][/us/pl/103/66] amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
@@ -469,39 +469,39 @@
 
     1989—Subsec. (a)(12)(B). [Pub. L. 101–239][/us/pl/101/239] substituted “by substituting ‘September 30, 1990’ for ‘December 31, 1986’ ” for “by substituting ‘1989’ for ‘1986’ ”.
 
-    1988—Subsec. (a)(12)(A). [Pub. L. 100–647, § 1013(a)(4)(B)(ii)][/us/pl/100/647/s1013/a/4/B/ii], inserted sentence at end that for purposes of cl. (ii)(I), average maturity be determined in accordance with section 147(b)(2)(A).
+    1988—Subsec. (a)(12)(A). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(4)(B)(ii), inserted sentence at end that for purposes of cl. (ii)(I), average maturity be determined in accordance with section 147(b)(2)(A).
 
-    Subsec. (a)(12)(A)(ii). [Pub. L. 100–647, § 1013(a)(4)(A)][/us/pl/100/647/s1013/a/4/A], inserted “(or series of bonds)” before “issued to refund” in introductory text.
+    Subsec. (a)(12)(A)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(4)(A), inserted “(or series of bonds)” before “issued to refund” in introductory text.
 
-    Subsec. (a)(12)(A)(ii)(I). [Pub. L. 100–647, § 1013(a)(4)(B)(i)][/us/pl/100/647/s1013/a/4/B/i], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the refunding bond has a maturity date not later than the maturity date of the refunded bond,”.
+    Subsec. (a)(12)(A)(ii)(I). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(4)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the refunding bond has a maturity date not later than the maturity date of the refunded bond,”.
 
-    Subsec. (a)(12)(A)(ii)(III), (IV). [Pub. L. 100–647, § 1013(a)(4)(C)][/us/pl/100/647/s1013/a/4/C], redesignated subcl. (IV) as (III) and struck out former subcl. (III) which provided that this subsection apply when the interest rate on the refunding bond is lower than the interest rate on the refunded bond.
+    Subsec. (a)(12)(A)(ii)(III), (IV). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(4)(C), redesignated subcl. (IV) as (III) and struck out former subcl. (III) which provided that this subsection apply when the interest rate on the refunding bond is lower than the interest rate on the refunded bond.
 
-    Subsec. (a)(12)(C). [Pub. L. 100–647, § 6176(a)][/us/pl/100/647/s6176/a], inserted sentence at end defining “manufacturing facility”.
+    Subsec. (a)(12)(C). [Pub. L. 100–647][/us/pl/100/647], § 6176(a), inserted sentence at end defining “manufacturing facility”.
 
-    Subsec. (b)(1). [Pub. L. 100–647, § 1013(a)(5)][/us/pl/100/647/s1013/a/5], in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
+    Subsec. (b)(1). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1301(b)][/us/pl/111/5/s1301/b], Feb. 17, 2009, [123 Stat. 345][/us/stat/123/345], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1301(b), Feb. 17, 2009, [123 Stat. 345][/us/stat/123/345], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13122(b)][/us/pl/103/66/s13122/b], Aug. 10, 1993, [107 Stat. 433][/us/stat/107/433], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13122(b), Aug. 10, 1993, [107 Stat. 433][/us/stat/107/433], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–227, title I, § 109(b)][/us/pl/102/227/s109/b], Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688], provided that: 
+[Pub. L. 102–227, title I][/us/pl/102/227/tI], § 109(b), Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 1991.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11409(b)][/us/pl/101/508/s11409/b], Nov. 5, 1990, [104 Stat. 1388–478][/us/stat/104/1388-478], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11409(b), Nov. 5, 1990, [104 Stat. 1388–478][/us/stat/104/1388-478], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to bonds issued after September 30, 1990.”
 
@@ -509,7 +509,7 @@
 
     Amendment by section 1013(a)(4)(A), (B)(i), (ii), (C), (5) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6176(b)][/us/pl/100/647/s6176/b], Nov. 10, 1988, [102 Stat. 3726][/us/stat/102/3726], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6176(b), Nov. 10, 1988, [102 Stat. 3726][/us/stat/102/3726], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -527,13 +527,13 @@
 
  __Application of Subsection (a)(12)(A)(ii)(I) to Refunding Bonds Issued Before__  __July 1, 1987__ 
 
-[Pub. L. 100–647, title I, § 1013(a)(4)(B)(iii)][/us/pl/100/647/s1013/a/4/B/iii], Nov. 10, 1988, [102 Stat. 3538][/us/stat/102/3538], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(4)(B)(iii), Nov. 10, 1988, [102 Stat. 3538][/us/stat/102/3538], provided that: 
 
 > “A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\].”
 
  __Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)__ 
 
-[Pub. L. 100–647, title I, § 1013(c)(12)(B)][/us/pl/100/647/s1013/c/12/B], Nov. 10, 1988, [102 Stat. 3547][/us/stat/102/3547], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(c)(12)(B), Nov. 10, 1988, [102 Stat. 3547][/us/stat/102/3547], provided that: 
 
 > “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
 
@@ -544,80 +544,80 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fb
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2621
-[/us/pl/100/647/s1013/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3537
-[/us/pl/101/239/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7105
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2306
-[/us/pl/101/508/s11409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11409%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-478
-[/us/pl/102/227/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F227%2Fs109%2Fa
+[/us/pl/102/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F227%2FtI
 [/us/stat/105/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1688
-[/us/pl/103/66/s13122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13122%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F432
-[/us/pl/108/357/s340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs340
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1485
-[/us/pl/109/222/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs208
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F351
-[/us/pl/111/5/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1301%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F344
 [/us/usc/t42/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1386
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
 [/us/usc/t20/s1087–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F41
-[/us/pl/88/272/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs112%2Fc
+[/us/pl/88/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtI
 [/us/stat/78/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F24
-[/us/pl/92/178/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs206
+[/us/pl/92/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtII
 [/us/stat/85/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F511
-[/us/pl/94/455/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs501%2Fb%2F3
+[/us/pl/94/455/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtV
 [/us/stat/90/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1558
-[/us/pl/95/30/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs101%2Fd%2F1
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F133
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/108/357/s340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs340%2Fb
-[/us/pl/108/357/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs340%2Fa
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F227
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1013/a/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FB%2Fii
-[/us/pl/100/647/s1013/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FA
-[/us/pl/100/647/s1013/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FB%2Fi
-[/us/pl/100/647/s1013/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FC
-[/us/pl/100/647/s6176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6176%2Fa
-[/us/pl/100/647/s1013/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F5
-[/us/pl/111/5/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1301%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F345
-[/us/pl/103/66/s13122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13122%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F433
-[/us/pl/102/227/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F227%2Fs109%2Fb
+[/us/pl/102/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F227%2FtI
 [/us/stat/105/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1688
-[/us/pl/101/508/s11409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11409%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-478
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6176/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6176%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3726
-[/us/pl/100/647/s1013/a/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F4%2FB%2Fiii
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3538
-[/us/pl/100/647/s1013/c/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fc%2F12%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3547
 
 

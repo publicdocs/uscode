@@ -49,11 +49,11 @@
 
                 Rules similar to the rules of paragraphs (2) and (3) of section 4671(b) shall apply.
 
-(Added [Pub. L. 101–239, title VII, § 7506(a)][/us/pl/101/239/s7506/a], Dec. 19, 1989, [103 Stat. 2364][/us/stat/103/2364]; amended [Pub. L. 101–508, title XI, § 11203(c)][/us/pl/101/508/s11203/c], Nov. 5, 1990, [104 Stat. 1388–422][/us/stat/104/1388-422]; [Pub. L. 102–486, title XIX, § 1931(a)][/us/pl/102/486/s1931/a], Oct. 24, 1992, [106 Stat. 3029][/us/stat/106/3029]; [Pub. L. 105–34, title XIV, § 1432(c)(1)][/us/pl/105/34/s1432/c/1], Aug. 5, 1997, [111 Stat. 1050][/us/stat/111/1050].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7506(a), Dec. 19, 1989, [103 Stat. 2364][/us/stat/103/2364]; amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11203(c), Nov. 5, 1990, [104 Stat. 1388–422][/us/stat/104/1388-422]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1931(a), Oct. 24, 1992, [106 Stat. 3029][/us/stat/106/3029]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1432(c)(1), Aug. 5, 1997, [111 Stat. 1050][/us/stat/111/1050].)
 
  __Prior Provisions__ 
 
-    A prior section 4681, added [Pub. L. 96–510, title II, § 231(a)][/us/pl/96/510/s231/a], Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], was contained in subchapter C of this chapter prior to repeal by [Pub. L. 99–499, title V, § 514(a)(1)][/us/pl/99/499/s514/a/1], (c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
+    A prior section 4681, added [Pub. L. 96–510, title II][/us/pl/96/510/tII], § 231(a), Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], was contained in subchapter C of this chapter prior to repeal by [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(a)(1), (c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
  __Amendments__ 
 
@@ -121,19 +121,19 @@ Base tax amount:  </td>
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1931(d)][/us/pl/102/486/s1931/d], Oct. 24, 1992, [106 Stat. 3029][/us/stat/106/3029], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1931(d), Oct. 24, 1992, [106 Stat. 3029][/us/stat/106/3029], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4682 of this title][/us/usc/t26/s4682]\] shall apply to taxable chemicals sold or used on or after January 1, 1993.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11203(e)][/us/pl/101/508/s11203/e], Nov. 5, 1990, [104 Stat. 1388–423][/us/stat/104/1388-423], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11203(e), Nov. 5, 1990, [104 Stat. 1388–423][/us/stat/104/1388-423], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4682 of this title][/us/usc/t26/s4682]\] shall take effect on January 1, 1991.”
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VII, § 7506(c)][/us/pl/101/239/s7506/c], Dec. 19, 1989, [103 Stat. 2369][/us/stat/103/2369], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7506(c), Dec. 19, 1989, [103 Stat. 2369][/us/stat/103/2369], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -154,30 +154,30 @@ Base tax amount:  </td>
 ----------
 ----------
 
-[/us/pl/101/239/s7506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7506%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2364
-[/us/pl/101/508/s11203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-422
-[/us/pl/102/486/s1931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1931%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3029
-[/us/pl/105/34/s1432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1432%2Fc%2F1
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1050
-[/us/pl/96/510/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs231%2Fa
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2804
-[/us/pl/99/499/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fa%2F1
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/102/486/s1931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1931%2Fd
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3029
 [/us/usc/t26/s4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4682
-[/us/pl/101/508/s11203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fe
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-423
 [/us/usc/t26/s4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4682
-[/us/pl/101/239/s7506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7506%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2369
 
 

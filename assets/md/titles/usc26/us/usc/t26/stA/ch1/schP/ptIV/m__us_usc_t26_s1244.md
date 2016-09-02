@@ -103,7 +103,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 85–866, title II, § 202(b)][/us/pl/85/866/s202/b], Sept. 2, 1958, [72 Stat. 1676][/us/stat/72/1676]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1793, 1834; [Pub. L. 95–600, title III, § 345(a)][/us/pl/95/600/s345/a]–(d), Nov. 6, 1978, [92 Stat. 2844][/us/stat/92/2844], 2845; [Pub. L. 98–369, div. A, title IV, § 481(a)][/us/pl/98/369/s481/a], July 18, 1984, [98 Stat. 847][/us/stat/98/847]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(H)][/us/pl/113/295/s221/a/41/H], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 85–866, title II][/us/pl/85/866/tII], § 202(b), Sept. 2, 1958, [72 Stat. 1676][/us/stat/72/1676]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1793, 1834; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 345(a)–(d), Nov. 6, 1978, [92 Stat. 2844][/us/stat/92/2844], 2845; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 481(a), July 18, 1984, [98 Stat. 847][/us/stat/98/847]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(H), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Amendments__ 
 
@@ -111,19 +111,19 @@
 
     1984—Subsecs. (c)(1), (d)(2). [Pub. L. 98–369][/us/pl/98/369] substituted “stock in a” for “common stock in a”.
 
-    1978—Subsec. (b). [Pub. L. 95–600, § 345(b)][/us/pl/95/600/s345/b], substituted in par. (1) “$50,000” for “$25,000” and in par. (2) “$100,000” for “$50,000”.
+    1978—Subsec. (b). [Pub. L. 95–600][/us/pl/95/600], § 345(b), substituted in par. (1) “$50,000” for “$25,000” and in par. (2) “$100,000” for “$50,000”.
 
-    Subsec. (c). [Pub. L. 95–600, § 345(a)][/us/pl/95/600/s345/a], (c), among other changes, substituted provisions permitting a corporation to issue common stock under the provisions of this section without a written plan for provisions requiring that a written plan to issue section 1244 stock must be adopted by the issuing corporation and increased the amount of section 1244 stock that a qualified small business corporation may issue from $500,000 to $1,000,000.
+    Subsec. (c). [Pub. L. 95–600][/us/pl/95/600], § 345(a), (c), among other changes, substituted provisions permitting a corporation to issue common stock under the provisions of this section without a written plan for provisions requiring that a written plan to issue section 1244 stock must be adopted by the issuing corporation and increased the amount of section 1244 stock that a qualified small business corporation may issue from $500,000 to $1,000,000.
 
-    Subsec. (d)(2). [Pub. L. 95–600, § 345(d)][/us/pl/95/600/s345/d], substituted “subparagraph (C)” for “subparagraph (E)” and “paragraphs (1)(C) and (3)(A)” for “paragraphs (1)(E) and (2)(A)”.
+    Subsec. (d)(2). [Pub. L. 95–600][/us/pl/95/600], § 345(d), substituted “subparagraph (C)” for “subparagraph (E)” and “paragraphs (1)(C) and (3)(A)” for “paragraphs (1)(E) and (2)(A)”.
 
-    1976—Subsecs. (a), (b). [Pub. L. 94–455, § 1901(b)(3)(G)][/us/pl/94/455/s1901/b/3/G], substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
+    1976—Subsecs. (a), (b). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(G), substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
 
-    Subsec. (c)(1)(E). [Pub. L. 94–455, § 1901(b)(1)(W)][/us/pl/94/455/s1901/b/1/W], struck out reference to [section 242 of this title][/us/usc/t26/s242].
+    Subsec. (c)(1)(E). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(1)(W), struck out reference to [section 242 of this title][/us/usc/t26/s242].
 
-    Subsec. (d)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d)(3). [Pub. L. 94–455, § 1901(b)(3)(G)][/us/pl/94/455/s1901/b/3/G], substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
+    Subsec. (d)(3). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(G), substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -133,13 +133,13 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 481(b)][/us/pl/98/369/s481/b], July 18, 1984, [98 Stat. 847][/us/stat/98/847], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 481(b), July 18, 1984, [98 Stat. 847][/us/stat/98/847], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title III, § 345(e)][/us/pl/95/600/s345/e], Nov. 6, 1978, [92 Stat. 2845][/us/stat/92/2845], as amended by [Pub. L. 96–222, title I, § 103(a)(9)][/us/pl/96/222/s103/a/9], Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212], provided that:
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 345(e), Nov. 6, 1978, [92 Stat. 2845][/us/stat/92/2845], as amended by [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(9), Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -164,26 +164,26 @@
 ----------
 ----------
 
-[/us/pl/85/866/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs202%2Fb
+[/us/pl/85/866/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtII
 [/us/stat/72/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1676
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1792
-[/us/pl/95/600/s345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2844
-[/us/pl/98/369/s481/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs481%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F847
-[/us/pl/113/295/s221/a/41/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FH
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/95/600/s345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fb
-[/us/pl/95/600/s345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fa
-[/us/pl/95/600/s345/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fd
-[/us/pl/94/455/s1901/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FG
-[/us/pl/94/455/s1901/b/1/W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F1%2FW
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs242
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FG
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -193,11 +193,11 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/98/369/s481/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs481%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F847
-[/us/pl/95/600/s345/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fe
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2845
-[/us/pl/96/222/s103/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F9
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F212
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

@@ -45,7 +45,7 @@
 
         (2) any payment which is excludable from gross income by reason of section 101(g).
 
-(Added [Pub. L. 104–191, title III, § 323(a)][/us/pl/104/191/s323/a], Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; amended [Pub. L. 105–34, title XVI, § 1602(d)(1)][/us/pl/105/34/s1602/d/1], Aug. 5, 1997, [111 Stat. 1094][/us/stat/111/1094].)
+(Added [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 323(a), Aug. 21, 1996, [110 Stat. 2062][/us/stat/110/2062]; amended [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(d)(1), Aug. 5, 1997, [111 Stat. 1094][/us/stat/111/1094].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title III, § 323(d)][/us/pl/104/191/s323/d], Aug. 21, 1996, [110 Stat. 2063][/us/stat/110/2063], provided that: 
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 323(d), Aug. 21, 1996, [110 Stat. 2063][/us/stat/110/2063], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to benefits paid after December 31, 1996.”
 
@@ -68,16 +68,16 @@
 ----------
 ----------
 
-[/us/pl/104/191/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs323%2Fa
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2062
-[/us/pl/105/34/s1602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fd%2F1
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1094
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/105/34/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fi
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/104/191/s323/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs323%2Fd
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2063
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 

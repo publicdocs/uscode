@@ -81,7 +81,7 @@
 
                 (iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
 
-(Added [Pub. L. 96–598, § 6(a)][/us/pl/96/598/s6/a], Dec. 24, 1980, [94 Stat. 3488][/us/stat/94/3488]; amended [Pub. L. 98–369, div. A, title I, § 27(a)(2)][/us/pl/98/369/s27/a/2], July 18, 1984, [98 Stat. 507][/us/stat/98/507]; [Pub. L. 100–647, title V, § 5063(a)][/us/pl/100/647/s5063/a], Nov. 10, 1988, [102 Stat. 3681][/us/stat/102/3681]; [Pub. L. 101–508, title XI, § 11201(a)(2)][/us/pl/101/508/s11201/a/2], Nov. 5, 1990, [104 Stat. 1388–415][/us/stat/104/1388-415]; [Pub. L. 109–59, title XI, § 11125(b)(14)][/us/pl/109/59/s11125/b/14], Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
+(Added [Pub. L. 96–598][/us/pl/96/598], § 6(a), Dec. 24, 1980, [94 Stat. 3488][/us/stat/94/3488]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 27(a)(2), July 18, 1984, [98 Stat. 507][/us/stat/98/507]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5063(a), Nov. 10, 1988, [102 Stat. 3681][/us/stat/102/3681]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11201(a)(2), Nov. 5, 1990, [104 Stat. 1388–415][/us/stat/104/1388-415]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(14), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
 
  __Prior Provisions__ 
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5063(b)][/us/pl/100/647/s5063/b], Nov. 10, 1988, [102 Stat. 3681][/us/stat/102/3681], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5063(b), Nov. 10, 1988, [102 Stat. 3681][/us/stat/102/3681], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -117,7 +117,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–598, § 6(c)][/us/pl/96/598/s6/c], Dec. 24, 1980, [94 Stat. 3489][/us/stat/94/3489], provided that: 
+[Pub. L. 96–598][/us/pl/96/598], § 6(c), Dec. 24, 1980, [94 Stat. 3489][/us/stat/94/3489], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980.”
 
@@ -128,15 +128,15 @@
 ----------
 ----------
 
-[/us/pl/96/598/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598%2Fs6%2Fa
+[/us/pl/96/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598
 [/us/stat/94/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3488
-[/us/pl/98/369/s27/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs27%2Fa%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F507
-[/us/pl/100/647/s5063/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5063%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3681
-[/us/pl/101/508/s11201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11201%2Fa%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-415
-[/us/pl/109/59/s11125/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F14
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F603
@@ -151,12 +151,12 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11201%2Fd
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/100/647/s5063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5063%2Fb
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3681
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s27/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs27%2Fd%2F1
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/96/598/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598%2Fs6%2Fc
+[/us/pl/96/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598
 [/us/stat/94/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3489
 
 

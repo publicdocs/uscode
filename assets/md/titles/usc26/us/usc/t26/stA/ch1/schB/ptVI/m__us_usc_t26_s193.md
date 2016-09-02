@@ -47,11 +47,11 @@
 
         (2) with respect to which a deduction is allowed or allowable to the taxpayer under any other provision of this chapter.
 
-(Added [Pub. L. 96–223, title II, § 251(a)(1)][/us/pl/96/223/s251/a/1], Apr. 2, 1980, [94 Stat. 286][/us/stat/94/286]; amended [Pub. L. 97–448, title II, § 202(b)][/us/pl/97/448/s202/b], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 100–418, title I, § 1941(b)(7)][/us/pl/100/418/s1941/b/7], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
+(Added [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 251(a)(1), Apr. 2, 1980, [94 Stat. 286][/us/stat/94/286]; amended [Pub. L. 97–448, title II][/us/pl/97/448/tII], § 202(b), Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(7), Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
 
  __References in Text__ 
 
-    Section 4996(b)(8)(C), referred to in subsec. (b)(3)(A), was repealed by [Pub. L. 100–418, title I, § 1941(a)][/us/pl/100/418/s1941/a], Aug. 23, 1988, [102 Stat. 1322][/us/stat/102/1322].
+    Section 4996(b)(8)(C), referred to in subsec. (b)(3)(A), was repealed by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(a), Aug. 23, 1988, [102 Stat. 1322][/us/stat/102/1322].
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–223, title II, § 251(b)][/us/pl/96/223/s251/b], Apr. 2, 1980, [94 Stat. 287][/us/stat/94/287], provided that: 
+[Pub. L. 96–223, title II][/us/pl/96/223/tII], § 251(b), Apr. 2, 1980, [94 Stat. 287][/us/stat/94/287], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1979.”
 
@@ -80,13 +80,13 @@
 ----------
 ----------
 
-[/us/pl/96/223/s251/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs251%2Fa%2F1
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F286
-[/us/pl/97/448/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs202%2Fb
+[/us/pl/97/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtII
 [/us/stat/96/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2396
-[/us/pl/100/418/s1941/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F7
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1324
-[/us/pl/100/418/s1941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1322
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
@@ -97,7 +97,7 @@
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/97/448/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs203%2Fa
 [/us/usc/t26/s6652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6652
-[/us/pl/96/223/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs251%2Fb
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F287
 
 

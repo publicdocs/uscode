@@ -43,7 +43,7 @@
 
             The term “1st postenactment year” means the 1st taxable year of a corporation which begins after December 31, 1982.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1686][/us/stat/96/1686]; amended [Pub. L. 98–369, div. A, title VII, § 721(n)][/us/pl/98/369/s721/n], July 18, 1984, [98 Stat. 969][/us/stat/98/969].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1686][/us/stat/96/1686]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 721(n), July 18, 1984, [98 Stat. 969][/us/stat/98/969].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1379, added [Pub. L. 91–172, title V, § 531(a)][/us/pl/91/172/s531/a], Dec. 30, 1969, [83 Stat. 654][/us/stat/83/654]; amended [Pub. L. 93–406, title II, § 2001(b)][/us/pl/93/406/s2001/b], Sept. 2, 1974, [88 Stat. 952][/us/stat/88/952]; [Pub. L. 97–34, title III, § 312(c)(6)][/us/pl/97/34/s312/c/6], Aug. 13, 1981, [95 Stat. 284][/us/stat/95/284]; [Pub. L. 97–248, title II, § 238(c)][/us/pl/97/248/s238/c], Sept. 3, 1982, [96 Stat. 513][/us/stat/96/513], related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
+    A prior section 1379, added [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 531(a), Dec. 30, 1969, [83 Stat. 654][/us/stat/83/654]; amended [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 2001(b), Sept. 2, 1974, [88 Stat. 952][/us/stat/88/952]; [Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 312(c)(6), Aug. 13, 1981, [95 Stat. 284][/us/stat/95/284]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 238(c), Sept. 3, 1982, [96 Stat. 513][/us/stat/96/513], related to certain qualified pension, etc., plans, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
 
  __Amendments__ 
 
@@ -76,18 +76,18 @@
 ----------
 ----------
 
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1686
-[/us/pl/98/369/s721/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fn
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F969
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
-[/us/pl/91/172/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs531%2Fa
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F654
-[/us/pl/93/406/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fb
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F952
-[/us/pl/97/34/s312/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Fc%2F6
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F284
-[/us/pl/97/248/s238/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs238%2Fc
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F513
 [/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

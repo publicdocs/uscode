@@ -63,13 +63,13 @@
 
             (B) a net operating loss or capital loss sustained for the prior taxable year (or years), if paragraph (5)(B) of subsection (a) applied.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 348][/us/stat/68A/348]; [Pub. L. 85–866, title I, § 60(a)][/us/pl/85/866/s60/a]–(d), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 87–863, § 5(a)][/us/pl/87/863/s5/a], Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142]; [Pub. L. 88–272, title II, § 234(b)(7)][/us/pl/88/272/s234/b/7], Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; [Pub. L. 94–455, title XIX, § 1901(a)(146)][/us/pl/94/455/s1901/a/146], Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 348][/us/stat/68A/348]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 60(a)–(d), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 87–863][/us/pl/87/863], § 5(a), Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 234(b)(7), Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(146), Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788].)
 
  __References in Text__ 
 
     Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Chapter 1 was repealed by [section 7851(a)(1)(A) of this title][/us/usc/t26/s7851/a/1/A]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See also [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-    Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761, and 780 to 784 were repealed by [act Nov. 8, 1945, ch. 453][/us/act/1945-11-08/ch453], title I, § 122(a), [59 Stat. 568][/us/stat/59/568]. Section 741 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title II, §§ 224(b), 228(b), [56 Stat. 920][/us/stat/56/920], 925. Section 752 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title II, § 229(a)(1), [56 Stat. 931][/us/stat/56/931], eff. as of Oct. 8, 1940.
+    Subchapter E of chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761, and 780 to 784 were repealed by [act Nov. 8, 1945, ch. 453, title I][/us/act/1945-11-08/ch453/tI], § 122(a), [59 Stat. 568][/us/stat/59/568]. Section 741 was repealed by [act Oct. 21, 1942, ch. 619, title II][/us/act/1942-10-21/ch619/tII], §§ 224(b), 228(b), [56 Stat. 920][/us/stat/56/920], 925. Section 752 was repealed by [act Oct. 21, 1942, ch. 619, title II][/us/act/1942-10-21/ch619/tII], § 229(a)(1), [56 Stat. 931][/us/stat/56/931], eff. as of Oct. 8, 1940.
 
  __Amendments__ 
 
@@ -79,11 +79,11 @@
 
     1962—Subsec. (b)(4), (5). [Pub. L. 87–863][/us/pl/87/863] added pars. (4) and (5).
 
-    1958—Subsec. (a). [Pub. L. 85–866, § 60(a)][/us/pl/85/866/s60/a], inserted “and subchapter E of chapter 2 of such code” in last sentence.
+    1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866], § 60(a), inserted “and subchapter E of chapter 2 of such code” in last sentence.
 
-    Subsec. (b)(2). [Pub. L. 85–866, § 60(b)][/us/pl/85/866/s60/b], (c), in second sentence inserted “with respect to rates” and inserted “, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
+    Subsec. (b)(2). [Pub. L. 85–866][/us/pl/85/866], § 60(b), (c), in second sentence inserted “with respect to rates” and inserted “, or by an order of a court, or are made in settlement of litigation or under threat or imminence of litigation” and inserted last sentence.
 
-    Subsec. (b)(3). [Pub. L. 85–866, § 60(d)][/us/pl/85/866/s60/d], added par. (3).
+    Subsec. (b)(3). [Pub. L. 85–866][/us/pl/85/866], § 60(d), added par. (3).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–863, § 5(b)][/us/pl/87/863/s5/b], Oct. 23, 1962, [76 Stat. 1143][/us/stat/76/1143], provided that: 
+[Pub. L. 87–863][/us/pl/87/863], § 5(b), Oct. 23, 1962, [76 Stat. 1143][/us/stat/76/1143], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962.”
 
@@ -103,7 +103,7 @@
 
     Amendment by section 60(a), (c), (d) of [Pub. L. 85–866][/us/pl/85/866] applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see [section 1(c)(1) of Pub. L. 85–866][/us/pl/85/866/s1/c/1], set out as a note under [section 165 of this title][/us/usc/t26/s165].
 
-[Pub. L. 85–866, title I, § 60(e)][/us/pl/85/866/s60/e], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 60(e), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) \[amending this section\].”
 
@@ -116,41 +116,41 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F348
-[/us/pl/85/866/s60/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs60%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1647
-[/us/pl/87/863/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863%2Fs5%2Fa
+[/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/stat/76/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1142
-[/us/pl/88/272/s234/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs234%2Fb%2F7
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F116
-[/us/pl/94/455/s1901/a/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F146
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1788
 [/us/usc/t26/s7851/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fa%2F1%2FA
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
-[/us/act/1945-11-08/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453
+[/us/act/1945-11-08/ch453/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453%2FtI
 [/us/stat/59/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F568
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtII
 [/us/stat/56/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F920
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtII
 [/us/stat/56/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F931
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
-[/us/pl/85/866/s60/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs60%2Fa
-[/us/pl/85/866/s60/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs60%2Fb
-[/us/pl/85/866/s60/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs60%2Fd
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/272/s234/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs234%2Fc
 [/us/usc/t26/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1503
-[/us/pl/87/863/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863%2Fs5%2Fb
+[/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/stat/76/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1143
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc%2F1
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
-[/us/pl/85/866/s60/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs60%2Fe
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1647
 
 

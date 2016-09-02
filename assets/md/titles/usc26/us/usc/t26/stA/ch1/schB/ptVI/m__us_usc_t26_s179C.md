@@ -111,7 +111,7 @@
 
         No deduction shall be allowed under subsection (a) to any taxpayer for any taxable year unless such taxpayer files with the Secretary a report containing such information with respect to the operation of the refineries of the taxpayer as the Secretary shall require.
 
-(Added [Pub. L. 109–58, title XIII, § 1323(a)][/us/pl/109/58/s1323/a], Aug. 8, 2005, [119 Stat. 1013][/us/stat/119/1013]; amended [Pub. L. 110–343, div. B, title II, § 209(a)][/us/pl/110/343/s209/a], (b), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1323(a), Aug. 8, 2005, [119 Stat. 1013][/us/stat/119/1013]; amended [Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 209(a), (b), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840].)
 
  __References in Text__ 
 
@@ -121,23 +121,23 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(B). [Pub. L. 110–343, § 209(a)(1)][/us/pl/110/343/s209/a/1], substituted “January 1, 2014” for “January 1, 2012”.
+    2008—Subsec. (c)(1)(B). [Pub. L. 110–343][/us/pl/110/343], § 209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
 
-    Subsec. (c)(1)(F). [Pub. L. 110–343, § 209(a)(2)][/us/pl/110/343/s209/a/2], substituted “January 1, 2010” for “January 1, 2008” wherever appearing.
+    Subsec. (c)(1)(F). [Pub. L. 110–343][/us/pl/110/343], § 209(a)(2), substituted “January 1, 2010” for “January 1, 2008” wherever appearing.
 
-    Subsec. (d). [Pub. L. 110–343, § 209(b)(1)][/us/pl/110/343/s209/b/1], inserted “, or directly from shale or tar sands” after “(as defined in section 45K(c))”.
+    Subsec. (d). [Pub. L. 110–343][/us/pl/110/343], § 209(b)(1), inserted “, or directly from shale or tar sands” after “(as defined in section 45K(c))”.
 
-    Subsec. (e)(2). [Pub. L. 110–343, § 209(b)(2)][/us/pl/110/343/s209/b/2], inserted “shale, tar sands, or” before “qualified fuels”.
+    Subsec. (e)(2). [Pub. L. 110–343][/us/pl/110/343], § 209(b)(2), inserted “shale, tar sands, or” before “qualified fuels”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title II, § 209(c)][/us/pl/110/343/s209/c], Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], provided that: 
+[Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 209(c), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
  __Effective Date__ 
 
-[Pub. L. 109–58, title XIII, § 1323(c)][/us/pl/109/58/s1323/c], Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1323(c), Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 263, 312, and 1245 of this title\] shall apply to properties placed in service after the date of the enactment of this Act \[Aug. 8, 2005\].”
 
@@ -148,21 +148,21 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1323%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1013
-[/us/pl/110/343/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fa
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3840
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/110/343/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fa%2F1
-[/us/pl/110/343/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fa%2F2
-[/us/pl/110/343/s209/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fb%2F1
-[/us/pl/110/343/s209/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fb%2F2
-[/us/pl/110/343/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs209%2Fc
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3840
-[/us/pl/109/58/s1323/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1323%2Fc
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1015
 
 

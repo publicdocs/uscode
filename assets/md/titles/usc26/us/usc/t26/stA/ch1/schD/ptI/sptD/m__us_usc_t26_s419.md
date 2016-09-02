@@ -177,11 +177,11 @@
 
         (2) any reference in this section to the employer shall be treated as a reference to the person for whom services are provided, and any reference in this section to an employee shall be treated as a reference to the person providing the services.
 
-(Added [Pub. L. 98–369, div. A, title V, § 511(a)][/us/pl/98/369/s511/a], July 18, 1984, [98 Stat. 854][/us/stat/98/854]; amended [Pub. L. 99–514, title XVIII, § 1851(a)(1)][/us/pl/99/514/s1851/a/1], (8)(A), (b)(2)(C)(iv), Oct. 22, 1986, [100 Stat. 2858][/us/stat/100/2858], 2860, 2863; [Pub. L. 100–203, title IX, § 10201(b)(4)][/us/pl/100/203/s10201/b/4], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I, § 1018(t)(2)(C)][/us/pl/100/647/s1018/t/2/C], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587].)
+(Added [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 511(a), July 18, 1984, [98 Stat. 854][/us/stat/98/854]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(1), (8)(A), (b)(2)(C)(iv), Oct. 22, 1986, [100 Stat. 2858][/us/stat/100/2858], 2860, 2863; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 10201(b)(4), Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(t)(2)(C), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587].)
 
  __References in Text__ 
 
-    Section 501(c)(20), referred to in subsec. (e)(3)(A), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
+    Section 501(c)(20), referred to in subsec. (e)(3)(A), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(19)(B)(iii), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 
@@ -189,13 +189,13 @@
 
     1987—Subsec. (e)(2)(D). [Pub. L. 100–203][/us/pl/100/203] struck out subpar. (D) which related to a benefit with respect to which an election under section 463 applies.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–514, § 1851(b)(2)(C)(iv)(I)][/us/pl/99/514/s1851/b/2/C/iv/I], substituted “under this subchapter” for “under section 162 or 212”.
+    1986—Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 1851(b)(2)(C)(iv)(I), substituted “under this subchapter” for “under section 162 or 212”.
 
-    Subsec. (a)(2). [Pub. L. 99–514, § 1851(b)(2)(C)(iv)(II)][/us/pl/99/514/s1851/b/2/C/iv/II], substituted “they would otherwise be deductible” for “they satisfy the requirements of either of such sections”.
+    Subsec. (a)(2). [Pub. L. 99–514][/us/pl/99/514], § 1851(b)(2)(C)(iv)(II), substituted “they would otherwise be deductible” for “they satisfy the requirements of either of such sections”.
 
-    Subsec. (e)(4). [Pub. L. 99–514, § 1851(a)(8)(A)][/us/pl/99/514/s1851/a/8/A], added par. (4).
+    Subsec. (e)(4). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(8)(A), added par. (4).
 
-    Subsec. (g)(1). [Pub. L. 99–514, § 1851(a)(1)][/us/pl/99/514/s1851/a/1], substituted “such a relationship” for “such a plan”.
+    Subsec. (g)(1). [Pub. L. 99–514][/us/pl/99/514], § 1851(a)(1), substituted “such a relationship” for “such a plan”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -207,11 +207,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title V, § 511(e)][/us/pl/98/369/s511/e], July 18, 1984, [98 Stat. 862][/us/stat/98/862], as amended by [Pub. L. 99–514, title XVIII, § 1851(a)(12)][/us/pl/99/514/s1851/a/12], (14), Oct. 22, 1986, [100 Stat. 2862][/us/stat/100/2862], provided that:
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 511(e), July 18, 1984, [98 Stat. 862][/us/stat/98/862], as amended by [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(12), (14), Oct. 22, 1986, [100 Stat. 2862][/us/stat/100/2862], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -261,7 +261,7 @@
 
  __Effective Date of Regulations__ 
 
-[Pub. L. 99–514, title XVIII, § 1851(a)(8)(B)][/us/pl/99/514/s1851/a/8/B], Oct. 22, 1986, [100 Stat. 2860][/us/stat/100/2860], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(8)(B), Oct. 22, 1986, [100 Stat. 2860][/us/stat/100/2860], provided that: 
 
 > “Except in the case of a reserve for post-retirement medical or life insurance benefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a ‘fund’ no earlier than 6 months following the date such regulations are published in final form.”
 
@@ -272,22 +272,22 @@
 ----------
 ----------
 
-[/us/pl/98/369/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fa
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F854
-[/us/pl/99/514/s1851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2858
-[/us/pl/100/203/s10201/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fb%2F4
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-387
-[/us/pl/100/647/s1018/t/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F2%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
-[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/514/s1851/b/2/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fb%2F2%2FC%2Fiv%2FI
-[/us/pl/99/514/s1851/b/2/C/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fb%2F2%2FC%2Fiv%2FII
-[/us/pl/99/514/s1851/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F8%2FA
-[/us/pl/99/514/s1851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
@@ -296,19 +296,19 @@
 [/us/pl/100/203/s10201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fc%2F1
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fe
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F862
-[/us/pl/99/514/s1851/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F12
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2862
 [/us/usc/t26/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs512
 [/us/usc/t26/s4976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4976
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1851/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F8%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2860
 
 

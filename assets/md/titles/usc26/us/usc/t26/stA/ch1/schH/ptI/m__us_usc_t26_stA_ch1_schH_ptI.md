@@ -75,11 +75,11 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title IX, § 901(d)(4)(H)][/us/pl/99/514/s901/d/4/H], Oct. 22, 1986, [100 Stat. 2380][/us/stat/100/2380], struck out item 586 “Reserves for losses on loans of small business investment companies, etc.”
+    1986—[Pub. L. 99–514, title IX][/us/pl/99/514/tIX], § 901(d)(4)(H), Oct. 22, 1986, [100 Stat. 2380][/us/stat/100/2380], struck out item 586 “Reserves for losses on loans of small business investment companies, etc.”
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(18)][/us/pl/94/455/s1901/b/18], Oct. 4, 1976, [90 Stat. 1796][/us/stat/90/1796], struck out item 583 “Deductions of dividends paid on certain preferred stock”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(18), Oct. 4, 1976, [90 Stat. 1796][/us/stat/90/1796], struck out item 583 “Deductions of dividends paid on certain preferred stock”.
 
-    1969—[Pub. L. 91–172, title IV, § 431(c)(2)][/us/pl/91/172/s431/c/2], Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], substituted “Bad debts, losses, and gains with respect to securities held by financial institutions”, for “Bad debt and loss deduction with respect to securities held by banks” in item 582, and added items 585 and 586.
+    1969—[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 431(c)(2), Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], substituted “Bad debts, losses, and gains with respect to securities held by financial institutions”, for “Bad debt and loss deduction with respect to securities held by banks” in item 582, and added items 585 and 586.
 
 ----------
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/99/514/s901/d/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fd%2F4%2FH
+[/us/pl/99/514/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIX
 [/us/stat/100/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2380
-[/us/pl/94/455/s1901/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F18
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1796
-[/us/pl/91/172/s431/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs431%2Fc%2F2
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F620
 
 

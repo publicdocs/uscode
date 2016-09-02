@@ -117,17 +117,17 @@
 
         Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
-(Added [Pub. L. 99–509, title VIII, § 8033(a)][/us/pl/99/509/s8033/a], Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959], § 9507; renumbered § 9509, [Pub. L. 99–509, title VIII, § 8033(c)(2)(B)][/us/pl/99/509/s8033/c/2/B], Oct. 21, 1986, [100 Stat. 1962][/us/stat/100/1962]; amended [Pub. L. 100–647, title I, § 1018(u)(20)][/us/pl/100/647/s1018/u/20], Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7505(d)(2), 7811(m)(3), Dec. 19, 1989, [103 Stat. 2364][/us/stat/103/2364], 2412; [Pub. L. 101–380, title IX, § 9001][/us/pl/101/380/s9001], Aug. 18, 1990, [104 Stat. 573][/us/stat/104/573].)
+(Added [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8033(a), Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959], § 9507; renumbered § 9509, [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8033(c)(2)(B), Oct. 21, 1986, [100 Stat. 1962][/us/stat/100/1962]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(20), Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7505(d)(2), 7811(m)(3), Dec. 19, 1989, [103 Stat. 2364][/us/stat/103/2364], 2412; [Pub. L. 101–380, title IX][/us/pl/101/380/tIX], § 9001, Aug. 18, 1990, [104 Stat. 573][/us/stat/104/573].)
 
  __References in Text__ 
 
     The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is [Pub. L. 101–380][/us/pl/101/380], Aug. 18, 1990, [104 Stat. 484][/us/stat/104/484], which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 33][/us/usc/t33/s2701] and Tables.
 
-    Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to [section 1321 of Title 33][/us/usc/t33/s1321]. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by [Pub. L. 101–380, title IV, § 4201(b)][/us/pl/101/380/s4201/b], Aug. 18, 1990, [104 Stat. 525][/us/stat/104/525]. Subsec. (k) of section 311 was repealed by [Pub. L. 101–380, title II, § 2002(b)(2)][/us/pl/101/380/s2002/b/2], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507].
+    Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to [section 1321 of Title 33][/us/usc/t33/s1321]. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4201(b), Aug. 18, 1990, [104 Stat. 525][/us/stat/104/525]. Subsec. (k) of section 311 was repealed by [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2002(b)(2), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507].
 
-    The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is [Pub. L. 93–627][/us/pl/93/627], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33. Section 18 of the Act was classified to [section 1517 of Title 33][/us/usc/t33/s1517] prior to its repeal by [Pub. L. 101–380, title II, § 2003(a)(2)][/us/pl/101/380/s2003/a/2], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33][/us/usc/t33/s1501] and Tables.
+    The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is [Pub. L. 93–627][/us/pl/93/627], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33. Section 18 of the Act was classified to [section 1517 of Title 33][/us/usc/t33/s1517] prior to its repeal by [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2003(a)(2), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507]. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33][/us/usc/t33/s1501] and Tables.
 
-    Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to [section 1812 of Title 43][/us/usc/t43/s1812], Public Lands, prior to its repeal by [Pub. L. 101–380, title II, § 2004][/us/pl/101/380/s2004], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507].
+    Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to [section 1812 of Title 43][/us/usc/t43/s1812], Public Lands, prior to its repeal by [Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2004, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507].
 
     Sections 204 and 207 of the Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(7), (8), are classified to sections 1653 and 1656, respectively, of Title 43.
 
@@ -139,7 +139,7 @@
 
  __Amendments__ 
 
-    1990—Subsec. (b)(2) to (8). [Pub. L. 101–380, § 9001(a)][/us/pl/101/380/s9001/a], added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
+    1990—Subsec. (b)(2) to (8). [Pub. L. 101–380][/us/pl/101/380], § 9001(a), added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
 
     “(2) amounts recovered, collected, or received under subtitle A of the Comprehensive Oil Pollution Liability and Compensation Act,
 
@@ -149,29 +149,29 @@
 
     “(5) amounts credited to such trust fund under section 311(s) of the Federal Water Pollution Control Act.”
 
-    Subsec. (c)(1). [Pub. L. 101–380, § 9001(b)][/us/pl/101/380/s9001/b], amended par. (1) generally, substituting “Expenditure purposes” for “General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
+    Subsec. (c)(1). [Pub. L. 101–380][/us/pl/101/380], § 9001(b), amended par. (1) generally, substituting “Expenditure purposes” for “General expenditure purposes” in heading and substituting current text consisting of subpars. (A) to (F) for former text consisting of general provisions in subpar. (A) and special rules in subpar. (B).
 
-    Subsec. (c)(2)(A). [Pub. L. 101–380, § 9001(c)][/us/pl/101/380/s9001/c], substituted “$1,000,000,000” for “$500,000,000” in heading and in cl. (i), and substituted “$500,000,000” for “$250,000,000” in cl. (ii).
+    Subsec. (c)(2)(A). [Pub. L. 101–380][/us/pl/101/380], § 9001(c), substituted “$1,000,000,000” for “$500,000,000” in heading and in cl. (i), and substituted “$500,000,000” for “$250,000,000” in cl. (ii).
 
-    Subsec. (c)(2)(B). [Pub. L. 101–380, § 9001(e)(2)][/us/pl/101/380/s9001/e/2], substituted “payments of removal costs” for “payments described in paragraph (1)(A)(i)”.
+    Subsec. (c)(2)(B). [Pub. L. 101–380][/us/pl/101/380], § 9001(e)(2), substituted “payments of removal costs” for “payments described in paragraph (1)(A)(i)”.
 
-    Subsec. (d)(2). [Pub. L. 101–380, § 9001(d)(1)][/us/pl/101/380/s9001/d/1], substituted “$1,000,000,000” for “$500,000,000”.
+    Subsec. (d)(2). [Pub. L. 101–380][/us/pl/101/380], § 9001(d)(1), substituted “$1,000,000,000” for “$500,000,000”.
 
-    Subsec. (d)(3)(B). [Pub. L. 101–380, § 9001(d)(2)][/us/pl/101/380/s9001/d/2], substituted “December 31, 1994” for “December 31, 1991”.
+    Subsec. (d)(3)(B). [Pub. L. 101–380][/us/pl/101/380], § 9001(d)(2), substituted “December 31, 1994” for “December 31, 1991”.
 
-    Subsec. (e)(2). [Pub. L. 101–380, § 9001(e)(1)][/us/pl/101/380/s9001/e/1], substituted “Oil Pollution Act of 1990” for “Comprehensive Oil Pollution Liability and Compensation Act”.
+    Subsec. (e)(2). [Pub. L. 101–380][/us/pl/101/380], § 9001(e)(1), substituted “Oil Pollution Act of 1990” for “Comprehensive Oil Pollution Liability and Compensation Act”.
 
-    Subsec. (f). [Pub. L. 101–380, § 9001(e)(3)][/us/pl/101/380/s9001/e/3], substituted “References to Oil Pollution Act of 1990” for “References to Comprehensive Oil Pollution Liability and Compensation Act” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, references to the Comprehensive Oil Pollution Liability and Compensation Act shall be treated as references to any law enacted before December 31, 1990, which is substantially identical to subtitle E of title VI, or subtitle D of title VIII, of H.R. 5300 of the 99th Congress as passed by the House of Representatives.”
+    Subsec. (f). [Pub. L. 101–380][/us/pl/101/380], § 9001(e)(3), substituted “References to Oil Pollution Act of 1990” for “References to Comprehensive Oil Pollution Liability and Compensation Act” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, references to the Comprehensive Oil Pollution Liability and Compensation Act shall be treated as references to any law enacted before December 31, 1990, which is substantially identical to subtitle E of title VI, or subtitle D of title VIII, of H.R. 5300 of the 99th Congress as passed by the House of Representatives.”
 
-    1989—Subsec. (b)(3). [Pub. L. 101–239, § 7811(m)(3)][/us/pl/101/239/s7811/m/3], made technical correction to directory language of [Pub. L. 100–647][/us/pl/100/647], see 1988 Amendment note below.
+    1989—Subsec. (b)(3). [Pub. L. 101–239][/us/pl/101/239], § 7811(m)(3), made technical correction to directory language of [Pub. L. 100–647][/us/pl/100/647], see 1988 Amendment note below.
 
-    [Pub. L. 101–239, § 7505(d)(2)(B)][/us/pl/101/239/s7505/d/2/B], substituted “(on January 1, 1990)” for “(on the 1st day the Oil Spill Liability Trust Fund financing rate under section 4611(c) applies)”.
+    [Pub. L. 101–239][/us/pl/101/239], § 7505(d)(2)(B), substituted “(on January 1, 1990)” for “(on the 1st day the Oil Spill Liability Trust Fund financing rate under section 4611(c) applies)”.
 
-    Subsec. (c)(1)(A). [Pub. L. 101–239, § 7505(d)(2)(C)][/us/pl/101/239/s7505/d/2/C], which directed amendment of subsec. (c)(1) by striking the last sentence, was executed by striking out the last sentence of subsec. (c)(1)(A), as the probable intent of Congress. Such sentence read as follows: “For purposes of this subparagraph, references to the Comprehensive Oil Pollution Liability and Compensation Act shall be treated as references to qualified authorizing legislation (as defined in section 4611).”
+    Subsec. (c)(1)(A). [Pub. L. 101–239][/us/pl/101/239], § 7505(d)(2)(C), which directed amendment of subsec. (c)(1) by striking the last sentence, was executed by striking out the last sentence of subsec. (c)(1)(A), as the probable intent of Congress. Such sentence read as follows: “For purposes of this subparagraph, references to the Comprehensive Oil Pollution Liability and Compensation Act shall be treated as references to qualified authorizing legislation (as defined in section 4611).”
 
-    Subsec. (f). [Pub. L. 101–239, § 7505(d)(2)(A)][/us/pl/101/239/s7505/d/2/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–239][/us/pl/101/239], § 7505(d)(2)(A), added subsec. (f).
 
-    1988—Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], as amended by [Pub. L. 101–239, § 7811(m)(3)][/us/pl/101/239/s7811/m/3], substituted “Deepwater” for “Deep Water” wherever appearing.
+    1988—Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], as amended by [Pub. L. 101–239][/us/pl/101/239], § 7811(m)(3), substituted “Deepwater” for “Deep Water” wherever appearing.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -187,7 +187,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–509, title VIII, § 8033(c)(1)][/us/pl/99/509/s8033/c/1], Oct. 21, 1986, [100 Stat. 1961][/us/stat/100/1961], provided that: 
+[Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8033(c)(1), Oct. 21, 1986, [100 Stat. 1961][/us/stat/100/1961], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the commencement date (as defined in section 4611 of the Internal Revenue Code of 1954 \[now 1986\], as amended by this part).”
 
@@ -195,11 +195,11 @@
 
  __Report on Oil Spill Liability Trust Fund__ 
 
-[Pub. L. 107–295, title III, § 322(a)][/us/pl/107/295/s322/a], Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103], provided that: 
+[Pub. L. 107–295, title III][/us/pl/107/295/tIII], § 322(a), Nov. 25, 2002, [116 Stat. 2103][/us/stat/116/2103], provided that: 
 
 > “The report regarding the Oil Spill Liability Trust Fund required by the Conference Report (House Report 101–892) accompanying the Department of Transportation and Related Agencies Appropriations Act, 1991, \[[Pub. L. 101–516][/us/pl/101/516]\] as that requirement was amended by section 1122 of the Federal Reports Elimination and Sunset Act of 1995 ([Public Law 104–66][/us/pl/104/66]) \[see below\], shall no longer be submitted to the Congress.”
 
-[Pub. L. 104–66, title I, § 1122(a)][/us/pl/104/66/s1122/a], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], provided that: 
+[Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1122(a), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724], provided that: 
 
 > “The quarterly report regarding the Oil Spill Liability Trust Fund required to be submitted to the House and Senate Committees on Appropriations under House Report 101–892, accompanying the appropriations for the Coast Guard in the Department of Transportation and Related Agencies Appropriations Act, 1991 \[[Pub. L. 101–516][/us/pl/101/516]\], shall be submitted not later than 30 days after the end of the fiscal year in which this Act is enacted and annually thereafter.”
 
@@ -207,25 +207,25 @@
 
  __Deepwater Port Liability Fund__ 
 
-[Pub. L. 101–380, title II, § 2003(b)][/us/pl/101/380/s2003/b], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
+[Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2003(b), Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
 
 > “Any amounts remaining in the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974 (33 U.S.C. \[former\] 1517(f)) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Deepwater Port Liability Fund.”
 
  __Offshore Oil Pollution Compensation Fund__ 
 
-[Pub. L. 101–380, title II, § 2004][/us/pl/101/380/s2004], Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
+[Pub. L. 101–380, title II][/us/pl/101/380/tII], § 2004, Aug. 18, 1990, [104 Stat. 507][/us/stat/104/507], provided that: 
 
 > “Title III of the Outer Continental Shelf Lands Act Amendments of 1978 ([43 U.S.C. 1811–182][/us/usc/t43/s1811–182]4) is repealed. Any amounts remaining in the Offshore Oil Pollution Compensation Fund established under section 302 of that title ([43 U.S.C. 1812][/us/usc/t43/s1812]) shall be deposited in the Oil Spill Liability Trust Fund established under section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]). The Oil Spill Liability Trust Fund shall assume all liability incurred by the Offshore Oil Pollution Compensation Fund.”
 
  __Deposit of Certain Penalties Into Oil Spill Liability Trust Fund__ 
 
-[Pub. L. 101–380, title IV, § 4304][/us/pl/101/380/s4304], Aug. 18, 1990, [104 Stat. 540][/us/stat/104/540], provided that: 
+[Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4304, Aug. 18, 1990, [104 Stat. 540][/us/stat/104/540], provided that: 
 
 > “Penalties paid pursuant to section 311 of the Federal Water Pollution Control Act \[[33 U.S.C. 1321][/us/usc/t33/s1321]\], section 309(c) of that Act \[[33 U.S.C. 1319(c)][/us/usc/t33/s1319/c]\], as a result of violations of section 311 of that Act, and the Deepwater Port Act of 1974 \[[33 U.S.C. 1501][/us/usc/t33/s1501] et seq.\], shall be deposited in the Oil Spill Liability Trust Fund created under section 9509 of the Internal Revenue Code of 1986 ([26 U.S.C. 9509][/us/usc/t26/s9509]).”
 
  __Coordination With Superfund Reauthorization__ 
 
-[Pub. L. 99–509, title VIII, § 8033(c)(2)][/us/pl/99/509/s8033/c/2], Oct. 21, 1986, [100 Stat. 1961][/us/stat/100/1961], provided that: 
+[Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8033(c)(2), Oct. 21, 1986, [100 Stat. 1961][/us/stat/100/1961], provided that: 
 
 > “If the Superfund Amendments and Reauthorization Act of 1986 \[[Pub. L. 99–499][/us/pl/99/499], see Short Title of 1986 Amendment note set out under [section 9601 of Title 42][/us/usc/t42/s9601], The Public Health and Welfare\] is enacted—
 
@@ -242,50 +242,50 @@
 ----------
 ----------
 
-[/us/pl/99/509/s8033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fa
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1959
-[/us/pl/99/509/s8033/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc%2F2%2FB
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1962
-[/us/pl/100/647/s1018/u/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F20
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3591
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2364
-[/us/pl/101/380/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001
+[/us/pl/101/380/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIX
 [/us/stat/104/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F573
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
-[/us/pl/101/380/s4201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F525
-[/us/pl/101/380/s2002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2002%2Fb%2F2
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2126
 [/us/usc/t33/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1517
-[/us/pl/101/380/s2003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2003%2Fa%2F2
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
 [/us/usc/t43/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1812
-[/us/pl/101/380/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2004
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t33/s1319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fc
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
-[/us/pl/101/380/s9001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fa
-[/us/pl/101/380/s9001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fb
-[/us/pl/101/380/s9001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fc
-[/us/pl/101/380/s9001/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fe%2F2
-[/us/pl/101/380/s9001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fd%2F1
-[/us/pl/101/380/s9001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fd%2F2
-[/us/pl/101/380/s9001/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fe%2F1
-[/us/pl/101/380/s9001/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs9001%2Fe%2F3
-[/us/pl/101/239/s7811/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fm%2F3
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/101/239/s7505/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7505%2Fd%2F2%2FB
-[/us/pl/101/239/s7505/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7505%2Fd%2F2%2FC
-[/us/pl/101/239/s7505/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7505%2Fd%2F2%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/101/239/s7811/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fm%2F3
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/pl/101/380/s1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs1020
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
@@ -297,35 +297,35 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/509/s8033/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc%2F1
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1961
 [/us/pl/99/509/s8033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc
 [/us/pl/101/239/s7505/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7505%2Fd%2F1
 [/us/usc/t26/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4611
-[/us/pl/107/295/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2Fs322%2Fa
+[/us/pl/107/295/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F295%2FtIII
 [/us/stat/116/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2103
 [/us/pl/101/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/104/66/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1122%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/pl/101/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F516
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/usc/t33/s2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2733
-[/us/pl/101/380/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2003%2Fb
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
-[/us/pl/101/380/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs2004
+[/us/pl/101/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtII
 [/us/stat/104/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F507
 [/us/usc/t43/s1811–182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1811%E2%80%93182
 [/us/usc/t43/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1812
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
-[/us/pl/101/380/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4304
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F540
 [/us/usc/t33/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321
 [/us/usc/t33/s1319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1319%2Fc
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501
 [/us/usc/t26/s9509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9509
-[/us/pl/99/509/s8033/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc%2F2
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1961
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601

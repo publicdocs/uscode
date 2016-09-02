@@ -59,27 +59,27 @@
 
         For purposes of this section and section 2038, any transfer from any portion of a trust during any period that such portion was treated under section 676 as owned by the decedent by reason of a power in the grantor (determined without regard to section 672(e)) shall be treated as a transfer made directly by the decedent.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 87–834, § 18(a)(2)(C)][/us/pl/87/834/s18/a/2/C], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX, § 2001(a)(5)][/us/pl/94/455/s2001/a/5], Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]; [Pub. L. 95–600, title VII, § 702(f)(1)][/us/pl/95/600/s702/f/1], Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV][/us/pl/97/34], §§ 403(b)(3)(B), 424(a), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 317; [Pub. L. 97–448, title I, § 104(a)(9)][/us/pl/97/448/s104/a/9], (d)(1)(A), (C), (2), Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381], 2383; [Pub. L. 105–34, title XIII, § 1310(a)][/us/pl/105/34/s1310/a], Aug. 5, 1997, [111 Stat. 1043][/us/stat/111/1043]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(14)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 87–834][/us/pl/87/834], § 18(a)(2)(C), Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(a)(5), Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(f)(1), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], §§ 403(b)(3)(B), 424(a), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 317; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(a)(9), (d)(1)(A), (C), (2), Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381], 2383; [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1310(a), Aug. 5, 1997, [111 Stat. 1043][/us/stat/111/1043]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(14)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
 
  __Amendments__ 
 
-    2000—Subsec. (c)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(14)(A)\], substituted “subsection (a)” for “paragraph (1)”.
+    2000—Subsec. (c)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(14)(A)\], substituted “subsection (a)” for “paragraph (1)”.
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(14)(B)\], inserted “and paragraph (1) of subsection (c)” after “Subsection (a)”.
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(14)(B)\], inserted “and paragraph (1) of subsection (c)” after “Subsection (a)”.
 
     1997—[Pub. L. 105–34][/us/pl/105/34] amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to adjustments for gifts made within 3 years of decedent’s death.
 
-    1983—Subsec. (b)(2). [Pub. L. 97–448, § 104(a)(9)][/us/pl/97/448/s104/a/9], substituted “section 6019(2)” for “section 6019(a)(2)”.
+    1983—Subsec. (b)(2). [Pub. L. 97–448][/us/pl/97/448], § 104(a)(9), substituted “section 6019(2)” for “section 6019(a)(2)”.
 
-    Subsec. (d)(2). [Pub. L. 97–448, § 104(d)(2)][/us/pl/97/448/s104/d/2], inserted “of this subsection and paragraph (2) of subsection (b)” after “Paragraph (1)”, and struck out “2041,” after “2038,”.
+    Subsec. (d)(2). [Pub. L. 97–448][/us/pl/97/448], § 104(d)(2), inserted “of this subsection and paragraph (2) of subsection (b)” after “Paragraph (1)”, and struck out “2041,” after “2038,”.
 
-    Subsec. (d)(3)(C), (D). [Pub. L. 97–448, § 104(d)(1)(C)][/us/pl/97/448/s104/d/1/C], redesignated subpar. (D) as (C). Former subpar. (C), which referred to section 6166 (relating to extension of time for payment of estate tax where estate consists largely of interest in closely held business), was struck out.
+    Subsec. (d)(3)(C), (D). [Pub. L. 97–448][/us/pl/97/448], § 104(d)(1)(C), redesignated subpar. (D) as (C). Former subpar. (C), which referred to section 6166 (relating to extension of time for payment of estate tax where estate consists largely of interest in closely held business), was struck out.
 
-    Subsec. (d)(4). [Pub. L. 97–448, § 104(d)(1)(A)][/us/pl/97/448/s104/d/1/A], added par. (4).
+    Subsec. (d)(4). [Pub. L. 97–448][/us/pl/97/448], § 104(d)(1)(A), added par. (4).
 
-    1981—Subsec. (b)(2). [Pub. L. 97–34, § 403(b)(3)(B)][/us/pl/97/34/s403/b/3/B], inserted “(other than by reason of section 6019(a)(2))” after “section 6019”.
+    1981—Subsec. (b)(2). [Pub. L. 97–34][/us/pl/97/34], § 403(b)(3)(B), inserted “(other than by reason of section 6019(a)(2))” after “section 6019”.
 
-    Subsec. (d). [Pub. L. 97–34, § 424(a)][/us/pl/97/34/s424/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–34][/us/pl/97/34], § 424(a), added subsec. (d).
 
     1978—Subsec. (b). [Pub. L. 95–600][/us/pl/95/600] substituted in par. (2) provisions relating to gifts for which donee was not required by section 6019 to file gift tax returns for provisions relating to gifts excludable in computing taxable gifts by reason of section 2503(b) and inserted provisions following par. (2) relating to inapplicability of par. (2) to transfers respecting life insurance policies.
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1310(c)][/us/pl/105/34/s1310/c], Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1310(c), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -101,13 +101,13 @@
 
     Amendment by [section 403(b)(3)(B) of Pub. L. 97–34][/us/pl/97/34/s403/b/3/B] applicable to estates of decedents dying after Dec. 31, 1981, see [section 403(e) of Pub. L. 97–34][/us/pl/97/34/s403/e], set out as a note under [section 2056 of this title][/us/usc/t26/s2056].
 
-[Pub. L. 97–34, title IV, § 424(b)][/us/pl/97/34/s424/b], Aug. 13, 1981, [95 Stat. 317][/us/stat/95/317], provided that: 
+[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 424(b), Aug. 13, 1981, [95 Stat. 317][/us/stat/95/317], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1981.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(f)(2)][/us/pl/95/600/s702/f/2], Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(f)(2), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976, except that it shall not apply to transfers made before January 1, 1977.”
 
@@ -121,7 +121,7 @@
 
  __Transfers Made by Decedent During 1977; Election Available to Executor On or Before Due Date for Filing Estate Tax Return__ 
 
-[Pub. L. 96–222, title I, § 107(a)(2)(F)][/us/pl/96/222/s107/a/2/F], Apr. 1, 1980, [94 Stat. 223][/us/stat/94/223], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 96–222, title I][/us/pl/96/222/tI], § 107(a)(2)(F), Apr. 1, 1980, [94 Stat. 223][/us/stat/94/223], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(i) If the executor elects the benefits of this subparagraph with respect to any estate, section 2035(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to adjustments for gifts made within 3 years of decedent’s death) shall be applied with respect to transfers made by the decedent during 1977 as if paragraph (2) of such section 2035(b) read as follows:    “ ‘(2) to any gift to a donee made during 1977 to the extent of the amount of such gift which was excludable in computing taxable gifts by reason of section 2503(b) (relating to $3,000 annual exclusion for purposes of the gift tax) determined without regard to section 2513(a).’
 
@@ -142,33 +142,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F381
-[/us/pl/87/834/s18/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F2%2FC
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1052
-[/us/pl/94/455/s2001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fa%2F5
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1848
-[/us/pl/95/600/s702/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Ff%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
-[/us/pl/97/448/s104/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F9
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2381
-[/us/pl/105/34/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1310%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1043
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/97/448/s104/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F9
-[/us/pl/97/448/s104/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fd%2F2
-[/us/pl/97/448/s104/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fd%2F1%2FC
-[/us/pl/97/448/s104/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fd%2F1%2FA
-[/us/pl/97/34/s403/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fb%2F3%2FB
-[/us/pl/97/34/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs424%2Fa
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
-[/us/pl/105/34/s1310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1310%2Fc
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1044
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
@@ -177,9 +177,9 @@
 [/us/pl/97/34/s403/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fb%2F3%2FB
 [/us/pl/97/34/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fe
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
-[/us/pl/97/34/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs424%2Fb
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F317
-[/us/pl/95/600/s702/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Ff%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
@@ -187,9 +187,9 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fb
 [/us/usc/t26/s2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2031
-[/us/pl/96/222/s107/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs107%2Fa%2F2%2FF
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F223
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

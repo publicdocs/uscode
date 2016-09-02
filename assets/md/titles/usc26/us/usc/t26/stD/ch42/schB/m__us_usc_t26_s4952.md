@@ -57,13 +57,13 @@
 
             (B) the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added [Pub. L. 95–227, § 4(c)(1)][/us/pl/95/227/s4/c/1], Feb. 10, 1978, [92 Stat. 21][/us/stat/92/21]; amended [Pub. L. 96–596, § 2(a)(1)(I)][/us/pl/96/596/s2/a/1/I], (2)(G), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471.)
+(Added [Pub. L. 95–227][/us/pl/95/227], § 4(c)(1), Feb. 10, 1978, [92 Stat. 21][/us/stat/92/21]; amended [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(I), (2)(G), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471.)
 
  __Amendments__ 
 
-    1980—Subsec. (b)(1). [Pub. L. 96–596, § 2(a)(1)(I)][/us/pl/96/596/s2/a/1/I], substituted “taxable period” for “correction period”.
+    1980—Subsec. (b)(1). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(I), substituted “taxable period” for “correction period”.
 
-    Subsec. (e)(2). [Pub. L. 96–596, § 2(a)(2)(G)][/us/pl/96/596/s2/a/2/G], substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212] or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing a notice of deficiency under [section 6212 of this title][/us/usc/t26/s6212] with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines reasonable and necessary to bring about the correction of the taxable expenditure.
+    Subsec. (e)(2). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(2)(G), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212] or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing a notice of deficiency under [section 6212 of this title][/us/usc/t26/s6212] with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines reasonable and necessary to bring about the correction of the taxable expenditure.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -76,12 +76,12 @@
 ----------
 ----------
 
-[/us/pl/95/227/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F1
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F21
-[/us/pl/96/596/s2/a/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FI
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3469
-[/us/pl/96/596/s2/a/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FI
-[/us/pl/96/596/s2/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F2%2FG
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa

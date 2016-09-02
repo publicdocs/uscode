@@ -115,7 +115,7 @@
 
         In the case of a distribution from a trust to a nonresident alien individual or to a foreign corporation, the first sentence of subsection (a) shall be applied as if the reference to the determination of character under section 662(b) applied to all amounts instead of just to tax-exempt interest.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 225][/us/stat/68A/225]; [Pub. L. 91–172, title III, § 331(a)][/us/pl/91/172/s331/a], Dec. 30, 1969, [83 Stat. 594][/us/stat/83/594]; [Pub. L. 94–455, title VII, § 701(a)(1)][/us/pl/94/455/s701/a/1], title X, § 1014(a), Oct. 4, 1976, [90 Stat. 1575][/us/stat/90/1575], 1617; [Pub. L. 95–30, title I, § 102(b)(8)][/us/pl/95/30/s102/b/8], May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–600, title VII][/us/pl/95/600], §§ 701(q)(1)(B), (C), (r)(1), 702(o)(1), Nov. 6, 1978, [92 Stat. 2909][/us/stat/92/2909], 2910, 2936; [Pub. L. 99–514, title I, § 104(b)(10)][/us/pl/99/514/s104/b/10], Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 225][/us/stat/68A/225]; [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(a), Dec. 30, 1969, [83 Stat. 594][/us/stat/83/594]; [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(a)(1), title X, § 1014(a), Oct. 4, 1976, [90 Stat. 1575][/us/stat/90/1575], 1617; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 102(b)(8), May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], §§ 701(q)(1)(B), (C), (r)(1), 702(o)(1), Nov. 6, 1978, [92 Stat. 2909][/us/stat/92/2909], 2910, 2936; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(10), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105].)
 
  __Amendments__ 
 
@@ -125,13 +125,13 @@
 
     “(B) in the case of a beneficiary who is a corporation, zero.”
 
-    1978—Subsec. (b)(1). [Pub. L. 95–600, § 701(q)(1)(C)][/us/pl/95/600/s701/q/1/C], inserted in last sentence “(other than the amount of taxes described in section 665(d)(2))” after “taxes”.
+    1978—Subsec. (b)(1). [Pub. L. 95–600][/us/pl/95/600], § 701(q)(1)(C), inserted in last sentence “(other than the amount of taxes described in section 665(d)(2))” after “taxes”.
 
-    Subsec. (b)(6). [Pub. L. 95–600, § 702][/us/pl/95/600/s702](o)(1), added par. (6).
+    Subsec. (b)(6). [Pub. L. 95–600][/us/pl/95/600], § 702(o)(1), added par. (6).
 
-    Subsec. (d). [Pub. L. 95–600, § 701(q)(1)(B)][/us/pl/95/600/s701/q/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–600][/us/pl/95/600], § 701(q)(1)(B), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 95–600, § 701(r)(1)][/us/pl/95/600/s701/r/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–600][/us/pl/95/600], § 701(r)(1), added subsec. (e).
 
     1977—Subsec. (b)(2). [Pub. L. 95–30][/us/pl/95/30] substituted “not less than (A) in the case of a beneficiary who is an individual, the zero bracket amount for such year, or (B) in the case of a beneficiary who is a corporation, zero” for “not less than zero”.
 
@@ -149,7 +149,7 @@
 
     Amendment by section 701(q)(1)(B), (C) of [Pub. L. 95–600][/us/pl/95/600] applicable to distributions made in taxable years beginning after Dec. 31, 1975, see [section 701(q)(3)(A) of Pub. L. 95–600][/us/pl/95/600/s701/q/3/A], set out as a note under [section 665 of this title][/us/usc/t26/s665].
 
-[Pub. L. 95–600, title VII, § 702][/us/pl/95/600/s702](o)(2), Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(o)(2), Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply—
 
@@ -157,7 +157,7 @@
 
 >     “(B) in the case of the tax imposed by chapter 13 \[section 2601 et seq. of this title\], to any generation-skipping transfer (within the meaning of section 2611(a) of such Code) made after June 11, 1976.”
 
-[Pub. L. 95–600, title VII, § 701(r)(2)][/us/pl/95/600/s701/r/2], Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(r)(2), Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
 
@@ -167,7 +167,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title VII, § 701(h)][/us/pl/94/455/s701/h], Oct. 4, 1976, [90 Stat. 1580][/us/stat/90/1580], provided that: 
+[Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(h), Oct. 4, 1976, [90 Stat. 1580][/us/stat/90/1580], provided that: 
 
 > “The amendments made by subsections (a), (b), (c), (d), and (f) of this section \[amending this section and sections 665, 666, 1302, and 6401 of this title and repealing sections 668 and 669 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975. The amendments made by subsection (e) of this section \[enacting [section 644 of this title][/us/usc/t26/s644] and amending [section 641 of this title][/us/usc/t26/s641]\] shall apply to transfers in trust made after May 21, 1976.”
 
@@ -184,21 +184,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F225
-[/us/pl/91/172/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fa
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F594
-[/us/pl/94/455/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fa%2F1
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1575
-[/us/pl/95/30/s102/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs102%2Fb%2F8
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F138
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2909
-[/us/pl/99/514/s104/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F10
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/95/600/s701/q/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fq%2F1%2FC
-[/us/pl/95/600/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702
-[/us/pl/95/600/s701/q/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fq%2F1%2FB
-[/us/pl/95/600/s701/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fr%2F1
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s666/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs666%2Fe
@@ -211,16 +211,16 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/600/s701/q/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fq%2F3%2FA
 [/us/usc/t26/s665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs665
-[/us/pl/95/600/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2937
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/95/600/s701/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fr%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2911
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/95/30/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs106%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/94/455/s701/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fh
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1580
 [/us/usc/t26/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs644
 [/us/usc/t26/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs641

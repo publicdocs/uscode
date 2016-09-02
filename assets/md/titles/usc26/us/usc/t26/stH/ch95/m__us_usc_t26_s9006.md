@@ -27,27 +27,27 @@
 
         If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(i)(2), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 567][/us/stat/85/567]; amended [Pub. L. 93–53, § 6(b)][/us/pl/93/53/s6/b], July 1, 1973, [87 Stat. 138][/us/stat/87/138]; [Pub. L. 93–443, title IV][/us/pl/93/443], §§ 403(a), 404(c)(8), Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291], 1292; [Pub. L. 94–283, title III, § 302][/us/pl/94/283/s302], May 11, 1976, [90 Stat. 498][/us/stat/90/498]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1906(b)(13)(A), (B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 110–172, § 11(a)(43)][/us/pl/110/172/s11/a/43], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 113–94, § 2(b)(1)][/us/pl/113/94/s2/b/1], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 567][/us/stat/85/567]; amended [Pub. L. 93–53][/us/pl/93/53], § 6(b), July 1, 1973, [87 Stat. 138][/us/stat/87/138]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], §§ 403(a), 404(c)(8), Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291], 1292; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 302, May 11, 1976, [90 Stat. 498][/us/stat/90/498]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1906(b)(13)(A), (B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(43), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 113–94][/us/pl/113/94], § 2(b)(1), Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
 
  __Amendments__ 
 
     2014—Subsec. (c). [Pub. L. 113–94][/us/pl/113/94] substituted “section 9008(i)(2),” for “section 9008(b)(3),”.
 
-    2007—[Pub. L. 110–172][/us/pl/110/172], which directed substitution of “Commission” for “Comptroller General” wherever appearing, could not be executed, because “Comptroller General” did not appear subsequent to amendment by [Pub. L. 93–443, § 404(c)(8)][/us/pl/93/443/s404/c/8]. See 1974 Amendment note below.
+    2007—[Pub. L. 110–172][/us/pl/110/172], which directed substitution of “Commission” for “Comptroller General” wherever appearing, could not be executed, because “Comptroller General” did not appear subsequent to amendment by [Pub. L. 93–443][/us/pl/93/443], § 404(c)(8). See 1974 Amendment note below.
 
     1976—Subsecs. (a), (b). [Pub. L. 94–455][/us/pl/94/455] substituted “Secretary of the Treasury” for “Secretary”.
 
-    [Pub. L. 94–283, § 302(a)][/us/pl/94/283/s302/a], redesignated subsec. (c) as (b). Former subsec. (b), directing that moneys remaining in the fund after a Presidential election be transferred to the general fund of the Treasury, was struck out.
+    [Pub. L. 94–283][/us/pl/94/283], § 302(a), redesignated subsec. (c) as (b). Former subsec. (b), directing that moneys remaining in the fund after a Presidential election be transferred to the general fund of the Treasury, was struck out.
 
-    Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    [Pub. L. 94–283, § 302(a)][/us/pl/94/283/s302/a], (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund to make payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
+    [Pub. L. 94–283][/us/pl/94/283], § 302(a), (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund to make payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 94–283, § 302(a)][/us/pl/94/283/s302/a], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 94–283][/us/pl/94/283], § 302(a), redesignated subsec. (d) as (c).
 
-    1974—Subsec. (a). [Pub. L. 93–443, § 403(a)][/us/pl/93/443/s403/a], substituted “from time to time” for “as provided by Appropriation Acts” and appropriated moneys for the Campaign Fund for each fiscal year out of the general fund of the Treasury.
+    1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 403(a), substituted “from time to time” for “as provided by Appropriation Acts” and appropriated moneys for the Campaign Fund for each fiscal year out of the general fund of the Treasury.
 
-    Subsecs. (c), (d). [Pub. L. 93–443, § 404(c)(8)][/us/pl/93/443/s404/c/8], substituted “Commission” for “Comptroller General” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(8), substituted “Commission” for “Comptroller General” wherever appearing.
 
     1973—Subsec. (a). [Pub. L. 93–53][/us/pl/93/53] struck out second sentence requiring the Secretary to maintain in the fund (1) a separate account for the candidates of each major party, each minor party, and each new party for which a specific designation is made under section 6096 for payment into an account in the fund and (2) a general account for which no specific designation is made, and in the last sentences, substituted “transfer to the fund”, “Presidential”, and “to the fund by individuals under section 6096”, for “transfer to each account in the fund”, “presidential”, and “to such account by individuals under section 6096 for payment into such account of the fund”, respectively.
 
@@ -63,7 +63,7 @@
 
  __Additional Appropriations to Campaign Fund__ 
 
-[Pub. L. 93–443, title IV, § 403(b)][/us/pl/93/443/s403/b], Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 403(b), Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “In addition to the amounts appropriated to the Presidential Election Campaign Fund established under section 9006 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to payments to eligible candidates) by the last sentence of subsection (a) of such section (as amended by subsection (a) of this section), there is appropriated to such fund an amount equal to the sum of the amounts designated for payment under section 6096 of such Code (relating to designation by individuals to the Presidential Election Campaign Fund) before January 1, 1975, not otherwise taken into account under the provisions of such section 9006, as amended by this section.”
 
@@ -80,30 +80,30 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F567
-[/us/pl/93/53/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs6%2Fb
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F138
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1291
-[/us/pl/94/283/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs302
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F498
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/110/172/s11/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F43
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
-[/us/pl/113/94/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fb%2F1
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
 [/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/93/443/s404/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F8
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/283/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs302%2Fa
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/283/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs302%2Fa
-[/us/pl/94/283/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs302%2Fa
-[/us/pl/93/443/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs403%2Fa
-[/us/pl/93/443/s404/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F8
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
@@ -111,9 +111,9 @@
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
-[/us/pl/93/443/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs403%2Fb
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1291
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/443/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fa
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

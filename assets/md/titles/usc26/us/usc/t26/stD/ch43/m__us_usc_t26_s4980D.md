@@ -169,7 +169,7 @@
 
             (B) the person to whom the failure relates is placed in a financial position which is as good as such person would have been in had such failure not occurred.
 
-(Added [Pub. L. 104–191, title IV, § 402(a)][/us/pl/104/191/s402/a], Aug. 21, 1996, [110 Stat. 2084][/us/stat/110/2084]; amended [Pub. L. 105–34, title XV, § 1531(b)(2)][/us/pl/105/34/s1531/b/2], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 109–135, title IV, § 412(ww)][/us/pl/109/135/s412/ww], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 402(a), Aug. 21, 1996, [110 Stat. 2084][/us/stat/110/2084]; amended [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(b)(2), Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(ww), Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
 
  __References in Text__ 
 
@@ -181,25 +181,25 @@
 
     2005—Subsec. (a). [Pub. L. 109–135][/us/pl/109/135] substituted “plan requirements” for “plans requirements”.
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1531(b)(2)(A)][/us/pl/105/34/s1531/b/2/A], substituted “plans” for “plan portability, access, and renewability”.
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1531(b)(2)(A), substituted “plans” for “plan portability, access, and renewability”.
 
-    Subsec. (c)(3)(B)(i)(I). [Pub. L. 105–34, § 1531(b)(2)(B)][/us/pl/105/34/s1531/b/2/B], substituted “9832(d)(3)” for “9805(d)(3)”.
+    Subsec. (c)(3)(B)(i)(I). [Pub. L. 105–34][/us/pl/105/34], § 1531(b)(2)(B), substituted “9832(d)(3)” for “9805(d)(3)”.
 
-    Subsec. (d)(1). [Pub. L. 105–34, § 1531(b)(2)(C)][/us/pl/105/34/s1531/b/2/C], inserted “(other than a failure attributable to section 9811)” after “on any failure”.
+    Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34], § 1531(b)(2)(C), inserted “(other than a failure attributable to section 9811)” after “on any failure”.
 
-    Subsec. (d)(3). [Pub. L. 105–34, § 1531(b)(2)(D)][/us/pl/105/34/s1531/b/2/D], substituted “section 9832” for “section 9805”.
+    Subsec. (d)(3). [Pub. L. 105–34][/us/pl/105/34], § 1531(b)(2)(D), substituted “section 9832” for “section 9805”.
 
-    Subsec. (f)(1). [Pub. L. 105–34, § 1531(b)(2)(E)][/us/pl/105/34/s1531/b/2/E], substituted “section 9832(a)” for “section 9805(a)”.
+    Subsec. (f)(1). [Pub. L. 105–34][/us/pl/105/34], § 1531(b)(2)(E), substituted “section 9832(a)” for “section 9805(a)”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XV, § 1531(c)][/us/pl/105/34/s1531/c], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], provided that: 
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(c), Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], provided that: 
 
 > “The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title IV, § 402(c)][/us/pl/104/191/s402/c], Aug. 21, 1996, [110 Stat. 2087][/us/stat/110/2087], provided that: 
+[Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 402(c), Aug. 21, 1996, [110 Stat. 2087][/us/stat/110/2087], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act).”
 
@@ -210,23 +210,23 @@
 ----------
 ----------
 
-[/us/pl/104/191/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs402%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2084
-[/us/pl/105/34/s1531/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
-[/us/pl/109/135/s412/ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fww
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
 [/us/usc/t29/s1002/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/105/34/s1531/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2%2FA
-[/us/pl/105/34/s1531/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2%2FB
-[/us/pl/105/34/s1531/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2%2FC
-[/us/pl/105/34/s1531/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2%2FD
-[/us/pl/105/34/s1531/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F2%2FE
-[/us/pl/105/34/s1531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fc
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
-[/us/pl/104/191/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs402%2Fc
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2087
 
 

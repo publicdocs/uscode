@@ -21,7 +21,7 @@
 
     (2) arising out of an obligation to pay any amount required by section 402(h)(5)(B)(ii) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1232(h)(5)(B)(ii)][/us/usc/t30/s1232/h/5/B/ii]).
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3055][/us/stat/106/3055]; amended [Pub. L. 109–432, div. C, title II, § 213(b)(2)][/us/pl/109/432/s213/b/2], Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3055][/us/stat/106/3055]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 213(b)(2), Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t30/s1232/h/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh%2F5%2FB%2Fii
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3055
-[/us/pl/109/432/s213/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs213%2Fb%2F2
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3027
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829

@@ -223,15 +223,15 @@
 
         (2) regulations providing appropriate adjustments in the application of this section to a taxpayer having a taxable year which is not the calendar year.
 
-(Added [Pub. L. 99–514, title X, § 1023(c)][/us/pl/99/514/s1023/c], Oct. 22, 1986, [100 Stat. 2399][/us/stat/100/2399]; amended [Pub. L. 100–647, title I, § 1010(e)(1)][/us/pl/100/647/s1010/e/1], (2), Nov. 10, 1988, [102 Stat. 3453][/us/stat/102/3453]; [Pub. L. 101–508, title XI, § 11305(b)][/us/pl/101/508/s11305/b], Nov. 5, 1990, [104 Stat. 1388–451][/us/stat/104/1388-451].)
+(Added [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1023(c), Oct. 22, 1986, [100 Stat. 2399][/us/stat/100/2399]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(e)(1), (2), Nov. 10, 1988, [102 Stat. 3453][/us/stat/102/3453]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11305(b), Nov. 5, 1990, [104 Stat. 1388–451][/us/stat/104/1388-451].)
 
  __Amendments__ 
 
     1990—Subsec. (g). [Pub. L. 101–508][/us/pl/101/508] inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
 
-    1988—Subsec. (f)(6)(B). [Pub. L. 100–647, § 1010(e)(1)][/us/pl/100/647/s1010/e/1], substituted “paid in the middle of the year” for “paid during the year”.
+    1988—Subsec. (f)(6)(B). [Pub. L. 100–647][/us/pl/100/647], § 1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
 
-    Subsec. (g)(3). [Pub. L. 100–647, § 1010(e)(2)][/us/pl/100/647/s1010/e/2], added par. (3).
+    Subsec. (g)(3). [Pub. L. 100–647][/us/pl/100/647], § 1010(e)(2), added par. (3).
 
  __Effective Date of 1990 Amendment__ 
 
@@ -243,7 +243,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title X, § 1023(e)][/us/pl/99/514/s1023/e], Oct. 22, 1986, [100 Stat. 2404][/us/stat/100/2404], as amended by [Pub. L. 100–647, title I, § 1010(e)(3)][/us/pl/100/647/s1010/e/3], Nov. 10, 1988, [102 Stat. 3453][/us/stat/102/3453], provided that:
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1023(e), Oct. 22, 1986, [100 Stat. 2404][/us/stat/100/2404], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(e)(3), Nov. 10, 1988, [102 Stat. 3453][/us/stat/102/3453], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -302,15 +302,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1023/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fc
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2399
-[/us/pl/100/647/s1010/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fe%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3453
-[/us/pl/101/508/s11305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11305%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-451
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1010/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fe%2F1
-[/us/pl/100/647/s1010/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fe%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11305%2Fc%2F1
 [/us/usc/t26/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs832
@@ -318,9 +318,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fe
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2404
-[/us/pl/100/647/s1010/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fe%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3453
 
 

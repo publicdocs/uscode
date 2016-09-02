@@ -51,7 +51,7 @@
 
  __Repeal of Subchapter__ 
 
-    [Pub. L. 114–74, title XI, § 1101(b)(2)][/us/pl/114/74/s1101/b/2], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this subchapter is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(b)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this subchapter is repealed.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/114/74/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F2
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 
 

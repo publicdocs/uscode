@@ -49,7 +49,7 @@
 
         For special rules relating to dealer securities futures contracts, see section 1256.
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648; amended [Pub. L. 107–147, title IV, § 412(d)(1)(B)][/us/pl/107/147/s412/d/1/B], (3)(B), Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53], 54; [Pub. L. 108–311, title IV, § 405(a)(1)][/us/pl/108/311/s405/a/1], Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title IV, § 401(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 412(d)(1)(B), (3)(B), Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53], 54; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 405(a)(1), Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188].)
 
  __References in Text__ 
 
@@ -59,21 +59,21 @@
 
  __Codification__ 
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(a)\], which directed amendment of subpart IV of subchapter P of chapter 1 by adding this section after section 1234A, was executed by adding this section after 1234A of this part which is part IV of subchapter P of chapter 1, to reflect the probable intent of Congress.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title IV, § 401(a)\], which directed amendment of subpart IV of subchapter P of chapter 1 by adding this section after section 1234A, was executed by adding this section after 1234A of this part which is part IV of subchapter P of chapter 1, to reflect the probable intent of Congress.
 
  __Amendments__ 
 
     2004—Subsec. (c). [Pub. L. 108–311][/us/pl/108/311] inserted at end “The Secretary may prescribe regulations regarding the status of contracts the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as defined for purposes of section 1256(g)(6)).”
 
-    2002—Subsec. (a)(1). [Pub. L. 107–147, § 412(d)(1)(B)(i)][/us/pl/107/147/s412/d/1/B/i], substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
+    2002—Subsec. (a)(1). [Pub. L. 107–147][/us/pl/107/147], § 412(d)(1)(B)(i), substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
 
-    Subsec. (b). [Pub. L. 107–147, § 412(d)(1)(B)(i)][/us/pl/107/147/s412/d/1/B/i], (3)(B), inserted “or in section 1233,” after “or this section,” and substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
+    Subsec. (b). [Pub. L. 107–147][/us/pl/107/147], § 412(d)(1)(B)(i), (3)(B), inserted “or in section 1233,” after “or this section,” and substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
 
-    Subsec. (f). [Pub. L. 107–147, § 412(d)(1)(B)(ii)][/us/pl/107/147/s412/d/1/B/ii], added subsec. (f).
+    Subsec. (f). [Pub. L. 107–147][/us/pl/107/147], § 412(d)(1)(B)(ii), added subsec. (f).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–311, title IV, § 405(b)][/us/pl/108/311/s405/b], Oct. 4, 2004, [118 Stat. 1189][/us/stat/118/1189], provided that: 
+[Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 405(b), Oct. 4, 2004, [118 Stat. 1189][/us/stat/118/1189], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 1256 of this title][/us/usc/t26/s1256]\] shall take effect as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by [section 1(a)(7) of Pub. L. 106–554][/us/pl/106/554/s1/a/7], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–587\].”
 
@@ -88,20 +88,20 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s412/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F1%2FB
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F53
-[/us/pl/108/311/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs405%2Fa%2F1
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1188
 [/us/usc/t15/s78c/a/55/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F55%2FA
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/107/147/s412/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F1%2FB%2Fi
-[/us/pl/107/147/s412/d/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F1%2FB%2Fi
-[/us/pl/107/147/s412/d/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F1%2FB%2Fii
-[/us/pl/108/311/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs405%2Fb
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1189
 [/us/usc/t26/s1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1256
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7

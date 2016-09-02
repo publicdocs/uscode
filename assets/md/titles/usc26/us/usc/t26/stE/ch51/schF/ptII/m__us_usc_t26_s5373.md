@@ -41,7 +41,7 @@
 
         When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1382][/us/stat/72/1382]; amended [Pub. L. 90–619, § 1][/us/pl/90/619/s1], Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1382][/us/stat/72/1382]; amended [Pub. L. 90–619][/us/pl/90/619], § 1, Oct. 22, 1968, [82 Stat. 1236][/us/stat/82/1236]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–619, § 6][/us/pl/90/619/s6], Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237], provided that: 
+[Pub. L. 90–619][/us/pl/90/619], § 6, Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 5382 to 5387 of this title\] shall take effect on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Oct. 22, 1968\].”
 
@@ -66,18 +66,18 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1382
-[/us/pl/90/619/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs1
+[/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/stat/82/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1236
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F667
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
-[/us/pl/90/619/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs6
+[/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/stat/82/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1237
 
 

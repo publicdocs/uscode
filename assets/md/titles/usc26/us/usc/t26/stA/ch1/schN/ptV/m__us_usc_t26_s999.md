@@ -109,7 +109,7 @@
 
         Any person (within the meaning of section 6671(b)) required to report under this section who willfully fails to make such report shall, in addition to other penalties provided by law, be fined not more than $25,000, imprisoned for not more than one year, or both.
 
-(Added [Pub. L. 94–455, title X, § 1064(a)][/us/pl/94/455/s1064/a], Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650]; amended [Pub. L. 95–600, title VII, § 703(h)(2)][/us/pl/95/600/s703/h/2], (3), Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940]; [Pub. L. 98–369, div. A, title VIII, § 802(c)(3)][/us/pl/98/369/s802/c/3], July 18, 1984, [98 Stat. 999][/us/stat/98/999]; [Pub. L. 99–514, title XVIII, § 1876(p)(3)][/us/pl/99/514/s1876/p/3], Oct. 22, 1986, [100 Stat. 2902][/us/stat/100/2902]; [Pub. L. 106–519, § 4(5)][/us/pl/106/519/s4/5], Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433]; [Pub. L. 108–357, title I, § 101(b)(8)][/us/pl/108/357/s101/b/8], Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423].)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1064(a), Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 703(h)(2), (3), Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940]; [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 802(c)(3), July 18, 1984, [98 Stat. 999][/us/stat/98/999]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1876(p)(3), Oct. 22, 1986, [100 Stat. 2902][/us/stat/100/2902]; [Pub. L. 106–519][/us/pl/106/519], § 4(5), Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433]; [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 101(b)(8), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423].)
 
  __Amendments__ 
 
@@ -121,9 +121,9 @@
 
     1984—Subsec. (c)(1), (2). [Pub. L. 98–369][/us/pl/98/369] which substituted “995(b)(1)(F)(i)” for “995(b)(1)(F)(ii)” wherever appearing was repealed. See 1986 Amendment note above.
 
-    1978—Subsec. (c)(1). [Pub. L. 95–600, § 703(h)(2)][/us/pl/95/600/s703/h/2], substituted “995(b)(1)(F)(ii)” for “995(b)(3)”.
+    1978—Subsec. (c)(1). [Pub. L. 95–600][/us/pl/95/600], § 703(h)(2), substituted “995(b)(1)(F)(ii)” for “995(b)(3)”.
 
-    Subsec. (c)(2). [Pub. L. 95–600, § 703(h)(3)][/us/pl/95/600/s703/h/3], substituted “995(b)(1)(F)(ii)” for “995(b)(1)(D)(ii)”.
+    Subsec. (c)(2). [Pub. L. 95–600][/us/pl/95/600], § 703(h)(3), substituted “995(b)(1)(F)(ii)” for “995(b)(1)(D)(ii)”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -155,7 +155,7 @@
 
  __Reports by the Secretary__ 
 
-    [Pub. L. 94–455, title X, § 1067][/us/pl/94/455/s1067], Oct. 4, 1976, [90 Stat. 1654][/us/stat/90/1654], as amended by [Pub. L. 98–369, div. A, title IV, § 441(c)][/us/pl/98/369/s441/c], July 18, 1984, [98 Stat. 815][/us/stat/98/815], which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under [section 999(a) of this title][/us/usc/t26/s999/a] and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 141 of House Document No. 103–7.
+    [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1067, Oct. 4, 1976, [90 Stat. 1654][/us/stat/90/1654], as amended by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 441(c), July 18, 1984, [98 Stat. 815][/us/stat/98/815], which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under [section 999(a) of this title][/us/usc/t26/s999/a] and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 141 of House Document No. 103–7.
 
 ----------
 
@@ -164,25 +164,25 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1064/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1064%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1650
-[/us/pl/95/600/s703/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fh%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2940
-[/us/pl/98/369/s802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs802%2Fc%2F3
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F999
-[/us/pl/99/514/s1876/p/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fp%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2902
-[/us/pl/106/519/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs4%2F5
+[/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2433
-[/us/pl/108/357/s101/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F8
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369/s802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs802%2Fc%2F3
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/95/600/s703/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fh%2F2
-[/us/pl/95/600/s703/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fh%2F3
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fc
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
@@ -190,7 +190,7 @@
 [/us/pl/106/519/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs5
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -204,9 +204,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/94/455/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1067
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1654
-[/us/pl/98/369/s441/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs441%2Fc
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F815
 [/us/usc/t26/s999/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs999%2Fa
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

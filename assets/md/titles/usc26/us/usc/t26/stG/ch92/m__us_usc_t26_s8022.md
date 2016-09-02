@@ -53,7 +53,7 @@
 
         For duties of the Joint Committee relating to refunds of income and estate taxes, see section 6405.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 927][/us/stat/68A/927]; [Pub. L. 105–206, title IV, § 4002(a)][/us/pl/105/206/s4002/a], July 22, 1998, [112 Stat. 784][/us/stat/112/784]; [Pub. L. 108–311, title III, § 321(b)][/us/pl/108/311/s321/b], Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 927][/us/stat/68A/927]; [Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4002(a), July 22, 1998, [112 Stat. 784][/us/stat/112/784]; [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 321(b), Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182].)
 
  __Amendments__ 
 
@@ -81,13 +81,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title IV, § 4002(b)][/us/pl/105/206/s4002/b], July 22, 1998, [112 Stat. 784][/us/stat/112/784], provided that: 
+[Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4002(b), July 22, 1998, [112 Stat. 784][/us/stat/112/784], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
  __Analysis To Accompany Certain Legislation__ 
 
-[Pub. L. 105–206, title IV, § 4022(b)][/us/pl/105/206/s4022/b], July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
+[Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4022(b), July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -135,15 +135,15 @@
 
  __Tax Revision Study__ 
 
-    [Pub. L. 94–455, title V, § 507][/us/pl/94/455/s507], Oct. 4, 1976, [90 Stat. 1569][/us/stat/90/1569], mandated a full and complete study by the Joint Committee on Taxation with respect to simplifying the tax laws and the feasibility of a reduction of tax rates; a report of such study with recommendations was to be submitted to the committees of Congress before July 1, 1977.
+    [Pub. L. 94–455, title V][/us/pl/94/455/tV], § 507, Oct. 4, 1976, [90 Stat. 1569][/us/stat/90/1569], mandated a full and complete study by the Joint Committee on Taxation with respect to simplifying the tax laws and the feasibility of a reduction of tax rates; a report of such study with recommendations was to be submitted to the committees of Congress before July 1, 1977.
 
  __Study of Expanded Participation in Individual Retirement Accounts__ 
 
-    [Pub. L. 94–455, title XV, § 1509][/us/pl/94/455/s1509], Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741], directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
+    [Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1509, Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741], directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
  __Tax Incentives Study__ 
 
-    [Pub. L. 94–455, title XXI, § 2133][/us/pl/94/455/s2133], Oct. 4, 1976, [90 Stat. 1925][/us/stat/90/1925], mandated a study by the Joint Committee on Taxation, in consultation with the Treasury, of the cost effectiveness of different kinds of tax incentives, including an analysis of the most effective way to use tax cuts to provide economic stimulus; such report with its recommendations was to be submitted to the Committees of Congress no later than Sept. 30, 1977.
+    [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2133, Oct. 4, 1976, [90 Stat. 1925][/us/stat/90/1925], mandated a study by the Joint Committee on Taxation, in consultation with the Treasury, of the cost effectiveness of different kinds of tax incentives, including an analysis of the most effective way to use tax cuts to provide economic stimulus; such report with its recommendations was to be submitted to the Committees of Congress no later than Sept. 30, 1977.
 
 ----------
 
@@ -154,21 +154,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F927
-[/us/pl/105/206/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4002%2Fa
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F784
-[/us/pl/108/311/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs321%2Fb
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1182
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/206/s4002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4002%2Fb
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F784
-[/us/pl/105/206/s4022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4022%2Fb
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F785
-[/us/pl/94/455/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs507
+[/us/pl/94/455/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtV
 [/us/stat/90/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1569
-[/us/pl/94/455/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1509
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1741
-[/us/pl/94/455/s2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2133
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1925
 
 

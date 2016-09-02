@@ -79,7 +79,7 @@
 
         (2) any portion of the unrecovered losses sustained as a result of the compensable injury with respect to which the period for carryover under section 172 has expired.
 
-(Added [Pub. L. 91–172, title IX, § 904(a)][/us/pl/91/172/s904/a], Dec. 30, 1969, [83 Stat. 711][/us/stat/83/711].)
+(Added [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 904(a), Dec. 30, 1969, [83 Stat. 711][/us/stat/83/711].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title IX, § 904(c)][/us/pl/91/172/s904/c], Dec. 30, 1969, [83 Stat. 712][/us/stat/83/712], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 904(c), Dec. 30, 1969, [83 Stat. 712][/us/stat/83/712], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1968.”
 
@@ -98,10 +98,10 @@
 ----------
 ----------
 
-[/us/pl/91/172/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs904%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F711
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
-[/us/pl/91/172/s904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs904%2Fc
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F712
 
 

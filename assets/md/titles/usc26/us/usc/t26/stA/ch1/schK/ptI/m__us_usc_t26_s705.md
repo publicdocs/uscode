@@ -43,19 +43,19 @@
 
         The Secretary shall prescribe by regulations the circumstances under which the adjusted basis of a partner’s interest in a partnership may be determined by reference to his proportionate share of the adjusted basis of partnership property upon a termination of the partnership.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 242][/us/stat/68A/242]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2115(c)(3), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1909; [Pub. L. 98–369, div. A, title VII, § 722(e)(1)][/us/pl/98/369/s722/e/1], July 18, 1984, [98 Stat. 974][/us/stat/98/974].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 242][/us/stat/68A/242]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XXI, § 2115(c)(3), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1909; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 722(e)(1), July 18, 1984, [98 Stat. 974][/us/stat/98/974].)
 
  __Amendments__ 
 
     1984—Subsec. (a)(3). [Pub. L. 98–369][/us/pl/98/369] substituted “for any partnership oil and gas property to the extent such deduction does not exceed the proportionate share of the adjusted basis of such property allocated to such partner under section 613A(c)(7)(D)” for “under section 611 with respect to oil and gas wells”.
 
-    1976—Subsec. (a)(3). [Pub. L. 94–455, § 2115(c)(3)][/us/pl/94/455/s2115/c/3], added par. (3).
+    1976—Subsec. (a)(3). [Pub. L. 94–455][/us/pl/94/455], § 2115(c)(3), added par. (3).
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title VII, § 722(e)(3)(A)][/us/pl/98/369/s722/e/3/A], July 18, 1984, [98 Stat. 974][/us/stat/98/974], provided that: 
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 722(e)(3)(A), July 18, 1984, [98 Stat. 974][/us/stat/98/974], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 1, 1975.”
 
@@ -72,14 +72,14 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F242
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s722/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fe%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F974
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s2115/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fc%2F3
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/98/369/s722/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fe%2F3%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F974
 [/us/pl/94/455/s2115/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fc%2F3
 [/us/pl/94/455/s2115/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Ff

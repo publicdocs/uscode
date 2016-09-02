@@ -81,21 +81,21 @@
 
  __Repeal of Subchapter B__ 
 
-    Table of subchapters for chapter 33 amended by striking out the item relating to subchapter B dealing with Communications, effective Jan. 1, 1982, see [Pub. L. 90–364, title I, § 105(b)(3)][/us/pl/90/364/s105/b/3], June 28, 1968, [82 Stat. 266][/us/stat/82/266], as amended by [Pub. L. 91–172, title VII, § 702(b)(3)][/us/pl/91/172/s702/b/3], Dec. 30, 1969, [83 Stat. 660][/us/stat/83/660]; [Pub. L. 91–614, title II, § 201(b)(3)][/us/pl/91/614/s201/b/3], Dec. 31, 1970, [84 Stat. 1843][/us/stat/84/1843]. Repeal of item B was not executed in view of the amendments to [section 4251 of this title][/us/usc/t26/s4251] by [Pub. L. 96–499][/us/pl/96/499], [Pub. L. 97–34][/us/pl/97/34], [Pub. L. 97–248][/us/pl/97/248], [Pub. L. 98–369][/us/pl/98/369], [Pub. L. 99–514][/us/pl/99/514], and [Pub. L. 101–508][/us/pl/101/508], extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
+    Table of subchapters for chapter 33 amended by striking out the item relating to subchapter B dealing with Communications, effective Jan. 1, 1982, see [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 105(b)(3), June 28, 1968, [82 Stat. 266][/us/stat/82/266], as amended by [Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 702(b)(3), Dec. 30, 1969, [83 Stat. 660][/us/stat/83/660]; [Pub. L. 91–614, title II][/us/pl/91/614/tII], § 201(b)(3), Dec. 31, 1970, [84 Stat. 1843][/us/stat/84/1843]. Repeal of item B was not executed in view of the amendments to [section 4251 of this title][/us/usc/t26/s4251] by [Pub. L. 96–499][/us/pl/96/499], [Pub. L. 97–34][/us/pl/97/34], [Pub. L. 97–248][/us/pl/97/248], [Pub. L. 98–369][/us/pl/98/369], [Pub. L. 99–514][/us/pl/99/514], and [Pub. L. 101–508][/us/pl/101/508], extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–258, title II, § 205(c)(5)][/us/pl/91/258/s205/c/5], May 21, 1970, [84 Stat. 242][/us/stat/84/242], substituted “Transportation by air” for “Transportation of persons by air” in item for subchapter C.
+    1970—[Pub. L. 91–258, title II][/us/pl/91/258/tII], § 205(c)(5), May 21, 1970, [84 Stat. 242][/us/stat/84/242], substituted “Transportation by air” for “Transportation of persons by air” in item for subchapter C.
 
-    1965—[Pub. L. 89–44, title III][/us/pl/89/44], §§ 301, 304, June 21, 1965, [79 Stat. 145][/us/stat/79/145], 148, struck out items for subchapters A and D.
+    1965—[Pub. L. 89–44, title III][/us/pl/89/44/tIII], §§ 301, 304, June 21, 1965, [79 Stat. 145][/us/stat/79/145], 148, struck out items for subchapters A and D.
 
-    1962—[Pub. L. 87–508, § 5(c)(1)][/us/pl/87/508/s5/c/1], June 28, 1962, [76 Stat. 118][/us/stat/76/118], substituted “Transportation of persons by air” for “Transportation of persons” in item for subchapter C.
+    1962—[Pub. L. 87–508][/us/pl/87/508], § 5(c)(1), June 28, 1962, [76 Stat. 118][/us/stat/76/118], substituted “Transportation of persons by air” for “Transportation of persons” in item for subchapter C.
 
-    1958—[Pub. L. 85–475, § 4(b)(1)][/us/pl/85/475/s4/b/1], June 30, 1958, [72 Stat. 260][/us/stat/72/260], substituted “Transportation of persons” for “Transportation” in item for subchapter C.
+    1958—[Pub. L. 85–475][/us/pl/85/475], § 4(b)(1), June 30, 1958, [72 Stat. 260][/us/stat/72/260], substituted “Transportation of persons” for “Transportation” in item for subchapter C.
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–508, § 5(d)][/us/pl/87/508/s5/d], June 28, 1962, [76 Stat. 119][/us/stat/76/119], provided in part that: 
+[Pub. L. 87–508][/us/pl/87/508], § 5(d), June 28, 1962, [76 Stat. 119][/us/stat/76/119], provided in part that: 
 
 > “The amendment made by subsection (c)(1) \[amending item for subchapter C in the analysis\] shall apply only with respect to transportation beginning after November 15, 1962.”
 
@@ -106,11 +106,11 @@
 ----------
 ----------
 
-[/us/pl/90/364/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs105%2Fb%2F3
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F266
-[/us/pl/91/172/s702/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs702%2Fb%2F3
+[/us/pl/91/172/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVII
 [/us/stat/83/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F660
-[/us/pl/91/614/s201/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs201%2Fb%2F3
+[/us/pl/91/614/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtII
 [/us/stat/84/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1843
 [/us/usc/t26/s4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4251
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
@@ -119,15 +119,15 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/91/258/s205/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs205%2Fc%2F5
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F242
-[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIII
 [/us/stat/79/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F145
-[/us/pl/87/508/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508%2Fs5%2Fc%2F1
+[/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/stat/76/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F118
-[/us/pl/85/475/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475%2Fs4%2Fb%2F1
+[/us/pl/85/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475
 [/us/stat/72/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F260
-[/us/pl/87/508/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508%2Fs5%2Fd
+[/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/stat/76/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F119
 
 

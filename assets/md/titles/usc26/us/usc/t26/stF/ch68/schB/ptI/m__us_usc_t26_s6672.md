@@ -91,7 +91,7 @@
 
         The preceding sentence shall not apply if it results in no person being liable for the penalty imposed by subsection (a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 95–628, § 9(a)][/us/pl/95/628/s9/a], Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7721(c)(9), 7737(a), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], 2404; [Pub. L. 104–168, title IX][/us/pl/104/168], §§ 901(a), 903(a), 904(a), July 30, 1996, [110 Stat. 1465–1467][/us/stat/110/1465-1467]; [Pub. L. 105–206, title III, § 3307(a)][/us/pl/105/206/s3307/a], (b), July 22, 1998, [112 Stat. 744][/us/stat/112/744].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 95–628][/us/pl/95/628], § 9(a), Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7721(c)(9), 7737(a), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], 2404; [Pub. L. 104–168, title IX][/us/pl/104/168/tIX], §§ 901(a), 903(a), 904(a), July 30, 1996, [110 Stat. 1465–1467][/us/stat/110/1465-1467]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3307(a), (b), July 22, 1998, [112 Stat. 744][/us/stat/112/744].)
 
  __References in Text__ 
 
@@ -99,37 +99,37 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–206, § 3307(a)][/us/pl/105/206/s3307/a], inserted “or in person” after “section 6212(b)”.
+    1998—Subsec. (b)(1). [Pub. L. 105–206][/us/pl/105/206], § 3307(a), inserted “or in person” after “section 6212(b)”.
 
-    Subsec. (b)(2). [Pub. L. 105–206, § 3307(b)(1)][/us/pl/105/206/s3307/b/1], inserted “(or, in the case of such a notice delivered in person, such delivery)” after “paragraph (1)”.
+    Subsec. (b)(2). [Pub. L. 105–206][/us/pl/105/206], § 3307(b)(1), inserted “(or, in the case of such a notice delivered in person, such delivery)” after “paragraph (1)”.
 
-    Subsec. (b)(3). [Pub. L. 105–206, § 3307(b)(2)][/us/pl/105/206/s3307/b/2], inserted “or delivered in person” after “mailed” in introductory provisions and in subpar. (A).
+    Subsec. (b)(3). [Pub. L. 105–206][/us/pl/105/206], § 3307(b)(2), inserted “or delivered in person” after “mailed” in introductory provisions and in subpar. (A).
 
-    1996—Subsecs. (b), (c). [Pub. L. 104–168, § 901(a)][/us/pl/104/168/s901/a], added subsec. (b) and redesignated former subsec. (b) as (c).
+    1996—Subsecs. (b), (c). [Pub. L. 104–168][/us/pl/104/168], § 901(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    Subsec. (d). [Pub. L. 104–168, § 903(a)][/us/pl/104/168/s903/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–168][/us/pl/104/168], § 903(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 104–168, § 904(a)][/us/pl/104/168/s904/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–168][/us/pl/104/168], § 904(a), added subsec. (e).
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7721(c)(9)][/us/pl/101/239/s7721/c/9], inserted “or part II of subchapter A of chapter 68” after “under section 6653”.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7721(c)(9), inserted “or part II of subchapter A of chapter 68” after “under section 6653”.
 
-    Subsec. (b)(1). [Pub. L. 101–239, § 7737(a)][/us/pl/101/239/s7737/a], inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
+    Subsec. (b)(1). [Pub. L. 101–239][/us/pl/101/239], § 7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
 
     1978—[Pub. L. 95–628][/us/pl/95/628] designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3307(c)][/us/pl/105/206/s3307/c], July 22, 1998, [112 Stat. 744][/us/stat/112/744], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3307(c), July 22, 1998, [112 Stat. 744][/us/stat/112/744], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title IX, § 901(b)][/us/pl/104/168/s901/b], July 30, 1996, [110 Stat. 1466][/us/stat/110/1466], provided that: 
+[Pub. L. 104–168, title IX][/us/pl/104/168/tIX], § 901(b), July 30, 1996, [110 Stat. 1466][/us/stat/110/1466], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to proposed assessments made after June 30, 1996.”
 
-[Pub. L. 104–168, title IX, § 903(b)][/us/pl/104/168/s903/b], July 30, 1996, [110 Stat. 1466][/us/stat/110/1466], provided that: 
+[Pub. L. 104–168, title IX][/us/pl/104/168/tIX], § 903(b), July 30, 1996, [110 Stat. 1466][/us/stat/110/1466], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[July 30, 1996\].”
 
@@ -137,19 +137,19 @@
 
     Amendment by [section 7721(c)(9) of Pub. L. 101–239][/us/pl/101/239/s7721/c/9] applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see [section 7721(d) of Pub. L. 101–239][/us/pl/101/239/s7721/d], set out as a note under [section 461 of this title][/us/usc/t26/s461].
 
-[Pub. L. 101–239, title VII, § 7737(b)][/us/pl/101/239/s7737/b], Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7737(b), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\].”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–628, § 9(c)][/us/pl/95/628/s9/c], Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633], provided that: 
+[Pub. L. 95–628][/us/pl/95/628], § 9(c), Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 7103 and 7421 of this title\] shall apply with respect to penalties assessed more than 60 days after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
  __Public Information To Ensure Employee Awareness of Responsibilities and Liabilities Under Tax Depository System__ 
 
-[Pub. L. 104–168, title IX, § 904(b)][/us/pl/104/168/s904/b], July 30, 1996, [110 Stat. 1467][/us/stat/110/1467], provided that:
+[Pub. L. 104–168, title IX][/us/pl/104/168/tIX], § 904(b), July 30, 1996, [110 Stat. 1467][/us/stat/110/1467], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -176,39 +176,39 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F828
-[/us/pl/95/628/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628%2Fs9%2Fa
+[/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
 [/us/stat/92/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3633
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2400
-[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtIX
 [/us/stat/110/1465-1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1465-1467
-[/us/pl/105/206/s3307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3307%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F744
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/stat/96/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F25
-[/us/pl/105/206/s3307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3307%2Fa
-[/us/pl/105/206/s3307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3307%2Fb%2F1
-[/us/pl/105/206/s3307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3307%2Fb%2F2
-[/us/pl/104/168/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs901%2Fa
-[/us/pl/104/168/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs903%2Fa
-[/us/pl/104/168/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs904%2Fa
-[/us/pl/101/239/s7721/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F9
-[/us/pl/101/239/s7737/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7737%2Fa
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
-[/us/pl/105/206/s3307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3307%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F744
-[/us/pl/104/168/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs901%2Fb
+[/us/pl/104/168/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtIX
 [/us/stat/110/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1466
-[/us/pl/104/168/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs903%2Fb
+[/us/pl/104/168/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtIX
 [/us/stat/110/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1466
 [/us/pl/101/239/s7721/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F9
 [/us/pl/101/239/s7721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fd
 [/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
-[/us/pl/101/239/s7737/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7737%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2404
-[/us/pl/95/628/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628%2Fs9%2Fc
+[/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
 [/us/stat/92/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3633
-[/us/pl/104/168/s904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs904%2Fb
+[/us/pl/104/168/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtIX
 [/us/stat/110/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1467
 
 

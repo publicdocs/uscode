@@ -43,7 +43,7 @@
 
         For the purpose of section 4371(3), the term “policy of reinsurance” means any policy or other instrument by whatever name called whereby a contract of reinsurance is made, continued, or renewed against, or with respect to, any of the hazards, risks, losses, or liabilities covered by contracts taxable under paragraph (1) or (2) of section 4371.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 521][/us/stat/68A/521]; [Pub. L. 85–859, title I, § 141(a)][/us/pl/85/859/s141/a], Sept. 2, 1958, [72 Stat. 1300][/us/stat/72/1300]; [Pub. L. 94–455, title XIX, § 1904(a)(12)][/us/pl/94/455/s1904/a/12], Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 521][/us/stat/68A/521]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 141(a), Sept. 2, 1958, [72 Stat. 1300][/us/stat/72/1300]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(12), Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F521
-[/us/pl/85/859/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs141%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1300
-[/us/pl/94/455/s1904/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F12
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1812
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

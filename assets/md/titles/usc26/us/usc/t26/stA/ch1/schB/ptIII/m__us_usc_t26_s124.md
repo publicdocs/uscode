@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s123.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s125.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs124)
 
-## \[§ 124. Repealed. [Pub. L. 101–508, title XI, § 11801(a)(9)][/us/pl/101/508/s11801/a/9], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
+## \[§ 124. Repealed. [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(9), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
 
-    Section, added [Pub. L. 95–618, title II, § 242(a)][/us/pl/95/618/s242/a], Nov. 9, 1978, [92 Stat. 3193][/us/stat/92/3193], related to qualified transportation provided by employers.
+    Section, added [Pub. L. 95–618, title II][/us/pl/95/618/tII], § 242(a), Nov. 9, 1978, [92 Stat. 3193][/us/stat/92/3193], related to qualified transportation provided by employers.
 
     A prior section 124 was renumbered [section 140 of this title][/us/usc/t26/s140].
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F9
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-520
-[/us/pl/95/618/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs242%2Fa
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3193
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

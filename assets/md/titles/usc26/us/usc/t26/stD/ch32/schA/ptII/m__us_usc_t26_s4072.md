@@ -41,23 +41,23 @@
 
         For purposes of this part, the term “super single tire” means a single tire greater than 13 inches in cross section width designed to replace 2 tires in a dual fitment. Such term shall not include any tire designed for steering.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 482][/us/stat/68A/482]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 204(b), [70 Stat. 389][/us/stat/70/389]; [Pub. L. 98–369, div. A, title VII, § 735(c)(3)][/us/pl/98/369/s735/c/3], July 18, 1984, [98 Stat. 982][/us/stat/98/982]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 851(c)(1), 869(b), Oct. 22, 2004, [118 Stat. 1608][/us/stat/118/1608], 1623; [Pub. L. 109–58, title XIII, § 1364(a)][/us/pl/109/58/s1364/a], Aug. 8, 2005, [119 Stat. 1060][/us/stat/119/1060].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 482][/us/stat/68A/482]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 204(b), [70 Stat. 389][/us/stat/70/389]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(3), July 18, 1984, [98 Stat. 982][/us/stat/98/982]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], §§ 851(c)(1), 869(b), Oct. 22, 2004, [118 Stat. 1608][/us/stat/118/1608], 1623; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1364(a), Aug. 8, 2005, [119 Stat. 1060][/us/stat/119/1060].)
 
  __Amendments__ 
 
     2005—Subsec. (e). [Pub. L. 109–58][/us/pl/109/58] inserted at end “Such term shall not include any tire designed for steering.”
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 869(b)][/us/pl/108/357/s869/b], added subsec. (a) and redesignated former subsec. (a) as (b).
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 869(b), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-    Subsec. (b). [Pub. L. 108–357, § 869(b)][/us/pl/108/357/s869/b], redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 869(b), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-    [Pub. L. 108–357, § 851(c)(1)][/us/pl/108/357/s851/c/1], which directed amendment of par. (2) by inserting at end “Such term shall not include tires of a type used exclusively on vehicles described in section 4053(8).”, was executed by amending subsec. (b) by inserting that language after par. (2) to reflect the probable intent of Congress.
+    [Pub. L. 108–357][/us/pl/108/357], § 851(c)(1), which directed amendment of par. (2) by inserting at end “Such term shall not include tires of a type used exclusively on vehicles described in section 4053(8).”, was executed by amending subsec. (b) by inserting that language after par. (2) to reflect the probable intent of Congress.
 
-    Subsecs. (c), (d). [Pub. L. 108–357, § 869(b)][/us/pl/108/357/s869/b], redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 108–357][/us/pl/108/357], § 869(b), redesignated subsecs. (b) and (c) as (c) and (d), respectively. Former subsec. (d) redesignated (e).
 
-    [Pub. L. 108–357, § 869(b)][/us/pl/108/357/s869/b], added subsecs. (c) and (d).
+    [Pub. L. 108–357][/us/pl/108/357], § 869(b), added subsecs. (c) and (d).
 
-    Subsec. (e). [Pub. L. 108–357, § 869(b)][/us/pl/108/357/s869/b], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 108–357][/us/pl/108/357], § 869(b), redesignated subsec. (d) as (e).
 
     1984—Subsecs. (b), (c). [Pub. L. 98–369][/us/pl/98/369] redesignated subsec. (c) as (b) and struck out former subsec. (b) which defined “tread rubber”.
 
@@ -67,13 +67,13 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XIII, § 1364(b)][/us/pl/109/58/s1364/b], Aug. 8, 2005, [119 Stat. 1060][/us/stat/119/1060], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1364(b), Aug. 8, 2005, [119 Stat. 1060][/us/stat/119/1060], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 869 of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 851(c)(2)][/us/pl/108/357/s851/c/2], Oct. 22, 2004, [118 Stat. 1608][/us/stat/118/1608], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 851(c)(2), Oct. 22, 2004, [118 Stat. 1608][/us/stat/118/1608], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -98,24 +98,24 @@
 [/us/stat/68A/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F482
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F389
-[/us/pl/98/369/s735/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F3
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F982
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1608
-[/us/pl/109/58/s1364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1364%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1060
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
-[/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
-[/us/pl/108/357/s851/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs851%2Fc%2F1
-[/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
-[/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
-[/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/109/58/s1364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1364%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1060
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s851/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs851%2Fc%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1608
 [/us/pl/108/357/s869/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fb
 [/us/pl/108/357/s869/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs869%2Fe

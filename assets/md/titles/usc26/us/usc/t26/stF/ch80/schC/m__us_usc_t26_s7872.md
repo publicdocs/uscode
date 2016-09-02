@@ -367,17 +367,17 @@
 
             Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
-(Added [Pub. L. 98–369, div. A, title I, § 172(a)][/us/pl/98/369/s172/a], July 18, 1984, [98 Stat. 699][/us/stat/98/699]; amended [Pub. L. 99–121, title II][/us/pl/99/121], §§ 201, 202, Oct. 11, 1985, [99 Stat. 511–513][/us/stat/99/511-513]; [Pub. L. 99–514, title V, § 511(d)(1)][/us/pl/99/514/s511/d/1], title XVIII, §§ 1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, [100 Stat. 2248][/us/stat/100/2248], 2834, 2879; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1005(c)(15), 1018(u)(48), Nov. 10, 1988, [102 Stat. 3393][/us/stat/102/3393], 3593; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], 1890, 1916; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839]; [Pub. L. 105–206, title VI, § 6023(30)][/us/pl/105/206/s6023/30], July 22, 1998, [112 Stat. 826][/us/stat/112/826]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(30)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648; [Pub. L. 109–222, title II, § 209(a)][/us/pl/109/222/s209/a], (b)(1), May 17, 2006, [120 Stat. 351][/us/stat/120/351], 352; [Pub. L. 109–432, div. A, title IV, § 425(a)][/us/pl/109/432/s425/a], Dec. 20, 2006, [120 Stat. 2974][/us/stat/120/2974].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 172(a), July 18, 1984, [98 Stat. 699][/us/stat/98/699]; amended [Pub. L. 99–121, title II][/us/pl/99/121/tII], §§ 201, 202, Oct. 11, 1985, [99 Stat. 511–513][/us/stat/99/511-513]; [Pub. L. 99–514, title V][/us/pl/99/514/tV], § 511(d)(1), title XVIII, §§ 1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, [100 Stat. 2248][/us/stat/100/2248], 2834, 2879; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1005(c)(15), 1018(u)(48), Nov. 10, 1988, [102 Stat. 3393][/us/stat/102/3393], 3593; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], 1890, 1916; [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 312(d)(1), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6023(30), July 22, 1998, [112 Stat. 826][/us/stat/112/826]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(30)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648; [Pub. L. 109–222, title II][/us/pl/109/222/tII], § 209(a), (b)(1), May 17, 2006, [120 Stat. 351][/us/stat/120/351], 352; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 425(a), Dec. 20, 2006, [120 Stat. 2974][/us/stat/120/2974].)
 
  __Amendments__ 
 
-    2006—Subsec. (g)(6). [Pub. L. 109–222, § 209(b)(1)][/us/pl/109/222/s209/b/1], added par. (6).
+    2006—Subsec. (g)(6). [Pub. L. 109–222][/us/pl/109/222], § 209(b)(1), added par. (6).
 
-    Subsec. (h). [Pub. L. 109–222, § 209(a)][/us/pl/109/222/s209/a], added subsec. (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 109–222][/us/pl/109/222], § 209(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
     Subsec. (h)(4). [Pub. L. 109–432][/us/pl/109/432] struck out heading and text of par. (4). Text read as follows: “This subsection shall not apply to any calendar year after 2010.”
 
-    Subsec. (i). [Pub. L. 109–222, § 209(a)][/us/pl/109/222/s209/a], redesignated subsec. (h) as (i).
+    Subsec. (i). [Pub. L. 109–222][/us/pl/109/222], § 209(a), redesignated subsec. (h) as (i).
 
     2000—Subsec. (f)(3). [Pub. L. 106–554][/us/pl/106/554] substituted “forgoing” for “foregoing”.
 
@@ -385,43 +385,43 @@
 
     1997—Subsec. (f)(11)(A). [Pub. L. 105–34][/us/pl/105/34] substituted “section 121” for “section 1034”.
 
-    1996—Subsec. (a)(1), (2). [Pub. L. 104–188, § 1704(t)(58)(A)][/us/pl/104/188/s1704/t/58/A], substituted “forgone” for “foregone”.
+    1996—Subsec. (a)(1), (2). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(58)(A), substituted “forgone” for “foregone”.
 
-    Subsec. (e). [Pub. L. 104–188, § 1704(t)(58)(B)][/us/pl/104/188/s1704/t/58/B], substituted “forgone” for “foregone” in heading.
+    Subsec. (e). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
 
-    Subsec. (e)(2). [Pub. L. 104–188, § 1704(t)(58)][/us/pl/104/188/s1704/t/58], substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
+    Subsec. (e)(2). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(58), substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
 
-    Subsec. (f)(8). [Pub. L. 104–188, § 1906(c)(2)][/us/pl/104/188/s1906/c/2], inserted “, 643(i),” before “or 1274” in heading and text.
+    Subsec. (f)(8). [Pub. L. 104–188][/us/pl/104/188], § 1906(c)(2), inserted “, 643(i),” before “or 1274” in heading and text.
 
-    Subsec. (f)(12). [Pub. L. 104–188, § 1602(b)(7)][/us/pl/104/188/s1602/b/7], struck out par. (12) which read as follows: “Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
+    Subsec. (f)(12). [Pub. L. 104–188][/us/pl/104/188], § 1602(b)(7), struck out par. (12) which read as follows: “Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
 
-    1988—Subsec. (d)(1)(E)(i). [Pub. L. 100–647, § 1005(c)(15)][/us/pl/100/647/s1005/c/15], directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by [Pub. L. 99–514, § 511(d)(1)][/us/pl/99/514/s511/d/1].
+    1988—Subsec. (d)(1)(E)(i). [Pub. L. 100–647][/us/pl/100/647], § 1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by [Pub. L. 99–514][/us/pl/99/514], § 511(d)(1).
 
-    Subsec. (f)(11), (12). [Pub. L. 100–647, § 1018(u)(48)][/us/pl/100/647/s1018/u/48], redesignated former par. (11), [Pub. L. 99–514][/us/pl/99/514], relating to special rule for certain employer security loans, as (12).
+    Subsec. (f)(11), (12). [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(48), redesignated former par. (11), [Pub. L. 99–514][/us/pl/99/514], relating to special rule for certain employer security loans, as (12).
 
-    1986—Subsec. (d)(1)(E)(i). [Pub. L. 99–514, § 511(d)(1)][/us/pl/99/514/s511/d/1], substituted “section 163(d)(4)” for “section 163(d)(3)”.
+    1986—Subsec. (d)(1)(E)(i). [Pub. L. 99–514][/us/pl/99/514], § 511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
 
-    Subsec. (f)(2)(B). [Pub. L. 99–514, § 1812(b)(4)][/us/pl/99/514/s1812/b/4], inserted “, compounded semiannually” before the period at end.
+    Subsec. (f)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1812(b)(4), inserted “, compounded semiannually” before the period at end.
 
-    Subsec. (f)(5). [Pub. L. 99–514, § 1812(b)(3)][/us/pl/99/514/s1812/b/3], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
+    Subsec. (f)(5). [Pub. L. 99–514][/us/pl/99/514], § 1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
 
-    Subsec. (f)(9). [Pub. L. 99–514, § 1812(b)(2)][/us/pl/99/514/s1812/b/2], amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
+    Subsec. (f)(9). [Pub. L. 99–514][/us/pl/99/514], § 1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
 
-    Subsec. (f)(11). [Pub. L. 99–514, § 1854(c)(2)(B)][/us/pl/99/514/s1854/c/2/B], added par. (11) relating to special rule for certain employer security loans.
+    Subsec. (f)(11). [Pub. L. 99–514][/us/pl/99/514], § 1854(c)(2)(B), added par. (11) relating to special rule for certain employer security loans.
 
-    1985—Subsec. (c)(1). [Pub. L. 99–121, § 201(c)(1)][/us/pl/99/121/s201/c/1], inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
+    1985—Subsec. (c)(1). [Pub. L. 99–121][/us/pl/99/121], § 201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
 
-    Subsec. (c)(1)(E). [Pub. L. 99–121, § 201(c)(2)][/us/pl/99/121/s201/c/2], substituted “(C), or (F)” for “or (C)”.
+    Subsec. (c)(1)(E). [Pub. L. 99–121][/us/pl/99/121], § 201(c)(2), substituted “(C), or (F)” for “or (C)”.
 
-    Subsec. (c)(1)(F). [Pub. L. 99–121, § 201(b)][/us/pl/99/121/s201/b], added subpar. (f).
+    Subsec. (c)(1)(F). [Pub. L. 99–121][/us/pl/99/121], § 201(b), added subpar. (f).
 
-    Subsec. (f)(11). [Pub. L. 99–121, § 202][/us/pl/99/121/s202], added par. (11) relating to time for determining rate applicable to employee relocation loans.
+    Subsec. (f)(11). [Pub. L. 99–121][/us/pl/99/121], § 202, added par. (11) relating to time for determining rate applicable to employee relocation loans.
 
-    Subsecs. (g), (h). [Pub. L. 99–121, § 201(a)][/us/pl/99/121/s201/a], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 99–121][/us/pl/99/121], § 201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 425(b)][/us/pl/109/432/s425/b], Dec. 20, 2006, [120 Stat. 2974][/us/stat/120/2974], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 425(b), Dec. 20, 2006, [120 Stat. 2974][/us/stat/120/2974], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 \[[Pub. L. 109–222][/us/pl/109/222]\].”
 
@@ -445,11 +445,11 @@
 
     Amendment by [section 511(d)(1) of Pub. L. 99–514][/us/pl/99/514/s511/d/1] applicable to taxable years beginning after Dec. 31, 1986, see [section 511(e) of Pub. L. 99–514][/us/pl/99/514/s511/e], set out as a note under [section 163 of this title][/us/usc/t26/s163].
 
-    Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–121, title II, § 204(a)][/us/pl/99/121/s204/a], (b), Oct. 11, 1985, [99 Stat. 514][/us/stat/99/514], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 99–121, title II][/us/pl/99/121/tII], § 204(a), (b), Oct. 11, 1985, [99 Stat. 514][/us/stat/99/514], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __Section__  __201.—__ 
 
@@ -467,7 +467,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 172(c)][/us/pl/98/369/s172/c], July 18, 1984, [98 Stat. 703][/us/stat/98/703], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 172(c), July 18, 1984, [98 Stat. 703][/us/stat/98/703], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -507,7 +507,7 @@
 
  __Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans__ 
 
-[Pub. L. 99–514, title XVIII, § 1812(b)(5)][/us/pl/99/514/s1812/b/5], Oct. 22, 1986, [100 Stat. 2834][/us/stat/100/2834], as amended by [Pub. L. 101–179, title III, § 307(a)][/us/pl/101/179/s307/a], Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(b)(5), Oct. 22, 1986, [100 Stat. 2834][/us/stat/100/2834], as amended by [Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 307(a), Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
 
 > “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
@@ -515,7 +515,7 @@
 
 >     “(B) the obligation bears interest at an annual rate of not less than 4 percent.”
 
-\[[Pub. L. 101–179, title III, § 307(b)][/us/pl/101/179/s307/b], Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
+\[[Pub. L. 101–179, title III][/us/pl/101/179/tIII], § 307(b), Nov. 28, 1989, [103 Stat. 1314][/us/stat/103/1314], provided that: 
 
 > “The amendments made by this section \[amending [section 1812(b)(5) of Pub. L. 99–514][/us/pl/99/514/s1812/b/5], set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”
 
@@ -528,53 +528,53 @@
 ----------
 ----------
 
-[/us/pl/98/369/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs172%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F699
-[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtII
 [/us/stat/99/511-513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F511-513
-[/us/pl/99/514/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F1
+[/us/pl/99/514/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtV
 [/us/stat/100/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2248
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3393
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1834
-[/us/pl/105/34/s312/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F1
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F839
-[/us/pl/105/206/s6023/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F30
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F826
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/222/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs209%2Fa
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F351
-[/us/pl/109/432/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs425%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2974
-[/us/pl/109/222/s209/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs209%2Fb%2F1
-[/us/pl/109/222/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs209%2Fa
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/222/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs209%2Fa
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/104/188/s1704/t/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F58%2FA
-[/us/pl/104/188/s1704/t/58/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F58%2FB
-[/us/pl/104/188/s1704/t/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F58
-[/us/pl/104/188/s1906/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1906%2Fc%2F2
-[/us/pl/104/188/s1602/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1602%2Fb%2F7
-[/us/pl/100/647/s1005/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fc%2F15
-[/us/pl/99/514/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F1
-[/us/pl/100/647/s1018/u/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F48
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F1
-[/us/pl/99/514/s1812/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F4
-[/us/pl/99/514/s1812/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F3
-[/us/pl/99/514/s1812/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F2
-[/us/pl/99/514/s1854/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1854%2Fc%2F2%2FB
-[/us/pl/99/121/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs201%2Fc%2F1
-[/us/pl/99/121/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs201%2Fc%2F2
-[/us/pl/99/121/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs201%2Fb
-[/us/pl/99/121/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs202
-[/us/pl/99/121/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs201%2Fa
-[/us/pl/109/432/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs425%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2974
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
@@ -597,25 +597,25 @@
 [/us/pl/99/514/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fe
 [/us/usc/t26/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs163
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/121/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs204%2Fa
+[/us/pl/99/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtII
 [/us/stat/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F514
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/98/369/s172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs172%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F703
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1812/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F5
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2834
-[/us/pl/101/179/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs307%2Fa
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1314
-[/us/pl/101/179/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2Fs307%2Fb
+[/us/pl/101/179/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F179%2FtIII
 [/us/stat/103/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1314
 [/us/pl/99/514/s1812/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F5
 

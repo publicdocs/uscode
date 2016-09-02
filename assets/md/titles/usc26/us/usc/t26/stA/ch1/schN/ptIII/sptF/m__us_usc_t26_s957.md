@@ -47,7 +47,7 @@
 
         For purposes of subparagraphs (A) and (B) of paragraph (2), the determination as to whether income was derived from the active conduct of a trade or business within a possession shall be made under regulations prescribed by the Secretary.
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1017][/us/stat/76/1017]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XII][/us/pl/99/514], §§ 1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553], 2556, 2558, 2595; [Pub. L. 108–357, title VIII, § 908(c)(5)][/us/pl/108/357/s908/c/5], Oct. 22, 2004, [118 Stat. 1656][/us/stat/118/1656].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1017][/us/stat/76/1017]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], §§ 1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553], 2556, 2558, 2595; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 908(c)(5), Oct. 22, 2004, [118 Stat. 1656][/us/stat/118/1656].)
 
  __References in Text__ 
 
@@ -55,25 +55,25 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–357, § 908(c)(5)(B)][/us/pl/108/357/s908/c/5/B], struck out “derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or” after “whether income was” in concluding provisions.
+    2004—Subsec. (c). [Pub. L. 108–357][/us/pl/108/357], § 908(c)(5)(B), struck out “derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or” after “whether income was” in concluding provisions.
 
-    Subsec. (c)(2)(B). [Pub. L. 108–357, § 908(c)(5)(A)][/us/pl/108/357/s908/c/5/A], substituted “active conduct of a” for “conduct of an active”.
+    Subsec. (c)(2)(B). [Pub. L. 108–357][/us/pl/108/357], § 908(c)(5)(A), substituted “active conduct of a” for “conduct of an active”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1222(a)(1)][/us/pl/99/514/s1222/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
 
-    Subsec. (b). [Pub. L. 99–514, § 1222(a)(2)][/us/pl/99/514/s1222/a/2], inserted “(or more than 25 percent of the total value of stock)”.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1222(a)(2), inserted “(or more than 25 percent of the total value of stock)”.
 
-    [Pub. L. 99–514, § 1221(b)(3)(C)][/us/pl/99/514/s1221/b/3/C], substituted “insurance income” for “income derived from insurance of United States risks”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1221(b)(3)(C), substituted “insurance income” for “income derived from insurance of United States risks”.
 
-    Subsec. (c). [Pub. L. 99–514, § 1273(a)][/us/pl/99/514/s1273/a], added par. (2) and concluding provisions and struck out former pars. (2) and (3) which read as follows:
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1273(a), added par. (2) and concluding provisions and struck out former pars. (2) and (3) which read as follows:
 
     “(2) with respect to a corporation organized under the laws of the Virgin Islands, such term does not include an individual who is a bona fide resident of the Virgin Islands and whose income tax obligation under this subtitle for the taxable year is satisfied pursuant to section 28(a) of the Revised Organic Act of the Virgin Islands, approved July 22, 1954 ([48 U.S.C. 1642][/us/usc/t48/s1642]), by paying tax on income derived from all sources both within and outside the Virgin Islands into the treasury of the Virgin Islands, and
 
     “(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose income derived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year.”
 
-    [Pub. L. 99–514, § 1224(a)][/us/pl/99/514/s1224/a], redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term “controlled foreign corporation” would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
+    [Pub. L. 99–514][/us/pl/99/514], § 1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term “controlled foreign corporation” would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
 
-    Subsec. (d). [Pub. L. 99–514, § 1224(a)][/us/pl/99/514/s1224/a], redesignated subsec. (d) as (c).
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1224(a), redesignated subsec. (d) as (c).
 
     1976—Subsec. (c) [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -85,7 +85,7 @@
 
     Amendment by [section 1221(b)(3)(C) of Pub. L. 99–514][/us/pl/99/514/s1221/b/3/C] applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see [section 1221(g) of Pub. L. 99–514][/us/pl/99/514/s1221/g], set out as a note under [section 954 of this title][/us/usc/t26/s954].
 
-[Pub. L. 99–514, title XII, § 1222(c)][/us/pl/99/514/s1222/c], Oct. 22, 1986, [100 Stat. 2557][/us/stat/100/2557], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1222(c), Oct. 22, 1986, [100 Stat. 2557][/us/stat/100/2557], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -105,7 +105,7 @@
 
 >         amounts which are included in the gross income of such beneficiary under section 951(a) of the Internal Revenue Code of 1986 with respect to stock held by the trust (and treated as distributed to the trust) shall be treated as the first amounts which are distributed by the trust to such beneficiary and as amounts to which section 959(a) of such Code applies.”
 
-[Pub. L. 99–514, title XII, § 1224(b)][/us/pl/99/514/s1224/b], Oct. 22, 1986, [100 Stat. 2558][/us/stat/100/2558], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1224(b), Oct. 22, 1986, [100 Stat. 2558][/us/stat/100/2558], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -124,23 +124,23 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1017
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2553
-[/us/pl/108/357/s908/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fc%2F5
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1656
-[/us/pl/108/357/s908/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fc%2F5%2FB
-[/us/pl/108/357/s908/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fc%2F5%2FA
-[/us/pl/99/514/s1222/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1222%2Fa%2F1
-[/us/pl/99/514/s1222/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1222%2Fa%2F2
-[/us/pl/99/514/s1221/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fb%2F3%2FC
-[/us/pl/99/514/s1273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1273%2Fa
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t48/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1642
-[/us/pl/99/514/s1224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1224%2Fa
-[/us/pl/99/514/s1224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1224%2Fa
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s908/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fd%2F1
@@ -148,10 +148,10 @@
 [/us/pl/99/514/s1221/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fb%2F3%2FC
 [/us/pl/99/514/s1221/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fg
 [/us/usc/t26/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs954
-[/us/pl/99/514/s1222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1222%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2557
 [/us/usc/t26/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs552
-[/us/pl/99/514/s1224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1224%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2558
 [/us/pl/99/514/s1273/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1273%2Fa
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277

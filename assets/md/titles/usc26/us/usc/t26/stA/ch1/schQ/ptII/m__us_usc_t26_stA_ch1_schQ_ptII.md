@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(35)][/us/pl/94/455/s1901/b/35], Oct. 4, 1976, [90 Stat. 1802][/us/stat/90/1802], struck out item 1315 “Effective date”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(35), Oct. 4, 1976, [90 Stat. 1802][/us/stat/90/1802], struck out item 1315 “Effective date”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F35
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1802
 
 

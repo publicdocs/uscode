@@ -23,13 +23,13 @@
 
         For registration in case of wagering, see section 4412.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 594][/us/stat/68A/594]; [Pub. L. 89–44, title IV, § 405(c)][/us/pl/89/44/s405/c], June 21, 1965, [79 Stat. 149][/us/stat/79/149]; [Pub. L. 91–513, title III, § 1102(b)][/us/pl/91/513/s1102/b], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(a)(20), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814], 1816, 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 594][/us/stat/68A/594]; [Pub. L. 89–44, title IV][/us/pl/89/44/tIV], § 405(c), June 21, 1965, [79 Stat. 149][/us/stat/79/149]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(b), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1904(a)(20), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814], 1816, 1834.)
 
  __Amendments__ 
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1904(a)(20), 1906(b)(13)(A), substituted “spouse or child” for “wife or child” and struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (b). [Pub. L. 94–455, § 1904(b)(8)(A)][/us/pl/94/455/s1904/b/8/A], among other changes, struck out reference to section 4804(d) for registration in case of white phosphorous matches and references to subtitle F for other provisions relating to registration.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1904(b)(8)(A), among other changes, struck out reference to section 4804(d) for registration in case of white phosphorous matches and references to subtitle F for other provisions relating to registration.
 
     1970—Subsec. (b)(1). [Pub. L. 91–513][/us/pl/91/513] struck out references to narcotics and marihuana and to sections 4722 and 4753.
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–44, title VII, § 701(c)(2)][/us/pl/89/44/s701/c/2], June 21, 1965, [79 Stat. 157][/us/stat/79/157], provided in part that: 
+[Pub. L. 89–44, title VII][/us/pl/89/44/tVII], § 701(c)(2), June 21, 1965, [79 Stat. 157][/us/stat/79/157], provided in part that: 
 
 > “The amendments made by section 402 \[repealing sections 4451 to 4457 of this title\] (relating to playing cards) and by subsection (c) of section 405 \[amending this section\] shall apply on and after the day after the date of the enactment of this Act \[June 21, 1965\].”
 
@@ -58,20 +58,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F594
-[/us/pl/89/44/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs405%2Fc
+[/us/pl/89/44/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIV
 [/us/stat/79/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F149
-[/us/pl/91/513/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fb
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1814
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1904/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F8%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/91/513/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1105%2Fa
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
-[/us/pl/89/44/s701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs701%2Fc%2F2
+[/us/pl/89/44/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVII
 [/us/stat/79/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F157
 [/us/pl/91/513/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102
 [/us/pl/91/513/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1103

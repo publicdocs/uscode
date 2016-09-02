@@ -23,7 +23,7 @@
 
     (4) For procedure relating to partnership items, see subchapter C.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 773][/us/stat/68A/773]; [Pub. L. 96–589, § 6(i)(9)][/us/pl/96/589/s6/i/9], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–248, title IV, § 402(c)(3)][/us/pl/97/248/s402/c/3], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 773][/us/stat/68A/773]; [Pub. L. 96–589][/us/pl/96/589], § 6(i)(9), Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(3), Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F773
-[/us/pl/96/589/s6/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fi%2F9
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3411
-[/us/pl/97/248/s402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F3
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F667
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589

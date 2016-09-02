@@ -39,13 +39,13 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to implement this section.
 
-(Added [Pub. L. 89–809, title I, § 108(f)][/us/pl/89/809/s108/f], Nov. 13, 1966, [80 Stat. 1573][/us/stat/80/1573]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(6), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834.)
+(Added [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(f), Nov. 13, 1966, [80 Stat. 1573][/us/stat/80/1573]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1902(a)(6), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1902(a)(6)][/us/pl/94/455/s1902/a/6], substituted “November 13, 1976” for “the date of enactment of this section” after “on or after”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(6), substituted “November 13, 1976” for “the date of enactment of this section” after “on or after”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/89/809/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Ff
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1573
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
-[/us/pl/94/455/s1902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F6
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F6
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012

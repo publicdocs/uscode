@@ -27,7 +27,7 @@
 
         No State or local agency may receive reimbursement under this section if reimbursement has been received by such agency under a Federal or State forfeiture program or under State revenue laws.
 
-(Added [Pub. L. 100–690, title VII, § 7602(a)][/us/pl/100/690/s7602/a], Nov. 18, 1988, [102 Stat. 4507][/us/stat/102/4507].)
+(Added [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7602(a), Nov. 18, 1988, [102 Stat. 4507][/us/stat/102/4507].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 
  __Regulations__ 
 
-[Pub. L. 100–690, title VII, § 7602(g)][/us/pl/100/690/s7602/g], Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7602(g), Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], provided that: 
 
 > “The Secretary of the Treasury shall, not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], prescribe such rules and regulations as shall be necessary and proper to carry out the provisions of this section \[enacting [section 7624 of this title][/us/usc/t26/s7624], amending sections 6103 and 7809 of this title, and enacting provisions set out as notes under sections 6103 and 7809 of this title\], including regulations relating to the definition of information which substantially contributes to the recovery of Federal taxes and the substantiation of expenses required in order to receive a reimbursement.”
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/100/690/s7602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fa
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4507
 [/us/pl/100/690/s7602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fe
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/100/690/s7602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fg
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4508
 [/us/usc/t26/s7624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7624
 

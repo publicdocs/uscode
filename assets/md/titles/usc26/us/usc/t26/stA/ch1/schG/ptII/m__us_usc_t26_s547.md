@@ -79,13 +79,13 @@
 
         No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of the deficiency is due to fraud with intent to evade tax, or to wilful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 191][/us/stat/68A/191]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(78), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1777][/us/stat/90/1777], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 191][/us/stat/68A/191]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(78), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1777][/us/stat/90/1777], 1834.)
 
  __Amendments__ 
 
-    1976—Subsecs. (c)(3), (e), (g). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (c)(3), (e), (g). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (h). [Pub. L. 94–455, § 1901(a)(78)][/us/pl/94/455/s1901/a/78], struck out subsec. (h) relating to the effective date of provisions concerning deduction of deficiency dividends.
+    Subsec. (h). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(78), struck out subsec. (h) relating to the effective date of provisions concerning deduction of deficiency dividends.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -100,10 +100,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F191
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1777
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F78
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F78
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2

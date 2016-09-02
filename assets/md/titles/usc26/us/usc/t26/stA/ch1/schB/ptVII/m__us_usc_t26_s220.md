@@ -533,7 +533,7 @@
 
             Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added [Pub. L. 104–191, title III, § 301(a)][/us/pl/104/191/s301/a], Aug. 21, 1996, [110 Stat. 2037][/us/stat/110/2037]; amended [Pub. L. 105–33, title IV, § 4006(b)(2)][/us/pl/105/33/s4006/b/2], Aug. 5, 1997, [111 Stat. 333][/us/stat/111/333]; [Pub. L. 105–34, title XVI, § 1602(a)(2)][/us/pl/105/34/s1602/a/2], (3), Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093], 1094; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, §§ 201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 107–147, title VI, § 612(a)][/us/pl/107/147/s612/a], (b), Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 108–173, title XII, § 1201(c)][/us/pl/108/173/s1201/c], Dec. 8, 2003, [117 Stat. 2476][/us/stat/117/2476]; [Pub. L. 108–311, title II, § 207(19)][/us/pl/108/311/s207/19], title III, § 322(a), (b), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1183; [Pub. L. 109–432, div. A, title I, § 117(a)][/us/pl/109/432/s117/a], (b), Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 111–148, title IX][/us/pl/111/148], §§ 9003(b), 9004(b), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854].)
+(Added [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 301(a), Aug. 21, 1996, [110 Stat. 2037][/us/stat/110/2037]; amended [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4006(b)(2), Aug. 5, 1997, [111 Stat. 333][/us/stat/111/333]; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(a)(2), (3), Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093], 1094; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, §§ 201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 612(a), (b), Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 108–173, title XII][/us/pl/108/173/tXII], § 1201(c), Dec. 8, 2003, [117 Stat. 2476][/us/stat/117/2476]; [Pub. L. 108–311, title II][/us/pl/108/311/tII], § 207(19), title III, § 322(a), (b), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1183; [Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 117(a), (b), Dec. 20, 2006, [120 Stat. 2941][/us/stat/120/2941]; [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], §§ 9003(b), 9004(b), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -547,133 +547,133 @@
 
     A prior section 220 was renumbered 224 of this title.
 
-    Another prior section 220, added [Pub. L. 100–647, title VI, § 6007(a)][/us/pl/100/647/s6007/a], Nov. 10, 1988, [102 Stat. 3687][/us/stat/102/3687], related to jury duty pay remitted to employer, prior to repeal by [Pub. L. 101–508, title XI, § 11802(e)(2)][/us/pl/101/508/s11802/e/2], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530].
+    Another prior section 220, added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6007(a), Nov. 10, 1988, [102 Stat. 3687][/us/stat/102/3687], related to jury duty pay remitted to employer, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11802(e)(2), Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530].
 
-    Another prior section 220, added [Pub. L. 94–455, title XV, § 1501(a)][/us/pl/94/455/s1501/a], Oct. 4, 1976, [90 Stat. 1734][/us/stat/90/1734]; amended [Pub. L. 95–600, title I][/us/pl/95/600], §§ 156(c)(3), 157(a)(2), (b)(2), title VII, § 703(c)(2), (3), Nov. 6, 1978, [92 Stat. 2803][/us/stat/92/2803], 2804, 2939; [Pub. L. 96–222, title I, § 101(a)(14)(B)][/us/pl/96/222/s101/a/14/B], Apr. 1, 1980, [94 Stat. 204][/us/stat/94/204], related to retirement savings for certain married individuals, prior to repeal by [Pub. L. 97–34, title III, § 311(e)][/us/pl/97/34/s311/e], Aug. 13, 1981, [95 Stat. 280][/us/stat/95/280], applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under [section 220 of this title][/us/usc/t26/s220], as in effect prior to its repeal, treated as deductions under [section 219 of this title][/us/usc/t26/s219].
+    Another prior section 220, added [Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1501(a), Oct. 4, 1976, [90 Stat. 1734][/us/stat/90/1734]; amended [Pub. L. 95–600, title I][/us/pl/95/600/tI], §§ 156(c)(3), 157(a)(2), (b)(2), title VII, § 703(c)(2), (3), Nov. 6, 1978, [92 Stat. 2803][/us/stat/92/2803], 2804, 2939; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 101(a)(14)(B), Apr. 1, 1980, [94 Stat. 204][/us/stat/94/204], related to retirement savings for certain married individuals, prior to repeal by [Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 311(e), Aug. 13, 1981, [95 Stat. 280][/us/stat/95/280], applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under [section 220 of this title][/us/usc/t26/s220], as in effect prior to its repeal, treated as deductions under [section 219 of this title][/us/usc/t26/s219].
 
  __Amendments__ 
 
-    2010—Subsec. (d)(2)(A). [Pub. L. 111–148, § 9003(b)][/us/pl/111/148/s9003/b], inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+    2010—Subsec. (d)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 9003(b), inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
 
-    Subsec. (f)(4)(A). [Pub. L. 111–148, § 9004(b)][/us/pl/111/148/s9004/b], substituted “20 percent” for “15 percent”.
+    Subsec. (f)(4)(A). [Pub. L. 111–148][/us/pl/111/148], § 9004(b), substituted “20 percent” for “15 percent”.
 
-    2006—Subsec. (i)(2), (3)(B). [Pub. L. 109–432, § 117(a)][/us/pl/109/432/s117/a], substituted “2007” for “2005” wherever appearing in headings and text.
+    2006—Subsec. (i)(2), (3)(B). [Pub. L. 109–432][/us/pl/109/432], § 117(a), substituted “2007” for “2005” wherever appearing in headings and text.
 
-    Subsec. (j)(2). [Pub. L. 109–432, § 117(b)(1)][/us/pl/109/432/s117/b/1], substituted “2004, 2005, or 2006” for “or 2004” in heading and in introductory provisions of subpars. (A) and (B).
+    Subsec. (j)(2). [Pub. L. 109–432][/us/pl/109/432], § 117(b)(1), substituted “2004, 2005, or 2006” for “or 2004” in heading and in introductory provisions of subpars. (A) and (B).
 
-    Subsec. (j)(4)(A). [Pub. L. 109–432, § 117(b)(2)][/us/pl/109/432/s117/b/2], substituted “2004, 2005, and 2006” for “and 2004” in introductory provisions.
+    Subsec. (j)(4)(A). [Pub. L. 109–432][/us/pl/109/432], § 117(b)(2), substituted “2004, 2005, and 2006” for “and 2004” in introductory provisions.
 
-    2004—Subsec. (d)(2)(A). [Pub. L. 108–311, § 207(19)][/us/pl/108/311/s207/19], inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+    2004—Subsec. (d)(2)(A). [Pub. L. 108–311][/us/pl/108/311], § 207(19), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-    Subsec. (i)(2), (3)(B). [Pub. L. 108–311, § 322(a)][/us/pl/108/311/s322/a], substituted “2005” for “2003” wherever appearing in headings and text.
+    Subsec. (i)(2), (3)(B). [Pub. L. 108–311][/us/pl/108/311], § 322(a), substituted “2005” for “2003” wherever appearing in headings and text.
 
-    Subsec. (j)(2). [Pub. L. 108–311, § 322(b)(1)(B)][/us/pl/108/311/s322/b/1/B], substituted “2002, or 2004” for “or 2002” in heading.
+    Subsec. (j)(2). [Pub. L. 108–311][/us/pl/108/311], § 322(b)(1)(B), substituted “2002, or 2004” for “or 2002” in heading.
 
-    Subsec. (j)(2)(A), (B). [Pub. L. 108–311, § 322(b)(1)(A)][/us/pl/108/311/s322/b/1/A], substituted “2002, or 2004” for “or 2002” in introductory provisions.
+    Subsec. (j)(2)(A), (B). [Pub. L. 108–311][/us/pl/108/311], § 322(b)(1)(A), substituted “2002, or 2004” for “or 2002” in introductory provisions.
 
-    Subsec. (j)(2)(C). [Pub. L. 108–311, § 322(b)(3)][/us/pl/108/311/s322/b/3], amended heading and text of subpar. (C) generally. Prior to amendment text read as follows: “The numerical limitation shall not apply for 2000.”
+    Subsec. (j)(2)(C). [Pub. L. 108–311][/us/pl/108/311], § 322(b)(3), amended heading and text of subpar. (C) generally. Prior to amendment text read as follows: “The numerical limitation shall not apply for 2000.”
 
-    Subsec. (j)(4)(A). [Pub. L. 108–311, § 322(b)(2)][/us/pl/108/311/s322/b/2], substituted “2002, and 2004” for “and 2002” in introductory provisions.
+    Subsec. (j)(4)(A). [Pub. L. 108–311][/us/pl/108/311], § 322(b)(2), substituted “2002, and 2004” for “and 2002” in introductory provisions.
 
     2003—Subsec. (f)(5)(A). [Pub. L. 108–173][/us/pl/108/173] inserted “or a health savings account (as defined in section 223(d))” after “paid into an Archer MSA”.
 
-    2002—Subsec. (i)(2). [Pub. L. 107–147, § 612(a)][/us/pl/107/147/s612/a], substituted “2003” for “2002” in subpars. (A) and (B).
+    2002—Subsec. (i)(2). [Pub. L. 107–147][/us/pl/107/147], § 612(a), substituted “2003” for “2002” in subpars. (A) and (B).
 
-    Subsec. (i)(3)(B). [Pub. L. 107–147, § 612(a)][/us/pl/107/147/s612/a], substituted “2003” for “2002” in heading and introductory provisions.
+    Subsec. (i)(3)(B). [Pub. L. 107–147][/us/pl/107/147], § 612(a), substituted “2003” for “2002” in heading and introductory provisions.
 
-    Subsec. (j)(2). [Pub. L. 107–147, § 612(b)(1)][/us/pl/107/147/s612/b/1], substituted “1998, 1999, 2001, or 2002” for “1998, 1999, or 2001” wherever appearing in heading and text.
+    Subsec. (j)(2). [Pub. L. 107–147][/us/pl/107/147], § 612(b)(1), substituted “1998, 1999, 2001, or 2002” for “1998, 1999, or 2001” wherever appearing in heading and text.
 
-    Subsec. (j)(4)(A). [Pub. L. 107–147, § 612(b)(2)][/us/pl/107/147/s612/b/2], substituted “2001, and 2002” for “and 2001”.
+    Subsec. (j)(4)(A). [Pub. L. 107–147][/us/pl/107/147], § 612(b)(2), substituted “2001, and 2002” for “and 2001”.
 
-    2000—[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(8)\], substituted “Archer MSAs” for “Medical savings accounts” in section catchline.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(8)\], substituted “Archer MSAs” for “Medical savings accounts” in section catchline.
 
-    Subsecs. (a), (b)(5). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+    Subsecs. (a), (b)(5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account” wherever appearing.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account” wherever appearing.
 
-    Subsec. (c)(1)(C). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(7)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
+    Subsec. (c)(1)(C). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(7)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
-    Subsec. (c)(1)(C)(i). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+    Subsec. (c)(1)(C)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (c)(1)(D). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsec. (c)(1)(D). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (c)(4)(C)(ii). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (c)(4)(C)(ii). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(4)\], substituted “Archer MSA” for “Medical savings account” in heading.
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(4)\], substituted “Archer MSA” for “Medical savings account” in heading.
 
-    Subsec. (d)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(5)\], substituted “Archer MSA” for “Medical savings account” in heading.
+    Subsec. (d)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(5)\], substituted “Archer MSA” for “Medical savings account” in heading.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4), (b)(3)\], in introductory provisions, substituted “Archer MSA” for “medical savings account” and inserted “as a medical savings account” after “United States”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4), (b)(3)\], in introductory provisions, substituted “Archer MSA” for “medical savings account” and inserted “as a medical savings account” after “United States”.
 
-    Subsec. (d)(2)(C), (3). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (d)(2)(C), (3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10), (11)\], substituted “An Archer MSA is exempt” for “A Archer MSA is exempt” and “ceased to be an Archer MSA” for “ceased to be a Archer MSA”.
+    Subsec. (e)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10), (11)\], substituted “An Archer MSA is exempt” for “A Archer MSA is exempt” and “ceased to be an Archer MSA” for “ceased to be a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account” in two places.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account” in two places.
 
-    Subsec. (e)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsec. (e)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” wherever appearing.
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” wherever appearing.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4), (b)(2)(B)\], substituted “Archer MSA” for “medical savings account” wherever appearing and “Archer MSAs” for “medical savings accounts” in introductory provisions of par. (3)(A).
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4), (b)(2)(B)\], substituted “Archer MSA” for “medical savings account” wherever appearing and “Archer MSAs” for “medical savings accounts” in introductory provisions of par. (3)(A).
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (i). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
+    Subsec. (i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
-    Subsec. (i)(2)(A), (B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(a)\], substituted “2002” for “2000”.
+    Subsec. (i)(2)(A), (B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(a)\], substituted “2002” for “2000”.
 
-    Subsec. (i)(3)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (i)(3)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (i)(3)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(a)\], substituted “2002” for “2000” in heading and introductory provisions.
+    Subsec. (i)(3)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(a)\], substituted “2002” for “2000” in heading and introductory provisions.
 
-    Subsec. (i)(4)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (i)(4)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (i)(4)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsec. (i)(4)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (i)(5)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (i)(5)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (j)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts” in introductory provisions.
+    Subsec. (j)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts” in introductory provisions.
 
-    Subsec. (j)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(b)(1)(A)\], substituted “1998, 1999, or 2001” for “1998 or 1999” in heading and in introductory provisions of subpars. (A) and (B).
+    Subsec. (j)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(b)(1)(A)\], substituted “1998, 1999, or 2001” for “1998 or 1999” in heading and in introductory provisions of subpars. (A) and (B).
 
-    Subsec. (j)(2)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(b)(1)(B)\], substituted “750,000 (600,000 in the case of 1998)” for “600,000 (750,000 in the case of 1999)” in concluding provisions.
+    Subsec. (j)(2)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(b)(1)(B)\], substituted “750,000 (600,000 in the case of 1998)” for “600,000 (750,000 in the case of 1999)” in concluding provisions.
 
-    Subsec. (j)(2)(B)(ii). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsec. (j)(2)(B)(ii). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (j)(2)(C). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(b)(1)(C)\], added subpar. (C).
+    Subsec. (j)(2)(C). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(b)(1)(C)\], added subpar. (C).
 
-    Subsec. (j)(3)(A), (B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (j)(3)(A), (B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (j)(4)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
+    Subsec. (j)(4)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, §§ 201(b)(2), 202(a)(4)\], in introductory provisions, substituted “1999, and 2001” for “and 1999” and “Archer MSA” for “medical savings account”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, §§ 201(b)(2), 202(a)(4)\], in introductory provisions, substituted “1999, and 2001” for “and 1999” and “Archer MSA” for “medical savings account”.
 
-    Subsec. (j)(4)(A)(i). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsec. (j)(4)(A)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (j)(4)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+    Subsec. (j)(4)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(4)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsec. (j)(4)(D). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts” in two places.
+    Subsec. (j)(4)(D). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(B)\], substituted “Archer MSAs” for “medical savings accounts” in two places.
 
     1997—Subsec. (b)(7). [Pub. L. 105–33][/us/pl/105/33] added par. (7).
 
-    Subsec. (c)(3). [Pub. L. 105–34, § 1602(a)(2)][/us/pl/105/34/s1602/a/2], redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “Medicare supplemental insurance,”.
+    Subsec. (c)(3). [Pub. L. 105–34][/us/pl/105/34], § 1602(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “Medicare supplemental insurance,”.
 
-    Subsec. (d)(2)(C). [Pub. L. 105–34, § 1602(a)(3)][/us/pl/105/34/s1602/a/3], substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
+    Subsec. (d)(2)(C). [Pub. L. 105–34][/us/pl/105/34], § 1602(a)(3), substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title IX, § 9003(d)(1)][/us/pl/111/148/s9003/d/1], Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9003(d)(1), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 223 of this title][/us/usc/t26/s223]\] shall apply to amounts paid with respect to taxable years beginning after December 31, 2010.”
 
-[Pub. L. 111–148, title IX, § 9004(c)][/us/pl/111/148/s9004/c], Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9004(c), Mar. 23, 2010, [124 Stat. 854][/us/stat/124/854], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 223 of this title][/us/usc/t26/s223]\] shall apply to distributions made after December 31, 2010.”
 
@@ -681,7 +681,7 @@
 
     Amendment by [section 207(19) of Pub. L. 108–311][/us/pl/108/311/s207/19] applicable to taxable years beginning after Dec. 31, 2004, see [section 208 of Pub. L. 108–311][/us/pl/108/311/s208], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
-[Pub. L. 108–311, title III, § 322(c)][/us/pl/108/311/s322/c], Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183], provided that: 
+[Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 322(c), Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 2004.”
 
@@ -691,13 +691,13 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–147, title VI, § 612(c)][/us/pl/107/147/s612/c], Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61], provided that: 
+[Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 612(c), Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 2002.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 201(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 201(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -713,13 +713,13 @@
 
  __Time for Filing Reports, Etc.__ 
 
-[Pub. L. 109–432, div. A, title I, § 117(c)][/us/pl/109/432/s117/c], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], provided that:
+[Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 117(c), Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], provided that:
 
 >     “(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
 
 >     “(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2005 or calendar year 2006, as the case may be, shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2005 or 2006 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period.”
 
-[Pub. L. 108–311, title III, § 322(d)][/us/pl/108/311/s322/d], Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183], provided that:
+[Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 322(d), Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183], provided that:
 
 >     “(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2004, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Oct. 4, 2004\].
 
@@ -727,7 +727,7 @@
 
  __Monitoring of Participation in Medical Savings Accounts__ 
 
-[Pub. L. 104–191, title III, § 301(k)][/us/pl/104/191/s301/k], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052], provided that: 
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 301(k), Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052], provided that: 
 
 > “The Secretary of the Treasury or his delegate shall—
 
@@ -737,7 +737,7 @@
 
  __Study of Effects of Medical Savings Accounts on Small Group Market__ 
 
-[Pub. L. 104–191, title III, § 301][/us/pl/104/191/s301](l), Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052], provided that: 
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 301(l), Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052], provided that: 
 
 > “The Comptroller General of the United States shall enter into a contract with an organization with expertise in health economics, health insurance markets, and actuarial science to conduct a comprehensive study regarding the effects of medical savings accounts in the small group market on—
 
@@ -762,117 +762,117 @@
 ----------
 ----------
 
-[/us/pl/104/191/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fa
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2037
-[/us/pl/105/33/s4006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4006%2Fb%2F2
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F333
-[/us/pl/105/34/s1602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fa%2F2
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1093
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fa
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F61
-[/us/pl/108/173/s1201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fc
+[/us/pl/108/173/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXII
 [/us/stat/117/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2476
-[/us/pl/108/311/s207/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F19
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
-[/us/pl/109/432/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs117%2Fa
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2941
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F854
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/100/647/s6007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6007%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3687
-[/us/pl/101/508/s11802/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11802%2Fe%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-530
-[/us/pl/94/455/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fa
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1734
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2803
-[/us/pl/96/222/s101/a/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F14%2FB
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F204
-[/us/pl/97/34/s311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs311%2Fe
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F280
 [/us/usc/t26/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs220
 [/us/usc/t26/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs219
-[/us/pl/111/148/s9003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9003%2Fb
-[/us/pl/111/148/s9004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9004%2Fb
-[/us/pl/109/432/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs117%2Fa
-[/us/pl/109/432/s117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs117%2Fb%2F1
-[/us/pl/109/432/s117/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs117%2Fb%2F2
-[/us/pl/108/311/s207/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F19
-[/us/pl/108/311/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fa
-[/us/pl/108/311/s322/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fb%2F1%2FB
-[/us/pl/108/311/s322/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fb%2F1%2FA
-[/us/pl/108/311/s322/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fb%2F3
-[/us/pl/108/311/s322/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fb%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/107/147/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fa
-[/us/pl/107/147/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fa
-[/us/pl/107/147/s612/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fb%2F1
-[/us/pl/107/147/s612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fb%2F2
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/105/34/s1602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fa%2F2
-[/us/pl/105/34/s1602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fa%2F3
-[/us/pl/111/148/s9003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9003%2Fd%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F854
 [/us/usc/t26/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223
-[/us/pl/111/148/s9004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9004%2Fc
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F854
 [/us/usc/t26/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs223
 [/us/pl/108/311/s207/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F19
 [/us/pl/108/311/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs208
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/108/311/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fc
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1183
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s1201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fk
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/107/147/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs612%2Fc
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F61
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
@@ -883,13 +883,13 @@
 [/us/usc/t26/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs138
 [/us/pl/104/191/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fj
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/109/432/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs117%2Fc
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2942
-[/us/pl/108/311/s322/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs322%2Fd
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1183
-[/us/pl/104/191/s301/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fk
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2052
-[/us/pl/104/191/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2052
 
 

@@ -45,7 +45,7 @@
 
                 Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
 
-([Aug. 16, 1954, ch. 763][/us/act/1954-08-16/ch763], [68A Stat. 247][/us/stat/68A/247]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(D)][/us/pl/94/455/s1901/b/3/D], Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792]; [Pub. L. 98–369, div. A, title I, § 74(b)][/us/pl/98/369/s74/b], July 18, 1984, [98 Stat. 593][/us/stat/98/593]; [Pub. L. 105–34, title X, § 1062(b)(3)][/us/pl/105/34/s1062/b/3], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
+([Aug. 16, 1954, ch. 763][/us/act/1954-08-16/ch763], [68A Stat. 247][/us/stat/68A/247]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(3)(D), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 74(b), July 18, 1984, [98 Stat. 593][/us/stat/98/593]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1062(b)(3), Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 74(d)(2)][/us/pl/98/369/s74/d/2], July 18, 1984, [98 Stat. 594][/us/stat/98/594], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 74(d)(2), July 18, 1984, [98 Stat. 594][/us/stat/98/594], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
 
@@ -78,11 +78,11 @@
 
 [/us/act/1954-08-16/ch763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch763
 [/us/stat/68A/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F247
-[/us/pl/94/455/s1901/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FD
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1792
-[/us/pl/98/369/s74/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs74%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F593
-[/us/pl/105/34/s1062/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fb%2F3
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F947
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -90,7 +90,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fc
 [/us/usc/t26/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs724
-[/us/pl/98/369/s74/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs74%2Fd%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F594
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

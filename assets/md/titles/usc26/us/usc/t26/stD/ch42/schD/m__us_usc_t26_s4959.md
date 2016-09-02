@@ -17,7 +17,7 @@
 
     If a hospital organization to which section 501(r) applies fails to meet the requirement of section 501(r)(3) for any taxable year, there is imposed on the organization a tax equal to $50,000.
 
-(Added [Pub. L. 111–148, title IX, § 9007(b)(1)][/us/pl/111/148/s9007/b/1], Mar. 23, 2010, [124 Stat. 857][/us/stat/124/857].)
+(Added [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9007(b)(1), Mar. 23, 2010, [124 Stat. 857][/us/stat/124/857].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s9007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9007%2Fb%2F1
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F857
 [/us/pl/111/148/s9007/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9007%2Ff%2F3
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501

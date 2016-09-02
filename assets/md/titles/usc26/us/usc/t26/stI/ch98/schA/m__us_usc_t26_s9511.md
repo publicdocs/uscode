@@ -101,7 +101,7 @@
 
         No amounts shall be available for expenditure from the PCORTF after September 30, 2019, and any amounts in such Trust Fund after such date shall be transferred to the general fund of the Treasury.
 
-(Added [Pub. L. 111–148, title VI, § 6301(e)(1)(A)][/us/pl/111/148/s6301/e/1/A], Mar. 23, 2010, [124 Stat. 742][/us/stat/124/742].)
+(Added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(e)(1)(A), Mar. 23, 2010, [124 Stat. 742][/us/stat/124/742].)
 
  __References in Text__ 
 
@@ -113,7 +113,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 9511, added [Pub. L. 102–240, title VIII, § 8003(a)][/us/pl/102/240/s8003/a], Dec. 18, 1991, [105 Stat. 2205][/us/stat/105/2205]; amended [Pub. L. 105–130, § 9(c)][/us/pl/105/130/s9/c], Dec. 1, 1997, [111 Stat. 2561][/us/stat/111/2561], related to National Recreational Trails Trust Fund, prior to repeal by [Pub. L. 105–178, title IX, § 9011(a)][/us/pl/105/178/s9011/a], June 9, 1998, [112 Stat. 508][/us/stat/112/508].
+    A prior section 9511, added [Pub. L. 102–240, title VIII][/us/pl/102/240/tVIII], § 8003(a), Dec. 18, 1991, [105 Stat. 2205][/us/stat/105/2205]; amended [Pub. L. 105–130][/us/pl/105/130], § 9(c), Dec. 1, 1997, [111 Stat. 2561][/us/stat/111/2561], related to National Recreational Trails Trust Fund, prior to repeal by [Pub. L. 105–178, title IX][/us/pl/105/178/tIX], § 9011(a), June 9, 1998, [112 Stat. 508][/us/stat/112/508].
 
 ----------
 
@@ -122,18 +122,18 @@
 ----------
 ----------
 
-[/us/pl/111/148/s6301/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fe%2F1%2FA
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F742
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t42/s299b–37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs299b%E2%80%9337
-[/us/pl/102/240/s8003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs8003%2Fa
+[/us/pl/102/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVIII
 [/us/stat/105/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2205
-[/us/pl/105/130/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130%2Fs9%2Fc
+[/us/pl/105/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F130
 [/us/stat/111/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2561
-[/us/pl/105/178/s9011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs9011%2Fa
+[/us/pl/105/178/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIX
 [/us/stat/112/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F508
 
 

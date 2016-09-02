@@ -385,7 +385,7 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added [Pub. L. 103–66, title XIII, § 13113(a)][/us/pl/103/66/s13113/a], Aug. 10, 1993, [107 Stat. 422][/us/stat/107/422]; amended [Pub. L. 104–188, title I, § 1621(b)(7)][/us/pl/104/188/s1621/b/7], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(a), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 108–357, title VIII, § 835(b)(9)][/us/pl/108/357/s835/b/9], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 111–5, div. B, title I, § 1241(a)][/us/pl/111/5/s1241/a], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II, § 2011(a)][/us/pl/111/240/s2011/a], (b), Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554]; [Pub. L. 111–312, title VII][/us/pl/111/312], §§ 753(b), 760(a), Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], 3323; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 324(a), (b), 327(b), Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], 2334; [Pub. L. 113–295, div. A, title I, § 136(a)][/us/pl/113/295/s136/a], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019]; [Pub. L. 114–113, div. Q, title I, § 126(a)][/us/pl/114/113/s126/a], Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13113(a), Aug. 10, 1993, [107 Stat. 422][/us/stat/107/422]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1621(b)(7), Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 117(a), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 835(b)(9), Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1241(a), Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2011(a), (b), Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], §§ 753(b), 760(a), Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], 3323; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], §§ 324(a), (b), 327(b), Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], 2334; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 136(a), Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 126(a), Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054].)
 
  __References in Text__ 
 
@@ -397,11 +397,11 @@
 
     The date of the enactment of the Revenue Reconciliation Act of 1993, referred to in subsecs. (c)(1) and (d)(1)(A), is the date of enactment of [Pub. L. 103–66][/us/pl/103/66], which was approved Aug. 10, 1993.
 
-    Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(2)(B)(ii), was classified to [section 681(d) of Title 15][/us/usc/t15/s681/d], Commerce and Trade, prior to repeal by [Pub. L. 104–208, div. D, title II, § 208(b)(3)(A)][/us/pl/104/208/s208/b/3/A], Sept. 30, 1996, [110 Stat. 3009–742][/us/stat/110/3009-742].
+    Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(2)(B)(ii), was classified to [section 681(d) of Title 15][/us/usc/t15/s681/d], Commerce and Trade, prior to repeal by [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(b)(3)(A), Sept. 30, 1996, [110 Stat. 3009–742][/us/stat/110/3009-742].
 
  __Prior Provisions__ 
 
-    A prior section 1202, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 320][/us/stat/68A/320]; Oct. 4, 1976, [Pub. L. 94–455, title XIX, § 1901(b)(33)(M)][/us/pl/94/455/s1901/b/33/M], [90 Stat. 1802][/us/stat/90/1802]; Nov. 6, 1978, [Pub. L. 95–600, title IV, § 402(a)][/us/pl/95/600/s402/a], [92 Stat. 2867][/us/stat/92/2867]; Apr. 1, 1980, [Pub. L. 96–222, title I, § 104(a)(2)(A)][/us/pl/96/222/s104/a/2/A], [94 Stat. 214][/us/stat/94/214], authorized deduction for capital gains, prior to repeal by [Pub. L. 99–514, title III, § 301(a)][/us/pl/99/514/s301/a], (c), Oct. 22, 1986, [100 Stat. 2216][/us/stat/100/2216], 2218, applicable to taxable years beginning after Dec. 31, 1986.
+    A prior section 1202, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 320][/us/stat/68A/320]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(33)(M), [90 Stat. 1802][/us/stat/90/1802]; Nov. 6, 1978, [Pub. L. 95–600, title IV][/us/pl/95/600/tIV], § 402(a), [92 Stat. 2867][/us/stat/92/2867]; Apr. 1, 1980, [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 104(a)(2)(A), [94 Stat. 214][/us/stat/94/214], authorized deduction for capital gains, prior to repeal by [Pub. L. 99–514, title III][/us/pl/99/514/tIII], § 301(a), (c), Oct. 22, 1986, [100 Stat. 2216][/us/stat/100/2216], 2218, applicable to taxable years beginning after Dec. 31, 1986.
 
  __Amendments__ 
 
@@ -409,47 +409,47 @@
 
     2014—Subsec. (a)(4). [Pub. L. 113–295][/us/pl/113/295] substituted “2013, and 2014” for “and 2013” in heading and “January 1, 2015” for “January 1, 2014” in introductory provisions.
 
-    2013—Subsec. (a)(2)(C). [Pub. L. 112–240, § 327(b)][/us/pl/112/240/s327/b], substituted “2018” for “2016” in heading and “December 31, 2018” for “December 31, 2016” in text.
+    2013—Subsec. (a)(2)(C). [Pub. L. 112–240][/us/pl/112/240], § 327(b), substituted “2018” for “2016” in heading and “December 31, 2018” for “December 31, 2016” in text.
 
-    Subsec. (a)(3). [Pub. L. 112–240, § 324(b)(1)][/us/pl/112/240/s324/b/1], inserted concluding provisions.
+    Subsec. (a)(3). [Pub. L. 112–240][/us/pl/112/240], § 324(b)(1), inserted concluding provisions.
 
-    Subsec. (a)(4). [Pub. L. 112–240, § 324(b)(2)][/us/pl/112/240/s324/b/2], inserted concluding provisions.
+    Subsec. (a)(4). [Pub. L. 112–240][/us/pl/112/240], § 324(b)(2), inserted concluding provisions.
 
-    [Pub. L. 112–240, § 324(a)][/us/pl/112/240/s324/a], substituted “, 2011, 2012, and 2013” for “and 2011” in heading and “January 1, 2014” for “January 1, 2012” in introductory provisions.
+    [Pub. L. 112–240][/us/pl/112/240], § 324(a), substituted “, 2011, 2012, and 2013” for “and 2011” in heading and “January 1, 2014” for “January 1, 2012” in introductory provisions.
 
-    2010—Subsec. (a)(2)(C). [Pub. L. 111–312, § 753(b)][/us/pl/111/312/s753/b], substituted “2016” for “2014” in heading and “December 31, 2016” for “December 31, 2014” in text.
+    2010—Subsec. (a)(2)(C). [Pub. L. 111–312][/us/pl/111/312], § 753(b), substituted “2016” for “2014” in heading and “December 31, 2016” for “December 31, 2014” in text.
 
-    Subsec. (a)(3). [Pub. L. 111–240, § 2011(b)][/us/pl/111/240/s2011/b], inserted “certain periods in” before “2010” in heading and substituted “on or before the date of the enactment of the Creating Small Business Jobs Act of 2010” for “before January 1, 2011” in text.
+    Subsec. (a)(3). [Pub. L. 111–240][/us/pl/111/240], § 2011(b), inserted “certain periods in” before “2010” in heading and substituted “on or before the date of the enactment of the Creating Small Business Jobs Act of 2010” for “before January 1, 2011” in text.
 
-    Subsec. (a)(4). [Pub. L. 111–312, § 760(a)][/us/pl/111/312/s760/a], inserted “and 2011” after “2010” in heading and substituted “January 1, 2012” for “January 1, 2011” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 111–312][/us/pl/111/312], § 760(a), inserted “and 2011” after “2010” in heading and substituted “January 1, 2012” for “January 1, 2011” in introductory provisions.
 
-    [Pub. L. 111–240, § 2011(a)][/us/pl/111/240/s2011/a], added par. (4).
+    [Pub. L. 111–240][/us/pl/111/240], § 2011(a), added par. (4).
 
     2009—Subsec. (a)(3). [Pub. L. 111–5][/us/pl/111/5] added par. (3).
 
     2004—Subsec. (e)(4)(C). [Pub. L. 108–357][/us/pl/108/357] substituted “or REMIC” for “REMIC, or FASIT”.
 
-    2000—[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
 
-    Subsec. (a). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
+    Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
     1996—Subsec. (e)(4)(C). [Pub. L. 104–188][/us/pl/104/188] substituted “REMIC, or FASIT” for “or REMIC”.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 126(b)][/us/pl/114/113/s126/b], Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 126(b), Dec. 18, 2015, [129 Stat. 3054][/us/stat/129/3054], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 136(b)][/us/pl/113/295/s136/b], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 136(b), Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 324(c)][/us/pl/112/240/s324/c], Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], provided that:
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 324(c), Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -463,27 +463,27 @@
 
 >     The amendment made by subsection (b)(2) \[amending this section\] shall take effect as if included in section 2011(a) of the Creating Small Business Jobs Act of 2010 \[title II of [Pub. L. 111–240][/us/pl/111/240]\].”
 
-[Pub. L. 112–240, title III, § 327(d)][/us/pl/112/240/s327/d], Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 327(d), Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1391 of this title][/us/usc/t26/s1391]\] shall apply to periods after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 753(d)][/us/pl/111/312/s753/d], Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 753(d), Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1391 of this title][/us/usc/t26/s1391]\] shall apply to periods after December 31, 2009.”
 
-[Pub. L. 111–312, title VII, § 760(b)][/us/pl/111/312/s760/b], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 760(b), Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2010.”
 
-[Pub. L. 111–240, title II, § 2011(c)][/us/pl/111/240/s2011/c], Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2011(c), Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Sept. 27, 2010\].”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1241(b)][/us/pl/111/5/s1241/b], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1241(b), Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -510,77 +510,77 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13113%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F422
-[/us/pl/104/188/s1621/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1621%2Fb%2F7
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1867
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/357/s835/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs835%2Fb%2F9
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1594
-[/us/pl/111/5/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1241%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F342
-[/us/pl/111/240/s2011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2011%2Fa
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2554
-[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3321
-[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2333
-[/us/pl/113/295/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs136%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
-[/us/pl/114/113/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs126%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3054
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fb%2F3%2FA
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-742
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F320
-[/us/pl/94/455/s1901/b/33/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F33%2FM
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1802
-[/us/pl/95/600/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs402%2Fa
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2867
-[/us/pl/96/222/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs104%2Fa%2F2%2FA
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F214
-[/us/pl/99/514/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs301%2Fa
+[/us/pl/99/514/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIII
 [/us/stat/100/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2216
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/112/240/s327/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs327%2Fb
-[/us/pl/112/240/s324/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fb%2F1
-[/us/pl/112/240/s324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fb%2F2
-[/us/pl/112/240/s324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fa
-[/us/pl/111/312/s753/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs753%2Fb
-[/us/pl/111/240/s2011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2011%2Fb
-[/us/pl/111/312/s760/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs760%2Fa
-[/us/pl/111/240/s2011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2011%2Fa
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/114/113/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs126%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3054
-[/us/pl/113/295/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs136%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
-[/us/pl/112/240/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fc
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2333
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
-[/us/pl/112/240/s327/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs327%2Fd
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
 [/us/usc/t26/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1391
-[/us/pl/111/312/s753/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs753%2Fd
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3321
 [/us/usc/t26/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1391
-[/us/pl/111/312/s760/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs760%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3323
-[/us/pl/111/240/s2011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2011%2Fc
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2554
-[/us/pl/111/5/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1241%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F342
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s835/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs835%2Fc

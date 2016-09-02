@@ -17,7 +17,7 @@
 
     Any person who shall fail to place and keep stamps denoting the payment of the special tax as provided in section 6806 shall be liable to a penalty (not less than $10) equal to the special tax for which his business rendered him liable, unless such failure is shown to be due to reasonable cause. If such failure to comply with section 6806 is through willful neglect or refusal, then the penalty shall be double the amount above prescribed.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 866][/us/stat/68A/866]; [Pub. L. 90–618, title II, § 205][/us/pl/90/618/s205], Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 866][/us/stat/68A/866]; [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 205, Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F866
-[/us/pl/90/618/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs205
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1235
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/usc/t26/s6806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6806

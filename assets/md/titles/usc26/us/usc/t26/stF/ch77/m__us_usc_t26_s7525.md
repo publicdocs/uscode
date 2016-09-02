@@ -57,7 +57,7 @@
 
         (2) in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
 
-(Added [Pub. L. 105–206, title III, § 3411(a)][/us/pl/105/206/s3411/a], July 22, 1998, [112 Stat. 750][/us/stat/112/750]; amended [Pub. L. 108–357, title VIII, § 813(a)][/us/pl/108/357/s813/a], Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3411(a), July 22, 1998, [112 Stat. 750][/us/stat/112/750]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 813(a), Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581].)
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 813(b)][/us/pl/108/357/s813/b], Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 813(b), Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to communications made on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3411(c)][/us/pl/105/206/s3411/c], July 22, 1998, [112 Stat. 751][/us/stat/112/751], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3411(c), July 22, 1998, [112 Stat. 751][/us/stat/112/751], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to communications made on or after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -83,14 +83,14 @@
 ----------
 
 [/us/usc/t31/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330
-[/us/pl/105/206/s3411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3411%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F750
-[/us/pl/108/357/s813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs813%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1581
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs813%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1581
-[/us/pl/105/206/s3411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3411%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F751
 
 

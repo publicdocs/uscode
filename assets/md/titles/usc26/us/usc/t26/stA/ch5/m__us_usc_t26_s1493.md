@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_stA_ch5.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
+[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1491 _us_usc_t26_s1492.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
 
-## \[§ 1493. Repealed. [Pub. L. 89–809, title I, § 103(l)(2)][/us/pl/89/809/s103/l/2], Nov. 13, 1966, [80 Stat. 1554][/us/stat/80/1554]\]
+## \[§ 1493. Repealed. [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(l)(2), Nov. 13, 1966, [80 Stat. 1554][/us/stat/80/1554]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 365][/us/stat/68A/365], defined foreign trust.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_stA_ch5.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
+[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1491 _us_usc_t26_s1492.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
 
 ----------
 ----------
 
-[/us/pl/89/809/s103/l/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fl%2F2
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1554
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F365

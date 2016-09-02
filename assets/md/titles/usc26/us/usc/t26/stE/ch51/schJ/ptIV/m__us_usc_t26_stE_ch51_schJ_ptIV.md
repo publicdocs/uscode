@@ -107,11 +107,11 @@
 
  __Prior Provisions__ 
 
-    A prior part IV consisted of sections 5681 to 5690 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part IV consisted of sections 5681 to 5690 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(ii)][/us/pl/94/455/s1905/b/2/E/ii], Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822], struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(2)(E)(ii), Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822], struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
 
 ----------
 
@@ -120,9 +120,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/94/455/s1905/b/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F2%2FE%2Fii
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1822
 
 

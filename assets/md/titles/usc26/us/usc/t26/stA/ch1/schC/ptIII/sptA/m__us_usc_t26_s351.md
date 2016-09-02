@@ -183,7 +183,7 @@
 
         (5) For coordination of this section with section 304, see section 304(b)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 111][/us/stat/68A/111]; [Pub. L. 89–809, title II, § 203(a)][/us/pl/89/809/s203/a], (b), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577]; [Pub. L. 94–455, title XIX, § 1901(a)(48)(A)][/us/pl/94/455/s1901/a/48/A], (B), Oct. 4, 1976, [90 Stat. 1772][/us/stat/90/1772]; [Pub. L. 96–589, § 5(e)][/us/pl/96/589/s5/e], Dec. 24, 1980, [94 Stat. 3406][/us/stat/94/3406]; [Pub. L. 97–248, title II, § 226(a)(1)(B)][/us/pl/97/248/s226/a/1/B], Sept. 3, 1982, [96 Stat. 491][/us/stat/96/491]; [Pub. L. 100–647, title I, § 1018(d)(5)(G)][/us/pl/100/647/s1018/d/5/G], Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580]; [Pub. L. 101–239, title VII, § 7203(a)][/us/pl/101/239/s7203/a], (b), Dec. 19, 1989, [103 Stat. 2333][/us/stat/103/2333]; [Pub. L. 101–508, title XI, § 11704(a)(3)][/us/pl/101/508/s11704/a/3], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909], 916, 919; [Pub. L. 105–206, title VI, § 6010(c)(3)(A)][/us/pl/105/206/s6010/c/3/A], (e)(1), July 22, 1998, [112 Stat. 813][/us/stat/112/813], 814; [Pub. L. 105–277, div. J, title IV, § 4003(f)(1)][/us/pl/105/277/s4003/f/1], Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910]; [Pub. L. 106–36, title III, § 3001(d)(1)][/us/pl/106/36/s3001/d/1], June 25, 1999, [113 Stat. 183][/us/stat/113/183]; [Pub. L. 107–147, title IV, § 417(9)][/us/pl/107/147/s417/9], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–357, title VIII, § 899(a)][/us/pl/108/357/s899/a], Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV, § 403(kk)][/us/pl/109/135/s403/kk], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 111][/us/stat/68A/111]; [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 203(a), (b), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(48)(A), (B), Oct. 4, 1976, [90 Stat. 1772][/us/stat/90/1772]; [Pub. L. 96–589][/us/pl/96/589], § 5(e), Dec. 24, 1980, [94 Stat. 3406][/us/stat/94/3406]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 226(a)(1)(B), Sept. 3, 1982, [96 Stat. 491][/us/stat/96/491]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(d)(5)(G), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7203(a), (b), Dec. 19, 1989, [103 Stat. 2333][/us/stat/103/2333]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(3), Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], §§ 1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909], 916, 919; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(c)(3)(A), (e)(1), July 22, 1998, [112 Stat. 813][/us/stat/112/813], 814; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(f)(1), Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910]; [Pub. L. 106–36, title III][/us/pl/106/36/tIII], § 3001(d)(1), June 25, 1999, [113 Stat. 183][/us/stat/113/183]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(9), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 899(a), Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(kk), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
 
  __Amendments__ 
 
@@ -195,7 +195,7 @@
 
     1999—Subsec. (h)(1). [Pub. L. 106–36][/us/pl/106/36] struck out “, or acquires property subject to a liability,” after “liability”.
 
-    1998—Subsec. (c). [Pub. L. 105–206, § 6010(c)(3)(A)][/us/pl/105/206/s6010/c/3/A], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
+    1998—Subsec. (c). [Pub. L. 105–206][/us/pl/105/206], § 6010(c)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In determining control for purposes of this section—
 
     “(1) the fact that any corporate transferor distributes part or all of the stock in the corporation which it receives in the exchange to its shareholders shall not be taken into account, and
 
@@ -207,45 +207,45 @@
 
     Subsec. (c)(2). [Pub. L. 105–277][/us/pl/105/277] inserted “, or the fact that the corporation whose stock was distributed issues additional stock,” after “dispose of part or all of the distributed stock”.
 
-    Subsec. (g)(1)(A) to (C). [Pub. L. 105–206, § 6010(e)(1)][/us/pl/105/206/s6010/e/1], inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+    Subsec. (g)(1)(A) to (C). [Pub. L. 105–206][/us/pl/105/206], § 6010(e)(1), inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
     “(B) subsection (b) shall apply to such transferor, and
 
     “(C) such nonqualified preferred stock shall be treated as other property for purposes of applying subsection (b).”
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 1012(c)(1)][/us/pl/105/34/s1012/c/1], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1012(c)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “In determining control, for purposes of this section, the fact that any corporate transferor distributes part or all of the stock which it receives in the exchange to its shareholders shall not be taken into account.”
 
-    Subsec. (e)(1). [Pub. L. 105–34, § 1002(a)][/us/pl/105/34/s1002/a], inserted last two sentences.
+    Subsec. (e)(1). [Pub. L. 105–34][/us/pl/105/34], § 1002(a), inserted last two sentences.
 
-    Subsecs. (g), (h). [Pub. L. 105–34, § 1014(a)][/us/pl/105/34/s1014/a], added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 105–34][/us/pl/105/34], § 1014(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
     1990—Subsec. (e)(2). [Pub. L. 101–508][/us/pl/101/508] substituted “is used” for “are used”.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7203(a)][/us/pl/101/239/s7203/a], struck out “or securities” after “stock”.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7203(a), struck out “or securities” after “stock”.
 
-    Subsecs. (b), (d), (e)(2). [Pub. L. 101–239, § 7203(b)(1)][/us/pl/101/239/s7203/b/1], struck out “or securities” after “stock”.
+    Subsecs. (b), (d), (e)(2). [Pub. L. 101–239][/us/pl/101/239], § 7203(b)(1), struck out “or securities” after “stock”.
 
-    Subsec. (g)(2). [Pub. L. 101–239, § 7203(b)(2)][/us/pl/101/239/s7203/b/2], substituted “stock or property” for “stock, securities, or property”.
+    Subsec. (g)(2). [Pub. L. 101–239][/us/pl/101/239], § 7203(b)(2), substituted “stock or property” for “stock, securities, or property”.
 
     1988—Subsecs. (f), (g). [Pub. L. 100–647][/us/pl/100/647] added subsec. (f) and redesignated former subsec. (f) as (g).
 
     1982—Subsec. (f)(5). [Pub. L. 97–248][/us/pl/97/248] added par. (5).
 
-    1980—Subsec. (a). [Pub. L. 96–589, § 5(e)(2)][/us/pl/96/589/s5/e/2], struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
+    1980—Subsec. (a). [Pub. L. 96–589][/us/pl/96/589], § 5(e)(2), struck out provision that stock or securities issued for services shall not be considered as issued in return for property for purposes of this section.
 
-    Subsec. (d). [Pub. L. 96–589, § 5(e)(1)][/us/pl/96/589/s5/e/1], added subsec. (d). Former subsec. (d) redesignated (e)(1).
+    Subsec. (d). [Pub. L. 96–589][/us/pl/96/589], § 5(e)(1), added subsec. (d). Former subsec. (d) redesignated (e)(1).
 
-    Subsec. (e). [Pub. L. 96–589, § 5(e)(2)][/us/pl/96/589/s5/e/2], redesignated former subsec. (d) as par. (1) and added par. (2). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 96–589][/us/pl/96/589], § 5(e)(2), redesignated former subsec. (d) as par. (1) and added par. (2). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 96–589, § 5(e)(1)][/us/pl/96/589/s5/e/1], redesignated former subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 96–589][/us/pl/96/589], § 5(e)(1), redesignated former subsec. (e) as (f).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1901(a)(48)(A)][/us/pl/94/455/s1901/a/48/A], struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(48)(A), struck out “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “property is transferred to a corporation”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1901(a)(48)(B)][/us/pl/94/455/s1901/a/48/B], among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(48)(B), among other changes, substituted “Exception” for “Application of June 30, 1967, date” in heading and in text provision that this section does not apply to a transfer of property to an investment company for provisions relating to treatment of a transfer of property to an investment company as made on or before June 30, 1967.
 
-    1966—Subsec. (a). [Pub. L. 89–809, § 203(a)][/us/pl/89/809/s203/a], inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
+    1966—Subsec. (a). [Pub. L. 89–809][/us/pl/89/809], § 203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
-    Subsecs. (d), (e). [Pub. L. 89–809, § 203(b)][/us/pl/89/809/s203/b], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 89–809][/us/pl/89/809], § 203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -253,13 +253,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 899(b)][/us/pl/108/357/s899/b], Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 899(b), Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to transactions after May 14, 2003.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–36, title III, § 3001(e)][/us/pl/106/36/s3001/e], June 25, 1999, [113 Stat. 184][/us/stat/113/184], provided that: 
+[Pub. L. 106–36, title III][/us/pl/106/36/tIII], § 3001(e), June 25, 1999, [113 Stat. 184][/us/stat/113/184], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998.”
 
@@ -271,7 +271,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1002(b)][/us/pl/105/34/s1002/b], Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1002(b), Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -281,7 +281,7 @@
 
 >     The amendment made by subsection (a) shall not apply to any transfer pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such transfer if such contract provides for the transfer of a fixed amount of property.”
 
-[Pub. L. 105–34, title X, § 1012(d)][/us/pl/105/34/s1012/d], Aug. 5, 1997, [111 Stat. 917][/us/stat/111/917], as amended by [Pub. L. 105–206, title VI, § 6010(c)(1)][/us/pl/105/206/s6010/c/1], July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1012(d), Aug. 5, 1997, [111 Stat. 917][/us/stat/111/917], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(c)(1), July 22, 1998, [112 Stat. 813][/us/stat/112/813], provided that:
 
 >     “(1)  __Section 355 rules__  __.—__ 
 
@@ -303,7 +303,7 @@
 
 >         This paragraph shall not apply to any agreement, ruling request, or public announcement or filing unless it identifies the acquirer of the distributing corporation or any controlled corporation, or the transferee, whichever is applicable.”
 
-[Pub. L. 105–34, title X, § 1014(f)][/us/pl/105/34/s1014/f], Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1014(f), Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -321,7 +321,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7203(c)][/us/pl/101/239/s7203/c], Dec. 19, 1989, [103 Stat. 2334][/us/stat/103/2334], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7203(c), Dec. 19, 1989, [103 Stat. 2334][/us/stat/103/2334], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -337,7 +337,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–647, title I, § 1018(d)(5)(G)][/us/pl/100/647/s1018/d/5/G], Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], provided that the amendment made by that section is effective with respect to transfers on or after June 21, 1988.
+    [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(d)(5)(G), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], provided that the amendment made by that section is effective with respect to transfers on or after June 21, 1988.
 
  __Effective Date of 1982 Amendment__ 
 
@@ -349,13 +349,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XIX, § 1901(a)(48)(C)][/us/pl/94/455/s1901/a/48/C], Oct. 4, 1976, [90 Stat. 1772][/us/stat/90/1772], provided that: 
+[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(48)(C), Oct. 4, 1976, [90 Stat. 1772][/us/stat/90/1772], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall take effect with respect to transfers of property occurring after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–809, title II, § 203(c)][/us/pl/89/809/s203/c], Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 203(c), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to transfers of property to investment companies whether made before, on, or after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
@@ -368,65 +368,65 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F111
-[/us/pl/89/809/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs203%2Fa
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1577
-[/us/pl/94/455/s1901/a/48/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F48%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1772
-[/us/pl/96/589/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fe
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3406
-[/us/pl/97/248/s226/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs226%2Fa%2F1%2FB
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F491
-[/us/pl/100/647/s1018/d/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F5%2FG
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3580
-[/us/pl/101/239/s7203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7203%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2333
-[/us/pl/101/508/s11704/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F3
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-518
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F909
-[/us/pl/105/206/s6010/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fc%2F3%2FA
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F813
-[/us/pl/105/277/s4003/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Ff%2F1
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-910
-[/us/pl/106/36/s3001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fd%2F1
+[/us/pl/106/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtIII
 [/us/stat/113/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F183
-[/us/pl/107/147/s417/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F9
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
-[/us/pl/108/357/s899/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs899%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1649
-[/us/pl/109/135/s403/kk]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fkk
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
-[/us/pl/105/206/s6010/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fc%2F3%2FA
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/206/s6010/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fe%2F1
-[/us/pl/105/34/s1012/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1012%2Fc%2F1
-[/us/pl/105/34/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1002%2Fa
-[/us/pl/105/34/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1014%2Fa
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/239/s7203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7203%2Fa
-[/us/pl/101/239/s7203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7203%2Fb%2F1
-[/us/pl/101/239/s7203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7203%2Fb%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/96/589/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fe%2F2
-[/us/pl/96/589/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fe%2F1
-[/us/pl/96/589/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fe%2F2
-[/us/pl/96/589/s5/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fe%2F1
-[/us/pl/94/455/s1901/a/48/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F48%2FA
-[/us/pl/94/455/s1901/a/48/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F48%2FB
-[/us/pl/89/809/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs203%2Fa
-[/us/pl/89/809/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs203%2Fb
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s899/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs899%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1649
-[/us/pl/106/36/s3001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fe
+[/us/pl/106/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtIII
 [/us/stat/113/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F184
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -436,19 +436,19 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1002%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F909
-[/us/pl/105/34/s1012/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1012%2Fd
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F917
-[/us/pl/105/206/s6010/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fc%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F813
 [/us/usc/t26/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs355
 [/us/usc/t26/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs368
-[/us/pl/105/34/s1014/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1014%2Ff
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F921
-[/us/pl/101/239/s7203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7203%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2334
-[/us/pl/100/647/s1018/d/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F5%2FG
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3580
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs226%2Fc
@@ -456,9 +456,9 @@
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs7
 [/us/usc/t26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs108
-[/us/pl/94/455/s1901/a/48/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F48%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1772
-[/us/pl/89/809/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs203%2Fc
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1577
 
 

@@ -101,7 +101,7 @@
 
             The person to whom an identification number is furnished under paragraph (1) shall include such number on any return which such person is required to file under this section and to which such identification number relates.
 
-(Added [Pub. L. 97–248, title III, § 312(a)][/us/pl/97/248/s312/a], Sept. 3, 1982, [96 Stat. 601][/us/stat/96/601]; amended [Pub. L. 104–168, title XII, § 1201(a)(2)][/us/pl/104/168/s1201/a/2], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 105–34, title X, § 1022(a)][/us/pl/105/34/s1022/a], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 312(a), Sept. 3, 1982, [96 Stat. 601][/us/stat/96/601]; amended [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(2), July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1022(a), Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1022(b)][/us/pl/105/34/s1022/b], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1022(b), Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to returns the due date for which (determined without regard to any extension) is more than 90 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -125,7 +125,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 312(c)][/us/pl/97/248/s312/c], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 312(c), Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 6678 of this title][/us/usc/t26/s6678]\] shall apply to payments and sales made after December 31, 1982.”
 
@@ -136,21 +136,21 @@
 ----------
 ----------
 
-[/us/pl/97/248/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs312%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F601
-[/us/pl/104/168/s1201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F2
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1469
-[/us/pl/105/34/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1022%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F923
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/105/34/s1022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1022%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F923
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fb
 [/us/usc/t26/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6041
-[/us/pl/97/248/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs312%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F603
 [/us/usc/t26/s6678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6678
 

@@ -163,7 +163,7 @@
 
         For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 2½ months after the close of such taxable year.
 
-(Added [Pub. L. 98–369, div. A, title I, § 91(c)(1)][/us/pl/98/369/s91/c/1], July 18, 1984, [98 Stat. 604][/us/stat/98/604]; amended [Pub. L. 99–514, title XVIII, § 1807(a)(4)(A)(i)][/us/pl/99/514/s1807/a/4/A/i], (B)–(E)(vi), Oct. 22, 1986, [100 Stat. 2812][/us/stat/100/2812], 2813; [Pub. L. 102–486, title XIX, § 1917(a)][/us/pl/102/486/s1917/a], (b), Oct. 24, 1992, [106 Stat. 3024][/us/stat/106/3024], 3025; [Pub. L. 104–188, title I, § 1704(j)(6)][/us/pl/104/188/s1704/j/6], Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882]; [Pub. L. 109–58, title XIII, § 1310(a)][/us/pl/109/58/s1310/a]–(e), Aug. 8, 2005, [119 Stat. 1007–1009][/us/stat/119/1007-1009].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 91(c)(1), July 18, 1984, [98 Stat. 604][/us/stat/98/604]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, [100 Stat. 2812][/us/stat/100/2812], 2813; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1917(a), (b), Oct. 24, 1992, [106 Stat. 3024][/us/stat/106/3024], 3025; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(j)(6), Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882]; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1310(a)–(e), Aug. 8, 2005, [119 Stat. 1007–1009][/us/stat/119/1007-1009].)
 
  __References in Text__ 
 
@@ -171,69 +171,69 @@
 
  __Amendments__ 
 
-    2005—Subsec. (b). [Pub. L. 109–58, § 1310(a)][/us/pl/109/58/s1310/a], reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
+    2005—Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
 
     “(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer’s cost of service for ratemaking purposes for such taxable year, or
 
     “(2) the ruling amount applicable to such taxable year.”
 
-    Subsec. (d)(1). [Pub. L. 109–58, § 1310(c)][/us/pl/109/58/s1310/c], inserted at end “For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant.”
+    Subsec. (d)(1). [Pub. L. 109–58][/us/pl/109/58], § 1310(c), inserted at end “For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant.”
 
-    Subsec. (d)(2)(A). [Pub. L. 109–58, § 1310(b)(2)][/us/pl/109/58/s1310/b/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and”.
+    Subsec. (d)(2)(A). [Pub. L. 109–58][/us/pl/109/58], § 1310(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and”.
 
-    Subsec. (e)(2)(A). [Pub. L. 109–58, § 1310(e)(1)][/us/pl/109/58/s1310/e/1], substituted “rate of 20 percent” for “rate set forth in subparagraph (B)” in introductory provisions.
+    Subsec. (e)(2)(A). [Pub. L. 109–58][/us/pl/109/58], § 1310(e)(1), substituted “rate of 20 percent” for “rate set forth in subparagraph (B)” in introductory provisions.
 
-    Subsec. (e)(2)(B) to (D). [Pub. L. 109–58, § 1310(e)(2)][/us/pl/109/58/s1310/e/2], (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rate set forth in this subparagraph is—
+    Subsec. (e)(2)(B) to (D). [Pub. L. 109–58][/us/pl/109/58], § 1310(e)(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rate set forth in this subparagraph is—
 
     “(i) 22 percent in the case of taxable years beginning in calendar year 1994 or 1995, and
 
     “(ii) 20 percent in the case of taxable years beginning after December 31, 1995.”
 
-    Subsec. (e)(3). [Pub. L. 109–58, § 1310(d)][/us/pl/109/58/s1310/d], substituted “Except as provided in subsection (f), the Fund” for “The Fund”.
+    Subsec. (e)(3). [Pub. L. 109–58][/us/pl/109/58], § 1310(d), substituted “Except as provided in subsection (f), the Fund” for “The Fund”.
 
-    Subsecs. (f) to (h). [Pub. L. 109–58, § 1310(b)(1)][/us/pl/109/58/s1310/b/1], added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (f) to (h). [Pub. L. 109–58][/us/pl/109/58], § 1310(b)(1), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
     1996—Subsec. (e)(2)(A). [Pub. L. 104–188][/us/pl/104/188] provided that the amendment made by [section 1917(b)(1) of Pub. L. 102–486][/us/pl/102/486/s1917/b/1] shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
 
-    1992—Subsec. (e)(2)(A). [Pub. L. 102–486, § 1917(b)(1)][/us/pl/102/486/s1917/b/1], which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
+    1992—Subsec. (e)(2)(A). [Pub. L. 102–486][/us/pl/102/486], § 1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
 
-    Subsec. (e)(2)(B) to (D). [Pub. L. 102–486, § 1917(b)(2)][/us/pl/102/486/s1917/b/2], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    Subsec. (e)(2)(B) to (D). [Pub. L. 102–486][/us/pl/102/486], § 1917(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (e)(4)(C). [Pub. L. 102–486, § 1917(a)][/us/pl/102/486/s1917/a], struck out before period at end “described in section 501(c)(21)(B)(ii)”.
+    Subsec. (e)(4)(C). [Pub. L. 102–486][/us/pl/102/486], § 1917(a), struck out before period at end “described in section 501(c)(21)(B)(ii)”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1807(a)(4)(E)(i)][/us/pl/99/514/s1807/a/4/E/i], substituted “this section” for “this subsection”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(i), substituted “this section” for “this subsection”.
 
-    Subsec. (c)(1)(A). [Pub. L. 99–514, § 1807(a)(4)(B)][/us/pl/99/514/s1807/a/4/B], substituted “subsection (e)(4)(B)” for “subsection (e)(2)(B)”.
+    Subsec. (c)(1)(A). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(B), substituted “subsection (e)(4)(B)” for “subsection (e)(2)(B)”.
 
-    Subsec. (d). [Pub. L. 99–514, § 1807(a)(4)(E)(ii)][/us/pl/99/514/s1807/a/4/E/ii], substituted “this section” for “this subsection” in introductory text.
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(ii), substituted “this section” for “this subsection” in introductory text.
 
-    Subsec. (e). [Pub. L. 99–514, § 1807(a)(4)(E)(iii)][/us/pl/99/514/s1807/a/4/E/iii], substituted “Reserve Fund” for “Trust Fund” in heading.
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(iii), substituted “Reserve Fund” for “Trust Fund” in heading.
 
-    Subsec. (e)(1). [Pub. L. 99–514, § 1807(a)(4)(E)(iv)][/us/pl/99/514/s1807/a/4/E/iv], substituted “this section” for “this subsection” and “Reserve Fund” for “Trust Fund”.
+    Subsec. (e)(1). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(iv), substituted “this section” for “this subsection” and “Reserve Fund” for “Trust Fund”.
 
-    Subsec. (e)(2). [Pub. L. 99–514, § 1807(a)(4)(C)][/us/pl/99/514/s1807/a/4/C], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
+    Subsec. (e)(2). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
     “(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
 
     “(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer).”
 
-    Subsec. (e)(4)(C). [Pub. L. 99–514, § 1807(a)(4)(D)][/us/pl/99/514/s1807/a/4/D], added subpar. (C).
+    Subsec. (e)(4)(C). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(D), added subpar. (C).
 
-    Subsec. (e)(6). [Pub. L. 99–514, § 1807(a)(4)(E)(v)][/us/pl/99/514/s1807/a/4/E/v], substituted “this section” for “this subsection” in two places and “this paragraph” for “this subparagraph”.
+    Subsec. (e)(6). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(v), substituted “this section” for “this subsection” in two places and “this paragraph” for “this subparagraph”.
 
-    Subsec. (f). [Pub. L. 99–514, § 1807(a)(4)(E)(vi)][/us/pl/99/514/s1807/a/4/E/vi], substituted “For purposes of this section, the” for “The”.
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(E)(vi), substituted “For purposes of this section, the” for “The”.
 
-    Subsec. (g). [Pub. L. 99–514, § 1807(a)(4)(A)(i)][/us/pl/99/514/s1807/a/4/A/i], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(4)(A)(i), added subsec. (g).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XIII, § 1310(f)][/us/pl/109/58/s1310/f], Aug. 8, 2005, [119 Stat. 1009][/us/stat/119/1009], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1310(f), Aug. 8, 2005, [119 Stat. 1009][/us/stat/119/1009], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1917(c)][/us/pl/102/486/s1917/c], Oct. 24, 1992, [106 Stat. 3025][/us/stat/106/3025], provided that:
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1917(c), Oct. 24, 1992, [106 Stat. 3025][/us/stat/106/3025], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -245,7 +245,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -257,7 +257,7 @@
 
  __Transitional Rule__ 
 
-[Pub. L. 99–514, title XVIII, § 1807(a)(4)(A)(ii)][/us/pl/99/514/s1807/a/4/A/ii], Oct. 22, 1986, [100 Stat. 2812][/us/stat/100/2812], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(4)(A)(ii), Oct. 22, 1986, [100 Stat. 2812][/us/stat/100/2812], provided that: 
 
 > “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year.”
 
@@ -268,45 +268,45 @@
 ----------
 ----------
 
-[/us/pl/98/369/s91/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Fc%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F604
-[/us/pl/99/514/s1807/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FA%2Fi
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2812
-[/us/pl/102/486/s1917/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3024
-[/us/pl/104/188/s1704/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fj%2F6
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1882
-[/us/pl/109/58/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1007-1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1007-1009
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/109/58/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fa
-[/us/pl/109/58/s1310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fc
-[/us/pl/109/58/s1310/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fb%2F2
-[/us/pl/109/58/s1310/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fe%2F1
-[/us/pl/109/58/s1310/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fe%2F2
-[/us/pl/109/58/s1310/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fd
-[/us/pl/109/58/s1310/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Fb%2F1
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/102/486/s1917/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fb%2F1
-[/us/pl/102/486/s1917/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fb%2F1
-[/us/pl/102/486/s1917/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fb%2F2
-[/us/pl/102/486/s1917/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fa
-[/us/pl/99/514/s1807/a/4/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fi
-[/us/pl/99/514/s1807/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FB
-[/us/pl/99/514/s1807/a/4/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fii
-[/us/pl/99/514/s1807/a/4/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fiii
-[/us/pl/99/514/s1807/a/4/E/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fiv
-[/us/pl/99/514/s1807/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FC
-[/us/pl/99/514/s1807/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FD
-[/us/pl/99/514/s1807/a/4/E/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fv
-[/us/pl/99/514/s1807/a/4/E/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fvi
-[/us/pl/99/514/s1807/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FA%2Fi
-[/us/pl/109/58/s1310/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1310%2Ff
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1009
-[/us/pl/102/486/s1917/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1917%2Fc
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3025
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s91/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Fg%2F5
@@ -314,7 +314,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1807/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FA%2Fii
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2812
 
 

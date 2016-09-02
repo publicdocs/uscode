@@ -99,7 +99,7 @@
 
         The date for filing the return of the tax imposed by this section for any calendar quarter shall be the last day of the first month following such quarter.
 
-(Added [Pub. L. 95–502, title II, § 202(a)][/us/pl/95/502/s202/a], Oct. 21, 1978, [92 Stat. 1696][/us/stat/92/1696]; amended [Pub. L. 99–499, title V, § 521(a)(3)][/us/pl/99/499/s521/a/3], Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–662, title XIV, § 1404(a)][/us/pl/99/662/s1404/a], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270]; [Pub. L. 100–647, title II, § 2002(a)(2)][/us/pl/100/647/s2002/a/2], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597]; [Pub. L. 103–66, title XIII, § 13241(d)][/us/pl/103/66/s13241/d], Aug. 10, 1993, [107 Stat. 510][/us/stat/107/510]; [Pub. L. 108–357, title II, § 241(b)][/us/pl/108/357/s241/b], Oct. 22, 2004, [118 Stat. 1438][/us/stat/118/1438]; [Pub. L. 110–172, § 6(d)(1)(B)][/us/pl/110/172/s6/d/1/B], Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480]; [Pub. L. 113–295, div. B, title II, § 205(a)][/us/pl/113/295/s205/a], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
+(Added [Pub. L. 95–502, title II][/us/pl/95/502/tII], § 202(a), Oct. 21, 1978, [92 Stat. 1696][/us/stat/92/1696]; amended [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 521(a)(3), Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1404(a), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270]; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2002(a)(2), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13241(d), Aug. 10, 1993, [107 Stat. 510][/us/stat/107/510]; [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 241(b), Oct. 22, 2004, [118 Stat. 1438][/us/stat/118/1438]; [Pub. L. 110–172][/us/pl/110/172], § 6(d)(1)(B), Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 205(a), Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
 
  __References in Text__ 
 
@@ -107,7 +107,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 4042, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 478][/us/stat/68A/478], provided a cross reference to [section 4222 of this title][/us/usc/t26/s4222] for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(a)(1)(D)][/us/pl/94/455/s1904/a/1/D], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
+    A prior section 4042, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 478][/us/stat/68A/478], provided a cross reference to [section 4222 of this title][/us/usc/t26/s4222] for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(1)(D), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
 
  __Amendments__ 
 
@@ -117,9 +117,9 @@
 
     2004—Subsec. (b)(2)(C). [Pub. L. 108–357][/us/pl/108/357] amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
 
-    1993—Subsec. (b)(1)(C). [Pub. L. 103–66, § 13241(d)(1)][/us/pl/103/66/s13241/d/1], added subpar. (C).
+    1993—Subsec. (b)(1)(C). [Pub. L. 103–66][/us/pl/103/66], § 13241(d)(1), added subpar. (C).
 
-    Subsec. (b)(2)(C). [Pub. L. 103–66, § 13241(d)(2)][/us/pl/103/66/s13241/d/2], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 103–66][/us/pl/103/66], § 13241(d)(2), added subpar. (C).
 
     1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of paragraph (1)—
 
@@ -127,7 +127,7 @@
 
     “(B) the Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cents a gallon.”
 
-    1986—Subsec. (b). [Pub. L. 99–499][/us/pl/99/499] and [Pub. L. 99–662][/us/pl/99/662] both amended subsec. (b) generally, effective Jan. 1, 1987. [Pub. L. 100–647, § 2002(a)(1)][/us/pl/100/647/s2002/a/1] (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by [Pub. L. 99–499][/us/pl/99/499] be treated as enacted after the amendment made by [Pub. L. 99–662][/us/pl/99/662]. Prior to amendment by [Pub. L. 99–499][/us/pl/99/499] and [Pub. L. 99–662][/us/pl/99/662], subsec. (b) read as follows:
+    1986—Subsec. (b). [Pub. L. 99–499][/us/pl/99/499] and [Pub. L. 99–662][/us/pl/99/662] both amended subsec. (b) generally, effective Jan. 1, 1987. [Pub. L. 100–647][/us/pl/100/647], § 2002(a)(1) (see Construction of 1986 Amendments note below), provided that for purposes of this section, the amendment made by [Pub. L. 99–499][/us/pl/99/499] be treated as enacted after the amendment made by [Pub. L. 99–662][/us/pl/99/662]. Prior to amendment by [Pub. L. 99–499][/us/pl/99/499] and [Pub. L. 99–662][/us/pl/99/662], subsec. (b) read as follows:
 
 <table>
 
@@ -195,7 +195,7 @@ After September 30, 1985  </td>
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. B, title II, § 205(b)][/us/pl/113/295/s205/b], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065], provided that: 
+[Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 205(b), Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to fuel used after March 31, 2015.”
 
@@ -213,13 +213,13 @@ After September 30, 1985  </td>
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title II, § 2002(d)][/us/pl/100/647/s2002/d], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], as amended by [Pub. L. 101–239, title VII, § 7812(b)][/us/pl/101/239/s7812/b], Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], provided that: 
+[Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2002(d), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7812(b), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], provided that: 
 
-> “The amendments made by subsections (b) and (c) \[amending [section 4462 of this title][/us/usc/t26/s4462] and provisions set out as a note under [section 4461 of this title][/us/usc/t26/s4461]\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[[Pub. L. 99–662, title XIV][/us/pl/99/662]\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[[Pub. L. 99–499][/us/pl/99/499], title V\].”
+> “The amendments made by subsections (b) and (c) \[amending [section 4462 of this title][/us/usc/t26/s4462] and provisions set out as a note under [section 4461 of this title][/us/usc/t26/s4461]\] shall take effect as if included in the provision of the Harbor Maintenance Revenue Act of 1986 \[[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV]\] to which it relates, and the amendment made by subsection (a)(2) \[amending this section\] shall take effect as if included in the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[[Pub. L. 99–499][/us/pl/99/499], title V\].”
 
  __Effective Date of 1986 Amendments__ 
 
-[Pub. L. 99–662, title XIV, § 1404(c)][/us/pl/99/662/s1404/c], Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271], provided that: 
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1404(c), Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1804 of Title 33][/us/usc/t33/s1804], Navigation and Navigable Waters\] shall take effect on January 1, 1987.”
 
@@ -227,13 +227,13 @@ After September 30, 1985  </td>
 
  __Effective Date__ 
 
-[Pub. L. 95–502, title II, § 202(d)][/us/pl/95/502/s202/d], Oct. 21, 1978, [92 Stat. 1697][/us/stat/92/1697], provided that: 
+[Pub. L. 95–502, title II][/us/pl/95/502/tII], § 202(d), Oct. 21, 1978, [92 Stat. 1697][/us/stat/92/1697], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 4293 of this title][/us/usc/t26/s4293]\] shall take effect on October 1, 1980.”
 
  __Construction of 1986 Amendments__ 
 
-[Pub. L. 100–647, title II, § 2002(a)(1)][/us/pl/100/647/s2002/a/1], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], provided that: 
+[Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2002(a)(1), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], provided that: 
 
 > “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[[Pub. L. 99–499][/us/pl/99/499], amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[[Pub. L. 99–662][/us/pl/99/662], amending this section\].”
 
@@ -244,21 +244,21 @@ After September 30, 1985  </td>
 ----------
 ----------
 
-[/us/pl/95/502/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs202%2Fa
+[/us/pl/95/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2FtII
 [/us/stat/92/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1696
-[/us/pl/99/499/s521/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fa%2F3
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1777
-[/us/pl/99/662/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1404%2Fa
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4270
-[/us/pl/100/647/s2002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fa%2F2
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3597
-[/us/pl/103/66/s13241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13241%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F510
-[/us/pl/108/357/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs241%2Fb
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1438
-[/us/pl/110/172/s6/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fd%2F1%2FB
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2480
-[/us/pl/113/295/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fa
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/95/502/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs206
 [/us/stat/92/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1700
@@ -266,22 +266,22 @@ After September 30, 1985  </td>
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F478
 [/us/usc/t26/s4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4222
-[/us/pl/94/455/s1904/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FD
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/103/66/s13241/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13241%2Fd%2F1
-[/us/pl/103/66/s13241/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13241%2Fd%2F2
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
-[/us/pl/100/647/s2002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fa%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
-[/us/pl/113/295/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fb
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -293,24 +293,24 @@ After September 30, 1985  </td>
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13241/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13241%2Fg
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/100/647/s2002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fd
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3597
-[/us/pl/101/239/s7812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7812%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2412
 [/us/usc/t26/s4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4462
 [/us/usc/t26/s4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4461
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/99/662/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1404%2Fc
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4271
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fe
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/95/502/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs202%2Fd
+[/us/pl/95/502/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2FtII
 [/us/stat/92/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1697
 [/us/usc/t26/s4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4293
-[/us/pl/100/647/s2002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fa%2F1
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3597
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662

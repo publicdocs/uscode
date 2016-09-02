@@ -61,29 +61,29 @@
 
         For purposes of the deficiency procedures of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added [Pub. L. 100–203, title X, § 10228(a)][/us/pl/100/203/s10228/a], Dec. 22, 1987, [101 Stat. 1330–417][/us/stat/101/1330-417]; amended [Pub. L. 100–647, title II, § 2004][/us/pl/100/647/s2004](o)(1)(A), (B)(i), (C), (2), Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10228(a), Dec. 22, 1987, [101 Stat. 1330–417][/us/stat/101/1330-417]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(o)(1)(A), (B)(i), (C), (2), Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 2004][/us/pl/100/647/s2004](o)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 2004(o)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
 
-    Subsec. (b). [Pub. L. 100–647, § 2004][/us/pl/100/647/s2004](o)(1)(B)(i), substituted “a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation” for “a corporation to directly or indirectly acquire its stock”.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 2004(o)(1)(B)(i), substituted “a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation” for “a corporation to directly or indirectly acquire its stock”.
 
-    Subsec. (d). [Pub. L. 100–647, § 2004][/us/pl/100/647/s2004](o)(1)(C), substituted “amount” for “gain” in heading and inserted “or other income” after “the gain” in text.
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 2004(o)(1)(C), substituted “amount” for “gain” in heading and inserted “or other income” after “the gain” in text.
 
-    Subsec. (e). [Pub. L. 100–647, § 2004][/us/pl/100/647/s2004](o)(2), added subsec. (e).
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 2004(o)(2), added subsec. (e).
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by section 2004(o)(1)(A), (C), (2) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by section 2004(o)(1)(A), (C), (2) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
-[Pub. L. 100–647, title II, § 2004][/us/pl/100/647/s2004](o)(1)(B)(ii), Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608], provided that: 
+[Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(o)(1)(B)(ii), Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608], provided that: 
 
 > “The amendment made by clause (i) \[amending this section\] shall apply to transactions occurring on or after March 31, 1988.”
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10228(d)][/us/pl/100/203/s10228/d], Dec. 22, 1987, [101 Stat. 1330–418][/us/stat/101/1330-418], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10228(d), Dec. 22, 1987, [101 Stat. 1330–418][/us/stat/101/1330-418], provided that: 
 
 > “The amendments made by this section \[enacting this chapter and amending [section 275 of this title][/us/usc/t26/s275]\] shall apply to consideration received after the date of the enactment of this Act \[Dec. 22, 1987\] in taxable years ending after such date; except that such amendments shall not apply in the case of any acquisition pursuant to a written binding contract in effect on December 15, 1987, and at all times thereafter before the acquisition.”
 
@@ -94,21 +94,21 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10228%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-417
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3608
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/100/647/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3608
-[/us/pl/100/203/s10228/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10228%2Fd
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-418
 [/us/usc/t26/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs275
 

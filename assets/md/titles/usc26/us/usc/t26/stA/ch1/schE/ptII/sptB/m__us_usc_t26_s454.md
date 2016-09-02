@@ -39,15 +39,15 @@
 
         the increase in redemption value (to the extent not previously includible in gross income) in excess of the amount paid for such series E bond shall be includible in gross income in the taxable year in which the obligation is finally redeemed or in the taxable year of final maturity, whichever is earlier. This subsection shall not apply to a corporation, and shall not apply in the case of any taxable year for which the taxpayer’s taxable income is computed under an accrual method of accounting or for which an election made by the taxpayer under subsection (a) applies.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 156][/us/stat/68A/156]; [Pub. L. 86–346, title I, § 102][/us/pl/86/346/s102], Sept. 22, 1959, [73 Stat. 621][/us/stat/73/621]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], 1834; [Pub. L. 97–452, § 2(c)(2)][/us/pl/97/452/s2/c/2], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 156][/us/stat/68A/156]; [Pub. L. 86–346, title I][/us/pl/86/346/tI], § 102, Sept. 22, 1959, [73 Stat. 621][/us/stat/73/621]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], 1834; [Pub. L. 97–452][/us/pl/97/452], § 2(c)(2), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478].)
 
  __Amendments__ 
 
     1983—Subsec. (c)(2). [Pub. L. 97–452][/us/pl/97/452] substituted “chapter 31 of title 31” for “the Second Liberty Bond Act”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” in two places.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places.
 
-    Subsec. (b)(2). [Pub. L. 94–455, § 1901(c)(2)][/us/pl/94/455/s1901/c/2], struck out “, a Territory,” after “a State”.
+    Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], § 1901(c)(2), struck out “, a Territory,” after “a State”.
 
     1959—Subsec. (c)(2). [Pub. L. 86–346][/us/pl/86/346] designated existing provisions as cl. (A), inserted “of the United States” after “an obligation” and struck out “the maturity value of” before “such series E bond” and “which matures not more than 10 years from the date of maturity of such series E bond” after “income obligation” in such cl. (A), and added cl. (B).
 
@@ -60,15 +60,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F156
-[/us/pl/86/346/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2Fs102
+[/us/pl/86/346/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346%2FtI
 [/us/stat/73/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F621
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
-[/us/pl/97/452/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fc%2F2
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
 [/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/86/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F346
 
 

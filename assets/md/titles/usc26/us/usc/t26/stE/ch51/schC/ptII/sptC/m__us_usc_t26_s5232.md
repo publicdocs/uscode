@@ -27,11 +27,11 @@
 
         (2) may be withdrawn for any purpose authorized by this chapter, in the same manner as domestic distilled spirits.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1366][/us/stat/72/1366]; amended [Pub. L. 90–630, § 3(a)][/us/pl/90/630/s3/a], Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 91–659, § 7][/us/pl/91/659/s7], Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 94–455, title XIX, § 1905(a)(15)][/us/pl/94/455/s1905/a/15], Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820]; [Pub. L. 96–39, title VIII, § 807(a)(33)][/us/pl/96/39/s807/a/33], July 26, 1979, [93 Stat. 286][/us/stat/93/286].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1366][/us/stat/72/1366]; amended [Pub. L. 90–630][/us/pl/90/630], § 3(a), Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 91–659][/us/pl/91/659], § 7, Jan. 8, 1971, [84 Stat. 1967][/us/stat/84/1967]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(a)(15), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(33), July 26, 1979, [93 Stat. 286][/us/stat/93/286].)
 
  __Prior Provisions__ 
 
-    A prior section 5232, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 643][/us/stat/68A/643]; Sept. 2, 1958, [Pub. L. 85–859, title II, § 206(b)][/us/pl/85/859/s206/b], [72 Stat. 1431][/us/stat/72/1431], related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859]. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
+    A prior section 5232, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 643][/us/stat/68A/643]; Sept. 2, 1958, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 206(b), [72 Stat. 1431][/us/stat/72/1431], related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859]. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
 
     Provisions similar to those comprising this section were contained in prior section 5311, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 658][/us/stat/68A/658], prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
@@ -41,9 +41,9 @@
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
 
-    1971—Subsec. (a). [Pub. L. 91–659, § 7(a)][/us/pl/91/659/s7/a], extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
+    1971—Subsec. (a). [Pub. L. 91–659][/us/pl/91/659], § 7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
 
-    Subsec. (b). [Pub. L. 91–659, § 7(b)][/us/pl/91/659/s7/b], struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
+    Subsec. (b). [Pub. L. 91–659][/us/pl/91/659], § 7(b), struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
 
     1968—[Pub. L. 90–630][/us/pl/90/630] permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor’s liability for the internal revenue tax ceases when the transferee’s liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
 
@@ -70,19 +70,19 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1366
-[/us/pl/90/630/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs3%2Fa
+[/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/stat/82/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1328
-[/us/pl/91/659/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs7
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/stat/84/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1967
-[/us/pl/94/455/s1905/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F15
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
-[/us/pl/96/39/s807/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F33
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F286
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F643
-[/us/pl/85/859/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs206%2Fb
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1431
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
@@ -90,8 +90,8 @@
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/659/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs7%2Fa
-[/us/pl/91/659/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs7%2Fb
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810

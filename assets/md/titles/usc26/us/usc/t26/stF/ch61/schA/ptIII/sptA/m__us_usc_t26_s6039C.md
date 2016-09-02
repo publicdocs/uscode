@@ -69,7 +69,7 @@
 
         (2) to the Virgin Islands, in the case of any interest in real property located in the Virgin Islands and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the Virgin Islands) described in section 897(c)(1)(A)(ii).
 
-(Added [Pub. L. 96–499, title XI, § 1123(a)][/us/pl/96/499/s1123/a], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; amended [Pub. L. 97–34, title VIII, § 831(a)(3)][/us/pl/97/34/s831/a/3], (e), Aug. 13, 1981, [95 Stat. 352][/us/stat/95/352], 354; [Pub. L. 98–369, div. A, title I, § 129(b)(1)][/us/pl/98/369/s129/b/1], July 18, 1984, [98 Stat. 659][/us/stat/98/659]; [Pub. L. 99–514, title XVIII, § 1810(f)(7)][/us/pl/99/514/s1810/f/7], Oct. 22, 1986, [100 Stat. 2828][/us/stat/100/2828].)
+(Added [Pub. L. 96–499, title XI][/us/pl/96/499/tXI], § 1123(a), Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; amended [Pub. L. 97–34, title VIII][/us/pl/97/34/tVIII], § 831(a)(3), (e), Aug. 13, 1981, [95 Stat. 352][/us/stat/95/352], 354; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 129(b)(1), July 18, 1984, [98 Stat. 659][/us/stat/98/659]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1810(f)(7), Oct. 22, 1986, [100 Stat. 2828][/us/stat/100/2828].)
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 
     1984—[Pub. L. 98–369][/us/pl/98/369] amended section generally, inserting in section catchline “foreign persons holding direct investments in” and substituting in text provisions concerning returns with respect to foreign persons holding direct investments in United States real property for provisions concerning returns with respect to United States real property interests.
 
-    1981—Subsec. (b)(4)(C). [Pub. L. 97–34, § 831(e)][/us/pl/97/34/s831/e], substituted “For purposes of determining whether an entity to which this subsection applies has a substantial investor in United States real property, the assets of any person shall include the person’s pro rata share of the United States real property interest held by any corporation (whether domestic or foreign) if the person’s pro rata share of the United States real property interests exceeded $50,000” for “The assets of any entity to which this subsection applies shall include its pro rata share of the United States real property interests held by any corporation in which the entity is a substantial investor in United States real property”.
+    1981—Subsec. (b)(4)(C). [Pub. L. 97–34][/us/pl/97/34], § 831(e), substituted “For purposes of determining whether an entity to which this subsection applies has a substantial investor in United States real property, the assets of any person shall include the person’s pro rata share of the United States real property interest held by any corporation (whether domestic or foreign) if the person’s pro rata share of the United States real property interests exceeded $50,000” for “The assets of any entity to which this subsection applies shall include its pro rata share of the United States real property interests held by any corporation in which the entity is a substantial investor in United States real property”.
 
-    Subsec. (f). [Pub. L. 97–34, § 831(a)(3)][/us/pl/97/34/s831/a/3], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–34][/us/pl/97/34], § 831(a)(3), added subsec. (f).
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 129(c)(2)][/us/pl/98/369/s129/c/2], July 18, 1984, [98 Stat. 660][/us/stat/98/660], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 129(c)(2), July 18, 1984, [98 Stat. 660][/us/stat/98/660], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to calendar year 1980 and subsequent calendar years.”
 
@@ -106,23 +106,23 @@
 ----------
 ----------
 
-[/us/pl/96/499/s1123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1123%2Fa
+[/us/pl/96/499/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtXI
 [/us/stat/94/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2687
-[/us/pl/97/34/s831/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fa%2F3
+[/us/pl/97/34/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVIII
 [/us/stat/95/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F352
-[/us/pl/98/369/s129/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs129%2Fb%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F659
-[/us/pl/99/514/s1810/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Ff%2F7
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2828
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/34/s831/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fe
-[/us/pl/97/34/s831/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fa%2F3
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s129/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs129%2Fc%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F660
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s831/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fi

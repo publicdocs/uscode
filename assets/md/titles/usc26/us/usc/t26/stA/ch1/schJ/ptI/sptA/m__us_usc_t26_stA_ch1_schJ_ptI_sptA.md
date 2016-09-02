@@ -75,15 +75,15 @@
 
  __Amendments__ 
 
-    2001—[Pub. L. 107–16, title VI, § 671(c)(1)][/us/pl/107/16/s671/c/1], June 7, 2001, [115 Stat. 147][/us/stat/115/147], added item 646.
+    2001—[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 671(c)(1), June 7, 2001, [115 Stat. 147][/us/stat/115/147], added item 646.
 
-    1998—[Pub. L. 105–206, title VI, § 6013(a)(2)][/us/pl/105/206/s6013/a/2], July 22, 1998, [112 Stat. 819][/us/stat/112/819], renumbered item 646 as 645.
+    1998—[Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6013(a)(2), July 22, 1998, [112 Stat. 819][/us/stat/112/819], renumbered item 646 as 645.
 
-    1997—[Pub. L. 105–34, title V, § 507(b)(3)][/us/pl/105/34/s507/b/3], title XIII, § 1305(c), Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], 1041, added items 644 and 646 and struck out former items 644 “Special rule for gain on property transferred to trust at less than fair market value” and 645 “Taxable year of trusts”.
+    1997—[Pub. L. 105–34, title V][/us/pl/105/34/tV], § 507(b)(3), title XIII, § 1305(c), Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], 1041, added items 644 and 646 and struck out former items 644 “Special rule for gain on property transferred to trust at less than fair market value” and 645 “Taxable year of trusts”.
 
-    1986—[Pub. L. 99–514, title XIV, § 1403(b)][/us/pl/99/514/s1403/b], Oct. 22, 1986, [100 Stat. 2713][/us/stat/100/2713], added item 645.
+    1986—[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1403(b), Oct. 22, 1986, [100 Stat. 2713][/us/stat/100/2713], added item 645.
 
-    1976—[Pub. L. 94–455, title VII, § 701(g)(2)][/us/pl/94/455/s701/g/2], Oct. 4, 1976, [90 Stat. 1580][/us/stat/90/1580], added item 644.
+    1976—[Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(g)(2), Oct. 4, 1976, [90 Stat. 1580][/us/stat/90/1580], added item 644.
 
 ----------
 
@@ -92,15 +92,15 @@
 ----------
 ----------
 
-[/us/pl/107/16/s671/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs671%2Fc%2F1
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F147
-[/us/pl/105/206/s6013/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fa%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F819
-[/us/pl/105/34/s507/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fb%2F3
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F857
-[/us/pl/99/514/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1403%2Fb
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2713
-[/us/pl/94/455/s701/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fg%2F2
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1580
 
 

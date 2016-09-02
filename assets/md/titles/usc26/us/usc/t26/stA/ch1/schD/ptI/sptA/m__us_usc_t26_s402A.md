@@ -171,7 +171,7 @@
 
             (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
-(Added [Pub. L. 107–16, title VI, § 617(a)][/us/pl/107/16/s617/a], June 7, 2001, [115 Stat. 103][/us/stat/115/103]; amended [Pub. L. 111–240, title II][/us/pl/111/240], §§ 2111(a), (b), 2112(a), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], 2566; [Pub. L. 112–240, title IX, § 902(a)][/us/pl/112/240/s902/a], Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371]; [Pub. L. 113–295, div. A, title II, § 220(k)][/us/pl/113/295/s220/k], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+(Added [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 617(a), June 7, 2001, [115 Stat. 103][/us/stat/115/103]; amended [Pub. L. 111–240, title II][/us/pl/111/240/tII], §§ 2111(a), (b), 2112(a), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], 2566; [Pub. L. 112–240, title IX][/us/pl/112/240/tIX], § 902(a), Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(k), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Amendments__ 
 
@@ -179,25 +179,25 @@
 
     2013—Subsec. (c)(4)(E). [Pub. L. 112–240][/us/pl/112/240] added subpar. (E).
 
-    2010—Subsec. (c)(4). [Pub. L. 111–240, § 2112(a)][/us/pl/111/240/s2112/a], added par. (4).
+    2010—Subsec. (c)(4). [Pub. L. 111–240][/us/pl/111/240], § 2112(a), added par. (4).
 
-    Subsec. (e)(1)(C). [Pub. L. 111–240, § 2111(a)][/us/pl/111/240/s2111/a], added subpar. (C).
+    Subsec. (e)(1)(C). [Pub. L. 111–240][/us/pl/111/240], § 2111(a), added subpar. (C).
 
-    Subsec. (e)(2). [Pub. L. 111–240, § 2111(b)][/us/pl/111/240/s2111/b], amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
+    Subsec. (e)(2). [Pub. L. 111–240][/us/pl/111/240], § 2111(b), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title IX, § 902(b)][/us/pl/112/240/s902/b], Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371], provided that: 
+[Pub. L. 112–240, title IX][/us/pl/112/240/tIX], § 902(b), Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to transfers after December 31, 2012, in taxable years ending after such date.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–240, title II, § 2111(c)][/us/pl/111/240/s2111/c], Sept. 27, 2010, [124 Stat. 2566][/us/stat/124/2566], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2111(c), Sept. 27, 2010, [124 Stat. 2566][/us/stat/124/2566], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
 
-[Pub. L. 111–240, title II, § 2112(b)][/us/pl/111/240/s2112/b], Sept. 27, 2010, [124 Stat. 2566][/us/stat/124/2566], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2112(b), Sept. 27, 2010, [124 Stat. 2566][/us/stat/124/2566], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Sept. 27, 2010\].”
 
@@ -213,24 +213,24 @@
 ----------
 
 [/us/usc/t5/s8433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8433
-[/us/pl/107/16/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs617%2Fa
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F103
-[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
-[/us/pl/112/240/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs902%2Fa
+[/us/pl/112/240/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIX
 [/us/stat/126/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2371
-[/us/pl/113/295/s220/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fk
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/111/240/s2112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2112%2Fa
-[/us/pl/111/240/s2111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2111%2Fa
-[/us/pl/111/240/s2111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2111%2Fb
-[/us/pl/112/240/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs902%2Fb
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/112/240/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIX
 [/us/stat/126/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2371
-[/us/pl/111/240/s2111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2111%2Fc
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2566
-[/us/pl/111/240/s2112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2112%2Fb
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2566
 [/us/pl/107/16/s617/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs617%2Ff
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402

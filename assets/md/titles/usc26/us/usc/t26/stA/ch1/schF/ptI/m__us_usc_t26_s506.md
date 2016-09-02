@@ -45,11 +45,11 @@
 
         Upon request by an organization to be treated as an organization described in section 501(c)(4), the Secretary may issue a determination with respect to such treatment. Such request shall be treated for purposes of section 6104 as an application for exemption from taxation under section 501(a).
 
-(Added [Pub. L. 114–113, div. Q, title IV, § 405(a)][/us/pl/114/113/s405/a], Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118].)
+(Added [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 405(a), Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118].)
 
  __Effective Date__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 405(f)][/us/pl/114/113/s405/f], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that:
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 405(f), Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Limitation on Expenditure of User Fees__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 405(e)][/us/pl/114/113/s405/e], Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 405(e), Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119], provided that: 
 
 > “Notwithstanding any other provision of law, any fees collected pursuant to section 506(e) of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Secretary of the Treasury or the Secretary’s delegate unless provided by an appropriations Act.”
 
@@ -76,11 +76,11 @@
 ----------
 ----------
 
-[/us/pl/114/113/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3118
-[/us/pl/114/113/s405/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Ff
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
-[/us/pl/114/113/s405/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Fe
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3119
 
 

@@ -27,7 +27,7 @@
 
         Any officer or employee of the United States acting under authority of this title, or any person acting under or by authority of any such officer or employee, receiving any injury to his person or property in the discharge of his duty shall be entitled to maintain an action for damages therefor, in the district court of the United States, in the district wherein the party doing the injury may reside or shall be found.
 
-    \[(d) __Repealed.__  __[__  __Pub. L. 92–310, title II, § 230(d)__  __][/us/pl/92/310/s230/d]__  __,__  __June 6, 1972__  __,__  __[__  __86 Stat. 209__  __][/us/stat/86/209]__  __\]__ 
+    \[(d) __Repealed.__  __[__  __Pub. L. 92–310, title II__  __][/us/pl/92/310/tII]__  __, § 230(d),__  __June 6, 1972__  __,__  __[__  __86 Stat. 209__  __][/us/stat/86/209]__  __\]__ 
 
     (e) __To quiet title__ 
 
@@ -37,7 +37,7 @@
 
         For general jurisdiction of the district courts of the United States in civil actions involving internal revenue, see [section 1340 of title 28][/us/usc/t28/s1340] of the United States Code.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 873][/us/stat/68A/873]; [Pub. L. 89–719, title I, § 107(a)][/us/pl/89/719/s107/a], Nov. 2, 1966, [80 Stat. 1140][/us/stat/80/1140]; [Pub. L. 93–310, title II, § 230(d)][/us/pl/93/310/s230/d], June 6, 1972, [86 Stat. 209][/us/stat/86/209].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 873][/us/stat/68A/873]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 107(a), Nov. 2, 1966, [80 Stat. 1140][/us/stat/80/1140]; [Pub. L. 93–310, title II][/us/pl/93/310/tII], § 230(d), June 6, 1972, [86 Stat. 209][/us/stat/86/209].)
 
  __Amendments__ 
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/92/310/s230/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs230%2Fd
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F209
 [/us/usc/t28/s1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1340
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F873
-[/us/pl/89/719/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs107%2Fa
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1140
-[/us/pl/93/310/s230/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F310%2Fs230%2Fd
+[/us/pl/93/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F310%2FtII
 [/us/stat/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F209
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719

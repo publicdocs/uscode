@@ -149,7 +149,7 @@
 
         For information required with respect to electing Settlement Trusts and sponsoring Native Corporations, see section 6039H.
 
-(Added [Pub. L. 107–16, title VI, § 671(a)][/us/pl/107/16/s671/a], June 7, 2001, [115 Stat. 144][/us/stat/115/144].)
+(Added [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 671(a), June 7, 2001, [115 Stat. 144][/us/stat/115/144].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–16, title VI, § 671(d)][/us/pl/107/16/s671/d], June 7, 2001, [115 Stat. 148][/us/stat/115/148], provided that: 
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 671(d), June 7, 2001, [115 Stat. 148][/us/stat/115/148], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 6039H of this title][/us/usc/t26/s6039H]\] shall apply to taxable years ending after the date of the enactment of this Act \[June 7, 2001\] and to contributions made to electing Settlement Trusts for such year or any subsequent year.”
 
@@ -177,11 +177,11 @@
 [/us/usc/t43/s1602/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fm
 [/us/usc/t43/s1602/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Fp
 [/us/usc/t43/s1602/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1602%2Ft
-[/us/pl/107/16/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs671%2Fa
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F144
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/usc/t26/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs645
-[/us/pl/107/16/s671/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs671%2Fd
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F148
 [/us/usc/t26/s6039H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6039H
 

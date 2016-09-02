@@ -79,7 +79,7 @@
 
         If any person takes any action as provided in subsection (c)(2), the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which the proceeding under such subsection, and appeals therein, are pending.
 
-(Added [Pub. L. 97–248, title III, § 337(a)][/us/pl/97/248/s337/a], Sept. 3, 1982, [96 Stat. 629][/us/stat/96/629]; amended [Pub. L. 98–369, div. A, title VII, § 714(k)][/us/pl/98/369/s714/k], July 18, 1984, [98 Stat. 963][/us/stat/98/963].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 337(a), Sept. 3, 1982, [96 Stat. 629][/us/stat/96/629]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(k), July 18, 1984, [98 Stat. 963][/us/stat/98/963].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 337(c)][/us/pl/97/248/s337/c], Sept. 3, 1982, [96 Stat. 630][/us/stat/96/630], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 337(c), Sept. 3, 1982, [96 Stat. 630][/us/stat/96/630], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to formal document requests (as defined in section 982(c)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section) mailed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -102,18 +102,18 @@
 ----------
 ----------
 
-[/us/pl/97/248/s337/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs337%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F629
-[/us/pl/98/369/s714/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fk
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F963
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/98/369/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs715
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31
-[/us/pl/97/248/s337/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs337%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F630
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

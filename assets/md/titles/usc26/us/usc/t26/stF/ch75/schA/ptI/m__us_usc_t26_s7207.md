@@ -17,7 +17,7 @@
 
     Any person who willfully delivers or discloses to the Secretary any list, return, account, statement, or other document, known by him to be fraudulent or to be false as to any material matter, shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both. Any person required pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527 to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 853][/us/stat/68A/853]; [Pub. L. 87–792, § 7(m)(3)][/us/pl/87/792/s7/m/3], Oct. 10, 1962, [76 Stat. 831][/us/stat/76/831]; [Pub. L. 91–172, title I, § 101(e)(5)][/us/pl/91/172/s101/e/5], Dec. 30, 1969, [83 Stat. 524][/us/stat/83/524]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–603, § 1(d)(5)][/us/pl/96/603/s1/d/5], Dec. 28, 1980, [94 Stat. 3505][/us/stat/94/3505]; [Pub. L. 97–248, title III, § 329(d)][/us/pl/97/248/s329/d], Sept. 3, 1982, [96 Stat. 619][/us/stat/96/619]; [Pub. L. 98–369, div. A, title IV, § 491(d)(51)][/us/pl/98/369/s491/d/51], July 18, 1984, [98 Stat. 852][/us/stat/98/852]; [Pub. L. 100–203, title X, § 10704(c)][/us/pl/100/203/s10704/c], Dec. 22, 1987, [101 Stat. 1330–463][/us/stat/101/1330-463]; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(E)][/us/pl/105/277/s1004/b/2/E], Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 107–276, § 6(d)][/us/pl/107/276/s6/d], Nov. 2, 2002, [116 Stat. 1933][/us/stat/116/1933].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 853][/us/stat/68A/853]; [Pub. L. 87–792][/us/pl/87/792], § 7(m)(3), Oct. 10, 1962, [76 Stat. 831][/us/stat/76/831]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(e)(5), Dec. 30, 1969, [83 Stat. 524][/us/stat/83/524]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–603][/us/pl/96/603], § 1(d)(5), Dec. 28, 1980, [94 Stat. 3505][/us/stat/94/3505]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 329(d), Sept. 3, 1982, [96 Stat. 619][/us/stat/96/619]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(d)(51), July 18, 1984, [98 Stat. 852][/us/stat/98/852]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10704(c), Dec. 22, 1987, [101 Stat. 1330–463][/us/stat/101/1330-463]; [Pub. L. 105–277, div. J, title I][/us/pl/105/277/dJ/tI], § 1004(b)(2)(E), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 107–276][/us/pl/107/276], § 6(d), Nov. 2, 2002, [116 Stat. 1933][/us/stat/116/1933].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–276, § 6(h)(3)][/us/pl/107/276/s6/h/3], Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that: 
+[Pub. L. 107–276][/us/pl/107/276], § 6(h)(3), Nov. 2, 2002, [116 Stat. 1934][/us/stat/116/1934], provided that: 
 
 > “The amendment made by subsection (d) \[amending this section\] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act \[Nov. 2, 2002\].”
 
@@ -75,7 +75,7 @@
 
  __Annual Reports__ 
 
-[Pub. L. 110–428, § 2(e)][/us/pl/110/428/s2/e], Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840], provided that: 
+[Pub. L. 110–428][/us/pl/110/428], § 2(e), Oct. 15, 2008, [122 Stat. 4840][/us/stat/122/4840], provided that: 
 
 > “The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.”
 
@@ -88,23 +88,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F853
-[/us/pl/87/792/s7/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs7%2Fm%2F3
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/stat/76/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F831
-[/us/pl/91/172/s101/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fe%2F5
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F524
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/603/s1/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F5
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3505
-[/us/pl/97/248/s329/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs329%2Fd
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F619
-[/us/pl/98/369/s491/d/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fd%2F51
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F852
-[/us/pl/100/203/s10704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10704%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-463
-[/us/pl/105/277/s1004/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1004%2Fb%2F2%2FE
+[/us/pl/105/277/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtI
 [/us/stat/112/2681-890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-890
-[/us/pl/107/276/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fd
+[/us/pl/107/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276
 [/us/stat/116/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1933
 [/us/pl/107/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -115,7 +115,7 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
-[/us/pl/107/276/s6/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fh%2F3
+[/us/pl/107/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276
 [/us/stat/116/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1934
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t26/s6104/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6104%2Fd%2F4
@@ -139,7 +139,7 @@
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/pl/87/792/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs8
 [/us/usc/t26/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs22
-[/us/pl/110/428/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428%2Fs2%2Fe
+[/us/pl/110/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F428
 [/us/stat/122/4840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4840
 
 

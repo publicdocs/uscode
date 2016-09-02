@@ -31,7 +31,7 @@
 
         (4) which is engaged primarily in the gathering and distribution of news to its members for publication.
 
-(Added [Pub. L. 91–172, title I, § 121(b)(3)(A)][/us/pl/91/172/s121/b/3/A], Dec. 30, 1969, [83 Stat. 540][/us/stat/83/540]; amended [Pub. L. 94–568, § 1(c)][/us/pl/94/568/s1/c], Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 99–514, title XVI, § 1604(a)][/us/pl/99/514/s1604/a], Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 121(b)(3)(A), Dec. 30, 1969, [83 Stat. 540][/us/stat/83/540]; amended [Pub. L. 94–568][/us/pl/94/568], § 1(c), Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 99–514, title XVI][/us/pl/99/514/tXVI], § 1604(a), Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(G), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVI, § 1604(b)][/us/pl/99/514/s1604/b], Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769], provided that: 
+[Pub. L. 99–514, title XVI][/us/pl/99/514/tXVI], § 1604(b), Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/91/172/s121/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fb%2F3%2FA
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F540
-[/us/pl/94/568/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568%2Fs1%2Fc
+[/us/pl/94/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568
 [/us/stat/90/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2697
-[/us/pl/99/514/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1604%2Fa
+[/us/pl/99/514/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVI
 [/us/stat/100/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2769
-[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
@@ -100,7 +100,7 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1604%2Fb
+[/us/pl/99/514/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVI
 [/us/stat/100/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2769
 [/us/pl/94/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568
 [/us/pl/94/568/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568%2Fs1%2Fd

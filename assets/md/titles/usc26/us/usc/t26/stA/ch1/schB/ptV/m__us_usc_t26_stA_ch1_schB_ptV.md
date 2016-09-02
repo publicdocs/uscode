@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(7)(A)(ii)][/us/pl/94/455/s1901/b/7/A/ii], Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], redesignated item 154 as 153 and struck out former item 153 “Determination of marital status”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(7)(A)(ii), Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], redesignated item 154 as 153 and struck out former item 153 “Determination of marital status”.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F7%2FA%2Fii
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1794
 
 

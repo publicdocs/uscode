@@ -85,7 +85,7 @@
 
         The amount of the credit allowed by subsection (a) shall not exceed the amount of the tax imposed by section 2001.
 
-(Added [Pub. L. 94–455, title XX, § 2001(a)(2)][/us/pl/94/455/s2001/a/2], Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]; amended [Pub. L. 97–34, title IV, § 401(a)(1)][/us/pl/97/34/s401/a/1], (2)(A), Aug. 13, 1981, [95 Stat. 299][/us/stat/95/299]; [Pub. L. 101–508, title XI, § 11801(a)(39)][/us/pl/101/508/s11801/a/39], (c)(19)(A), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–528; [Pub. L. 105–34, title V, § 501(a)(1)(A)][/us/pl/105/34/s501/a/1/A], (B), Aug. 5, 1997, [111 Stat. 845][/us/stat/111/845]; [Pub. L. 107–16, title V, § 521(a)][/us/pl/107/16/s521/a], June 7, 2001, [115 Stat. 71][/us/stat/115/71]; [Pub. L. 111–312, title III][/us/pl/111/312], §§ 302(a)(1), 303(a), Dec. 17, 2010, [124 Stat. 3301][/us/stat/124/3301], 3302; [Pub. L. 112–240, title I, § 101(c)(2)][/us/pl/112/240/s101/c/2], Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(a)(2), Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]; amended [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 401(a)(1), (2)(A), Aug. 13, 1981, [95 Stat. 299][/us/stat/95/299]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(39), (c)(19)(A), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–528; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 501(a)(1)(A), (B), Aug. 5, 1997, [111 Stat. 845][/us/stat/111/845]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 521(a), June 7, 2001, [115 Stat. 71][/us/stat/115/71]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], §§ 302(a)(1), 303(a), Dec. 17, 2010, [124 Stat. 3301][/us/stat/124/3301], 3302; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 101(c)(2), Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -101,9 +101,9 @@
 
     2013—Subsec. (c)(4)(B)(i). [Pub. L. 112–240][/us/pl/112/240] substituted “applicable exclusion amount” for “basic exclusion amount”.
 
-    2010—Subsec. (c). [Pub. L. 111–312, § 302(a)(1)][/us/pl/111/312/s302/a/1], amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusion amount determined in accordance with the table, covering years 2002 to 2009, included in that text.
+    2010—Subsec. (c). [Pub. L. 111–312][/us/pl/111/312], § 302(a)(1), amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusion amount determined in accordance with the table, covering years 2002 to 2009, included in that text.
 
-    Subsec. (c)(2) to (6). [Pub. L. 111–312, § 303(a)][/us/pl/111/312/s303/a], added pars. (2) to (6) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
+    Subsec. (c)(2) to (6). [Pub. L. 111–312][/us/pl/111/312], § 303(a), added pars. (2) to (6) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows:
 
     “(A) In general.—For purposes of this subsection, the applicable exclusion amount is $5,000,000.
 
@@ -117,15 +117,15 @@
 
     2001—Subsec. (c). [Pub. L. 107–16][/us/pl/107/16], in table, substituted provision that in the case of estates of decedents dying during the years 2002 and 2003, the years 2004 and 2005, the years 2006, 2007, and 2008, and the year 2009, the applicable exclusion amount is $1,000,000, $1,500,000, $2,000,000, and $3,500,000, respectively, for provision that in the case of decedents dying, and gifts made, during the year 1998, the year 1999, the years 2000 and 2001, the years 2002 and 2003, the year 2004, the year 2005, and the year 2006 or thereafter, the applicable exclusion amount is $625,000, $650,000, $675,000, $700,000, $850,000, $950,000, and $1,000,000, respectively.
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 501(a)(1)(A)][/us/pl/105/34/s501/a/1/A], substituted “the applicable credit amount” for “$192,800”.
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 501(a)(1)(A), substituted “the applicable credit amount” for “$192,800”.
 
-    Subsecs. (c), (d). [Pub. L. 105–34, § 501(a)(1)(B)][/us/pl/105/34/s501/a/1/B], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 105–34][/us/pl/105/34], § 501(a)(1)(B), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1990—Subsecs. (b) to (d). [Pub. L. 101–508][/us/pl/101/508] redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which provided for a phase-in of the unified credit against estate tax.
 
-    1981—Subsec. (a). [Pub. L. 97–34, § 401(a)(1)][/us/pl/97/34/s401/a/1], substituted “$192,800” for “$47,000”.
+    1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34], § 401(a)(1), substituted “$192,800” for “$47,000”.
 
-    Subsec. (b). [Pub. L. 97–34, § 401(a)(2)(A)][/us/pl/97/34/s401/a/2/A], struck out “$47,000” before “credit” from heading and in text substituted in subsec. (a) substitutions for “$192,800” amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for “$47,000” amounts of “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
+    Subsec. (b). [Pub. L. 97–34][/us/pl/97/34], § 401(a)(2)(A), struck out “$47,000” before “credit” from heading and in text substituted in subsec. (a) substitutions for “$192,800” amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for “$47,000” amounts of “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -135,7 +135,7 @@
 
     Amendment by [section 302(a)(1) of Pub. L. 111–312][/us/pl/111/312/s302/a/1] applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see [section 302(f) of Pub. L. 111–312][/us/pl/111/312/s302/f], set out as a note under [section 2001 of this title][/us/usc/t26/s2001].
 
-[Pub. L. 111–312, title III, § 303(c)][/us/pl/111/312/s303/c], Dec. 17, 2010, [124 Stat. 3303][/us/stat/124/3303], provided that:
+[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 303(c), Dec. 17, 2010, [124 Stat. 3303][/us/stat/124/3303], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–16, title V, § 521(e)][/us/pl/107/16/s521/e], June 7, 2001, [115 Stat. 72][/us/stat/115/72], provided that:
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 521(e), June 7, 2001, [115 Stat. 72][/us/stat/115/72], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -167,7 +167,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title IV, § 401(c)(1)][/us/pl/97/34/s401/c/1], Aug. 13, 1981, [95 Stat. 300][/us/stat/95/300], provided that: 
+[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 401(c)(1), Aug. 13, 1981, [95 Stat. 300][/us/stat/95/300], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 6018 of this title][/us/usc/t26/s6018]\] shall apply to the estates of decedents dying after December 31, 1981”.
 
@@ -182,19 +182,19 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fa%2F2
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1848
-[/us/pl/97/34/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs401%2Fa%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F299
-[/us/pl/101/508/s11801/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F39
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
-[/us/pl/105/34/s501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Fa%2F1%2FA
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F845
-[/us/pl/107/16/s521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs521%2Fa
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F71
-[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3301
-[/us/pl/112/240/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fc%2F2
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2318
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -202,14 +202,14 @@
 [/us/usc/t26/s2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2521
 [/us/pl/94/455/s2001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fb%2F3
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/111/312/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fa%2F1
-[/us/pl/111/312/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs303%2Fa
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/105/34/s501/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Fa%2F1%2FA
-[/us/pl/105/34/s501/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Fa%2F1%2FB
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/97/34/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs401%2Fa%2F1
-[/us/pl/97/34/s401/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs401%2Fa%2F2%2FA
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/112/240/s101/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fc%2F3%2FB
@@ -217,16 +217,16 @@
 [/us/pl/111/312/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fa%2F1
 [/us/pl/111/312/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Ff
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001
-[/us/pl/111/312/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs303%2Fc
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3303
 [/us/usc/t26/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2631
-[/us/pl/107/16/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs521%2Fe
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F72
 [/us/usc/t26/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2505
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Ff
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001
-[/us/pl/97/34/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs401%2Fc%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F300
 [/us/usc/t26/s6018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6018
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

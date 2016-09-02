@@ -35,33 +35,33 @@
 
         For assessment and collection of penalty provided by subsection (a), see section 6206.
 
-(Added [Apr. 2, 1956, ch. 160, § 3][/us/act/1956-04-02/ch160/s3], [70 Stat. 90][/us/stat/70/90]; amended [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(d)(2), [70 Stat. 396][/us/stat/70/396]; [Pub. L. 89–44, title II, § 202(c)(3)(A)][/us/pl/89/44/s202/c/3/A], June 21, 1965, [79 Stat. 139][/us/stat/79/139]; [Pub. L. 91–258, title II, § 207(d)(8)][/us/pl/91/258/s207/d/8], May 21, 1970, [84 Stat. 249][/us/stat/84/249]; [Pub. L. 95–618, title II, § 233(b)(2)(D)][/us/pl/95/618/s233/b/2/D], Nov. 9, 1978, [92 Stat. 3191][/us/stat/92/3191]; [Pub. L. 97–424, title V, § 515(b)(11)(A)][/us/pl/97/424/s515/b/11/A]–(C), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 109–59, title XI, § 11163(d)(2)][/us/pl/109/59/s11163/d/2], (3), Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975].)
+(Added [Apr. 2, 1956, ch. 160][/us/act/1956-04-02/ch160], § 3, [70 Stat. 90][/us/stat/70/90]; amended [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(d)(2), [70 Stat. 396][/us/stat/70/396]; [Pub. L. 89–44, title II][/us/pl/89/44/tII], § 202(c)(3)(A), June 21, 1965, [79 Stat. 139][/us/stat/79/139]; [Pub. L. 91–258, title II][/us/pl/91/258/tII], § 207(d)(8), May 21, 1970, [84 Stat. 249][/us/stat/84/249]; [Pub. L. 95–618, title II][/us/pl/95/618/tII], § 233(b)(2)(D), Nov. 9, 1978, [92 Stat. 3191][/us/stat/92/3191]; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(11)(A)–(C), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11163(d)(2), (3), Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975].)
 
  __Amendments__ 
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 11163(d)(2)][/us/pl/109/59/s11163/d/2], inserted “section 6416(a)(4) (relating to certain sales of gasoline),” after “made under” in introductory provisions.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 11163(d)(2), inserted “section 6416(a)(4) (relating to certain sales of gasoline),” after “made under” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 109–59, § 11163(d)(3)][/us/pl/109/59/s11163/d/3], inserted “6416(a)(4),” after “under section”.
+    Subsec. (b)(1). [Pub. L. 109–59][/us/pl/109/59], § 11163(d)(3), inserted “6416(a)(4),” after “under section”.
 
-    1983—[Pub. L. 97–424, § 515(b)(11)(C)][/us/pl/97/424/s515/b/11/C], struck out “or lubricating oil” after “fuels” in section catchline.
+    1983—[Pub. L. 97–424][/us/pl/97/424], § 515(b)(11)(C), struck out “or lubricating oil” after “fuels” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–424, § 515(b)(11)(A)][/us/pl/97/424/s515/b/11/A], struck out “6424 (relating to lubricating oil used for certain nontaxable purposes),” after “systems),”.
+    Subsec. (a). [Pub. L. 97–424][/us/pl/97/424], § 515(b)(11)(A), struck out “6424 (relating to lubricating oil used for certain nontaxable purposes),” after “systems),”.
 
-    Subsec. (b)(1). [Pub. L. 97–424, § 515(b)(11)(B)][/us/pl/97/424/s515/b/11/B], struck out “6424,” after “6421,”.
+    Subsec. (b)(1). [Pub. L. 97–424][/us/pl/97/424], § 515(b)(11)(B), struck out “6424,” after “6421,”.
 
     1978—Subsec. (a). [Pub. L. 95–618][/us/pl/95/618] substituted “used for certain nontaxable purposes” for “not used in highway motor vehicles”.
 
-    1970—[Pub. L. 91–258, § 207(d)(8)(A)][/us/pl/91/258/s207/d/8/A], substituted “fuels” for “gasoline” in section catchline.
+    1970—[Pub. L. 91–258][/us/pl/91/258], § 207(d)(8)(A), substituted “fuels” for “gasoline” in section catchline.
 
-    Subsec. (a). [Pub. L. 91–258, § 207(d)(8)(B)][/us/pl/91/258/s207/d/8/B], inserted reference to section 6427 relating to fuels not used for taxable purposes.
+    Subsec. (a). [Pub. L. 91–258][/us/pl/91/258], § 207(d)(8)(B), inserted reference to section 6427 relating to fuels not used for taxable purposes.
 
-    Subsec. (b)(1). [Pub. L. 91–258, § 207(d)(8)(C)][/us/pl/91/258/s207/d/8/C], inserted reference to section 6427.
+    Subsec. (b)(1). [Pub. L. 91–258][/us/pl/91/258], § 207(d)(8)(C), inserted reference to section 6427.
 
-    1965—[Pub. L. 89–44, § 202(c)(3)(A)(i)][/us/pl/89/44/s202/c/3/A/i], inserted “or lubricating oil” after “gasoline” in section catchline.
+    1965—[Pub. L. 89–44][/us/pl/89/44], § 202(c)(3)(A)(i), inserted “or lubricating oil” after “gasoline” in section catchline.
 
-    Subsec. (a). [Pub. L. 89–44, § 202(c)(3)(A)(ii)][/us/pl/89/44/s202/c/3/A/ii], inserted reference to claims made under section 6424.
+    Subsec. (a). [Pub. L. 89–44][/us/pl/89/44], § 202(c)(3)(A)(ii), inserted reference to claims made under section 6424.
 
-    Subsec. (b)(1). [Pub. L. 89–44, § 202(c)(3)(A)(iii)][/us/pl/89/44/s202/c/3/A/iii], inserted reference to amounts claimed under section 6424.
+    Subsec. (b)(1). [Pub. L. 89–44][/us/pl/89/44], § 202(c)(3)(A)(iii), inserted reference to amounts claimed under section 6424.
 
     1956—Act June 29, 1956, § 208(d)(2)(A), substituted “with respect to the use of certain gasoline” for “for gasoline used on farms” in section catchline.
 
@@ -100,32 +100,32 @@
 ----------
 ----------
 
-[/us/act/1956-04-02/ch160/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160%2Fs3
+[/us/act/1956-04-02/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160
 [/us/stat/70/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F90
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F396
-[/us/pl/89/44/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F3%2FA
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F139
-[/us/pl/91/258/s207/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F8
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F249
-[/us/pl/95/618/s233/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs233%2Fb%2F2%2FD
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3191
-[/us/pl/97/424/s515/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F11%2FA
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2182
-[/us/pl/109/59/s11163/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11163%2Fd%2F2
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1975
-[/us/pl/109/59/s11163/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11163%2Fd%2F2
-[/us/pl/109/59/s11163/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11163%2Fd%2F3
-[/us/pl/97/424/s515/b/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F11%2FC
-[/us/pl/97/424/s515/b/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F11%2FA
-[/us/pl/97/424/s515/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F11%2FB
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
-[/us/pl/91/258/s207/d/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F8%2FA
-[/us/pl/91/258/s207/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F8%2FB
-[/us/pl/91/258/s207/d/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F8%2FC
-[/us/pl/89/44/s202/c/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F3%2FA%2Fi
-[/us/pl/89/44/s202/c/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F3%2FA%2Fii
-[/us/pl/89/44/s202/c/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F3%2FA%2Fiii
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s11163/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11163%2Fe
 [/us/usc/t26/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4101

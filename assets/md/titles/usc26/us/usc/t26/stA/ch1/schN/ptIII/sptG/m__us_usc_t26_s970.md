@@ -65,19 +65,19 @@
 
             A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1972, [76 Stat. 1027][/us/stat/76/1027]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], 1834.)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1972, [76 Stat. 1027][/us/stat/76/1027]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], 1834.)
 
  __References in Text__ 
 
-    The Tax Reform Act of 1976, referred to in subsec. (b)(1), is [Pub. L. 94–455][/us/pl/94/455], Oct. 4, 1976, [90 Stat. 1250][/us/stat/90/1250], as amended, which was enacted Oct. 4, 1976. [Section 972 of this title][/us/usc/t26/s972] was repealed by [Pub. L. 94–455, title XIX, § 1901(a)(120)][/us/pl/94/455/s1901/a/120], Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]. For complete classification of this Act to the Code, see Tables.
+    The Tax Reform Act of 1976, referred to in subsec. (b)(1), is [Pub. L. 94–455][/us/pl/94/455], Oct. 4, 1976, [90 Stat. 1250][/us/stat/90/1250], as amended, which was enacted Oct. 4, 1976. [Section 972 of this title][/us/usc/t26/s972] was repealed by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(120), Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
-    1976—Subsec. (a)(1). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(1). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(1). [Pub. L. 94–455, § 1901(b)(27)(A)][/us/pl/94/455/s1901/b/27/A], substituted “treatment (under section 972 as in effect before the date of enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled corporation” for “application of section 972” after “reason of the”.
+    Subsec. (b)(1). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(27)(A), substituted “treatment (under section 972 as in effect before the date of enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled corporation” for “application of section 972” after “reason of the”.
 
-    Subsec. (c)(4). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” in three places.
+    Subsec. (c)(4). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in three places.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -85,7 +85,7 @@
 
  __Export Trade Corporations__ 
 
-[Pub. L. 92–178, title V, § 505(a)][/us/pl/92/178/s505/a], (b), Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551], provided that:
+[Pub. L. 92–178, title V][/us/pl/92/178/tV], § 505(a), (b), Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551], provided that:
 
 >     “(a)  __Use of Terms__  __.—__ 
 
@@ -140,22 +140,22 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1027
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1799
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/90/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1250
 [/us/usc/t26/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs972
-[/us/pl/94/455/s1901/a/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F120
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1784
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F27%2FA
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/b/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F27%2FA
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/92/178/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs505%2Fa
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F551
 
 

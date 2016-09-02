@@ -17,7 +17,7 @@
 
     Every person required to deduct and withhold any tax under this chapter is hereby made liable for such tax and is hereby indemnified against the claims and demands of any person for the amount of any payments made in accordance with the provisions of this chapter.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 360][/us/stat/68A/360]; [Pub. L. 89–809, title I, § 103(i)][/us/pl/89/809/s103/i], Nov. 13, 1966, [80 Stat. 1554][/us/stat/80/1554].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 360][/us/stat/68A/360]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(i), Nov. 13, 1966, [80 Stat. 1554][/us/stat/80/1554].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F360
-[/us/pl/89/809/s103/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fi
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1554
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809

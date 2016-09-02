@@ -71,11 +71,11 @@
 
         In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 298][/us/stat/68A/298]; [Pub. L. 85–866, title I, § 43(a)][/us/pl/85/866/s43/a], Sept. 2, 1958, [72 Stat. 1640][/us/stat/72/1640]; [Pub. L. 91–614, title I, § 102(d)(1)][/us/pl/91/614/s102/d/1], Dec. 31, 1970, [84 Stat. 1841][/us/stat/84/1841]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(122), 1906(b) (13)(A), title XX, § 2005(c), Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784], 1834, 1877; [Pub. L. 97–34, title IV, § 442(d)(1)][/us/pl/97/34/s442/d/1], Aug. 13, 1981, [95 Stat. 322][/us/stat/95/322]; [Pub. L. 98–369, div. A, title IV, § 421(b)(5)][/us/pl/98/369/s421/b/5], July 18, 1984, [98 Stat. 794][/us/stat/98/794].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 298][/us/stat/68A/298]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 43(a), Sept. 2, 1958, [72 Stat. 1640][/us/stat/72/1640]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 102(d)(1), Dec. 31, 1970, [84 Stat. 1841][/us/stat/84/1841]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(122), 1906(b) (13)(A), title XX, § 2005(c), Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784], 1834, 1877; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 442(d)(1), Aug. 13, 1981, [95 Stat. 322][/us/stat/95/322]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 421(b)(5), July 18, 1984, [98 Stat. 794][/us/stat/98/794].)
 
  __References in Text__ 
 
-    Section 2521, referred to in subsec. (d)(2), was repealed by [Pub. L. 94–455, title XX, § 2001(b)(3)][/us/pl/94/455/s2001/b/3], Oct. 4, 1976, [90 Stat. 1849][/us/stat/90/1849].
+    Section 2521, referred to in subsec. (d)(2), was repealed by [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(b)(3), Oct. 4, 1976, [90 Stat. 1849][/us/stat/90/1849].
 
     The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is [act Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], [53 Stat. 1][/us/stat/53/1], as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1].
 
@@ -85,11 +85,11 @@
 
     1981—Subsec. (d)(2). [Pub. L. 97–34][/us/pl/97/34] substituted “calendar year (or preceding calendar period)” for “calendar quarter (or calendar year if the gift was made before January 1, 1971)” and “calendar year or period” for “calendar quarter or year” in two places.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” in four places.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in four places.
 
-    Subsec. (d)(1)(A), (B). [Pub. L. 94–455, § 1901(a)(122)][/us/pl/94/455/s1901/a/122], substituted “September 2, 1958” for “the date of enactment of the Technical Amendments Act of 1958”.
+    Subsec. (d)(1)(A), (B). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(122), substituted “September 2, 1958” for “the date of enactment of the Technical Amendments Act of 1958”.
 
-    Subsec. (d)(6). [Pub. L. 94–455, § 2005(c)][/us/pl/94/455/s2005/c], added par. (6).
+    Subsec. (d)(6). [Pub. L. 94–455][/us/pl/94/455], § 2005(c), added par. (6).
 
     1970—Subsec. (d)(2). [Pub. L. 91–614][/us/pl/91/614] substituted “calendar quarter (or calendar year if the gift was made before January 1, 1971)” for “calendar year” the first place it appears and “calendar quarter or year” for “calendar year” every other place it appears.
 
@@ -107,7 +107,7 @@
 
     Amendment by [section 1901(a)(122) of Pub. L. 94–455][/us/pl/94/455/s1901/a/122] applicable with respect to taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
-[Pub. L. 94–455, title XX, § 2005(f)][/us/pl/94/455/s2005/f], Oct. 4, 1976, [90 Stat. 1878][/us/stat/90/1878], as amended by [Pub. L. 95–600, title V, § 515(6)][/us/pl/95/600/s515/6], Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884], provided that:
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2005(f), Oct. 4, 1976, [90 Stat. 1878][/us/stat/90/1878], as amended by [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 515(6), Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023, 1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
 
@@ -130,26 +130,26 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F298
-[/us/pl/85/866/s43/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs43%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1640
-[/us/pl/91/614/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F1
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1841
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1784
-[/us/pl/97/34/s442/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fd%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F322
-[/us/pl/98/369/s421/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs421%2Fb%2F5
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F794
-[/us/pl/94/455/s2001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fb%2F3
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1849
 [/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F122
-[/us/pl/94/455/s2005/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Fc
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -161,9 +161,9 @@
 [/us/pl/94/455/s1901/a/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F122
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/94/455/s2005/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Ff
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1878
-[/us/pl/95/600/s515/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs515%2F6
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2884
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/91/614/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fe

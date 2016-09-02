@@ -161,7 +161,7 @@
 
             Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added [Pub. L. 99–514, title II, § 211(a)][/us/pl/99/514/s211/a], Oct. 22, 1986, [100 Stat. 2166][/us/stat/100/2166]; amended [Pub. L. 100–647, title I, § 1002(e)(1)][/us/pl/100/647/s1002/e/1]–(3), (8)(B), Nov. 10, 1988, [102 Stat. 3367][/us/stat/102/3367], 3369; [Pub. L. 101–508, title XI, § 11813(a)][/us/pl/101/508/s11813/a], Nov. 5, 1990, [104 Stat. 1388–543][/us/stat/104/1388-543]; [Pub. L. 105–206, title VI, § 6004(g)(6)][/us/pl/105/206/s6004/g/6], July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 109–58, title XIII, § 1307(c)(1)][/us/pl/109/58/s1307/c/1], Aug. 8, 2005, [119 Stat. 1006][/us/stat/119/1006]; [Pub. L. 111–5, div. B, title I, § 1302(c)(1)][/us/pl/111/5/s1302/c/1], Feb. 17, 2009, [123 Stat. 347][/us/stat/123/347]; [Pub. L. 111–148, title IX, § 9023(c)(1)][/us/pl/111/148/s9023/c/1], Mar. 23, 2010, [124 Stat. 880][/us/stat/124/880].)
+(Added [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 211(a), Oct. 22, 1986, [100 Stat. 2166][/us/stat/100/2166]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1002(e)(1)–(3), (8)(B), Nov. 10, 1988, [102 Stat. 3367][/us/stat/102/3367], 3369; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11813(a), Nov. 5, 1990, [104 Stat. 1388–543][/us/stat/104/1388-543]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6004(g)(6), July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1307(c)(1), Aug. 8, 2005, [119 Stat. 1006][/us/stat/119/1006]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1302(c)(1), Feb. 17, 2009, [123 Stat. 347][/us/stat/123/347]; [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9023(c)(1), Mar. 23, 2010, [124 Stat. 880][/us/stat/124/880].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 49, [Pub. L. 91–172, title VII, § 703(a)][/us/pl/91/172/s703/a], Dec. 30, 1969, [83 Stat. 660][/us/stat/83/660]; [Pub. L. 92–178, title I, § 101(b)(1)][/us/pl/92/178/s101/b/1]–(4), Dec. 10, 1971, [85 Stat. 498][/us/stat/85/498], 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by [Pub. L. 95–600, title III, § 312(c)(1)][/us/pl/95/600/s312/c/1], Nov. 6, 1978, [92 Stat. 2826][/us/stat/92/2826], applicable to taxable years ending after Dec. 31, 1978.
+    A prior section 49, [Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 703(a), Dec. 30, 1969, [83 Stat. 660][/us/stat/83/660]; [Pub. L. 92–178, title I][/us/pl/92/178/tI], § 101(b)(1)–(4), Dec. 10, 1971, [85 Stat. 498][/us/stat/85/498], 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 312(c)(1), Nov. 6, 1978, [92 Stat. 2826][/us/stat/92/2826], applicable to taxable years ending after Dec. 31, 1978.
 
  __Amendments__ 
 
@@ -181,19 +181,19 @@
 
     1998—Subsec. (b)(4). [Pub. L. 105–206][/us/pl/105/206] substituted “this chapter” for “subpart A, B, D, or G”.
 
-    1990—[Pub. L. 101–508, § 11813(a)][/us/pl/101/508/s11813/a], amended section generally, substituting section catchline for one which read: “Termination of regular percentage” and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
+    1990—[Pub. L. 101–508][/us/pl/101/508], § 11813(a), amended section generally, substituting section catchline for one which read: “Termination of regular percentage” and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
 
-    1988—Subsec. (c)(4)(B). [Pub. L. 100–647, § 1002(e)(2)][/us/pl/100/647/s1002/e/2], substituted “years” for “year” in heading and amended text generally. Prior to amendment, text read as follows: “The amount of the reduction of the regular investment credit under paragraph (3)—
+    1988—Subsec. (c)(4)(B). [Pub. L. 100–647][/us/pl/100/647], § 1002(e)(2), substituted “years” for “year” in heading and amended text generally. Prior to amendment, text read as follows: “The amount of the reduction of the regular investment credit under paragraph (3)—
 
     “(i) may not be carried back to any taxable year, but
 
     “(ii) shall be added to the carryforwards from the taxable year before applying paragraph (2).”
 
-    Subsec. (c)(5)(B)(i). [Pub. L. 100–647, § 1002(e)(3)][/us/pl/100/647/s1002/e/3], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(o)”.
+    Subsec. (c)(5)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(o)”.
 
-    Subsec. (c)(5)(C). [Pub. L. 100–647, § 1002(e)(8)(B)][/us/pl/100/647/s1002/e/8/B], struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
+    Subsec. (c)(5)(C). [Pub. L. 100–647][/us/pl/100/647], § 1002(e)(8)(B), struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
 
-    Subsec. (d)(1). [Pub. L. 100–647, § 1002(e)(1)][/us/pl/100/647/s1002/e/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
+    Subsec. (d)(1). [Pub. L. 100–647][/us/pl/100/647], § 1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
 
     “(A) by substituting ‘100 percent’ for ‘50 percent’ in paragraph (1), and
 
@@ -227,7 +227,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title II, § 211(e)][/us/pl/99/514/s211/e], Oct. 22, 1986, [100 Stat. 2169][/us/stat/100/2169], as amended by [Pub. L. 100–647, title I, § 1002(e)(4)][/us/pl/100/647/s1002/e/4]–(7), Nov. 10, 1988, [102 Stat. 3367][/us/stat/102/3367], 3368, provided that:
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 211(e), Oct. 22, 1986, [100 Stat. 2169][/us/stat/100/2169], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1002(e)(4)–(7), Nov. 10, 1988, [102 Stat. 3367][/us/stat/102/3367], 3368, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -281,7 +281,7 @@
 
  __Normalization Rules__ 
 
-[Pub. L. 99–514, title II, § 211(b)][/us/pl/99/514/s211/b], Oct. 22, 1986, [100 Stat. 2168][/us/stat/100/2168], provided that: 
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 211(b), Oct. 22, 1986, [100 Stat. 2168][/us/stat/100/2168], provided that: 
 
 > “If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
 
@@ -293,7 +293,7 @@
 
  __Exception for Certain Aircraft Used in Alaska__ 
 
-[Pub. L. 99–514, title II, § 211(d)][/us/pl/99/514/s211/d], Oct. 22, 1986, [100 Stat. 2168][/us/stat/100/2168], provided that:
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 211(d), Oct. 22, 1986, [100 Stat. 2168][/us/stat/100/2168], provided that:
 
 >     “(1)
 
@@ -328,36 +328,36 @@
 ----------
 ----------
 
-[/us/pl/99/514/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs211%2Fa
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2166
-[/us/pl/100/647/s1002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3367
-[/us/pl/101/508/s11813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-543
-[/us/pl/105/206/s6004/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fg%2F6
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F796
-[/us/pl/109/58/s1307/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1307%2Fc%2F1
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1006
-[/us/pl/111/5/s1302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1302%2Fc%2F1
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F347
-[/us/pl/111/148/s9023/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Fc%2F1
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F880
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/91/172/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs703%2Fa
+[/us/pl/91/172/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVII
 [/us/stat/83/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F660
-[/us/pl/92/178/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs101%2Fb%2F1
+[/us/pl/92/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtI
 [/us/stat/85/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F498
-[/us/pl/95/600/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs312%2Fc%2F1
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2826
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/101/508/s11813/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fa
-[/us/pl/100/647/s1002/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F2
-[/us/pl/100/647/s1002/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F3
-[/us/pl/100/647/s1002/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F8%2FB
-[/us/pl/100/647/s1002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F1
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s9023/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Ff
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
@@ -386,18 +386,18 @@
 [/us/pl/100/647/s1002/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F8%2FB
 [/us/pl/100/647/s1002/e/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F8%2FC
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
-[/us/pl/99/514/s211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs211%2Fe
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2169
-[/us/pl/100/647/s1002/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fe%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3367
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/99/514/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs211%2Fb
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2168
-[/us/pl/99/514/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs211%2Fd
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2168
 [/us/pl/97/248/s208/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs208%2Fd%2F5
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168

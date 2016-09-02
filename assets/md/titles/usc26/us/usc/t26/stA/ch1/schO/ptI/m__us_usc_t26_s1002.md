@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptI/m__us_usc_t26_s1001.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptII/m__us_usc_t26_stA_ch1_schO_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1002)
 
-## \[§ 1002. Repealed. [Pub. L. 94–455, title XIX, § 1901(b)(28)(B)(i)][/us/pl/94/455/s1901/b/28/B/i], Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799]\]
+## \[§ 1002. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(28)(B)(i), Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 295][/us/stat/68A/295], related to the recognition of the entire amount of gain or loss determined under section 1001 on the sale or exchange of property.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/28/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F28%2FB%2Fi
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1799
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F295

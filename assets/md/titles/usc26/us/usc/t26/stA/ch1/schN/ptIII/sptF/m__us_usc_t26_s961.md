@@ -39,7 +39,7 @@
 
         but only for the purposes of determining the amount included under section 951 in the gross income of such United States shareholder (or any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder by reason of which such shareholder was treated as owning such stock, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations). The preceding sentence shall not apply with respect to any stock to which a basis adjustment applies under subsection (a) or (b).
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1022][/us/stat/76/1022]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XI, § 1112(b)(1)][/us/pl/105/34/s1112/b/1], Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969]; [Pub. L. 109–135, title IV, § 409(b)][/us/pl/109/135/s409/b], Dec. 21, 2005, [119 Stat. 2635][/us/stat/119/2635].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1022][/us/stat/76/1022]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1112(b)(1), Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 409(b), Dec. 21, 2005, [119 Stat. 2635][/us/stat/119/2635].)
 
  __Amendments__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–135, title IV, § 409(d)][/us/pl/109/135/s409/d], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636], provided that: 
+[Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 409(d), Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6038B, 6411, and 6601 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34]\] to which they relate.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1112(b)(2)][/us/pl/105/34/s1112/b/2], Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1112(b)(2), Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining inclusions for taxable years of United States shareholders beginning after December 31, 1997.”
 
@@ -72,21 +72,21 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1022
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/34/s1112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1112%2Fb%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F969
-[/us/pl/109/135/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs409%2Fb
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2635
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/109/135/s409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs409%2Fd
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2636
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/105/34/s1112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1112%2Fb%2F2
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F969
 [/us/pl/100/647/s6126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6126
 [/us/usc/t26/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1502

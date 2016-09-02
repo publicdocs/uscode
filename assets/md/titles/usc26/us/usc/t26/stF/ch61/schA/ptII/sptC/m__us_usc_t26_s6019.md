@@ -35,13 +35,13 @@
 
     shall make a return for such year with respect to the gift tax imposed by subtitle B.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 739][/us/stat/68A/739]; [Pub. L. 91–614, title I, § 102(d)(3)][/us/pl/91/614/s102/d/3], Dec. 31, 1970, [84 Stat. 1841][/us/stat/84/1841]; [Pub. L. 97–34, title IV][/us/pl/97/34], §§ 403(b)(3)(A), (c)(3)(B), 442(d)(2), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 302, 322; [Pub. L. 105–34, title XIII, § 1301(a)][/us/pl/105/34/s1301/a], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039]; [Pub. L. 107–16, title V, § 542(b)(2)][/us/pl/107/16/s542/b/2], June 7, 2001, [115 Stat. 82][/us/stat/115/82]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 739][/us/stat/68A/739]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 102(d)(3), Dec. 31, 1970, [84 Stat. 1841][/us/stat/84/1841]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], §§ 403(b)(3)(A), (c)(3)(B), 442(d)(2), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 302, 322; [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1301(a), Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(b)(2), June 7, 2001, [115 Stat. 82][/us/stat/115/82]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312][/us/pl/111/312] amended section to read as if amendment by [Pub. L. 107–16, § 542(b)(2)][/us/pl/107/16/s542/b/2], had never been enacted. See 2001 Amendment note below.
+    2010—[Pub. L. 111–312][/us/pl/111/312] amended section to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(b)(2), had never been enacted. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–16, § 542(b)(2)][/us/pl/107/16/s542/b/2], designated existing provisions as subsec. (a), inserted subsec. (a) heading “In general”, and added subsec. (b), which related to statements to be furnished to certain persons.
+    2001—[Pub. L. 107–16][/us/pl/107/16], § 542(b)(2), designated existing provisions as subsec. (a), inserted subsec. (a) heading “In general”, and added subsec. (b), which related to statements to be furnished to certain persons.
 
     1997—Par. (3). [Pub. L. 105–34][/us/pl/105/34] added par. (3).
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1301(b)][/us/pl/105/34/s1301/b], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1301(b), Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -82,19 +82,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F739
-[/us/pl/91/614/s102/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F3
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1841
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
-[/us/pl/105/34/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1301%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1039
-[/us/pl/107/16/s542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fb%2F2
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F82
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fb%2F2
-[/us/pl/107/16/s542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fb%2F2
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
@@ -105,7 +105,7 @@
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s542/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Ff%2F1
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
-[/us/pl/105/34/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1301%2Fb
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1039
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34

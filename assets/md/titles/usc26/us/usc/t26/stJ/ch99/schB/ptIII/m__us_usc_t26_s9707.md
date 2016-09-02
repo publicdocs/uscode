@@ -63,7 +63,7 @@
 
         For purposes of this title, the penalty imposed by this section shall be treated in the same manner as the tax imposed by section 4980B.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3050][/us/stat/106/3050]; amended [Pub. L. 104–188, title I, § 1704(t)(65)][/us/pl/104/188/s1704/t/65], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 109–432, div. C, title II, § 213(b)(1)][/us/pl/109/432/s213/b/1], Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3050][/us/stat/106/3050]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(65), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 213(b)(1), Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
 
  __References in Text__ 
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3050
-[/us/pl/104/188/s1704/t/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F65
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
-[/us/pl/109/432/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs213%2Fb%2F1
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3027
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432

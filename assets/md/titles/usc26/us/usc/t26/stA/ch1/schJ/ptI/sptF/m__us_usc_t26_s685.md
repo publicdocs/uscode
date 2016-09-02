@@ -53,19 +53,19 @@
 
         The Secretary may prescribe rules for simplified reporting of all trusts having a single trustee and of trusts terminated during the year.
 
-(Added [Pub. L. 105–34, title XIII, § 1309(a)][/us/pl/105/34/s1309/a], Aug. 5, 1997, [111 Stat. 1042][/us/stat/111/1042]; amended [Pub. L. 105–206, title VI, § 6013(b)][/us/pl/105/206/s6013/b], July 22, 1998, [112 Stat. 820][/us/stat/112/820]; [Pub. L. 110–317, § 9(a)][/us/pl/110/317/s9/a], (b), Aug. 29, 2008, [122 Stat. 3530][/us/stat/122/3530].)
+(Added [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1309(a), Aug. 5, 1997, [111 Stat. 1042][/us/stat/111/1042]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6013(b), July 22, 1998, [112 Stat. 820][/us/stat/112/820]; [Pub. L. 110–317][/us/pl/110/317], § 9(a), (b), Aug. 29, 2008, [122 Stat. 3530][/us/stat/122/3530].)
 
  __Amendments__ 
 
     2008—Subsecs. (c) to (f). [Pub. L. 110–317][/us/pl/110/317] redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c), which related to dollar limitation on contributions to qualified funeral trusts.
 
-    1998—Subsec. (b). [Pub. L. 105–206, § 6013(b)(1)][/us/pl/105/206/s6013/b/1], inserted concluding provisions.
+    1998—Subsec. (b). [Pub. L. 105–206][/us/pl/105/206], § 6013(b)(1), inserted concluding provisions.
 
-    Subsec. (f). [Pub. L. 105–206, § 6013(b)(2)][/us/pl/105/206/s6013/b/2], inserted “and of trusts terminated during the year” before period at end.
+    Subsec. (f). [Pub. L. 105–206][/us/pl/105/206], § 6013(b)(2), inserted “and of trusts terminated during the year” before period at end.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–317, § 9(c)][/us/pl/110/317/s9/c], Aug. 29, 2008, [122 Stat. 3530][/us/stat/122/3530], provided that: 
+[Pub. L. 110–317][/us/pl/110/317], § 9(c), Aug. 29, 2008, [122 Stat. 3530][/us/stat/122/3530], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 29, 2008\].”
 
@@ -75,7 +75,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–34, title XIII, § 1309(c)][/us/pl/105/34/s1309/c], Aug. 5, 1997, [111 Stat. 1043][/us/stat/111/1043], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1309(c), Aug. 5, 1997, [111 Stat. 1043][/us/stat/111/1043], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -86,22 +86,22 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1309%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1042
-[/us/pl/105/206/s6013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fb
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
-[/us/pl/110/317/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs9%2Fa
+[/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/stat/122/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3530
 [/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
-[/us/pl/105/206/s6013/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fb%2F1
-[/us/pl/105/206/s6013/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fb%2F2
-[/us/pl/110/317/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317%2Fs9%2Fc
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/110/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F317
 [/us/stat/122/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3530
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1309%2Fc
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1043
 
 

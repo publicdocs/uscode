@@ -81,15 +81,15 @@
 
             (B) appropriate adjustments in applying section 6655 with respect to such withholding tax.
 
-(Added [Pub. L. 99–514, title XII, § 1246(a)][/us/pl/99/514/s1246/a], Oct. 22, 1986, [100 Stat. 2582][/us/stat/100/2582]; amended [Pub. L. 100–647, title I, § 1012(s)(1)(A)][/us/pl/100/647/s1012/s/1/A], Nov. 10, 1988, [102 Stat. 3526][/us/stat/102/3526]; [Pub. L. 101–239, title VII, § 7811(i)(6)][/us/pl/101/239/s7811/i/6], Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1246(a), Oct. 22, 1986, [100 Stat. 2582][/us/stat/100/2582]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(s)(1)(A), Nov. 10, 1988, [102 Stat. 3526][/us/stat/102/3526]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(6), Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410].)
 
  __Amendments__ 
 
-    1989—Subsec. (b)(2)(B). [Pub. L. 101–239, § 7811(i)(6)(A)][/us/pl/101/239/s7811/i/6/A], substituted “section 11(b)(1)” for “section 11(b)”.
+    1989—Subsec. (b)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
 
-    Subsec. (d)(2). [Pub. L. 101–239, § 7811(i)(6)(B)][/us/pl/101/239/s7811/i/6/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner’s share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership’s taxable year (for which such tax was paid).”
+    Subsec. (d)(2). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner’s share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership’s taxable year (for which such tax was paid).”
 
-    Subsec. (f). [Pub. L. 101–239, § 7811(i)(6)(C)][/us/pl/101/239/s7811/i/6/C], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
+    Subsec. (f). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
 
     1988—[Pub. L. 100–647][/us/pl/100/647] amended section generally, substituting provisions relating to withholding tax on foreign partners’ share of effectively connected income for provisions which related to withholding tax on amounts paid by partnerships to foreign partners.
 
@@ -99,13 +99,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1012(s)(1)(D)][/us/pl/100/647/s1012/s/1/D], Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(s)(1)(D), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], provided that: 
 
 > “The amendments made by this paragraph \[amending sections 1446 and 6401 of this title\] shall apply to taxable years beginning after December 31, 1987. No amount shall be required to be deducted and withheld under section 1446 of the 1986 Code (as in effect before the amendment made by subparagraph (A)).”
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XII, § 1246(d)][/us/pl/99/514/s1246/d], Oct. 22, 1986, [100 Stat. 2583][/us/stat/100/2583], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1246(d), Oct. 22, 1986, [100 Stat. 2583][/us/stat/100/2583], provided that: 
 
 > “The amendment made by this section \[enacting this section and amending [section 6401 of this title][/us/usc/t26/s6401]\] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section).”
 
@@ -116,23 +116,23 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1246/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1246%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2582
-[/us/pl/100/647/s1012/s/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F1%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3526
-[/us/pl/101/239/s7811/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F6
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2410
-[/us/pl/101/239/s7811/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F6%2FA
-[/us/pl/101/239/s7811/i/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F6%2FB
-[/us/pl/101/239/s7811/i/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F6%2FC
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s1012/s/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F1%2FD
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
-[/us/pl/99/514/s1246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1246%2Fd
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2583
 [/us/usc/t26/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6401
 

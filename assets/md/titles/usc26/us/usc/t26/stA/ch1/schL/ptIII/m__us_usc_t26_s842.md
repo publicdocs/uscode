@@ -129,7 +129,7 @@
 
         (4) which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 267][/us/stat/68A/267]; [Mar. 13, 1956, ch. 83, § 5(5)][/us/act/1956-03-13/ch83/s5/5], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69, § 3(f)(1)][/us/pl/86/69/s3/f/1], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 89–809, title I, § 104(i)(1)][/us/pl/89/809/s104/i/1], Nov. 13, 1966, [80 Stat. 1561][/us/stat/80/1561]; [Pub. L. 99–514, title X, § 1024(c)(11)][/us/pl/99/514/s1024/c/11], Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408]; [Pub. L. 100–203, title X, § 10242(a)][/us/pl/100/203/s10242/a], Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420]; [Pub. L. 100–647, title II, § 2004(q)(2)][/us/pl/100/647/s2004/q/2], (3), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609]; [Pub. L. 101–239, title VII, § 7821(d)(2)][/us/pl/101/239/s7821/d/2], Dec. 19, 1989, [103 Stat. 2424][/us/stat/103/2424]; [Pub. L. 108–218, title II, § 205(b)(6)][/us/pl/108/218/s205/b/6], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 267][/us/stat/68A/267]; [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 5(5), [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69][/us/pl/86/69], § 3(f)(1), June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(i)(1), Nov. 13, 1966, [80 Stat. 1561][/us/stat/80/1561]; [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(c)(11), Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10242(a), Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420]; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(q)(2), (3), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7821(d)(2), Dec. 19, 1989, [103 Stat. 2424][/us/stat/103/2424]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(b)(6), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
 
  __Amendments__ 
 
@@ -141,11 +141,11 @@
 
     1989—Subsec. (c)(4). [Pub. L. 101–239][/us/pl/101/239] substituted “yields” for “yeilds” in heading.
 
-    1988—Subsec. (b)(3)(B). [Pub. L. 100–647, § 2004(q)(2)(A)][/us/pl/100/647/s2004/q/2/A], struck out “held for the production of such income” after “same companies”.
+    1988—Subsec. (b)(3)(B). [Pub. L. 100–647][/us/pl/100/647], § 2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
 
-    Subsec. (b)(4)(B)(ii). [Pub. L. 100–647, § 2004(q)(2)(B)][/us/pl/100/647/s2004/q/2/B], struck out “held for the production of investment income” after “United States)”.
+    Subsec. (b)(4)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
 
-    Subsec. (d)(4). [Pub. L. 100–647, § 2004(q)(3)][/us/pl/100/647/s2004/q/3], added par. (4).
+    Subsec. (d)(4). [Pub. L. 100–647][/us/pl/100/647], § 2004(q)(3), added par. (4).
 
     1987—[Pub. L. 100–203][/us/pl/100/203] substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
 
@@ -163,11 +163,11 @@
 
  __Effective Date of 1989 Amendment__ 
 
-    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
+    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date of 1987 Amendment__ 
 
@@ -191,7 +191,7 @@
 
  __Study of United States Reinsurance Industry__ 
 
-    [Pub. L. 99–514, title XII, § 1244][/us/pl/99/514/s1244], Oct. 22, 1986, [100 Stat. 2581][/us/stat/100/2581], directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
+    [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1244, Oct. 22, 1986, [100 Stat. 2581][/us/stat/100/2581], directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
 
 ----------
 
@@ -202,27 +202,27 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F267
-[/us/act/1956-03-13/ch83/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs5%2F5
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F49
-[/us/pl/86/69/s3/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs3%2Ff%2F1
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F140
-[/us/pl/89/809/s104/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1561
-[/us/pl/99/514/s1024/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F11
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2408
-[/us/pl/100/203/s10242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10242%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-420
-[/us/pl/100/647/s2004/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fq%2F2
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3609
-[/us/pl/101/239/s7821/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7821%2Fd%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2424
-[/us/pl/108/218/s205/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F6
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s2004/q/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fq%2F2%2FA
-[/us/pl/100/647/s2004/q/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fq%2F2%2FB
-[/us/pl/100/647/s2004/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fq%2F3
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
@@ -231,11 +231,11 @@
 [/us/pl/108/218/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fc
 [/us/usc/t26/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/101/239/s7823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7823
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -251,7 +251,7 @@
 [/us/pl/86/69/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs4
 [/us/usc/t26/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs381
 [/us/usc/t26/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs316
-[/us/pl/99/514/s1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1244
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2581
 
 

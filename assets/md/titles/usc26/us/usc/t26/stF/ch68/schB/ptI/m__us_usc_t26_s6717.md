@@ -33,7 +33,7 @@
 
         No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-(Added [Pub. L. 108–357, title VIII, § 859(a)][/us/pl/108/357/s859/a], Oct. 22, 2004, [118 Stat. 1617][/us/stat/118/1617].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 859(a), Oct. 22, 2004, [118 Stat. 1617][/us/stat/118/1617].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s859/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs859%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1617
 [/us/pl/108/357/s859/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs859%2Fc
 [/us/usc/t26/s4083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4083

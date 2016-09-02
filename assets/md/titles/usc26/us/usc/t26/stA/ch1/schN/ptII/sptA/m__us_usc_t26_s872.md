@@ -63,7 +63,7 @@
 
             To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 280][/us/stat/68A/280]; [Pub. L. 87–256, § 110(c)][/us/pl/87/256/s110/c], Sept. 21, 1961, [75 Stat. 536][/us/stat/75/536]; [Pub. L. 89–809, title I, § 103(b)][/us/pl/89/809/s103/b], Nov. 13, 1966, [80 Stat. 1550][/us/stat/80/1550]; [Pub. L. 99–514, title XII, § 1212(c)(1)][/us/pl/99/514/s1212/c/1], (2), Oct. 22, 1986, [100 Stat. 2538][/us/stat/100/2538]; [Pub. L. 100–647, title I, § 1012(e)(2)(B)][/us/pl/100/647/s1012/e/2/B], (5), (s)(2)(A), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500], 3527; [Pub. L. 101–239, title VII, § 7811(i)(8)(C)][/us/pl/101/239/s7811/i/8/C], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 103–296, title III, § 320(a)(2)][/us/pl/103/296/s320/a/2], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 108–357, title IV, § 419(a)][/us/pl/108/357/s419/a], Oct. 22, 2004, [118 Stat. 1513][/us/stat/118/1513].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 280][/us/stat/68A/280]; [Pub. L. 87–256][/us/pl/87/256], § 110(c), Sept. 21, 1961, [75 Stat. 536][/us/stat/75/536]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(b), Nov. 13, 1966, [80 Stat. 1550][/us/stat/80/1550]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1212(c)(1), (2), Oct. 22, 1986, [100 Stat. 2538][/us/stat/100/2538]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500], 3527; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(8)(C), Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 320(a)(2), Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 419(a), Oct. 22, 2004, [118 Stat. 1513][/us/stat/118/1513].)
 
  __References in Text__ 
 
@@ -77,27 +77,27 @@
 
     1989—Subsec. (b)(7). [Pub. L. 101–239][/us/pl/101/239] added par. (7).
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 1012(s)(2)(A)][/us/pl/100/647/s1012/s/2/A], inserted “, except where the context clearly indicates otherwise” after “individual”.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 1012(s)(2)(A), inserted “, except where the context clearly indicates otherwise” after “individual”.
 
-    Subsec. (b)(1), (2). [Pub. L. 100–647, § 1012(e)(2)(B)][/us/pl/100/647/s1012/e/2/B], (5), substituted “to individual residents of the United States” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
+    Subsec. (b)(1), (2). [Pub. L. 100–647][/us/pl/100/647], § 1012(e)(2)(B), (5), substituted “to individual residents of the United States” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1212(c)(1)][/us/pl/99/514/s1212/c/1], added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
-    Subsec. (b)(2). [Pub. L. 99–514, § 1212(c)(1)][/us/pl/99/514/s1212/c/1], added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: “Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
+    Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 1212(c)(1), added par. (2) and struck out former par. (2), aircraft of foreign registry, which read as follows: “Earnings derived from the operation of aircraft registered under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
-    Subsec. (b)(5), (6). [Pub. L. 99–514, § 1212(c)(2)][/us/pl/99/514/s1212/c/2], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 99–514][/us/pl/99/514], § 1212(c)(2), added pars. (5) and (6).
 
-    1966—Subsec. (a). [Pub. L. 89–809, § 103(b)(1)][/us/pl/89/809/s103/b/1], limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
+    1966—Subsec. (a). [Pub. L. 89–809][/us/pl/89/809], § 103(b)(1), limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
 
-    Subsec. (b)(3)(B). [Pub. L. 89–809, § 103(b)(2)][/us/pl/89/809/s103/b/2], substituted “by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States” for “by a domestic corporation”.
+    Subsec. (b)(3)(B). [Pub. L. 89–809][/us/pl/89/809], § 103(b)(2), substituted “by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States” for “by a domestic corporation”.
 
-    Subsec. (b)(4). [Pub. L. 89–809, § 102(b)(3)][/us/pl/89/809/s102/b/3], added par. (4).
+    Subsec. (b)(4). [Pub. L. 89–809][/us/pl/89/809], § 102(b)(3), added par. (4).
 
     1961—Subsec. (b)(3). [Pub. L. 87–256][/us/pl/87/256] added par. (3).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title IV, § 419(c)][/us/pl/108/357/s419/c], Oct. 22, 2004, [118 Stat. 1513][/us/stat/118/1513], provided that: 
+[Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 419(c), Oct. 22, 2004, [118 Stat. 1513][/us/stat/118/1513], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 883 of this title][/us/usc/t26/s883]\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -142,34 +142,34 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F280
-[/us/pl/87/256/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs110%2Fc
+[/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F536
-[/us/pl/89/809/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fb
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1550
-[/us/pl/99/514/s1212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fc%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2538
-[/us/pl/100/647/s1012/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F2%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3500
-[/us/pl/101/239/s7811/i/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F8%2FC
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2411
-[/us/pl/103/296/s320/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs320%2Fa%2F2
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1535
-[/us/pl/108/357/s419/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs419%2Fa
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1513
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1012/s/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F2%2FA
-[/us/pl/100/647/s1012/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F2%2FB
-[/us/pl/99/514/s1212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fc%2F1
-[/us/pl/99/514/s1212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fc%2F1
-[/us/pl/99/514/s1212/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fc%2F2
-[/us/pl/89/809/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fb%2F1
-[/us/pl/89/809/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fb%2F2
-[/us/pl/89/809/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs102%2Fb%2F3
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
-[/us/pl/108/357/s419/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs419%2Fc
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1513
 [/us/usc/t26/s883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs883
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296

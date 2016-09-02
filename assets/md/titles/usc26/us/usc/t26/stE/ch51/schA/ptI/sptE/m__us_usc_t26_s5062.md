@@ -33,7 +33,7 @@
 
             At the option of the importer, such imported distilled spirits, wines, and beer, after return to customs custody, may be destroyed under customs supervision and the importer thereof granted relief in the same manner and to the same extent as provided in this subsection upon exportation.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1336][/us/stat/72/1336]; amended [Pub. L. 88–539, § 1][/us/pl/88/539/s1], Aug. 31, 1964, [78 Stat. 746][/us/stat/78/746]; [Pub. L. 89–44, title VIII, § 805(f)(6)][/us/pl/89/44/s805/f/6], June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 90–630, § 2(a)][/us/pl/90/630/s2/a], Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 1][/us/pl/95/176/s1], Nov. 14, 1977, [91 Stat. 1363][/us/stat/91/1363]; [Pub. L. 98–369, div. A, title IV, § 454(c)(1)][/us/pl/98/369/s454/c/1], July 18, 1984, [98 Stat. 820][/us/stat/98/820].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1336][/us/stat/72/1336]; amended [Pub. L. 88–539][/us/pl/88/539], § 1, Aug. 31, 1964, [78 Stat. 746][/us/stat/78/746]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(f)(6), June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 90–630][/us/pl/90/630], § 2(a), Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 1, Nov. 14, 1977, [91 Stat. 1363][/us/stat/91/1363]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(1), July 18, 1984, [98 Stat. 820][/us/stat/98/820].)
 
  __Prior Provisions__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–539, § 2][/us/pl/88/539/s2], Aug. 31, 1964, [78 Stat. 746][/us/stat/78/746], provided that: 
+[Pub. L. 88–539][/us/pl/88/539], § 2, Aug. 31, 1964, [78 Stat. 746][/us/stat/78/746], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\].”
 
@@ -82,19 +82,19 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1336
-[/us/pl/88/539/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F539%2Fs1
+[/us/pl/88/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F539
 [/us/stat/78/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F746
-[/us/pl/89/44/s805/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Ff%2F6
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
-[/us/pl/90/630/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs2%2Fa
+[/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/stat/82/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1328
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs1
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1363
-[/us/pl/98/369/s454/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F614
@@ -117,7 +117,7 @@
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/89/44/s805/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fg%2F1
 [/us/usc/t26/s5008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5008
-[/us/pl/88/539/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F539%2Fs2
+[/us/pl/88/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F539
 [/us/stat/78/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F746
 
 

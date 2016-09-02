@@ -343,7 +343,7 @@
 
             For coordination of the requirements of this subsection with State requirements, see section 4980C(f).
 
-(Added and amended [Pub. L. 104–191, title III][/us/pl/104/191], §§ 321(a), 325, Aug. 21, 1996, [110 Stat. 2054][/us/stat/110/2054], 2063; [Pub. L. 105–34, title XVI, § 1602(b)][/us/pl/105/34/s1602/b], (e), Aug. 5, 1997, [111 Stat. 1094][/us/stat/111/1094]; [Pub. L. 105–206, title VI, § 6023(28)][/us/pl/105/206/s6023/28], July 22, 1998, [112 Stat. 826][/us/stat/112/826]; [Pub. L. 108–311, title II, § 207(25)][/us/pl/108/311/s207/25], Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178]; [Pub. L. 109–280, title VIII, § 844(c)][/us/pl/109/280/s844/c], (f), Aug. 17, 2006, [120 Stat. 1011][/us/stat/120/1011], 1013.)
+(Added and amended [Pub. L. 104–191, title III][/us/pl/104/191/tIII], §§ 321(a), 325, Aug. 21, 1996, [110 Stat. 2054][/us/stat/110/2054], 2063; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(b), (e), Aug. 5, 1997, [111 Stat. 1094][/us/stat/111/1094]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6023(28), July 22, 1998, [112 Stat. 826][/us/stat/112/826]; [Pub. L. 108–311, title II][/us/pl/108/311/tII], § 207(25), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 844(c), (f), Aug. 17, 2006, [120 Stat. 1011][/us/stat/120/1011], 1013.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -355,19 +355,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (e). [Pub. L. 109–280, § 844(c)][/us/pl/109/280/s844/c], amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
+    2006—Subsec. (e). [Pub. L. 109–280][/us/pl/109/280], § 844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.
 
-    Subsec. (e)(1). [Pub. L. 109–280, § 844(f)][/us/pl/109/280/s844/f], substituted “title” for “section”.
+    Subsec. (e)(1). [Pub. L. 109–280][/us/pl/109/280], § 844(f), substituted “title” for “section”.
 
     2004—Subsec. (f)(2)(C)(iii). [Pub. L. 108–311][/us/pl/108/311] substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
     1998—Subsec. (e)(2). [Pub. L. 105–206][/us/pl/105/206] inserted “section” after “Application of” in heading.
 
-    1997—Subsec. (c)(2)(B). [Pub. L. 105–34, § 1602(b)][/us/pl/105/34/s1602/b], inserted “described in subparagraph (A)(i)” after “chronically ill individual” in concluding provisions.
+    1997—Subsec. (c)(2)(B). [Pub. L. 105–34][/us/pl/105/34], § 1602(b), inserted “described in subparagraph (A)(i)” after “chronically ill individual” in concluding provisions.
 
-    Subsec. (g)(4)(B)(ii), (iii)(IV). [Pub. L. 105–34, § 1602(e)][/us/pl/105/34/s1602/e], substituted “appropriate State regulatory agency” for “Secretary”.
+    Subsec. (g)(4)(B)(ii), (iii)(IV). [Pub. L. 105–34][/us/pl/105/34], § 1602(e), substituted “appropriate State regulatory agency” for “Secretary”.
 
-    1996—Subsec. (g). [Pub. L. 104–191, § 325][/us/pl/104/191/s325], added subsec. (g).
+    1996—Subsec. (g). [Pub. L. 104–191][/us/pl/104/191], § 325, added subsec. (g).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -389,7 +389,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title III, § 321(f)][/us/pl/104/191/s321/f], Aug. 21, 1996, [110 Stat. 2059][/us/stat/110/2059], provided that:
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 321(f), Aug. 21, 1996, [110 Stat. 2059][/us/stat/110/2059], provided that:
 
 >     “(1) __General effective date.—__ 
 
@@ -431,7 +431,7 @@
 
  __Long-Term Care Study Request__ 
 
-[Pub. L. 104–191, title III, § 321(g)][/us/pl/104/191/s321/g], Aug. 21, 1996, [110 Stat. 2060][/us/stat/110/2060], provided that: 
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 321(g), Aug. 21, 1996, [110 Stat. 2060][/us/stat/110/2060], provided that: 
 
 > “The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request.”
 
@@ -442,28 +442,28 @@
 ----------
 ----------
 
-[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2054
-[/us/pl/105/34/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fb
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1094
-[/us/pl/105/206/s6023/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F28
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F826
-[/us/pl/108/311/s207/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F25
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
-[/us/pl/109/280/s844/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fc
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1011
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1395x/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr%2F1
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/109/280/s844/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fc
-[/us/pl/109/280/s844/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Ff
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fb
-[/us/pl/105/34/s1602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fe
-[/us/pl/104/191/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs325
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s844/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fg%2F1
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
@@ -482,12 +482,12 @@
 [/us/pl/104/191/s321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Ff
 [/us/pl/104/191/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs327
 [/us/usc/t26/s4980C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980C
-[/us/pl/104/191/s321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Ff
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2059
 [/us/usc/t29/s1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1167
 [/us/usc/t42/s300bb–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%938
 [/us/usc/t26/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807
-[/us/pl/104/191/s321/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Fg
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2060
 
 

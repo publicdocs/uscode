@@ -91,11 +91,11 @@
 
         (3) bona fide residents of any possession of the United States.
 
-(Added [Pub. L. 111–147, title V, § 511(a)][/us/pl/111/147/s511/a], Mar. 18, 2010, [124 Stat. 109][/us/stat/124/109].)
+(Added [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 511(a), Mar. 18, 2010, [124 Stat. 109][/us/stat/124/109].)
 
  __Effective Date__ 
 
-[Pub. L. 111–147, title V, § 511(c)][/us/pl/111/147/s511/c], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110], provided that: 
+[Pub. L. 111–147, title V][/us/pl/111/147/tV], § 511(c), Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
@@ -106,9 +106,9 @@
 ----------
 ----------
 
-[/us/pl/111/147/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs511%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F109
-[/us/pl/111/147/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs511%2Fc
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F110
 
 

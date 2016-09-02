@@ -55,7 +55,7 @@
 
         The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 99–514, title XII, § 1234(a)(1)][/us/pl/99/514/s1234/a/1], Oct. 22, 1986, [100 Stat. 2565][/us/stat/100/2565]; amended [Pub. L. 100–647, title I, § 1012][/us/pl/100/647/s1012](o), Nov. 10, 1988, [102 Stat. 3515][/us/stat/102/3515].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1234(a)(1), Oct. 22, 1986, [100 Stat. 2565][/us/stat/100/2565]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(o), Nov. 10, 1988, [102 Stat. 3515][/us/stat/102/3515].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XII, § 1234(a)(3)][/us/pl/99/514/s1234/a/3], Oct. 22, 1986, [100 Stat. 2566][/us/stat/100/2566], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1234(a)(3), Oct. 22, 1986, [100 Stat. 2566][/us/stat/100/2566], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall apply to applications submitted after December 31, 1987 (or, if earlier, the effective date which shall not be earlier than January 1, 1987) of the initial regulations issued under section 6039E of the Internal Revenue Code of 1986 as added by this subsection).”
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1234%2Fa%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2565
-[/us/pl/100/647/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3515
 [/us/usc/t8/s1255a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255a
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -95,7 +95,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1234/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1234%2Fa%2F3
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2566
 
 

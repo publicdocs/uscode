@@ -395,77 +395,77 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, div. Q, title III, § 304(b)][/us/pl/114/113/s304/b], Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], added item 139F.
+    2015—[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 304(b), Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], added item 139F.
 
-    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(19)(A)][/us/pl/113/295/s221/a/19/A], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], which directed amendment of part III by striking out item 120 in table of sections for “such subpart”, was executed by striking out item 120 “Amounts received under qualified group legal services plans” in table of sections for this part to reflect the probable intent of Congress.
+    2014—[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(19)(A), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], which directed amendment of part III by striking out item 120 in table of sections for “such subpart”, was executed by striking out item 120 “Amounts received under qualified group legal services plans” in table of sections for this part to reflect the probable intent of Congress.
 
-    [Pub. L. 113–168, § 2(b)][/us/pl/113/168/s2/b], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], added item 139E.
+    [Pub. L. 113–168][/us/pl/113/168], § 2(b), Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], added item 139E.
 
-    2011—[Pub. L. 112–10, div. B, title VIII, § 1858(b)(2)(B)][/us/pl/112/10/s1858/b/2/B], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], struck out item 139D “Free choice vouchers”.
+    2011—[Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(b)(2)(B), Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], struck out item 139D “Free choice vouchers”.
 
-    2010—[Pub. L. 111–148, title X, § 10108(f)(2)][/us/pl/111/148/s10108/f/2], Mar. 23, 2010, [124 Stat. 913][/us/stat/124/913], added item 139D relating to free choice vouchers.
+    2010—[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(f)(2), Mar. 23, 2010, [124 Stat. 913][/us/stat/124/913], added item 139D relating to free choice vouchers.
 
-    [Pub. L. 111–148, title IX, § 9021(b)][/us/pl/111/148/s9021/b], Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], added item 139D relating to Indian health care benefits.
+    [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9021(b), Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], added item 139D relating to Indian health care benefits.
 
-    2009—[Pub. L. 111–5, div. B, title III, § 3001(a)(15)(B)][/us/pl/111/5/s3001/a/15/B], Feb. 17, 2009, [123 Stat. 465][/us/stat/123/465], added item 139C.
+    2009—[Pub. L. 111–5, div. B, title III][/us/pl/111/5/dB/tIII], § 3001(a)(15)(B), Feb. 17, 2009, [123 Stat. 465][/us/stat/123/465], added item 139C.
 
-    2007—[Pub. L. 110–142, § 5(b)][/us/pl/110/142/s5/b], Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806], added item 139B.
+    2007—[Pub. L. 110–142][/us/pl/110/142], § 5(b), Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806], added item 139B.
 
-    2004—[Pub. L. 108–357, title I, § 101(b)(3)][/us/pl/108/357/s101/b/3], Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], struck out item 114 “Extraterritorial income”.
+    2004—[Pub. L. 108–357, title I][/us/pl/108/357/tI], § 101(b)(3), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], struck out item 114 “Extraterritorial income”.
 
-    [Pub. L. 108–311, title IV, § 408(a)(5)(G)][/us/pl/108/311/s408/a/5/G], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191], substituted “Medicare Advantage MSA” for “Medicare+Choice MSA” in item 138.
+    [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(5)(G), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191], substituted “Medicare Advantage MSA” for “Medicare+Choice MSA” in item 138.
 
-    2003—[Pub. L. 108–173, title XII, § 1202(c)][/us/pl/108/173/s1202/c], Dec. 8, 2003, [117 Stat. 2480][/us/stat/117/2480], added item 139A.
+    2003—[Pub. L. 108–173, title XII][/us/pl/108/173/tXII], § 1202(c), Dec. 8, 2003, [117 Stat. 2480][/us/stat/117/2480], added item 139A.
 
-    2002—[Pub. L. 107–134, title I, § 111(b)][/us/pl/107/134/s111/b], Jan. 23, 2002, [115 Stat. 2433][/us/stat/115/2433], added item 139 and redesignated former item 139 as 140.
+    2002—[Pub. L. 107–134, title I][/us/pl/107/134/tI], § 111(b), Jan. 23, 2002, [115 Stat. 2433][/us/stat/115/2433], added item 139 and redesignated former item 139 as 140.
 
-    2000—[Pub. L. 106–519, § 4(6)][/us/pl/106/519/s4/6], Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433], added item 114.
+    2000—[Pub. L. 106–519][/us/pl/106/519], § 4(6), Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433], added item 114.
 
-    1997—[Pub. L. 105–34, title III, § 312(d)(14)][/us/pl/105/34/s312/d/14], title XII, § 1213(d), Aug. 5, 1997, [111 Stat. 841][/us/stat/111/841], 1001, added item 110 and substituted “Exclusion of gain from sale of principal residence” for “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” in item 121.
+    1997—[Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 312(d)(14), title XII, § 1213(d), Aug. 5, 1997, [111 Stat. 841][/us/stat/111/841], 1001, added item 110 and substituted “Exclusion of gain from sale of principal residence” for “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” in item 121.
 
-    [Pub. L. 105–33, title IV, § 4006(b)(3)][/us/pl/105/33/s4006/b/3], Aug. 5, 1997, [111 Stat. 334][/us/stat/111/334], added items 138 and 139 and struck out former item 138 “Cross reference to other Acts”.
+    [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4006(b)(3), Aug. 5, 1997, [111 Stat. 334][/us/stat/111/334], added items 138 and 139 and struck out former item 138 “Cross reference to other Acts”.
 
-    1996—[Pub. L. 104–188, title I][/us/pl/104/188], §§ 1602(b)(8), 1704(t)(4)(B), 1807(c)(7), Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], 1887, 1902, substituted “combat zone compensation” for “combat pay” in item 112, struck out item 133 “Interest on certain loans used to acquire employer securities”, added items 137 and 138, and struck out former item 137 “Cross reference to other Acts”.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1602(b)(8), 1704(t)(4)(B), 1807(c)(7), Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], 1887, 1902, substituted “combat zone compensation” for “combat pay” in item 112, struck out item 133 “Interest on certain loans used to acquire employer securities”, added items 137 and 138, and struck out former item 137 “Cross reference to other Acts”.
 
-    1992—[Pub. L. 102–486, title XIX, § 1912(b)][/us/pl/102/486/s1912/b], Oct. 24, 1992, [106 Stat. 3016][/us/stat/106/3016], added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
+    1992—[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1912(b), Oct. 24, 1992, [106 Stat. 3016][/us/stat/106/3016], added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(2)][/us/pl/101/508/s11801/b/2], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(2), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
 
-    1988—[Pub. L. 100–647, title I, § 1013(a)(37)][/us/pl/100/647/s1013/a/37], title VI, § 6009(c)(4), Nov. 10, 1988, [102 Stat. 3544][/us/stat/102/3544], 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(37), title VI, § 6009(c)(4), Nov. 10, 1988, [102 Stat. 3544][/us/stat/102/3544], 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
 
-    1986—[Pub. L. 99–514, title I, § 123(b)(4)][/us/pl/99/514/s123/b/4], title VI, § 612(b)(8), title XI, § 1168(b), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2251, 2512, struck out item 116 “Partial exclusion of dividends received by individuals”, substituted in item 117 “Qualified scholarships” for “Scholarships and fellowship grants”, added item 134, and redesignated former item 134 as 135.
+    1986—[Pub. L. 99–514, title I][/us/pl/99/514/tI], § 123(b)(4), title VI, § 612(b)(8), title XI, § 1168(b), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2251, 2512, struck out item 116 “Partial exclusion of dividends received by individuals”, substituted in item 117 “Qualified scholarships” for “Scholarships and fellowship grants”, added item 134, and redesignated former item 134 as 135.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 171(b)][/us/pl/98/369/s171/b], title V, §§ 531(a)(2), 543(b), July 18, 1984, [98 Stat. 699][/us/stat/98/699], 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 171(b), title V, §§ 531(a)(2), 543(b), July 18, 1984, [98 Stat. 699][/us/stat/98/699], 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
 
-    [Pub. L. 98–369, div. A, title I, § 16(a)][/us/pl/98/369/s16/a], July 18, 1984, [98 Stat. 505][/us/stat/98/505], repealed an amendment made by [Pub. L. 97–34, § 302(c)][/us/pl/97/34/s302/c]. See 1981 Amendment note below.
+    [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 16(a), July 18, 1984, [98 Stat. 505][/us/stat/98/505], repealed an amendment made by [Pub. L. 97–34][/us/pl/97/34], § 302(c). See 1981 Amendment note below.
 
-    1983—[Pub. L. 97–473, title I, § 101(b)(2)][/us/pl/97/473/s101/b/2], Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606], purported to strike out the item relating to section 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
+    1983—[Pub. L. 97–473, title I][/us/pl/97/473/tI], § 101(b)(2), Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606], purported to strike out the item relating to section 130, and added items 130 (relating to certain personal injury liability assignments) and 131 (relating to cross references to other Acts).
 
-    [Pub. L. 97–473, title I, § 102(b)][/us/pl/97/473/s102/b], Jan. 14, 1983, [96 Stat. 2607][/us/stat/96/2607], struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
+    [Pub. L. 97–473, title I][/us/pl/97/473/tI], § 102(b), Jan. 14, 1983, [96 Stat. 2607][/us/stat/96/2607], struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 
-    1981—[Pub. L. 97–34, title III][/us/pl/97/34], §§ 301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. [Section 16(a) of Pub. L. 98–369][/us/pl/98/369/s16/a], repealed [section 302(c) of Pub. L. 97–34][/us/pl/97/34/s302/c], and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+    1981—[Pub. L. 97–34, title III][/us/pl/97/34/tIII], §§ 301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. [Section 16(a) of Pub. L. 98–369][/us/pl/98/369/s16/a], repealed [section 302(c) of Pub. L. 97–34][/us/pl/97/34/s302/c], and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
-    1980—[Pub. L. 96–499, title XI, § 1102(b)][/us/pl/96/499/s1102/b], Dec. 5, 1980, [94 Stat. 2669][/us/stat/94/2669], added item 103A.
+    1980—[Pub. L. 96–499, title XI][/us/pl/96/499/tXI], § 1102(b), Dec. 5, 1980, [94 Stat. 2669][/us/stat/94/2669], added item 103A.
 
-    [Pub. L. 96–223, title IV, § 404(b)(1)][/us/pl/96/223/s404/b/1], Apr. 2, 1980, [94 Stat. 306][/us/stat/94/306], inserted “and interest” after “dividends” in item 116.
+    [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 404(b)(1), Apr. 2, 1980, [94 Stat. 306][/us/stat/94/306], inserted “and interest” after “dividends” in item 116.
 
-    1978—[Pub. L. 95–618, title II, § 242(b)][/us/pl/95/618/s242/b], Nov. 9, 1978, [92 Stat. 3194][/us/stat/92/3194], redesignated former item 124 as 125 and added item 124.
+    1978—[Pub. L. 95–618, title II][/us/pl/95/618/tII], § 242(b), Nov. 9, 1978, [92 Stat. 3194][/us/stat/92/3194], redesignated former item 124 as 125 and added item 124.
 
-    [Pub. L. 95–600, title I][/us/pl/95/600], §§ 134(b), 164(c), title IV, § 404(c)(3), title V, § 543(b), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2814, 2870, 2890, in item 121 substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale of exchange of residence of individual who has attained age 65”, redesignated former item 124 as 128, and added items 125 to 127.
+    [Pub. L. 95–600, title I][/us/pl/95/600/tI], §§ 134(b), 164(c), title IV, § 404(c)(3), title V, § 543(b), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2814, 2870, 2890, in item 121 substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale of exchange of residence of individual who has attained age 65”, redesignated former item 124 as 128, and added items 125 to 127.
 
-    1976—[Pub. L. 94–455, title XXI, § 2134(c)][/us/pl/94/455/s2134/c], Oct. 4, 1976, [90 Stat. 1928][/us/stat/90/1928], added item 120.
+    1976—[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2134(c), Oct. 4, 1976, [90 Stat. 1928][/us/stat/90/1928], added item 120.
 
-    1969—[Pub. L. 91–172, title IX, § 901(b)][/us/pl/91/172/s901/b], Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709], redesignated former item 123 as 124, and added item 123.
+    1969—[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 901(b), Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709], redesignated former item 123 as 124, and added item 123.
 
-    1966—[Pub. L. 89–365, § 1(a)(2)][/us/pl/89/365/s1/a/2], Mar. 8, 1966, [80 Stat. 32][/us/stat/80/32], redesignated former item 122 as 123, and added item 122.
+    1966—[Pub. L. 89–365][/us/pl/89/365], § 1(a)(2), Mar. 8, 1966, [80 Stat. 32][/us/stat/80/32], redesignated former item 122 as 123, and added item 122.
 
-    1964—[Pub. L. 88–272, title II, § 206(b)(2)][/us/pl/88/272/s206/b/2], Feb. 26, 1964, [78 Stat. 40][/us/stat/78/40], redesignated former item 121 as 122, and added item 121.
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 206(b)(2), Feb. 26, 1964, [78 Stat. 40][/us/stat/78/40], redesignated former item 121 as 122, and added item 121.
 
-    1958—[Pub. L. 85–866, title I, § 3(b)][/us/pl/85/866/s3/b], Sept. 2, 1958, [72 Stat. 1607][/us/stat/72/1607], struck out item 120 “Statutory subsistence allowance received by police”.
+    1958—[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 3(b), Sept. 2, 1958, [72 Stat. 1607][/us/stat/72/1607], struck out item 120 “Statutory subsistence allowance received by police”.
 
  __Exclusion From Gross Income of Certain Clean Coal Power Grants to Non-Corporate Taxpayers__ 
 
-[Pub. L. 114–113, div. Q, title III, § 343][/us/pl/114/113/s343], Dec. 18, 2015, [129 Stat. 3114][/us/stat/129/3114], provided that:
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 343, Dec. 18, 2015, [129 Stat. 3114][/us/stat/129/3114], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -489,7 +489,7 @@
 
  __No Federal Income Tax on Restitution Received by Victims of the Nazi Regime or Their Heirs or Estates__ 
 
-[Pub. L. 107–16, title VIII, § 803][/us/pl/107/16/s803], June 7, 2001, [115 Stat. 149][/us/stat/115/149], provided that:
+[Pub. L. 107–16, title VIII][/us/pl/107/16/tVIII], § 803, June 7, 2001, [115 Stat. 149][/us/stat/115/149], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -542,83 +542,83 @@
 ----------
 ----------
 
-[/us/pl/114/113/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fb
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3088
-[/us/pl/113/295/s221/a/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
-[/us/pl/113/168/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fb
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
-[/us/pl/112/10/s1858/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F2%2FB
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
-[/us/pl/111/148/s10108/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Ff%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F913
-[/us/pl/111/148/s9021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9021%2Fb
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F874
-[/us/pl/111/5/s3001/a/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F15%2FB
+[/us/pl/111/5/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtIII
 [/us/stat/123/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F465
-[/us/pl/110/142/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs5%2Fb
+[/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/stat/121/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1806
-[/us/pl/108/357/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F3
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
-[/us/pl/108/311/s408/a/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F5%2FG
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
-[/us/pl/108/173/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1202%2Fc
+[/us/pl/108/173/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXII
 [/us/stat/117/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2480
-[/us/pl/107/134/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs111%2Fb
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2433
-[/us/pl/106/519/s4/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs4%2F6
+[/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2433
-[/us/pl/105/34/s312/d/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F14
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F841
-[/us/pl/105/33/s4006/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4006%2Fb%2F3
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F334
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1834
-[/us/pl/102/486/s1912/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1912%2Fb
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3016
-[/us/pl/101/508/s11801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/100/647/s1013/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F37
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3544
-[/us/pl/99/514/s123/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs123%2Fb%2F4
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2113
-[/us/pl/98/369/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs171%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F699
-[/us/pl/98/369/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs16%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F505
-[/us/pl/97/34/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fc
-[/us/pl/97/473/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs101%2Fb%2F2
-[/us/stat/96/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2606
-[/us/pl/97/473/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs102%2Fb
-[/us/stat/96/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2607
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
+[/us/stat/96/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2606
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
+[/us/stat/96/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2607
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F270
 [/us/pl/98/369/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs16%2Fa
 [/us/pl/97/34/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fc
-[/us/pl/96/499/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1102%2Fb
+[/us/pl/96/499/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtXI
 [/us/stat/94/2669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2669
-[/us/pl/96/223/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs404%2Fb%2F1
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F306
-[/us/pl/95/618/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs242%2Fb
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3194
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2785
-[/us/pl/94/455/s2134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2134%2Fc
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1928
-[/us/pl/91/172/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs901%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F709
-[/us/pl/89/365/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F365%2Fs1%2Fa%2F2
+[/us/pl/89/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F365
 [/us/stat/80/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F32
-[/us/pl/88/272/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs206%2Fb%2F2
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F40
-[/us/pl/85/866/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs3%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1607
-[/us/pl/114/113/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs343
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3114
 [/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
 [/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
 [/us/usc/t42/s15962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15962
-[/us/pl/107/16/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs803
+[/us/pl/107/16/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVIII
 [/us/stat/115/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F149
 
 

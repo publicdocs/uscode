@@ -113,7 +113,7 @@
 
         This section shall not apply to any qualified new energy efficient home acquired after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1332(a)][/us/pl/109/58/s1332/a], Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024]; amended [Pub. L. 109–432, div. A, title II, § 205][/us/pl/109/432/s205], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172, § 11(a)(7)][/us/pl/110/172/s11/a/7], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–343, div. B, title III, § 304][/us/pl/110/343/s304], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 111–312, title VII, § 703(a)][/us/pl/111/312/s703/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV, § 408(a)][/us/pl/112/240/s408/a], (b), Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342]; [Pub. L. 113–295, div. A, title I, § 156(a)][/us/pl/113/295/s156/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I, § 188(a)][/us/pl/114/113/s188/a], Dec. 18, 2015, [129 Stat. 3074][/us/stat/129/3074].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1332(a), Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024]; amended [Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 205, Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(7), Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–343, div. B, title III][/us/pl/110/343/dB/tIII], § 304, Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 703(a), Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 408(a), (b), Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 156(a), Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 188(a), Dec. 18, 2015, [129 Stat. 3074][/us/stat/129/3074].)
 
  __References in Text__ 
 
@@ -127,9 +127,9 @@
 
     2014—Subsec. (g). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
-    2013—Subsec. (c)(1)(A)(i). [Pub. L. 112–240, § 408(b)][/us/pl/112/240/s408/b], substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”.
+    2013—Subsec. (c)(1)(A)(i). [Pub. L. 112–240][/us/pl/112/240], § 408(b), substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”.
 
-    Subsec. (g). [Pub. L. 112–240, § 408(a)][/us/pl/112/240/s408/a], substituted “December 31, 2013” for “December 31, 2011”.
+    Subsec. (g). [Pub. L. 112–240][/us/pl/112/240], § 408(a), substituted “December 31, 2013” for “December 31, 2011”.
 
     2010—Subsec. (g). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
 
@@ -141,25 +141,25 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 188(b)][/us/pl/114/113/s188/b], Dec. 18, 2015, [129 Stat. 3074][/us/stat/129/3074], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 188(b), Dec. 18, 2015, [129 Stat. 3074][/us/stat/129/3074], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 156(b)][/us/pl/113/295/s156/b], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 156(b), Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title IV, § 408(c)][/us/pl/112/240/s408/c], Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342], provided that: 
+[Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 408(c), Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to homes acquired after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 703(b)][/us/pl/111/312/s703/b], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 703(b), Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2009.”
 
@@ -174,21 +174,21 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1332%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1024
-[/us/pl/109/432/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs205
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2945
-[/us/pl/110/172/s11/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F7
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2485
-[/us/pl/110/343/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs304
+[/us/pl/110/343/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIII
 [/us/stat/122/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3845
-[/us/pl/111/312/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs703%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3311
-[/us/pl/112/240/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fa
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2342
-[/us/pl/113/295/s156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs156%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
-[/us/pl/114/113/s188/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs188%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3074
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
@@ -196,19 +196,19 @@
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/112/240/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fb
-[/us/pl/112/240/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fa
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/114/113/s188/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs188%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3074
-[/us/pl/113/295/s156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs156%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
-[/us/pl/112/240/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fc
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2342
-[/us/pl/111/312/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs703%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3311
 [/us/pl/109/58/s1332/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1332%2Ff
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

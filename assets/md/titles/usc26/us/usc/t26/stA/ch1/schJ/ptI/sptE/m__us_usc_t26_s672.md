@@ -97,15 +97,15 @@
 
             The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations providing that paragraph (1) shall not apply in appropriate cases.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 226][/us/stat/68A/226]; [Pub. L. 99–514, title XIV, § 1401(a)][/us/pl/99/514/s1401/a], Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711]; [Pub. L. 100–647, title I, § 1014(a)(1)][/us/pl/100/647/s1014/a/1], Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559]; [Pub. L. 101–508, title XI, § 11343(a)][/us/pl/101/508/s11343/a], Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472]; [Pub. L. 104–188, title I, § 1904(a)][/us/pl/104/188/s1904/a], Aug. 20, 1996, [110 Stat. 1910][/us/stat/110/1910]; [Pub. L. 105–206, title VI, § 6011(c)(1)][/us/pl/105/206/s6011/c/1], July 22, 1998, [112 Stat. 818][/us/stat/112/818].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 226][/us/stat/68A/226]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1401(a), Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(a)(1), Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11343(a), Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1904(a), Aug. 20, 1996, [110 Stat. 1910][/us/stat/110/1910]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6011(c)(1), July 22, 1998, [112 Stat. 818][/us/stat/112/818].)
 
  __Amendments__ 
 
     1998—Subsec. (f)(3)(B). [Pub. L. 105–206][/us/pl/105/206] substituted “section 1297” for “section 1296”.
 
-    1996—Subsec. (c). [Pub. L. 104–188, § 1904(a)(2)][/us/pl/104/188/s1904/a/2], inserted “subsection (f) and” before “sections 674” in closing provisions.
+    1996—Subsec. (c). [Pub. L. 104–188][/us/pl/104/188], § 1904(a)(2), inserted “subsection (f) and” before “sections 674” in closing provisions.
 
-    Subsec. (f). [Pub. L. 104–188, § 1904(a)(1)][/us/pl/104/188/s1904/a/1], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Special Rule Where Grantor is Foreign Person.—
+    Subsec. (f). [Pub. L. 104–188][/us/pl/104/188], § 1904(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Special Rule Where Grantor is Foreign Person.—
 
     “(1) In general.—If—
 
@@ -133,7 +133,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11343(b)][/us/pl/101/508/s11343/b], Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11343(b), Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to—
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XIV, § 1401(b)][/us/pl/99/514/s1401/b], Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711], provided that: 
+[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1401(b), Oct. 22, 1986, [100 Stat. 2711][/us/stat/100/2711], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to transfers in trust made after March 1, 1986.”
 
@@ -160,19 +160,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F226
-[/us/pl/99/514/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1401%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2711
-[/us/pl/100/647/s1014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fa%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3559
-[/us/pl/101/508/s11343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11343%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-472
-[/us/pl/104/188/s1904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1910
-[/us/pl/105/206/s6011/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6011%2Fc%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F818
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/104/188/s1904/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fa%2F2
-[/us/pl/104/188/s1904/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fa%2F1
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -183,13 +183,13 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fd
 [/us/usc/t26/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs643
-[/us/pl/101/508/s11343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11343%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-472
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1401%2Fb
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2711
 
 

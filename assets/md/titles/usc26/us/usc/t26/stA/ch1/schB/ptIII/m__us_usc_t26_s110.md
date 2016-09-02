@@ -53,15 +53,15 @@
 
         (2) any other information which the Secretary deems necessary to carry out the provisions of this section.
 
-(Added [Pub. L. 105–34, title XII, § 1213(a)][/us/pl/105/34/s1213/a], Aug. 5, 1997, [111 Stat. 1000][/us/stat/111/1000].)
+(Added [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1213(a), Aug. 5, 1997, [111 Stat. 1000][/us/stat/111/1000].)
 
  __Prior Provisions__ 
 
-    A prior section 110, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 33][/us/stat/68A/33], related to income taxes paid by lessee corporations, prior to repeal by [Pub. L. 101–508, title XI, § 11801(a)(6)][/us/pl/101/508/s11801/a/6], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520].
+    A prior section 110, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 33][/us/stat/68A/33], related to income taxes paid by lessee corporations, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(6), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520].
 
  __Effective Date__ 
 
-[Pub. L. 105–34, title XII, § 1213(e)][/us/pl/105/34/s1213/e], Aug. 5, 1997, [111 Stat. 1001][/us/stat/111/1001], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1213(e), Aug. 5, 1997, [111 Stat. 1001][/us/stat/111/1001], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 168 and 6724 of this title\] shall apply to leases entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -72,13 +72,13 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1213%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1000
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F33
-[/us/pl/101/508/s11801/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F6
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-520
-[/us/pl/105/34/s1213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1213%2Fe
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1001
 
 

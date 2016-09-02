@@ -193,13 +193,13 @@
 
         For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.
 
-(Added [Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1049][/us/stat/76/1049]; amended [Pub. L. 89–809, title II, § 211(c)][/us/pl/89/809/s211/c], Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582]; [Pub. L. 91–172, title IX, § 911(b)][/us/pl/91/172/s911/b], Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722]; [Pub. L. 94–455, title XIX, § 1901(a)(153)][/us/pl/94/455/s1901/a/153], Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]; [Pub. L. 95–600, title III, § 316(b)(3)][/us/pl/95/600/s316/b/3], Nov. 6, 1978, [92 Stat. 2830][/us/stat/92/2830]; [Pub. L. 99–272, title XIII, § 13210(a)][/us/pl/99/272/s13210/a], Apr. 7, 1986, [100 Stat. 323][/us/stat/100/323]; [Pub. L. 101–508, title XI, § 11813(b)(24)][/us/pl/101/508/s11813/b/24], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 108–357, title III][/us/pl/108/357], §§ 312(a), 316(a), Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], 1469.)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1049][/us/stat/76/1049]; amended [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(c), Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 911(b), Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(153), Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 316(b)(3), Nov. 6, 1978, [92 Stat. 2830][/us/stat/92/2830]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13210(a), Apr. 7, 1986, [100 Stat. 323][/us/stat/100/323]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11813(b)(24), Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], §§ 312(a), 316(a), Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], 1469.)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 312(a)][/us/pl/108/357/s312/a], inserted at end of concluding provisions “For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.”
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 312(a), inserted at end of concluding provisions “For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.”
 
-    Subsec. (k). [Pub. L. 108–357, § 316(a)][/us/pl/108/357/s316/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 108–357][/us/pl/108/357], § 316(a), added subsec. (k).
 
     1990—Subsec. (k). [Pub. L. 101–508][/us/pl/101/508] struck out subsec. (k) which cross-referenced section 46(h) for provisions relating to apportionment of investment credit between cooperative organizations and their patrons.
 
@@ -207,19 +207,19 @@
 
     1978—Subsec. (j). [Pub. L. 95–600][/us/pl/95/600] added subsec. (j).
 
-    1976—Subsec. (c)(2)(B)(i). [Pub. L. 94–455, § 1901][/us/pl/94/455/s1901] (a)(153)(A), substituted “October 16, 1962” for “the date of the enactment of the Revenue Act of 1962”.
+    1976—Subsec. (c)(2)(B)(i). [Pub. L. 94–455][/us/pl/94/455], § 1901 (a)(153)(A), substituted “October 16, 1962” for “the date of the enactment of the Revenue Act of 1962”.
 
-    Subsec. (h)(2)(B)(i). [Pub. L. 94–455, § 1901(a)(153)(B)][/us/pl/94/455/s1901/a/153/B], substituted “November 13, 1966” for “the date of the enactment of this subsection”.
+    Subsec. (h)(2)(B)(i). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(153)(B), substituted “November 13, 1966” for “the date of the enactment of this subsection”.
 
     1969—Subsec. (f). [Pub. L. 91–172][/us/pl/91/172] struck out reference to allocations made by organizations other than by payment of money or other property except per-unit retain certificates.
 
-    1966—Subsec. (e). [Pub. L. 89–809, § 211(c)(1)][/us/pl/89/809/s211/c/1], inserted references to per-unit retain certificates.
+    1966—Subsec. (e). [Pub. L. 89–809][/us/pl/89/809], § 211(c)(1), inserted references to per-unit retain certificates.
 
-    Subsecs. (f) to (i). [Pub. L. 89–809, § 211(c)(2)][/us/pl/89/809/s211/c/2], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 89–809][/us/pl/89/809], § 211(c)(2), added subsecs. (f) to (i).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title III, § 312(b)][/us/pl/108/357/s312/b], Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 312(b), Oct. 22, 2004, [118 Stat. 1467][/us/stat/118/1467], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -231,7 +231,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XIII, § 13210(c)][/us/pl/99/272/s13210/c], Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324], provided that:
+[Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13210(c), Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -267,7 +267,7 @@
 
  __Per-Unit Retain Certificates Covered by Written Agreements Between__  __Oct. 14, 1965__  __, and__  __Nov. 13, 1966__  __: Transition Treatment of By-Law Provisions__ 
 
-    [Pub. L. 89–809, title II, § 211(f)][/us/pl/89/809/s211/f], Nov. 13, 1966, [80 Stat. 1584][/us/stat/80/1584], provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
+    [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(f), Nov. 13, 1966, [80 Stat. 1584][/us/stat/80/1584], provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
 
 ----------
 
@@ -276,33 +276,33 @@
 ----------
 ----------
 
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1049
-[/us/pl/89/809/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fc
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1582
-[/us/pl/91/172/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs911%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F722
-[/us/pl/94/455/s1901/a/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F153
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1789
-[/us/pl/95/600/s316/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs316%2Fb%2F3
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2830
-[/us/pl/99/272/s13210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13210%2Fa
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F323
-[/us/pl/101/508/s11813/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fb%2F24
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-555
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1467
-[/us/pl/108/357/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs312%2Fa
-[/us/pl/108/357/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs316%2Fa
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901
-[/us/pl/94/455/s1901/a/153/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F153%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/89/809/s211/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fc%2F1
-[/us/pl/89/809/s211/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fc%2F2
-[/us/pl/108/357/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs312%2Fb
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1467
 [/us/pl/108/357/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs316%2Fa
 [/us/pl/108/357/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs316%2Fc
@@ -313,7 +313,7 @@
 [/us/usc/t26/s46/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46%2Fb%2F2%2FC
 [/us/pl/101/508/s11813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fc
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/99/272/s13210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13210%2Fc
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F324
 [/us/usc/t26/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs521
 [/us/usc/t26/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs521
@@ -333,7 +333,7 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/89/809/s211/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Ff
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1584
 
 

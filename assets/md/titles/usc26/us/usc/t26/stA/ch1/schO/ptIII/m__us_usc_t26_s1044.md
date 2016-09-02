@@ -91,11 +91,11 @@
 
         If gain from any sale is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any common stock or partnership interest in any specialized small business investment company which is purchased by the taxpayer during the 60-day period described in subsection (a). This subsection shall not apply for purposes of section 1202.
 
-(Added [Pub. L. 103–66, title XIII, § 13114(a)][/us/pl/103/66/s13114/a], Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430]; amended [Pub. L. 104–188, title I, § 1703(a)][/us/pl/104/188/s1703/a], Aug. 20, 1996, [110 Stat. 1875][/us/stat/110/1875].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13114(a), Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(a), Aug. 20, 1996, [110 Stat. 1875][/us/stat/110/1875].)
 
  __References in Text__ 
 
-    Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(3), was classified to [section 681(d) of Title 15][/us/usc/t15/s681/d], Commerce and Trade, prior to repeal by [Pub. L. 104–208, div. D, title II, § 208(b)(3)(A)][/us/pl/104/208/s208/b/3/A], Sept. 30, 1996, [110 Stat. 3009–742][/us/stat/110/3009-742].
+    Section 301(d) of the Small Business Investment Act of 1958, referred to in subsec. (c)(3), was classified to [section 681(d) of Title 15][/us/usc/t15/s681/d], Commerce and Trade, prior to repeal by [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(b)(3)(A), Sept. 30, 1996, [110 Stat. 3009–742][/us/stat/110/3009-742].
 
  __Amendments__ 
 
@@ -116,12 +116,12 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13114%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F430
-[/us/pl/104/188/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1875
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fb%2F3%2FA
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-742
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

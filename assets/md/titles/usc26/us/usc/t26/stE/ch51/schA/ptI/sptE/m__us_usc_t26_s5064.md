@@ -69,7 +69,7 @@
 
         All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1337][/us/stat/72/1337]; amended [Pub. L. 91–606, title III, § 301(i)][/us/pl/91/606/s301/i], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 93–288, title VII, § 702(i)][/us/pl/93/288/s702/i], formerly title VI, § 602(i), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(i), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–423, § 1(a)][/us/pl/95/423/s1/a], Oct. 6, 1978, [92 Stat. 935][/us/stat/92/935]; [Pub. L. 96–39, title VIII, § 807(a)(10)][/us/pl/96/39/s807/a/10], July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 108–311, title IV, § 408(a)(7)(D)][/us/pl/108/311/s408/a/7/D], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1337][/us/stat/72/1337]; amended [Pub. L. 91–606, title III][/us/pl/91/606/tIII], § 301(i), Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 702(i), formerly title VI, § 602(i), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(i), [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(1), (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–423][/us/pl/95/423], § 1(a), Oct. 6, 1978, [92 Stat. 935][/us/stat/92/935]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(10), July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(7)(D), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–423, § 1(c)][/us/pl/95/423/s1/c], Oct. 6, 1978, [92 Stat. 936][/us/stat/92/936], provided that: 
+[Pub. L. 95–423][/us/pl/95/423], § 1(c), Oct. 6, 1978, [92 Stat. 936][/us/stat/92/936], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to disasters (or other damage) occurring on or after the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 6, 1978\].”
 
@@ -123,17 +123,17 @@
 
  __Exception to Effective Date__ 
 
-[Pub. L. 85–859, title II, § 210(a)(3)][/us/pl/85/859/s210/a/3], Sept. 2, 1958, [72 Stat. 1435][/us/stat/72/1435], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 210(a)(3), Sept. 2, 1958, [72 Stat. 1435][/us/stat/72/1435], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959.”
 
  __Beer Lost by Reason of Floods of 1951 or Hurricanes of 1954__ 
 
-    [Pub. L. 85–859, title II, § 207][/us/pl/85/859/s207], Sept. 2, 1958, [72 Stat. 1432][/us/stat/72/1432], provided for payment of an amount equal to the amount of taxes paid under section 3150(a) of the Internal Revenue Code of 1939 on fermented malt liquor which was lost, rendered unmarketable, or condemned by reason of the floods of 1951 or the hurricanes of 1954, under certain conditions and under regulations to be prescribed.
+    [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 207, Sept. 2, 1958, [72 Stat. 1432][/us/stat/72/1432], provided for payment of an amount equal to the amount of taxes paid under section 3150(a) of the Internal Revenue Code of 1939 on fermented malt liquor which was lost, rendered unmarketable, or condemned by reason of the floods of 1951 or the hurricanes of 1954, under certain conditions and under regulations to be prescribed.
 
  __Losses of Alcoholic Liquors Caused by Disaster__ 
 
-    [Pub. L. 85–859, title II, § 208][/us/pl/85/859/s208], Sept. 2, 1958, [72 Stat. 1432][/us/stat/72/1432], provided for payment of an amount equal to the amount of taxes and customs duties paid on distilled spirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
+    [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 208, Sept. 2, 1958, [72 Stat. 1432][/us/stat/72/1432], provided for payment of an amount equal to the amount of taxes and customs duties paid on distilled spirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
 
 ----------
 
@@ -142,23 +142,23 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1337
-[/us/pl/91/606/s301/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs301%2Fi
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1759
-[/us/pl/93/288/s702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs702%2Fi
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
 [/us/stat/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F164
-[/us/pl/103/337/s3411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/423/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423%2Fs1%2Fa
+[/us/pl/95/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423
 [/us/stat/92/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F935
-[/us/pl/96/39/s807/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F10
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F282
-[/us/pl/100/707/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
-[/us/pl/108/311/s408/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F7%2FD
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -180,7 +180,7 @@
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/95/423/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423%2Fs1%2Fc
+[/us/pl/95/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423
 [/us/stat/92/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F936
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/pl/93/288/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs605
@@ -190,13 +190,13 @@
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
 [/us/pl/85/859/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fa%2F1
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/85/859/s210/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fa%2F3
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1435
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/85/859/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs207
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1432
-[/us/pl/85/859/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs208
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1432
 
 

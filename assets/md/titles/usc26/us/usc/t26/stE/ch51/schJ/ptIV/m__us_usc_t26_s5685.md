@@ -31,7 +31,7 @@
 
         As used in this section the term “machine gun” means a machine gun as defined in section 5845(b).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1411][/us/stat/72/1411]; amended [Pub. L. 86–478, § 4][/us/pl/86/478/s4], June 1, 1960, [74 Stat. 150][/us/stat/74/150]; [Pub. L. 94–455, title XIX, § 1905(a)(23)][/us/pl/94/455/s1905/a/23], (c)(6), Oct. 4, 1976, [90 Stat. 1821][/us/stat/90/1821], 1823.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1411][/us/stat/72/1411]; amended [Pub. L. 86–478][/us/pl/86/478], § 4, June 1, 1960, [74 Stat. 150][/us/stat/74/150]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(a)(23), (c)(6), Oct. 4, 1976, [90 Stat. 1821][/us/stat/90/1821], 1823.)
 
  __Prior Provisions__ 
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1905(a)(23)(A)][/us/pl/94/455/s1905/a/23/A], (c)(6), struck out “Territory or” after “United States, or of any” and substituted “section 5845” for “section 5848”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(23)(A), (c)(6), struck out “Territory or” after “United States, or of any” and substituted “section 5845” for “section 5848”.
 
-    Subsec. (c). [Pub. L. 94–455, § 1905(a)(23)(B)][/us/pl/94/455/s1905/a/23/B], substituted “section 5872” for “section 5862”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(23)(B), substituted “section 5872” for “section 5862”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1905(a)(23)(C)][/us/pl/94/455/s1905/a/23/C], substituted “means a machinegun as defined in section 5845(b)” for “means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(23)(C), substituted “means a machinegun as defined in section 5845(b)” for “means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger”.
 
     1960—Subsecs. (a), (b). [Pub. L. 86–478][/us/pl/86/478] substituted “shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length” for “shotgun or rifle having a barrel or barrels less than 18 inches in length”.
 
@@ -62,18 +62,18 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1411
-[/us/pl/86/478/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478%2Fs4
+[/us/pl/86/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478
 [/us/stat/74/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F150
-[/us/pl/94/455/s1905/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F23
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1821
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F699
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/94/455/s1905/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F23%2FA
-[/us/pl/94/455/s1905/a/23/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F23%2FB
-[/us/pl/94/455/s1905/a/23/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F23%2FC
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/86/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F478
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fd

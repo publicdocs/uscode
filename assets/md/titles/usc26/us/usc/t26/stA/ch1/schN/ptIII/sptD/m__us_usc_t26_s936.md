@@ -915,7 +915,7 @@
 
             this subsection (and so much of this section as relates to this subsection) shall be applied separately with respect to each possession.
 
-(Added [Pub. L. 94–455, title X, § 1051(b)][/us/pl/94/455/s1051/b], Oct. 4, 1976, [90 Stat. 1643][/us/stat/90/1643]; amended [Pub. L. 94–455, title XIX, § 1901(b)(37)(B)][/us/pl/94/455/s1901/b/37/B], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803]; [Pub. L. 95–600, title VII, § 701(u)(11)(A)][/us/pl/95/600/s701/u/11/A], (B), Nov. 6, 1978, [92 Stat. 2917][/us/stat/92/2917]; [Pub. L. 97–248, title II, § 201(d)(8)(B)][/us/pl/97/248/s201/d/8/B], formerly § 201(c)(8)(B), § 213(a), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 452, renumbered § 201(d)(8)(B), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title IV, § 474(r)(22)][/us/pl/98/369/s474/r/22], title VII, § 712(g), title VIII, § 801(d)(11), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 947, 997; [Pub. L. 99–499, title V, § 516(b)(1)(B)][/us/pl/99/499/s516/b/1/B], Oct. 17, 1986, [100 Stat. 1770][/us/stat/100/1770]; [Pub. L. 99–514, title II, § 231(d)(3)(G)][/us/pl/99/514/s231/d/3/G], title VII, § 701(e)(4)(I), title XII, §§ 1231(a)–(d), (f), 1275(a)(1), title XVIII, § 1812(c)(4)(C), Oct. 22, 1986, [100 Stat. 2179][/us/stat/100/2179], 2343, 2561–2563, 2598, 2835; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, § 6132(a), Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370], 3502, 3512, 3515, 3721; [Pub. L. 101–382, title II, § 227(a)][/us/pl/101/382/s227/a], Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661]; [Pub. L. 101–508, title XI, § 11704(a)(11)][/us/pl/101/508/s11704/a/11], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 103–66, title XIII, § 13227(a)][/us/pl/103/66/s13227/a], (b), Aug. 10, 1993, [107 Stat. 489][/us/stat/107/489], 490; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1601(a), 1704(t)(37), (80), Aug. 20, 1996, [110 Stat. 1827][/us/stat/110/1827], 1889, 1891; [Pub. L. 108–357, title IV, § 402(b)(2)][/us/pl/108/357/s402/b/2], Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 110–172, § 11(g)(12)][/us/pl/110/172/s11/g/12], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(G)][/us/pl/113/295/s221/a/12/G], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1051(b), Oct. 4, 1976, [90 Stat. 1643][/us/stat/90/1643]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(37)(B), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(u)(11)(A), (B), Nov. 6, 1978, [92 Stat. 2917][/us/stat/92/2917]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 201(d)(8)(B), formerly § 201(c)(8)(B), § 213(a), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 452, renumbered § 201(d)(8)(B), [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(a)(1)(A)(i), Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(22), title VII, § 712(g), title VIII, § 801(d)(11), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 947, 997; [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 516(b)(1)(B), Oct. 17, 1986, [100 Stat. 1770][/us/stat/100/1770]; [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 231(d)(3)(G), title VII, § 701(e)(4)(I), title XII, §§ 1231(a)–(d), (f), 1275(a)(1), title XVIII, § 1812(c)(4)(C), Oct. 22, 1986, [100 Stat. 2179][/us/stat/100/2179], 2343, 2561–2563, 2598, 2835; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, § 6132(a), Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370], 3502, 3512, 3515, 3721; [Pub. L. 101–382, title II][/us/pl/101/382/tII], § 227(a), Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(11), Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13227(a), (b), Aug. 10, 1993, [107 Stat. 489][/us/stat/107/489], 490; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1601(a), 1704(t)(37), (80), Aug. 20, 1996, [110 Stat. 1827][/us/stat/110/1827], 1889, 1891; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 402(b)(2), Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(12), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(12)(G), Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __References in Text__ 
 
@@ -937,39 +937,39 @@
 
     2004—Subsec. (a)(2)(A). [Pub. L. 108–357][/us/pl/108/357] substituted “subsections (f) and (g) of section 904” for “section 904(f)”.
 
-    1996—Subsec. (a)(4)(A)(ii)(I). [Pub. L. 104–188, § 1704(t)(80)][/us/pl/104/188/s1704/t/80], which directed that subcl. (I) be amended by substituting “depreciation” for “deprecation”, could not be executed, because the word “deprecation” did not appear in text.
+    1996—Subsec. (a)(4)(A)(ii)(I). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(80), which directed that subcl. (I) be amended by substituting “depreciation” for “deprecation”, could not be executed, because the word “deprecation” did not appear in text.
 
-    Subsec. (b). [Pub. L. 104–188, § 1704(t)(37)][/us/pl/104/188/s1704/t/37], substituted “subparagraphs (D)(ii)” for “subparagraphs (D)(ii)(I)”.
+    Subsec. (b). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(37), substituted “subparagraphs (D)(ii)” for “subparagraphs (D)(ii)(I)”.
 
-    Subsec. (j). [Pub. L. 104–188, § 1601(a)][/us/pl/104/188/s1601/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 104–188][/us/pl/104/188], § 1601(a), added subsec. (j).
 
-    1993—Subsec. (a)(1). [Pub. L. 103–66, § 13227(a)(1)][/us/pl/103/66/s13227/a/1], substituted “Except as otherwise provided in this section” for “Except as provided in paragraph (3)”.
+    1993—Subsec. (a)(1). [Pub. L. 103–66][/us/pl/103/66], § 13227(a)(1), substituted “Except as otherwise provided in this section” for “Except as provided in paragraph (3)”.
 
-    Subsec. (a)(4). [Pub. L. 103–66, § 13227(a)(2)][/us/pl/103/66/s13227/a/2], added par. (4).
+    Subsec. (a)(4). [Pub. L. 103–66][/us/pl/103/66], § 13227(a)(2), added par. (4).
 
-    Subsec. (i). [Pub. L. 103–66, § 13227(b)][/us/pl/103/66/s13227/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 103–66][/us/pl/103/66], § 13227(b), added subsec. (i).
 
     1990—Subsec. (d)(4)(D). [Pub. L. 101–382][/us/pl/101/382] added subpar. (D).
 
     Subsec. (e)(1). [Pub. L. 101–508][/us/pl/101/508] substituted “subsection (a)(2)” for “subsection (a)(1)” wherever appearing.
 
-    1988—Subsec. (d)(3)(B). [Pub. L. 100–647, § 1012(j)][/us/pl/100/647/s1012/j], inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
+    1988—Subsec. (d)(3)(B). [Pub. L. 100–647][/us/pl/100/647], § 1012(j), inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
 
-    Subsec. (d)(4)(A)(ii). [Pub. L. 100–647, § 1012(n)(5)(A)][/us/pl/100/647/s1012/n/5/A], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico.”
+    Subsec. (d)(4)(A)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1012(n)(5)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico.”
 
-    Subsec. (d)(4)(B). [Pub. L. 100–647, § 6132(a)][/us/pl/100/647/s6132/a], inserted “and the Virgin Islands” after “274(h)(6)(A)”.
+    Subsec. (d)(4)(B). [Pub. L. 100–647][/us/pl/100/647], § 6132(a), inserted “and the Virgin Islands” after “274(h)(6)(A)”.
 
-    Subsec. (d)(4)(C)(i), (ii). [Pub. L. 100–647, § 1012(n)(5)(B)][/us/pl/100/647/s1012/n/5/B], substituted “Commissioner of Financial Institutions of Puerto Rico” for “Secretary of the Treasury of Puerto Rico”.
+    Subsec. (d)(4)(C)(i), (ii). [Pub. L. 100–647][/us/pl/100/647], § 1012(n)(5)(B), substituted “Commissioner of Financial Institutions of Puerto Rico” for “Secretary of the Treasury of Puerto Rico”.
 
-    Subsec. (h)(5)(C)(i)(I). [Pub. L. 100–647, § 1012(n)(4)][/us/pl/100/647/s1012/n/4], amended directory language of [Pub. L. 99–514, § 1231(a)(1)][/us/pl/99/514/s1231/a/1], see 1986 Amendment note below.
+    Subsec. (h)(5)(C)(i)(I). [Pub. L. 100–647][/us/pl/100/647], § 1012(n)(4), amended directory language of [Pub. L. 99–514][/us/pl/99/514], § 1231(a)(1), see 1986 Amendment note below.
 
-    Subsec. (h)(5)(C)(i)(IV)(c). [Pub. L. 100–647, § 1002(h)(3)][/us/pl/100/647/s1002/h/3], substituted “section 41” and “section 41(f)” for “section 30” and “section 30(f)”, respectively.
+    Subsec. (h)(5)(C)(i)(IV)(c). [Pub. L. 100–647][/us/pl/100/647], § 1002(h)(3), substituted “section 41” and “section 41(f)” for “section 30” and “section 30(f)”, respectively.
 
-    Subsec. (h)(7), (8). [Pub. L. 100–647, § 1012(h)(2)(B)][/us/pl/100/647/s1012/h/2/B], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (h)(7), (8). [Pub. L. 100–647][/us/pl/100/647], § 1012(h)(2)(B), added par. (7) and redesignated former par. (7) as (8).
 
-    1986—Subsec. (a)(2)(B). [Pub. L. 99–514, § 1231(d)(1)][/us/pl/99/514/s1231/d/1], substituted “75 percent” for “65 percent”.
+    1986—Subsec. (a)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1231(d)(1), substituted “75 percent” for “65 percent”.
 
-    Subsec. (a)(2)(C). [Pub. L. 99–514, § 1231(d)(2)][/us/pl/99/514/s1231/d/2], struck out subpar. (C), transitional rule, which read as follows: “In applying subparagraph (B) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, the following percentage shall be substituted for ‘65 percent’:
+    Subsec. (a)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1231(d)(2), struck out subpar. (C), transitional rule, which read as follows: “In applying subparagraph (B) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, the following percentage shall be substituted for ‘65 percent’:
 
 <table>
 
@@ -1013,49 +1013,49 @@ The percentage is:  </td>
 
     Subsec. (a)(3). [Pub. L. 99–499][/us/pl/99/499] in par. (3), as amended by [Pub. L. 99–514][/us/pl/99/514], added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-    [Pub. L. 99–514, § 701(e)(4)(I)][/us/pl/99/514/s701/e/4/I], struck out subpar. (A) which read “section 56 (relating to corporate minimum tax),”, and redesignated subpars. (B), (C), and (E) as (A), (B), and (C), respectively.
+    [Pub. L. 99–514][/us/pl/99/514], § 701(e)(4)(I), struck out subpar. (A) which read “section 56 (relating to corporate minimum tax),”, and redesignated subpars. (B), (C), and (E) as (A), (B), and (C), respectively.
 
-    Subsec. (b). [Pub. L. 99–514, § 1231(b)][/us/pl/99/514/s1231/b], inserted at end “This subsection shall not apply to any amount described in subsection (a)(1)(A)(i) received from a person who is not a related person (within the meaning of subsection (h)(3) but without regard to subparagraphs (D)(ii)(I) and (E)(i) thereof) with respect to the domestic corporation.”
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1231(b), inserted at end “This subsection shall not apply to any amount described in subsection (a)(1)(A)(i) received from a person who is not a related person (within the meaning of subsection (h)(3) but without regard to subparagraphs (D)(ii)(I) and (E)(i) thereof) with respect to the domestic corporation.”
 
-    Subsec. (d)(1). [Pub. L. 99–514, § 1275(a)(1)][/us/pl/99/514/s1275/a/1], substituted “and the Virgin Islands” for “, but does not include the Virgin Islands of the United States”.
+    Subsec. (d)(1). [Pub. L. 99–514][/us/pl/99/514], § 1275(a)(1), substituted “and the Virgin Islands” for “, but does not include the Virgin Islands of the United States”.
 
-    Subsec. (d)(4). [Pub. L. 99–514, § 1231(c)][/us/pl/99/514/s1231/c], added par. (4).
+    Subsec. (d)(4). [Pub. L. 99–514][/us/pl/99/514], § 1231(c), added par. (4).
 
-    Subsec. (h)(3)(D)(ii). [Pub. L. 99–514, § 1812(c)(4)(C)][/us/pl/99/514/s1812/c/4/C], amended cl. (ii) generally. Prior to amendment, cl. (ii), special rules, read as follows: “For purposes of clause (i)—
+    Subsec. (h)(3)(D)(ii). [Pub. L. 99–514][/us/pl/99/514], § 1812(c)(4)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii), special rules, read as follows: “For purposes of clause (i)—
 
     “(I) section 267(b) and section 707(b)(1) shall be applied by substituting ‘10 percent’ for ‘50 percent’, and
 
     “(II) section 267(b)(3) shall be applied without regard to whether a person was a personal holding company or a foreign personal holding company.”
 
-    Subsec. (h)(5)(C)(i)(I). [Pub. L. 99–514, § 1231(a)(1)][/us/pl/99/514/s1231/a/1], as amended by [Pub. L. 100–647, § 1012(n)(4)][/us/pl/100/647/s1012/n/4], in introductory provisions, substituted “the same proportion of 110 percent of the cost” for “the same proportion of the cost”, and inserted at end of material relating to payment of cost sharing “In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.”
+    Subsec. (h)(5)(C)(i)(I). [Pub. L. 99–514][/us/pl/99/514], § 1231(a)(1), as amended by [Pub. L. 100–647][/us/pl/100/647], § 1012(n)(4), in introductory provisions, substituted “the same proportion of 110 percent of the cost” for “the same proportion of the cost”, and inserted at end of material relating to payment of cost sharing “In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.”
 
-    Subsec. (h)(5)(C)(i)(I)(a). [Pub. L. 99–514, § 231(d)(3)(G)][/us/pl/99/514/s231/d/3/G], substituted “section 41(b)” for “section 30(b)”.
+    Subsec. (h)(5)(C)(i)(I)(a). [Pub. L. 99–514][/us/pl/99/514], § 231(d)(3)(G), substituted “section 41(b)” for “section 30(b)”.
 
-    Subsec. (h)(5)(C)(ii)(II). [Pub. L. 99–514, § 1231(f)][/us/pl/99/514/s1231/f], substituted “all products and types of services, within such product area, produced or rendered” for “all products produced and types of service rendered”.
+    Subsec. (h)(5)(C)(ii)(II). [Pub. L. 99–514][/us/pl/99/514], § 1231(f), substituted “all products and types of services, within such product area, produced or rendered” for “all products produced and types of service rendered”.
 
-    [Pub. L. 99–514, § 1231(a)(2)][/us/pl/99/514/s1231/a/2], substituted “the third and fourth sentences thereof, but substituting ‘120 percent’ for ‘110 percent’ in the second sentence thereof)” for “the third sentence thereof)”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1231(a)(2), substituted “the third and fourth sentences thereof, but substituting ‘120 percent’ for ‘110 percent’ in the second sentence thereof)” for “the third sentence thereof)”.
 
-    1984—Subsec. (a)(2)(C). [Pub. L. 98–369, § 712(g)][/us/pl/98/369/s712/g], substituted in table heading “The percentage is” for “The percentage tax is”.
+    1984—Subsec. (a)(2)(C). [Pub. L. 98–369][/us/pl/98/369], § 712(g), substituted in table heading “The percentage is” for “The percentage tax is”.
 
-    Subsec. (f). [Pub. L. 98–369, § 801(d)(11)][/us/pl/98/369/s801/d/11], amended subsec. (f) generally, substituting in heading “Limitation on credit for DISC’s and FSC’s” for “DISC or former DISC corporation ineligible for credit”, and in text striking out reference to section 992(a) and inserting provision disallowing a credit to a corporation for a taxable year in which it owns at any time stock in a FSC or former FSC.
+    Subsec. (f). [Pub. L. 98–369][/us/pl/98/369], § 801(d)(11), amended subsec. (f) generally, substituting in heading “Limitation on credit for DISC’s and FSC’s” for “DISC or former DISC corporation ineligible for credit”, and in text striking out reference to section 992(a) and inserting provision disallowing a credit to a corporation for a taxable year in which it owns at any time stock in a FSC or former FSC.
 
-    Subsec. (h)(5)(C)(i)(I)(a). [Pub. L. 98–369, § 474(r)(22)(A)][/us/pl/98/369/s474/r/22/A], substituted “section 30(b)” for “section 44F(b)”.
+    Subsec. (h)(5)(C)(i)(I)(a). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(22)(A), substituted “section 30(b)” for “section 44F(b)”.
 
-    Subsec. (h)(5)(C)(i)(IV)(c). [Pub. L. 98–369, § 474(r)(22)(B)][/us/pl/98/369/s474/r/22/B], substituted “section 30” for “section 44F” and “section 30(f)” for “section 44F(f)”.
+    Subsec. (h)(5)(C)(i)(IV)(c). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(22)(B), substituted “section 30” for “section 44F” and “section 30(f)” for “section 44F(f)”.
 
-    1982—Subsec. (a)(2)(B). [Pub. L. 97–248, § 213(a)(1)(A)][/us/pl/97/248/s213/a/1/A], substituted “65 percent” for “50 percent”.
+    1982—Subsec. (a)(2)(B). [Pub. L. 97–248][/us/pl/97/248], § 213(a)(1)(A), substituted “65 percent” for “50 percent”.
 
-    Subsec. (a)(2)(C). [Pub. L. 97–248, § 213(a)(1)(B)][/us/pl/97/248/s213/a/1/B], added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 97–248][/us/pl/97/248], § 213(a)(1)(B), added subpar. (C).
 
-    Subsec. (a)(3)(A). [Pub. L. 97–248, § 201(d)(8)(B)][/us/pl/97/248/s201/d/8/B], formerly § 201(c)(8)(B), substituted “(relating to corporate minimum tax)” for “(relating to minimum tax)”.
+    Subsec. (a)(3)(A). [Pub. L. 97–248][/us/pl/97/248], § 201(d)(8)(B), formerly § 201(c)(8)(B), substituted “(relating to corporate minimum tax)” for “(relating to minimum tax)”.
 
-    Subsec. (h). [Pub. L. 97–248, § 213(a)(2)][/us/pl/97/248/s213/a/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 97–248][/us/pl/97/248], § 213(a)(2), added subsec. (h).
 
-    1978—Subsec. (a). [Pub. L. 95–600, § 701(u)(11)(A)][/us/pl/95/600/s701/u/11/A], reworked provisions of par. (1) into introductory text, substituting reference to par. (3) for reference to par. (2), and subpars. (A) and (B), inserted introductory text of par. (2), redesignated former subpars. (A) and (B) of par. (1) as subpars. (A) and (B) of par. (2), and redesignated former par. (2) as (3).
+    1978—Subsec. (a). [Pub. L. 95–600][/us/pl/95/600], § 701(u)(11)(A), reworked provisions of par. (1) into introductory text, substituting reference to par. (3) for reference to par. (2), and subpars. (A) and (B), inserted introductory text of par. (2), redesignated former subpars. (A) and (B) of par. (1) as subpars. (A) and (B) of par. (2), and redesignated former par. (2) as (3).
 
-    Subsec. (d). [Pub. L. 95–600, § 701(u)(11)(B)][/us/pl/95/600/s701/u/11/B], substituted in heading “Definitions and special rules” for “Definitions” and added par. (3).
+    Subsec. (d). [Pub. L. 95–600][/us/pl/95/600], § 701(u)(11)(B), substituted in heading “Definitions and special rules” for “Definitions” and added par. (3).
 
-    1976—Subsec. (a)(2)(D). [Pub. L. 94–455, § 1901(b)(37)(B)][/us/pl/94/455/s1901/b/37/B], struck out subpar. (D) relating to war loss recoveries.
+    1976—Subsec. (a)(2)(D). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(37)(B), struck out subpar. (D) relating to war loss recoveries.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -1075,7 +1075,7 @@ The percentage is:  </td>
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–382, title II, § 227(b)][/us/pl/101/382/s227/b], Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661], provided that: 
+[Pub. L. 101–382, title II][/us/pl/101/382/tII], § 227(b), Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to calendar years after 1989.”
 
@@ -1083,7 +1083,7 @@ The percentage is:  </td>
 
     Amendment by sections 1002(h)(3) and 1012(h)(2)(B), (j), (n)(4), (5) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6132(b)][/us/pl/100/647/s6132/b], Nov. 10, 1988, [102 Stat. 3721][/us/stat/102/3721], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6132(b), Nov. 10, 1988, [102 Stat. 3721][/us/stat/102/3721], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to investments made after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -1093,7 +1093,7 @@ The percentage is:  </td>
 
     Amendment by [section 701(e)(4)(I) of Pub. L. 99–514][/us/pl/99/514/s701/e/4/I] applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see [section 701(f) of Pub. L. 99–514][/us/pl/99/514/s701/f], set out as an Effective Date note under [section 55 of this title][/us/usc/t26/s55].
 
-[Pub. L. 99–514, title XII, § 1231(g)][/us/pl/99/514/s1231/g], Oct. 22, 1986, [100 Stat. 2563][/us/stat/100/2563], as amended by [Pub. L. 100–647, title I, § 1012(n)(1)][/us/pl/100/647/s1012/n/1]–(3), Nov. 10, 1988, [102 Stat. 3514][/us/stat/102/3514], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1231(g), Oct. 22, 1986, [100 Stat. 2563][/us/stat/100/2563], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(n)(1)–(3), Nov. 10, 1988, [102 Stat. 3514][/us/stat/102/3514], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1153,7 +1153,7 @@ The percentage is:  </td>
 
     Amendment by [section 1275(a)(1) of Pub. L. 99–514][/us/pl/99/514/s1275/a/1] applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see [section 1277 of Pub. L. 99–514][/us/pl/99/514/s1277], set out as a note under [section 931 of this title][/us/usc/t26/s931].
 
-    Amendment by [section 1812(c)(4)(C) of Pub. L. 99–514][/us/pl/99/514/s1812/c/4/C] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1812(c)(4)(C) of Pub. L. 99–514][/us/pl/99/514/s1812/c/4/C] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
     Amendment by [Pub. L. 99–499][/us/pl/99/499] applicable to taxable years beginning after Dec. 31, 1986, see [section 516(c) of Pub. L. 99–499][/us/pl/99/499/s516/c], set out as a note under [section 26 of this title][/us/usc/t26/s26].
 
@@ -1169,7 +1169,7 @@ The percentage is:  </td>
 
     Amendment by [section 201(d)(8)(B) of Pub. L. 97–248][/us/pl/97/248/s201/d/8/B] applicable to taxable years beginning after Dec. 31, 1982, see [section 201(e)(1) of Pub. L. 97–248][/us/pl/97/248/s201/e/1], set out as a note under [section 5 of this title][/us/usc/t26/s5].
 
-[Pub. L. 97–248, title II, § 213(e)][/us/pl/97/248/s213/e], Sept. 3, 1982, [96 Stat. 466][/us/stat/96/466], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 213(e), Sept. 3, 1982, [96 Stat. 466][/us/stat/96/466], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -1185,7 +1185,7 @@ The percentage is:  </td>
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 701(u)(11)(C)][/us/pl/95/600/s701/u/11/C], Nov. 6, 1978, [92 Stat. 2918][/us/stat/92/2918], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(u)(11)(C), Nov. 6, 1978, [92 Stat. 2918][/us/stat/92/2918], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall apply as if included in section 936 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of its addition by section 1051(b) of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
 
@@ -1207,7 +1207,7 @@ The percentage is:  </td>
 
  __Report on Possessions Corporations__ 
 
-    [Pub. L. 98–369, div. A, title IV, § 441(a)][/us/pl/98/369/s441/a], July 18, 1984, [98 Stat. 815][/us/stat/98/815], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI, § 6252(b)(1)][/us/pl/100/647/s6252/b/1], Nov. 10, 1988, [102 Stat. 3752][/us/stat/102/3752], which directed Secretary of the Treasury to submit a report to Congress each fourth calendar year on the operation and effect of sections 936 and 934(b) of this title, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 142 of House Document No. 103–7.
+    [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 441(a), July 18, 1984, [98 Stat. 815][/us/stat/98/815], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6252(b)(1), Nov. 10, 1988, [102 Stat. 3752][/us/stat/102/3752], which directed Secretary of the Treasury to submit a report to Congress each fourth calendar year on the operation and effect of sections 936 and 934(b) of this title, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 142 of House Document No. 103–7.
 
 ----------
 
@@ -1216,37 +1216,37 @@ The percentage is:  </td>
 ----------
 ----------
 
-[/us/pl/94/455/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1051%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1643
-[/us/pl/94/455/s1901/b/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F37%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
-[/us/pl/95/600/s701/u/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FA
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2917
-[/us/pl/97/248/s201/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F8%2FB
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F420
-[/us/pl/97/448/s306/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F1%2FA%2Fi
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2400
-[/us/pl/98/369/s474/r/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F22
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F843
-[/us/pl/99/499/s516/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs516%2Fb%2F1%2FB
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1770
-[/us/pl/99/514/s231/d/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FG
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2179
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3370
-[/us/pl/101/382/s227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs227%2Fa
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F661
-[/us/pl/101/508/s11704/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F11
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-518
-[/us/pl/103/66/s13227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13227%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F489
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1827
-[/us/pl/108/357/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs402%2Fb%2F2
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1492
-[/us/pl/110/172/s11/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F12
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
-[/us/pl/113/295/s221/a/12/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FG
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
@@ -1259,47 +1259,47 @@ The percentage is:  </td>
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/104/188/s1704/t/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F80
-[/us/pl/104/188/s1704/t/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F37
-[/us/pl/104/188/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1601%2Fa
-[/us/pl/103/66/s13227/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13227%2Fa%2F1
-[/us/pl/103/66/s13227/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13227%2Fa%2F2
-[/us/pl/103/66/s13227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13227%2Fb
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1012/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fj
-[/us/pl/100/647/s1012/n/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fn%2F5%2FA
-[/us/pl/100/647/s6132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6132%2Fa
-[/us/pl/100/647/s1012/n/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fn%2F5%2FB
-[/us/pl/100/647/s1012/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fn%2F4
-[/us/pl/99/514/s1231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fa%2F1
-[/us/pl/100/647/s1002/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fh%2F3
-[/us/pl/100/647/s1012/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fh%2F2%2FB
-[/us/pl/99/514/s1231/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fd%2F1
-[/us/pl/99/514/s1231/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fd%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s701/e/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FI
-[/us/pl/99/514/s1231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fb
-[/us/pl/99/514/s1275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1275%2Fa%2F1
-[/us/pl/99/514/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fc
-[/us/pl/99/514/s1812/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F4%2FC
-[/us/pl/99/514/s1231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fa%2F1
-[/us/pl/100/647/s1012/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fn%2F4
-[/us/pl/99/514/s231/d/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FG
-[/us/pl/99/514/s1231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Ff
-[/us/pl/99/514/s1231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fa%2F2
-[/us/pl/98/369/s712/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fg
-[/us/pl/98/369/s801/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F11
-[/us/pl/98/369/s474/r/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F22%2FA
-[/us/pl/98/369/s474/r/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F22%2FB
-[/us/pl/97/248/s213/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs213%2Fa%2F1%2FA
-[/us/pl/97/248/s213/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs213%2Fa%2F1%2FB
-[/us/pl/97/248/s201/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F8%2FB
-[/us/pl/97/248/s213/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs213%2Fa%2F2
-[/us/pl/95/600/s701/u/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FA
-[/us/pl/95/600/s701/u/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FB
-[/us/pl/94/455/s1901/b/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F37%2FB
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -1312,13 +1312,13 @@ The percentage is:  </td>
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13227/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13227%2Ff
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/101/382/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs227%2Fb
+[/us/pl/101/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtII
 [/us/stat/104/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F661
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6132%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3721
 [/us/pl/99/514/s231/d/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FG
 [/us/pl/99/514/s231/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fg
@@ -1326,15 +1326,15 @@ The percentage is:  </td>
 [/us/pl/99/514/s701/e/4/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FI
 [/us/pl/99/514/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Ff
 [/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
-[/us/pl/99/514/s1231/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1231%2Fg
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2563
-[/us/pl/100/647/s1012/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fn%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3514
 [/us/pl/99/514/s1275/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1275%2Fa%2F1
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
 [/us/pl/99/514/s1812/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F4%2FC
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
@@ -1353,14 +1353,14 @@ The percentage is:  </td>
 [/us/pl/97/248/s201/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F8%2FB
 [/us/pl/97/248/s201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fe%2F1
 [/us/usc/t26/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5
-[/us/pl/97/248/s213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs213%2Fe
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F466
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs367
-[/us/pl/95/600/s701/u/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FC
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2918
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -1376,11 +1376,11 @@ The percentage is:  </td>
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/98/369/s441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs441%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F815
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/647/s6252/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6252%2Fb%2F1
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3752
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

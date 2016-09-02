@@ -71,7 +71,7 @@
 
         The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of, and prevent the avoidance of, this chapter.
 
-(Added [Pub. L. 111–147, title V, § 501(a)][/us/pl/111/147/s501/a], Mar. 18, 2010, [124 Stat. 104][/us/stat/124/104].)
+(Added [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(a), Mar. 18, 2010, [124 Stat. 104][/us/stat/124/104].)
 
  __Prior Provisions__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/111/147/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F104
 [/us/usc/t26/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1471
 

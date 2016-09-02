@@ -115,15 +115,15 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11164(b)(4)][/us/pl/109/59/s11164/b/4], Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976], inserted “or reregister” after “register” in item 7272.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11164(b)(4), Aug. 10, 2005, [119 Stat. 1976][/us/stat/119/1976], inserted “or reregister” after “register” in item 7272.
 
-    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(b)(7)(C)(ii), (8)(E)(ii), (9)(C)(ii), 1952(n)(3)(B), Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815], 1816, 1846, struck out items 7263 “Penalties relating to cotton futures”, 7264 “Offenses relating to renovated or adulterated butter”, 7265 “Other offenses relating to oleomargarine or adulterated butter operations”, 7267 “Offenses relating to white phosphorus matches”, and 7274 “Penalty for offenses relating to white phosphorus matches”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1904(b)(7)(C)(ii), (8)(E)(ii), (9)(C)(ii), 1952(n)(3)(B), Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815], 1816, 1846, struck out items 7263 “Penalties relating to cotton futures”, 7264 “Offenses relating to renovated or adulterated butter”, 7265 “Other offenses relating to oleomargarine or adulterated butter operations”, 7267 “Offenses relating to white phosphorus matches”, and 7274 “Penalty for offenses relating to white phosphorus matches”.
 
-    1974—[Pub. L. 93–490, § 3(b)(4)][/us/pl/93/490/s3/b/4], Oct. 26, 1974, [88 Stat. 1467][/us/stat/88/1467], struck out item 7266 “Offenses relating to filled cheese”.
+    1974—[Pub. L. 93–490][/us/pl/93/490], § 3(b)(4), Oct. 26, 1974, [88 Stat. 1467][/us/stat/88/1467], struck out item 7266 “Offenses relating to filled cheese”.
 
-    1970—[Pub. L. 91–258, title II, § 203(c)(2)][/us/pl/91/258/s203/c/2], May 21, 1970, [84 Stat. 239][/us/stat/84/239], added item 7275.
+    1970—[Pub. L. 91–258, title II][/us/pl/91/258/tII], § 203(c)(2), May 21, 1970, [84 Stat. 239][/us/stat/84/239], added item 7275.
 
-    1965—[Pub. L. 89–44, title VI, § 601(i)][/us/pl/89/44/s601/i], June 21, 1965, [79 Stat. 155][/us/stat/79/155], struck out item 7275 “Failure to print correct price on tickets”.
+    1965—[Pub. L. 89–44, title VI][/us/pl/89/44/tVI], § 601(i), June 21, 1965, [79 Stat. 155][/us/stat/79/155], struck out item 7275 “Failure to print correct price on tickets”.
 
 ----------
 
@@ -132,15 +132,15 @@
 ----------
 ----------
 
-[/us/pl/109/59/s11164/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11164%2Fb%2F4
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1976
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1815
-[/us/pl/93/490/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490%2Fs3%2Fb%2F4
+[/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/stat/88/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1467
-[/us/pl/91/258/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs203%2Fc%2F2
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F239
-[/us/pl/89/44/s601/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs601%2Fi
+[/us/pl/89/44/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVI
 [/us/stat/79/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F155
 
 

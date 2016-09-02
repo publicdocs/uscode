@@ -39,7 +39,7 @@
 
         Except to the extent otherwise provided in regulations, this section shall not apply to any amount paid to a person described in subparagraph (A), (B), (C), (D), (E), or (F) of section 6049(b)(4).
 
-(Added [Pub. L. 99–514, title XV, § 1523(a)][/us/pl/99/514/s1523/a], Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747]; amended [Pub. L. 104–168, title XII, § 1201(a)(12)][/us/pl/104/168/s1201/a/12], July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
+(Added [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1523(a), Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747]; amended [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(12), July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XV, § 1523(d)][/us/pl/99/514/s1523/d], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1523(d), Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986.”
 
@@ -62,15 +62,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1523%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2747
-[/us/pl/104/168/s1201/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F12
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1470
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fb
 [/us/usc/t26/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6041
-[/us/pl/99/514/s1523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1523%2Fd
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2749
 
 

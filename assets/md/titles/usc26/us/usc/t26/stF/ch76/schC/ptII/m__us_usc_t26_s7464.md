@@ -17,7 +17,7 @@
 
     The trustee of the debtor’s estate in any case under title 11 of the United States Code may intervene, on behalf of the debtor’s estate, in any proceeding before the Tax Court to which the debtor is a party.
 
-(Added [Pub. L. 96–589, § 6(c)(1)][/us/pl/96/589/s6/c/1], Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407].)
+(Added [Pub. L. 96–589][/us/pl/96/589], § 6(c)(1), Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407].)
 
  __Prior Provisions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/96/589/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fc%2F1
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3407
 [/us/usc/t26/s7465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7465
 [/us/pl/96/589/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs7%2Fe

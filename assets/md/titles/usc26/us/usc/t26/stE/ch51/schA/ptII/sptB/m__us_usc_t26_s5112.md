@@ -17,11 +17,11 @@
 
     Every person claiming drawback under this subpart shall register annually with the Secretary; keep such books and records as may be necessary to establish the fact that distilled spirits received by him and on which the tax has been determined were used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for use for beverage purposes; and be subject to such rules and regulations in relation thereto as the Secretary shall prescribe to secure the Treasury against frauds.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1345][/us/stat/72/1345], § 5132; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 103–465, title I, § 136(b)][/us/pl/103/465/s136/b], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; renumbered § 5112, [Pub. L. 109–59, title XI, § 11125(b)(3)(A)][/us/pl/109/59/s11125/b/3/A], Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1345][/us/stat/72/1345], § 5132; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 103–465, title I][/us/pl/103/465/tI], § 136(b), Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; renumbered § 5112, [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(3)(A), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953].)
 
  __Prior Provisions__ 
 
-    A prior section 5112, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1340][/us/stat/72/1340], defined “dealer”, “wholesale dealer in liquors”, and “wholesale dealer in beer”, prior to repeal by [Pub. L. 109–59, title XI, § 11125(a)(1)(C)][/us/pl/109/59/s11125/a/1/C], (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+    A prior section 5112, added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1340][/us/stat/72/1340], defined “dealer”, “wholesale dealer in liquors”, and “wholesale dealer in beer”, prior to repeal by [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(1)(C), (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
     Another prior section 5112, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 618][/us/stat/68A/618], contained definitions of wholesale dealers, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
@@ -44,17 +44,17 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1345
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/103/465/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fb
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4841
-[/us/pl/109/59/s11125/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F3%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1340
-[/us/pl/109/59/s11125/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F1%2FC
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F618

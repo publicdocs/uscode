@@ -17,7 +17,7 @@
 
     Amounts paid under the laws of a State, the District of Columbia, a possession of the United States, or a foreign country as income to the holder of a life or terminable interest acquired by gift, bequest, or inheritance shall not be reduced or diminished by any deduction for shrinkage (by whatever name called) in the value of such interest due to the lapse of time.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 83][/us/stat/68A/83]; [Pub. L. 94–455, title XIX, § 1901(c)(2)][/us/pl/94/455/s1901/c/2], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 83][/us/stat/68A/83]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(c)(2), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F83
-[/us/pl/94/455/s1901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F2
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

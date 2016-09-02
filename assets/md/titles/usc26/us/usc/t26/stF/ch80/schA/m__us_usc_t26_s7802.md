@@ -291,7 +291,7 @@
 
                 Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 93–406, title II, § 1051(a)][/us/pl/93/406/s1051/a], Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], (B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–258, § 2(f)(2)][/us/pl/97/258/s2/f/2], Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059]; [Pub. L. 100–647, title VI, § 6235(a)][/us/pl/100/647/s6235/a], Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737]; [Pub. L. 104–168, title I, § 101(a)][/us/pl/104/168/s101/a], (b)(2), July 30, 1996, [110 Stat. 1453][/us/stat/110/1453], 1455; [Pub. L. 105–206, title I, § 1101(a)][/us/pl/105/206/s1101/a], July 22, 1998, [112 Stat. 691][/us/stat/112/691]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(27)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1051(a), Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), (B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–258][/us/pl/97/258], § 2(f)(2), Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6235(a), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737]; [Pub. L. 104–168, title I][/us/pl/104/168/tI], § 101(a), (b)(2), July 30, 1996, [110 Stat. 1453][/us/stat/110/1453], 1455; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1101(a), July 22, 1998, [112 Stat. 691][/us/stat/112/691]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(27)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648.)
 
  __References in Text__ 
 
@@ -303,17 +303,17 @@
 
     1998—[Pub. L. 105–206][/us/pl/105/206] amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See [section 7803 of this title][/us/usc/t26/s7803].
 
-    1996—[Pub. L. 104–168, § 101(b)(2)][/us/pl/104/168/s101/b/2], substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
+    1996—[Pub. L. 104–168][/us/pl/104/168], § 101(b)(2), substituted “Commissioners; Taxpayer Advocate.” for “Commissioner (Employee Plans and Exempt Organizations)” in section catchline.
 
-    Subsec. (d). [Pub. L. 104–168, § 101(a)][/us/pl/104/168/s101/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–168][/us/pl/104/168], § 101(a), added subsec. (d).
 
     1988—Subsec. (c). [Pub. L. 100–647][/us/pl/100/647] added subsec. (c).
 
     1982—Subsec. (b). [Pub. L. 97–258][/us/pl/97/258] redesignated existing provisions as par. (1), added par. (1) heading, and added par. (2). Par. (2) is based on provisions that appeared in section 1037 of former Title 31, Money and Finance, prior to enactment of Title 31 by [Pub. L. 97–258][/us/pl/97/258].
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” after “prescribed by the”.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1974—[Pub. L. 93–406][/us/pl/93/406] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -325,7 +325,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title I, § 1101(d)][/us/pl/105/206/s1101/d], July 22, 1998, [112 Stat. 697][/us/stat/112/697], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1101(d), July 22, 1998, [112 Stat. 697][/us/stat/112/697], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -341,19 +341,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title I, § 101(c)][/us/pl/104/168/s101/c], July 30, 1996, [110 Stat. 1456][/us/stat/110/1456], provided that: 
+[Pub. L. 104–168, title I][/us/pl/104/168/tI], § 101(c), July 30, 1996, [110 Stat. 1456][/us/stat/110/1456], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7811 of this title][/us/usc/t26/s7811]\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6235(c)][/us/pl/100/647/s6235/c], Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6235(c), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date 180 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–406, title II, § 1051(d)][/us/pl/93/406/s1051/d], Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], provided that: 
+[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1051(d), Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
 
@@ -369,19 +369,19 @@
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F915
-[/us/pl/93/406/s1051/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1051%2Fa
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F951
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/258/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Ff%2F2
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1059
-[/us/pl/100/647/s6235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6235%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3737
-[/us/pl/104/168/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs101%2Fa
+[/us/pl/104/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtI
 [/us/stat/110/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1453
-[/us/pl/105/206/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1101%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F691
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -389,22 +389,22 @@
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/usc/t26/s7803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7803
-[/us/pl/104/168/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs101%2Fb%2F2
-[/us/pl/104/168/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs101%2Fa
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
-[/us/pl/105/206/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1101%2Fd
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F697
-[/us/pl/104/168/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs101%2Fc
+[/us/pl/104/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtI
 [/us/stat/110/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1456
 [/us/usc/t26/s7811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7811
-[/us/pl/100/647/s6235/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6235%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3737
-[/us/pl/93/406/s1051/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1051%2Fd
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F951
 
 

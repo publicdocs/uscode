@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1903(b)][/us/pl/94/455/s1903/b], Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810], struck out item 3113 “District of Columbia credit unions”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1903(b), Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810], struck out item 3113 “District of Columbia credit unions”.
 
-    1956—[Act Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 201(a)(2), [70 Stat. 839][/us/stat/70/839], added item 3113.
+    1956—[Act Aug. 1, 1956, ch. 836, title II][/us/act/1956-08-01/ch836/tII], § 201(a)(2), [70 Stat. 839][/us/stat/70/839], added item 3113.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fb
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1810
-[/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
+[/us/act/1956-08-01/ch836/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836%2FtII
 [/us/stat/70/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F839
 
 

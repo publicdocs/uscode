@@ -33,7 +33,7 @@
 
         Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing the information relating to such person required to be contained in such return. The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added [Pub. L. 94–455, title XII, § 1207(e)(3)(A)][/us/pl/94/455/s1207/e/3/A], Oct. 4, 1976, [90 Stat. 1707][/us/stat/90/1707]; amended [Pub. L. 99–514, title XV, § 1501(c)(6)][/us/pl/99/514/s1501/c/6], Oct. 22, 1986, [100 Stat. 2737][/us/stat/100/2737]; [Pub. L. 104–188, title I, § 1116(a)(1)(C)][/us/pl/104/188/s1116/a/1/C], Aug. 20, 1996, [110 Stat. 1762][/us/stat/110/1762].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1207(e)(3)(A), Oct. 4, 1976, [90 Stat. 1707][/us/stat/90/1707]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(6), Oct. 22, 1986, [100 Stat. 2737][/us/stat/100/2737]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1116(a)(1)(C), Aug. 20, 1996, [110 Stat. 1762][/us/stat/110/1762].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1207/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1207%2Fe%2F3%2FA
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1707
-[/us/pl/99/514/s1501/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F6
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2737
-[/us/pl/104/188/s1116/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1116%2Fa%2F1%2FC
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1762
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

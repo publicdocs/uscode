@@ -23,7 +23,7 @@
 
         For provision permitting immediate levy in case of jeopardy, see section 6331(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 836][/us/stat/68A/836]; [Pub. L. 93–406, title II, § 1016(a)(25)][/us/pl/93/406/s1016/a/25], Sept. 2, 1974, [88 Stat. 931][/us/stat/88/931]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–222, title I, § 108(b)(1)(C)][/us/pl/96/222/s108/b/1/C], Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 96–223, title I, § 101(f)(9)][/us/pl/96/223/s101/f/9], Apr. 2, 1980, [94 Stat. 253][/us/stat/94/253]; [Pub. L. 100–418, title I, § 1941(b)(2)(N)][/us/pl/100/418/s1941/b/2/N], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 836][/us/stat/68A/836]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(a)(25), Sept. 2, 1974, [88 Stat. 931][/us/stat/88/931]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 108(b)(1)(C), Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(f)(9), Apr. 2, 1980, [94 Stat. 253][/us/stat/94/253]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(2)(N), Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324].)
 
  __Amendments__ 
 
@@ -60,15 +60,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F836
-[/us/pl/93/406/s1016/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F25
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F931
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/222/s108/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs108%2Fb%2F1%2FC
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F226
-[/us/pl/96/223/s101/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Ff%2F9
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F253
-[/us/pl/100/418/s1941/b/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FN
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1324
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223

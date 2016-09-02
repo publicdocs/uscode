@@ -149,7 +149,7 @@
 
         (2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2078][/us/stat/110/2078]; amended [Pub. L. 105–34, title XV, § 1532(a)][/us/pl/105/34/s1532/a], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 110–233, title I, § 103(a)][/us/pl/110/233/s103/a]–(c), May 21, 2008, [122 Stat. 896][/us/stat/122/896], 897; [Pub. L. 113–295, div. A, title II, § 220(aa)][/us/pl/113/295/s220/aa], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2078][/us/stat/110/2078]; amended [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1532(a), Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(a)–(c), May 21, 2008, [122 Stat. 896][/us/stat/122/896], 897; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(aa), Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
 
  __References in Text__ 
 
@@ -161,33 +161,33 @@
 
     2014—Subsecs. (f), (g). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (f) relating to genetic information of a fetus or embryo as (g).
 
-    2008—Subsec. (b)(2)(A). [Pub. L. 110–233, § 103(a)(1)][/us/pl/110/233/s103/a/1], inserted “except as provided in paragraph (3)” before semicolon.
+    2008—Subsec. (b)(2)(A). [Pub. L. 110–233][/us/pl/110/233], § 103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
-    Subsec. (b)(3). [Pub. L. 110–233, § 103(a)(2)][/us/pl/110/233/s103/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 110–233][/us/pl/110/233], § 103(a)(2), added par. (3).
 
-    Subsecs. (c) to (e). [Pub. L. 110–233, § 103(b)][/us/pl/110/233/s103/b], added subsecs. (c) to (e). Former subsec. (c) redesignated (f) relating to special rules for church plans.
+    Subsecs. (c) to (e). [Pub. L. 110–233][/us/pl/110/233], § 103(b), added subsecs. (c) to (e). Former subsec. (c) redesignated (f) relating to special rules for church plans.
 
-    Subsec. (f). [Pub. L. 110–233, § 103(c)][/us/pl/110/233/s103/c], added subsec. (f) relating to genetic information of a fetus or embryo.
+    Subsec. (f). [Pub. L. 110–233][/us/pl/110/233], § 103(c), added subsec. (f) relating to genetic information of a fetus or embryo.
 
-    [Pub. L. 110–233, § 103(b)][/us/pl/110/233/s103/b], redesignated subsec. (c) as (f) relating to special rules for church plans.
+    [Pub. L. 110–233][/us/pl/110/233], § 103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] added subsec. (c).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–233, title I, § 103(f)(2)][/us/pl/110/233/s103/f/2], May 21, 2008, [122 Stat. 899][/us/stat/122/899], provided that: 
+[Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(f)(2), May 21, 2008, [122 Stat. 899][/us/stat/122/899], provided that: 
 
 > “The amendments made by this section \[enacting [section 9834 of this title][/us/usc/t26/s9834] and amending this section and [section 9832 of this title][/us/usc/t26/s9832]\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XV, § 1532(b)][/us/pl/105/34/s1532/b], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], provided that: 
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1532(b), Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\].”
 
  __Regulations__ 
 
-[Pub. L. 110–233, title I, § 103(f)(1)][/us/pl/110/233/s103/f/1], May 21, 2008, [122 Stat. 899][/us/stat/122/899], provided that: 
+[Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(f)(1), May 21, 2008, [122 Stat. 899][/us/stat/122/899], provided that: 
 
 > “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act \[May 21, 2008\] to carry out the amendments made by this section \[enacting [section 9834 of this title][/us/usc/t26/s9834] and amending this section and [section 9832 of this title][/us/usc/t26/s9832]\].”
 
@@ -198,13 +198,13 @@
 ----------
 ----------
 
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2078
-[/us/pl/105/34/s1532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1532%2Fa
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
-[/us/pl/110/233/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F896
-[/us/pl/113/295/s220/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Faa
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -212,20 +212,20 @@
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/110/233/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa%2F1
-[/us/pl/110/233/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa%2F2
-[/us/pl/110/233/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fb
-[/us/pl/110/233/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fc
-[/us/pl/110/233/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fb
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/110/233/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Ff%2F2
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F899
 [/us/usc/t26/s9834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9834
 [/us/usc/t26/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9832
-[/us/pl/105/34/s1532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1532%2Fb
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/pl/110/233/s103/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Ff%2F1
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F899
 [/us/usc/t26/s9834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9834
 [/us/usc/t26/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9832

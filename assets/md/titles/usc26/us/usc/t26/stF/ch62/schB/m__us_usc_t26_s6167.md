@@ -85,19 +85,19 @@
 
         For extension of the period of limitation in the case of an extension under this section, see section 6503(e).
 
-(Added [Pub. L. 89–384, § 1(d)][/us/pl/89/384/s1/d], Apr. 8, 1966, [80 Stat. 102][/us/stat/80/102]; amended [Pub. L. 93–625, § 7(d)(2)][/us/pl/93/625/s7/d/2], (3), Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 114–41, title II, § 2006(a)(2)(D)][/us/pl/114/41/s2006/a/2/D], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
+(Added [Pub. L. 89–384][/us/pl/89/384], § 1(d), Apr. 8, 1966, [80 Stat. 102][/us/stat/80/102]; amended [Pub. L. 93–625][/us/pl/93/625], § 7(d)(2), (3), Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2006(a)(2)(D), July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
 
     2015—Subsecs. (a), (c). [Pub. L. 114–41][/us/pl/114/41] substituted “fourth month” for “third month” in concluding provisions.
 
-    1976—Subsecs. (a), (b), (d), (e), (g). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (a), (b), (d), (e), (g). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (h). [Pub. L. 94–455][/us/pl/94/455], §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted “section 6503(e)” for “section 6503(f)”, and struck out “or his delegate” after “Secretary”.
 
-    1975—Subsec. (e). [Pub. L. 93–625, § 7(d)(2)][/us/pl/93/625/s7/d/2], struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
+    1975—Subsec. (e). [Pub. L. 93–625][/us/pl/93/625], § 7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
-    Subsec. (h). [Pub. L. 93–625, § 7(d)(3)][/us/pl/93/625/s7/d/3], struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under [section 6601(j) of this title][/us/usc/t26/s6601/j], and redesignated pars. (2) and (3) as (1) and (2), respectively.
+    Subsec. (h). [Pub. L. 93–625][/us/pl/93/625], § 7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under [section 6601(j) of this title][/us/usc/t26/s6601/j], and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -122,19 +122,19 @@
 ----------
 ----------
 
-[/us/pl/89/384/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs1%2Fd
+[/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/stat/80/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F102
-[/us/pl/93/625/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs7%2Fd%2F2
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2115
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1806
-[/us/pl/114/41/s2006/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FD
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/625/s7/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs7%2Fd%2F2
-[/us/pl/93/625/s7/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs7%2Fd%2F3
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/usc/t26/s6601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6601%2Fj
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3

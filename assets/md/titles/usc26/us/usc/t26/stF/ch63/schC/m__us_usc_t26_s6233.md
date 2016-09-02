@@ -23,11 +23,11 @@
 
         If a partnership return is filed for any taxable year but it is determined that there is no entity for such taxable year, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
 
-(Added [Pub. L. 98–369, div. A, title VII, § 714(p)(1)][/us/pl/98/369/s714/p/1], July 18, 1984, [98 Stat. 964][/us/stat/98/964]; amended [Pub. L. 104–188, title I, § 1307(c)(3)(B)][/us/pl/104/188/s1307/c/3/B], Aug. 20, 1996, [110 Stat. 1782][/us/stat/110/1782].)
+(Added [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(p)(1), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1307(c)(3)(B), Aug. 20, 1996, [110 Stat. 1782][/us/stat/110/1782].)
 
  __Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 633, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6233 is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 633, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6233 is enacted to read as follows:
 
 >     § 6233. Interest and penalties
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/98/369/s714/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F964
-[/us/pl/104/188/s1307/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fc%2F3%2FB
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1782
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg

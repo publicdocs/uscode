@@ -17,7 +17,7 @@
 
     The amounts appropriated by any section of subchapter A to any Trust Fund established by such subchapter shall be transferred at least monthly from the general fund of the Treasury to such Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such section. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
 
-(Added [Pub. L. 97–119, title I, § 103(a)][/us/pl/97/119/s103/a], Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638].)
+(Added [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 103(a), Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/119/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs103%2Fa
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1638
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6658.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6659...6661.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
 
 ##### PART II—ACCURACY-RELATED AND FRAUD PENALTIES
 
@@ -59,20 +59,20 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 812(e)(2)][/us/pl/108/357/s812/e/2], Oct. 22, 2004, [118 Stat. 1580][/us/stat/118/1580], added items 6662 and 6662A and struck out former item 6662 “Imposition of accuracy-related penalty”.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 812(e)(2), Oct. 22, 2004, [118 Stat. 1580][/us/stat/118/1580], added items 6662 and 6662A and struck out former item 6662 “Imposition of accuracy-related penalty”.
 
-    1989—[Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395], added part heading and analysis of sections.
-
-----------
-
-[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6658.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
+    1989—[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(a), Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395], added part heading and analysis of sections.
 
 ----------
+
+[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6659...6661.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
+
+----------
 ----------
 
-[/us/pl/108/357/s812/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fe%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1580
-[/us/pl/101/239/s7721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2395
 
 

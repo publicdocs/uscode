@@ -45,7 +45,7 @@
 
                 If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico’s withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 358][/us/stat/68A/358]; [Pub. L. 89–809, title I, § 104(c)][/us/pl/89/809/s104/c], Nov. 13, 1966, [80 Stat. 1557][/us/stat/80/1557]; [Pub. L. 92–178, title III, § 313(e)][/us/pl/92/178/s313/e], Dec. 10, 1971, [85 Stat. 528][/us/stat/85/528]; [Pub. L. 92–606, § 1(e)(2)][/us/pl/92/606/s1/e/2], Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 127(e)(2), 130(b), title IV, § 474(r)(29)(I), July 18, 1984, [98 Stat. 652][/us/stat/98/652], 661, 845; [Pub. L. 99–514, title XII, § 1273(b)(2)(B)][/us/pl/99/514/s1273/b/2/B], title XVIII, § 1810(d)(3)(E), Oct. 22, 1986, [100 Stat. 2596][/us/stat/100/2596], 2825; [Pub. L. 100–647, title I, § 1012(g)(7)][/us/pl/100/647/s1012/g/7], Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 103–66, title XIII, § 13237(c)(5)][/us/pl/103/66/s13237/c/5], Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 411(a)(3)(B), 420(b), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1513.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 358][/us/stat/68A/358]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(c), Nov. 13, 1966, [80 Stat. 1557][/us/stat/80/1557]; [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 313(e), Dec. 10, 1971, [85 Stat. 528][/us/stat/85/528]; [Pub. L. 92–606][/us/pl/92/606], § 1(e)(2), Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], §§ 127(e)(2), 130(b), title IV, § 474(r)(29)(I), July 18, 1984, [98 Stat. 652][/us/stat/98/652], 661, 845; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1273(b)(2)(B), title XVIII, § 1810(d)(3)(E), Oct. 22, 1986, [100 Stat. 2596][/us/stat/100/2596], 2825; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(g)(7), Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13237(c)(5), Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], §§ 411(a)(3)(B), 420(b), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1513.)
 
  __References in Text__ 
 
@@ -53,23 +53,23 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 411(a)(3)(B)][/us/pl/108/357/s411/a/3/B], substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 411(a)(3)(B), substituted “the reference in section 1441(c)(10)” for “and the reference in section 1441(c)(10)” and inserted before period at end “, and the references in section 1441(c)(12) to sections 871(a) and 871(k) shall be treated as referring to sections 881(a) and 881(e) (except that for purposes of applying subparagraph (A) of section 1441(c)(12), as so modified, clause (ii) of section 881(e)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause)”.
 
-    Subsec. (c). [Pub. L. 108–357, § 420(b)][/us/pl/108/357/s420/b], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (c). [Pub. L. 108–357][/us/pl/108/357], § 420(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     1993—Subsec. (a). [Pub. L. 103–66][/us/pl/103/66] substituted “871(h)(3) or (4)” for “871(h)(3)” and “881(c)(3) or (4)” for “881(c)(3)”.
 
     1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647] struck out “and” after “to section 881(a)(3),” and inserted before period at end “, and the reference in section 1441(c)(10) to section 871(i)(2) shall be treated as referring to section 881(d)”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1810(d)(3)(E)][/us/pl/99/514/s1810/d/3/E], substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1810(d)(3)(E), substituted “871(h)” for “871(h)(2)”, “881(c)” for “881(c)(2)”, and “1441(c)(9)” for “1449(c)(9)”.
 
-    Subsec. (c). [Pub. L. 99–514, § 1273(b)(2)(B)][/us/pl/99/514/s1273/b/2/B], amended subsec. (c) generally, substituting reference to “certain possessions corporations” for reference to “certain Guam and Virgin Islands corporations” in heading, and in text extending “foreign corporation” exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1273(b)(2)(B), amended subsec. (c) generally, substituting reference to “certain possessions corporations” for reference to “certain Guam and Virgin Islands corporations” in heading, and in text extending “foreign corporation” exception so as to not include corporation created or organized in Guam, American Samoa, Northern Mariana Islands, or the Virgin Islands, and striking out par. (2) which declared that par. (1) not apply to tax imposed in Guam, and par. (3) which referred to sections 934 and 943a for tax imposed in Virgin Islands.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 474(r)(29)(I)][/us/pl/98/369/s474/r/29/I], struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(29)(I), struck out “or section 1451” after “provided in section 1441” and struck out “; except that, in the case of interest described in section 1451 (relating to tax-free covenant bonds), the deduction and withholding shall be at the rate specified therein” after “a tax equal to 30 percent thereof”.
 
-    [Pub. L. 98–369, § 127(e)(2)][/us/pl/98/369/s127/e/2], struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
+    [Pub. L. 98–369][/us/pl/98/369], § 127(e)(2), struck out “and” after “section 881(a)(4),” and inserted “, and the references in section 1449(c)(9) to sections 871(h)(2) and 871(h)(3) shall be treated as referring to sections 881(c)(2) and 881(c)(3)”.
 
-    Subsec. (c). [Pub. L. 98–369, § 130(b)][/us/pl/98/369/s130/b], substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 130(b), substituted provision relating to exception for certain Guam and Virgin Islands corporations for provision relating to exception for Guam corporations.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in two places.
 
@@ -97,7 +97,7 @@
 
     Amendment by [section 1273(b)(2)(B) of Pub. L. 99–514][/us/pl/99/514/s1273/b/2/B] applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see [section 1277 of Pub. L. 99–514][/us/pl/99/514/s1277], set out as a note under [section 931 of this title][/us/usc/t26/s931].
 
-    Amendment by [section 1810(d)(3)(E) of Pub. L. 99–514][/us/pl/99/514/s1810/d/3/E] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1810(d)(3)(E) of Pub. L. 99–514][/us/pl/99/514/s1810/d/3/E] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–606, § 2][/us/pl/92/606/s2], Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497], provided in part that: 
+[Pub. L. 92–606][/us/pl/92/606], § 2, Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497], provided in part that: 
 
 > “The amendment made by section 1(e)(2) \[amending this section\] shall take effect on the day after the date of enactment of this Act \[Oct. 31, 1972\].”
 
@@ -127,7 +127,7 @@
 
  __Withholding of Tax on Nonresident Aliens and Foreign Corporations__ 
 
-    For provisions relating to withholding of tax on nonresident aliens and foreign corporations, see [Pub. L. 97–248, title III, § 342][/us/pl/97/248/s342], Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635], set out as a note under [section 1441 of this title][/us/usc/t26/s1441].
+    For provisions relating to withholding of tax on nonresident aliens and foreign corporations, see [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 342, Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635], set out as a note under [section 1441 of this title][/us/usc/t26/s1441].
 
 ----------
 
@@ -138,34 +138,34 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F358
-[/us/pl/89/809/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fc
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1557
-[/us/pl/92/178/s313/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs313%2Fe
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F528
-[/us/pl/92/606/s1/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs1%2Fe%2F2
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1497
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F652
-[/us/pl/99/514/s1273/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1273%2Fb%2F2%2FB
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2596
-[/us/pl/100/647/s1012/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fg%2F7
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3501
-[/us/pl/103/66/s13237/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13237%2Fc%2F5
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F508
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1504
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s411/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs411%2Fa%2F3%2FB
-[/us/pl/108/357/s420/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs420%2Fb
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1810/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Fd%2F3%2FE
-[/us/pl/99/514/s1273/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1273%2Fb%2F2%2FB
-[/us/pl/98/369/s474/r/29/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F29%2FI
-[/us/pl/98/369/s127/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs127%2Fe%2F2
-[/us/pl/98/369/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs130%2Fb
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
@@ -187,7 +187,7 @@
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
 [/us/pl/99/514/s1810/d/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Fd%2F3%2FE
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s127/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs127%2Fe%2F2
@@ -199,7 +199,7 @@
 [/us/pl/98/369/s474/r/29/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F29%2FI
 [/us/pl/98/369/s475/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs475%2Fb
 [/us/usc/t26/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs33
-[/us/pl/92/606/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs2
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1497
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/pl/92/178/s313/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs313%2Ff
@@ -210,7 +210,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/97/248/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs342
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F635
 [/us/usc/t26/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1441
 

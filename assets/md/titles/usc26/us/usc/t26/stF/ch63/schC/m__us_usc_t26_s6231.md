@@ -197,11 +197,11 @@
 
             If, on the basis of a partnership return for a taxable year, the Secretary reasonably determines that this subchapter does not apply to such partnership for such year but such determination is erroneous, then the provisions of this subchapter shall not apply to such partnership (and its items) for such taxable year or to partners of such partnership.
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 663][/us/stat/96/663]; amended [Pub. L. 98–369, div. A, title VII, § 714(p)(2)(B)][/us/pl/98/369/s714/p/2/B]–(D), (I), July 18, 1984, [98 Stat. 964][/us/stat/98/964], 965; [Pub. L. 105–34, title XI, § 1141(b)][/us/pl/105/34/s1141/b], title XII, §§ 1232(a), 1234(a), Aug. 5, 1997, [111 Stat. 981][/us/stat/111/981], 1023, 1024; [Pub. L. 105–206, title III, § 3507(a)][/us/pl/105/206/s3507/a], July 22, 1998, [112 Stat. 772][/us/stat/112/772]; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 416(d)(1)(C), 417(19)(C), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55], 57.)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 663][/us/stat/96/663]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(p)(2)(B)–(D), (I), July 18, 1984, [98 Stat. 964][/us/stat/98/964], 965; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1141(b), title XII, §§ 1232(a), 1234(a), Aug. 5, 1997, [111 Stat. 981][/us/stat/111/981], 1023, 1024; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3507(a), July 22, 1998, [112 Stat. 772][/us/stat/112/772]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], §§ 416(d)(1)(C), 417(19)(C), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55], 57.)
 
  __Enactment of Part and Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 632, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 1 \[sic\] heading “Procedure” and analysis consisting of items 6231 to 6235 are enacted, this section is repealed, and a new section 6231 following the Part 1 analysis is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 632, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part 1 \[sic\] heading “Procedure” and analysis consisting of items 6231 to 6235 are enacted, this section is repealed, and a new section 6231 following the Part 1 analysis is enacted to read as follows:
 
 >     § 6231. Notice of proceedings and adjustment
 
@@ -227,13 +227,13 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1)(C). [Pub. L. 107–147, § 416(d)(1)(C)][/us/pl/107/147/s416/d/1/C], inserted “or the Attorney General (or his delegate)” after “Secretary”.
+    2002—Subsec. (b)(1)(C). [Pub. L. 107–147][/us/pl/107/147], § 416(d)(1)(C), inserted “or the Attorney General (or his delegate)” after “Secretary”.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 107–147, § 417(19)(C)][/us/pl/107/147/s417/19/C], substituted “section 6227(d)” for “section 6227(c)”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 107–147][/us/pl/107/147], § 417(19)(C), substituted “section 6227(d)” for “section 6227(c)”.
 
     1998—Subsec. (a)(7). [Pub. L. 105–206][/us/pl/105/206] inserted at end “The Secretary shall, within 30 days of selecting a tax matters partner under the preceding sentence, notify all partners required to receive notice under section 6223(a) of the name and address of the person selected.”
 
-    1997—Subsec. (a)(1)(B)(i). [Pub. L. 105–34, § 1234(a)][/us/pl/105/34/s1234/a], reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
+    1997—Subsec. (a)(1)(B)(i). [Pub. L. 105–34][/us/pl/105/34], § 1234(a), reenacted heading of cl. (i) without change and amended text generally. Prior to amendment, text read as follows: “The term ‘partnership’ shall not include any partnership if—
 
     “(I) such partnership has 10 or fewer partners each of whom is a natural person (other than a nonresident alien) or an estate, and
 
@@ -241,17 +241,17 @@
 
     For purposes of the preceding sentence, a husband and wife (and their estates) shall be treated as 1 partner.”
 
-    Subsec. (f). [Pub. L. 105–34, § 1141(b)][/us/pl/105/34/s1141/b], substituted “deductions, losses, and” for “losses and” in subsec. heading and “deduction, loss, or” for “loss or” in two places in text.
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1141(b), substituted “deductions, losses, and” for “losses and” in subsec. heading and “deduction, loss, or” for “loss or” in two places in text.
 
-    Subsec. (g). [Pub. L. 105–34, § 1232(a)][/us/pl/105/34/s1232/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–34][/us/pl/105/34], § 1232(a), added subsec. (g).
 
-    1984—Subsec. (a)(9). [Pub. L. 98–369, § 714(p)(2)(B)][/us/pl/98/369/s714/p/2/B], substituted “S corporation” for “electing small business corporation”.
+    1984—Subsec. (a)(9). [Pub. L. 98–369][/us/pl/98/369], § 714(p)(2)(B), substituted “S corporation” for “electing small business corporation”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–369, § 714(p)(2)(I)][/us/pl/98/369/s714/p/2/I], substituted section “6227(c)” for “6227(b)”.
+    Subsec. (b)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 714(p)(2)(I), substituted section “6227(c)” for “6227(b)”.
 
-    Subsec. (d)(1)(A). [Pub. L. 98–369, § 714(p)(2)(C)][/us/pl/98/369/s714/p/2/C], amended subpar. (A) generally, substituting “disposed of” and “disposition” for “liquidated, sold, or exchanged” and “liquidation, sale, or exchange”, respectively.
+    Subsec. (d)(1)(A). [Pub. L. 98–369][/us/pl/98/369], § 714(p)(2)(C), amended subpar. (A) generally, substituting “disposed of” and “disposition” for “liquidated, sold, or exchanged” and “liquidation, sale, or exchange”, respectively.
 
-    Subsec. (f). [Pub. L. 98–369, § 714(p)(2)(D)][/us/pl/98/369/s714/p/2/D], substituted “such loss or credit” for “such deduction or credit”.
+    Subsec. (f). [Pub. L. 98–369][/us/pl/98/369], § 714(p)(2)(D), substituted “such loss or credit” for “such deduction or credit”.
 
  __Effective Date of Repeal and Reenactment__ 
 
@@ -263,7 +263,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3507(b)][/us/pl/105/206/s3507/b], July 22, 1998, [112 Stat. 772][/us/stat/112/772], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3507(b), July 22, 1998, [112 Stat. 772][/us/stat/112/772], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to selections of tax matters partners made by the Secretary of the Treasury after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -271,11 +271,11 @@
 
     Amendment by [section 1141(b) of Pub. L. 105–34][/us/pl/105/34/s1141/b] applicable to taxable years beginning after Aug. 5, 1997, see [section 1141(c) of Pub. L. 105–34][/us/pl/105/34/s1141/c], set out as a note under [section 6031 of this title][/us/usc/t26/s6031].
 
-[Pub. L. 105–34, title XII, § 1232(b)][/us/pl/105/34/s1232/b], Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1232(b), Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–34, title XII, § 1234(b)][/us/pl/105/34/s1234/b], Aug. 5, 1997, [111 Stat. 1024][/us/stat/111/1024], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1234(b), Aug. 5, 1997, [111 Stat. 1024][/us/stat/111/1024], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -285,7 +285,7 @@
 
  __Special Rule for Certain International Satellite Partnerships__ 
 
-[Pub. L. 97–248, title IV, § 406][/us/pl/97/248/s406], Sept. 3, 1982, [96 Stat. 670][/us/stat/96/670], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 406, Sept. 3, 1982, [96 Stat. 670][/us/stat/96/670], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
 
@@ -296,49 +296,49 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F663
-[/us/pl/98/369/s714/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FB
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F964
-[/us/pl/105/34/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1141%2Fb
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F981
-[/us/pl/105/206/s3507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3507%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F772
-[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/107/147/s416/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FC
-[/us/pl/107/147/s417/19/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FC
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1234%2Fa
-[/us/pl/105/34/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1141%2Fb
-[/us/pl/105/34/s1232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1232%2Fa
-[/us/pl/98/369/s714/p/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FB
-[/us/pl/98/369/s714/p/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FI
-[/us/pl/98/369/s714/p/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FC
-[/us/pl/98/369/s714/p/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FD
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
 [/us/pl/107/147/s416/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FC
 [/us/pl/107/147/s416/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F2
 [/us/usc/t26/s6224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6224
-[/us/pl/105/206/s3507/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3507%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F772
 [/us/pl/105/34/s1141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1141%2Fb
 [/us/pl/105/34/s1141/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1141%2Fc
 [/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
-[/us/pl/105/34/s1232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1232%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1023
-[/us/pl/105/34/s1234/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1234%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1024
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/98/369/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs715
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31
-[/us/pl/97/248/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs406
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F670
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

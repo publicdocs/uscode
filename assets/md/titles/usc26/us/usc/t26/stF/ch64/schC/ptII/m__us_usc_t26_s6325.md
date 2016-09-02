@@ -131,7 +131,7 @@
 
         For provisions relating to bonds, see chapter 73 (sec. 7101 and following).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 85–866, title I, § 77][/us/pl/85/866/s77], Nov. 2, 1966, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 89–719, title I, § 103(a)][/us/pl/89/719/s103/a], Nov. 2, 1966, [80 Stat. 1133][/us/stat/80/1133]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title V, § 513(a)][/us/pl/95/600/s513/a], Nov. 6, 1978, [92 Stat. 2883][/us/stat/92/2883]; [Pub. L. 97–248, title III, § 348(a)][/us/pl/97/248/s348/a], Sept. 3, 1982, [96 Stat. 638][/us/stat/96/638]; [Pub. L. 105–206, title III, § 3106(a)][/us/pl/105/206/s3106/a], July 22, 1998, [112 Stat. 732][/us/stat/112/732].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 77, Nov. 2, 1966, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 103(a), Nov. 2, 1966, [80 Stat. 1133][/us/stat/80/1133]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 513(a), Nov. 6, 1978, [92 Stat. 2883][/us/stat/92/2883]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 348(a), Sept. 3, 1982, [96 Stat. 638][/us/stat/96/638]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3106(a), July 22, 1998, [112 Stat. 732][/us/stat/112/732].)
 
  __Amendments__ 
 
@@ -153,23 +153,23 @@
 
     Subsec. (h). [Pub. L. 89–719][/us/pl/89/719] redesignated as subsec. (h) provisions formerly constituting subsec. (e) and struck out cross references for single bonds, suits to enforce liens, and suits to clear title to realty.
 
-    1958—Subsec. (a)(1). [Pub. L. 85–866, § 77(1)][/us/pl/85/866/s77/1], substituted “or” for “,” after “satisfied” and struck out “, or, in the case of the estate tax imposed by chapter 11 or the gift tax imposed by chapter 12, has been fully satisfied or provided for” after “unenforceable”.
+    1958—Subsec. (a)(1). [Pub. L. 85–866][/us/pl/85/866], § 77(1), substituted “or” for “,” after “satisfied” and struck out “, or, in the case of the estate tax imposed by chapter 11 or the gift tax imposed by chapter 12, has been fully satisfied or provided for” after “unenforceable”.
 
-    Subsec. (c). [Pub. L. 85–866, § 77(2)][/us/pl/85/866/s77/2], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsec. (c). [Pub. L. 85–866][/us/pl/85/866], § 77(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     Subsec. (d). [Pub. L. 85–866][/us/pl/85/866]. § 77(2), (3), redesignated former subsec. (c) as (d) and in heading and text struck out “partial” before “discharge”. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 85–866, § 77(2)][/us/pl/85/866/s77/2], redesignated former subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 85–866][/us/pl/85/866], § 77(2), redesignated former subsec. (d) as (e).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3106(c)][/us/pl/105/206/s3106/c], July 22, 1998, [112 Stat. 734][/us/stat/112/734], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3106(c), July 22, 1998, [112 Stat. 734][/us/stat/112/734], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6503 and 7426 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title III, § 348(b)][/us/pl/97/248/s348/b], Sept. 3, 1982, [96 Stat. 638][/us/stat/96/638], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 348(b), Sept. 3, 1982, [96 Stat. 638][/us/stat/96/638], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to liens—
 
@@ -181,7 +181,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title V, § 513(b)][/us/pl/95/600/s513/b], Nov. 6, 1978, [92 Stat. 2883][/us/stat/92/2883], provided that: 
+[Pub. L. 95–600, title V][/us/pl/95/600/tV], § 513(b), Nov. 6, 1978, [92 Stat. 2883][/us/stat/92/2883], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
@@ -202,17 +202,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F783
-[/us/pl/85/866/s77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs77
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1662
-[/us/pl/89/719/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs103%2Fa
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1133
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs513%2Fa
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2883
-[/us/pl/97/248/s348/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs348%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F638
-[/us/pl/105/206/s3106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3106%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F732
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -223,15 +223,15 @@
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
-[/us/pl/85/866/s77/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs77%2F1
-[/us/pl/85/866/s77/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs77%2F2
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/pl/85/866/s77/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs77%2F2
-[/us/pl/105/206/s3106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3106%2Fc
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F734
-[/us/pl/97/248/s348/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs348%2Fb
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F638
-[/us/pl/95/600/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs513%2Fb
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2883
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719

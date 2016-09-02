@@ -33,7 +33,7 @@
 
         The application of this part to a corporation shall be determined without regard to the number of shareholders of such corporation.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 179][/us/stat/68A/179]; [Pub. L. 98–369, div. A, title I, § 58(a)][/us/pl/98/369/s58/a], July 18, 1984, [98 Stat. 574][/us/stat/98/574]; [Pub. L. 99–514, title XII, § 1235(f)(1)][/us/pl/99/514/s1235/f/1], Oct. 22, 1986, [100 Stat. 2575][/us/stat/100/2575]; [Pub. L. 105–34, title XI, § 1122(d)(1)][/us/pl/105/34/s1122/d/1], Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977]; [Pub. L. 109–135, title IV, § 403(n)(1)][/us/pl/109/135/s403/n/1], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 179][/us/stat/68A/179]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 58(a), July 18, 1984, [98 Stat. 574][/us/stat/98/574]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(f)(1), Oct. 22, 1986, [100 Stat. 2575][/us/stat/100/2575]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1122(d)(1), Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(n)(1), Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1124][/us/pl/105/34/s1124], Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1124, Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978], provided that: 
 
 > “The amendments made by this subtitle \[subtitle C (§§ 1121–1124) of title XI of [Pub. L. 105–34][/us/pl/105/34], enacting [section 1296 of this title][/us/usc/t26/s1296], amending this section and sections 542, 551, 852, 1291, 1293, 1296 to 1298, and 4982 of this title, redesignating subpart C of part VI of subchapter P of this chapter as subpart D of part VI of subchapter P of this chapter, and renumbering sections 1296 and 1297 of this title as sections 1297 and 1298, respectively, of this title\] shall apply to—
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 58(c)][/us/pl/98/369/s58/c], July 18, 1984, [98 Stat. 576][/us/stat/98/576], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 58(c), July 18, 1984, [98 Stat. 576][/us/stat/98/576], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 535 of this title][/us/usc/t26/s535]\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -78,13 +78,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F179
-[/us/pl/98/369/s58/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs58%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F574
-[/us/pl/99/514/s1235/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Ff%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2575
-[/us/pl/105/34/s1122/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fd%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F977
-[/us/pl/109/135/s403/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fn%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2626
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -94,14 +94,14 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/105/34/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1124
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F978
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/usc/t26/s1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1296
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1235/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fh
 [/us/usc/t26/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1291
-[/us/pl/98/369/s58/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs58%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F576
 [/us/usc/t26/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs535
 

@@ -161,31 +161,31 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 105–34, title X, § 1001(a)][/us/pl/105/34/s1001/a], Aug. 5, 1997, [111 Stat. 903][/us/stat/111/903]; amended [Pub. L. 105–206, title VI, § 6010(a)(1)][/us/pl/105/206/s6010/a/1], (2), July 22, 1998, [112 Stat. 812][/us/stat/112/812], 813; [Pub. L. 108–311, title IV, § 406(e)][/us/pl/108/311/s406/e], Oct. 4, 2004, [118 Stat. 1189][/us/stat/118/1189].)
+(Added [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1001(a), Aug. 5, 1997, [111 Stat. 903][/us/stat/111/903]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(a)(1), (2), July 22, 1998, [112 Stat. 812][/us/stat/112/812], 813; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 406(e), Oct. 4, 2004, [118 Stat. 1189][/us/stat/118/1189].)
 
  __Amendments__ 
 
-    2004—Subsec. (c)(2). [Pub. L. 108–311, § 406(e)(1)][/us/pl/108/311/s406/e/1], substituted “A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract” for “The term ‘constructive sale’ shall not include any contract”.
+    2004—Subsec. (c)(2). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(1), substituted “A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract” for “The term ‘constructive sale’ shall not include any contract”.
 
-    Subsec. (c)(3)(A). [Pub. L. 108–311, § 406(e)(2)][/us/pl/108/311/s406/e/2], substituted “cause a constructive sale” for “be treated as a constructive sale” in introductory provisions.
+    Subsec. (c)(3)(A). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(2), substituted “cause a constructive sale” for “be treated as a constructive sale” in introductory provisions.
 
-    Subsec. (c)(3)(A)(i). [Pub. L. 108–311, § 406(e)(3)][/us/pl/108/311/s406/e/3], substituted “on or before” for “before the end of”.
+    Subsec. (c)(3)(A)(i). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(3), substituted “on or before” for “before the end of”.
 
-    Subsec. (c)(3)(B). [Pub. L. 108–311, § 406(e)(7)][/us/pl/108/311/s406/e/7], substituted “certain closed transactions where risk of loss on appreciated financial position diminished” for “positions which are reestablished” in heading.
+    Subsec. (c)(3)(B). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(7), substituted “certain closed transactions where risk of loss on appreciated financial position diminished” for “positions which are reestablished” in heading.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 108–311, § 406(e)(2)][/us/pl/108/311/s406/e/2], substituted “cause a constructive sale” for “be treated as a constructive sale”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(2), substituted “cause a constructive sale” for “be treated as a constructive sale”.
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 108–311, § 406(e)(4)][/us/pl/108/311/s406/e/4], struck out “substantially similar” after “another” in introductory provisions.
+    Subsec. (c)(3)(B)(ii). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(4), struck out “substantially similar” after “another” in introductory provisions.
 
-    Subsec. (c)(3)(B)(ii)(I). [Pub. L. 108–311, § 406(e)(5)][/us/pl/108/311/s406/e/5], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “which also would otherwise be treated as a constructive sale of such position,”.
+    Subsec. (c)(3)(B)(ii)(I). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(5), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “which also would otherwise be treated as a constructive sale of such position,”.
 
-    Subsec. (c)(3)(B)(ii)(II). [Pub. L. 108–311, § 406(e)(6)][/us/pl/108/311/s406/e/6], inserted “on or” before “before the 30th day”.
+    Subsec. (c)(3)(B)(ii)(II). [Pub. L. 108–311][/us/pl/108/311], § 406(e)(6), inserted “on or” before “before the 30th day”.
 
-    1998—Subsec. (b)(2)(A)(i) to (iii). [Pub. L. 105–206, § 6010(a)(1)(A)][/us/pl/105/206/s6010/a/1/A], substituted “position” for “debt”.
+    1998—Subsec. (b)(2)(A)(i) to (iii). [Pub. L. 105–206][/us/pl/105/206], § 6010(a)(1)(A), substituted “position” for “debt”.
 
-    Subsec. (b)(2)(B), (C). [Pub. L. 105–206, § 6010(a)(1)(B)][/us/pl/105/206/s6010/a/1/B], (C), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (b)(2)(B), (C). [Pub. L. 105–206][/us/pl/105/206], § 6010(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (d)(1). [Pub. L. 105–206, § 6010(a)(2)][/us/pl/105/206/s6010/a/2], inserted “(including cash)” after “property”.
+    Subsec. (d)(1). [Pub. L. 105–206][/us/pl/105/206], § 6010(a)(2), inserted “(including cash)” after “property”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -206,23 +206,23 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1001%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F903
-[/us/pl/105/206/s6010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F812
-[/us/pl/108/311/s406/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1189
-[/us/pl/108/311/s406/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F1
-[/us/pl/108/311/s406/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F2
-[/us/pl/108/311/s406/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F3
-[/us/pl/108/311/s406/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F7
-[/us/pl/108/311/s406/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F2
-[/us/pl/108/311/s406/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F4
-[/us/pl/108/311/s406/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F5
-[/us/pl/108/311/s406/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fe%2F6
-[/us/pl/105/206/s6010/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F1%2FA
-[/us/pl/105/206/s6010/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F1%2FB
-[/us/pl/105/206/s6010/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fa%2F2
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/108/311/s406/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fh

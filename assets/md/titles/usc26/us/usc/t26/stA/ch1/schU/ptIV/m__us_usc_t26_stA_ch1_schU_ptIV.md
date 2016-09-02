@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title II, § 226(a)][/us/pl/105/34/s226/a], Aug. 5, 1997, [111 Stat. 820][/us/stat/111/820], added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
+    1997—[Pub. L. 105–34, title II][/us/pl/105/34/tII], § 226(a), Aug. 5, 1997, [111 Stat. 820][/us/stat/111/820], added part IV heading and item 1397E. Former part IV, consisting of section 1397D, redesignated V.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/105/34/s226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs226%2Fa
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F820
 
 

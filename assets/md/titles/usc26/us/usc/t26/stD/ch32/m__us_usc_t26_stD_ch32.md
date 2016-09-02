@@ -101,13 +101,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–152, title I, § 1405(a)(2)][/us/pl/111/152/s1405/a/2], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], added item for subchapter E.
+    2010—[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1405(a)(2), Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], added item for subchapter E.
 
-    1987—[Pub. L. 100–203, title IX, § 9201(c)][/us/pl/100/203/s9201/c], Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], added item for subchapter C.
+    1987—[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9201(c), Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], added item for subchapter C.
 
-    1978—[Pub. L. 95–227, § 2(c)][/us/pl/95/227/s2/c], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12], added item for subchapter B.
+    1978—[Pub. L. 95–227][/us/pl/95/227], § 2(c), Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12], added item for subchapter B.
 
-    1965—[Pub. L. 89–44, title II][/us/pl/89/44], §§ 203, 204, 206, June 21, 1965, [79 Stat. 139][/us/stat/79/139], 140, struck out items for subchapters B, C and E.
+    1965—[Pub. L. 89–44, title II][/us/pl/89/44/tII], §§ 203, 204, 206, June 21, 1965, [79 Stat. 139][/us/stat/79/139], 140, struck out items for subchapters B, C and E.
 
 ----------
 
@@ -116,13 +116,13 @@
 ----------
 ----------
 
-[/us/pl/111/152/s1405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1405%2Fa%2F2
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
-[/us/pl/100/203/s9201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9201%2Fc
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-330
-[/us/pl/95/227/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs2%2Fc
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F12
-[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F139
 
 

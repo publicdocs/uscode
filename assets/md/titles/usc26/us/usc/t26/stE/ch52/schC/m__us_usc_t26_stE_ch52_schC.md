@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1905(b)(7)(D)][/us/pl/94/455/s1905/b/7/D], Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], substituted “and notices” for “notices, and stamps” in item 5723.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(7)(D), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], substituted “and notices” for “notices, and stamps” in item 5723.
 
-    1958—[Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1422][/us/stat/72/1422], substituted “Manufacturers and Importers of Tobacco Products and Cigarette Papers and Tubes and Export Warehouse Proprietors” for “Manufacturers of Articles” in heading of subchapter and inserted “marks,” in item 5723.
+    1958—[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1422][/us/stat/72/1422], substituted “Manufacturers and Importers of Tobacco Products and Cigarette Papers and Tubes and Export Warehouse Proprietors” for “Manufacturers of Articles” in heading of subchapter and inserted “marks,” in item 5723.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1905/b/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F7%2FD
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1422
 
 

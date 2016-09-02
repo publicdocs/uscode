@@ -23,7 +23,7 @@
 
         No penalty shall be imposed under subsection (a) with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.
 
-(Added [Pub. L. 111–5, div. B, title III, § 3001(a)(13)(A)][/us/pl/111/5/s3001/a/13/A], Feb. 17, 2009, [123 Stat. 464][/us/stat/123/464]; amended [Pub. L. 111–144, § 3(b)(5)(D)][/us/pl/111/144/s3/b/5/D], Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45].)
+(Added [Pub. L. 111–5, div. B, title III][/us/pl/111/5/dB/tIII], § 3001(a)(13)(A), Feb. 17, 2009, [123 Stat. 464][/us/stat/123/464]; amended [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(D), Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45].)
 
  __References in Text__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s3001/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F13%2FA
+[/us/pl/111/5/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtIII
 [/us/stat/123/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F464
-[/us/pl/111/144/s3/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FD
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F45
 [/us/pl/111/5/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001
 [/us/usc/t26/s6432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6432

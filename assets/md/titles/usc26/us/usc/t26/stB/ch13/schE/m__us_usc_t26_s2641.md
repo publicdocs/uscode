@@ -27,7 +27,7 @@
 
         For purposes of subsection (a), the term “maximum Federal estate tax rate” means the maximum rate imposed by section 2001 on the estates of decedents dying at the time of the taxable distribution, taxable termination, or direct skip, as the case may be.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2722][/us/stat/100/2722].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2722][/us/stat/100/2722].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 
  __Modification of Generation-Skipping Transfer Tax__ 
 
-[Pub. L. 111–312, title III, § 302(c)][/us/pl/111/312/s302/c], Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], provided that: 
+[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 302(c), Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], provided that: 
 
 > “In the case of any generation-skipping transfer made after December 31, 2009, and before January 1, 2011, the applicable rate determined under section 2641(a) of the Internal Revenue Code of 1986 shall be zero.”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2722
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
 [/us/usc/t26/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2601
-[/us/pl/111/312/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fc
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3302
 
 

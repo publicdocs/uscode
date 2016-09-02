@@ -33,7 +33,7 @@
 
         A power of administration is exercisable in a nonfiduciary capacity by any person without the approval or consent of any person in a fiduciary capacity. For purposes of this paragraph, the term “power of administration” means any one or more of the following powers: (A) a power to vote or direct the voting of stock or other securities of a corporation in which the holdings of the grantor and the trust are significant from the viewpoint of voting control; (B) a power to control the investment of the trust funds either by directing investments or reinvestments, or by vetoing proposed investments or reinvestments, to the extent that the trust funds consist of stocks or securities of corporations in which the holdings of the grantor and the trust are significant from the viewpoint of voting control; or (C) a power to reacquire the trust corpus by substituting other property of an equivalent value.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 229][/us/stat/68A/229]; [Pub. L. 100–647, title I, § 1014(a)(2)][/us/pl/100/647/s1014/a/2], Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 229][/us/stat/68A/229]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(a)(2), Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559].)
 
  __Amendments__ 
 
@@ -52,7 +52,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F229
-[/us/pl/100/647/s1014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fa%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3559
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

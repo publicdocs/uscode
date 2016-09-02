@@ -17,7 +17,7 @@
 
     The Postmaster General or his delegate shall at least once a month transfer to the Treasury of the United States a statement of the additional expenditures in the District of Columbia and elsewhere incurred by the United States Postal Service in performing the duties, if any, imposed upon such Service with respect to chapter 21, relating to the tax under the Federal Insurance Contributions Act, and the Secretary shall be authorized and directed to advance from time to time to the credit of the United States Postal Service, from appropriations made for the collection of the taxes imposed by chapter 21, such sums as may be required for such additional expenditures incurred by the United States Postal Service.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 899][/us/stat/68A/899]; [Pub. L. 94–455, title XIX, § 1906(a)(52)][/us/pl/94/455/s1906/a/52], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 899][/us/stat/68A/899]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(52), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832], 1834.)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F899
-[/us/pl/94/455/s1906/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F52
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1832
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F415

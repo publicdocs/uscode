@@ -23,7 +23,7 @@
 
         Every person who, with intent to defraud the United States, relands within the jurisdiction of the United States any distilled spirits which have been shipped for exportation under the provisions of this chapter, or who receives such relanded distilled spirits, and every person who aids or abets in such relanding or receiving of such spirits, shall be fined not more than $5,000, or imprisoned not more than 3 years, or both; and all distilled spirits so relanded, together with the vessel from which the same were relanded within the jurisdiction of the United States, and all vessels, vehicles, or aircraft used in relanding and removing such distilled spirits, shall be forfeited to the United States.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1403][/us/stat/72/1403]; amended [Pub. L. 89–44, title VIII, § 805(e)][/us/pl/89/44/s805/e], June 21, 1965, [79 Stat. 161][/us/stat/79/161].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1403][/us/stat/72/1403]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(e), June 21, 1965, [79 Stat. 161][/us/stat/79/161].)
 
  __Prior Provisions__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1403
-[/us/pl/89/44/s805/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fe
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685

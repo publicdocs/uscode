@@ -27,15 +27,15 @@
 
     (6) For other penalties for failure to register with respect to wagering, see section 7262.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 846][/us/stat/68A/846]; [Pub. L. 85–475, § 4(b)(7)][/us/pl/85/475/s4/b/7], June 30, 1958, [72 Stat. 260][/us/stat/72/260]; [Pub. L. 89–44, title VI, § 601(g)][/us/pl/89/44/s601/g], June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 91–513, title III, § 1102(d)][/us/pl/91/513/s1102/d], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816], 1830; [Pub. L. 104–188, title I, § 1702(b)(4)][/us/pl/104/188/s1702/b/4], Aug. 20, 1996, [110 Stat. 1868][/us/stat/110/1868]; [Pub. L. 109–59, title XI, § 11125(b)(9)][/us/pl/109/59/s11125/b/9], Aug. 10, 2005, [119 Stat. 1955][/us/stat/119/1955].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 846][/us/stat/68A/846]; [Pub. L. 85–475][/us/pl/85/475], § 4(b)(7), June 30, 1958, [72 Stat. 260][/us/stat/72/260]; [Pub. L. 89–44, title VI][/us/pl/89/44/tVI], § 601(g), June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(d), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1904(b)(8)(C), 1906(a)(39), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816], 1830; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1702(b)(4), Aug. 20, 1996, [110 Stat. 1868][/us/stat/110/1868]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(9), Aug. 10, 2005, [119 Stat. 1955][/us/stat/119/1955].)
 
  __Amendments__ 
 
     2005—Pars. (4) to (6). [Pub. L. 109–59][/us/pl/109/59] added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-    1996—Par. (3). [Pub. L. 104–188, § 1702(b)(4)(A)][/us/pl/104/188/s1702/b/4/A], substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
+    1996—Par. (3). [Pub. L. 104–188][/us/pl/104/188], § 1702(b)(4)(A), substituted “taxes on gasoline and diesel fuel” for “production or importation of gasoline”.
 
-    Pars. (4) to (6). [Pub. L. 104–188, § 1702(b)(4)(B)][/us/pl/104/188/s1702/b/4/B], redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101.”
+    Pars. (4) to (6). [Pub. L. 104–188][/us/pl/104/188], § 1702(b)(4)(B), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “For provisions relating to registration in relation to the manufacture or production of lubricating oils, see section 4101.”
 
     1976—[Pub. L. 94–455][/us/pl/94/455] revised section generally, striking out cross reference to section 4804(d) relating to registration in relation to manufacture of white phosphorus matches and substituted reference to section 5861 for reference to section 5854 in cross reference covering registration in connection with firearms.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
+    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
  __Effective Date of 1970 Amendment__ 
 
@@ -78,21 +78,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F846
-[/us/pl/85/475/s4/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475%2Fs4%2Fb%2F7
+[/us/pl/85/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F475
 [/us/stat/72/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F260
-[/us/pl/89/44/s601/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs601%2Fg
+[/us/pl/89/44/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVI
 [/us/stat/79/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F155
-[/us/pl/91/513/s1102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fd
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1816
-[/us/pl/104/188/s1702/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fb%2F4
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1868
-[/us/pl/109/59/s11125/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F9
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1955
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
-[/us/pl/104/188/s1702/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fb%2F4%2FA
-[/us/pl/104/188/s1702/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fb%2F4%2FB
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
@@ -101,7 +101,7 @@
 [/us/pl/109/59/s11125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fc
 [/us/usc/t26/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5002
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/pl/104/188/s1702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fi
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

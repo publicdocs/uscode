@@ -31,7 +31,7 @@
 
         No deduction shall be allowed under subsection (a) with respect to any contribution described in subsection (a) which does not relate to any specified period of time.
 
-(Added [Pub. L. 96–364, title II, § 209(c)(1)][/us/pl/96/364/s209/c/1], Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290], § 194; renumbered § 194A, [Pub. L. 97–448, title III, § 305(b)(1)][/us/pl/97/448/s305/b/1], Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399].)
+(Added [Pub. L. 96–364, title II][/us/pl/96/364/tII], § 209(c)(1), Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290], § 194; renumbered § 194A, [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 305(b)(1), Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399].)
 
  __References in Text__ 
 
@@ -39,13 +39,13 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–448, title III, § 311(c)(2)][/us/pl/97/448/s311/c/2], Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
+[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 311(c)(2), Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
 
 > “The amendments made by subsection (b) of section 305 \[redesignating [section 194 of this title][/us/usc/t26/s194], relating to contributions to employer liability trusts, as this section\] shall take effect on October 14, 1980.”
 
  __Effective Date__ 
 
-[Pub. L. 96–364, title II, § 210][/us/pl/96/364/s210], Sept. 26, 1980, [94 Stat. 1291][/us/stat/94/1291], provided that:
+[Pub. L. 96–364, title II][/us/pl/96/364/tII], § 210, Sept. 26, 1980, [94 Stat. 1291][/us/stat/94/1291], provided that:
 
 >     “(a) Except as otherwise provided in this section, the amendments made by this title \[amending sections 401, 404, 411 to 414, 4971, and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 26, 1980\].
 
@@ -66,15 +66,15 @@
 ----------
 ----------
 
-[/us/pl/96/364/s209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs209%2Fc%2F1
+[/us/pl/96/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtII
 [/us/stat/94/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1290
-[/us/pl/97/448/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs305%2Fb%2F1
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2399
 [/us/usc/t29/s1403/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1403%2Fh
-[/us/pl/97/448/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs311%2Fc%2F2
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2411
 [/us/usc/t26/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194
-[/us/pl/96/364/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210
+[/us/pl/96/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtII
 [/us/stat/94/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1291
 
 

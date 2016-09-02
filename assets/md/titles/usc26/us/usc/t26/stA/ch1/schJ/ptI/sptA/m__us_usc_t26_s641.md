@@ -83,7 +83,7 @@
 
             For purposes of this subsection, the term “electing small business trust” has the meaning given such term by section 1361(e)(1).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 215][/us/stat/68A/215]; [Pub. L. 91–172, title VIII, § 803(d)(3)][/us/pl/91/172/s803/d/3], Dec. 30, 1969, [83 Stat. 684][/us/stat/83/684]; [Pub. L. 94–455, title VII, § 701(e)(2)][/us/pl/94/455/s701/e/2], Oct. 4, 1976, [90 Stat. 1579][/us/stat/90/1579]; [Pub. L. 95–30, title I, § 101(d)(8)][/us/pl/95/30/s101/d/8], May 23, 1977, [91 Stat. 134][/us/stat/91/134]; [Pub. L. 104–188, title I, § 1302(d)][/us/pl/104/188/s1302/d], Aug. 20, 1996, [110 Stat. 1778][/us/stat/110/1778]; [Pub. L. 105–34, title XVI, § 1601(i)(3)(B)][/us/pl/105/34/s1601/i/3/B], Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093]; [Pub. L. 105–206, title VI, § 6007(f)(2)][/us/pl/105/206/s6007/f/2], July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 110–28, title VIII, § 8236(a)][/us/pl/110/28/s8236/a], May 25, 2007, [121 Stat. 199][/us/stat/121/199].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 215][/us/stat/68A/215]; [Pub. L. 91–172, title VIII][/us/pl/91/172/tVIII], § 803(d)(3), Dec. 30, 1969, [83 Stat. 684][/us/stat/83/684]; [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(e)(2), Oct. 4, 1976, [90 Stat. 1579][/us/stat/90/1579]; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 101(d)(8), May 23, 1977, [91 Stat. 134][/us/stat/91/134]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1302(d), Aug. 20, 1996, [110 Stat. 1778][/us/stat/110/1778]; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(i)(3)(B), Aug. 5, 1997, [111 Stat. 1093][/us/stat/111/1093]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(f)(2), July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8236(a), May 25, 2007, [121 Stat. 199][/us/stat/121/199].)
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8236(b)][/us/pl/110/28/s8236/b], May 25, 2007, [121 Stat. 199][/us/stat/121/199], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8236(b), May 25, 2007, [121 Stat. 199][/us/stat/121/199], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1317(a)][/us/pl/104/188/s1317/a], Aug. 20, 1996, [110 Stat. 1787][/us/stat/110/1787], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1317(a), Aug. 20, 1996, [110 Stat. 1787][/us/stat/110/1787], provided that: 
 
 > “Except as otherwise provided in this subtitle \[subtitle C (§§ 1301–1317) of title I of [Pub. L. 104–188][/us/pl/104/188]\], the amendments made by this subtitle \[amending this section and sections 170, 404, 512, 1042, 1237, 1361, 1362, 1366 to 1368, 1371, 1375, 1377, 1504, 6037, and 6233 of this title and repealing sections 6241 to 6245 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
@@ -148,19 +148,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F215
-[/us/pl/91/172/s803/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs803%2Fd%2F3
+[/us/pl/91/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVIII
 [/us/stat/83/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F684
-[/us/pl/94/455/s701/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fe%2F2
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1579
-[/us/pl/95/30/s101/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs101%2Fd%2F8
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F134
-[/us/pl/104/188/s1302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1302%2Fd
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1778
-[/us/pl/105/34/s1601/i/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fi%2F3%2FB
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1093
-[/us/pl/105/206/s6007/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Ff%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F810
-[/us/pl/110/28/s8236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8236%2Fa
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F199
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -169,7 +169,7 @@
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/110/28/s8236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8236%2Fb
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F199
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -179,7 +179,7 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1317%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1787
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30

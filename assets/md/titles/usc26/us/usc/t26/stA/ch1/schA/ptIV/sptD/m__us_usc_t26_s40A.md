@@ -267,7 +267,7 @@
 
         This section shall not apply to any sale or use after December 31, 2016.
 
-(Added [Pub. L. 108–357, title III, § 302(a)][/us/pl/108/357/s302/a], Oct. 22, 2004, [118 Stat. 1463][/us/stat/118/1463]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, [119 Stat. 1052–1055][/us/stat/119/1052-1055]; [Pub. L. 109–135, title IV, § 412(h)][/us/pl/109/135/s412/h], Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637]; [Pub. L. 110–234, title XV, § 15321(f)][/us/pl/110/234/s15321/f], May 22, 2008, [122 Stat. 1514][/us/stat/122/1514]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15321(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2276; [Pub. L. 110–343, div. B, title II][/us/pl/110/343], §§ 202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3833; [Pub. L. 111–312, title VII, § 701(a)][/us/pl/111/312/s701/a], Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310]; [Pub. L. 112–240, title IV, § 405(a)][/us/pl/112/240/s405/a], Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340]; [Pub. L. 113–295, div. A, title I, § 153(a)][/us/pl/113/295/s153/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I, § 185(a)(1)][/us/pl/114/113/s185/a/1], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073].)
+(Added [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 302(a), Oct. 22, 2004, [118 Stat. 1463][/us/stat/118/1463]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], §§ 1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, [119 Stat. 1052–1055][/us/stat/119/1052-1055]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(h), Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637]; [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15321(f), May 22, 2008, [122 Stat. 1514][/us/stat/122/1514]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15321(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2276; [Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], §§ 202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3833; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 701(a), Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310]; [Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 405(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 153(a), Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 185(a)(1), Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073].)
 
  __Codification__ 
 
@@ -283,93 +283,93 @@
 
     2010—Subsec. (g). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
 
-    2008—Subsec. (b)(1)(A), (2)(A). [Pub. L. 110–343, § 202(b)(1)][/us/pl/110/343/s202/b/1], substituted “$1.00” for “50 cents”.
+    2008—Subsec. (b)(1)(A), (2)(A). [Pub. L. 110–343][/us/pl/110/343], § 202(b)(1), substituted “$1.00” for “50 cents”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 110–343, § 202(b)(3)(A)][/us/pl/110/343/s202/b/3/A], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out heading and text of former par. (3). Text read as follows: “In the case of any biodiesel which is agri-biodiesel, paragraphs (1)(A) and (2)(A) shall be applied by substituting ‘$1.00’ for ‘50 cents’.”
+    Subsec. (b)(3) to (5). [Pub. L. 110–343][/us/pl/110/343], § 202(b)(3)(A), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out heading and text of former par. (3). Text read as follows: “In the case of any biodiesel which is agri-biodiesel, paragraphs (1)(A) and (2)(A) shall be applied by substituting ‘$1.00’ for ‘50 cents’.”
 
-    Subsec. (d)(1). [Pub. L. 110–246, § 15321(f)(1)][/us/pl/110/246/s15321/f/1], inserted concluding provisions.
+    Subsec. (d)(1). [Pub. L. 110–246][/us/pl/110/246], § 15321(f)(1), inserted concluding provisions.
 
-    Subsec. (d)(2). [Pub. L. 110–343, § 202(f)][/us/pl/110/343/s202/f], substituted “mustard seeds, and camelina” for “and mustard seeds”.
+    Subsec. (d)(2). [Pub. L. 110–343][/us/pl/110/343], § 202(f), substituted “mustard seeds, and camelina” for “and mustard seeds”.
 
-    Subsec. (d)(3)(C)(ii). [Pub. L. 110–343, § 202(b)(3)(D)][/us/pl/110/343/s202/b/3/D], substituted “subsection (b)(4)(B)” for “subsection (b)(5)(B)”.
+    Subsec. (d)(3)(C)(ii). [Pub. L. 110–343][/us/pl/110/343], § 202(b)(3)(D), substituted “subsection (b)(4)(B)” for “subsection (b)(5)(B)”.
 
-    Subsec. (d)(5). [Pub. L. 110–343, § 203(b)][/us/pl/110/343/s203/b], added par. (5).
+    Subsec. (d)(5). [Pub. L. 110–343][/us/pl/110/343], § 203(b), added par. (5).
 
-    Subsec. (e)(2), (3). [Pub. L. 110–343, § 202(b)(3)(C)][/us/pl/110/343/s202/b/3/C], substituted “subsection (b)(4)(C)” for “subsection (b)(5)(C)”.
+    Subsec. (e)(2), (3). [Pub. L. 110–343][/us/pl/110/343], § 202(b)(3)(C), substituted “subsection (b)(4)(C)” for “subsection (b)(5)(C)”.
 
-    Subsec. (f)(2). [Pub. L. 110–343, § 202(b)(3)(B)][/us/pl/110/343/s202/b/3/B], amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
+    Subsec. (f)(2). [Pub. L. 110–343][/us/pl/110/343], § 202(b)(3)(B), amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
 
     “(A) Rate of credit.—Subsections (b)(1)(A) and (b)(2)(A) shall be applied with respect to renewable diesel by substituting ‘$1.00’ for ‘50 cents’.
 
     “(B) Nonapplication of certain credits.—Subsections (b)(3) and (b)(5) shall not apply with respect to renewable diesel.”
 
-    Subsec. (f)(3). [Pub. L. 110–343, § 202(d)][/us/pl/110/343/s202/d], in introductory provisions, struck out “(as defined in section 45K(c)(3))” after “derived from biomass” and, in concluding provisions, inserted at end “Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term ‘biomass’ has the meaning given such term by section 45K(c)(3).”
+    Subsec. (f)(3). [Pub. L. 110–343][/us/pl/110/343], § 202(d), in introductory provisions, struck out “(as defined in section 45K(c)(3))” after “derived from biomass” and, in concluding provisions, inserted at end “Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term ‘biomass’ has the meaning given such term by section 45K(c)(3).”
 
-    [Pub. L. 110–343, § 202(c)(1)][/us/pl/110/343/s202/c/1], (2), in introductory provisions, substituted “liquid fuel” for “diesel fuel” and struck out “using a thermal depolymerization process” before “which meets—”.
+    [Pub. L. 110–343][/us/pl/110/343], § 202(c)(1), (2), in introductory provisions, substituted “liquid fuel” for “diesel fuel” and struck out “using a thermal depolymerization process” before “which meets—”.
 
-    [Pub. L. 110–246, § 15321(f)(2)][/us/pl/110/246/s15321/f/2], inserted concluding provisions.
+    [Pub. L. 110–246][/us/pl/110/246], § 15321(f)(2), inserted concluding provisions.
 
-    Subsec. (f)(3)(B). [Pub. L. 110–343, § 202(c)(3)][/us/pl/110/343/s202/c/3], inserted “, or other equivalent standard approved by the Secretary” before period at end.
+    Subsec. (f)(3)(B). [Pub. L. 110–343][/us/pl/110/343], § 202(c)(3), inserted “, or other equivalent standard approved by the Secretary” before period at end.
 
-    Subsec. (f)(4). [Pub. L. 110–343, § 202(e)][/us/pl/110/343/s202/e], added par. (4).
+    Subsec. (f)(4). [Pub. L. 110–343][/us/pl/110/343], § 202(e), added par. (4).
 
-    Subsec. (g). [Pub. L. 110–343, § 202(a)][/us/pl/110/343/s202/a], substituted “December 31, 2009” for “December 31, 2008”.
+    Subsec. (g). [Pub. L. 110–343][/us/pl/110/343], § 202(a), substituted “December 31, 2009” for “December 31, 2008”.
 
-    2005—[Pub. L. 109–58, § 1346(b)(1)][/us/pl/109/58/s1346/b/1], inserted “and renewable diesel” after “Biodiesel” in section catchline.
+    2005—[Pub. L. 109–58][/us/pl/109/58], § 1346(b)(1), inserted “and renewable diesel” after “Biodiesel” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–58, § 1345(a)][/us/pl/109/58/s1345/a], reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
+    Subsec. (a). [Pub. L. 109–58][/us/pl/109/58], § 1345(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
 
     “(1) the biodiesel mixture credit, plus
 
     “(2) the biodiesel credit.”
 
-    Subsec. (b). [Pub. L. 109–58, § 1345(d)(2)][/us/pl/109/58/s1345/d/2], substituted “, biodiesel credit, and small agri-biodiesel producer credit” for “and biodiesel credit” in heading.
+    Subsec. (b). [Pub. L. 109–58][/us/pl/109/58], § 1345(d)(2), substituted “, biodiesel credit, and small agri-biodiesel producer credit” for “and biodiesel credit” in heading.
 
-    Subsec. (b)(4). [Pub. L. 109–58, § 1345(d)(1)][/us/pl/109/58/s1345/d/1], substituted “paragraph (1) or (2) of subsection (a)” for “this section”.
+    Subsec. (b)(4). [Pub. L. 109–58][/us/pl/109/58], § 1345(d)(1), substituted “paragraph (1) or (2) of subsection (a)” for “this section”.
 
-    Subsec. (b)(5). [Pub. L. 109–58, § 1345(b)][/us/pl/109/58/s1345/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 109–58][/us/pl/109/58], § 1345(b), added par. (5).
 
     Subsec. (b)(5)(B). [Pub. L. 109–135][/us/pl/109/135] struck out “(determined without regard to the last sentence of subsection (d)(2))” after “any agri-biodiesel” in introductory provisions.
 
-    Subsec. (d)(3)(C), (D). [Pub. L. 109–58, § 1345(d)(3)][/us/pl/109/58/s1345/d/3], added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
+    Subsec. (d)(3)(C), (D). [Pub. L. 109–58][/us/pl/109/58], § 1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 109–58, § 1345(c)][/us/pl/109/58/s1345/c], added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 109–58][/us/pl/109/58], § 1345(c), added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
 
-    [Pub. L. 109–58, § 1344(a)][/us/pl/109/58/s1344/a], substituted “2008” for “2006”.
+    [Pub. L. 109–58][/us/pl/109/58], § 1344(a), substituted “2008” for “2006”.
 
-    Subsec. (f). [Pub. L. 109–58, § 1346(a)][/us/pl/109/58/s1346/a], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 109–58][/us/pl/109/58], § 1346(a), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 109–58, § 1345(c)][/us/pl/109/58/s1345/c], redesignated subsec. (e) as (f).
+    [Pub. L. 109–58][/us/pl/109/58], § 1345(c), redesignated subsec. (e) as (f).
 
-    Subsec. (g). [Pub. L. 109–58, § 1346(a)][/us/pl/109/58/s1346/a], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 109–58][/us/pl/109/58], § 1346(a), redesignated subsec. (f) as (g).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 185(a)(2)][/us/pl/114/113/s185/a/2], Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 185(a)(2), Dec. 18, 2015, [129 Stat. 3073][/us/stat/129/3073], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to fuel sold or used after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 153(b)][/us/pl/113/295/s153/b], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 153(b), Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to fuel sold or used after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title IV, § 405(c)][/us/pl/112/240/s405/c], Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340], provided that: 
+[Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 405(c), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall apply to fuel sold or used after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 701(d)][/us/pl/111/312/s701/d], Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 701(d), Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall apply to fuel sold or used after December 31, 2009.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title II, § 202(g)][/us/pl/110/343/s202/g], Oct. 3, 2008, [122 Stat. 3833][/us/stat/122/3833], provided that:
+[Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 202(g), Oct. 3, 2008, [122 Stat. 3833][/us/stat/122/3833], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -387,15 +387,15 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XIII, § 1344(b)][/us/pl/109/58/s1344/b], Aug. 8, 2005, [119 Stat. 1052][/us/stat/119/1052], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1344(b), Aug. 8, 2005, [119 Stat. 1052][/us/stat/119/1052], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6426 and 6427 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 8, 2005\].”
 
-[Pub. L. 109–58, title XIII, § 1345(e)][/us/pl/109/58/s1345/e], Aug. 8, 2005, [119 Stat. 1055][/us/stat/119/1055], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1345(e), Aug. 8, 2005, [119 Stat. 1055][/us/stat/119/1055], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 8, 2005\].”
 
-[Pub. L. 109–58, title XIII, § 1346(c)][/us/pl/109/58/s1346/c], Aug. 8, 2005, [119 Stat. 1056][/us/stat/119/1056], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1346(c), Aug. 8, 2005, [119 Stat. 1056][/us/stat/119/1056], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fuel sold or used after December 31, 2005.”
 
@@ -412,25 +412,25 @@
 
 [/us/usc/t42/s7545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545
 [/us/usc/t42/s7545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7545
-[/us/pl/108/357/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs302%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1463
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1052-1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1052-1055
-[/us/pl/109/135/s412/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fh
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2637
-[/us/pl/110/234/s15321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15321%2Ff
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1514
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3832
-[/us/pl/111/312/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs701%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3310
-[/us/pl/112/240/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs405%2Fa
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
-[/us/pl/113/295/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs153%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
-[/us/pl/114/113/s185/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs185%2Fa%2F1
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -440,41 +440,41 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/110/343/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F1
-[/us/pl/110/343/s202/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F3%2FA
-[/us/pl/110/246/s15321/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15321%2Ff%2F1
-[/us/pl/110/343/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Ff
-[/us/pl/110/343/s202/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F3%2FD
-[/us/pl/110/343/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fb
-[/us/pl/110/343/s202/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F3%2FC
-[/us/pl/110/343/s202/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F3%2FB
-[/us/pl/110/343/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fd
-[/us/pl/110/343/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fc%2F1
-[/us/pl/110/246/s15321/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15321%2Ff%2F2
-[/us/pl/110/343/s202/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fc%2F3
-[/us/pl/110/343/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fe
-[/us/pl/110/343/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fa
-[/us/pl/109/58/s1346/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fb%2F1
-[/us/pl/109/58/s1345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fa
-[/us/pl/109/58/s1345/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fd%2F2
-[/us/pl/109/58/s1345/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fd%2F1
-[/us/pl/109/58/s1345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fb
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/109/58/s1345/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fd%2F3
-[/us/pl/109/58/s1345/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fc
-[/us/pl/109/58/s1344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1344%2Fa
-[/us/pl/109/58/s1346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fa
-[/us/pl/109/58/s1345/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fc
-[/us/pl/109/58/s1346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fa
-[/us/pl/114/113/s185/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs185%2Fa%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3073
-[/us/pl/113/295/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs153%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
-[/us/pl/112/240/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs405%2Fc
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
-[/us/pl/111/312/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs701%2Fd
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3310
-[/us/pl/110/343/s202/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fg
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3833
 [/us/pl/110/343/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fb
 [/us/pl/110/343/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs203%2Fd
@@ -487,11 +487,11 @@
 [/us/pl/110/246/s15321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15321%2Ff
 [/us/pl/110/246/s15321/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15321%2Fg
 [/us/usc/t26/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs40
-[/us/pl/109/58/s1344/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1344%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1052
-[/us/pl/109/58/s1345/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fe
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1055
-[/us/pl/109/58/s1346/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fc
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1056
 [/us/pl/108/357/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs302%2Fd
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

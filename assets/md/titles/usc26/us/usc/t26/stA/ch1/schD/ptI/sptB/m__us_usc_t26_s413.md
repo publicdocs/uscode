@@ -149,11 +149,11 @@
 
             Allocations of amounts under paragraph (3) and subsection (c)(5) among the employers maintaining the plan shall not be inconsistent with the regulations prescribed for this purpose by the Secretary.
 
-(Added [Pub. L. 93–406, title II, § 1014][/us/pl/93/406/s1014], Sept. 2, 1974, [88 Stat. 924][/us/stat/88/924]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 208(d)][/us/pl/96/364/s208/d], Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290]; [Pub. L. 100–647, title I, § 1011(h)(10)][/us/pl/100/647/s1011/h/10], title VI, § 6058(a)–(c), Nov. 10, 1988, [102 Stat. 3466][/us/stat/102/3466], 3698, 3699; [Pub. L. 101–508, title XI, § 11704(a)(4)][/us/pl/101/508/s11704/a/4], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 113–97, title II, § 202(b)][/us/pl/113/97/s202/b], Apr. 7, 2014, [128 Stat. 1134][/us/stat/128/1134].)
+(Added [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1014, Sept. 2, 1974, [88 Stat. 924][/us/stat/88/924]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II][/us/pl/96/364/tII], § 208(d), Sept. 26, 1980, [94 Stat. 1290][/us/stat/94/1290]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(h)(10), title VI, § 6058(a)–(c), Nov. 10, 1988, [102 Stat. 3466][/us/stat/102/3466], 3698, 3699; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(4), Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 113–97, title II][/us/pl/113/97/tII], § 202(b), Apr. 7, 2014, [128 Stat. 1134][/us/stat/128/1134].)
 
  __References in Text__ 
 
-    The last sentence of section 4971(a), referred to in subsec. (b)(6), was struck out by [Pub. L. 100–203, title IX, § 9305(a)(2)(A)][/us/pl/100/203/s9305/a/2/A], Dec. 22, 1987, [101 Stat. 1330–351][/us/stat/101/1330-351].
+    The last sentence of section 4971(a), referred to in subsec. (b)(6), was struck out by [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9305(a)(2)(A), Dec. 22, 1987, [101 Stat. 1330–351][/us/stat/101/1330-351].
 
     The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
@@ -165,15 +165,15 @@
 
     1990—Subsec. (c)(7)(B). [Pub. L. 101–508][/us/pl/101/508] substituted “Assets” for “Asset” in heading.
 
-    1988—Subsec. (b)(9). [Pub. L. 100–647, § 1011(h)(10)][/us/pl/100/647/s1011/h/10], added par. (9).
+    1988—Subsec. (b)(9). [Pub. L. 100–647][/us/pl/100/647], § 1011(h)(10), added par. (9).
 
-    Subsec. (c). [Pub. L. 100–647, § 6058(c)][/us/pl/100/647/s6058/c], struck out at end “Allocations of amounts under paragraphs (4), (5), and (6), among the employers maintaining the plan, shall not be inconsistent with regulations prescribed for this purpose by the Secretary.”
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 6058(c), struck out at end “Allocations of amounts under paragraphs (4), (5), and (6), among the employers maintaining the plan, shall not be inconsistent with regulations prescribed for this purpose by the Secretary.”
 
-    Subsec. (c)(4). [Pub. L. 100–647, § 6058(a)][/us/pl/100/647/s6058/a], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The minimum funding standard provided by section 412 shall be determined as if all participants in the plan were employed by a single employer.”
+    Subsec. (c)(4). [Pub. L. 100–647][/us/pl/100/647], § 6058(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The minimum funding standard provided by section 412 shall be determined as if all participants in the plan were employed by a single employer.”
 
-    Subsec. (c)(6). [Pub. L. 100–647, § 6058(b)][/us/pl/100/647/s6058/b], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer’s contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
+    Subsec. (c)(6). [Pub. L. 100–647][/us/pl/100/647], § 6058(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer’s contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
 
-    Subsec. (c)(7). [Pub. L. 100–647, § 6058(c)][/us/pl/100/647/s6058/c], added par. (7).
+    Subsec. (c)(7). [Pub. L. 100–647][/us/pl/100/647], § 6058(c), added par. (7).
 
     1980—Subsec. (b)(6). [Pub. L. 96–364][/us/pl/96/364] inserted provisions relating to withdrawal liability of employer.
 
@@ -187,7 +187,7 @@
 
     Amendment by [section 1011(h)(10) of Pub. L. 100–647][/us/pl/100/647/s1011/h/10] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6058(d)][/us/pl/100/647/s6058/d], Nov. 10, 1988, [102 Stat. 3699][/us/stat/102/3699], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6058(d), Nov. 10, 1988, [102 Stat. 3699][/us/stat/102/3699], provided that: 
 
 > “Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -206,19 +206,19 @@
 ----------
 ----------
 
-[/us/pl/93/406/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1014
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F924
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/364/s208/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs208%2Fd
+[/us/pl/96/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtII
 [/us/stat/94/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1290
-[/us/pl/100/647/s1011/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F10
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3466
-[/us/pl/101/508/s11704/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F4
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-518
-[/us/pl/113/97/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fb
+[/us/pl/113/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtII
 [/us/stat/128/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1134
-[/us/pl/100/203/s9305/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9305%2Fa%2F2%2FA
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-351
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
@@ -226,11 +226,11 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1011/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F10
-[/us/pl/100/647/s6058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fc
-[/us/pl/100/647/s6058/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fa
-[/us/pl/100/647/s6058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fb
-[/us/pl/100/647/s6058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fc
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
@@ -240,7 +240,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6058/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6058%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3699
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa

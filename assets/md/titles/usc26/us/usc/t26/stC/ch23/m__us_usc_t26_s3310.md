@@ -33,15 +33,15 @@
 
         (2) The commencement of judicial proceedings under this section shall stay the Secretary of Labor’s action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary of Labor’s action and including such other relief as may be necessary to preserve status or rights.
 
-(Added [Pub. L. 91–373, title I, § 131(b)(1)][/us/pl/91/373/s131/b/1], Aug. 10, 1970, [84 Stat. 703][/us/stat/84/703]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(F)][/us/pl/94/455/s1906/b/13/F], (H), Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835]; [Pub. L. 98–620, title IV, § 402(28)(A)][/us/pl/98/620/s402/28/A], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+(Added [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 131(b)(1), Aug. 10, 1970, [84 Stat. 703][/us/stat/84/703]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(F), (H), Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(28)(A), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Amendments__ 
 
     1984—Subsec. (e). [Pub. L. 98–620][/us/pl/98/620] struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
 
-    1976—Subsec. (d)(2). [Pub. L. 94–455, § 1906(b)(13)(F)][/us/pl/94/455/s1906/b/13/F], substituted “the Secretary of Labor’s action” for “the Secretary’s action” in two places.
+    1976—Subsec. (d)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(F), substituted “the Secretary of Labor’s action” for “the Secretary’s action” in two places.
 
-    Subsec. (e). [Pub. L. 94–455, § 1906(b)(13)(H)][/us/pl/94/455/s1906/b/13/H], substituted “of the Secretary of Labor” for “of the Secretary”.
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(H), substituted “of the Secretary of Labor” for “of the Secretary”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -56,15 +56,15 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/91/373/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs131%2Fb%2F1
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F703
-[/us/pl/94/455/s1906/b/13/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FF
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1835
-[/us/pl/98/620/s402/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F28%2FA
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/94/455/s1906/b/13/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FF
-[/us/pl/94/455/s1906/b/13/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FH
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

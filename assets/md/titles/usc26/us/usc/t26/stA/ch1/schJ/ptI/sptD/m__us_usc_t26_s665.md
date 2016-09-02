@@ -69,7 +69,7 @@
 
         (2) In the case of a preceding taxable year with respect to which a trust qualified, without regard to this subpart, under the provisions of subpart B, for purposes of the application of this subpart to such trust for such taxable year, such trust shall, in accordance with regulations prescribed by the Secretary, be treated as a trust to which subpart C applies.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 223][/us/stat/68A/223]; [Pub. L. 87–834, § 7(b)][/us/pl/87/834/s7/b], Oct. 16, 1962, [76 Stat. 985][/us/stat/76/985]; [Pub. L. 91–172, title III, § 331(a)][/us/pl/91/172/s331/a], Dec. 30, 1969, [83 Stat. 592][/us/stat/83/592]; [Pub. L. 92–178, title III, § 306(a)][/us/pl/92/178/s306/a], Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524]; [Pub. L. 94–455, title VII][/us/pl/94/455], §§ 701(b), (c), (d)(2), (3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577], 1578, 1834; [Pub. L. 95–600, title VII, § 701(q)(1)(A)][/us/pl/95/600/s701/q/1/A], Nov. 6, 1978, [92 Stat. 2909][/us/stat/92/2909]; [Pub. L. 99–514, title XVIII, § 1847(b)(16)][/us/pl/99/514/s1847/b/16], Oct. 22, 1986, [100 Stat. 2857][/us/stat/100/2857]; [Pub. L. 101–508, title XI, § 11802(f)(2)][/us/pl/101/508/s11802/f/2], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 104–188, title I, § 1904(b)(1)][/us/pl/104/188/s1904/b/1], (c)(2), Aug. 20, 1996, [110 Stat. 1912][/us/stat/110/1912]; [Pub. L. 105–34, title V, § 507(a)][/us/pl/105/34/s507/a], title XVI, § 1604(g)(2), Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856], 1099.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 223][/us/stat/68A/223]; [Pub. L. 87–834][/us/pl/87/834], § 7(b), Oct. 16, 1962, [76 Stat. 985][/us/stat/76/985]; [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(a), Dec. 30, 1969, [83 Stat. 592][/us/stat/83/592]; [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 306(a), Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524]; [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], §§ 701(b), (c), (d)(2), (3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577], 1578, 1834; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(q)(1)(A), Nov. 6, 1978, [92 Stat. 2909][/us/stat/92/2909]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1847(b)(16), Oct. 22, 1986, [100 Stat. 2857][/us/stat/100/2857]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11802(f)(2), Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1904(b)(1), (c)(2), Aug. 20, 1996, [110 Stat. 1912][/us/stat/110/1912]; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 507(a), title XVI, § 1604(g)(2), Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856], 1099.)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    1997—Subsec. (b). [Pub. L. 105–34, § 507(a)(2)][/us/pl/105/34/s507/a/2], inserted “except as provided in subsection (c),” after “subpart,” in introductory provisions.
+    1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34], § 507(a)(2), inserted “except as provided in subsection (c),” after “subpart,” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 105–34, § 507(a)(1)][/us/pl/105/34/s507/a/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 507(a)(1), added subsec. (c).
 
-    Subsec. (d)(1). [Pub. L. 105–34, § 1604(g)(2)][/us/pl/105/34/s1604/g/2], struck out “or 669(d) and (e)” after “666(b) and (c)”.
+    Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34], § 1604(g)(2), struck out “or 669(d) and (e)” after “666(b) and (c)”.
 
-    1996—Subsec. (c). [Pub. L. 104–188, § 1904(c)(2)][/us/pl/104/188/s1904/c/2], struck out subsec. (c) which read as follows: “Special Rule Applicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust.”
+    1996—Subsec. (c). [Pub. L. 104–188][/us/pl/104/188], § 1904(c)(2), struck out subsec. (c) which read as follows: “Special Rule Applicable to Distributions by Certain Foreign Trusts.—For purposes of this subpart, any amount paid to a United States person which is from a payor who is not a United States person and which is derived directly or indirectly from a foreign trust created by a United States person shall be deemed in the year of payment to have been directly paid by the foreign trust.”
 
-    Subsec. (d)(2). [Pub. L. 104–188, § 1904(b)(1)][/us/pl/104/188/s1904/b/1], inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term ‘taxes imposed on the trust’ includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
+    Subsec. (d)(2). [Pub. L. 104–188][/us/pl/104/188], § 1904(b)(1), inserted at end “Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the term ‘taxes imposed on the trust’ includes the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.”
 
     1990—Subsec. (e). [Pub. L. 101–508][/us/pl/101/508] amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this subpart—
 
@@ -103,13 +103,13 @@
 
     1978—Subsec. (d). [Pub. L. 95–600][/us/pl/95/600] designated existing provisions as par. (1), defined “taxes imposed on the trust” to mean imposition of taxes without regard to subpart A of part IV of subchapter (A), and added par. (2).
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 701(b)][/us/pl/94/455/s701/b], (c), inserted provisions that for purposes of sec. 667 the amounts specified in par. (2) of sec. 661(a) not include amounts paid, credited, or required to be distributed to a beneficiary from a trust as income accumulated before the birth of such beneficiary or before such beneficiary reaches 21, and that if the amounts paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there be no accumulation distribution for such year.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 701(b), (c), inserted provisions that for purposes of sec. 667 the amounts specified in par. (2) of sec. 661(a) not include amounts paid, credited, or required to be distributed to a beneficiary from a trust as income accumulated before the birth of such beneficiary or before such beneficiary reaches 21, and that if the amounts paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there be no accumulation distribution for such year.
 
-    Subsecs. (d), (e). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (d), (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e)(1). [Pub. L. 94–455, § 701(d)(2)][/us/pl/94/455/s701/d/2], struck out provision that preceding taxable year does not include any taxable year of the trust which begins before Jan. 1, 1969, in the case of a capital gain distribution made during a taxable year beginning after Dec. 31, 1968.
+    Subsec. (e)(1). [Pub. L. 94–455][/us/pl/94/455], § 701(d)(2), struck out provision that preceding taxable year does not include any taxable year of the trust which begins before Jan. 1, 1969, in the case of a capital gain distribution made during a taxable year beginning after Dec. 31, 1968.
 
-    Subsecs. (f), (g). [Pub. L. 94–455, § 701(d)(3)][/us/pl/94/455/s701/d/3], struck out subsec. (f) which related to undistributed capital gains, and subsec. (g) which related to capital gain distribution.
+    Subsecs. (f), (g). [Pub. L. 94–455][/us/pl/94/455], § 701(d)(3), struck out subsec. (f) which related to undistributed capital gains, and subsec. (g) which related to capital gain distribution.
 
     1971—Subsec. (g). [Pub. L. 92–178][/us/pl/92/178] struck out “for such taxable year” after “undistributed capital gain” in introductory text.
 
@@ -125,13 +125,13 @@
 
     Subsecs. (f), (g). [Pub. L. 91–172][/us/pl/91/172] added subsecs. (f) and (g).
 
-    1962—Subsec. (b). [Pub. L. 87–834, § 7(b)(1)][/us/pl/87/834/s7/b/1], substituted “Accumulation distributions of trusts other than certain foreign trusts” for “Accumulation distribution” in heading, and inserted “in the case of a trust (other than a foreign trust created by a United States person),” after “purposes of this subpart,”.
+    1962—Subsec. (b). [Pub. L. 87–834][/us/pl/87/834], § 7(b)(1), substituted “Accumulation distributions of trusts other than certain foreign trusts” for “Accumulation distribution” in heading, and inserted “in the case of a trust (other than a foreign trust created by a United States person),” after “purposes of this subpart,”.
 
-    Subsecs. (c) to (e). [Pub. L. 87–834, § 7(b)(2)][/us/pl/87/834/s7/b/2], added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+    Subsecs. (c) to (e). [Pub. L. 87–834][/us/pl/87/834], § 7(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title V, § 507(c)(1)][/us/pl/105/34/s507/c/1], Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], provided that: 
+[Pub. L. 105–34, title V][/us/pl/105/34/tV], § 507(c)(1), Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -141,11 +141,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 701(q)(3)(A)][/us/pl/95/600/s701/q/3/A], Nov. 6, 1978, [92 Stat. 2910][/us/stat/92/2910], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(q)(3)(A), Nov. 6, 1978, [92 Stat. 2910][/us/stat/92/2910], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and [section 667 of this title][/us/usc/t26/s667]\] shall apply to distributions made in taxable years beginning after December 31, 1975.”
 
@@ -155,11 +155,11 @@
 
  __Effective Date of 1971 Amendment__ 
 
-    [Pub. L. 92–178, title III, § 306(a)][/us/pl/92/178/s306/a], Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1968.
+    [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 306(a), Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1968.
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title III, § 331(d)][/us/pl/91/172/s331/d], Dec. 30, 1969, [83 Stat. 598][/us/stat/83/598], as amended by [Pub. L. 92–178, title III, § 306(b)][/us/pl/92/178/s306/b], Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(d), Dec. 30, 1969, [83 Stat. 598][/us/stat/83/598], as amended by [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 306(b), Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) __General rule.—__ 
 
@@ -194,37 +194,37 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F223
-[/us/pl/87/834/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fb
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F985
-[/us/pl/91/172/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fa
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F592
-[/us/pl/92/178/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs306%2Fa
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F524
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1577
-[/us/pl/95/600/s701/q/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fq%2F1%2FA
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2909
-[/us/pl/99/514/s1847/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1847%2Fb%2F16
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2857
-[/us/pl/101/508/s11802/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11802%2Ff%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-530
-[/us/pl/104/188/s1904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fb%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1912
-[/us/pl/105/34/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fa
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F856
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/105/34/s507/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fa%2F2
-[/us/pl/105/34/s507/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fa%2F1
-[/us/pl/105/34/s1604/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fg%2F2
-[/us/pl/104/188/s1904/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fc%2F2
-[/us/pl/104/188/s1904/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fb%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fb
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fd%2F2
-[/us/pl/94/455/s701/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fd%2F3
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
@@ -232,29 +232,29 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/87/834/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fb%2F1
-[/us/pl/87/834/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fb%2F2
-[/us/pl/105/34/s507/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fc%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F857
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1904%2Fd
 [/us/usc/t26/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs643
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/95/600/s701/q/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fq%2F3%2FA
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2910
 [/us/usc/t26/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs667
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs667
-[/us/pl/92/178/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs306%2Fa
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F524
-[/us/pl/91/172/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fd
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F598
-[/us/pl/92/178/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs306%2Fb
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F524
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834/s7/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fj

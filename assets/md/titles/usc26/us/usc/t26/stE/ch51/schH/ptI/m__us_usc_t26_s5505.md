@@ -55,7 +55,7 @@
 
         This chapter (other than this part and the provisions referred to in subsection (a), (b), (c), (d), (e), (f), (g), (h), (i) shall not be applicable with respect to plants established or operations conducted under this part.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1391][/us/stat/72/1391]; amended [Pub. L. 94–455, title XIX, § 1905(b)(6)(E)][/us/pl/94/455/s1905/b/6/E], Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1391][/us/stat/72/1391]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(6)(E), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823].)
 
  __Prior Provisions__ 
 
@@ -224,9 +224,9 @@ Provisions similar to those comprising subsecs. (a) to (i) of this section were 
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1391
-[/us/pl/94/455/s1905/b/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F6%2FE
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736

@@ -43,11 +43,11 @@
 
         (2) ending with the last day of the calendar quarter preceding the first calendar quarter thereafter in which (A) such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet the applicable requirements of subsection (a), or (B) the sect or division thereof of which such employer (or, if the employer is a partnership, any partner therein) or employee is a member is found by the Commissioner of Social Security to have ceased to meet the requirements of subsection (b)(2).
 
-(Added [Pub. L. 100–647, title VIII, § 8007(a)(1)][/us/pl/100/647/s8007/a/1], Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781]; amended [Pub. L. 101–239, title X, § 10204(b)(1)][/us/pl/101/239/s10204/b/1], Dec. 19, 1989, [103 Stat. 2474][/us/stat/103/2474]; [Pub. L. 103–296, title I, § 108(h)(3)][/us/pl/103/296/s108/h/3], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
+(Added [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8007(a)(1), Nov. 10, 1988, [102 Stat. 3781][/us/stat/102/3781]; amended [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10204(b)(1), Dec. 19, 1989, [103 Stat. 2474][/us/stat/103/2474]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(h)(3), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
 
  __References in Text__ 
 
-    Sections 203 and 222(b) of the Social Security Act, referred to in subsec. (b)(3), are classified to sections 403 and 422(b), respectively, of Title 42, The Public Health and Welfare. Section 222(b) was repealed by [Pub. L. 106–170, title I, § 101(b)(1)(C)][/us/pl/106/170/s101/b/1/C], Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873].
+    Sections 203 and 222(b) of the Social Security Act, referred to in subsec. (b)(3), are classified to sections 403 and 422(b), respectively, of Title 42, The Public Health and Welfare. Section 222(b) was repealed by [Pub. L. 106–170, title I][/us/pl/106/170/tI], § 101(b)(1)(C), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873].
 
  __Prior Provisions__ 
 
@@ -57,17 +57,17 @@
 
     1994—Subsecs. (b)(2), (c)(2). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 10204(b)(1)(B)][/us/pl/101/239/s10204/b/1/B], substituted “the employees thereof” for “his employees” in concluding provisions.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
 
-    Subsec. (a)(1). [Pub. L. 101–239, § 10204(b)(1)(A)][/us/pl/101/239/s10204/b/1/A], inserted “(or, if the employer is a partnership, each partner therein)” after “an employer”.
+    Subsec. (a)(1). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(A), inserted “(or, if the employer is a partnership, each partner therein)” after “an employer”.
 
-    Subsec. (b). [Pub. L. 101–239, § 10204(b)(1)(C)][/us/pl/101/239/s10204/b/1/C], inserted “(or a partner)” after “an employer” in introductory provisions.
+    Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(C), inserted “(or a partner)” after “an employer” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 101–239, § 10204(b)(1)(D)][/us/pl/101/239/s10204/b/1/D], substituted “the employees thereof” for “his employees” in introductory provisions.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(D), substituted “the employees thereof” for “his employees” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 101–239, § 10204(b)(1)(E)][/us/pl/101/239/s10204/b/1/E], inserted “(or, if the employer is a partnership, each partner therein)”.
+    Subsec. (c)(1). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(E), inserted “(or, if the employer is a partnership, each partner therein)”.
 
-    Subsec. (c)(2). [Pub. L. 101–239, § 10204(b)(1)(F)][/us/pl/101/239/s10204/b/1/F], substituted “such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet” for “such employer or the employee involved ceases to meet” in cl. (A) and inserted “(or, if the employer is a partnership, any partner therein)” after “such employer” in cl. (B).
+    Subsec. (c)(2). [Pub. L. 101–239][/us/pl/101/239], § 10204(b)(1)(F), substituted “such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet” for “such employer or the employee involved ceases to meet” in cl. (A) and inserted “(or, if the employer is a partnership, any partner therein)” after “such employer” in cl. (B).
 
  __Effective Date of 1994 Amendment__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title X, § 10204(b)(2)][/us/pl/101/239/s10204/b/2], Dec. 19, 1989, [103 Stat. 2474][/us/stat/103/2474], provided that: 
+[Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10204(b)(2), Dec. 19, 1989, [103 Stat. 2474][/us/stat/103/2474], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall be effective as if they were included in the amendments made by section 8007(a)(1) of the Technical and Miscellaneous Revenue Act of 1988 ([102 Stat. 3781][/us/stat/102/3781]) \[[Pub. L. 100–647][/us/pl/100/647]\].”
 
@@ -90,26 +90,26 @@
 ----------
 ----------
 
-[/us/pl/100/647/s8007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8007%2Fa%2F1
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3781
-[/us/pl/101/239/s10204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2474
-[/us/pl/103/296/s108/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fh%2F3
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1487
-[/us/pl/106/170/s101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FC
+[/us/pl/106/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtI
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
 [/us/usc/t26/s3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3128
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/101/239/s10204/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FB
-[/us/pl/101/239/s10204/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FA
-[/us/pl/101/239/s10204/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FC
-[/us/pl/101/239/s10204/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FD
-[/us/pl/101/239/s10204/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FE
-[/us/pl/101/239/s10204/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F1%2FF
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/101/239/s10204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10204%2Fb%2F2
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2474
 [/us/stat/102/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3781
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

@@ -17,7 +17,7 @@
 
     Whenever seizure is made of any distilled spirits found elsewhere than on the premises of a distilled spirits plant, or than in any warehouse authorized by law, or than in the store or place of business of a wholesale liquor dealer, or than in transit from any one of said places; or of any distilled spirits found in any one of the places aforesaid, or in transit therefrom, which have not been received into or sent out therefrom in conformity to law, or in regard to which any of the entries required by law, or regulations issued pursuant thereto, to be made in respect of such spirits, have not been made at the time or in the manner required, or in respect to which any owner or person having possession, control, or charge of said spirits, has omitted to do any act required to be done, or has done or committed any act prohibited in regard to said spirits, the burden of proof shall be upon the claimant of said spirits to show that no fraud has been committed, and that all the requirements of the law in relation to the payment of the tax have been complied with.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1405][/us/stat/72/1405].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1405][/us/stat/72/1405].)
 
  __Prior Provisions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1405
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_stE_ch51_schH_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_s5521...5523.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
 
 #### Subchapter I—Miscellaneous General Provisions
 
@@ -123,16 +123,16 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter I consisted of sections 5551 to 5557, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior subchapter I consisted of sections 5551 to 5557, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_stE_ch51_schH_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_s5521...5523.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
 
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
 
 

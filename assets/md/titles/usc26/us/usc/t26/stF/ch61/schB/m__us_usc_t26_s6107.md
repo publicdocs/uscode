@@ -35,21 +35,21 @@
 
         For purposes of this section, the terms “return” and “claim for refund” have the respective meanings given to such terms by section 6696(e), and the term “return period” has the meaning given to such term by section 6060(c).
 
-(Added [Pub. L. 94–455, title XII, § 1203(c)][/us/pl/94/455/s1203/c], Oct. 4, 1976, [90 Stat. 1690][/us/stat/90/1690]; amended [Pub. L. 110–28, title VIII, § 8246(a)(2)(C)(i)][/us/pl/110/28/s8246/a/2/C/i], May 25, 2007, [121 Stat. 201][/us/stat/121/201].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(c), Oct. 4, 1976, [90 Stat. 1690][/us/stat/90/1690]; amended [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(C)(i), May 25, 2007, [121 Stat. 201][/us/stat/121/201].)
 
  __Prior Provisions__ 
 
-    A prior section 6107, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756]; Nov. 2, 1966, [Pub. L. 89–713, § 4(c)][/us/pl/89/713/s4/c], [80 Stat. 1110][/us/stat/80/1110], authorized an alphabetical list of names of all persons who have paid special taxes under subtitle D or E of this title to be kept for public inspection, prior to repeal by [Pub. L. 90–618, title II, § 203(a)][/us/pl/90/618/s203/a], Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].
+    A prior section 6107, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756]; Nov. 2, 1966, [Pub. L. 89–713][/us/pl/89/713], § 4(c), [80 Stat. 1110][/us/stat/80/1110], authorized an alphabetical list of names of all persons who have paid special taxes under subtitle D or E of this title to be kept for public inspection, prior to repeal by [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 203(a), Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–28, § 8246(a)(2)(C)(i)(I)][/us/pl/110/28/s8246/a/2/C/i/I], substituted “Tax return preparer” for “Income tax return preparer” in section catchline.
+    2007—[Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(C)(i)(I), substituted “Tax return preparer” for “Income tax return preparer” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–28, § 8246(a)(2)(C)(i)(II)][/us/pl/110/28/s8246/a/2/C/i/II], substituted “a tax return preparer” for “an income tax return preparer”.
+    Subsec. (a). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(C)(i)(II), substituted “a tax return preparer” for “an income tax return preparer”.
 
-    Subsec. (b). [Pub. L. 110–28, § 8246(a)(2)(C)(i)(II)][/us/pl/110/28/s8246/a/2/C/i/II], (III), substituted “tax return preparer” for “income tax return preparer” in heading and “a tax return preparer” for “an income tax return preparer” in text.
+    Subsec. (b). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(C)(i)(II), (III), substituted “tax return preparer” for “income tax return preparer” in heading and “a tax return preparer” for “an income tax return preparer” in text.
 
-    Subsec. (c). [Pub. L. 110–28, § 8246(a)(2)(C)(i)(IV)][/us/pl/110/28/s8246/a/2/C/i/IV], substituted “tax return preparers” for “income tax return preparers”.
+    Subsec. (c). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(C)(i)(IV), substituted “tax return preparers” for “income tax return preparers”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -66,20 +66,20 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fc
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1690
-[/us/pl/110/28/s8246/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FC%2Fi
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F756
-[/us/pl/89/713/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713%2Fs4%2Fc
+[/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/stat/80/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1110
-[/us/pl/90/618/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs203%2Fa
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1235
-[/us/pl/110/28/s8246/a/2/C/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FC%2Fi%2FI
-[/us/pl/110/28/s8246/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FC%2Fi%2FII
-[/us/pl/110/28/s8246/a/2/C/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FC%2Fi%2FII
-[/us/pl/110/28/s8246/a/2/C/i/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FC%2Fi%2FIV
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28/s8246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fc
 [/us/usc/t26/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6060

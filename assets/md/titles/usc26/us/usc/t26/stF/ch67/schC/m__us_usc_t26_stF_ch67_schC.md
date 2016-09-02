@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title III, § 344(b)(3)(A)][/us/pl/97/248/s344/b/3/A], Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], inserted “; Compounding of Interest” after “Rate” in heading for subchapter C.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 344(b)(3)(A), Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], inserted “; Compounding of Interest” after “Rate” in heading for subchapter C.
 
-    [Pub. L. 97–248, title III, § 344(b)(2)][/us/pl/97/248/s344/b/2], Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], added item 6622.
+    [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 344(b)(2), Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], added item 6622.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/97/248/s344/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs344%2Fb%2F3%2FA
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F636
-[/us/pl/97/248/s344/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs344%2Fb%2F2
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F636
 
 

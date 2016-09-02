@@ -97,7 +97,7 @@ Amendments  </td>
 
 </table>
 
-    1966—[Pub. L. 89–809, title III, § 302(b)][/us/pl/89/809/s302/b], Nov. 13, 1966, [80 Stat. 1588][/us/stat/80/1588], added item VIII.
+    1966—[Pub. L. 89–809, title III][/us/pl/89/809/tIII], § 302(b), Nov. 13, 1966, [80 Stat. 1588][/us/stat/80/1588], added item VIII.
 
 ----------
 
@@ -106,7 +106,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/89/809/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs302%2Fb
+[/us/pl/89/809/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtIII
 [/us/stat/80/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1588
 
 

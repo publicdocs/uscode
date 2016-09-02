@@ -81,7 +81,7 @@
 
         For provisions treating certain relinquishments of marital rights as consideration in money or money’s worth, see section 2043(b)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 389][/us/stat/68A/389]; [Feb. 20, 1956, ch. 63, § 2][/us/act/1956-02-20/ch63/s2], [70 Stat. 23][/us/stat/70/23]; [Pub. L. 85–866, title I, § 102(c)(3)][/us/pl/85/866/s102/c/3], Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175, § 1][/us/pl/86/175/s1], Aug. 21, 1959, [73 Stat. 396][/us/stat/73/396]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 98–369, div. A, title IV, § 425(a)(2)][/us/pl/98/369/s425/a/2], title X, § 1027(b), July 18, 1984, [98 Stat. 804][/us/stat/98/804], 1031; [Pub. L. 100–647, title I, § 1011A(g)(11)][/us/pl/100/647/s1011A/g/11], Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 105–34, title V, § 503(b)(1)][/us/pl/105/34/s503/b/1], title X, § 1073(b)(3), Aug. 5, 1997, [111 Stat. 853][/us/stat/111/853], 948; [Pub. L. 107–16, title V, § 532(c)(5)][/us/pl/107/16/s532/c/5], June 7, 2001, [115 Stat. 74][/us/stat/115/74]; [Pub. L. 107–134, title I, § 103(b)(2)][/us/pl/107/134/s103/b/2], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 389][/us/stat/68A/389]; [Feb. 20, 1956, ch. 63][/us/act/1956-02-20/ch63], § 2, [70 Stat. 23][/us/stat/70/23]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 102(c)(3), Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175][/us/pl/86/175], § 1, Aug. 21, 1959, [73 Stat. 396][/us/stat/73/396]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 425(a)(2), title X, § 1027(b), July 18, 1984, [98 Stat. 804][/us/stat/98/804], 1031; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011A(g)(11), Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 503(b)(1), title X, § 1073(b)(3), Aug. 5, 1997, [111 Stat. 853][/us/stat/111/853], 948; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(5), June 7, 2001, [115 Stat. 74][/us/stat/115/74]; [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 103(b)(2), Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431].)
 
  __Amendments__ 
 
@@ -89,15 +89,15 @@
 
     2001—Subsec. (d). [Pub. L. 107–16][/us/pl/107/16] substituted “Certain foreign death taxes” for “Certain State and foreign death taxes” in heading and amended text generally, revising and restating provisions of pars. (1) to (3) so as to eliminate provisions relating to deduction for State death taxes.
 
-    1997—Subsec. (c)(1)(B). [Pub. L. 105–34, § 1073(b)(3)][/us/pl/105/34/s1073/b/3], struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
+    1997—Subsec. (c)(1)(B). [Pub. L. 105–34][/us/pl/105/34], § 1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
-    Subsec. (c)(1)(D). [Pub. L. 105–34, § 503(b)(1)][/us/pl/105/34/s503/b/1], added subpar. (D).
+    Subsec. (c)(1)(D). [Pub. L. 105–34][/us/pl/105/34], § 503(b)(1), added subpar. (D).
 
     1988—Subsec. (c)(1)(B). [Pub. L. 100–647][/us/pl/100/647], inserted at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
-    1984—Subsec. (c)(1)(C). [Pub. L. 98–369, § 1027(b)][/us/pl/98/369/s1027/b], added subpar. (C).
+    1984—Subsec. (c)(1)(C). [Pub. L. 98–369][/us/pl/98/369], § 1027(b), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 98–369, § 425(a)(2)][/us/pl/98/369/s425/a/2], substituted “For provisions treating certain relinquishments of marital rights as consideration in money or money’s worth, see section 2043(b)(2)” for “For provisions that relinquishment of marital rights shall not be deemed a consideration ‘in money or money’s worth,’ see section 2043(b).”
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 425(a)(2), substituted “For provisions treating certain relinquishments of marital rights as consideration in money or money’s worth, see section 2043(b)(2)” for “For provisions that relinquishment of marital rights shall not be deemed a consideration ‘in money or money’s worth,’ see section 2043(b).”
 
     1976—Subsec. (d)(1). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in provisions preceding subpar. (A) and following subpar. (B) and struck out “or Territory” after “a State” in subpar. (A).
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–134, title I, § 103(d)][/us/pl/107/134/s103/d], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431], provided that:
+[Pub. L. 107–134, title I][/us/pl/107/134/tI], § 103(d), Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431], provided that:
 
 >     “(1)  __Effective date__  __.—__ 
 
@@ -141,7 +141,7 @@
 
     Amendment by [section 425(a)(2) of Pub. L. 98–369][/us/pl/98/369/s425/a/2] applicable to estates of decedents dying after July 18, 1984, see [section 425(c)(1) of Pub. L. 98–369][/us/pl/98/369/s425/c/1], set out as a note under [section 2043 of this title][/us/usc/t26/s2043].
 
-[Pub. L. 98–369, div. A, title X, § 1027(c)][/us/pl/98/369/s1027/c], July 18, 1984, [98 Stat. 1032][/us/stat/98/1032], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1027(c), July 18, 1984, [98 Stat. 1032][/us/stat/98/1032], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2056 of this title][/us/usc/t26/s2056]\] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[[section 403 of Pub. L. 97–34][/us/pl/97/34/s403], see Effective Date of 1981 Amendment note set out under [section 2056 of this title][/us/usc/t26/s2056]\].”
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–175, § 4][/us/pl/86/175/s4], Aug. 21, 1959, [73 Stat. 397][/us/stat/73/397], provided that: 
+[Pub. L. 86–175][/us/pl/86/175], § 4, Aug. 21, 1959, [73 Stat. 397][/us/stat/73/397], provided that: 
 
 > “The amendments made by the preceding sections of this Act \[amending this section and sections 2011 and 2014 of this title\] shall apply with respect to the estates of decedents dying on or after July 1, 1955.”
 
@@ -161,7 +161,7 @@
 
  __Effective Date of 1956 Amendment__ 
 
-[Act Feb. 20, 1956, ch. 63, § 4][/us/act/1956-02-20/ch63/s4], [70 Stat. 25][/us/stat/70/25], as amended by act Oct. 22, 1986, [Pub. L. 99–514, § 2][/us/pl/99/514/s2], [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Act Feb. 20, 1956, ch. 63][/us/act/1956-02-20/ch63], § 4, [70 Stat. 25][/us/stat/70/25], as amended by act Oct. 22, 1986, [Pub. L. 99–514][/us/pl/99/514], § 2, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by sections 2 and 3 of this Act \[amending this section and [section 2011 of this title][/us/usc/t26/s2011]\], and provisions having the same effect as this amendment, which shall be considered to be included in chapter 3 of the Internal Revenue Code of 1939, shall apply to the estates of all decedents dying after December 31, 1953.”
 
@@ -174,35 +174,35 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F389
-[/us/act/1956-02-20/ch63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-20%2Fch63%2Fs2
+[/us/act/1956-02-20/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-20%2Fch63
 [/us/stat/70/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F23
-[/us/pl/85/866/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fc%2F3
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1674
-[/us/pl/86/175/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175%2Fs1
+[/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/stat/73/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F396
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1806
-[/us/pl/98/369/s425/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fa%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F804
-[/us/pl/100/647/s1011A/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fg%2F11
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3482
-[/us/pl/105/34/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs503%2Fb%2F1
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F853
-[/us/pl/107/16/s532/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F5
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F74
-[/us/pl/107/134/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fb%2F2
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2431
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/105/34/s1073/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1073%2Fb%2F3
-[/us/pl/105/34/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs503%2Fb%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/98/369/s1027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1027%2Fb
-[/us/pl/98/369/s425/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fa%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/pl/107/134/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fd
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2431
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
@@ -221,7 +221,7 @@
 [/us/pl/98/369/s425/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fa%2F2
 [/us/pl/98/369/s425/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fc%2F1
 [/us/usc/t26/s2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2043
-[/us/pl/98/369/s1027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1027%2Fc
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1032
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
 [/us/pl/97/34/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403
@@ -229,14 +229,14 @@
 [/us/pl/94/455/s1902/a/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FB
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
-[/us/pl/86/175/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175%2Fs4
+[/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/stat/73/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F397
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
 [/us/usc/t26/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2014
-[/us/act/1956-02-20/ch63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-20%2Fch63%2Fs4
+[/us/act/1956-02-20/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-20%2Fch63
 [/us/stat/70/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F25
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
 

@@ -95,15 +95,15 @@
 
         the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 378][/us/stat/68A/378]; [Pub. L. 85–866, title I, § 102(c)(2)][/us/pl/85/866/s102/c/2], Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175, § 2][/us/pl/86/175/s2], Aug. 21, 1959, [73 Stat. 397][/us/stat/73/397]; [Pub. L. 89–809, title I, § 106(b)(3)][/us/pl/89/809/s106/b/3], Nov. 13, 1966, [80 Stat. 1570][/us/stat/80/1570]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XX, § 2001(c)(1)(G), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1852; [Pub. L. 107–16, title V, § 532(c)(3)][/us/pl/107/16/s532/c/3], June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 378][/us/stat/68A/378]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 102(c)(2), Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175][/us/pl/86/175], § 2, Aug. 21, 1959, [73 Stat. 397][/us/stat/73/397]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 106(b)(3), Nov. 13, 1966, [80 Stat. 1570][/us/stat/80/1570]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XX, § 2001(c)(1)(G), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1852; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(3), June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
 
  __Amendments__ 
 
     2001—Subsec. (b)(2). [Pub. L. 107–16][/us/pl/107/16] struck out “, 2011,” after “sections 2010” in introductory provisions.
 
-    1976—Subsec. (b)(2). [Pub. L. 94–455, § 2001(c)(1)(G)][/us/pl/94/455/s2001/c/1/G], inserted reference to section 2010 in introductory provisions.
+    1976—Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], § 2001(c)(1)(G), inserted reference to section 2010 in introductory provisions.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1966—Subsec. (a). [Pub. L. 89–809][/us/pl/89/809] struck out provision that, if the decedent at the time of his death was not a citizen of the United States, credit would not be allowed under this section unless the foreign country of which the decedent was a citizen or subject, in imposing estate, inheritance, legacy, or succession taxes, allows a similar credit in the case of a citizen of the United States resident in such country.
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 102(d)][/us/pl/85/866/s102/d], Sept. 2, 1958, [72 Stat. 1675][/us/stat/72/1675], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 102(d), Sept. 2, 1958, [72 Stat. 1675][/us/stat/72/1675], provided that: 
 
 > “The amendments made by this section (other than by subsection (b)) \[enacting [section 2208 of this title][/us/usc/t26/s2208] and amending this section and sections 2011 and 2053 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendment made by subsection (b) \[amending [section 2501 of this title][/us/usc/t26/s2501]\] shall apply to gifts made after the date of the enactment of this Act.”
 
@@ -140,19 +140,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F378
-[/us/pl/85/866/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fc%2F2
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1674
-[/us/pl/86/175/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175%2Fs2
+[/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/stat/73/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F397
-[/us/pl/89/809/s106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs106%2Fb%2F3
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1570
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/107/16/s532/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F3
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F74
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/94/455/s2001/c/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FG
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
@@ -166,7 +166,7 @@
 [/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/pl/86/175/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175%2Fs4
 [/us/usc/t26/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2053
-[/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1675
 [/us/usc/t26/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2208
 [/us/usc/t26/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2501

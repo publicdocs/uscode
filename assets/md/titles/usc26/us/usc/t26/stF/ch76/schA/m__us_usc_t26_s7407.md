@@ -39,7 +39,7 @@
 
         the court may enjoin such person from further engaging in such conduct. If the court finds that a tax return preparer has continually or repeatedly engaged in any conduct described in subparagraphs (A) through (D) of this subsection and that an injunction prohibiting such conduct would not be sufficient to prevent such person’s interference with the proper administration of this title, the court may enjoin such person from acting as a tax return preparer.
 
-(Added [Pub. L. 94–455, title XII, § 1203(g)][/us/pl/94/455/s1203/g], Oct. 4, 1976, [90 Stat. 1693][/us/stat/90/1693]; amended [Pub. L. 101–239, title VII, § 7738(a)][/us/pl/101/239/s7738/a], (b), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(i)][/us/pl/110/28/s8246/a/2/I/i], May 25, 2007, [121 Stat. 202][/us/stat/121/202].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(g), Oct. 4, 1976, [90 Stat. 1693][/us/stat/90/1693]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7738(a), (b), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(I)(i), May 25, 2007, [121 Stat. 202][/us/stat/121/202].)
 
  __Prior Provisions__ 
 
@@ -47,15 +47,15 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–28, § 8246(a)(2)(I)(i)(I)][/us/pl/110/28/s8246/a/2/I/i/I], substituted “tax return preparers” for “income tax return preparers” in section catchline.
+    2007—[Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(I)(i)(I), substituted “tax return preparers” for “income tax return preparers” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–28, § 8246(a)(2)(I)(i)(II)][/us/pl/110/28/s8246/a/2/I/i/II]–(IV), substituted “tax return” for “income tax return” after “with respect to whose”, “tax return preparer” for “income tax preparer” after “district in which the” and after “against such”, and “a tax return preparer” for “an income tax return preparer” in two places.
+    Subsec. (a). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(I)(i)(II)–(IV), substituted “tax return” for “income tax return” after “with respect to whose”, “tax return preparer” for “income tax preparer” after “district in which the” and after “against such”, and “a tax return preparer” for “an income tax return preparer” in two places.
 
-    Subsec. (b). [Pub. L. 110–28, § 8246(a)(2)(I)(i)(II)][/us/pl/110/28/s8246/a/2/I/i/II], substituted “a tax return preparer” for “an income tax return preparer” in introductory provisions and subpar. (B) of par. (1) and in two places in concluding provisions.
+    Subsec. (b). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(I)(i)(II), substituted “a tax return preparer” for “an income tax return preparer” in introductory provisions and subpar. (B) of par. (1) and in two places in concluding provisions.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7738(b)][/us/pl/101/239/s7738/b], substituted “A civil” for “Except as provided in subsection (c), a civil”.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7738(b), substituted “A civil” for “Except as provided in subsection (c), a civil”.
 
-    Subsec. (c). [Pub. L. 101–239, § 7738(a)][/us/pl/101/239/s7738/a], struck out subsec. (c) relating to bonds to stay injunctions.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7738(a), struck out subsec. (c) relating to bonds to stay injunctions.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7738(c)][/us/pl/101/239/s7738/c], Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7738(c), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to actions commenced after December 31, 1989.”
 
@@ -78,22 +78,22 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fg
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1693
-[/us/pl/101/239/s7738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7738%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2404
-[/us/pl/110/28/s8246/a/2/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FI%2Fi
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F202
 [/us/usc/t26/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7410
-[/us/pl/110/28/s8246/a/2/I/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FI%2Fi%2FI
-[/us/pl/110/28/s8246/a/2/I/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FI%2Fi%2FII
-[/us/pl/110/28/s8246/a/2/I/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FI%2Fi%2FII
-[/us/pl/101/239/s7738/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7738%2Fb
-[/us/pl/101/239/s7738/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7738%2Fa
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28/s8246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fc
 [/us/usc/t26/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6060
-[/us/pl/101/239/s7738/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7738%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2404
 [/us/pl/94/455/s1203/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fj
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701

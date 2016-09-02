@@ -59,17 +59,17 @@
 
             (C) gain on the redemption, sale, or other disposition of such written notice of allocation or per-unit retain certificate by any person shall, to the extent that the stated dollar amount of such written notice of allocation or per-unit retain certificate exceeds its basis, be considered as ordinary income.
 
-(Added [Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1048][/us/stat/76/1048]; amended [Pub. L. 89–809, title II, § 211(b)(1)][/us/pl/89/809/s211/b/1]–(4), Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834.)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1048][/us/stat/76/1048]; amended [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(b)(1)–(4), Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c)(2)(C). [Pub. L. 94–455, § 1901(b)(3)(I)][/us/pl/94/455/s1901/b/3/I], substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+    Subsec. (c)(2)(C). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
 
-    1966—Subsec. (a)(3). [Pub. L. 89–809, § 211(b)(1)][/us/pl/89/809/s211/b/1], added par. (3).
+    1966—Subsec. (a)(3). [Pub. L. 89–809][/us/pl/89/809], § 211(b)(1), added par. (3).
 
-    Subsec. (c). [Pub. L. 89–809, § 211(b)(2)][/us/pl/89/809/s211/b/2]–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
+    Subsec. (c). [Pub. L. 89–809][/us/pl/89/809], § 211(b)(2)–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -90,16 +90,16 @@
 ----------
 ----------
 
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1048
-[/us/pl/89/809/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fb%2F1
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1582
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FI
-[/us/pl/89/809/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fb%2F1
-[/us/pl/89/809/s211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fb%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/94/455/s1901/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FI
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2

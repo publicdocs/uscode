@@ -321,7 +321,7 @@
 
                 (ii) levy on any such property with respect to such failure.
 
-(Added and amended [Pub. L. 111–148, title I, § 1501(b)][/us/pl/111/148/s1501/b], title X, § 10106(b)–(d), Mar. 23, 2010, [124 Stat. 244][/us/stat/124/244], 909, 910; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, [124 Stat. 1032][/us/stat/124/1032], 1034; [Pub. L. 111–159, § 2(a)][/us/pl/111/159/s2/a], Apr. 26, 2010, [124 Stat. 1123][/us/stat/124/1123]; [Pub. L. 111–173, § 1(a)][/us/pl/111/173/s1/a], May 27, 2010, [124 Stat. 1215][/us/stat/124/1215].)
+(Added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1501(b), title X, § 10106(b)–(d), Mar. 23, 2010, [124 Stat. 244][/us/stat/124/244], 909, 910; [Pub. L. 111–152, title I][/us/pl/111/152/tI], §§ 1002, 1004(a)(1)(C), (2)(B), Mar. 30, 2010, [124 Stat. 1032][/us/stat/124/1032], 1034; [Pub. L. 111–159][/us/pl/111/159], § 2(a), Apr. 26, 2010, [124 Stat. 1123][/us/stat/124/1123]; [Pub. L. 111–173][/us/pl/111/173], § 1(a), May 27, 2010, [124 Stat. 1215][/us/stat/124/1215].)
 
  __References in Text__ 
 
@@ -333,29 +333,29 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1). [Pub. L. 111–148, § 10106(b)(1)][/us/pl/111/148/s10106/b/1], amended par. (1) generally. Prior to amendment, text read as follows: “If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c).”
+    2010—Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c).”
 
-    Subsec. (c)(1), (2). [Pub. L. 111–148, § 10106(b)(2)][/us/pl/111/148/s10106/b/2], amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
+    Subsec. (c)(1), (2). [Pub. L. 111–148][/us/pl/111/148], § 10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-    Subsec. (c)(2)(B). [Pub. L. 111–152, § 1002(a)(1)(A)][/us/pl/111/152/s1002/a/1/A], inserted “the excess of” before “the taxpayer’s household income” and “for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer” before “for the taxable year” in introductory provisions.
+    Subsec. (c)(2)(B). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(1)(A), inserted “the excess of” before “the taxpayer’s household income” and “for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer” before “for the taxable year” in introductory provisions.
 
-    Subsec. (c)(2)(B)(i). [Pub. L. 111–152, § 1002(a)(1)(B)][/us/pl/111/152/s1002/a/1/B], substituted “1.0” for “0.5”.
+    Subsec. (c)(2)(B)(i). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(1)(B), substituted “1.0” for “0.5”.
 
-    Subsec. (c)(2)(B)(ii). [Pub. L. 111–152, § 1002(a)(1)(C)][/us/pl/111/152/s1002/a/1/C], substituted “2.0” for “1.0”.
+    Subsec. (c)(2)(B)(ii). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(1)(C), substituted “2.0” for “1.0”.
 
-    Subsec. (c)(2)(B)(iii). [Pub. L. 111–152, § 1002(a)(1)(D)][/us/pl/111/152/s1002/a/1/D], substituted “2.5” for “2.0”.
+    Subsec. (c)(2)(B)(iii). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(1)(D), substituted “2.5” for “2.0”.
 
-    Subsec. (c)(3)(A). [Pub. L. 111–152, § 1002(a)(2)(A)][/us/pl/111/152/s1002/a/2/A], substituted “$695” for “$750”.
+    Subsec. (c)(3)(A). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(2)(A), substituted “$695” for “$750”.
 
-    Subsec. (c)(3)(B). [Pub. L. 111–152, § 1002(a)(2)(B)][/us/pl/111/152/s1002/a/2/B], substituted “$325” for “$495”.
+    Subsec. (c)(3)(B). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(2)(B), substituted “$325” for “$495”.
 
-    [Pub. L. 111–148, § 10106(b)(3)][/us/pl/111/148/s10106/b/3], substituted “$495” for “$350”.
+    [Pub. L. 111–148][/us/pl/111/148], § 10106(b)(3), substituted “$495” for “$350”.
 
-    Subsec. (c)(3)(D). [Pub. L. 111–152, § 1002(a)(2)(C)][/us/pl/111/152/s1002/a/2/C], substituted “$695” for “$750” in introductory provisions and cl. (i).
+    Subsec. (c)(3)(D). [Pub. L. 111–152][/us/pl/111/152], § 1002(a)(2)(C), substituted “$695” for “$750” in introductory provisions and cl. (i).
 
-    Subsec. (c)(4)(B)(i), (ii). [Pub. L. 111–152, § 1004(a)(1)(C)][/us/pl/111/152/s1004/a/1/C], substituted “modified adjusted gross” for “modified gross”.
+    Subsec. (c)(4)(B)(i), (ii). [Pub. L. 111–152][/us/pl/111/152], § 1004(a)(1)(C), substituted “modified adjusted gross” for “modified gross”.
 
-    Subsec. (c)(4)(C). [Pub. L. 111–152, § 1004(a)(2)(B)][/us/pl/111/152/s1004/a/2/B], amended subpar. (C) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
+    Subsec. (c)(4)(C). [Pub. L. 111–152][/us/pl/111/152], § 1004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
 
     “(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
 
@@ -363,37 +363,37 @@
 
     “(iii) determined without regard to sections 911, 931, and 933.”
 
-    Subsec. (c)(4)(D). [Pub. L. 111–152, § 1002(b)(1)][/us/pl/111/152/s1002/b/1], struck out subpar. (D). Text read as follows:
+    Subsec. (c)(4)(D). [Pub. L. 111–152][/us/pl/111/152], § 1002(b)(1), struck out subpar. (D). Text read as follows:
 
     “(i) In general.—The term ‘poverty line’ has the meaning given that term in section 2110(c)(5) of the Social Security Act ([42 U.S.C. 1397jj(c)(5)][/us/usc/t42/s1397jj/c/5]).
 
     “(ii) Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year.”
 
-    Subsec. (d)(2)(A). [Pub. L. 111–148, § 10106(c)][/us/pl/111/148/s10106/c], amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
+    Subsec. (d)(2)(A). [Pub. L. 111–148][/us/pl/111/148], § 10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
 
-    Subsec. (e)(1)(C). [Pub. L. 111–148, § 10106(d)][/us/pl/111/148/s10106/d], amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee.”
+    Subsec. (e)(1)(C). [Pub. L. 111–148][/us/pl/111/148], § 10106(d), amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee.”
 
-    Subsec. (e)(2). [Pub. L. 111–152, § 1002(b)(2)][/us/pl/111/152/s1002/b/2], substituted “below filing threshold” for “under 100 percent of poverty line” in heading and “the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.” for “100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4)).” in text.
+    Subsec. (e)(2). [Pub. L. 111–152][/us/pl/111/152], § 1002(b)(2), substituted “below filing threshold” for “under 100 percent of poverty line” in heading and “the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.” for “100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4)).” in text.
 
-    Subsec. (f)(1)(A)(iv). [Pub. L. 111–159, § 2(a)(1)][/us/pl/111/159/s2/a/1], added cl. (iv) and struck out former cl. (iv) which read as follows: “the TRICARE for Life program,”.
+    Subsec. (f)(1)(A)(iv). [Pub. L. 111–159][/us/pl/111/159], § 2(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “the TRICARE for Life program,”.
 
-    Subsec. (f)(1)(A)(v). [Pub. L. 111–173, § 1(a)][/us/pl/111/173/s1/a], amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran’s health care program under chapter 17 of title 38, United States Code,”.
+    Subsec. (f)(1)(A)(v). [Pub. L. 111–173][/us/pl/111/173], § 1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran’s health care program under chapter 17 of title 38, United States Code,”.
 
-    Subsec. (f)(1)(A)(vii). [Pub. L. 111–159, § 2(a)(2)][/us/pl/111/159/s2/a/2]–(4), added cl. (vii).
+    Subsec. (f)(1)(A)(vii). [Pub. L. 111–159][/us/pl/111/159], § 2(a)(2)–(4), added cl. (vii).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–173, § 1(b)][/us/pl/111/173/s1/b], May 27, 2010, [124 Stat. 1215][/us/stat/124/1215], provided that: 
+[Pub. L. 111–173][/us/pl/111/173], § 1(b), May 27, 2010, [124 Stat. 1215][/us/stat/124/1215], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\].”
 
-[Pub. L. 111–159, § 2(b)][/us/pl/111/159/s2/b], Apr. 26, 2010, [124 Stat. 1123][/us/stat/124/1123], provided that: 
+[Pub. L. 111–159][/us/pl/111/159], § 2(b), Apr. 26, 2010, [124 Stat. 1123][/us/stat/124/1123], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\] and shall be executed immediately after the amendments made by such section 1501(b).”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1501(d)][/us/pl/111/148/s1501/d], Mar. 23, 2010, [124 Stat. 249][/us/stat/124/249], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1501(d), Mar. 23, 2010, [124 Stat. 249][/us/stat/124/249], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 18091 of Title 42][/us/usc/t42/s18091], The Public Health and Welfare\] shall apply to taxable years ending after December 31, 2013.”
 
@@ -407,13 +407,13 @@
 [/us/usc/t22/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fe
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/usc/t10/s1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1587
-[/us/pl/111/148/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1501%2Fb
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F244
-[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1032
-[/us/pl/111/159/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159%2Fs2%2Fa
+[/us/pl/111/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159
 [/us/stat/124/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1123
-[/us/pl/111/173/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173%2Fs1%2Fa
+[/us/pl/111/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173
 [/us/stat/124/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1215
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
@@ -422,33 +422,33 @@
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s300gg–91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9391
-[/us/pl/111/148/s10106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fb%2F1
-[/us/pl/111/148/s10106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fb%2F2
-[/us/pl/111/152/s1002/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F1%2FA
-[/us/pl/111/152/s1002/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F1%2FB
-[/us/pl/111/152/s1002/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F1%2FC
-[/us/pl/111/152/s1002/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F1%2FD
-[/us/pl/111/152/s1002/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F2%2FA
-[/us/pl/111/152/s1002/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F2%2FB
-[/us/pl/111/148/s10106/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fb%2F3
-[/us/pl/111/152/s1002/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fa%2F2%2FC
-[/us/pl/111/152/s1004/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fa%2F1%2FC
-[/us/pl/111/152/s1004/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fa%2F2%2FB
-[/us/pl/111/152/s1002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fb%2F1
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t42/s1397jj/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fc%2F5
-[/us/pl/111/148/s10106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fc
-[/us/pl/111/148/s10106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fd
-[/us/pl/111/152/s1002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1002%2Fb%2F2
-[/us/pl/111/159/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159%2Fs2%2Fa%2F1
-[/us/pl/111/173/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173%2Fs1%2Fa
-[/us/pl/111/159/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159%2Fs2%2Fa%2F2
-[/us/pl/111/173/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173%2Fs1%2Fb
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159
+[/us/pl/111/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173
+[/us/pl/111/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159
+[/us/pl/111/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F173
 [/us/stat/124/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1215
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/159/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159%2Fs2%2Fb
+[/us/pl/111/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F159
 [/us/stat/124/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1123
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s1501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1501%2Fd
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F249
 [/us/usc/t42/s18091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18091
 

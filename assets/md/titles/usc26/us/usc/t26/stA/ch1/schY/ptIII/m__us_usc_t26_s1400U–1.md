@@ -69,7 +69,7 @@
 
         (3) any area for which a designation as an empowerment zone or renewal community is in effect.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1401(a)][/us/pl/111/5/s1401/a], Feb. 17, 2009, [123 Stat. 348][/us/stat/123/348].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1401(a), Feb. 17, 2009, [123 Stat. 348][/us/stat/123/348].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–5, div. B, title I, § 1401(c)][/us/pl/111/5/s1401/c], Feb. 17, 2009, [123 Stat. 351][/us/stat/123/351], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1401(c), Feb. 17, 2009, [123 Stat. 351][/us/stat/123/351], provided that: 
 
 > “The amendments made by this section \[enacting this part\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -88,12 +88,12 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1401%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F348
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1808
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/111/5/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1401%2Fc
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F351
 
 

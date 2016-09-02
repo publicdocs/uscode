@@ -73,37 +73,37 @@
 
             With respect to any property described in paragraph (1), the exceptions provided by subsection (b)(3)(B) shall apply.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 836][/us/stat/68A/836]; [Pub. L. 94–455, title XII, § 1204(c)(7)][/us/pl/94/455/s1204/c/7]–(9), title XIX, § 1906(a)(38), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1698][/us/stat/90/1698], 1830, 1834; [Pub. L. 100–203, title X, § 10713(b)(2)(E)][/us/pl/100/203/s10713/b/2/E], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title VI, § 6245(a)][/us/pl/100/647/s6245/a], Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 101–239, title VII, § 7822(d)(2)][/us/pl/101/239/s7822/d/2], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 836][/us/stat/68A/836]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(c)(7)–(9), title XIX, § 1906(a)(38), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1698][/us/stat/90/1698], 1830, 1834; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(b)(2)(E), Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6245(a), Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7822(d)(2), Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425].)
 
  __Amendments__ 
 
-    1989—Subsec. (b)(3)(A)(iii). [Pub. L. 101–239][/us/pl/101/239] made technical correction to [Pub. L. 100–203, § 10713(b)(2)(E)(iii)][/us/pl/100/203/s10713/b/2/E/iii], see 1987 Amendment note below.
+    1989—Subsec. (b)(3)(A)(iii). [Pub. L. 101–239][/us/pl/101/239] made technical correction to [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(E)(iii), see 1987 Amendment note below.
 
     1988—Subsec. (b)(3)(C). [Pub. L. 100–647][/us/pl/100/647] added subpar. (C).
 
-    1987—Subsec. (a). [Pub. L. 100–203, § 10713(b)(2)(E)(i)][/us/pl/100/203/s10713/b/2/E/i], substituted “6851, 6852,” for “6851”.
+    1987—Subsec. (a). [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
 
-    Subsec. (b)(3)(A). [Pub. L. 100–203, § 10713(b)(2)(E)(ii)][/us/pl/100/203/s10713/b/2/E/ii], substituted “6851, 6852, or 6861” for “6851 or 6861”.
+    Subsec. (b)(3)(A). [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(E)(ii), substituted “6851, 6852, or 6861” for “6851 or 6861”.
 
-    Subsec. (b)(3)(A)(iii). [Pub. L. 100–203, § 10713(b)(2)(E)(iii)][/us/pl/100/203/s10713/b/2/E/iii], as amended by [Pub. L. 101–239][/us/pl/101/239], substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
+    Subsec. (b)(3)(A)(iii). [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(E)(iii), as amended by [Pub. L. 101–239][/us/pl/101/239], substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
 
-    Subsec. (b)(3)(A). [Pub. L. 94–455, § 1204(c)(8)][/us/pl/94/455/s1204/c/8], substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
+    Subsec. (b)(3)(A). [Pub. L. 94–455][/us/pl/94/455], § 1204(c)(8), substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
 
-    Subsec. (b)(3)(B)(ii). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b)(3)(B)(ii). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(3)(C). [Pub. L. 94–455, § 1906(a)(38)][/us/pl/94/455/s1906/a/38], struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
+    Subsec. (b)(3)(C). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
 
-    Subsec. (c). [Pub. L. 94–455, § 1204(c)(9)][/us/pl/94/455/s1204/c/9], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1204(c)(9), added subsec. (c).
 
  __Effective Date of 1989 Amendment__ 
 
-    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
+    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6245(b)][/us/pl/100/647/s6245/b], Nov. 10, 1988, [102 Stat. 3751][/us/stat/102/3751], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6245(b), Nov. 10, 1988, [102 Stat. 3751][/us/stat/102/3751], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -122,31 +122,31 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F836
-[/us/pl/94/455/s1204/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F7
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1698
-[/us/pl/100/203/s10713/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FE
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-470
-[/us/pl/100/647/s6245/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6245%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3750
-[/us/pl/101/239/s7822/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7822%2Fd%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2425
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/203/s10713/b/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FE%2Fiii
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203/s10713/b/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FE%2Fi
-[/us/pl/100/203/s10713/b/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FE%2Fii
-[/us/pl/100/203/s10713/b/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FE%2Fiii
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1204/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F8
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F38
-[/us/pl/94/455/s1204/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F9
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/101/239/s7823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7823
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/100/647/s6245/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6245%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3751
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fd

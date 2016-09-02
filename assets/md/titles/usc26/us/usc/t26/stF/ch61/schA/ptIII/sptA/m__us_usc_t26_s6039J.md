@@ -23,7 +23,7 @@
 
         The Secretary of Agriculture shall furnish to each person whose name is required to be set forth in a return required under subsection (a) a written statement showing the amount of market gain reported in such return.
 
-(Added [Pub. L. 110–234, title XV, § 15353(a)][/us/pl/110/234/s15353/a], May 22, 2008, [122 Stat. 1526][/us/stat/122/1526], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15353(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2288.)
+(Added [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15353(a), May 22, 2008, [122 Stat. 1526][/us/stat/122/1526], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15353(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2288.)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 
     Enactment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title XV, § 15353(c)][/us/pl/110/234/s15353/c], May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15353(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15353(c), May 22, 2008, [122 Stat. 1527][/us/stat/122/1527], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15353(c), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2289, provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to loans repaid on or after January 1, 2007.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s15353/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15353%2Fa
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1526
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -59,9 +59,9 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s15353/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15353%2Fc
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1527
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

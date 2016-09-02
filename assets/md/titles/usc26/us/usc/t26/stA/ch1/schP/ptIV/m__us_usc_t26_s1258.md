@@ -119,11 +119,11 @@
 
                 (iii) the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.
 
-(Added [Pub. L. 103–66, title XIII, § 13206(a)(1)][/us/pl/103/66/s13206/a/1], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; amended [Pub. L. 108–357, title VIII, § 888(c)(2)][/us/pl/108/357/s888/c/2], Oct. 22, 2004, [118 Stat. 1643][/us/stat/118/1643].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(a)(1), Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 888(c)(2), Oct. 22, 2004, [118 Stat. 1643][/us/stat/118/1643].)
 
  __References in Text__ 
 
-    Section 464(e)(2), referred to in subsec. (d)(5)(C), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
+    Section 464(e)(2), referred to in subsec. (d)(5)(C), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(58)(C)(i), Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
  __Amendments__ 
 
@@ -135,7 +135,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13206(a)(3)][/us/pl/103/66/s13206/a/3], Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465], as amended by [Pub. L. 104–188, title I, § 1703(n)(11)][/us/pl/104/188/s1703/n/11], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(a)(3), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465], as amended by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(n)(11), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], provided that: 
 
 > “The amendments made by this subsection \[enacting this section\] shall apply to conversion transactions entered into after April 30, 1993.”
 
@@ -146,19 +146,19 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fa%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F462
-[/us/pl/108/357/s888/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs888%2Fc%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1643
-[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s888/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs888%2Fe
 [/us/usc/t26/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs246
-[/us/pl/103/66/s13206/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fa%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F465
-[/us/pl/104/188/s1703/n/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fn%2F11
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1877
 
 

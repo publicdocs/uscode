@@ -51,7 +51,7 @@
 
         (3) In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of a candidate or his authorized committees shall pay to the Secretary for deposit in the matching payment account, an amount equal to 125 percent of the kickback or payment received.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1302][/us/stat/88/1302].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1302][/us/stat/88/1302].)
 
  __Effective Date__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1302
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

@@ -135,7 +135,7 @@
 
             The terms “correction” and “correct” mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 499][/us/stat/83/499]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596, § 2(a)(1)(A)][/us/pl/96/596/s2/a/1/A], (B), (2)(A), (3)(A), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471; [Pub. L. 96–608, § 5][/us/pl/96/608/s5], Dec. 28, 1980, [94 Stat. 3553][/us/stat/94/3553]; [Pub. L. 99–234, title I, § 107(c)][/us/pl/99/234/s107/c], Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759]; [Pub. L. 99–514, title I, § 122(a)(2)(A)][/us/pl/99/514/s122/a/2/A], title XVIII, § 1812(b)(1), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110], 2833; [Pub. L. 100–647, title I, § 1001(d)(1)(A)][/us/pl/100/647/s1001/d/1/A], Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII, § 1212(a)(1)][/us/pl/109/280/s1212/a/1], (2), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 499][/us/stat/83/499]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(A), (B), (2)(A), (3)(A), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471; [Pub. L. 96–608][/us/pl/96/608], § 5, Dec. 28, 1980, [94 Stat. 3553][/us/stat/94/3553]; [Pub. L. 99–234, title I][/us/pl/99/234/tI], § 107(c), Jan. 2, 1986, [99 Stat. 1759][/us/stat/99/1759]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 122(a)(2)(A), title XVIII, § 1812(b)(1), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110], 2833; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1001(d)(1)(A), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1212(a)(1), (2), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074].)
 
  __References in Text__ 
 
@@ -147,37 +147,37 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1). [Pub. L. 109–280, § 1212(a)(1)(A)][/us/pl/109/280/s1212/a/1/A], substituted “10 percent” for “5 percent”. See Codification note above.
+    2006—Subsec. (a)(1). [Pub. L. 109–280][/us/pl/109/280], § 1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
 
-    Subsec. (a)(2). [Pub. L. 109–280, § 1212(a)(1)(B)][/us/pl/109/280/s1212/a/1/B], substituted “5 percent” for “2½ percent”. See Codification note above.
+    Subsec. (a)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(a)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
-    Subsec. (c)(2). [Pub. L. 109–280, § 1212(a)(2)][/us/pl/109/280/s1212/a/2], substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
+    Subsec. (c)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
 
     1988—Subsec. (d)(2)(G)(ii). [Pub. L. 100–647][/us/pl/100/647] amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
 
-    1986—Subsec. (d)(2)(B). [Pub. L. 99–514, § 1812(b)(1)][/us/pl/99/514/s1812/b/1], inserted “(determined without regard to section 7872)” after “without interest or other charge”.
+    1986—Subsec. (d)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
 
-    Subsec. (d)(2)(G)(i). [Pub. L. 99–514, § 122(a)(2)(A)][/us/pl/99/514/s122/a/2/A], inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
+    Subsec. (d)(2)(G)(i). [Pub. L. 99–514][/us/pl/99/514], § 122(a)(2)(A), inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
 
     Subsec. (d)(2)(G)(vii). [Pub. L. 99–234][/us/pl/99/234] substituted “5702” for “5702(a)”.
 
-    1980—Subsec. (b)(1). [Pub. L. 96–596, § 2(a)(1)(A)][/us/pl/96/596/s2/a/1/A], substituted “taxable period” for “correction period”.
+    1980—Subsec. (b)(1). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(A), substituted “taxable period” for “correction period”.
 
     Subsec. (d)(2)(H). [Pub. L. 96–608][/us/pl/96/608] added subpar. (H).
 
-    Subsec. (e)(1)(B), (C). [Pub. L. 96–596, § 2(a)(2)(A)][/us/pl/96/596/s2/a/2/A], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (e)(1)(B), (C). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (e)(2)(B). [Pub. L. 96–596, § 2(a)(1)(B)][/us/pl/96/596/s2/a/1/B], substituted “taxable period” for “correction period”.
+    Subsec. (e)(2)(B). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(B), substituted “taxable period” for “correction period”.
 
-    Subsec. (e)(4). [Pub. L. 96–596, § 2(a)(3)(A)][/us/pl/96/596/s2/a/3/A], struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+    Subsec. (e)(4). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(3)(A), struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
-    1976—Subsec. (d)(2)(G)(ii). [Pub. L. 94–455, § 1901(b)(8)(H)][/us/pl/94/455/s1901/b/8/H], substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
+    1976—Subsec. (d)(2)(G)(ii). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
 
-    Subsec. (e)(4). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (e)(4). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1212(f)][/us/pl/109/280/s1212/f], Aug. 17, 2006, [120 Stat. 1075][/us/stat/120/1075], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1212(f), Aug. 17, 2006, [120 Stat. 1075][/us/stat/120/1075], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4942 to 4945 and 4958 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -189,7 +189,7 @@
 
     Amendment by [section 122(a)(2)(A) of Pub. L. 99–514][/us/pl/99/514/s122/a/2/A] applicable to prizes and awards granted after Dec. 31, 1986, see [section 151(c) of Pub. L. 99–514][/us/pl/99/514/s151/c], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-    Amendment by [section 1812(b)(1) of Pub. L. 99–514][/us/pl/99/514/s1812/b/1] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1812(b)(1) of Pub. L. 99–514][/us/pl/99/514/s1812/b/1] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
     Amendment by [Pub. L. 99–234][/us/pl/99/234] effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see [section 301(a) of Pub. L. 99–234][/us/pl/99/234/s301/a], set out as a note under [section 5701 of Title 5][/us/usc/t5/s5701], Government Organization and Employees.
 
@@ -207,7 +207,7 @@
 
  __Tax on Self-Dealing Not To Apply to Certain Stock Purchases__ 
 
-[Pub. L. 98–369, div. A, title III, § 312][/us/pl/98/369/s312], July 18, 1984, [98 Stat. 786][/us/stat/98/786], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 312, July 18, 1984, [98 Stat. 786][/us/stat/98/786], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -237,41 +237,41 @@
 ----------
 
 [/us/usc/t5/s5702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5702
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F499
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1795
-[/us/pl/96/596/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FA
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3469
-[/us/pl/96/608/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F608%2Fs5
+[/us/pl/96/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F608
 [/us/stat/94/3553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3553
-[/us/pl/99/234/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2Fs107%2Fc
+[/us/pl/99/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234%2FtI
 [/us/stat/99/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1759
-[/us/pl/99/514/s122/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F2%2FA
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2110
-[/us/pl/100/647/s1001/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Fd%2F1%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3350
-[/us/pl/109/280/s1212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280/s1212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F1%2FA
-[/us/pl/109/280/s1212/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F1%2FB
-[/us/pl/109/280/s1212/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F2
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F1
-[/us/pl/99/514/s122/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F2%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
-[/us/pl/96/596/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FA
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/pl/96/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F608
-[/us/pl/96/596/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F2%2FA
-[/us/pl/96/596/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FB
-[/us/pl/96/596/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F3%2FA
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
-[/us/pl/94/455/s1901/b/8/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F8%2FH
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/109/280/s1212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Ff
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1075
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -281,7 +281,7 @@
 [/us/pl/99/514/s151/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fc
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514/s1812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fb%2F1
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F234
@@ -295,9 +295,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/98/369/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs312
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F786
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s507/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs507%2Fd%2F2
 [/us/pl/95/170/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F170%2Fs3

@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title IV, § 413(c)(31)][/us/pl/108/357/s413/c/31], Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509], struck out item for part III “Foreign personal holding companies”.
+    2004—[Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(31), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509], struck out item for part III “Foreign personal holding companies”.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s413/c/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F31
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
 
 

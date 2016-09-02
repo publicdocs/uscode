@@ -91,7 +91,7 @@
 
         (2) all amounts in each account maintained for the national committee of a major party or minor party under this section shall be transferred to a fund in the Treasury to be known as the “10-Year Pediatric Research Initiative Fund”, which shall be available only for the purpose provided in section 402A(a)(2) of the Public Health Service Act, and only to the extent and in such amounts as are provided in advance in appropriation Acts.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV, § 406(a)][/us/pl/93/443/s406/a], Oct. 15, 1974, [88 Stat. 1294][/us/stat/88/1294]; [Pub. L. 94–283, title III][/us/pl/94/283], §§ 303, 307(a), May 11, 1976, [90 Stat. 498][/us/stat/90/498], 501; [Pub. L. 96–187, title II, § 202][/us/pl/96/187/s202], Jan. 8, 1980, [93 Stat. 1368][/us/stat/93/1368]; [Pub. L. 98–355, § 1(a)][/us/pl/98/355/s1/a], (b), July 11, 1984, [98 Stat. 394][/us/stat/98/394]; [Pub. L. 113–94, § 2(a)][/us/pl/113/94/s2/a], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 406(a), Oct. 15, 1974, [88 Stat. 1294][/us/stat/88/1294]; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], §§ 303, 307(a), May 11, 1976, [90 Stat. 498][/us/stat/90/498], 501; [Pub. L. 96–187, title II][/us/pl/96/187/tII], § 202, Jan. 8, 1980, [93 Stat. 1368][/us/stat/93/1368]; [Pub. L. 98–355][/us/pl/98/355], § 1(a), (b), July 11, 1984, [98 Stat. 394][/us/stat/98/394]; [Pub. L. 113–94][/us/pl/113/94], § 2(a), Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
 
  __References in Text__ 
 
@@ -105,21 +105,21 @@
 
     2014—Subsec. (i). [Pub. L. 113–94][/us/pl/113/94] added subsec. (i).
 
-    1984—Subsec. (b)(1). [Pub. L. 98–355, § 1(a)][/us/pl/98/355/s1/a], substituted “$4,000,000” for “$3,000,000”.
+    1984—Subsec. (b)(1). [Pub. L. 98–355][/us/pl/98/355], § 1(a), substituted “$4,000,000” for “$3,000,000”.
 
-    Subsec. (b)(5). [Pub. L. 98–355, § 1(b)][/us/pl/98/355/s1/b], substituted “section 315(b) and section 315(d)” for “section 320(b) and section 320(d)” and “section 315(c)” for “section 320(c)”.
+    Subsec. (b)(5). [Pub. L. 98–355][/us/pl/98/355], § 1(b), substituted “section 315(b) and section 315(d)” for “section 320(b) and section 320(d)” and “section 315(c)” for “section 320(c)”.
 
     1980—Subsec. (b)(1). [Pub. L. 96–187][/us/pl/96/187] substituted “$3,000,000” for “$2,000,000”.
 
-    1976—Subsec. (b)(5). [Pub. L. 94–283, § 307(a)][/us/pl/94/283/s307/a], substituted “section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act” for “section 608(c) and [section 608(f) of title 18][/us/usc/t18/s608/f], United States Code, are adjusted pursuant to the provisions of section 608(d) of such title”.
+    1976—Subsec. (b)(5). [Pub. L. 94–283][/us/pl/94/283], § 307(a), substituted “section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act” for “section 608(c) and [section 608(f) of title 18][/us/usc/t18/s608/f], United States Code, are adjusted pursuant to the provisions of section 608(d) of such title”.
 
-    Subsec. (d)(4). [Pub. L. 94–283, § 303][/us/pl/94/283/s303], added par. (4).
+    Subsec. (d)(4). [Pub. L. 94–283][/us/pl/94/283], § 303, added par. (4).
 
     1974—[Pub. L. 93–443][/us/pl/93/443] substituted provisions respecting payments for presidential nominating conventions for prior provisions respecting information on proposed expenses, subsec. (a) relating to reports by candidates, and subsec. (b) to publication of summaries.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–355, § 1(c)][/us/pl/98/355/s1/c], July 11, 1984, [98 Stat. 394][/us/stat/98/394], provided that: 
+[Pub. L. 98–355][/us/pl/98/355], § 1(c), July 11, 1984, [98 Stat. 394][/us/stat/98/394], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 1984.”
 
@@ -138,29 +138,29 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F569
-[/us/pl/93/443/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fa
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1294
-[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F498
-[/us/pl/96/187/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs202
+[/us/pl/96/187/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2FtII
 [/us/stat/93/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1368
-[/us/pl/98/355/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355%2Fs1%2Fa
+[/us/pl/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355
 [/us/stat/98/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F394
-[/us/pl/113/94/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fa
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
 [/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/usc/t42/s282a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fa%2F2
 [/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
-[/us/pl/98/355/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355%2Fs1%2Fa
-[/us/pl/98/355/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355%2Fs1%2Fb
+[/us/pl/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355
+[/us/pl/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
-[/us/pl/94/283/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Fa
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Ff
-[/us/pl/94/283/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs303
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
-[/us/pl/98/355/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355%2Fs1%2Fc
+[/us/pl/98/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F355
 [/us/stat/98/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F394
 [/us/pl/96/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187
 [/us/pl/96/187/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs301%2Fa

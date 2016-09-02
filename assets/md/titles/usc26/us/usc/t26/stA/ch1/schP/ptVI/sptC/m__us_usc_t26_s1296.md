@@ -187,7 +187,7 @@
 
         If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
 
-(Added [Pub. L. 105–34, title XI, § 1122(a)][/us/pl/105/34/s1122/a], Aug. 5, 1997, [111 Stat. 972][/us/stat/111/972]; amended [Pub. L. 105–206, title VI, § 6011(c)(3)][/us/pl/105/206/s6011/c/3], July 22, 1998, [112 Stat. 818][/us/stat/112/818]; [Pub. L. 107–16, title V, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 108–311, title IV, § 408(a)(19)][/us/pl/108/311/s408/a/19], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+(Added [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1122(a), Aug. 5, 1997, [111 Stat. 972][/us/stat/111/972]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6011(c)(3), July 22, 1998, [112 Stat. 818][/us/stat/112/818]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(e)(5)(C), June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(19), Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __References in Text__ 
 
@@ -199,11 +199,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (i). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (i) to read as if amendment by [Pub. L. 107–16, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], had never been enacted. See 2001 Amendment note below.
+    2010—Subsec. (i). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (i) to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(e)(5)(C), had never been enacted. See 2001 Amendment note below.
 
     2004—Subsec. (h). [Pub. L. 108–311][/us/pl/108/311] substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
 
-    2001—Subsec. (i). [Pub. L. 107–16, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent’s estate) and with respect to which an election under this section was in effect as of the date of the decedent’s death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).”
+    2001—Subsec. (i). [Pub. L. 107–16][/us/pl/107/16], § 542(e)(5)(C), struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent’s estate) and with respect to which an election under this section was in effect as of the date of the decedent’s death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).”
 
     1998—Subsec. (d). [Pub. L. 105–206][/us/pl/105/206] inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company’s first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
 
@@ -230,22 +230,22 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F972
-[/us/pl/105/206/s6011/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6011%2Fc%2F3
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F818
-[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F85
-[/us/pl/108/311/s408/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F19
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/usc/t15/s78k–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78k%E2%80%931
 [/us/usc/t26/s1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1297
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe

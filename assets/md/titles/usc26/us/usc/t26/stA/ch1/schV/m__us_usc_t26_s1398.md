@@ -205,7 +205,7 @@
 
                     The term “carryback year” means the taxable year to which a carryback is carried.
 
-(Added [Pub. L. 96–589, § 3(a)(1)][/us/pl/96/589/s3/a/1], Dec. 24, 1980, [94 Stat. 3397][/us/stat/94/3397]; amended [Pub. L. 99–514, title I, § 104(b)(14)][/us/pl/99/514/s104/b/14], title XIII, § 1301(j)(8), title XVIII, § 1812(a)(5), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2658, 2833.)
+(Added [Pub. L. 96–589][/us/pl/96/589], § 3(a)(1), Dec. 24, 1980, [94 Stat. 3397][/us/stat/94/3397]; amended [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(14), title XIII, § 1301(j)(8), title XVIII, § 1812(a)(5), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2658, 2833.)
 
  __References in Text__ 
 
@@ -213,13 +213,13 @@
 
  __Amendments__ 
 
-    1986—Subsec. (c). [Pub. L. 99–514, § 104(b)(14)(A)][/us/pl/99/514/s104/b/14/A], substituted “basic standard deduction” for “zero bracket amount” in heading.
+    1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
 
-    Subsec. (c)(3). [Pub. L. 99–514, § 104(b)(14)(B)][/us/pl/99/514/s104/b/14/B], amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate’s zero bracket amount” in text.
+    Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514], § 104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate’s zero bracket amount” in text.
 
-    Subsec. (d)(2)(B). [Pub. L. 99–514, § 1301(j)(8)][/us/pl/99/514/s1301/j/8], substituted “section 7703” for “section 143”.
+    Subsec. (d)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1301(j)(8), substituted “section 7703” for “section 143”.
 
-    Subsec. (g)(3). [Pub. L. 99–514, § 1812(a)(5)][/us/pl/99/514/s1812/a/5], amended par. (3) generally. Prior to amendment, par. (3), recovery exclusion, read as follows: “Any recovery exclusion under section 111 (relating to recovery of bad debts, prior taxes, and delinquency amounts).”
+    Subsec. (g)(3). [Pub. L. 99–514][/us/pl/99/514], § 1812(a)(5), amended par. (3) generally. Prior to amendment, par. (3), recovery exclusion, read as follows: “Any recovery exclusion under section 111 (relating to recovery of bad debts, prior taxes, and delinquency amounts).”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -227,7 +227,7 @@
 
     Amendment by [section 1301(j)(8) of Pub. L. 99–514][/us/pl/99/514/s1301/j/8] applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of [Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date; Transitional Rules note under [section 141 of this title][/us/usc/t26/s141].
 
-    Amendment by [section 1812(a)(5) of Pub. L. 99–514][/us/pl/99/514/s1812/a/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1812(a)(5) of Pub. L. 99–514][/us/pl/99/514/s1812/a/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -246,14 +246,14 @@
 
 [/us/usc/t11/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs522
 [/us/usc/t11/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs503
-[/us/pl/96/589/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs3%2Fa%2F1
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3397
-[/us/pl/99/514/s104/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F14
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
-[/us/pl/99/514/s104/b/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F14%2FA
-[/us/pl/99/514/s104/b/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F14%2FB
-[/us/pl/99/514/s1301/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F8
-[/us/pl/99/514/s1812/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F5
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s104/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F14
 [/us/pl/99/514/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -261,7 +261,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
 [/us/pl/99/514/s1812/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F5
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/96/589/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs7%2Fb

@@ -85,7 +85,7 @@
 
         For provisions relating to penalties for failure to file a return required by this section, see section 6721.
 
-(Added [Pub. L. 99–514, title VI, § 641(a)][/us/pl/99/514/s641/a], Oct. 22, 1986, [100 Stat. 2282][/us/stat/100/2282]; amended [Pub. L. 100–647, title I, § 1006(h)(1)][/us/pl/100/647/s1006/h/1], (2), (3)(B), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410]; [Pub. L. 101–508, title XI, § 11323(a)][/us/pl/101/508/s11323/a], (b)(1), Nov. 5, 1990, [104 Stat. 1388–464][/us/stat/104/1388-464]; [Pub. L. 103–66, title XIII, § 13261(e)][/us/pl/103/66/s13261/e], Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539].)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 641(a), Oct. 22, 1986, [100 Stat. 2282][/us/stat/100/2282]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(h)(1), (2), (3)(B), Nov. 10, 1988, [102 Stat. 3410][/us/stat/102/3410]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11323(a), (b)(1), Nov. 5, 1990, [104 Stat. 1388–464][/us/stat/104/1388-464]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13261(e), Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539].)
 
  __Prior Provisions__ 
 
@@ -93,19 +93,19 @@
 
  __Amendments__ 
 
-    1993—Subsec. (b)(1). [Pub. L. 103–66, § 13261(e)(1)][/us/pl/103/66/s13261/e/1], substituted “section 197 intangibles” for “goodwill or going concern value”.
+    1993—Subsec. (b)(1). [Pub. L. 103–66][/us/pl/103/66], § 13261(e)(1), substituted “section 197 intangibles” for “goodwill or going concern value”.
 
-    Subsec. (d)(1). [Pub. L. 103–66, § 13261(e)(2)][/us/pl/103/66/s13261/e/2], substituted “section 197 intangibles” for “goodwill or going concern value (or similar items)”.
+    Subsec. (d)(1). [Pub. L. 103–66][/us/pl/103/66], § 13261(e)(2), substituted “section 197 intangibles” for “goodwill or going concern value (or similar items)”.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 11323(a)][/us/pl/101/508/s11323/a], inserted at end “If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.”
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 11323(a), inserted at end “If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.”
 
-    Subsecs. (e), (f). [Pub. L. 101–508, § 11323(b)(1)][/us/pl/101/508/s11323/b/1], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 101–508][/us/pl/101/508], § 11323(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    1988—Subsec. (b)(3). [Pub. L. 100–647, § 1006(h)(1)][/us/pl/100/647/s1006/h/1], substituted “deems” for “may find”.
+    1988—Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], § 1006(h)(1), substituted “deems” for “may find”.
 
-    Subsec. (d). [Pub. L. 100–647, § 1006(h)(2)][/us/pl/100/647/s1006/h/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1006(h)(2), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 100–647, § 1006(h)(3)(B)][/us/pl/100/647/s1006/h/3/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1006(h)(3)(B), added subsec. (e).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VI, § 641(c)][/us/pl/99/514/s641/c], Oct. 22, 1986, [100 Stat. 2283][/us/stat/100/2283], provided that: 
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 641(c), Oct. 22, 1986, [100 Stat. 2283][/us/stat/100/2283], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering former section 1060 as 1061\] shall apply to any acquisition of assets after May 6, 1986, unless such acquisition is pursuant to a binding contract which was in effect on May 6, 1986, and at all times thereafter.”
 
@@ -132,22 +132,22 @@
 ----------
 ----------
 
-[/us/pl/99/514/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs641%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2282
-[/us/pl/100/647/s1006/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fh%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3410
-[/us/pl/101/508/s11323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11323%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-464
-[/us/pl/103/66/s13261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fe
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F539
 [/us/usc/t26/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1061
-[/us/pl/103/66/s13261/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fe%2F1
-[/us/pl/103/66/s13261/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fe%2F2
-[/us/pl/101/508/s11323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11323%2Fa
-[/us/pl/101/508/s11323/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11323%2Fb%2F1
-[/us/pl/100/647/s1006/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fh%2F1
-[/us/pl/100/647/s1006/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fh%2F2
-[/us/pl/100/647/s1006/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fh%2F3%2FB
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13261/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fg
 [/us/usc/t26/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs197
@@ -158,7 +158,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs641%2Fc
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2283
 
 

@@ -33,7 +33,7 @@
 
         In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax.)
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 757][/us/stat/68A/757]; [Pub. L. 89–713, § 1(b)][/us/pl/89/713/s1/b], Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 94–452, § 3(c)(2)][/us/pl/94/452/s3/c/2], Oct. 2, 1976, [90 Stat. 1514][/us/stat/90/1514]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 757][/us/stat/68A/757]; [Pub. L. 89–713][/us/pl/89/713], § 1(b), Nov. 2, 1966, [80 Stat. 1108][/us/stat/80/1108]; [Pub. L. 94–452][/us/pl/94/452], § 3(c)(2), Oct. 2, 1976, [90 Stat. 1514][/us/stat/90/1514]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -45,7 +45,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–452, § 3(e)][/us/pl/94/452/s3/e], Oct. 2, 1976, [90 Stat. 1514][/us/stat/90/1514], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–452][/us/pl/94/452], § 3(e), Oct. 2, 1976, [90 Stat. 1514][/us/stat/90/1514], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -88,18 +88,18 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F757
-[/us/pl/89/713/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713%2Fs1%2Fb
+[/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/stat/80/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1108
-[/us/pl/94/452/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452%2Fs3%2Fc%2F2
+[/us/pl/94/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452
 [/us/stat/90/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1514
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
-[/us/pl/94/452/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452%2Fs3%2Fe
+[/us/pl/94/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452
 [/us/stat/90/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1514
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6158
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713

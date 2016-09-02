@@ -273,7 +273,7 @@
 
         (5) disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 108–357, title VIII, § 885(a)][/us/pl/108/357/s885/a], Oct. 22, 2004, [118 Stat. 1634][/us/stat/118/1634]; amended [Pub. L. 109–135, title IV, § 403(hh)(2)][/us/pl/109/135/s403/hh/2], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631]; [Pub. L. 109–280, title I, § 116(a)][/us/pl/109/280/s116/a], (b), Aug. 17, 2006, [120 Stat. 856][/us/stat/120/856], 858; [Pub. L. 110–458, title I, § 101(e)][/us/pl/110/458/s101/e], Dec. 23, 2008, [122 Stat. 5100][/us/stat/122/5100].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 885(a), Oct. 22, 2004, [118 Stat. 1634][/us/stat/118/1634]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(hh)(2), Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631]; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 116(a), (b), Aug. 17, 2006, [120 Stat. 856][/us/stat/120/856], 858; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(e), Dec. 23, 2008, [122 Stat. 5100][/us/stat/122/5100].)
 
  __References in Text__ 
 
@@ -289,7 +289,7 @@
 
     2008—Subsec. (b)(3)(A)(ii). [Pub. L. 110–458][/us/pl/110/458] inserted “to an applicable covered employee” after “under the plan”.
 
-    2006—Subsec. (b)(3). [Pub. L. 109–280, § 116(a)][/us/pl/109/280/s116/a], added par. (3). Former par. (3) redesignated (4).
+    2006—Subsec. (b)(3). [Pub. L. 109–280][/us/pl/109/280], § 116(a), added par. (3). Former par. (3) redesignated (4).
 
     Subsec. (b)(4), (5). [Pub. L. 109–280][/us/pl/109/280] redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing.
 
@@ -301,7 +301,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title I, § 116(c)][/us/pl/109/280/s116/c], Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858], provided that: 
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 116(c), Aug. 17, 2006, [120 Stat. 858][/us/stat/120/858], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers or other reservation of assets after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -311,11 +311,11 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–135, title IV, § 403(hh)(3)(A)][/us/pl/109/135/s403/hh/3/A], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that: 
+[Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(hh)(3)(A), Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that: 
 
 > “Notwithstanding section 885(d)(1) of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357], set out below\], subsection (b) of section 409A of the Internal Revenue Code of 1986 shall take effect on January 1, 2005.”
 
-[Pub. L. 108–357, title VIII, § 885(d)][/us/pl/108/357/s885/d], Oct. 22, 2004, [118 Stat. 1640][/us/stat/118/1640], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 885(d), Oct. 22, 2004, [118 Stat. 1640][/us/stat/118/1640], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -349,19 +349,19 @@
 
  __Guidance Relating to Conformance With Funding Rules__ 
 
-[Pub. L. 109–135, title IV, § 403(hh)(3)(B)][/us/pl/109/135/s403/hh/3/B], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that: 
+[Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(hh)(3)(B), Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Dec. 21, 2005\], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance.”
 
  __Guidance Relating to Change of Ownership or Control__ 
 
-[Pub. L. 108–357, title VIII, § 885(e)][/us/pl/108/357/s885/e], Oct. 22, 2004, [118 Stat. 1640][/us/stat/118/1640], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 885(e), Oct. 22, 2004, [118 Stat. 1640][/us/stat/118/1640], provided that: 
 
 > “Not later than 90 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance on what constitutes a change in ownership or effective control for purposes of section 409A of the Internal Revenue Code of 1986, as added by this section.”
 
  __Guidance Relating to Termination of Certain Existing Arrangements__ 
 
-[Pub. L. 108–357, title VIII, § 885(f)][/us/pl/108/357/s885/f], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], as amended by [Pub. L. 109–135, title IV, § 403(hh)(4)][/us/pl/109/135/s403/hh/4], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 885(f), Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], as amended by [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(hh)(4), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632], provided that: 
 
 > “Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
 
@@ -376,47 +376,47 @@
 ----------
 ----------
 
-[/us/pl/108/357/s885/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs885%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1634
-[/us/pl/109/135/s403/hh/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fhh%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
-[/us/pl/109/280/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs116%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F856
-[/us/pl/110/458/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fe
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5100
 [/us/usc/t29/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341
 [/us/usc/t15/s78p/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78p%2Fa
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
-[/us/pl/109/280/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs116%2Fa
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs116%2Fc
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F858
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/109/135/s403/hh/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fhh%2F3%2FA
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s885/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs885%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1640
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/109/135/s403/hh/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fhh%2F3%2FB
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
-[/us/pl/108/357/s885/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs885%2Fe
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1640
-[/us/pl/108/357/s885/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs885%2Ff
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1641
-[/us/pl/109/135/s403/hh/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fhh%2F4
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
 
 

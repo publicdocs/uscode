@@ -35,7 +35,7 @@
 
         such individual shall not be considered as married.
 
-(Added [Pub. L. 99–514, title XIII, § 1301(j)(2)(A)][/us/pl/99/514/s1301/j/2/A], Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657]; amended [Pub. L. 100–647, title I, § 1018(u)(41)][/us/pl/100/647/s1018/u/41], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 108–311, title II, § 207(26)][/us/pl/108/311/s207/26], Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178].)
+(Added [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(2)(A), Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(41), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 108–311, title II][/us/pl/108/311/tII], § 207(26), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178].)
 
  __Prior Provisions__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1301/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F2%2FA
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2657
-[/us/pl/100/647/s1018/u/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F41
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
-[/us/pl/108/311/s207/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F26
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
 [/us/usc/t26/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

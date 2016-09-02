@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1965—[Pub. L. 89–44, title VIII, § 805(f)(9)][/us/pl/89/44/s805/f/9], June 21, 1965, [79 Stat. 161][/us/stat/79/161], inserted reference to articles and residues in item 5223.
+    1965—[Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(f)(9), June 21, 1965, [79 Stat. 161][/us/stat/79/161], inserted reference to articles and residues in item 5223.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/89/44/s805/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Ff%2F9
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
 
 

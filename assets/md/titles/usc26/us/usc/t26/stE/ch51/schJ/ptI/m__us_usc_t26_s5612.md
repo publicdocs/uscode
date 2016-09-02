@@ -27,7 +27,7 @@
 
         (2) distilled spirits returned to bonded premises in accordance with the provisions of section 5215.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 96–39, title VIII, § 807(a)(55)][/us/pl/96/39/s807/a/55], July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(55), July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 
  __Suspension of Subsection (a) During 1980__ 
 
-    [Pub. L. 96–39, title VIII, § 808(c)(1)][/us/pl/96/39/s808/c/1], July 26, 1979, [93 Stat. 291][/us/stat/93/291], set out as a note under [section 5061 of this title][/us/usc/t26/s5061], provided that subsec. (a) of this section was not to apply during 1980.
+    [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 808(c)(1), July 26, 1979, [93 Stat. 291][/us/stat/93/291], set out as a note under [section 5061 of this title][/us/usc/t26/s5061], provided that subsec. (a) of this section was not to apply during 1980.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1404
-[/us/pl/96/39/s807/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F55
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685
@@ -70,7 +70,7 @@
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/96/39/s808/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs808%2Fc%2F1
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F291
 [/us/usc/t26/s5061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5061
 

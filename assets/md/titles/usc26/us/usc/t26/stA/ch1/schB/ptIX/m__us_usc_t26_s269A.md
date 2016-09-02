@@ -41,7 +41,7 @@
 
             All related persons (within the meaning of section 144(a)(3)) shall be treated as 1 entity.
 
-(Added [Pub. L. 97–248, title II, § 250(a)][/us/pl/97/248/s250/a], Sept. 3, 1982, [96 Stat. 528][/us/stat/96/528]; amended [Pub. L. 99–514, title XIII, § 1301(j)(4)][/us/pl/99/514/s1301/j/4], Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657].)
+(Added [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 250(a), Sept. 3, 1982, [96 Stat. 528][/us/stat/96/528]; amended [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(4), Oct. 22, 1986, [100 Stat. 2657][/us/stat/100/2657].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title II, § 250(c)][/us/pl/97/248/s250/c], Sept. 3, 1982, [96 Stat. 529][/us/stat/96/529], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 250(c), Sept. 3, 1982, [96 Stat. 529][/us/stat/96/529], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1982.”
 
@@ -64,15 +64,15 @@
 ----------
 ----------
 
-[/us/pl/97/248/s250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs250%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F528
-[/us/pl/99/514/s1301/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F4
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2657
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
-[/us/pl/97/248/s250/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs250%2Fc
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F529
 
 

@@ -17,7 +17,7 @@
 
     Any distillery or distilling apparatus seized on any premises qualified under this chapter, for any violation of law, may, in the discretion of the court, be released before final judgment to a receiver appointed by the court to operate such distillery or apparatus. Such receiver shall give bond, which shall be approved in open court, with corporate surety, for the full appraised value of all the property seized, to be ascertained by three competent appraisers designated and appointed by the court. Funds obtained from such operation shall be impounded as the court shall direct pending such final judgment.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404].)
 
  __Prior Provisions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1404
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685

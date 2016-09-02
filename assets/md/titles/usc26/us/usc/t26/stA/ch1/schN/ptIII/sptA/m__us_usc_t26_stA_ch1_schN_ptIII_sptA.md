@@ -99,15 +99,15 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–226, title II, § 211(b)][/us/pl/111/226/s211/b], Aug. 10, 2010, [124 Stat. 2395][/us/stat/124/2395], added item 909.
+    2010—[Pub. L. 111–226, title II][/us/pl/111/226/tII], § 211(b), Aug. 10, 2010, [124 Stat. 2395][/us/stat/124/2395], added item 909.
 
-    1986—[Pub. L. 99–514, title XII, § 1202(d)][/us/pl/99/514/s1202/d], Oct. 22, 1986, [100 Stat. 2531][/us/stat/100/2531], substituted “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” in item 902.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1202(d), Oct. 22, 1986, [100 Stat. 2531][/us/stat/100/2531], substituted “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” in item 902.
 
-    1976—[Pub. L. 94–455, title X, § 1061(b)][/us/pl/94/455/s1061/b], Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650], added item 908.
+    1976—[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1061(b), Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650], added item 908.
 
-    1975—[Pub. L. 94–12, title VI, § 601(c)][/us/pl/94/12/s601/c], Mar. 29, 1975, [89 Stat. 57][/us/stat/89/57], added item 907.
+    1975—[Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 601(c), Mar. 29, 1975, [89 Stat. 57][/us/stat/89/57], added item 907.
 
-    1966—[Pub. L. 89–809, title I, § 106(a)(2)][/us/pl/89/809/s106/a/2], Nov. 13, 1966, [80 Stat. 1569][/us/stat/80/1569], added item 906.
+    1966—[Pub. L. 89–809, title I][/us/pl/89/809/tI], § 106(a)(2), Nov. 13, 1966, [80 Stat. 1569][/us/stat/80/1569], added item 906.
 
 ----------
 
@@ -116,15 +116,15 @@
 ----------
 ----------
 
-[/us/pl/111/226/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs211%2Fb
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2395
-[/us/pl/99/514/s1202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1202%2Fd
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2531
-[/us/pl/94/455/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1061%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1650
-[/us/pl/94/12/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs601%2Fc
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F57
-[/us/pl/89/809/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs106%2Fa%2F2
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1569
 
 

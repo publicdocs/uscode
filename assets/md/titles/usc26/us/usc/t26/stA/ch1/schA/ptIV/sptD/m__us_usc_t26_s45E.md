@@ -85,7 +85,7 @@
 
             This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.
 
-(Added [Pub. L. 107–16, title VI, § 619(a)][/us/pl/107/16/s619/a], June 7, 2001, [115 Stat. 108][/us/stat/115/108]; amended [Pub. L. 107–147, title IV, § 411(n)(1)][/us/pl/107/147/s411/n/1], Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48].)
+(Added [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 619(a), June 7, 2001, [115 Stat. 108][/us/stat/115/108]; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(n)(1), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48].)
 
  __Amendments__ 
 
@@ -106,9 +106,9 @@
 ----------
 ----------
 
-[/us/pl/107/16/s619/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs619%2Fa
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F108
-[/us/pl/107/147/s411/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fn%2F1
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F48
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147

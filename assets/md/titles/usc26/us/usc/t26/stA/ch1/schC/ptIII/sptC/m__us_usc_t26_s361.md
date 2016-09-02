@@ -85,7 +85,7 @@
 
             For provision providing for recognition of gain in certain distributions, see section 355(d).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 99–514, title XVIII, § 1804(g)(1)][/us/pl/99/514/s1804/g/1], Oct. 22, 1986, [100 Stat. 2805][/us/stat/100/2805]; [Pub. L. 100–647, title I, § 1018(d)(5)(A)][/us/pl/100/647/s1018/d/5/A], Nov. 10, 1988, [102 Stat. 3578][/us/stat/102/3578]; [Pub. L. 101–508, title XI, § 11321(b)][/us/pl/101/508/s11321/b], Nov. 5, 1990, [104 Stat. 1388–463][/us/stat/104/1388-463]; [Pub. L. 108–357, title VIII, § 898(a)][/us/pl/108/357/s898/a], Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV, § 403(jj)(1)][/us/pl/109/135/s403/jj/1], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(g)(1), Oct. 22, 1986, [100 Stat. 2805][/us/stat/100/2805]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(d)(5)(A), Nov. 10, 1988, [102 Stat. 3578][/us/stat/102/3578]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11321(b), Nov. 5, 1990, [104 Stat. 1388–463][/us/stat/104/1388-463]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 898(a), Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(jj)(1), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
 
  __Amendments__ 
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVIII, § 1804(g)(4)][/us/pl/99/514/s1804/g/4], Oct. 22, 1986, [100 Stat. 2806][/us/stat/100/2806], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(g)(4), Oct. 22, 1986, [100 Stat. 2806][/us/stat/100/2806], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 368 of this title][/us/usc/t26/s368]\] shall apply to plans of reorganizations adopted after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -134,15 +134,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F118
-[/us/pl/99/514/s1804/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fg%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2805
-[/us/pl/100/647/s1018/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F5%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3578
-[/us/pl/101/508/s11321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11321%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-463
-[/us/pl/108/357/s898/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs898%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1649
-[/us/pl/109/135/s403/jj/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fjj%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -163,7 +163,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1804/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fg%2F4
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2806
 [/us/usc/t26/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs368
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

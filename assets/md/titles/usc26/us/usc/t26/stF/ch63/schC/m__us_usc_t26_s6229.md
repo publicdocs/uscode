@@ -109,11 +109,11 @@
 
         (2) for 60 days thereafter.
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 659][/us/stat/96/659]; amended [Pub. L. 99–514, title XVIII, § 1875(d)(1)][/us/pl/99/514/s1875/d/1], Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I, § 1018][/us/pl/100/647/s1018](o)(3), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1233(a)–(c), 1235(a), Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], 1024; [Pub. L. 107–147, title IV, § 416(d)(1)(B)][/us/pl/107/147/s416/d/1/B], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 111–147, title V, § 513(a)(2)(B)][/us/pl/111/147/s513/a/2/B], Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 659][/us/stat/96/659]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1875(d)(1), Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(o)(3), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1233(a)–(c), 1235(a), Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], 1024; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 416(d)(1)(B), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 513(a)(2)(B), Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
 
  __Amendments__ 
 
@@ -121,13 +121,13 @@
 
     2002—Subsec. (f)(2). [Pub. L. 107–147][/us/pl/107/147] inserted “or the Attorney General (or his delegate)” after “Secretary”.
 
-    1997—Subsec. (b)(2), (3). [Pub. L. 105–34, § 1233(c)][/us/pl/105/34/s1233/c], added par. (2) and redesignated former par. (2) as (3).
+    1997—Subsec. (b)(2), (3). [Pub. L. 105–34][/us/pl/105/34], § 1233(c), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (d)(1). [Pub. L. 105–34, § 1233(a)][/us/pl/105/34/s1233/a], substituted “(and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and” for “(and, if an action with respect to such administrative adjustment is brought during such period, until the decision of the court in such action becomes final), and”.
+    Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34], § 1233(a), substituted “(and, if a petition is filed under section 6226 with respect to such administrative adjustment, until the decision of the court becomes final), and” for “(and, if an action with respect to such administrative adjustment is brought during such period, until the decision of the court in such action becomes final), and”.
 
-    Subsec. (f). [Pub. L. 105–34, § 1235(a)][/us/pl/105/34/s1235/a], substituted “Special rules” for “Items becoming nonpartnership items” in heading, designated existing provisions as par. (1), added heading, and realigned margins, and added par. (2).
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1235(a), substituted “Special rules” for “Items becoming nonpartnership items” in heading, designated existing provisions as par. (1), added heading, and realigned margins, and added par. (2).
 
-    Subsec. (h). [Pub. L. 105–34, § 1233(b)][/us/pl/105/34/s1233/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–34][/us/pl/105/34], § 1233(b), added subsec. (h).
 
     1988—Subsec. (f). [Pub. L. 100–647][/us/pl/100/647] inserted sentence at end relating to extension of period with respect to any partner by agreement entered into by Secretary and such partner.
 
@@ -139,7 +139,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–147, title V, § 513(d)][/us/pl/111/147/s513/d], Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112], provided that: 
+[Pub. L. 111–147, title V][/us/pl/111/147/tV], § 513(d), Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6501 of this title][/us/usc/t26/s6501]\] shall apply to—
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1233(d)][/us/pl/105/34/s1233/d], Aug. 5, 1997, [111 Stat. 1024][/us/stat/111/1024], provided that:
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1233(d), Aug. 5, 1997, [111 Stat. 1024][/us/stat/111/1024], provided that:
 
 >     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
@@ -163,7 +163,7 @@
 
 >     The amendment made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act.”
 
-[Pub. L. 105–34, title XII, § 1235(b)][/us/pl/105/34/s1235/b], Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1235(b), Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to settlements entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -173,7 +173,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -186,47 +186,47 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F659
-[/us/pl/99/514/s1875/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2896
-[/us/pl/100/647/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3585
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1023
-[/us/pl/107/147/s416/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FB
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
-[/us/pl/111/147/s513/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs513%2Fa%2F2%2FB
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F112
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/105/34/s1233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fc
-[/us/pl/105/34/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fa
-[/us/pl/105/34/s1235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1235%2Fa
-[/us/pl/105/34/s1233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fb
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
-[/us/pl/111/147/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs513%2Fd
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F112
 [/us/usc/t26/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6501
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/147/s416/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F2
 [/us/usc/t26/s6224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6224
-[/us/pl/105/34/s1233/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1233%2Fd
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1024
 [/us/usc/t26/s6229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6229
-[/us/pl/105/34/s1235/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1235%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

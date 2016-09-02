@@ -103,29 +103,29 @@
 
             Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before April 1, 2016, in accordance with the provisions of this section.
 
-(Added [Pub. L. 97–248, title II, § 281(a)][/us/pl/97/248/s281/a], Sept. 3, 1982, [96 Stat. 565][/us/stat/96/565]; amended [Pub. L. 97–424, title IV, § 426(e)][/us/pl/97/424/s426/e], Jan. 6, 1983, [96 Stat. 2168][/us/stat/96/2168]; [Pub. L. 98–369, div. A, title IV, § 474(r)(42)][/us/pl/98/369/s474/r/42], title VII, § 735(c)(15), July 18, 1984, [98 Stat. 847][/us/stat/98/847], 984; [Pub. L. 99–499, title V, § 521(b)(2)][/us/pl/99/499/s521/b/2], Oct. 17, 1986, [100 Stat. 1778][/us/stat/100/1778]; [Pub. L. 100–203, title X, § 10502(d)(12)][/us/pl/100/203/s10502/d/12], (g), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–446; [Pub. L. 100–223, title IV][/us/pl/100/223], §§ 402(a)(3), 403, Dec. 30, 1987, [101 Stat. 1532][/us/stat/101/1532]; [Pub. L. 101–239, title VII, § 7822(b)(5)][/us/pl/101/239/s7822/b/5], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426], 1388–435, 1388–436; [Pub. L. 102–581, title V][/us/pl/102/581], §§ 501, 502(a), Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898]; [Pub. L. 103–66, title XIII, § 13242(d)(32)][/us/pl/103/66/s13242/d/32], (33), Aug. 10, 1993, [107 Stat. 526][/us/stat/107/526], 527; [Pub. L. 103–260, title I, § 108][/us/pl/103/260/s108], May 26, 1994, [108 Stat. 700][/us/stat/108/700]; [Pub. L. 103–272, § 5(g)(3)][/us/pl/103/272/s5/g/3], July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 103–305, title IV, § 401][/us/pl/103/305/s401], Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1609(c), (g)(4)(C), (D), 1703(n)(10), Aug. 20, 1996, [110 Stat. 1841][/us/stat/110/1841], 1843, 1877; [Pub. L. 104–264, title VIII, § 806][/us/pl/104/264/s806], title X, § 1001, Oct. 9, 1996, [110 Stat. 3274][/us/stat/110/3274], 3278; [Pub. L. 105–2, § 2(c)][/us/pl/105/2/s2/c], Feb. 28, 1997, [111 Stat. 5][/us/stat/111/5]; [Pub. L. 105–34, title X, § 1031(d)][/us/pl/105/34/s1031/d], title XVI, § 1604(g)(5), Aug. 5, 1997, [111 Stat. 932][/us/stat/111/932], 1099; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6010(g)(2), 6023(31), July 22, 1998, [112 Stat. 814][/us/stat/112/814], 826; [Pub. L. 106–181, title X, § 1001][/us/pl/106/181/s1001], Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196]; [Pub. L. 107–71, title I, § 123(b)][/us/pl/107/71/s123/b], Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631]; [Pub. L. 108–176, title IX, § 901][/us/pl/108/176/s901], Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597]; [Pub. L. 108–357, title VIII, § 853(d)(2)(N)][/us/pl/108/357/s853/d/2/N], (O), Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613], 1614; [Pub. L. 109–59, title XI, § 11161(c)(2)(A)][/us/pl/109/59/s11161/c/2/A], (B), (d), Aug. 10, 2005, [119 Stat. 1972][/us/stat/119/1972]; [Pub. L. 109–432, div. A, title IV, § 420(b)(5)][/us/pl/109/432/s420/b/5], Dec. 20, 2006, [120 Stat. 2969][/us/stat/120/2969]; [Pub. L. 110–92, § 149(b)][/us/pl/110/92/s149/b], Sept. 29, 2007, [121 Stat. 996][/us/stat/121/996]; [Pub. L. 110–161, div. K, title I, § 116(c)][/us/pl/110/161/s116/c], Dec. 26, 2007, [121 Stat. 2382][/us/stat/121/2382]; [Pub. L. 110–172, § 11(f)(1)][/us/pl/110/172/s11/f/1], Dec. 29, 2007, [121 Stat. 2489][/us/stat/121/2489]; [Pub. L. 110–190, § 3(a)][/us/pl/110/190/s3/a], (b), Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643]; [Pub. L. 110–253, § 3(a)][/us/pl/110/253/s3/a], (b), June 30, 2008, [122 Stat. 2417][/us/stat/122/2417]; [Pub. L. 110–330, § 3(a)][/us/pl/110/330/s3/a], (b), Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717]; [Pub. L. 111–12, § 3(a)][/us/pl/111/12/s3/a], (b), Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457]; [Pub. L. 111–68, div. B, § 156(c)][/us/pl/111/68/s156/c], Oct. 1, 2009, [123 Stat. 2050][/us/stat/123/2050]; [Pub. L. 111–69, § 3(a)][/us/pl/111/69/s3/a], (b), Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054]; [Pub. L. 111–116, § 3(a)][/us/pl/111/116/s3/a], (b), Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031]; [Pub. L. 111–147, title IV, § 444(b)(1)][/us/pl/111/147/s444/b/1], Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94]; [Pub. L. 111–153, § 3(a)][/us/pl/111/153/s3/a], (b), Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084]; [Pub. L. 111–161, § 3(a)][/us/pl/111/161/s3/a], (b), Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126]; [Pub. L. 111–197, § 3(a)][/us/pl/111/197/s3/a], (b), July 2, 2010, [124 Stat. 1353][/us/stat/124/1353]; [Pub. L. 111–216, title I, § 102(a)][/us/pl/111/216/s102/a], (b), Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 3(a)][/us/pl/111/249/s3/a], (b), Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627]; [Pub. L. 111–329, § 3(a)][/us/pl/111/329/s3/a], (b), Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566]; [Pub. L. 112–7, § 3(a)][/us/pl/112/7/s3/a], (b), Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31]; [Pub. L. 112–16, § 3(a)][/us/pl/112/16/s3/a], (b), May 31, 2011, [125 Stat. 218][/us/stat/125/218]; [Pub. L. 112–21, § 3(a)][/us/pl/112/21/s3/a], (b), June 29, 2011, [125 Stat. 233][/us/stat/125/233]; [Pub. L. 112–27, § 3(a)][/us/pl/112/27/s3/a], (b), Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270]; [Pub. L. 112–30, title II, § 203(a)][/us/pl/112/30/s203/a], (b), Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357]; [Pub. L. 112–91, § 3(a)][/us/pl/112/91/s3/a], (b), Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3]; [Pub. L. 112–95, title XI][/us/pl/112/95], §§ 1102(a), (b), 1103(a)(3), Feb. 14, 2012, [126 Stat. 148–150][/us/stat/126/148-150]; [Pub. L. 113–188, title XV, § 1501(b)(2)(D)][/us/pl/113/188/s1501/b/2/D], Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024]; [Pub. L. 114–55, title II, § 201][/us/pl/114/55/s201], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
+(Added [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 281(a), Sept. 3, 1982, [96 Stat. 565][/us/stat/96/565]; amended [Pub. L. 97–424, title IV][/us/pl/97/424/tIV], § 426(e), Jan. 6, 1983, [96 Stat. 2168][/us/stat/96/2168]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(42), title VII, § 735(c)(15), July 18, 1984, [98 Stat. 847][/us/stat/98/847], 984; [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 521(b)(2), Oct. 17, 1986, [100 Stat. 1778][/us/stat/100/1778]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10502(d)(12), (g), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–446; [Pub. L. 100–223, title IV][/us/pl/100/223/tIV], §§ 402(a)(3), 403, Dec. 30, 1987, [101 Stat. 1532][/us/stat/101/1532]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7822(b)(5), Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11211(b)(6)(G), 11213(c), (d)(3), (4), Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426], 1388–435, 1388–436; [Pub. L. 102–581, title V][/us/pl/102/581/tV], §§ 501, 502(a), Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(d)(32), (33), Aug. 10, 1993, [107 Stat. 526][/us/stat/107/526], 527; [Pub. L. 103–260, title I][/us/pl/103/260/tI], § 108, May 26, 1994, [108 Stat. 700][/us/stat/108/700]; [Pub. L. 103–272][/us/pl/103/272], § 5(g)(3), July 5, 1994, [108 Stat. 1375][/us/stat/108/1375]; [Pub. L. 103–305, title IV][/us/pl/103/305/tIV], § 401, Aug. 23, 1994, [108 Stat. 1594][/us/stat/108/1594]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1609(c), (g)(4)(C), (D), 1703(n)(10), Aug. 20, 1996, [110 Stat. 1841][/us/stat/110/1841], 1843, 1877; [Pub. L. 104–264, title VIII][/us/pl/104/264/tVIII], § 806, title X, § 1001, Oct. 9, 1996, [110 Stat. 3274][/us/stat/110/3274], 3278; [Pub. L. 105–2][/us/pl/105/2], § 2(c), Feb. 28, 1997, [111 Stat. 5][/us/stat/111/5]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1031(d), title XVI, § 1604(g)(5), Aug. 5, 1997, [111 Stat. 932][/us/stat/111/932], 1099; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], §§ 6010(g)(2), 6023(31), July 22, 1998, [112 Stat. 814][/us/stat/112/814], 826; [Pub. L. 106–181, title X][/us/pl/106/181/tX], § 1001, Apr. 5, 2000, [114 Stat. 196][/us/stat/114/196]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 123(b), Nov. 19, 2001, [115 Stat. 631][/us/stat/115/631]; [Pub. L. 108–176, title IX][/us/pl/108/176/tIX], § 901, Dec. 12, 2003, [117 Stat. 2597][/us/stat/117/2597]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 853(d)(2)(N), (O), Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613], 1614; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11161(c)(2)(A), (B), (d), Aug. 10, 2005, [119 Stat. 1972][/us/stat/119/1972]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 420(b)(5), Dec. 20, 2006, [120 Stat. 2969][/us/stat/120/2969]; [Pub. L. 110–92][/us/pl/110/92], § 149(b), Sept. 29, 2007, [121 Stat. 996][/us/stat/121/996]; [Pub. L. 110–161, div. K, title I][/us/pl/110/161/dK/tI], § 116(c), Dec. 26, 2007, [121 Stat. 2382][/us/stat/121/2382]; [Pub. L. 110–172][/us/pl/110/172], § 11(f)(1), Dec. 29, 2007, [121 Stat. 2489][/us/stat/121/2489]; [Pub. L. 110–190][/us/pl/110/190], § 3(a), (b), Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643]; [Pub. L. 110–253][/us/pl/110/253], § 3(a), (b), June 30, 2008, [122 Stat. 2417][/us/stat/122/2417]; [Pub. L. 110–330][/us/pl/110/330], § 3(a), (b), Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717]; [Pub. L. 111–12][/us/pl/111/12], § 3(a), (b), Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457]; [Pub. L. 111–68, div. B][/us/pl/111/68/dB], § 156(c), Oct. 1, 2009, [123 Stat. 2050][/us/stat/123/2050]; [Pub. L. 111–69][/us/pl/111/69], § 3(a), (b), Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054]; [Pub. L. 111–116][/us/pl/111/116], § 3(a), (b), Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031]; [Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 444(b)(1), Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94]; [Pub. L. 111–153][/us/pl/111/153], § 3(a), (b), Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084]; [Pub. L. 111–161][/us/pl/111/161], § 3(a), (b), Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126]; [Pub. L. 111–197][/us/pl/111/197], § 3(a), (b), July 2, 2010, [124 Stat. 1353][/us/stat/124/1353]; [Pub. L. 111–216, title I][/us/pl/111/216/tI], § 102(a), (b), Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249][/us/pl/111/249], § 3(a), (b), Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627]; [Pub. L. 111–329][/us/pl/111/329], § 3(a), (b), Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566]; [Pub. L. 112–7][/us/pl/112/7], § 3(a), (b), Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31]; [Pub. L. 112–16][/us/pl/112/16], § 3(a), (b), May 31, 2011, [125 Stat. 218][/us/stat/125/218]; [Pub. L. 112–21][/us/pl/112/21], § 3(a), (b), June 29, 2011, [125 Stat. 233][/us/stat/125/233]; [Pub. L. 112–27][/us/pl/112/27], § 3(a), (b), Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270]; [Pub. L. 112–30, title II][/us/pl/112/30/tII], § 203(a), (b), Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357]; [Pub. L. 112–91][/us/pl/112/91], § 3(a), (b), Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3]; [Pub. L. 112–95, title XI][/us/pl/112/95/tXI], §§ 1102(a), (b), 1103(a)(3), Feb. 14, 2012, [126 Stat. 148–150][/us/stat/126/148-150]; [Pub. L. 113–188, title XV][/us/pl/113/188/tXV], § 1501(b)(2)(D), Nov. 26, 2014, [128 Stat. 2024][/us/stat/128/2024]; [Pub. L. 114–55, title II][/us/pl/114/55/tII], § 201, Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524].)
 
  __References in Text__ 
 
-    Title I of the Airport and Airway Development Act of 1970, referred to in subsec. (d)(1)(A), is title I of [Pub. L. 91–258][/us/pl/91/258], May 21, 1970, [84 Stat. 219][/us/stat/84/219], which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of [Pub. L. 91–258][/us/pl/91/258], which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by [Pub. L. 97–248, title V, § 523(a)][/us/pl/97/248/s523/a], Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695]. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of [Pub. L. 91–258][/us/pl/91/258] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    Title I of the Airport and Airway Development Act of 1970, referred to in subsec. (d)(1)(A), is title I of [Pub. L. 91–258][/us/pl/91/258], May 21, 1970, [84 Stat. 219][/us/stat/84/219], which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of [Pub. L. 91–258][/us/pl/91/258], which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by [Pub. L. 97–248, title V][/us/pl/97/248/tV], § 523(a), Sept. 3, 1982, [96 Stat. 695][/us/stat/96/695]. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of [Pub. L. 91–258][/us/pl/91/258] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Airport and Airway Development Act Amendments of 1976, referred to in subsec. (d)(1)(A), is [Pub. L. 94–353][/us/pl/94/353], July 12, 1976, [90 Stat. 871][/us/stat/90/871], which was repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Airport and Airway Development Act Amendments of 1976, referred to in subsec. (d)(1)(A), is [Pub. L. 94–353][/us/pl/94/353], July 12, 1976, [90 Stat. 871][/us/stat/90/871], which was repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Aviation Safety and Noise Abatement Act of 1979, referred to in subsec. (d)(1)(A), is [Pub. L. 96–193][/us/pl/96/193], Feb. 18, 1980, [94 Stat. 50][/us/stat/94/50], which was classified principally to chapter 30 (§ 2101 et seq.) of former Title 49, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I (§ 47501 et seq.) of chapter 475 of Title 49.
+    The Aviation Safety and Noise Abatement Act of 1979, referred to in subsec. (d)(1)(A), is [Pub. L. 96–193][/us/pl/96/193], Feb. 18, 1980, [94 Stat. 50][/us/stat/94/50], which was classified principally to chapter 30 (§ 2101 et seq.) of former Title 49, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I (§ 47501 et seq.) of chapter 475 of Title 49.
 
-    The Fiscal Year 1981 Airport Development Authorization Act, referred to in subsec. (d)(1)(A), is part I (§§ 1101–1103) of subtitle A of title XI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 622][/us/stat/95/622], which amended sections 1714, 1715, 1717, and 1742 of former Title 49 and enacted provisions set out as notes under sections 1714 and 1716 of former Title 49, and was repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Fiscal Year 1981 Airport Development Authorization Act, referred to in subsec. (d)(1)(A), is part I (§§ 1101–1103) of subtitle A of title XI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 622][/us/stat/95/622], which amended sections 1714, 1715, 1717, and 1742 of former Title 49 and enacted provisions set out as notes under sections 1714 and 1716 of former Title 49, and was repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Airport and Airway Improvement Act of 1982, referred to in subsec. (d)(1)(A), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, and was substantially repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I (§ 47101 et seq.) of chapter 471 of Title 49.
+    The Airport and Airway Improvement Act of 1982, referred to in subsec. (d)(1)(A), is title V of [Pub. L. 97–248][/us/pl/97/248], Sept. 3, 1982, [96 Stat. 671][/us/stat/96/671], which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, and was substantially repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], and reenacted by the first section thereof as subchapter I (§ 47101 et seq.) of chapter 471 of Title 49.
 
-    The Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (d)(1)(A), is [Pub. L. 100–223][/us/pl/100/223], Dec. 30, 1987, [101 Stat. 1486][/us/stat/101/1486]. Sections 101, 102(a)–(c), 103 to 105(g), 106 to 116, 201 to 207, 301 to 306, 308 to 311, and 315 of [Pub. L. 100–223][/us/pl/100/223] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (d)(1)(A), is [Pub. L. 100–223][/us/pl/100/223], Dec. 30, 1987, [101 Stat. 1486][/us/stat/101/1486]. Sections 101, 102(a)–(c), 103 to 105(g), 106 to 116, 201 to 207, 301 to 306, 308 to 311, and 315 of [Pub. L. 100–223][/us/pl/100/223] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990, referred to in subsec. (d)(1)(A), is subtitle C (§§ 9201–9209) of title IX of [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388–372][/us/stat/104/1388-372], which enacted section 2226d of former Title 49, amended sections 1353 and 2205 of former Title 49, and enacted provisions set out as a note under section 2201 of former Title 49. Sections 9202 to 9205 and 9207 to 9209 of title IX of [Pub. L. 101–508][/us/pl/101/508] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990, referred to in subsec. (d)(1)(A), is subtitle C (§§ 9201–9209) of title IX of [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388–372][/us/stat/104/1388-372], which enacted section 2226d of former Title 49, amended sections 1353 and 2205 of former Title 49, and enacted provisions set out as a note under section 2201 of former Title 49. Sections 9202 to 9205 and 9207 to 9209 of title IX of [Pub. L. 101–508][/us/pl/101/508] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Aviation Safety and Capacity Expansion Act of 1990, referred to in subsec. (d)(1)(A), is subtitle B (§§ 9101–9131) of title IX of [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388–353][/us/stat/104/1388-353]. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of [Pub. L. 101–508][/us/pl/101/508] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Aviation Safety and Capacity Expansion Act of 1990, referred to in subsec. (d)(1)(A), is subtitle B (§§ 9101–9131) of title IX of [Pub. L. 101–508][/us/pl/101/508], Nov. 5, 1990, [104 Stat. 1388–353][/us/stat/104/1388-353]. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of [Pub. L. 101–508][/us/pl/101/508] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992, referred to in subsec. (d)(1)(A), is [Pub. L. 102–581][/us/pl/102/581], Oct. 31, 1992, [106 Stat. 4872][/us/stat/106/4872]. Sections 101 to 103(d), 105 to 107(c), 108 to 112(b), 113 to 120, 124, 125, 136, 201 to 203(a), 205, 208, 302, 401, and 402 of [Pub. L. 102–581][/us/pl/102/581] were repealed by [Pub. L. 103–272, § 7(b)][/us/pl/103/272/s7/b], July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992, referred to in subsec. (d)(1)(A), is [Pub. L. 102–581][/us/pl/102/581], Oct. 31, 1992, [106 Stat. 4872][/us/stat/106/4872]. Sections 101 to 103(d), 105 to 107(c), 108 to 112(b), 113 to 120, 124, 125, 136, 201 to 203(a), 205, 208, 302, 401, and 402 of [Pub. L. 102–581][/us/pl/102/581] were repealed by [Pub. L. 103–272][/us/pl/103/272], § 7(b), July 5, 1994, [108 Stat. 1379][/us/stat/108/1379], the first section of which enacted subtitles II, III, and V to X of Title 49. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-    The Airport Improvement Program Temporary Extension Act of 1994, referred to in subsec. (d)(1)(A), is [Pub. L. 103–260][/us/pl/103/260], May 26, 1994, [108 Stat. 698][/us/stat/108/698]. Sections 102 to 107 and 109 of [Pub. L. 103–260][/us/pl/103/260] were repealed by [Pub. L. 103–429, § 11(b)][/us/pl/103/429/s11/b], Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], an act to codify without substantive change recent laws related to transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+    The Airport Improvement Program Temporary Extension Act of 1994, referred to in subsec. (d)(1)(A), is [Pub. L. 103–260][/us/pl/103/260], May 26, 1994, [108 Stat. 698][/us/stat/108/698]. Sections 102 to 107 and 109 of [Pub. L. 103–260][/us/pl/103/260] were repealed by [Pub. L. 103–429][/us/pl/103/429], § 11(b), Oct. 31, 1994, [108 Stat. 4391][/us/stat/108/4391], an act to codify without substantive change recent laws related to transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
     The Federal Aviation Administration Authorization Act of 1994, referred to in subsec. (d)(1)(A), is [Pub. L. 103–305][/us/pl/103/305], Aug. 23, 1994, [108 Stat. 1569][/us/stat/108/1569]. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 40101 of Title 49][/us/usc/t49/s40101] and Tables.
 
@@ -191,137 +191,137 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(1). [Pub. L. 114–55, § 201(a)(1)][/us/pl/114/55/s201/a/1], substituted “April 1, 2016” for “October 1, 2015” in introductory provisions.
+    2015—Subsec. (d)(1). [Pub. L. 114–55][/us/pl/114/55], § 201(a)(1), substituted “April 1, 2016” for “October 1, 2015” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 114–55, § 201(a)(2)][/us/pl/114/55/s201/a/2], inserted “or the Airport and Airway Extension Act of 2015” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 114–55][/us/pl/114/55], § 201(a)(2), inserted “or the Airport and Airway Extension Act of 2015” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 114–55, § 201(b)][/us/pl/114/55/s201/b], substituted “April 1, 2016” for “October 1, 2015”.
+    Subsec. (e)(2). [Pub. L. 114–55][/us/pl/114/55], § 201(b), substituted “April 1, 2016” for “October 1, 2015”.
 
     2014—Subsecs. (b)(2), (d)(6). [Pub. L. 113–188][/us/pl/113/188] substituted “section 47107(m)” for “section 47107(n)”.
 
-    2012—Subsec. (b)(1)(B) to (D). [Pub. L. 112–95, § 1103(a)(3)][/us/pl/112/95/s1103/a/3], added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+    2012—Subsec. (b)(1)(B) to (D). [Pub. L. 112–95][/us/pl/112/95], § 1103(a)(3), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-    Subsec. (d)(1). [Pub. L. 112–95, § 1102(a)(1)][/us/pl/112/95/s1102/a/1], substituted “October 1, 2015” for “February 18, 2012” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 112–95][/us/pl/112/95], § 1102(a)(1), substituted “October 1, 2015” for “February 18, 2012” in introductory provisions.
 
-    [Pub. L. 112–91, § 3(a)(1)][/us/pl/112/91/s3/a/1], substituted “February 18, 2012” for “February 1, 2012” in introductory provisions.
+    [Pub. L. 112–91][/us/pl/112/91], § 3(a)(1), substituted “February 18, 2012” for “February 1, 2012” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 112–95, § 1102(a)(2)][/us/pl/112/95/s1102/a/2], inserted “or the FAA Modernization and Reform Act of 2012” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 112–95][/us/pl/112/95], § 1102(a)(2), inserted “or the FAA Modernization and Reform Act of 2012” before semicolon at end.
 
-    [Pub. L. 112–91, § 3(a)(2)][/us/pl/112/91/s3/a/2], inserted “or the Airport and Airway Extension Act of 2012” before semicolon at end.
+    [Pub. L. 112–91][/us/pl/112/91], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2012” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 112–95, § 1102(b)][/us/pl/112/95/s1102/b], substituted “October 1, 2015” for “February 18, 2012”.
+    Subsec. (e)(2). [Pub. L. 112–95][/us/pl/112/95], § 1102(b), substituted “October 1, 2015” for “February 18, 2012”.
 
-    [Pub. L. 112–91, § 3(b)][/us/pl/112/91/s3/b], substituted “February 18, 2012” for “February 1, 2012”.
+    [Pub. L. 112–91][/us/pl/112/91], § 3(b), substituted “February 18, 2012” for “February 1, 2012”.
 
-    2011—Subsec. (d)(1). [Pub. L. 112–30, § 203(a)(1)][/us/pl/112/30/s203/a/1], substituted “February 1, 2012” for “September 17, 2011” in introductory provisions.
+    2011—Subsec. (d)(1). [Pub. L. 112–30][/us/pl/112/30], § 203(a)(1), substituted “February 1, 2012” for “September 17, 2011” in introductory provisions.
 
-    [Pub. L. 112–27, § 3(a)(1)][/us/pl/112/27/s3/a/1], substituted “September 17, 2011” for “July 23, 2011” in introductory provisions.
+    [Pub. L. 112–27][/us/pl/112/27], § 3(a)(1), substituted “September 17, 2011” for “July 23, 2011” in introductory provisions.
 
-    [Pub. L. 112–21, § 3(a)(1)][/us/pl/112/21/s3/a/1], substituted “July 23, 2011” for “July 1, 2011” in introductory provisions.
+    [Pub. L. 112–21][/us/pl/112/21], § 3(a)(1), substituted “July 23, 2011” for “July 1, 2011” in introductory provisions.
 
-    [Pub. L. 112–16, § 3(a)(1)][/us/pl/112/16/s3/a/1], substituted “July 1, 2011” for “June 1, 2011” in introductory provisions.
+    [Pub. L. 112–16][/us/pl/112/16], § 3(a)(1), substituted “July 1, 2011” for “June 1, 2011” in introductory provisions.
 
-    [Pub. L. 112–7, § 3(a)(1)][/us/pl/112/7/s3/a/1], substituted “June 1, 2011” for “April 1, 2011” in introductory provisions.
+    [Pub. L. 112–7][/us/pl/112/7], § 3(a)(1), substituted “June 1, 2011” for “April 1, 2011” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 112–30, § 203(a)(2)][/us/pl/112/30/s203/a/2], inserted “or the Airport and Airway Extension Act of 2011, Part V” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 112–30][/us/pl/112/30], § 203(a)(2), inserted “or the Airport and Airway Extension Act of 2011, Part V” before semicolon at end.
 
-    [Pub. L. 112–27, § 3(a)(2)][/us/pl/112/27/s3/a/2], inserted “or the Airport and Airway Extension Act of 2011, Part IV” before semicolon at end.
+    [Pub. L. 112–27][/us/pl/112/27], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2011, Part IV” before semicolon at end.
 
-    [Pub. L. 112–21, § 3(a)(2)][/us/pl/112/21/s3/a/2], inserted “or the Airport and Airway Extension Act of 2011, Part III” before semicolon at end.
+    [Pub. L. 112–21][/us/pl/112/21], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2011, Part III” before semicolon at end.
 
-    [Pub. L. 112–16, § 3(a)(2)][/us/pl/112/16/s3/a/2], inserted “or the Airport and Airway Extension Act of 2011, Part II” before semicolon at end.
+    [Pub. L. 112–16][/us/pl/112/16], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2011, Part II” before semicolon at end.
 
-    [Pub. L. 112–7, § 3(a)(2)][/us/pl/112/7/s3/a/2], inserted “or the Airport and Airway Extension Act of 2011” before semicolon at end.
+    [Pub. L. 112–7][/us/pl/112/7], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2011” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 112–30, § 203(b)][/us/pl/112/30/s203/b], substituted “February 1, 2012” for “September 17, 2011”.
+    Subsec. (e)(2). [Pub. L. 112–30][/us/pl/112/30], § 203(b), substituted “February 1, 2012” for “September 17, 2011”.
 
-    [Pub. L. 112–27, § 3(b)][/us/pl/112/27/s3/b], substituted “September 17, 2011” for “July 23, 2011”.
+    [Pub. L. 112–27][/us/pl/112/27], § 3(b), substituted “September 17, 2011” for “July 23, 2011”.
 
-    [Pub. L. 112–21, § 3(b)][/us/pl/112/21/s3/b], substituted “July 23, 2011” for “July 1, 2011”.
+    [Pub. L. 112–21][/us/pl/112/21], § 3(b), substituted “July 23, 2011” for “July 1, 2011”.
 
-    [Pub. L. 112–16, § 3(b)][/us/pl/112/16/s3/b], substituted “July 1, 2011” for “June 1, 2011”.
+    [Pub. L. 112–16][/us/pl/112/16], § 3(b), substituted “July 1, 2011” for “June 1, 2011”.
 
-    [Pub. L. 112–7, § 3(b)][/us/pl/112/7/s3/b], substituted “June 1, 2011” for “April 1, 2011”.
+    [Pub. L. 112–7][/us/pl/112/7], § 3(b), substituted “June 1, 2011” for “April 1, 2011”.
 
     2010—Subsec. (a). [Pub. L. 111–147][/us/pl/111/147] substituted “section 9503(c)(5)” for “section 9503(c)(7)”.
 
-    Subsec. (d)(1). [Pub. L. 111–329, § 3(a)(1)][/us/pl/111/329/s3/a/1], substituted “April 1, 2011” for “January 1, 2011” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 111–329][/us/pl/111/329], § 3(a)(1), substituted “April 1, 2011” for “January 1, 2011” in introductory provisions.
 
-    [Pub. L. 111–249, § 3(a)(1)][/us/pl/111/249/s3/a/1], substituted “January 1, 2011” for “October 1, 2010” in introductory provisions.
+    [Pub. L. 111–249][/us/pl/111/249], § 3(a)(1), substituted “January 1, 2011” for “October 1, 2010” in introductory provisions.
 
-    [Pub. L. 111–216, § 102(a)(1)][/us/pl/111/216/s102/a/1], substituted “October 1, 2010” for “August 2, 2010” in introductory provisions.
+    [Pub. L. 111–216][/us/pl/111/216], § 102(a)(1), substituted “October 1, 2010” for “August 2, 2010” in introductory provisions.
 
-    [Pub. L. 111–197, § 3(a)(1)][/us/pl/111/197/s3/a/1], substituted “August 2, 2010” for “July 4, 2010” in introductory provisions.
+    [Pub. L. 111–197][/us/pl/111/197], § 3(a)(1), substituted “August 2, 2010” for “July 4, 2010” in introductory provisions.
 
-    [Pub. L. 111–161, § 3(a)(1)][/us/pl/111/161/s3/a/1], substituted “July 4, 2010” for “May 1, 2010” in introductory provisions.
+    [Pub. L. 111–161][/us/pl/111/161], § 3(a)(1), substituted “July 4, 2010” for “May 1, 2010” in introductory provisions.
 
-    [Pub. L. 111–153, § 3(a)(1)][/us/pl/111/153/s3/a/1], substituted “May 1, 2010” for “April 1, 2010” in introductory provisions.
+    [Pub. L. 111–153][/us/pl/111/153], § 3(a)(1), substituted “May 1, 2010” for “April 1, 2010” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 111–329, § 3(a)(2)][/us/pl/111/329/s3/a/2], inserted “or the Airport and Airway Extension Act of 2010, Part IV” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 111–329][/us/pl/111/329], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part IV” before semicolon at end.
 
-    [Pub. L. 111–249, § 3(a)(2)][/us/pl/111/249/s3/a/2], inserted “or the Airport and Airway Extension Act of 2010, Part III” before semicolon at end.
+    [Pub. L. 111–249][/us/pl/111/249], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part III” before semicolon at end.
 
-    [Pub. L. 111–216, § 102(a)(2)][/us/pl/111/216/s102/a/2], inserted “or the Airline Safety and Federal Aviation Administration Extension Act of 2010” before semicolon at end.
+    [Pub. L. 111–216][/us/pl/111/216], § 102(a)(2), inserted “or the Airline Safety and Federal Aviation Administration Extension Act of 2010” before semicolon at end.
 
-    [Pub. L. 111–197, § 3(a)(2)][/us/pl/111/197/s3/a/2], inserted “or the Airport and Airway Extension Act of 2010, Part II” before semicolon at end.
+    [Pub. L. 111–197][/us/pl/111/197], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2010, Part II” before semicolon at end.
 
-    [Pub. L. 111–161, § 3(a)(2)][/us/pl/111/161/s3/a/2], inserted “or the Airport and Airway Extension Act of 2010” before semicolon at end.
+    [Pub. L. 111–161][/us/pl/111/161], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2010” before semicolon at end.
 
-    [Pub. L. 111–153, § 3(a)(2)][/us/pl/111/153/s3/a/2], inserted “or the Federal Aviation Administration Extension Act of 2010” before semicolon at end.
+    [Pub. L. 111–153][/us/pl/111/153], § 3(a)(2), inserted “or the Federal Aviation Administration Extension Act of 2010” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 111–329, § 3(b)][/us/pl/111/329/s3/b], substituted “April 1, 2011” for “January 1, 2011”.
+    Subsec. (e)(2). [Pub. L. 111–329][/us/pl/111/329], § 3(b), substituted “April 1, 2011” for “January 1, 2011”.
 
-    [Pub. L. 111–249, § 3(b)][/us/pl/111/249/s3/b], substituted “January 1, 2011” for “October 1, 2010”.
+    [Pub. L. 111–249][/us/pl/111/249], § 3(b), substituted “January 1, 2011” for “October 1, 2010”.
 
-    [Pub. L. 111–216, § 102(b)][/us/pl/111/216/s102/b], substituted “October 1, 2010” for “August 2, 2010”.
+    [Pub. L. 111–216][/us/pl/111/216], § 102(b), substituted “October 1, 2010” for “August 2, 2010”.
 
-    [Pub. L. 111–197, § 3(b)][/us/pl/111/197/s3/b], substituted “August 2, 2010” for “July 4, 2010”.
+    [Pub. L. 111–197][/us/pl/111/197], § 3(b), substituted “August 2, 2010” for “July 4, 2010”.
 
-    [Pub. L. 111–161, § 3(b)][/us/pl/111/161/s3/b], substituted “July 4, 2010” for “May 1, 2010”.
+    [Pub. L. 111–161][/us/pl/111/161], § 3(b), substituted “July 4, 2010” for “May 1, 2010”.
 
-    [Pub. L. 111–153, § 3(b)][/us/pl/111/153/s3/b], substituted “May 1, 2010” for “April 1, 2010”.
+    [Pub. L. 111–153][/us/pl/111/153], § 3(b), substituted “May 1, 2010” for “April 1, 2010”.
 
-    2009—Subsec. (d)(1). [Pub. L. 111–116, § 3(a)(1)][/us/pl/111/116/s3/a/1], substituted “April 1, 2010” for “January 1, 2010” in introductory provisions.
+    2009—Subsec. (d)(1). [Pub. L. 111–116][/us/pl/111/116], § 3(a)(1), substituted “April 1, 2010” for “January 1, 2010” in introductory provisions.
 
-    [Pub. L. 111–69, § 3(a)(1)][/us/pl/111/69/s3/a/1], substituted “January 1, 2010” for “October 1, 2009” in introductory provisions.
+    [Pub. L. 111–69][/us/pl/111/69], § 3(a)(1), substituted “January 1, 2010” for “October 1, 2009” in introductory provisions.
 
-    [Pub. L. 111–12, § 3(a)(1)][/us/pl/111/12/s3/a/1], substituted “October 1, 2009” for “April 1, 2009” in introductory provisions.
+    [Pub. L. 111–12][/us/pl/111/12], § 3(a)(1), substituted “October 1, 2009” for “April 1, 2009” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 111–116, § 3(a)(2)][/us/pl/111/116/s3/a/2], inserted “or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 111–116][/us/pl/111/116], § 3(a)(2), inserted “or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II” before semicolon at end.
 
-    [Pub. L. 111–69, § 3(a)(2)][/us/pl/111/69/s3/a/2], inserted “or the Fiscal Year 2010 Federal Aviation Administration Extension Act” before semicolon at end.
+    [Pub. L. 111–69][/us/pl/111/69], § 3(a)(2), inserted “or the Fiscal Year 2010 Federal Aviation Administration Extension Act” before semicolon at end.
 
     [Pub. L. 111–68][/us/pl/111/68] inserted “or any joint resolution making continuing appropriations for the fiscal year 2010” before semicolon at end.
 
-    [Pub. L. 111–12, § 3(a)(2)][/us/pl/111/12/s3/a/2], inserted “or the Federal Aviation Administration Extension Act of 2009” before semicolon at end.
+    [Pub. L. 111–12][/us/pl/111/12], § 3(a)(2), inserted “or the Federal Aviation Administration Extension Act of 2009” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 111–116, § 3(b)][/us/pl/111/116/s3/b], substituted “April 1, 2010” for “January 1, 2010”.
+    Subsec. (e)(2). [Pub. L. 111–116][/us/pl/111/116], § 3(b), substituted “April 1, 2010” for “January 1, 2010”.
 
-    [Pub. L. 111–69, § 3(b)][/us/pl/111/69/s3/b], substituted “January 1, 2010” for “October 1, 2009”.
+    [Pub. L. 111–69][/us/pl/111/69], § 3(b), substituted “January 1, 2010” for “October 1, 2009”.
 
-    [Pub. L. 111–12, § 3(b)][/us/pl/111/12/s3/b], substituted “October 1, 2009” for “April 1, 2009”.
+    [Pub. L. 111–12][/us/pl/111/12], § 3(b), substituted “October 1, 2009” for “April 1, 2009”.
 
-    2008—Subsec. (d)(1). [Pub. L. 110–330, § 3(a)(1)][/us/pl/110/330/s3/a/1], substituted “April 1, 2009” for “October 1, 2008” in introductory provisions.
+    2008—Subsec. (d)(1). [Pub. L. 110–330][/us/pl/110/330], § 3(a)(1), substituted “April 1, 2009” for “October 1, 2008” in introductory provisions.
 
-    [Pub. L. 110–253, § 3(a)(1)][/us/pl/110/253/s3/a/1], substituted “October 1, 2008” for “July 1, 2008” in introductory provisions.
+    [Pub. L. 110–253][/us/pl/110/253], § 3(a)(1), substituted “October 1, 2008” for “July 1, 2008” in introductory provisions.
 
-    [Pub. L. 110–190, § 3(a)(1)][/us/pl/110/190/s3/a/1], substituted “July 1, 2008” for “March 1, 2008” in introductory provisions.
+    [Pub. L. 110–190][/us/pl/110/190], § 3(a)(1), substituted “July 1, 2008” for “March 1, 2008” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 110–330, § 3(a)(2)][/us/pl/110/330/s3/a/2], inserted “or the Federal Aviation Administration Extension Act of 2008, Part II” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 110–330][/us/pl/110/330], § 3(a)(2), inserted “or the Federal Aviation Administration Extension Act of 2008, Part II” before semicolon at end.
 
-    [Pub. L. 110–253, § 3(a)(2)][/us/pl/110/253/s3/a/2], inserted “or the Federal Aviation Administration Extension Act of 2008” before semicolon at end.
+    [Pub. L. 110–253][/us/pl/110/253], § 3(a)(2), inserted “or the Federal Aviation Administration Extension Act of 2008” before semicolon at end.
 
-    [Pub. L. 110–190, § 3(a)(2)][/us/pl/110/190/s3/a/2], inserted “or the Airport and Airway Extension Act of 2008” before semicolon at end.
+    [Pub. L. 110–190][/us/pl/110/190], § 3(a)(2), inserted “or the Airport and Airway Extension Act of 2008” before semicolon at end.
 
-    Subsec. (e)(2). [Pub. L. 110–330, § 3(b)][/us/pl/110/330/s3/b], substituted “April 1, 2009” for “October 1, 2008”.
+    Subsec. (e)(2). [Pub. L. 110–330][/us/pl/110/330], § 3(b), substituted “April 1, 2009” for “October 1, 2008”.
 
-    [Pub. L. 110–253, § 3(b)][/us/pl/110/253/s3/b], substituted “October 1, 2008” for “July 1, 2008”.
+    [Pub. L. 110–253][/us/pl/110/253], § 3(b), substituted “October 1, 2008” for “July 1, 2008”.
 
-    [Pub. L. 110–190, § 3(b)][/us/pl/110/190/s3/b], which directed substitution of “July 1, 2008” for “March 1, 2008” in subsec. (f)(2), was executed to subsec. (e)(2) as redesignated by [Pub. L. 110–172][/us/pl/110/172], to reflect the probable intent of Congress. See 2007 Amendment notes below.
+    [Pub. L. 110–190][/us/pl/110/190], § 3(b), which directed substitution of “July 1, 2008” for “March 1, 2008” in subsec. (f)(2), was executed to subsec. (e)(2) as redesignated by [Pub. L. 110–172][/us/pl/110/172], to reflect the probable intent of Congress. See 2007 Amendment notes below.
 
-    2007—Subsec. (d)(1). [Pub. L. 110–161, § 116(c)(1)(A)][/us/pl/110/161/s116/c/1/A], substituted “March 1, 2008” for “October 1, 2007” in introductory provisions.
+    2007—Subsec. (d)(1). [Pub. L. 110–161][/us/pl/110/161], § 116(c)(1)(A), substituted “March 1, 2008” for “October 1, 2007” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 110–161, § 116(c)(1)(B)][/us/pl/110/161/s116/c/1/B], inserted “or the Department of Transportation Appropriations Act, 2008” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 110–161][/us/pl/110/161], § 116(c)(1)(B), inserted “or the Department of Transportation Appropriations Act, 2008” before semicolon at end.
 
     [Pub. L. 110–92][/us/pl/110/92] inserted “or any joint resolution making continuing appropriations for the fiscal year 2008” before semicolon at end.
 
@@ -333,47 +333,47 @@
 
     Subsec. (f). [Pub. L. 110–172][/us/pl/110/172] redesignated subsec. (f) as (e).
 
-    Subsec. (f)(2). [Pub. L. 110–161, § 116(c)(2)][/us/pl/110/161/s116/c/2], substituted “March 1, 2008” for “October 1, 2007”.
+    Subsec. (f)(2). [Pub. L. 110–161][/us/pl/110/161], § 116(c)(2), substituted “March 1, 2008” for “October 1, 2007”.
 
-    2006—Subsec. (d)(2). [Pub. L. 109–432, § 420(b)(5)(A)][/us/pl/109/432/s420/b/5/A], struck out “and (l)(5)” after “subsection (l)(4)”.
+    2006—Subsec. (d)(2). [Pub. L. 109–432][/us/pl/109/432], § 420(b)(5)(A), struck out “and (l)(5)” after “subsection (l)(4)”.
 
-    Subsec. (d)(3). [Pub. L. 109–432, § 420(b)(5)(B)][/us/pl/109/432/s420/b/5/B], struck out “or (5)” after “paragraph (4)”.
+    Subsec. (d)(3). [Pub. L. 109–432][/us/pl/109/432], § 420(b)(5)(B), struck out “or (5)” after “paragraph (4)”.
 
-    2005—Subsec. (a). [Pub. L. 109–59, § 11161(c)(2)(A)][/us/pl/109/59/s11161/c/2/A], substituted “appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(7), or section 9602(b)” for “appropriated or credited to the Airport and Airway Trust Fund as provided in this section or section 9602(b)”.
+    2005—Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 11161(c)(2)(A), substituted “appropriated, credited, or paid into the Airport and Airway Trust Fund as provided in this section, section 9503(c)(7), or section 9602(b)” for “appropriated or credited to the Airport and Airway Trust Fund as provided in this section or section 9602(b)”.
 
-    Subsec. (b)(1)(A). [Pub. L. 109–59, § 11161(c)(2)(B)(i)][/us/pl/109/59/s11161/c/2/B/i], substituted “section 4041(c)” for “subsections (c) and (e) of section 4041”.
+    Subsec. (b)(1)(A). [Pub. L. 109–59][/us/pl/109/59], § 11161(c)(2)(B)(i), substituted “section 4041(c)” for “subsections (c) and (e) of section 4041”.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–59, § 11161(c)(2)(B)(ii)][/us/pl/109/59/s11161/c/2/B/ii], substituted “and kerosene to the extent attributable to the rate specified in section 4081(a)(2)(C)” for “and aviation-grade kerosene”.
+    Subsec. (b)(1)(C). [Pub. L. 109–59][/us/pl/109/59], § 11161(c)(2)(B)(ii), substituted “and kerosene to the extent attributable to the rate specified in section 4081(a)(2)(C)” for “and aviation-grade kerosene”.
 
-    Subsec. (d)(2). [Pub. L. 109–59, § 11161(d)(1)][/us/pl/109/59/s11161/d/1], inserted “(other than subsection (l)(4) and (l)(5) thereof)” after “or 6427 (relating to fuels not used for taxable purposes)”.
+    Subsec. (d)(2). [Pub. L. 109–59][/us/pl/109/59], § 11161(d)(1), inserted “(other than subsection (l)(4) and (l)(5) thereof)” after “or 6427 (relating to fuels not used for taxable purposes)”.
 
-    Subsec. (d)(3). [Pub. L. 109–59, § 11161(d)(2)][/us/pl/109/59/s11161/d/2], inserted “(other than payments made by reason of paragraph (4) or (5) of section 6427(l))” after “section 34”.
+    Subsec. (d)(3). [Pub. L. 109–59][/us/pl/109/59], § 11161(d)(2), inserted “(other than payments made by reason of paragraph (4) or (5) of section 6427(l))” after “section 34”.
 
-    2004—Subsec. (b). [Pub. L. 108–357, § 853(d)(2)(O)][/us/pl/108/357/s853/d/2/O], amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “There shall not be taken into account under paragraph (1) so much of the taxes imposed by sections 4081 and 4091 as are determined at the rates specified in section 4081(a)(2)(B) or 4091(b)(2).”
+    2004—Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 853(d)(2)(O), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “There shall not be taken into account under paragraph (1) so much of the taxes imposed by sections 4081 and 4091 as are determined at the rates specified in section 4081(a)(2)(B) or 4091(b)(2).”
 
-    Subsec. (b)(1)(B) to (D). [Pub. L. 108–357, § 853(d)(2)(N)][/us/pl/108/357/s853/d/2/N], inserted “and” at end of subpar. (B), added subpar. (C), and struck out former subpars. (C) and (D) which read as follows:
+    Subsec. (b)(1)(B) to (D). [Pub. L. 108–357][/us/pl/108/357], § 853(d)(2)(N), inserted “and” at end of subpar. (B), added subpar. (C), and struck out former subpars. (C) and (D) which read as follows:
 
     “(C) section 4081 (relating to gasoline) with respect to aviation gasoline, and
 
     “(D) section 4091 (relating to aviation fuel), and”.
 
-    2003—Subsec. (d)(1). [Pub. L. 108–176, § 901(a)(1)][/us/pl/108/176/s901/a/1], substituted “October 1, 2007” for “October 1, 2003” in introductory provisions.
+    2003—Subsec. (d)(1). [Pub. L. 108–176][/us/pl/108/176], § 901(a)(1), substituted “October 1, 2007” for “October 1, 2003” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 108–176, § 901(a)(2)][/us/pl/108/176/s901/a/2], inserted “or the Vision 100—Century of Aviation Reauthorization Act” before semicolon at end.
+    Subsec. (d)(1)(A). [Pub. L. 108–176][/us/pl/108/176], § 901(a)(2), inserted “or the Vision 100—Century of Aviation Reauthorization Act” before semicolon at end.
 
-    Subsec. (f)(2). [Pub. L. 108–176, § 901(b)][/us/pl/108/176/s901/b], substituted “October 1, 2007” for “October 1, 2003”.
+    Subsec. (f)(2). [Pub. L. 108–176][/us/pl/108/176], § 901(b), substituted “October 1, 2007” for “October 1, 2003”.
 
     2001—Subsec. (d)(1)(A). [Pub. L. 107–71][/us/pl/107/71] inserted “or the Aviation and Transportation Security Act” before semicolon at end.
 
-    2000—Subsec. (d)(1). [Pub. L. 106–181, § 1001(a)(1)][/us/pl/106/181/s1001/a/1], substituted “October 1, 2003” for “October 1, 1998” in introductory provisions.
+    2000—Subsec. (d)(1). [Pub. L. 106–181][/us/pl/106/181], § 1001(a)(1), substituted “October 1, 2003” for “October 1, 1998” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 106–181, § 1001(a)(2)][/us/pl/106/181/s1001/a/2], inserted before the semicolon at end “or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, [Public Law 106–59][/us/pl/106/59], or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century”.
+    Subsec. (d)(1)(A). [Pub. L. 106–181][/us/pl/106/181], § 1001(a)(2), inserted before the semicolon at end “or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, [Public Law 106–59][/us/pl/106/59], or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century”.
 
-    Subsec. (f). [Pub. L. 106–181, § 1001(b)][/us/pl/106/181/s1001/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–181][/us/pl/106/181], § 1001(b), added subsec. (f).
 
-    1998—Subsec. (b). [Pub. L. 105–206, § 6010(g)(2)][/us/pl/105/206/s6010/g/2], moved concluding provisions from end of par. (1) to end of subsec. (b).
+    1998—Subsec. (b). [Pub. L. 105–206][/us/pl/105/206], § 6010(g)(2), moved concluding provisions from end of par. (1) to end of subsec. (b).
 
-    Subsec. (e). [Pub. L. 105–206, § 6023(31)][/us/pl/105/206/s6023/31], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+    Subsec. (e). [Pub. L. 105–206][/us/pl/105/206], § 6023(31), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
     “(1) Increases in tax revenues before 1993 to remain in general fund.—In the case of taxes imposed before January 1, 1993, the amounts required to be appropriated under paragraphs (1), (2), and (3) of subsection (b) shall be determined without regard to any increase in a rate of tax enacted by the Revenue Reconciliation Act of 1990.
 
@@ -383,9 +383,9 @@
 
     “(B) 0.67 cent per gallon in the case of fuel used in producing a mixture described in subparagraph (A).”
 
-    1997—Subsec. (b)(1). [Pub. L. 105–34, § 1031(d)(1)(C)][/us/pl/105/34/s1031/d/1/C], inserted concluding provisions.
+    1997—Subsec. (b)(1). [Pub. L. 105–34][/us/pl/105/34], § 1031(d)(1)(C), inserted concluding provisions.
 
-    [Pub. L. 105–2, § 2(c)(1)][/us/pl/105/2/s2/c/1], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is hereby appropriated to the Airport and Airway Trust Fund—
+    [Pub. L. 105–2][/us/pl/105/2], § 2(c)(1), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “There is hereby appropriated to the Airport and Airway Trust Fund—
 
     “(1) amounts equivalent to the taxes received in the Treasury after August 31, 1982, and before January 1, 1997, under subsections (c) and (e) of section 4041 (taxes on aviation fuel) and under sections 4261 and 4271 (taxes on transportation by air);
 
@@ -397,13 +397,13 @@
 
     “(5) amounts determined by the Secretary of the Treasury to be equivalent to the amounts of civil penalties collected under [section 47107(n) of title 49][/us/usc/t49/s47107/n], United States Code.”
 
-    Subsec. (b)(1)(C). [Pub. L. 105–34, § 1031(d)(1)(A)][/us/pl/105/34/s1031/d/1/A], struck out “(to the extent that the rate of the tax on such gasoline exceeds 4.3 cents per gallon)” after “aviation gasoline”.
+    Subsec. (b)(1)(C). [Pub. L. 105–34][/us/pl/105/34], § 1031(d)(1)(A), struck out “(to the extent that the rate of the tax on such gasoline exceeds 4.3 cents per gallon)” after “aviation gasoline”.
 
-    Subsec. (b)(1)(D). [Pub. L. 105–34, § 1031(d)(1)(B)][/us/pl/105/34/s1031/d/1/B], struck out “to the extent attributable to the Airport and Airway Trust Fund financing rate” after “aviation fuel)”.
+    Subsec. (b)(1)(D). [Pub. L. 105–34][/us/pl/105/34], § 1031(d)(1)(B), struck out “to the extent attributable to the Airport and Airway Trust Fund financing rate” after “aviation fuel)”.
 
-    Subsec. (d)(5), (6). [Pub. L. 105–34, § 1604(g)(5)][/us/pl/105/34/s1604/g/5], redesignated par. (5), relating to transfers on account of certain airports, as (6).
+    Subsec. (d)(5), (6). [Pub. L. 105–34][/us/pl/105/34], § 1604(g)(5), redesignated par. (5), relating to transfers on account of certain airports, as (6).
 
-    Subsec. (f). [Pub. L. 105–34, § 1031(d)(2)][/us/pl/105/34/s1031/d/2], struck out heading and text of subsec. (f). Text read as follows: “For purposes of this section—
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1031(d)(2), struck out heading and text of subsec. (f). Text read as follows: “For purposes of this section—
 
     “(1) In general.—Except as otherwise provided in this subsection, the Airport and Airway Trust Fund financing rate is—
 
@@ -415,171 +415,171 @@
 
     “(3) Termination.—Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate shall be zero with respect to taxes imposed during any period that the rate of the tax imposed by section 4091(b)(1) is 4.3 cents per gallon.”
 
-    Subsec. (f)(3). [Pub. L. 105–2, § 2(c)(2)][/us/pl/105/2/s2/c/2], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate shall be zero with respect to—
+    Subsec. (f)(3). [Pub. L. 105–2][/us/pl/105/2], § 2(c)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate shall be zero with respect to—
 
     “(A) taxes imposed after December 31, 1995, and before the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996, and
 
     “(B) taxes imposed after December 31, 1996.”
 
-    1996—Subsec. (b)(1). [Pub. L. 104–188, § 1609(c)(1)][/us/pl/104/188/s1609/c/1], substituted “January 1, 1997” for “January 1, 1996”.
+    1996—Subsec. (b)(1). [Pub. L. 104–188][/us/pl/104/188], § 1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
 
-    Subsec. (b)(2). [Pub. L. 104–188, § 1703(n)(10)][/us/pl/104/188/s1703/n/10], inserted “and before” after “1982,”.
+    Subsec. (b)(2). [Pub. L. 104–188][/us/pl/104/188], § 1703(n)(10), inserted “and before” after “1982,”.
 
-    [Pub. L. 104–188, § 1609(c)(1)][/us/pl/104/188/s1609/c/1], (g)(4)(D), substituted “January 1, 1997” for “January 1, 1996” and “15 cents” for “14 cents”.
+    [Pub. L. 104–188][/us/pl/104/188], § 1609(c)(1), (g)(4)(D), substituted “January 1, 1997” for “January 1, 1996” and “15 cents” for “14 cents”.
 
-    Subsec. (b)(3), (4). [Pub. L. 104–188, § 1609(c)(1)][/us/pl/104/188/s1609/c/1], substituted “January 1, 1997” for “January 1, 1996”.
+    Subsec. (b)(3), (4). [Pub. L. 104–188][/us/pl/104/188], § 1609(c)(1), substituted “January 1, 1997” for “January 1, 1996”.
 
-    Subsec. (b)(5). [Pub. L. 104–264, § 806(1)][/us/pl/104/264/s806/1]–(3), added par. (5).
+    Subsec. (b)(5). [Pub. L. 104–264][/us/pl/104/264], § 806(1)–(3), added par. (5).
 
-    Subsec. (d)(1). [Pub. L. 104–264, § 1001(a)][/us/pl/104/264/s1001/a], substituted “October 1, 1998” for “October 1, 1996” in introductory provisions.
+    Subsec. (d)(1). [Pub. L. 104–264][/us/pl/104/264], § 1001(a), substituted “October 1, 1998” for “October 1, 1996” in introductory provisions.
 
-    Subsec. (d)(1)(A). [Pub. L. 104–264, § 1001(b)][/us/pl/104/264/s1001/b], inserted before semicolon at end “or the Federal Aviation Reauthorization Act of 1996”.
+    Subsec. (d)(1)(A). [Pub. L. 104–264][/us/pl/104/264], § 1001(b), inserted before semicolon at end “or the Federal Aviation Reauthorization Act of 1996”.
 
-    Subsec. (d)(5). [Pub. L. 104–264, § 806(4)][/us/pl/104/264/s806/4], added par. (5) relating to transfers on account of certain airports.
+    Subsec. (d)(5). [Pub. L. 104–264][/us/pl/104/264], § 806(4), added par. (5) relating to transfers on account of certain airports.
 
-    [Pub. L. 104–188, § 1609(c)(3)][/us/pl/104/188/s1609/c/3], added par. (5) relating to transfers on account of refunds of taxes on transportation by air.
+    [Pub. L. 104–188][/us/pl/104/188], § 1609(c)(3), added par. (5) relating to transfers on account of refunds of taxes on transportation by air.
 
-    Subsec. (f)(1)(A). [Pub. L. 104–188, § 1609(g)(4)(C)][/us/pl/104/188/s1609/g/4/C], substituted “section 4041(c)(2)” for “section 4041(c)(4)”.
+    Subsec. (f)(1)(A). [Pub. L. 104–188][/us/pl/104/188], § 1609(g)(4)(C), substituted “section 4041(c)(2)” for “section 4041(c)(4)”.
 
-    Subsec. (f)(3). [Pub. L. 104–188, § 1609(c)(2)][/us/pl/104/188/s1609/c/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate is zero with respect to tax received after December 31, 1995.”
+    Subsec. (f)(3). [Pub. L. 104–188][/us/pl/104/188], § 1609(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding the preceding provisions of this subsection, the Airport and Airway Trust Fund financing rate is zero with respect to tax received after December 31, 1995.”
 
-    1994—Subsec. (d)(1). [Pub. L. 103–305, § 401(1)][/us/pl/103/305/s401/1], (4), in introductory provisions substituted “October 1, 1996” for “October 1, 1995” and inserted last sentence which read: “Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).”
+    1994—Subsec. (d)(1). [Pub. L. 103–305][/us/pl/103/305], § 401(1), (4), in introductory provisions substituted “October 1, 1996” for “October 1, 1995” and inserted last sentence which read: “Any reference in subparagraph (A) to an Act shall be treated as a reference to such Act and the corresponding provisions (if any) of title 49, United States Code, as such Act and provisions were in effect on the date of the enactment of the last Act referred to in subparagraph (A).”
 
-    Subsec. (d)(1)(A). [Pub. L. 103–305, § 401(2)][/us/pl/103/305/s401/2], (3), inserted “or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992” after “Capacity Expansion Act of 1990” and substituted “or the Federal Aviation Administration Authorization Act of 1994” for “(as such Acts were in effect on the date of the enactment of the Airport Improvement Program Temporary Extension Act of 1994)”.
+    Subsec. (d)(1)(A). [Pub. L. 103–305][/us/pl/103/305], § 401(2), (3), inserted “or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992” after “Capacity Expansion Act of 1990” and substituted “or the Federal Aviation Administration Authorization Act of 1994” for “(as such Acts were in effect on the date of the enactment of the Airport Improvement Program Temporary Extension Act of 1994)”.
 
     [Pub. L. 103–260][/us/pl/103/260] substituted “or the Airport Improvement Program Temporary Extension Act of 1994 (as such Acts were in effect on the date of the enactment of the Airport Improvement Program Temporary Extension Act of 1994)” for “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992)”.
 
     Subsec. (d)(1)(B). [Pub. L. 103–272][/us/pl/103/272] substituted “part A of subtitle VII of title 49, United States Code,” for “the Federal Aviation Act of 1958, as amended ([49 U.S.C. 1301][/us/usc/t49/s1301] et seq.),”.
 
-    1993—Subsec. (b)(2). [Pub. L. 103–66, § 13242(d)(33)][/us/pl/103/66/s13242/d/33], substituted “(to the extent of 14 cents per gallon)” for “(to the extent attributable to the Highway Trust Fund financing rate and the deficit reduction rate)”.
+    1993—Subsec. (b)(2). [Pub. L. 103–66][/us/pl/103/66], § 13242(d)(33), substituted “(to the extent of 14 cents per gallon)” for “(to the extent attributable to the Highway Trust Fund financing rate and the deficit reduction rate)”.
 
-    Subsec. (f). [Pub. L. 103–66, § 13242(d)(32)][/us/pl/103/66/s13242/d/32], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–66][/us/pl/103/66], § 13242(d)(32), added subsec. (f).
 
-    1992—Subsec. (d)(1). [Pub. L. 102–581, § 501(1)][/us/pl/102/581/s501/1], substituted “October 1, 1995” for “October 1, 1992”.
+    1992—Subsec. (d)(1). [Pub. L. 102–581][/us/pl/102/581], § 501(1), substituted “October 1, 1995” for “October 1, 1992”.
 
-    Subsec. (d)(1)(A). [Pub. L. 102–581, § 501(2)][/us/pl/102/581/s501/2], substituted “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992)” for “(as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)”.
+    Subsec. (d)(1)(A). [Pub. L. 102–581][/us/pl/102/581], § 501(2), substituted “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992)” for “(as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)”.
 
-    Subsec. (e)(1). [Pub. L. 102–581, § 502(a)][/us/pl/102/581/s502/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of taxes imposed before January 1, 1993, the amounts which would (but for this paragraph) be required to be appropriated under paragraphs (1), (2), and (3) of subsection (b) shall be 3 cents per gallon less (3.5 cents per gallon less in the case of taxes imposed by section 4041(c)(1) and 4091) than the amounts which would (but for this sentence) be appropriated under such paragraphs.”
+    Subsec. (e)(1). [Pub. L. 102–581][/us/pl/102/581], § 502(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of taxes imposed before January 1, 1993, the amounts which would (but for this paragraph) be required to be appropriated under paragraphs (1), (2), and (3) of subsection (b) shall be 3 cents per gallon less (3.5 cents per gallon less in the case of taxes imposed by section 4041(c)(1) and 4091) than the amounts which would (but for this sentence) be appropriated under such paragraphs.”
 
-    1990—Subsec. (b). [Pub. L. 101–508, § 11213(c)(2)][/us/pl/101/508/s11213/c/2], (d)(3), inserted “and the deficit reduction rate” after “financing rate” in par. (2) and substituted “January 1, 1996” for “January 1, 1991” in pars. (1) to (4).
+    1990—Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 11213(c)(2), (d)(3), inserted “and the deficit reduction rate” after “financing rate” in par. (2) and substituted “January 1, 1996” for “January 1, 1991” in pars. (1) to (4).
 
-    Subsec. (d)(1)(A). [Pub. L. 101–508, § 11213(d)(4)][/us/pl/101/508/s11213/d/4], substituted “or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 (as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)” for “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)”.
+    Subsec. (d)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 11213(d)(4), substituted “or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 (as such Acts were in effect on the date of the enactment of the Aviation Safety and Capacity Expansion Act of 1990)” for “(as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)”.
 
-    Subsec. (d)(4). [Pub. L. 101–508, § 11211(b)(6)(G)][/us/pl/101/508/s11211/b/6/G], added par. (4).
+    Subsec. (d)(4). [Pub. L. 101–508][/us/pl/101/508], § 11211(b)(6)(G), added par. (4).
 
-    Subsec. (e). [Pub. L. 101–508, § 11213(c)(1)][/us/pl/101/508/s11213/c/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–508][/us/pl/101/508], § 11213(c)(1), added subsec. (e).
 
     1989—Subsec. (b)(3). [Pub. L. 101–239][/us/pl/101/239] substituted “; and” for “, and” at end.
 
-    1987—Subsec. (b). [Pub. L. 100–223, § 402(a)(3)][/us/pl/100/223/s402/a/3], substituted “January 1, 1991” for “January 1, 1988”, wherever appearing.
+    1987—Subsec. (b). [Pub. L. 100–223][/us/pl/100/223], § 402(a)(3), substituted “January 1, 1991” for “January 1, 1988”, wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 100–203, § 10502(g)][/us/pl/100/203/s10502/g], substituted “January 1, 1991” for “January 1, 1988” in the par. (3) added by [Pub. L. 100–203, § 10502(d)(12)][/us/pl/100/203/s10502/d/12].
+    Subsec. (b)(3). [Pub. L. 100–203][/us/pl/100/203], § 10502(g), substituted “January 1, 1991” for “January 1, 1988” in the par. (3) added by [Pub. L. 100–203][/us/pl/100/203], § 10502(d)(12).
 
-    [Pub. L. 100–203, § 10502(d)(12)][/us/pl/100/203/s10502/d/12], added par. (3). Former par. (3) redesignated (4).
+    [Pub. L. 100–203][/us/pl/100/203], § 10502(d)(12), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 100–203, § 10502(d)(12)][/us/pl/100/203/s10502/d/12], redesignated former par. (3) as (4).
+    Subsec. (b)(4). [Pub. L. 100–203][/us/pl/100/203], § 10502(d)(12), redesignated former par. (3) as (4).
 
-    Subsec. (d)(1). [Pub. L. 100–223, § 403][/us/pl/100/223/s403], in introductory provisions substituted “October 1, 1992” for “October 1, 1987”, and in subpar. (A), substituted “or the Airport and Airway Safety and Capacity Expansion Act of 1987 (as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)” for “(as such Acts were in effect on the date of the enactment of the Surface Transportation Assistance Act of 1982)”.
+    Subsec. (d)(1). [Pub. L. 100–223][/us/pl/100/223], § 403, in introductory provisions substituted “October 1, 1992” for “October 1, 1987”, and in subpar. (A), substituted “or the Airport and Airway Safety and Capacity Expansion Act of 1987 (as such Acts were in effect on the date of the enactment of the Airport and Airway Safety and Capacity Expansion Act of 1987)” for “(as such Acts were in effect on the date of the enactment of the Surface Transportation Assistance Act of 1982)”.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–499, § 521(b)(2)(A)][/us/pl/99/499/s521/b/2/A], substituted “subsections (c) and (e) of section 4041” for “subsections (c) and (d) of section 4041”.
+    1986—Subsec. (b)(1). [Pub. L. 99–499][/us/pl/99/499], § 521(b)(2)(A), substituted “subsections (c) and (e) of section 4041” for “subsections (c) and (d) of section 4041”.
 
-    Subsec. (b)(2). [Pub. L. 99–499, § 521(b)(2)(B)][/us/pl/99/499/s521/b/2/B], inserted “(to the extent attributable to the Highway Trust Fund financing rate)” after “section 4081”.
+    Subsec. (b)(2). [Pub. L. 99–499][/us/pl/99/499], § 521(b)(2)(B), inserted “(to the extent attributable to the Highway Trust Fund financing rate)” after “section 4081”.
 
-    1984—Subsec. (b)(3). [Pub. L. 98–369, § 735(c)(15)][/us/pl/98/369/s735/c/15], substituted “under section 4071 with respect to tires of the types used on aircraft” for “under paragraphs (2) and (3) of section 4071(a), with respect to tires and tubes of types used on aircraft”.
+    1984—Subsec. (b)(3). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(15), substituted “under section 4071 with respect to tires of the types used on aircraft” for “under paragraphs (2) and (3) of section 4071(a), with respect to tires and tubes of types used on aircraft”.
 
-    Subsec. (d)(3). [Pub. L. 98–369, § 474(r)(42)][/us/pl/98/369/s474/r/42], substituted references to section 34 for references to section 39 in heading and text.
+    Subsec. (d)(3). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(42), substituted references to section 34 for references to section 39 in heading and text.
 
     1983—Subsec. (d)(1)(A). [Pub. L. 97–424][/us/pl/97/424] substituted “the Surface Transportation Assistance Act of 1982” for “the Airport and Airway Improvement Act of 1982”.
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–95, title XI, § 1102(c)][/us/pl/112/95/s1102/c], Feb. 14, 2012, [126 Stat. 149][/us/stat/126/149], provided that: 
+[Pub. L. 112–95, title XI][/us/pl/112/95/tXI], § 1102(c), Feb. 14, 2012, [126 Stat. 149][/us/stat/126/149], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on February 18, 2012.”
 
     Amendment by [section 1103(a)(3) of Pub. L. 112–95][/us/pl/112/95/s1103/a/3] applicable to fuel used after Mar. 31, 2012, see [section 1103(d)(1) of Pub. L. 112–95][/us/pl/112/95/s1103/d/1], set out as an Effective Date note under [section 4043 of this title][/us/usc/t26/s4043].
 
-[Pub. L. 112–91, § 3(c)][/us/pl/112/91/s3/c], Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3], provided that: 
+[Pub. L. 112–91][/us/pl/112/91], § 3(c), Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on February 1, 2012.”
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–30, title II, § 203(c)][/us/pl/112/30/s203/c], Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357], provided that: 
+[Pub. L. 112–30, title II][/us/pl/112/30/tII], § 203(c), Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on September 17, 2011.”
 
-[Pub. L. 112–27, § 3(c)][/us/pl/112/27/s3/c], Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270], provided that: 
+[Pub. L. 112–27][/us/pl/112/27], § 3(c), Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on July 23, 2011.”
 
-[Pub. L. 112–21, § 3(c)][/us/pl/112/21/s3/c], June 29, 2011, [125 Stat. 233][/us/stat/125/233], provided that: 
+[Pub. L. 112–21][/us/pl/112/21], § 3(c), June 29, 2011, [125 Stat. 233][/us/stat/125/233], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on July 1, 2011.”
 
-[Pub. L. 112–16, § 3(c)][/us/pl/112/16/s3/c], May 31, 2011, [125 Stat. 218][/us/stat/125/218], provided that: 
+[Pub. L. 112–16][/us/pl/112/16], § 3(c), May 31, 2011, [125 Stat. 218][/us/stat/125/218], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on June 1, 2011.”
 
-[Pub. L. 112–7, § 3(c)][/us/pl/112/7/s3/c], Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31], provided that: 
+[Pub. L. 112–7][/us/pl/112/7], § 3(c), Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on April 1, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–329, § 3(c)][/us/pl/111/329/s3/c], Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566], provided that: 
+[Pub. L. 111–329][/us/pl/111/329], § 3(c), Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 2011.”
 
-[Pub. L. 111–249, § 3(c)][/us/pl/111/249/s3/c], Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627], provided that: 
+[Pub. L. 111–249][/us/pl/111/249], § 3(c), Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2010.”
 
-[Pub. L. 111–216, title I, § 102(c)][/us/pl/111/216/s102/c], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349], provided that: 
+[Pub. L. 111–216, title I][/us/pl/111/216/tI], § 102(c), Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 2, 2010.”
 
-[Pub. L. 111–197, § 3(c)][/us/pl/111/197/s3/c], July 2, 2010, [124 Stat. 1353][/us/stat/124/1353], provided that: 
+[Pub. L. 111–197][/us/pl/111/197], § 3(c), July 2, 2010, [124 Stat. 1353][/us/stat/124/1353], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on July 4, 2010.”
 
-[Pub. L. 111–161, § 3(c)][/us/pl/111/161/s3/c], Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126], provided that: 
+[Pub. L. 111–161][/us/pl/111/161], § 3(c), Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on May 1, 2010.”
 
-[Pub. L. 111–153, § 3(c)][/us/pl/111/153/s3/c], Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084], provided that: 
+[Pub. L. 111–153][/us/pl/111/153], § 3(c), Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on April 1, 2010.”
 
-[Pub. L. 111–147, title IV, § 444(c)][/us/pl/111/147/s444/c], Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94], provided that: 
+[Pub. L. 111–147, title IV][/us/pl/111/147/tIV], § 444(c), Mar. 18, 2010, [124 Stat. 94][/us/stat/124/94], provided that: 
 
 > “The amendment made by this section \[amending this section and sections 9503 and 9504 of this title\] shall apply to transfers relating to amounts paid and credits allowed after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–116, § 3(c)][/us/pl/111/116/s3/c], Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031], provided that: 
+[Pub. L. 111–116][/us/pl/111/116], § 3(c), Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 2010.”
 
-[Pub. L. 111–69, § 3(c)][/us/pl/111/69/s3/c], Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054], provided that: 
+[Pub. L. 111–69][/us/pl/111/69], § 3(c), Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2009.”
 
-[Pub. L. 111–12, § 3(c)][/us/pl/111/12/s3/c], Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457], provided that: 
+[Pub. L. 111–12][/us/pl/111/12], § 3(c), Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on April 1, 2009.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–330, § 3(c)][/us/pl/110/330/s3/c], Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717], provided that: 
+[Pub. L. 110–330][/us/pl/110/330], § 3(c), Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on October 1, 2008.”
 
-[Pub. L. 110–253, § 3(d)][/us/pl/110/253/s3/d], June 30, 2008, [122 Stat. 2418][/us/stat/122/2418], provided that: 
+[Pub. L. 110–253][/us/pl/110/253], § 3(d), June 30, 2008, [122 Stat. 2418][/us/stat/122/2418], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 40117, 44302, 44303, 47115 and 47141 of Title 49, Transportation, and amending provisions set out as a note under [section 47109 of Title 49][/us/usc/t49/s47109]\] shall take effect on July 1, 2008.”
 
-[Pub. L. 110–190, § 3(c)][/us/pl/110/190/s3/c], Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643], provided that: 
+[Pub. L. 110–190][/us/pl/110/190], § 3(c), Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on March 1, 2008.”
 
@@ -587,7 +587,7 @@
 
     Amendment by [Pub. L. 110–172][/us/pl/110/172] effective as if included in the provision of the American Jobs Creation Act of 2004, [Pub. L. 108–357][/us/pl/108/357], to which such amendment relates, see [section 11(f)(4) of Pub. L. 110–172][/us/pl/110/172/s11/f/4], set out as a note under [section 904 of this title][/us/usc/t26/s904].
 
-    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2007, see [section 116(d) of div. K of Pub. L. 110–161][/us/pl/110/161/s116/d], set out as a note under [section 4081 of this title][/us/usc/t26/s4081].
+    Amendment by [Pub. L. 110–161][/us/pl/110/161] effective Oct. 1, 2007, see [section 116(d) of div. K of Pub. L. 110–161][/us/pl/110/161/dK/s116/d], set out as a note under [section 4081 of this title][/us/usc/t26/s4081].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -617,7 +617,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1031(e)(3)][/us/pl/105/34/s1031/e/3], Aug. 5, 1997, [111 Stat. 933][/us/stat/111/933], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1031(e)(3), Aug. 5, 1997, [111 Stat. 933][/us/stat/111/933], provided that: 
 
 > “The amendments made by subsection (d) \[amending this section\] shall apply with respect to taxes received in the Treasury on and after October 1, 1997.”
 
@@ -635,9 +635,9 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–581, title V, § 502(b)][/us/pl/102/581/s502/b], Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898], provided that: 
+[Pub. L. 102–581, title V][/us/pl/102/581/tV], § 502(b), Oct. 31, 1992, [106 Stat. 4898][/us/stat/106/4898], provided that: 
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 11213 of the Revenue Reconciliation Act of 1990 \[[Pub. L. 101–508, title XI][/us/pl/101/508]\] on the date of the enactment of such Act \[Nov. 5, 1990\].”
+> “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 11213 of the Revenue Reconciliation Act of 1990 \[[Pub. L. 101–508, title XI][/us/pl/101/508/tXI]\] on the date of the enactment of such Act \[Nov. 5, 1990\].”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -645,13 +645,13 @@
 
  __Effective Date of 1989 Amendment__ 
 
-    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
+    Amendment by [Pub. L. 101–239][/us/pl/101/239] effective as if included in the provision of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 7823 of Pub. L. 101–239][/us/pl/101/239/s7823], set out as a note under [section 26 of this title][/us/usc/t26/s26].
 
  __Effective Date of 1987 Amendment__ 
 
     Amendment by [section 10502(d)(12) of Pub. L. 100–203][/us/pl/100/203/s10502/d/12] applicable to sales after Mar. 31, 1988, see [section 10502(e) of Pub. L. 100–203][/us/pl/100/203/s10502/e], set out as a note under [section 40 of this title][/us/usc/t26/s40].
 
-[Pub. L. 100–203, title X, § 10502(g)][/us/pl/100/203/s10502/g], Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10502(g), Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446], provided that: 
 
 > “If the Airport and Airway Safety and Capacity Expansion Act of 1987 is enacted \[enacted as [Pub. L. 100–223][/us/pl/100/223]\], effective on December 31, 1987, sections 4091(b)(5)(B) and 9502(b)(3) of such Code \[this title\] (as added by this section) are each amended by striking out ‘January 1, 1988’ and inserting in lieu thereof ‘January 1, 1991’.”
 
@@ -667,7 +667,7 @@
 
  __Effective Date; Savings Provision__ 
 
-[Pub. L. 97–248, title II, § 281(d)][/us/pl/97/248/s281/d], Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], provided that:
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 281(d), Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -687,154 +687,154 @@
 [/us/usc/t49/s47107/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fm
 [/us/pl/106/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F59
 [/us/usc/t49/s47107/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fm
-[/us/pl/97/248/s281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F565
-[/us/pl/97/424/s426/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs426%2Fe
+[/us/pl/97/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtIV
 [/us/stat/96/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2168
-[/us/pl/98/369/s474/r/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F42
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F847
-[/us/pl/99/499/s521/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fb%2F2
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1778
-[/us/pl/100/203/s10502/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fd%2F12
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-444
-[/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
+[/us/pl/100/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2FtIV
 [/us/stat/101/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1532
-[/us/pl/101/239/s7822/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7822%2Fb%2F5
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2425
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-426
-[/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
+[/us/pl/102/581/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2FtV
 [/us/stat/106/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4898
-[/us/pl/103/66/s13242/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fd%2F32
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F526
-[/us/pl/103/260/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260%2Fs108
+[/us/pl/103/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260%2FtI
 [/us/stat/108/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F700
-[/us/pl/103/272/s5/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fg%2F3
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1375
-[/us/pl/103/305/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs401
+[/us/pl/103/305/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2FtIV
 [/us/stat/108/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1594
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1841
-[/us/pl/104/264/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs806
+[/us/pl/104/264/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtVIII
 [/us/stat/110/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3274
-[/us/pl/105/2/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2%2Fs2%2Fc
+[/us/pl/105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2
 [/us/stat/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F5
-[/us/pl/105/34/s1031/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fd
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F932
-[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F814
-[/us/pl/106/181/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs1001
+[/us/pl/106/181/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2FtX
 [/us/stat/114/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F196
-[/us/pl/107/71/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs123%2Fb
+[/us/pl/107/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2FtI
 [/us/stat/115/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F631
-[/us/pl/108/176/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs901
+[/us/pl/108/176/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2FtIX
 [/us/stat/117/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2597
-[/us/pl/108/357/s853/d/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs853%2Fd%2F2%2FN
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1613
-[/us/pl/109/59/s11161/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fc%2F2%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1972
-[/us/pl/109/432/s420/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs420%2Fb%2F5
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2969
-[/us/pl/110/92/s149/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F92%2Fs149%2Fb
+[/us/pl/110/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F92
 [/us/stat/121/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F996
-[/us/pl/110/161/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116%2Fc
+[/us/pl/110/161/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2FtI
 [/us/stat/121/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2382
-[/us/pl/110/172/s11/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Ff%2F1
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2489
-[/us/pl/110/190/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190%2Fs3%2Fa
+[/us/pl/110/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190
 [/us/stat/122/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F643
-[/us/pl/110/253/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253%2Fs3%2Fa
+[/us/pl/110/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253
 [/us/stat/122/2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2417
-[/us/pl/110/330/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs3%2Fa
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
 [/us/stat/122/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3717
-[/us/pl/111/12/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12%2Fs3%2Fa
+[/us/pl/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12
 [/us/stat/123/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1457
-[/us/pl/111/68/s156/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs156%2Fc
+[/us/pl/111/68/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdB
 [/us/stat/123/2050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2050
-[/us/pl/111/69/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs3%2Fa
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
 [/us/stat/123/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2054
-[/us/pl/111/116/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116%2Fs3%2Fa
+[/us/pl/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116
 [/us/stat/123/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3031
-[/us/pl/111/147/s444/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs444%2Fb%2F1
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F94
-[/us/pl/111/153/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153%2Fs3%2Fa
+[/us/pl/111/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153
 [/us/stat/124/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1084
-[/us/pl/111/161/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161%2Fs3%2Fa
+[/us/pl/111/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161
 [/us/stat/124/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1126
-[/us/pl/111/197/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197%2Fs3%2Fa
+[/us/pl/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197
 [/us/stat/124/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1353
-[/us/pl/111/216/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs102%2Fa
+[/us/pl/111/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtI
 [/us/stat/124/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2349
-[/us/pl/111/249/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs3%2Fa
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2627
-[/us/pl/111/329/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329%2Fs3%2Fa
+[/us/pl/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329
 [/us/stat/124/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3566
-[/us/pl/112/7/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7%2Fs3%2Fa
+[/us/pl/112/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7
 [/us/stat/125/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F31
-[/us/pl/112/16/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16%2Fs3%2Fa
+[/us/pl/112/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16
 [/us/stat/125/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F218
-[/us/pl/112/21/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21%2Fs3%2Fa
+[/us/pl/112/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21
 [/us/stat/125/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F233
-[/us/pl/112/27/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27%2Fs3%2Fa
+[/us/pl/112/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27
 [/us/stat/125/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F270
-[/us/pl/112/30/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs203%2Fa
+[/us/pl/112/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtII
 [/us/stat/125/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F357
-[/us/pl/112/91/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs3%2Fa
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/stat/126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F3
-[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtXI
 [/us/stat/126/148-150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F148-150
-[/us/pl/113/188/s1501/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs1501%2Fb%2F2%2FD
+[/us/pl/113/188/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtXV
 [/us/stat/128/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2024
-[/us/pl/114/55/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs201
+[/us/pl/114/55/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2FtII
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/stat/84/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F219
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
-[/us/pl/97/248/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs523%2Fa
+[/us/pl/97/248/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtV
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/94/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F353
 [/us/stat/90/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F871
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/96/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F193
 [/us/stat/94/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F50
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F622
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/stat/96/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F671
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
 [/us/stat/101/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1486
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-372
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/stat/104/1388-353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-353
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
 [/us/stat/106/4872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4872
 [/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/103/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260
 [/us/stat/108/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F698
 [/us/pl/103/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260
-[/us/pl/103/429/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429%2Fs11%2Fb
+[/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
 [/us/stat/108/4391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4391
 [/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/stat/108/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1569
@@ -923,191 +923,191 @@
 [/us/stat/129/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F524
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
-[/us/pl/114/55/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs201%2Fa%2F1
-[/us/pl/114/55/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs201%2Fa%2F2
-[/us/pl/114/55/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55%2Fs201%2Fb
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
+[/us/pl/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F55
 [/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
-[/us/pl/112/95/s1103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fa%2F3
-[/us/pl/112/95/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1102%2Fa%2F1
-[/us/pl/112/91/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs3%2Fa%2F1
-[/us/pl/112/95/s1102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1102%2Fa%2F2
-[/us/pl/112/91/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs3%2Fa%2F2
-[/us/pl/112/95/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1102%2Fb
-[/us/pl/112/91/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs3%2Fb
-[/us/pl/112/30/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs203%2Fa%2F1
-[/us/pl/112/27/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27%2Fs3%2Fa%2F1
-[/us/pl/112/21/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21%2Fs3%2Fa%2F1
-[/us/pl/112/16/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16%2Fs3%2Fa%2F1
-[/us/pl/112/7/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7%2Fs3%2Fa%2F1
-[/us/pl/112/30/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs203%2Fa%2F2
-[/us/pl/112/27/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27%2Fs3%2Fa%2F2
-[/us/pl/112/21/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21%2Fs3%2Fa%2F2
-[/us/pl/112/16/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16%2Fs3%2Fa%2F2
-[/us/pl/112/7/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7%2Fs3%2Fa%2F2
-[/us/pl/112/30/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs203%2Fb
-[/us/pl/112/27/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27%2Fs3%2Fb
-[/us/pl/112/21/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21%2Fs3%2Fb
-[/us/pl/112/16/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16%2Fs3%2Fb
-[/us/pl/112/7/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7%2Fs3%2Fb
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
+[/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27
+[/us/pl/112/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21
+[/us/pl/112/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16
+[/us/pl/112/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27
+[/us/pl/112/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21
+[/us/pl/112/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16
+[/us/pl/112/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7
+[/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
+[/us/pl/112/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27
+[/us/pl/112/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21
+[/us/pl/112/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16
+[/us/pl/112/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
-[/us/pl/111/329/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329%2Fs3%2Fa%2F1
-[/us/pl/111/249/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs3%2Fa%2F1
-[/us/pl/111/216/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs102%2Fa%2F1
-[/us/pl/111/197/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197%2Fs3%2Fa%2F1
-[/us/pl/111/161/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161%2Fs3%2Fa%2F1
-[/us/pl/111/153/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153%2Fs3%2Fa%2F1
-[/us/pl/111/329/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329%2Fs3%2Fa%2F2
-[/us/pl/111/249/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs3%2Fa%2F2
-[/us/pl/111/216/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs102%2Fa%2F2
-[/us/pl/111/197/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197%2Fs3%2Fa%2F2
-[/us/pl/111/161/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161%2Fs3%2Fa%2F2
-[/us/pl/111/153/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153%2Fs3%2Fa%2F2
-[/us/pl/111/329/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329%2Fs3%2Fb
-[/us/pl/111/249/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs3%2Fb
-[/us/pl/111/216/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs102%2Fb
-[/us/pl/111/197/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197%2Fs3%2Fb
-[/us/pl/111/161/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161%2Fs3%2Fb
-[/us/pl/111/153/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153%2Fs3%2Fb
-[/us/pl/111/116/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116%2Fs3%2Fa%2F1
-[/us/pl/111/69/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs3%2Fa%2F1
-[/us/pl/111/12/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12%2Fs3%2Fa%2F1
-[/us/pl/111/116/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116%2Fs3%2Fa%2F2
-[/us/pl/111/69/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs3%2Fa%2F2
+[/us/pl/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197
+[/us/pl/111/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161
+[/us/pl/111/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153
+[/us/pl/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197
+[/us/pl/111/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161
+[/us/pl/111/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153
+[/us/pl/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
+[/us/pl/111/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216
+[/us/pl/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197
+[/us/pl/111/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161
+[/us/pl/111/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153
+[/us/pl/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
+[/us/pl/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12
+[/us/pl/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
-[/us/pl/111/12/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12%2Fs3%2Fa%2F2
-[/us/pl/111/116/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116%2Fs3%2Fb
-[/us/pl/111/69/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs3%2Fb
-[/us/pl/111/12/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12%2Fs3%2Fb
-[/us/pl/110/330/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs3%2Fa%2F1
-[/us/pl/110/253/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253%2Fs3%2Fa%2F1
-[/us/pl/110/190/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190%2Fs3%2Fa%2F1
-[/us/pl/110/330/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs3%2Fa%2F2
-[/us/pl/110/253/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253%2Fs3%2Fa%2F2
-[/us/pl/110/190/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190%2Fs3%2Fa%2F2
-[/us/pl/110/330/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs3%2Fb
-[/us/pl/110/253/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253%2Fs3%2Fb
-[/us/pl/110/190/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190%2Fs3%2Fb
+[/us/pl/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12
+[/us/pl/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
+[/us/pl/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
+[/us/pl/110/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253
+[/us/pl/110/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
+[/us/pl/110/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253
+[/us/pl/110/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
+[/us/pl/110/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253
+[/us/pl/110/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/110/161/s116/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116%2Fc%2F1%2FA
-[/us/pl/110/161/s116/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116%2Fc%2F1%2FB
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/110/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F92
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/110/161/s116/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116%2Fc%2F2
-[/us/pl/109/432/s420/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs420%2Fb%2F5%2FA
-[/us/pl/109/432/s420/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs420%2Fb%2F5%2FB
-[/us/pl/109/59/s11161/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fc%2F2%2FA
-[/us/pl/109/59/s11161/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fc%2F2%2FB%2Fi
-[/us/pl/109/59/s11161/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fc%2F2%2FB%2Fii
-[/us/pl/109/59/s11161/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fd%2F1
-[/us/pl/109/59/s11161/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fd%2F2
-[/us/pl/108/357/s853/d/2/O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs853%2Fd%2F2%2FO
-[/us/pl/108/357/s853/d/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs853%2Fd%2F2%2FN
-[/us/pl/108/176/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs901%2Fa%2F1
-[/us/pl/108/176/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs901%2Fa%2F2
-[/us/pl/108/176/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs901%2Fb
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
+[/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
-[/us/pl/106/181/s1001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs1001%2Fa%2F1
-[/us/pl/106/181/s1001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs1001%2Fa%2F2
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F59
-[/us/pl/106/181/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs1001%2Fb
-[/us/pl/105/206/s6010/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fg%2F2
-[/us/pl/105/206/s6023/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F31
-[/us/pl/105/34/s1031/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fd%2F1%2FC
-[/us/pl/105/2/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2%2Fs2%2Fc%2F1
+[/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2
 [/us/usc/t49/s47107/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47107%2Fn
-[/us/pl/105/34/s1031/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fd%2F1%2FA
-[/us/pl/105/34/s1031/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fd%2F1%2FB
-[/us/pl/105/34/s1604/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fg%2F5
-[/us/pl/105/34/s1031/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fd%2F2
-[/us/pl/105/2/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2%2Fs2%2Fc%2F2
-[/us/pl/104/188/s1609/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fc%2F1
-[/us/pl/104/188/s1703/n/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fn%2F10
-[/us/pl/104/188/s1609/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fc%2F1
-[/us/pl/104/188/s1609/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fc%2F1
-[/us/pl/104/264/s806/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs806%2F1
-[/us/pl/104/264/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1001%2Fa
-[/us/pl/104/264/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1001%2Fb
-[/us/pl/104/264/s806/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs806%2F4
-[/us/pl/104/188/s1609/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fc%2F3
-[/us/pl/104/188/s1609/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fg%2F4%2FC
-[/us/pl/104/188/s1609/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1609%2Fc%2F2
-[/us/pl/103/305/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs401%2F1
-[/us/pl/103/305/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs401%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
+[/us/pl/103/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305
 [/us/pl/103/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F260
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
-[/us/pl/103/66/s13242/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fd%2F33
-[/us/pl/103/66/s13242/d/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fd%2F32
-[/us/pl/102/581/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs501%2F1
-[/us/pl/102/581/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs501%2F2
-[/us/pl/102/581/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs502%2Fa
-[/us/pl/101/508/s11213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11213%2Fc%2F2
-[/us/pl/101/508/s11213/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11213%2Fd%2F4
-[/us/pl/101/508/s11211/b/6/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11211%2Fb%2F6%2FG
-[/us/pl/101/508/s11213/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11213%2Fc%2F1
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
+[/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
+[/us/pl/102/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/223/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2Fs402%2Fa%2F3
-[/us/pl/100/203/s10502/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fg
-[/us/pl/100/203/s10502/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fd%2F12
-[/us/pl/100/203/s10502/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fd%2F12
-[/us/pl/100/203/s10502/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fd%2F12
-[/us/pl/100/223/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2Fs403
-[/us/pl/99/499/s521/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fb%2F2%2FA
-[/us/pl/99/499/s521/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fb%2F2%2FB
-[/us/pl/98/369/s735/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F15
-[/us/pl/98/369/s474/r/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F42
+[/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
-[/us/pl/112/95/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1102%2Fc
+[/us/pl/112/95/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtXI
 [/us/stat/126/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F149
 [/us/pl/112/95/s1103/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fa%2F3
 [/us/pl/112/95/s1103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fd%2F1
 [/us/usc/t26/s4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4043
-[/us/pl/112/91/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91%2Fs3%2Fc
+[/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
 [/us/stat/126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F3
-[/us/pl/112/30/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs203%2Fc
+[/us/pl/112/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtII
 [/us/stat/125/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F357
-[/us/pl/112/27/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27%2Fs3%2Fc
+[/us/pl/112/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F27
 [/us/stat/125/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F270
-[/us/pl/112/21/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21%2Fs3%2Fc
+[/us/pl/112/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F21
 [/us/stat/125/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F233
-[/us/pl/112/16/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16%2Fs3%2Fc
+[/us/pl/112/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F16
 [/us/stat/125/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F218
-[/us/pl/112/7/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7%2Fs3%2Fc
+[/us/pl/112/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F7
 [/us/stat/125/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F31
-[/us/pl/111/329/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329%2Fs3%2Fc
+[/us/pl/111/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F329
 [/us/stat/124/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3566
-[/us/pl/111/249/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs3%2Fc
+[/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2627
-[/us/pl/111/216/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2Fs102%2Fc
+[/us/pl/111/216/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F216%2FtI
 [/us/stat/124/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2349
-[/us/pl/111/197/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197%2Fs3%2Fc
+[/us/pl/111/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F197
 [/us/stat/124/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1353
-[/us/pl/111/161/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161%2Fs3%2Fc
+[/us/pl/111/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F161
 [/us/stat/124/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1126
-[/us/pl/111/153/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153%2Fs3%2Fc
+[/us/pl/111/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F153
 [/us/stat/124/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1084
-[/us/pl/111/147/s444/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs444%2Fc
+[/us/pl/111/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIV
 [/us/stat/124/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F94
-[/us/pl/111/116/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116%2Fs3%2Fc
+[/us/pl/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F116
 [/us/stat/123/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3031
-[/us/pl/111/69/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69%2Fs3%2Fc
+[/us/pl/111/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F69
 [/us/stat/123/2054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2054
-[/us/pl/111/12/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12%2Fs3%2Fc
+[/us/pl/111/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F12
 [/us/stat/123/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1457
-[/us/pl/110/330/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330%2Fs3%2Fc
+[/us/pl/110/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F330
 [/us/stat/122/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3717
-[/us/pl/110/253/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253%2Fs3%2Fd
+[/us/pl/110/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F253
 [/us/stat/122/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2418
 [/us/usc/t49/s47109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs47109
-[/us/pl/110/190/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190%2Fs3%2Fc
+[/us/pl/110/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F190
 [/us/stat/122/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F643
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/110/172/s11/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Ff%2F4
 [/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
-[/us/pl/110/161/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs116%2Fd
+[/us/pl/110/161/dK/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdK%2Fs116%2Fd
 [/us/usc/t26/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4081
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s420/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs420%2Fc
@@ -1131,7 +1131,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1031/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1031%2Fe%2F3
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F933
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
@@ -1146,20 +1146,20 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13242/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fe
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/102/581/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2Fs502%2Fb
+[/us/pl/102/581/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F581%2FtV
 [/us/stat/106/4898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4898
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/pl/101/508/s11211/b/6/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11211%2Fb%2F6%2FG
 [/us/pl/101/508/s11211/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11211%2Fb%2F7
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/101/239/s7823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7823
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/pl/100/203/s10502/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fd%2F12
 [/us/pl/100/203/s10502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fe
 [/us/usc/t26/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs40
-[/us/pl/100/203/s10502/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10502%2Fg
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-446
 [/us/pl/100/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
@@ -1172,7 +1172,7 @@
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/98/369/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs736
 [/us/usc/t26/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4051
-[/us/pl/97/248/s281/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281%2Fd
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F566
 [/us/usc/t26/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120

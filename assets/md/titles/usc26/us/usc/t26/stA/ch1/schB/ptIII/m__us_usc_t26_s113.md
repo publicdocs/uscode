@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s112.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s114.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs113)
 
-## \[§ 113. Repealed. [Pub. L. 101–508, title XI, § 11801(a)(7)][/us/pl/101/508/s11801/a/7], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
+## \[§ 113. Repealed. [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(7), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 35][/us/stat/68A/35], related to mustering-out payments for members of Armed Forces.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F7
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-520
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F35

@@ -35,17 +35,17 @@
 
         If pursuant to section 6861(a) a jeopardy assessment is made before the mailing of the notice of deficiency referred to in subsection (a), for purposes of this section such notice of deficiency shall, to the extent that it informs the taxpayer that such deficiency includes the accumulated earnings tax imposed by section 531, constitute the notification described in subsection (b), and in that event the statement described in subsection (c) may be included in the taxpayer’s petition to the Tax Court.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 180][/us/stat/68A/180]; [Aug. 11, 1955, ch. 805][/us/act/1955-08-11/ch805], §§ 4, 5, [69 Stat. 690][/us/stat/69/690], 691; [Pub. L. 85–866, title I, § 89(b)][/us/pl/85/866/s89/b], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(73), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 180][/us/stat/68A/180]; [Aug. 11, 1955, ch. 805][/us/act/1955-08-11/ch805], §§ 4, 5, [69 Stat. 690][/us/stat/69/690], 691; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(b), Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(73), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (a)(1), (2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(1), (2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(73)(A), 1906(b)(13)(A), struck out “In the case of a notice of deficiency to which subsection (e)(2) applies and which is mailed on or before the 30th day after the date of enactment of this sentence, the notification referred to in the preceding sentence may be mailed at any time on or before such 30th day” after “section 531”, and “or his delegate” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e). [Pub. L. 94–455, § 1901(a)(73)(B)][/us/pl/94/455/s1901/a/73/B], struck out subsec. (e) relating to application of provisions of section.
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(73)(B), struck out subsec. (e) relating to application of provisions of section.
 
     1958—Subsec. (b). [Pub. L. 85–866][/us/pl/85/866] inserted “certified mail or” before “registered mail”.
 
@@ -72,14 +72,14 @@
 [/us/stat/68A/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F180
 [/us/act/1955-08-11/ch805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch805
 [/us/stat/69/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F690
-[/us/pl/85/866/s89/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1776
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/73/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F73%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/94/455/s1901/a/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F73
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

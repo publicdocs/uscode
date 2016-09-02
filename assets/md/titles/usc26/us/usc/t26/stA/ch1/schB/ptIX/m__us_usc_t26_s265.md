@@ -253,7 +253,7 @@
 
                 For purposes of this paragraph, a refunding bond (whether a current or advance refunding) shall be treated as issued on the date of the issuance of the refunded bond (or in the case of a series of refundings, the original bond).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 78][/us/stat/68A/78]; [Pub. L. 88–272, title II, § 216(a)][/us/pl/88/272/s216/a], Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(37), 1906(b)(13)(A), title XXI, § 2137(e), Oct. 4, 1976, [90 Stat. 1770][/us/stat/90/1770], 1834, 1931; [Pub. L. 96–223, title IV, § 404(b)(2)][/us/pl/96/223/s404/b/2], Apr. 2, 1980, [94 Stat. 306][/us/stat/94/306]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], 272, 274; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 16(a), 56(c), July 18, 1984, [98 Stat. 505][/us/stat/98/505], 574; [Pub. L. 99–514, title I, § 144][/us/pl/99/514/s144], title IX, § 902(a), (b), (d), Oct. 22, 1986, [100 Stat. 2121][/us/stat/100/2121], 2380–2382; [Pub. L. 100–647, title I, § 1009(b)(3)(A)][/us/pl/100/647/s1009/b/3/A], Nov. 10, 1988, [102 Stat. 3446][/us/stat/102/3446]; [Pub. L. 101–508, title XI, § 11801(c)(4)][/us/pl/101/508/s11801/c/4], Nov. 5, 1990, [104 Stat. 1388–523][/us/stat/104/1388-523]; [Pub. L. 105–34, title X, § 1084(c)][/us/pl/105/34/s1084/c], Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1501(a), 1502(a), Feb. 17, 2009, [123 Stat. 353][/us/stat/123/353].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 78][/us/stat/68A/78]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 216(a), Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(37), 1906(b)(13)(A), title XXI, § 2137(e), Oct. 4, 1976, [90 Stat. 1770][/us/stat/90/1770], 1834, 1931; [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 404(b)(2), Apr. 2, 1980, [94 Stat. 306][/us/stat/94/306]; [Pub. L. 97–34, title III][/us/pl/97/34/tIII], §§ 301(b)(2), 302(c)(2), (d)(1), Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], 272, 274; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], §§ 16(a), 56(c), July 18, 1984, [98 Stat. 505][/us/stat/98/505], 574; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 144, title IX, § 902(a), (b), (d), Oct. 22, 1986, [100 Stat. 2121][/us/stat/100/2121], 2380–2382; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1009(b)(3)(A), Nov. 10, 1988, [102 Stat. 3446][/us/stat/102/3446]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(4), Nov. 5, 1990, [104 Stat. 1388–523][/us/stat/104/1388-523]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1084(c), Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], §§ 1501(a), 1502(a), Feb. 17, 2009, [123 Stat. 353][/us/stat/123/353].)
 
  __References in Text__ 
 
@@ -267,45 +267,45 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b)(3)(G). [Pub. L. 111–5, § 1502(a)][/us/pl/111/5/s1502/a], added subpar. (G).
+    2009—Subsec. (b)(3)(G). [Pub. L. 111–5][/us/pl/111/5], § 1502(a), added subpar. (G).
 
-    Subsec. (b)(7). [Pub. L. 111–5, § 1501(a)][/us/pl/111/5/s1501/a], added par. (7).
+    Subsec. (b)(7). [Pub. L. 111–5][/us/pl/111/5], § 1501(a), added par. (7).
 
     1997—Subsec. (b)(4)(A). [Pub. L. 105–34][/us/pl/105/34] inserted “, section 264,” before “and section 291”.
 
-    1990—Subsec. (a)(2). [Pub. L. 101–508, § 11801(c)(4)][/us/pl/101/508/s11801/c/4], struck out before period at end “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128”.
+    1990—Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(4), struck out before period at end “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128”.
 
     1988—Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647] amended par. (3) generally, reenacting subpar. (A) without change, revising and restating provisions of subpars. (B) to (E), and adding subpar. (F).
 
-    1986—[Pub. L. 99–514, § 902(a)][/us/pl/99/514/s902/a], (d), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    1986—[Pub. L. 99–514][/us/pl/99/514], § 902(a), (d), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    Par. (2). [Pub. L. 99–514, § 902(b)][/us/pl/99/514/s902/b], struck out last sentence which read as follows: “In applying the preceding sentence to a financial institution (other than a bank) which is a face-amount certificate company registered under the Investment Company Act of 1940 ([15 U.S.C. 80a–1][/us/usc/t15/s80a–1] and following) and which is subject to the banking laws of the State in which such institution is incorporated, interest on face-amount certificates (as defined in section 2(a)(15) of such Act) issued by such institution, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered as interest on indebtedness incurred or continued to purchase or carry obligations the interest on which is wholly exempt from the taxes imposed by this subtitle, to the extent that the average amount of such obligations held by such institution during the taxable year (as determined under regulations prescribed by the Secretary) does not exceed 15 percent of the average of the total assets held by such institution during the taxable year (as so determined).”
+    Par. (2). [Pub. L. 99–514][/us/pl/99/514], § 902(b), struck out last sentence which read as follows: “In applying the preceding sentence to a financial institution (other than a bank) which is a face-amount certificate company registered under the Investment Company Act of 1940 ([15 U.S.C. 80a–1][/us/usc/t15/s80a–1] and following) and which is subject to the banking laws of the State in which such institution is incorporated, interest on face-amount certificates (as defined in section 2(a)(15) of such Act) issued by such institution, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered as interest on indebtedness incurred or continued to purchase or carry obligations the interest on which is wholly exempt from the taxes imposed by this subtitle, to the extent that the average amount of such obligations held by such institution during the taxable year (as determined under regulations prescribed by the Secretary) does not exceed 15 percent of the average of the total assets held by such institution during the taxable year (as so determined).”
 
-    Par. (6). [Pub. L. 99–514, § 144][/us/pl/99/514/s144], added par. (6).
+    Par. (6). [Pub. L. 99–514][/us/pl/99/514], § 144, added par. (6).
 
-    1984—Par. (2). [Pub. L. 98–369, § 16(a)][/us/pl/98/369/s16/a], repealed amendments made by [Pub. L. 97–34, § 302(c)][/us/pl/97/34/s302/c]. See 1981 Amendment note below.
+    1984—Par. (2). [Pub. L. 98–369][/us/pl/98/369], § 16(a), repealed amendments made by [Pub. L. 97–34][/us/pl/97/34], § 302(c). See 1981 Amendment note below.
 
-    Par. (5). [Pub. L. 98–369, § 56(c)][/us/pl/98/369/s56/c], added par. (5).
+    Par. (5). [Pub. L. 98–369][/us/pl/98/369], § 56(c), added par. (5).
 
-    1981—Par. (2). [Pub. L. 97–34, § 302(c)(2)][/us/pl/97/34/s302/c/2], (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out “or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” and inserting in lieu thereof “or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128”. [Section 16(a) of Pub. L. 98–369][/us/pl/98/369/s16/a], repealed [section 302(c) of Pub. L. 97–34][/us/pl/97/34/s302/c], and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
+    1981—Par. (2). [Pub. L. 97–34][/us/pl/97/34], § 302(c)(2), (d)(1), provided that, applicable to taxable years beginning after Dec. 31, 1984, par. (2) is amended by striking out “or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” and inserting in lieu thereof “or to purchase or carry obligations or shares, or to make other deposits or investments, the interest on which is described in section 128(c)(1) to the extent such interest is excludable from gross income under section 128”. [Section 16(a) of Pub. L. 98–369][/us/pl/98/369/s16/a], repealed [section 302(c) of Pub. L. 97–34][/us/pl/97/34/s302/c], and provided that this title shall be applied and administered as if section 302(c), and the amendments made by such section 302(c), had not been enacted.
 
-    [Pub. L. 97–34, § 301(b)(2)][/us/pl/97/34/s301/b/2], inserted “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” after “116”.
+    [Pub. L. 97–34][/us/pl/97/34], § 301(b)(2), inserted “, or to purchase or carry any certificate to the extent the interest on such certificate is excludable under section 128” after “116”.
 
     1980—Par. (2). [Pub. L. 96–223][/us/pl/96/223] inserted “, or to purchase or carry obligations or shares, or to make deposits or other investments, the interest on which is described in section 116(c) to the extent such interest is excludable from gross income under section 116” after “subtitle”.
 
     1976—Par. (2). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(37), 1906(b)(13)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “to purchase or carry obligations” and “or his delegate” after “Secretary”.
 
-    Pars. (3), (4). [Pub. L. 94–455, § 2137(e)][/us/pl/94/455/s2137/e], added pars. (3) and (4).
+    Pars. (3), (4). [Pub. L. 94–455][/us/pl/94/455], § 2137(e), added pars. (3) and (4).
 
     1964—Par. (2). [Pub. L. 88–272][/us/pl/88/272] provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn’t exceed 15 percent of the average total assets held by such institution during the taxable year.
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1501(c)][/us/pl/111/5/s1501/c], Feb. 17, 2009, [123 Stat. 353][/us/stat/123/353], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1501(c), Feb. 17, 2009, [123 Stat. 353][/us/stat/123/353], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 291 of this title][/us/usc/t26/s291]\] shall apply to obligations issued after December 31, 2008.”
 
-[Pub. L. 111–5, div. B, title I, § 1502(b)][/us/pl/111/5/s1502/b], Feb. 17, 2009, [123 Stat. 354][/us/stat/123/354], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1502(b), Feb. 17, 2009, [123 Stat. 354][/us/stat/123/354], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008.”
 
@@ -315,7 +315,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1009(b)(3)(B)][/us/pl/100/647/s1009/b/3/B]–(D), Nov. 10, 1988, [102 Stat. 3448][/us/stat/102/3448], 3449, as amended by [Pub. L. 101–239, title VII, § 7811(f)(2)][/us/pl/101/239/s7811/f/2], Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409], provided that:
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1009(b)(3)(B)–(D), Nov. 10, 1988, [102 Stat. 3448][/us/stat/102/3448], 3449, as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(f)(2), Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409], provided that:
 
 >     “(B) In the case of any obligation issued after August 7, 1986, and before January 1, 1987, the time for making a designation with respect to such obligation under section 265(b)(3)(B)(i)(III) of the 1986 Code shall not expire before January 1, 1989.
 
@@ -351,7 +351,7 @@
 
     Amendment by [section 144 of Pub. L. 99–514][/us/pl/99/514/s144] applicable to taxable years beginning before, on, or after Dec. 31, 1986, see [section 151(e) of Pub. L. 99–514][/us/pl/99/514/s151/e], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 99–514, title IX, § 902(f)][/us/pl/99/514/s902/f], Oct. 22, 1986, [100 Stat. 2382][/us/stat/100/2382], as amended by [Pub. L. 100–647, title I, § 1009(b)(1)][/us/pl/100/647/s1009/b/1], (2), (7), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], 3446, 3449, provided that:
+[Pub. L. 99–514, title IX][/us/pl/99/514/tIX], § 902(f), Oct. 22, 1986, [100 Stat. 2382][/us/stat/100/2382], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1009(b)(1), (2), (7), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], 3446, 3449, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -429,7 +429,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title III, § 301(d)][/us/pl/97/34/s301/d], Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], provided that:
+[Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 301(d), Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -441,7 +441,7 @@
 
  __Effective and Termination Dates of 1980 Amendment__ 
 
-[Pub. L. 96–223, title IV, § 404(c)][/us/pl/96/223/s404/c], Apr. 2, 1980, [94 Stat. 308][/us/stat/94/308], as amended by [Pub. L. 97–34, title III, § 302(b)(1)][/us/pl/97/34/s302/b/1], Aug. 13, 1981, [95 Stat. 272][/us/stat/95/272], provided that: 
+[Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 404(c), Apr. 2, 1980, [94 Stat. 308][/us/stat/94/308], as amended by [Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 302(b)(1), Aug. 13, 1981, [95 Stat. 272][/us/stat/95/272], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
 
@@ -453,7 +453,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–272, title II, § 216(b)][/us/pl/88/272/s216/b], Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56], provided that: 
+[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 216(b), Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Feb. 21, 1964\].”
 
@@ -463,7 +463,7 @@
 
  __Clarification of Treatment of Amounts Excluded Under Section 597__ 
 
-    [Pub. L. 99–514, title IX, § 904(c)(2)(B)][/us/pl/99/514/s904/c/2/B], Oct. 22, 1986, [100 Stat. 2385][/us/stat/100/2385], provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under [section 597 of this title][/us/usc/t26/s597] as in effect on Oct. 21, 1986, prior to repeal by [Pub. L. 101–73, title XIV, § 1401(a)(3)(B)][/us/pl/101/73/s1401/a/3/B], Aug. 9, 1989, [103 Stat. 549][/us/stat/103/549].
+    [Pub. L. 99–514, title IX][/us/pl/99/514/tIX], § 904(c)(2)(B), Oct. 22, 1986, [100 Stat. 2385][/us/stat/100/2385], provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under [section 597 of this title][/us/usc/t26/s597] as in effect on Oct. 21, 1986, prior to repeal by [Pub. L. 101–73, title XIV][/us/pl/101/73/tXIV], § 1401(a)(3)(B), Aug. 9, 1989, [103 Stat. 549][/us/stat/103/549].
 
 ----------
 
@@ -474,62 +474,62 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F78
-[/us/pl/88/272/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs216%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F56
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1770
-[/us/pl/96/223/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs404%2Fb%2F2
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F306
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F270
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F505
-[/us/pl/99/514/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs144
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2121
-[/us/pl/100/647/s1009/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fb%2F3%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3446
-[/us/pl/101/508/s11801/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F4
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-523
-[/us/pl/105/34/s1084/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fc
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F955
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F353
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
 [/us/pl/105/34/s1084/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fc
 [/us/usc/t26/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs264
-[/us/pl/111/5/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1502%2Fa
-[/us/pl/111/5/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1501%2Fa
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/101/508/s11801/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F4
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs902%2Fa
-[/us/pl/99/514/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs902%2Fb
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/99/514/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs144
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/98/369/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs16%2Fa
 [/us/pl/97/34/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fc
-[/us/pl/98/369/s56/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs56%2Fc
-[/us/pl/97/34/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fc%2F2
-[/us/pl/98/369/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs16%2Fa
-[/us/pl/97/34/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fc
-[/us/pl/97/34/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs301%2Fb%2F2
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s2137/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2137%2Fe
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/111/5/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1501%2Fc
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F353
 [/us/usc/t26/s291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs291
-[/us/pl/111/5/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1502%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F354
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fd
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101
-[/us/pl/100/647/s1009/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fb%2F3%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3448
-[/us/pl/101/239/s7811/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Ff%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2409
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs902%2Fa
@@ -540,9 +540,9 @@
 [/us/pl/99/514/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs144
 [/us/pl/99/514/s151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fe
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s902/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs902%2Ff
+[/us/pl/99/514/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIX
 [/us/stat/100/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2382
-[/us/pl/100/647/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fb%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3445
 [/us/pl/98/369/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs16%2Fa
 [/us/pl/98/369/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs18%2Fa
@@ -550,12 +550,12 @@
 [/us/pl/98/369/s56/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs56%2Fc
 [/us/pl/98/369/s56/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs56%2Fd
 [/us/usc/t26/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs163
-[/us/pl/97/34/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs301%2Fd
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F270
 [/us/usc/t26/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs128
-[/us/pl/96/223/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs404%2Fc
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F308
-[/us/pl/97/34/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs302%2Fb%2F1
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F272
 [/us/pl/94/455/s1901/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F37
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -563,15 +563,15 @@
 [/us/pl/94/455/s2137/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2137%2Fe
 [/us/pl/94/455/s2137/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2137%2Fe
 [/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
-[/us/pl/88/272/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs216%2Fb
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F56
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/99/514/s904/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs904%2Fc%2F2%2FB
+[/us/pl/99/514/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIX
 [/us/stat/100/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2385
 [/us/usc/t26/s597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs597
-[/us/pl/101/73/s1401/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1401%2Fa%2F3%2FB
+[/us/pl/101/73/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXIV
 [/us/stat/103/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F549
 
 

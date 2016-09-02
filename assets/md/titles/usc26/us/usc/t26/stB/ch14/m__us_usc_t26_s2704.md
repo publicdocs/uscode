@@ -101,7 +101,7 @@
 
             The rule of section 2701(e)(3) shall apply for purposes of determining the interests held by any individual.
 
-(Added [Pub. L. 101–508, title XI, § 11602(a)][/us/pl/101/508/s11602/a], Nov. 5, 1990, [104 Stat. 1388–498][/us/stat/104/1388-498]; amended [Pub. L. 104–188, title I, § 1702(f)(3)(C)][/us/pl/104/188/s1702/f/3/C], Aug. 20, 1996, [110 Stat. 1871][/us/stat/110/1871].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11602(a), Nov. 5, 1990, [104 Stat. 1388–498][/us/stat/104/1388-498]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1702(f)(3)(C), Aug. 20, 1996, [110 Stat. 1871][/us/stat/110/1871].)
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
+    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
 ----------
 
@@ -118,13 +118,13 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11602%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-498
-[/us/pl/104/188/s1702/f/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F3%2FC
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1871
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/pl/104/188/s1702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fi
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
 

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–239, title VII, § 7711(b)(5)][/us/pl/101/239/s7711/b/5], Dec. 19, 1989, [103 Stat. 2393][/us/stat/103/2393], substituted “Failure to comply with certain information reporting requirements” for “Failure to file certain information returns or statements” in item for part II.
+    1989—[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7711(b)(5), Dec. 19, 1989, [103 Stat. 2393][/us/stat/103/2393], substituted “Failure to comply with certain information reporting requirements” for “Failure to file certain information returns or statements” in item for part II.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7711/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7711%2Fb%2F5
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2393
 
 

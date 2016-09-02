@@ -47,7 +47,7 @@
 
         Under regulations prescribed by the Secretary, rules similar to the rules applicable under section 1245 shall apply for purposes of subsection (a). For purposes of sections 170(e) and 751(c), amounts treated as ordinary income under subsection (a) shall be treated in the same manner as amounts treated as ordinary income under section 1245.
 
-(Added [Pub. L. 99–514, title IV, § 403(a)][/us/pl/99/514/s403/a], Oct. 22, 1986, [100 Stat. 2222][/us/stat/100/2222]; amended [Pub. L. 108–27, title III, § 302(e)(4)(B)(ii)][/us/pl/108/27/s302/e/4/B/ii], May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
+(Added [Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 403(a), Oct. 22, 1986, [100 Stat. 2222][/us/stat/100/2222]; amended [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 302(e)(4)(B)(ii), May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title IV, § 403(c)][/us/pl/99/514/s403/c], Oct. 22, 1986, [100 Stat. 2222][/us/stat/100/2222], provided that: 
+[Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 403(c), Oct. 22, 1986, [100 Stat. 2222][/us/stat/100/2222], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to dispositions of converted wetland or highly erodible cropland (as defined in section 1257(c) of the Internal Revenue Code of 1986 as added by this section) first used for farming after March 1, 1986, in taxable years ending after that date.”
 
@@ -76,9 +76,9 @@
 
 [/us/usc/t16/s3801/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801%2F4
 [/us/usc/t16/s3801/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801%2F6
-[/us/pl/99/514/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs403%2Fa
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2222
-[/us/pl/108/27/s302/e/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F4%2FB%2Fii
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F764
 [/us/usc/t16/s3801/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801%2F4
 [/us/usc/t16/s3801/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3801%2F6
@@ -87,7 +87,7 @@
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/108/27/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Ff
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs403%2Fc
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2222
 
 

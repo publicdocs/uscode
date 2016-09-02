@@ -63,7 +63,7 @@
 
         (2) ending on the date which is 6 months after the first day described in paragraph (1).
 
-(Added [Pub. L. 109–135, title I, § 103(a)][/us/pl/109/135/s103/a], Dec. 21, 2005, [119 Stat. 2594][/us/stat/119/2594].)
+(Added [Pub. L. 109–135, title I][/us/pl/109/135/tI], § 103(a), Dec. 21, 2005, [119 Stat. 2594][/us/stat/119/2594].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/109/135/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs103%2Fa
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2594
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 

@@ -43,7 +43,7 @@
 
         The term “net gifts” as used in the corresponding provisions of prior laws shall be read as “taxable gifts” for purposes of this chapter.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 405][/us/stat/68A/405]; [Pub. L. 91–614, title I, § 102(a)(4)(A)][/us/pl/91/614/s102/a/4/A], Dec. 31, 1970, [84 Stat. 1839][/us/stat/84/1839]; [Pub. L. 94–455, title XX, § 2001(c)(2)(A)][/us/pl/94/455/s2001/c/2/A], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 97–34, title IV, § 442(a)(4)(A)][/us/pl/97/34/s442/a/4/A]–(D), Aug. 13, 1981, [95 Stat. 321][/us/stat/95/321]; [Pub. L. 105–34, title V, § 506(d)][/us/pl/105/34/s506/d], Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856]; [Pub. L. 105–206, title VI, § 6007(e)(2)(B)][/us/pl/105/206/s6007/e/2/B]\[(C)\], July 22, 1998, [112 Stat. 810][/us/stat/112/810].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 405][/us/stat/68A/405]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 102(a)(4)(A), Dec. 31, 1970, [84 Stat. 1839][/us/stat/84/1839]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(2)(A), Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 442(a)(4)(A)–(D), Aug. 13, 1981, [95 Stat. 321][/us/stat/95/321]; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 506(d), Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(e)(2)(B)\[(C)\], July 22, 1998, [112 Stat. 810][/us/stat/112/810].)
 
  __References in Text__ 
 
@@ -55,13 +55,13 @@
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] struck out “, and if a tax under this chapter or under corresponding provisions of prior laws has been assessed or paid for such preceding calendar period” after “as defined in section 2502(b)”.
 
-    1981—[Pub. L. 97–34, § 442(a)(4)(D)][/us/pl/97/34/s442/a/4/D], substituted “calendar periods” for “years and quarters” in section catchline.
+    1981—[Pub. L. 97–34][/us/pl/97/34], § 442(a)(4)(D), substituted “calendar periods” for “years and quarters” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–34, § 442(a)(4)(A)][/us/pl/97/34/s442/a/4/A], substituted in introductory text “preceding calendar periods” and “calendar year” for “preceding calendar years or calendar quarters” and “calendar quarter”, incorporated existing text in provisions designated pars. (1) to (3), and substituted in par. (1) “calendar period” for “years or calendar quarters” and in par. (3) “preceding calendar periods” and “calendar year” for “calendar years or calendar quarters” and “calendar quarter”.
+    Subsec. (a). [Pub. L. 97–34][/us/pl/97/34], § 442(a)(4)(A), substituted in introductory text “preceding calendar periods” and “calendar year” for “preceding calendar years or calendar quarters” and “calendar quarter”, incorporated existing text in provisions designated pars. (1) to (3), and substituted in par. (1) “calendar period” for “years or calendar quarters” and in par. (3) “preceding calendar periods” and “calendar year” for “calendar years or calendar quarters” and “calendar quarter”.
 
-    Subsec. (b). [Pub. L. 97–34, § 442(a)(4)(B)][/us/pl/97/34/s442/a/4/B], substituted in heading “calendar periods” for “years and quarters” and in text “preceding calendar periods” for “preceding calendar years and calendar quarters”, “the periods” for “the years and calendar quarters”, and “such preceding calendar periods” for “such years and calendar quarters”.
+    Subsec. (b). [Pub. L. 97–34][/us/pl/97/34], § 442(a)(4)(B), substituted in heading “calendar periods” for “years and quarters” and in text “preceding calendar periods” for “preceding calendar years and calendar quarters”, “the periods” for “the years and calendar quarters”, and “such preceding calendar periods” for “such years and calendar quarters”.
 
-    Subsec. (c). [Pub. L. 97–34, § 442(a)(4)(C)][/us/pl/97/34/s442/a/4/C], substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in four places, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
+    Subsec. (c). [Pub. L. 97–34][/us/pl/97/34], § 442(a)(4)(C), substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in four places, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] inserted “(as in effect before its repeal by the Tax Reform Act of 1976)” after “section 2521” and “ending before January 1, 1977” after “years or calendar quarters” and substituted “of” for “to previous” after “computations in respect”.
 
@@ -100,15 +100,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F405
-[/us/pl/91/614/s102/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fa%2F4%2FA
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1839
-[/us/pl/94/455/s2001/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F2%2FA
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1853
-[/us/pl/97/34/s442/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fa%2F4%2FA
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F321
-[/us/pl/105/34/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs506%2Fd
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F856
-[/us/pl/105/206/s6007/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fe%2F2%2FB
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F810
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/90/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1520
@@ -116,10 +116,10 @@
 [/us/pl/94/455/s2001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fb%2F3
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/97/34/s442/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fa%2F4%2FD
-[/us/pl/97/34/s442/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fa%2F4%2FA
-[/us/pl/97/34/s442/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fa%2F4%2FB
-[/us/pl/97/34/s442/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fa%2F4%2FC
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614

@@ -41,7 +41,7 @@
 
         From the items of gross income specified in subsection (a) there shall be deducted the expenses, losses, and other deductions properly apportioned or allocated thereto, and a ratable part of any expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income. The remainder, if any, shall be treated in full as taxable income from sources without the United States. In the case of an individual who does not itemize deductions, an amount equal to the standard deduction shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 276][/us/stat/68A/276]; [Pub. L. 92–178, title III, § 314(b)][/us/pl/92/178/s314/b], Dec. 10, 1971, [85 Stat. 528][/us/stat/85/528]; [Pub. L. 94–455, title X, § 1036(b)][/us/pl/94/455/s1036/b], title XIX, § 1901(b)(26)(C), Oct. 4, 1976, [90 Stat. 1633][/us/stat/90/1633], 1798; [Pub. L. 95–30, title I, § 102(b)(10)][/us/pl/95/30/s102/b/10], May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 97–34, title VIII, § 831(a)(2)][/us/pl/97/34/s831/a/2], Aug. 13, 1981, [95 Stat. 352][/us/stat/95/352]; [Pub. L. 99–514, title I, § 104(b)(12)][/us/pl/99/514/s104/b/12], title XII, § 1211(b)(1)(C), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2536; [Pub. L. 100–647, title I, § 1012(e)(4)][/us/pl/100/647/s1012/e/4], Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII, § 7811(i)(2)][/us/pl/101/239/s7811/i/2], Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409]; [Pub. L. 111–240, title II, § 2122(b)][/us/pl/111/240/s2122/b], Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 276][/us/stat/68A/276]; [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 314(b), Dec. 10, 1971, [85 Stat. 528][/us/stat/85/528]; [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1036(b), title XIX, § 1901(b)(26)(C), Oct. 4, 1976, [90 Stat. 1633][/us/stat/90/1633], 1798; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 102(b)(10), May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 97–34, title VIII][/us/pl/97/34/tVIII], § 831(a)(2), Aug. 13, 1981, [95 Stat. 352][/us/stat/95/352]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(12), title XII, § 1211(b)(1)(C), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2536; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(e)(4), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(2), Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409]; [Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2122(b), Sept. 27, 2010, [124 Stat. 2568][/us/stat/124/2568].)
 
  __Amendments__ 
 
@@ -53,17 +53,17 @@
 
     “(c) Cross reference.—For source of amounts attributable to certain aircraft and vessels, see section 861(e).”
 
-    1986—Subsec. (a)(6). [Pub. L. 99–514, § 1211(b)(1)(C)][/us/pl/99/514/s1211/b/1/C], substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
+    1986—Subsec. (a)(6). [Pub. L. 99–514][/us/pl/99/514], § 1211(b)(1)(C), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
 
-    Subsec. (b). [Pub. L. 99–514, § 104(b)(12)][/us/pl/99/514/s104/b/12], substituted “the standard deduction” for “the zero bracket amount”.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 104(b)(12), substituted “the standard deduction” for “the zero bracket amount”.
 
     1981—Subsec. (a)(8). [Pub. L. 97–34][/us/pl/97/34] added par. (8).
 
     1977—Subsec. (b). [Pub. L. 95–30][/us/pl/95/30] provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
-    1976—Subsec. (a)(5), (6). [Pub. L. 94–455, § 1901(b)(26)(C)][/us/pl/94/455/s1901/b/26/C], inserted “or exchange” after “sale”.
+    1976—Subsec. (a)(5), (6). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(26)(C), inserted “or exchange” after “sale”.
 
-    Subsec. (a)(7). [Pub. L. 94–455, § 1036(b)][/us/pl/94/455/s1036/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 94–455][/us/pl/94/455], § 1036(b), added par. (7).
 
     1971—Subsec. (c). [Pub. L. 92–178][/us/pl/92/178] added subsec. (c).
 
@@ -128,31 +128,31 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F276
-[/us/pl/92/178/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs314%2Fb
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F528
-[/us/pl/94/455/s1036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1036%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1633
-[/us/pl/95/30/s102/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs102%2Fb%2F10
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F138
-[/us/pl/97/34/s831/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fa%2F2
+[/us/pl/97/34/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVIII
 [/us/stat/95/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F352
-[/us/pl/99/514/s104/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F12
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
-[/us/pl/100/647/s1012/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3500
-[/us/pl/101/239/s7811/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2409
-[/us/pl/111/240/s2122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2122%2Fb
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2568
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1211/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fb%2F1%2FC
-[/us/pl/99/514/s104/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F12
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
-[/us/pl/94/455/s1901/b/26/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F26%2FC
-[/us/pl/94/455/s1036/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1036%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/111/240/s2122/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2122%2Fd

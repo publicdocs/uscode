@@ -49,19 +49,19 @@
 
         For purposes of this section, the terms “reportable transaction” and “listed transaction” have the respective meanings given to such terms by section 6707A(c).
 
-(Added [Pub. L. 98–369, div. A, title I, § 141(b)][/us/pl/98/369/s141/b], July 18, 1984, [98 Stat. 680][/us/stat/98/680]; amended [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1532(a), 1533(a), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750]; [Pub. L. 105–34, title X, § 1028(b)][/us/pl/105/34/s1028/b], (d), Aug. 5, 1997, [111 Stat. 927][/us/stat/111/927], 928; [Pub. L. 108–357, title VIII, § 816(a)][/us/pl/108/357/s816/a], Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 141(b), July 18, 1984, [98 Stat. 680][/us/stat/98/680]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], §§ 1532(a), 1533(a), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1028(b), (d), Aug. 5, 1997, [111 Stat. 927][/us/stat/111/927], 928; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 816(a), Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583].)
 
  __Amendments__ 
 
     2004—[Pub. L. 108–357][/us/pl/108/357] amended section catchline and text generally, substituting provisions relating to penalty for failure to furnish information regarding reportable transactions for provisions relating to penalty for failure to furnish information regarding tax shelters.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–34, § 1028(d)(2)][/us/pl/105/34/s1028/d/2], which directed the substitution of “paragraph (2) or (3), as the case may be” for “paragraph (2)” in subpar. (A) of par. (1), was executed by making the substitution in the concluding provisions of par. (1) to reflect the probable intent of Congress.
+    1997—Subsec. (a)(1). [Pub. L. 105–34][/us/pl/105/34], § 1028(d)(2), which directed the substitution of “paragraph (2) or (3), as the case may be” for “paragraph (2)” in subpar. (A) of par. (1), was executed by making the substitution in the concluding provisions of par. (1) to reflect the probable intent of Congress.
 
-    Subsec. (a)(2). [Pub. L. 105–34, § 1028(d)(1)][/us/pl/105/34/s1028/d/1], substituted “Except as provided in paragraph (3), the penalty” for “The penalty”.
+    Subsec. (a)(2). [Pub. L. 105–34][/us/pl/105/34], § 1028(d)(1), substituted “Except as provided in paragraph (3), the penalty” for “The penalty”.
 
-    Subsec. (a)(3). [Pub. L. 105–34, § 1028(b)][/us/pl/105/34/s1028/b], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–34][/us/pl/105/34], § 1028(b), added par. (3).
 
-    1986—Subsec. (a)(2). [Pub. L. 99–514, § 1532(a)][/us/pl/99/514/s1532/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
+    1986—Subsec. (a)(2). [Pub. L. 99–514][/us/pl/99/514], § 1532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The penalty imposed under paragraph (1) with respect to any tax shelter shall be an amount equal to the greater of—
 
     “(A) $500, or
 
@@ -69,25 +69,25 @@
 
     The $10,000 limitation in subparagraph (B) shall not apply where there is an intentional disregard of the requirements of section 6111(a).”
 
-    Subsec. (b)(2). [Pub. L. 99–514, § 1533(a)][/us/pl/99/514/s1533/a], substituted “$250” for “$50”.
+    Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 1533(a), substituted “$250” for “$50”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 816(c)][/us/pl/108/357/s816/c], Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 816(c), Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to returns the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1997 Amendment__ 
 
-    Amendment by [Pub. L. 105–34][/us/pl/105/34] applicable to any tax shelter, as defined in [section 6111(d) of this title][/us/usc/t26/s6111/d], interests in which are offered to potential participants after Secretary of the Treasury prescribes guidance with respect to meeting requirements added by amendments made by [Pub. L. 105–34, § 1028][/us/pl/105/34/s1028], see [section 1028(e) of Pub. L. 105–34][/us/pl/105/34/s1028/e], set out as a note under [section 6111 of this title][/us/usc/t26/s6111].
+    Amendment by [Pub. L. 105–34][/us/pl/105/34] applicable to any tax shelter, as defined in [section 6111(d) of this title][/us/usc/t26/s6111/d], interests in which are offered to potential participants after Secretary of the Treasury prescribes guidance with respect to meeting requirements added by amendments made by [Pub. L. 105–34][/us/pl/105/34], § 1028, see [section 1028(e) of Pub. L. 105–34][/us/pl/105/34/s1028/e], set out as a note under [section 6111 of this title][/us/usc/t26/s6111].
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1532(b)][/us/pl/99/514/s1532/b], Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1532(b), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to failures with respect to tax shelters interests in which are first offered for sale after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-[Pub. L. 99–514, title XV, § 1533(b)][/us/pl/99/514/s1533/b], Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1533(b), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to returns filed after the date of the enactment of this Act \[Oct 22, 1986\].”
 
@@ -102,30 +102,30 @@
 ----------
 ----------
 
-[/us/pl/98/369/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs141%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F680
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2750
-[/us/pl/105/34/s1028/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F927
-[/us/pl/108/357/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs816%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1583
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/105/34/s1028/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fd%2F2
-[/us/pl/105/34/s1028/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fd%2F1
-[/us/pl/105/34/s1028/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fb
-[/us/pl/99/514/s1532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1532%2Fa
-[/us/pl/99/514/s1533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1533%2Fa
-[/us/pl/108/357/s816/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs816%2Fc
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1584
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/usc/t26/s6111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6111%2Fd
-[/us/pl/105/34/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1028/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fe
 [/us/usc/t26/s6111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6111
-[/us/pl/99/514/s1532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1532%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2750
-[/us/pl/99/514/s1533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1533%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2750
 [/us/usc/t26/s6111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6111
 [/us/pl/98/369/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs141%2Fd

@@ -81,11 +81,11 @@
 
         (2) for the proper application of this section with respect to hybrid instruments.
 
-(Added [Pub. L. 111–226, title II, § 211(a)][/us/pl/111/226/s211/a], Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394].)
+(Added [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 211(a), Aug. 10, 2010, [124 Stat. 2394][/us/stat/124/2394].)
 
  __Effective Date__ 
 
-[Pub. L. 111–226, title II, § 211(c)][/us/pl/111/226/s211/c], Aug. 10, 2010, [124 Stat. 2395][/us/stat/124/2395], provided that: 
+[Pub. L. 111–226, title II][/us/pl/111/226/tII], § 211(c), Aug. 10, 2010, [124 Stat. 2395][/us/stat/124/2395], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to—
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/111/226/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs211%2Fa
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2394
-[/us/pl/111/226/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs211%2Fc
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2395
 
 

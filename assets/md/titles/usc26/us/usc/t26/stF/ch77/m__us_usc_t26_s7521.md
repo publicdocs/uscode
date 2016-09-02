@@ -51,7 +51,7 @@
 
         This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.
 
-(Added [Pub. L. 100–647, title VI, § 6228(a)][/us/pl/100/647/s6228/a], Nov. 10, 1988, [102 Stat. 3731][/us/stat/102/3731], § 7520; renumbered § 7521, [Pub. L. 101–239, title VII, § 7816(u)(1)][/us/pl/101/239/s7816/u/1], Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6228(a), Nov. 10, 1988, [102 Stat. 3731][/us/stat/102/3731], § 7520; renumbered § 7521, [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7816(u)(1), Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423].)
 
  __Codification__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title VI, § 6228(d)][/us/pl/100/647/s6228/d], Nov. 10, 1988, [102 Stat. 3732][/us/stat/102/3732], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6228(d), Nov. 10, 1988, [102 Stat. 3732][/us/stat/102/3732], provided that: 
 
 > “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to interviews conducted on or after the date which is 90 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -70,12 +70,12 @@
 ----------
 ----------
 
-[/us/pl/100/647/s6228/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6228%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3731
-[/us/pl/101/239/s7816/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fu%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2423
 [/us/usc/t26/s7522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7522
-[/us/pl/100/647/s6228/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6228%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3732
 
 

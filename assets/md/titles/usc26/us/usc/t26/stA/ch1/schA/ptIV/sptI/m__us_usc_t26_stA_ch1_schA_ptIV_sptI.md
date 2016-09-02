@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–5, div. B, title I, § 1521(b)(3)][/us/pl/111/5/s1521/b/3], Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], added item 54F.
+    2009—[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1521(b)(3), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], added item 54F.
 
-    2008—[Pub. L. 110–343, div. B, title I, § 107(b)(3)][/us/pl/110/343/s107/b/3], title III, § 301(b)(3), div. C, title III, § 313(b)(4), Oct. 3, 2008, [122 Stat. 3819][/us/stat/122/3819], 3844, 3872, added items 54C to 54E.
+    2008—[Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 107(b)(3), title III, § 301(b)(3), div. C, title III, § 313(b)(4), Oct. 3, 2008, [122 Stat. 3819][/us/stat/122/3819], 3844, 3872, added items 54C to 54E.
 
 ----------
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1521/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fb%2F3
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F357
-[/us/pl/110/343/s107/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fb%2F3
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3819
 
 

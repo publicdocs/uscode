@@ -65,7 +65,7 @@
 
             shall be treated as a qualified disclaimer.
 
-(Added [Pub. L. 94–455, title XX, § 2009(b)(1)][/us/pl/94/455/s2009/b/1], Oct. 4, 1976, [90 Stat. 1893][/us/stat/90/1893]; amended [Pub. L. 95–600, title VII, § 702(m)(1)][/us/pl/95/600/s702/m/1], Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935]; [Pub. L. 97–34, title IV, § 426(a)][/us/pl/97/34/s426/a], Aug. 13, 1981, [95 Stat. 318][/us/stat/95/318]; [Pub. L. 97–448, title I, § 104(e)][/us/pl/97/448/s104/e], Jan. 12, 1983, [96 Stat. 2384][/us/stat/96/2384].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2009(b)(1), Oct. 4, 1976, [90 Stat. 1893][/us/stat/90/1893]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(m)(1), Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 426(a), Aug. 13, 1981, [95 Stat. 318][/us/stat/95/318]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(e), Jan. 12, 1983, [96 Stat. 2384][/us/stat/96/2384].)
 
  __Amendments__ 
 
@@ -81,19 +81,19 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title IV, § 426(b)][/us/pl/97/34/s426/b], Aug. 13, 1981, [95 Stat. 318][/us/stat/95/318], provided that: 
+[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 426(b), Aug. 13, 1981, [95 Stat. 318][/us/stat/95/318], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1981.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(m)(2)][/us/pl/95/600/s702/m/2], Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(m)(2), Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to transfers creating an interest in the person disclaiming made after December 31, 1976.”
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XX, § 2009(e)(2)][/us/pl/94/455/s2009/e/2], Oct. 4, 1976, [90 Stat. 1896][/us/stat/90/1896], provided that: 
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2009(e)(2), Oct. 4, 1976, [90 Stat. 1896][/us/stat/90/1896], provided that: 
 
 > “The amendments made by subsection (b) \[enacting this section and [section 2046 of this title][/us/usc/t26/s2046] and amending sections 2041, 2055, 2056, and 2514 of this title\] shall apply with respect to transfers creating an interest in the person disclaiming made after December 31, 1976.”
 
@@ -104,13 +104,13 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1893
-[/us/pl/95/600/s702/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fm%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2935
-[/us/pl/97/34/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs426%2Fa
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F318
-[/us/pl/97/448/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fe
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2384
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
@@ -119,11 +119,11 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/448/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/34/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs426%2Fb
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F318
-[/us/pl/95/600/s702/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fm%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2935
-[/us/pl/94/455/s2009/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fe%2F2
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1896
 [/us/usc/t26/s2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2046
 

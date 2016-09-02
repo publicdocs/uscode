@@ -33,11 +33,11 @@
 
         Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
 
-(Added [Pub. L. 94–455, title XX, § 2008(a)(1)][/us/pl/94/455/s2008/a/1], Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2008(a)(1), Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891].)
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XX, § 2008(d)(1)][/us/pl/94/455/s2008/d/1], Oct. 4, 1976, [90 Stat. 1892][/us/stat/90/1892], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2008(d)(1), Oct. 4, 1976, [90 Stat. 1892][/us/stat/90/1892], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section and amending sections 2031 and 2512 of this title\]—
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2008%2Fa%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1891
-[/us/pl/94/455/s2008/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2008%2Fd%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1892
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

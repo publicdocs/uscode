@@ -173,13 +173,13 @@
 
             The term “reserve property” means any property with respect to which a reserve is established under subsection (a)(1).
 
-(Added [Pub. L. 98–369, div. A, title I, § 91(b)(1)][/us/pl/98/369/s91/b/1], July 18, 1984, [98 Stat. 601][/us/stat/98/601]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, [100 Stat. 2811][/us/stat/100/2811], 2959; [Pub. L. 101–508, title XI, § 11802(c)][/us/pl/101/508/s11802/c], Nov. 5, 1990, [104 Stat. 1388–529][/us/stat/104/1388-529].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 91(b)(1), July 18, 1984, [98 Stat. 601][/us/stat/98/601]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], §§ 1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, [100 Stat. 2811][/us/stat/100/2811], 2959; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11802(c), Nov. 5, 1990, [104 Stat. 1388–529][/us/stat/104/1388-529].)
 
  __References in Text__ 
 
     The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d)(2)(A), is [Pub. L. 95–87][/us/pl/95/87], Aug. 3, 1977, [91 Stat. 445][/us/stat/91/445], as amended. Title V of that Act is classified generally to subchapter V (§ 1251 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. Sections 511 and 528 of that Act are classified to sections 1261 and 1278, respectively, of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30][/us/usc/t30/s1201] and Tables.
 
-    The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
+    The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of [Pub. L. 89–272][/us/pl/89/272], Oct. 20, 1965, [79 Stat. 997][/us/stat/79/997], as amended generally by [Pub. L. 94–580][/us/pl/94/580], § 2, Oct. 21, 1976, [90 Stat. 2795][/us/stat/90/2795], which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42][/us/usc/t42/s6901] and Tables.
 
     Section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2)(B)(ii), is classified to [section 9605 of Title 42][/us/usc/t42/s9605].
 
@@ -187,15 +187,15 @@
 
     1990—Subsec. (a)(2)(B). [Pub. L. 101–508][/us/pl/101/508] amended subpar. (B) generally, substituting present provisions for provisions providing for increase for interest and a phase-in of interest rates for taxable years ending before 1987.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–514, § 1807(a)(3)(C)][/us/pl/99/514/s1807/a/3/C], substituted “this section” for “this subsection”.
+    1986—Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(3)(C), substituted “this section” for “this subsection”.
 
-    Subsec. (a)(2)(D). [Pub. L. 99–514, § 1807(a)(3)(A)][/us/pl/99/514/s1807/a/3/A], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 99–514][/us/pl/99/514], § 1807(a)(3)(A), added subpar. (D).
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 99–514, § 1899A(14)][/us/pl/99/514/s1899A/14], substituted “Comprehensive Environmental Response, Compensation, and Liability Act of 1980” for “Comprehensive Environmental, Compensation, and Liability Act of 1980”.
+    Subsec. (d)(2)(B)(ii). [Pub. L. 99–514][/us/pl/99/514], § 1899A(14), substituted “Comprehensive Environmental Response, Compensation, and Liability Act of 1980” for “Comprehensive Environmental, Compensation, and Liability Act of 1980”.
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by section 1807(a)(3)(A), (C) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by section 1807(a)(3)(A), (C) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -216,27 +216,27 @@
 ----------
 ----------
 
-[/us/pl/98/369/s91/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Fb%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F601
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2811
-[/us/pl/101/508/s11802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11802%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-529
 [/us/pl/95/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87
 [/us/stat/91/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F445
 [/us/usc/t30/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1201
 [/us/pl/89/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F272
 [/us/stat/79/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F997
-[/us/pl/94/580/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580%2Fs2
+[/us/pl/94/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F580
 [/us/stat/90/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2795
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
 [/us/usc/t42/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9605
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/99/514/s1807/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F3%2FC
-[/us/pl/99/514/s1807/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F3%2FA
-[/us/pl/99/514/s1899A/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F14
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s91/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Fg%2F4

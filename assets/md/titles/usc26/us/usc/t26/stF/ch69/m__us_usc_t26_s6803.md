@@ -23,7 +23,7 @@
 
         The Secretary may from time to time make such regulations as he may find necessary to insure the safekeeping or prevent the illegal use of all adhesive stamps referred to in paragraph (2) of section 6802.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 830][/us/stat/68A/830]; [Pub. L. 92–310, title II, § 230(a)][/us/pl/92/310/s230/a], June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX, § 1906(a)(37)][/us/pl/94/455/s1906/a/37], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1829][/us/stat/90/1829], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 830][/us/stat/68A/830]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 230(a), June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(37), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1829][/us/stat/90/1829], 1834.)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F830
-[/us/pl/92/310/s230/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs230%2Fa
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F209
-[/us/pl/94/455/s1906/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F37
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1829
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

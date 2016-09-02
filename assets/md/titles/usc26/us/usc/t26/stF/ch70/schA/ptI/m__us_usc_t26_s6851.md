@@ -59,27 +59,27 @@
 
         (2) For provisions relating to the review of jeopardy, see section 7429.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 833][/us/stat/68A/833]; [Pub. L. 85–866, title I, § 87][/us/pl/85/866/s87], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XII, § 1204(b)][/us/pl/94/455/s1204/b], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1696][/us/stat/90/1696], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 833][/us/stat/68A/833]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 87, Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1696][/us/stat/90/1696], 1834.)
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, § 1204(b)(1)][/us/pl/94/455/s1204/b/1], substituted “assessments of income tax” for “of taxable year” in section catchline.
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 1204(b)(1), substituted “assessments of income tax” for “of taxable year” in section catchline.
 
-    Subsec. (a). [Pub. L. 94–455, § 1204(b)(1)][/us/pl/94/455/s1204/b/1], revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
+    Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1204(b)(1), revised pars. (1) and (2) to provide that a termination assessment does not end the taxable year for any purpose other than the computation of the amount of tax to be assessed and collected and to set out the method for determining the tax for the current taxable year, and added pars. (3) and (4).
 
-    Subsec. (b). [Pub. L. 94–455, § 1204(b)(1)][/us/pl/94/455/s1204/b/1], substituted provisions for the mailing of a notice of deficiency for provisions for the reopening of taxable period.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1204(b)(1), substituted provisions for the mailing of a notice of deficiency for provisions for the reopening of taxable period.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (e). [Pub. L. 94–455, § 1204(b)(2)][/us/pl/94/455/s1204/b/2], substituted provisions making section 6861(f) and (g) applicable with respect to assessments under subsec. (a).
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 1204(b)(2), substituted provisions making section 6861(f) and (g) applicable with respect to assessments under subsec. (a).
 
-    Subsec. (f). [Pub. L. 94–455, § 1204(b)(2)][/us/pl/94/455/s1204/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], § 1204(b)(2), added subsec. (f).
 
     1958—Subsec. (d). [Pub. L. 85–866][/us/pl/85/866] designated existing provisions as par. (1), inserted opening provisions, and added par. (2).
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XII, § 1204(d)][/us/pl/94/455/s1204/d], Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], as amended by [Pub. L. 94–528, § 2(a)][/us/pl/94/528/s2/a], Oct. 17, 1976, [90 Stat. 2483][/us/stat/90/2483]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(d), Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], as amended by [Pub. L. 94–528][/us/pl/94/528], § 2(a), Oct. 17, 1976, [90 Stat. 2483][/us/stat/90/2483]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting [section 7429 of this title][/us/usc/t26/s7429] and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977.”
 
@@ -96,22 +96,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F833
-[/us/pl/85/866/s87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs87
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
-[/us/pl/94/455/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1696
-[/us/pl/94/455/s1204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb%2F1
-[/us/pl/94/455/s1204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb%2F1
-[/us/pl/94/455/s1204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb%2F1
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb%2F2
-[/us/pl/94/455/s1204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fb%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/pl/94/455/s1204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fd
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1699
-[/us/pl/94/528/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528%2Fs2%2Fa
+[/us/pl/94/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528
 [/us/stat/90/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2483
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s7429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7429
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866

@@ -89,21 +89,21 @@
 
         If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 282][/us/stat/68A/282]; [Pub. L. 89–809, title I, § 104(b)(1)][/us/pl/89/809/s104/b/1], Nov. 13, 1966, [80 Stat. 1555][/us/stat/80/1555]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III, § 301(b)(13)][/us/pl/95/600/s301/b/13], Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 96–499, title XI, § 1122(c)(2)][/us/pl/96/499/s1122/c/2], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 97–424, title V, § 515(b)(6)(F)][/us/pl/97/424/s515/b/6/F], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IV, § 474(r)(19)][/us/pl/98/369/s474/r/19], July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title VII, § 701(e)(4)(F)][/us/pl/99/514/s701/e/4/F], title XII, § 1236(a), Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343], 2576; [Pub. L. 100–647, title I, § 1012(s)(2)(B)][/us/pl/100/647/s1012/s/2/B], title II, § 2001(c)(2), title VI, § 6133(a), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], 3594, 3721; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(F)][/us/pl/113/295/s221/a/12/F], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 282][/us/stat/68A/282]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(b)(1), Nov. 13, 1966, [80 Stat. 1555][/us/stat/80/1555]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(13), Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 96–499, title XI][/us/pl/96/499/tXI], § 1122(c)(2), Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(6)(F), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(19), July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title VII][/us/pl/99/514/tVII], § 701(e)(4)(F), title XII, § 1236(a), Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343], 2576; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(s)(2)(B), title II, § 2001(c)(2), title VI, § 6133(a), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], 3594, 3721; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(12)(F), Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __Amendments__ 
 
     2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “, 59A” after “section 11, 55”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–647, § 2001(c)(2)][/us/pl/100/647/s2001/c/2], inserted reference to section 59A.
+    1988—Subsec. (a)(1). [Pub. L. 100–647][/us/pl/100/647], § 2001(c)(2), inserted reference to section 59A.
 
-    Subsec. (b). [Pub. L. 100–647, § 1012(s)(2)(B)][/us/pl/100/647/s1012/s/2/B], inserted “, except where the context clearly indicates otherwise” after “foreign corporation”.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1012(s)(2)(B), inserted “, except where the context clearly indicates otherwise” after “foreign corporation”.
 
-    Subsec. (e). [Pub. L. 100–647, § 6133(a)][/us/pl/100/647/s6133/a], substituted “interest on obligations of the United States which is not portfolio interest (as defined in section 881(c)(2))” for “interest on obligations of the United States”, and struck out at end “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 6133(a), substituted “interest on obligations of the United States which is not portfolio interest (as defined in section 881(c)(2))” for “interest on obligations of the United States”, and struck out at end “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
 
-    1986—Subsec. (a)(1). [Pub. L. 99–514, § 701(e)(4)(F)][/us/pl/99/514/s701/e/4/F], inserted reference to section 55.
+    1986—Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 701(e)(4)(F), inserted reference to section 55.
 
-    Subsec. (e). [Pub. L. 99–514, § 1236(a)][/us/pl/99/514/s1236/a], inserted “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1236(a), inserted “The preceding sentence shall not apply to any Guam corporation which is treated as not being a foreign corporation by section 881(b)(1) for the taxable year.”
 
     1984—Subsec. (c)(2). [Pub. L. 98–369][/us/pl/98/369] substituted reference to section “33” for “32” and “34” for “39”.
 
@@ -125,9 +125,9 @@
 
     Amendment by [section 701(e)(4)(F) of Pub. L. 100–647][/us/pl/100/647/s701/e/4/F] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499/tV], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
-[Pub. L. 100–647, title VI, § 6133(c)][/us/pl/100/647/s6133/c], Nov. 10, 1988, [102 Stat. 3721][/us/stat/102/3721], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6133(c), Nov. 10, 1988, [102 Stat. 3721][/us/stat/102/3721], provided that: 
 
 > “The amendments made by this subsection \[probably means ‘this section’, which amended sections 882 and 884 of this title\] shall apply to taxable years beginning after December 31, 1988.”
 
@@ -135,7 +135,7 @@
 
     Amendment by [section 701(e)(4)(F) of Pub. L. 99–514][/us/pl/99/514/s701/e/4/F] applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see [section 701(f) of Pub. L. 99–514][/us/pl/99/514/s701/f], set out as an Effective Date note under [section 55 of this title][/us/usc/t26/s55].
 
-[Pub. L. 99–514, title XII, § 1236(b)][/us/pl/99/514/s1236/b], Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1236(b), Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after November 16, 1985.”
 
@@ -172,30 +172,30 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F282
-[/us/pl/89/809/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fb%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1555
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s301/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F13
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2822
-[/us/pl/96/499/s1122/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1122%2Fc%2F2
+[/us/pl/96/499/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtXI
 [/us/stat/94/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2687
-[/us/pl/97/424/s515/b/6/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F6%2FF
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2182
-[/us/pl/98/369/s474/r/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F19
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F843
-[/us/pl/99/514/s701/e/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FF
+[/us/pl/99/514/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVII
 [/us/stat/100/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2343
-[/us/pl/100/647/s1012/s/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F2%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
-[/us/pl/113/295/s221/a/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FF
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/100/647/s2001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fc%2F2
-[/us/pl/100/647/s1012/s/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F2%2FB
-[/us/pl/100/647/s6133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6133%2Fa
-[/us/pl/99/514/s701/e/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FF
-[/us/pl/99/514/s1236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1236%2Fa
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
@@ -210,15 +210,15 @@
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/pl/100/647/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/100/647/s6133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6133%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3721
 [/us/pl/99/514/s701/e/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FF
 [/us/pl/99/514/s701/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Ff
 [/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
-[/us/pl/99/514/s1236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1236%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2576
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s475/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs475%2Fa

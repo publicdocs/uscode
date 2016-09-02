@@ -363,13 +363,13 @@
 
             The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-        \[(18) Repealed. [Pub. L. 97–248, title II, § 237(b)][/us/pl/97/248/s237/b], Sept. 3, 1982, [96 Stat. 511][/us/stat/96/511].\]
+        \[(18) Repealed. [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 237(b), Sept. 3, 1982, [96 Stat. 511][/us/stat/96/511].\]
 
         (19) A trust shall not constitute a qualified trust under this section if under the plan of which such trust is a part any part of a participant’s accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable), is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit (as determined under section 411). The first sentence of this paragraph shall not apply to the extent that an accrued benefit is permitted to be forfeited in accordance with section 411(a)(3)(D)(iii) (relating to proportional forfeitures of benefits accrued before September 2, 1974, in the event of withdrawal of certain mandatory contributions).
 
         (20) A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section merely because the pension plan of which such trust is a part makes 1 or more distributions within 1 taxable year to a distributee on account of a termination of the plan of which the trust is a part, or in the case of a profit-sharing or stock bonus plan, a complete discontinuance of contributions under such plan. This paragraph shall not apply to a defined benefit plan unless the employer maintaining such plan files a notice with the Pension Benefit Guaranty Corporation (at the time and in the manner prescribed by the Pension Benefit Guaranty Corporation) notifying the Corporation of such payment or distribution and the Corporation has approved such payment or distribution or, within 90 days after the date on which such notice was filed, has failed to disapprove such payment or distribution. For purposes of this paragraph, rules similar to the rules of section 402(a)(6)(B) (as in effect before its repeal by section 521 of the Unemployment Compensation Amendments of 1992) shall apply.
 
-        \[(21) Repealed. [Pub. L. 99–514, title XI, § 1171(b)(5)][/us/pl/99/514/s1171/b/5], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513].\]
+        \[(21) Repealed. [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1171(b)(5), Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513].\]
 
         (22)
 
@@ -885,7 +885,7 @@
 
         A trust forming part of a pension or profit-sharing plan which provides contributions or benefits for employees some or all of whom are owner-employees shall constitute a qualified trust under this section only if, in addition to meeting the requirements of subsection (a), the plan provides that contributions on behalf of any owner-employee may be made only with respect to the earned income of such owner-employee which is derived from the trade or business with respect to which such plan is established.
 
-    \[(e) __Repealed.__  __[__  __Pub. L. 98–369, div. A, title VII, § 713(d)(3)__  __][/us/pl/98/369/s713/d/3]__  __,__  __July 18, 1984__  __,__  __[__  __98 Stat. 958__  __][/us/stat/98/958]__  __\]__ 
+    \[(e) __Repealed.__  __[__  __Pub. L. 98–369, div. A, title VII__  __][/us/pl/98/369/dA/tVII]__  __, § 713(d)(3),__  __July 18, 1984__  __,__  __[__  __98 Stat. 958__  __][/us/stat/98/958]__  __\]__ 
 
     (f) __Certain custodial accounts and contracts__ 
 
@@ -931,7 +931,7 @@
 
         then such trust shall be considered as having constituted a qualified trust under subsection (a) and as having been exempt from taxation under section 501(a) for the period beginning on the date on which contributions were first made to or for such trust and ending on the date such trust first constituted (without regard to this subsection) a qualified trust under subsection (a).
 
-    \[(j) __Repealed.__  __[__  __Pub. L. 97–248, title II, § 238(b)__  __][/us/pl/97/248/s238/b]__  __,__  __Sept. 3, 1982__  __,__  __[__  __96 Stat. 512__  __][/us/stat/96/512]__  __\]__ 
+    \[(j) __Repealed.__  __[__  __Pub. L. 97–248, title II__  __][/us/pl/97/248/tII]__  __, § 238(b),__  __Sept. 3, 1982__  __,__  __[__  __96 Stat. 512__  __][/us/stat/96/512]__  __\]__ 
 
     (k) __Cash or deferred arrangements__ 
 
@@ -1719,7 +1719,7 @@
 
         For exemption from tax of a trust qualified under this section, see section 501(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 134][/us/stat/68A/134]; [Pub. L. 87–792, § 2][/us/pl/87/792/s2], Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809]; [Pub. L. 87–863, § 2(a)][/us/pl/87/863/s2/a], Oct. 23, 1962, [76 Stat. 1141][/us/stat/76/1141]; [Pub. L. 88–272, title II, § 219(a)][/us/pl/88/272/s219/a], Feb. 26, 1964, [78 Stat. 57][/us/stat/78/57]; [Pub. L. 89–97, title I, § 106(d)(4)][/us/pl/89/97/s106/d/4], July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 89–809, title II][/us/pl/89/809], §§ 204(b)(1), (c), 205(a), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], 1578; [Pub. L. 91–691, § 1(a)][/us/pl/91/691/s1/a], Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, [88 Stat. 913][/us/stat/88/913], 929, 935, 938–940, 943, 952–955, 957, 979; [Pub. L. 94–267, § 1(c)(1)][/us/pl/94/267/s1/c/1], (2), Apr. 15, 1976, [90 Stat. 367][/us/stat/90/367]; [Pub. L. 94–455, title VIII, § 803(b)(2)][/us/pl/94/455/s803/b/2], title XV, § 1505(b), title XIX, §§ 1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1738, 1773, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2795, 2796, 2799; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(V)][/us/pl/96/222/s101/a/7/L/i/V], (9), (14)(E)(iii), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 201, 205; [Pub. L. 96–364, title II, § 208(a)][/us/pl/96/364/s208/a], (e), title IV, § 410(b), Sept. 26, 1980, [94 Stat. 1289][/us/stat/94/1289], 1290, 1308; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 221(a), 225(b)(1), (2), Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], 3529; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, [95 Stat. 283–286][/us/stat/95/283-286], 297, 298; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, [96 Stat. 511–513][/us/stat/96/511-513], 520, 521, 527, 533; [Pub. L. 97–448, title I, § 103(c)(10)(A)][/us/pl/97/448/s103/c/10/A], (d)(2), (g)(2)(A), title III, § 306(a)(12), Jan. 12, 1983, [96 Stat. 2377–2379][/us/stat/96/2377-2379], 2405; [Pub. L. 98–21, title I, § 124(c)(4)(A)][/us/pl/98/21/s124/c/4/A], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–369, div. A, title II, § 211(b)(5)][/us/pl/98/369/s211/b/5], title IV, §§ 474(r)(13), 491(e)(4), (5), title V, §§ 521(a), 524(d)(1), 527(a), (b), 528(b), title VII, § 713(c)(2)(A), (d)(3), July 18, 1984, [98 Stat. 754][/us/stat/98/754], 842, 853, 865, 872, 875–877, 957, 958; [Pub. L. 98–397, title II][/us/pl/98/397], §§ 203(a), 204(a), title III, § 301(b), Aug. 23, 1984, [98 Stat. 1440][/us/stat/98/1440], 1445, 1451; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§ 1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, [100 Stat. 2435][/us/stat/100/2435], 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; [Pub. L. 100–203, title IX, § 9341(a)][/us/pl/100/203/s9341/a], Dec. 22, 1987, [101 Stat. 1330–369][/us/stat/101/1330-369]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§ 6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, [102 Stat. 3458–3460][/us/stat/102/3458-3460], 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; [Pub. L. 101–140, title II, § 203(a)(5)][/us/pl/101/140/s203/a/5], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], 2409, 2421, 2442; [Pub. L. 101–508, title XII, § 12011(b)][/us/pl/101/508/s12011/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 102–318, title V][/us/pl/102/318], §§ 521(b)(5)–(8), 522(a)(1), July 3, 1992, [106 Stat. 310][/us/stat/106/310], 313; [Pub. L. 103–66, title XIII, § 13212(a)][/us/pl/103/66/s13212/a], Aug. 10, 1993, [107 Stat. 471][/us/stat/107/471]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], 5021, 5037, 5048; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; [Pub. L. 105–34, title XV][/us/pl/105/34], §§ 1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, § 1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, [111 Stat. 1059][/us/stat/111/1059], 1063, 1072, 1078, 1088, 1089; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 316(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, [115 Stat. 97][/us/stat/115/97], 99, 120, 122, 126, 135, 143; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(2), (q)(1), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 51; [Pub. L. 108–311, title IV, § 407(b)][/us/pl/108/311/s407/b], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 109–280, title I, § 114(a)][/us/pl/109/280/s114/a], title VIII, §§ 827(b)(1), 861(a), (b), title IX, §§ 901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; [Pub. L. 110–245, title I, § 104(a)][/us/pl/110/245/s104/a], June 17, 2008, [122 Stat. 1626][/us/stat/122/1626]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(A)–(C), 109(a)–(b)(2), title II, § 201(a), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111, 5116; [Pub. L. 111–152, title I, § 1004(d)(5)][/us/pl/111/152/s1004/d/5], Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036]; [Pub. L. 113–97, title II, § 202(c)(3)(A)][/us/pl/113/97/s202/c/3/A], (4), (5), Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136]; [Pub. L. 113–295, div. A, title II, § 221(a)(52)][/us/pl/113/295/s221/a/52], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 134][/us/stat/68A/134]; [Pub. L. 87–792][/us/pl/87/792], § 2, Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809]; [Pub. L. 87–863][/us/pl/87/863], § 2(a), Oct. 23, 1962, [76 Stat. 1141][/us/stat/76/1141]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 219(a), Feb. 26, 1964, [78 Stat. 57][/us/stat/78/57]; [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 106(d)(4), July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 89–809, title II][/us/pl/89/809/tII], §§ 204(b)(1), (c), 205(a), Nov. 13, 1966, [80 Stat. 1577][/us/stat/80/1577], 1578; [Pub. L. 91–691][/us/pl/91/691], § 1(a), Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], §§ 1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, [88 Stat. 913][/us/stat/88/913], 929, 935, 938–940, 943, 952–955, 957, 979; [Pub. L. 94–267][/us/pl/94/267], § 1(c)(1), (2), Apr. 15, 1976, [90 Stat. 367][/us/stat/90/367]; [Pub. L. 94–455, title VIII][/us/pl/94/455/tVIII], § 803(b)(2), title XV, § 1505(b), title XIX, §§ 1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1738, 1773, 1834; [Pub. L. 95–600, title I][/us/pl/95/600/tI], §§ 135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, [92 Stat. 2785][/us/stat/92/2785], 2795, 2796, 2799; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 101(a)(7)(L)(i)(V), (9), (14)(E)(iii), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 201, 205; [Pub. L. 96–364, title II][/us/pl/96/364/tII], § 208(a), (e), title IV, § 410(b), Sept. 26, 1980, [94 Stat. 1289][/us/stat/94/1289], 1290, 1308; [Pub. L. 96–605, title II][/us/pl/96/605/tII], §§ 221(a), 225(b)(1), (2), Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], 3529; [Pub. L. 97–34, title III][/us/pl/97/34/tIII], §§ 312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, [95 Stat. 283–286][/us/stat/95/283-286], 297, 298; [Pub. L. 97–248, title II][/us/pl/97/248/tII], §§ 237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, [96 Stat. 511–513][/us/stat/96/511-513], 520, 521, 527, 533; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 103(c)(10)(A), (d)(2), (g)(2)(A), title III, § 306(a)(12), Jan. 12, 1983, [96 Stat. 2377–2379][/us/stat/96/2377-2379], 2405; [Pub. L. 98–21, title I][/us/pl/98/21/tI], § 124(c)(4)(A), Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(b)(5), title IV, §§ 474(r)(13), 491(e)(4), (5), title V, §§ 521(a), 524(d)(1), 527(a), (b), 528(b), title VII, § 713(c)(2)(A), (d)(3), July 18, 1984, [98 Stat. 754][/us/stat/98/754], 842, 853, 865, 872, 875–877, 957, 958; [Pub. L. 98–397, title II][/us/pl/98/397/tII], §§ 203(a), 204(a), title III, § 301(b), Aug. 23, 1984, [98 Stat. 1440][/us/stat/98/1440], 1445, 1451; [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], §§ 1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§ 1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, [100 Stat. 2435][/us/stat/100/2435], 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9341(a), Dec. 22, 1987, [101 Stat. 1330–369][/us/stat/101/1330-369]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§ 6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, [102 Stat. 3458–3460][/us/stat/102/3458-3460], 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; [Pub. L. 101–140, title II][/us/pl/101/140/tII], § 203(a)(5), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], 2409, 2421, 2442; [Pub. L. 101–508, title XII][/us/pl/101/508/tXII], § 12011(b), Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], §§ 521(b)(5)–(8), 522(a)(1), July 3, 1992, [106 Stat. 310][/us/stat/106/310], 313; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13212(a), Aug. 10, 1993, [107 Stat. 471][/us/stat/107/471]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], §§ 732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], 5021, 5037, 5048; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], §§ 1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, § 1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, [111 Stat. 1059][/us/stat/111/1059], 1063, 1072, 1078, 1088, 1089; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 316(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], §§ 611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, [115 Stat. 97][/us/stat/115/97], 99, 120, 122, 126, 135, 143; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(o)(2), (q)(1), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 51; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 407(b), Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 114(a), title VIII, §§ 827(b)(1), 861(a), (b), title IX, §§ 901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; [Pub. L. 110–245, title I][/us/pl/110/245/tI], § 104(a), June 17, 2008, [122 Stat. 1626][/us/stat/122/1626]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], §§ 101(d)(2)(A)–(C), 109(a)–(b)(2), title II, § 201(a), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111, 5116; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1004(d)(5), Mar. 30, 2010, [124 Stat. 1036][/us/stat/124/1036]; [Pub. L. 113–97, title II][/us/pl/113/97/tII], § 202(c)(3)(A), (4), (5), Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(52), Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1733,33 +1733,33 @@
 
     Section 521 of the Unemployment Compensation Amendments of 1992, referred to in subsec. (a)(20), is [section 521 of Pub. L. 102–318][/us/pl/102/318/s521], which amended section 402(a) to (f) of this title generally, and, as so amended, subsec. (a) of section 402 does not contain a par. (6)(B).
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (l)(6), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (l)(6), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
  __Amendments__ 
 
     2014—Subsec. (a)(9)(H). [Pub. L. 113–295][/us/pl/113/295] struck out subpar. (H) which related to a waiver from the minimum distribution requirements of subsec. (a)(9) during calendar year 2009 for certain defined contribution and individual retirement plans.
 
-    Subsec. (a)(29). [Pub. L. 113–97, § 202(c)(3)(A)][/us/pl/113/97/s202/c/3/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan”.
+    Subsec. (a)(29). [Pub. L. 113–97][/us/pl/113/97], § 202(c)(3)(A), substituted “multiemployer plan or a CSEC plan” for “multiemployer plan”.
 
-    Subsec. (a)(32)(A). [Pub. L. 113–97, § 202(c)(5)(A)][/us/pl/113/97/s202/c/5/A], substituted “430(j)(4) or 433(f)(5)” for “430(j)(4)” in two places.
+    Subsec. (a)(32)(A). [Pub. L. 113–97][/us/pl/113/97], § 202(c)(5)(A), substituted “430(j)(4) or 433(f)(5)” for “430(j)(4)” in two places.
 
-    Subsec. (a)(32)(C). [Pub. L. 113–97, § 202(c)(5)(B)][/us/pl/113/97/s202/c/5/B], substituted “430(j)(3) or 433(f) by reason of section 430(j)(4)(A) or 433(f)(5), respectively” for “430(j)(3) by reason of section 430(j)(4)(A) thereof”.
+    Subsec. (a)(32)(C). [Pub. L. 113–97][/us/pl/113/97], § 202(c)(5)(B), substituted “430(j)(3) or 433(f) by reason of section 430(j)(4)(A) or 433(f)(5), respectively” for “430(j)(3) by reason of section 430(j)(4)(A) thereof”.
 
-    Subsec. (a)(33)(C). [Pub. L. 113–97, § 202(c)(4)][/us/pl/113/97/s202/c/4], substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
+    Subsec. (a)(33)(C). [Pub. L. 113–97][/us/pl/113/97], § 202(c)(4), substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
 
     2010—Subsec. (h). [Pub. L. 111–152][/us/pl/111/152] inserted at end “For purposes of this subsection, the term ‘dependent’ shall include any individual who is a child (as defined in section 152(f)(1)) of a retired employee who as of the end of the calendar year has not attained age 27.”
 
-    2008—Subsec. (a)(9)(H). [Pub. L. 110–458, § 201(a)][/us/pl/110/458/s201/a], added subpar. (H).
+    2008—Subsec. (a)(9)(H). [Pub. L. 110–458][/us/pl/110/458], § 201(a), added subpar. (H).
 
-    Subsec. (a)(29). [Pub. L. 110–458, § 101(d)(2)(A)][/us/pl/110/458/s101/d/2/A], struck out “on plans in at-risk status” after “limitations” in heading.
+    Subsec. (a)(29). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(2)(A), struck out “on plans in at-risk status” after “limitations” in heading.
 
-    Subsec. (a)(32)(C). [Pub. L. 110–458, § 101(d)(2)(B)][/us/pl/110/458/s101/d/2/B], substituted “section 430(j)(3)” for “section 430(j)” and “section 430(j)(4)(A)” for “paragraph (5)(A)”.
+    Subsec. (a)(32)(C). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(2)(B), substituted “section 430(j)(3)” for “section 430(j)” and “section 430(j)(4)(A)” for “paragraph (5)(A)”.
 
-    Subsec. (a)(33)(B)(iii). [Pub. L. 110–458, § 101(d)(2)(C)(i)][/us/pl/110/458/s101/d/2/C/i], substituted “section 412(d)(2)” for “section 412(c)(2)”.
+    Subsec. (a)(33)(B)(iii). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(2)(C)(i), substituted “section 412(d)(2)” for “section 412(c)(2)”.
 
-    Subsec. (a)(33)(D). [Pub. L. 110–458, § 101(d)(2)(C)(ii)][/us/pl/110/458/s101/d/2/C/ii], substituted “section 412(b)(1), without regard to section 412(b)(2)” for “section 412(b)(2) (without regard to subparagraph (B) thereof)”.
+    Subsec. (a)(33)(D). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(2)(C)(ii), substituted “section 412(b)(1), without regard to section 412(b)(2)” for “section 412(b)(2) (without regard to subparagraph (B) thereof)”.
 
-    Subsec. (a)(35)(E)(iv). [Pub. L. 110–458, § 109(a)][/us/pl/110/458/s109/a], amended cl. (iv) generally. Prior to amendment, text read as follows: “For purposes of clause (iii), the term ‘one-participant retirement plan’ means a retirement plan that—
+    Subsec. (a)(35)(E)(iv). [Pub. L. 110–458][/us/pl/110/458], § 109(a), amended cl. (iv) generally. Prior to amendment, text read as follows: “For purposes of clause (iii), the term ‘one-participant retirement plan’ means a retirement plan that—
 
     “(I) on the first day of the plan year covered only one individual (or the individual and the individual’s spouse) and the individual owned 100 percent of the plan sponsor (whether or not incorporated), or covered only one or more partners (or partners and their spouses) in the plan sponsor,
 
@@ -1775,91 +1775,91 @@
 
     Subsec. (a)(37). [Pub. L. 110–245][/us/pl/110/245] added par. (37).
 
-    Subsec. (k)(8)(E). [Pub. L. 110–458, § 109(b)(2)][/us/pl/110/458/s109/b/2], substituted “permissible withdrawal” for “erroneous automatic contribution” in heading and “a permissible withdrawal” for “an erroneous automatic contribution” in text.
+    Subsec. (k)(8)(E). [Pub. L. 110–458][/us/pl/110/458], § 109(b)(2), substituted “permissible withdrawal” for “erroneous automatic contribution” in heading and “a permissible withdrawal” for “an erroneous automatic contribution” in text.
 
-    Subsec. (k)(13)(D)(i)(I). [Pub. L. 110–458, § 109(b)(1)][/us/pl/110/458/s109/b/1], substituted “such contributions as exceed 1 percent but do not” for “such compensation as exceeds 1 percent but does not”.
+    Subsec. (k)(13)(D)(i)(I). [Pub. L. 110–458][/us/pl/110/458], § 109(b)(1), substituted “such contributions as exceed 1 percent but do not” for “such compensation as exceeds 1 percent but does not”.
 
-    2006—Subsec. (a)(5)(G). [Pub. L. 109–280, § 861(a)(1)][/us/pl/109/280/s861/a/1], (b)(1), substituted “Governmental” for “State and local governmental” in heading and “section 414(d))” for “section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” in text.
+    2006—Subsec. (a)(5)(G). [Pub. L. 109–280][/us/pl/109/280], § 861(a)(1), (b)(1), substituted “Governmental” for “State and local governmental” in heading and “section 414(d))” for “section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” in text.
 
-    Subsec. (a)(26)(G). [Pub. L. 109–280, § 861(a)(1)][/us/pl/109/280/s861/a/1], (b)(2), substituted “Exception for” for “Exception for state and local” in heading and “section 414(d))” for “section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” in text.
+    Subsec. (a)(26)(G). [Pub. L. 109–280][/us/pl/109/280], § 861(a)(1), (b)(2), substituted “Exception for” for “Exception for state and local” in heading and “section 414(d))” for “section 414(d)) maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” in text.
 
-    Subsec. (a)(28)(B)(v). [Pub. L. 109–280, § 901(a)(2)(A)][/us/pl/109/280/s901/a/2/A], added cl. (v).
+    Subsec. (a)(28)(B)(v). [Pub. L. 109–280][/us/pl/109/280], § 901(a)(2)(A), added cl. (v).
 
-    Subsec. (a)(29). [Pub. L. 109–280, § 114(a)(1)][/us/pl/109/280/s114/a/1], amended heading and text of par. (29) generally, substituting provisions relating to benefit limitations on plans in at-risk status for provisions relating to security required upon adoption of plan amendment resulting in significant underfunding.
+    Subsec. (a)(29). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(1), amended heading and text of par. (29) generally, substituting provisions relating to benefit limitations on plans in at-risk status for provisions relating to security required upon adoption of plan amendment resulting in significant underfunding.
 
-    Subsec. (a)(32)(A). [Pub. L. 109–280, § 114(a)(2)(A)][/us/pl/109/280/s114/a/2/A], substituted “section 430(j)(4)” for “412(m)(5)” in two places.
+    Subsec. (a)(32)(A). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(2)(A), substituted “section 430(j)(4)” for “412(m)(5)” in two places.
 
-    Subsec. (a)(32)(C). [Pub. L. 109–280, § 114(a)(2)(B)][/us/pl/109/280/s114/a/2/B], substituted “section 430(j)” for “section 412(m)”.
+    Subsec. (a)(32)(C). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(2)(B), substituted “section 430(j)” for “section 412(m)”.
 
-    Subsec. (a)(33)(B)(i). [Pub. L. 109–280, § 114(a)(3)(A)][/us/pl/109/280/s114/a/3/A], which directed amendment of cl. (i) by substituting “funding target attainment percentage (as defined in section 430(d)(2))” for “funded current liability percentage (within the meaning of section 412(l)(8))”, was executed by making the substitution for “funded current liability percentage (as defined in section 412(l)(8))”, to reflect the probable intent of Congress.
+    Subsec. (a)(33)(B)(i). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(3)(A), which directed amendment of cl. (i) by substituting “funding target attainment percentage (as defined in section 430(d)(2))” for “funded current liability percentage (within the meaning of section 412(l)(8))”, was executed by making the substitution for “funded current liability percentage (as defined in section 412(l)(8))”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(33)(B)(iii). [Pub. L. 109–280, § 114(a)(3)(B)][/us/pl/109/280/s114/a/3/B], substituted “section 412(c)(2)” for “subsection 412(c)(8)”.
+    Subsec. (a)(33)(B)(iii). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(3)(B), substituted “section 412(c)(2)” for “subsection 412(c)(8)”.
 
-    Subsec. (a)(33)(D). [Pub. L. 109–280, § 114(a)(3)(C)][/us/pl/109/280/s114/a/3/C], substituted “section 412(b)(2) (without regard to subparagraph (B) thereof)” for “section 412(c)(11) (without regard to subparagraph (B) thereof)”.
+    Subsec. (a)(33)(D). [Pub. L. 109–280][/us/pl/109/280], § 114(a)(3)(C), substituted “section 412(b)(2) (without regard to subparagraph (B) thereof)” for “section 412(c)(11) (without regard to subparagraph (B) thereof)”.
 
-    Subsec. (a)(35). [Pub. L. 109–280, § 901(a)(1)][/us/pl/109/280/s901/a/1], added par. (35).
+    Subsec. (a)(35). [Pub. L. 109–280][/us/pl/109/280], § 901(a)(1), added par. (35).
 
-    Subsec. (a)(36). [Pub. L. 109–280, § 905(b)][/us/pl/109/280/s905/b], added par. (36).
+    Subsec. (a)(36). [Pub. L. 109–280][/us/pl/109/280], § 905(b), added par. (36).
 
-    Subsec. (k)(2)(B)(i)(V). [Pub. L. 109–280, § 827(b)(1)][/us/pl/109/280/s827/b/1], added subcl. (V).
+    Subsec. (k)(2)(B)(i)(V). [Pub. L. 109–280][/us/pl/109/280], § 827(b)(1), added subcl. (V).
 
-    Subsec. (k)(3)(G). [Pub. L. 109–280, § 861(a)(2)][/us/pl/109/280/s861/a/2], (b)(3), inserted heading and struck out “maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” after “414(d))” in text.
+    Subsec. (k)(3)(G). [Pub. L. 109–280][/us/pl/109/280], § 861(a)(2), (b)(3), inserted heading and struck out “maintained by a State or local government or political subdivision thereof (or agency or instrumentality thereof)” after “414(d))” in text.
 
-    Subsec. (k)(8)(A)(i). [Pub. L. 109–280, § 902(e)(3)(B)(i)][/us/pl/109/280/s902/e/3/B/i], inserted “through the end of such year” after “such contributions”.
+    Subsec. (k)(8)(A)(i). [Pub. L. 109–280][/us/pl/109/280], § 902(e)(3)(B)(i), inserted “through the end of such year” after “such contributions”.
 
-    Subsec. (k)(8)(E). [Pub. L. 109–280, § 902(d)(2)(C)][/us/pl/109/280/s902/d/2/C], (D), inserted “or erroneous automatic contribution” after “or contribution” in heading and inserted “an erroneous automatic contribution under section 414(w),” after “402(g)(2)(A),” in text.
+    Subsec. (k)(8)(E). [Pub. L. 109–280][/us/pl/109/280], § 902(d)(2)(C), (D), inserted “or erroneous automatic contribution” after “or contribution” in heading and inserted “an erroneous automatic contribution under section 414(w),” after “402(g)(2)(A),” in text.
 
-    Subsec. (k)(13). [Pub. L. 109–280, § 902(a)][/us/pl/109/280/s902/a], added par. (13).
+    Subsec. (k)(13). [Pub. L. 109–280][/us/pl/109/280], § 902(a), added par. (13).
 
-    Subsec. (m)(6)(A). [Pub. L. 109–280, § 902(e)(3)(B)(ii)][/us/pl/109/280/s902/e/3/B/ii], inserted “through the end of such year” after “to such contributions”.
+    Subsec. (m)(6)(A). [Pub. L. 109–280][/us/pl/109/280], § 902(e)(3)(B)(ii), inserted “through the end of such year” after “to such contributions”.
 
-    Subsec. (m)(12), (13). [Pub. L. 109–280, § 902(b)][/us/pl/109/280/s902/b], added par. (12) and redesignated former par. (12) as (13).
+    Subsec. (m)(12), (13). [Pub. L. 109–280][/us/pl/109/280], § 902(b), added par. (12) and redesignated former par. (12) as (13).
 
     2004—Subsec. (a)(26)(C) to (I). [Pub. L. 108–311][/us/pl/108/311] redesignated subpars. (D) to (I) as (C) to (H), respectively, and struck out heading and text of former subpar. (C). Text read as follows: “In the case of contributions under section 401(k) or 401(m), employees who are eligible to contribute (or may elect to have contributions made on their behalf) shall be treated as benefiting under the plan.”
 
-    2002—Subsec. (a)(30). [Pub. L. 107–147, § 411][/us/pl/107/147/s411](o)(2), substituted “402(g)(1)(A)” for “402(g)(1)”.
+    2002—Subsec. (a)(30). [Pub. L. 107–147][/us/pl/107/147], § 411(o)(2), substituted “402(g)(1)(A)” for “402(g)(1)”.
 
-    Subsec. (a)(31)(C)(i). [Pub. L. 107–147, § 411(q)(1)][/us/pl/107/147/s411/q/1], inserted “is a qualified trust which is part of a plan which is a defined contribution plan and” before “agrees”.
+    Subsec. (a)(31)(C)(i). [Pub. L. 107–147][/us/pl/107/147], § 411(q)(1), inserted “is a qualified trust which is part of a plan which is a defined contribution plan and” before “agrees”.
 
-    2001—Subsec. (a)(17). [Pub. L. 107–16, § 611(c)(1)][/us/pl/107/16/s611/c/1], substituted “$200,000” for “$150,000” in two places.
+    2001—Subsec. (a)(17). [Pub. L. 107–16][/us/pl/107/16], § 611(c)(1), substituted “$200,000” for “$150,000” in two places.
 
-    Subsec. (a)(17)(B). [Pub. L. 107–16, § 611(c)(2)][/us/pl/107/16/s611/c/2], substituted “July 1, 2001” for “October 1, 1993” and substituted “$5,000” for “$10,000” in two places.
+    Subsec. (a)(17)(B). [Pub. L. 107–16][/us/pl/107/16], § 611(c)(2), substituted “July 1, 2001” for “October 1, 1993” and substituted “$5,000” for “$10,000” in two places.
 
-    Subsec. (a)(31). [Pub. L. 107–16, § 657(a)(2)(A)][/us/pl/107/16/s657/a/2/A], substituted “Direct” for “Optional direct” in heading.
+    Subsec. (a)(31). [Pub. L. 107–16][/us/pl/107/16], § 657(a)(2)(A), substituted “Direct” for “Optional direct” in heading.
 
-    Subsec. (a)(31)(B). [Pub. L. 107–16, § 657(a)(1)][/us/pl/107/16/s657/a/1], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (a)(31)(B). [Pub. L. 107–16][/us/pl/107/16], § 657(a)(1), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 107–16, § 643(b)][/us/pl/107/16/s643/b], inserted at end “The preceding sentence shall not apply to such distribution if the plan to which such distribution is transferred—
+    [Pub. L. 107–16][/us/pl/107/16], § 643(b), inserted at end “The preceding sentence shall not apply to such distribution if the plan to which such distribution is transferred—
 
     “(i) agrees to separately account for amounts so transferred, including separately accounting for the portion of such distribution which is includible in gross income and the portion of such distribution which is not so includible, or
 
     “(ii) is an eligible retirement plan described in clause (i) or (ii) of section 402(c)(8)(B).”
 
-    [Pub. L. 107–16, § 641(e)(3)][/us/pl/107/16/s641/e/3], substituted “, 403(a)(4), 403(b)(8), and 457(e)(16)” for “and 403(a)(4)”.
+    [Pub. L. 107–16][/us/pl/107/16], § 641(e)(3), substituted “, 403(a)(4), 403(b)(8), and 457(e)(16)” for “and 403(a)(4)”.
 
-    Subsec. (a)(31)(C). [Pub. L. 107–16, § 657(a)(2)(B)][/us/pl/107/16/s657/a/2/B], substituted “Subparagraphs (A) and (B)” for “Subparagraph (A)”.
+    Subsec. (a)(31)(C). [Pub. L. 107–16][/us/pl/107/16], § 657(a)(2)(B), substituted “Subparagraphs (A) and (B)” for “Subparagraph (A)”.
 
-    [Pub. L. 107–16, § 657(a)(1)][/us/pl/107/16/s657/a/1], redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    [Pub. L. 107–16][/us/pl/107/16], § 657(a)(1), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (a)(31)(D), (E). [Pub. L. 107–16, § 657(a)(1)][/us/pl/107/16/s657/a/1], redesignated subpars. (C) and (D) as (D) and (E), respectively.
+    Subsec. (a)(31)(D), (E). [Pub. L. 107–16][/us/pl/107/16], § 657(a)(1), redesignated subpars. (C) and (D) as (D) and (E), respectively.
 
-    Subsec. (c)(2)(A). [Pub. L. 107–16, § 611(g)(1)][/us/pl/107/16/s611/g/1], inserted at end “For purposes of this part only (other than sections 419 and 419A), this subparagraph shall be applied as if the term ‘trade or business’ for purposes of section 1402 included service described in section 1402(c)(6).”
+    Subsec. (c)(2)(A). [Pub. L. 107–16][/us/pl/107/16], § 611(g)(1), inserted at end “For purposes of this part only (other than sections 419 and 419A), this subparagraph shall be applied as if the term ‘trade or business’ for purposes of section 1402 included service described in section 1402(c)(6).”
 
-    Subsec. (k)(2)(B)(i)(I). [Pub. L. 107–16, § 646(a)(1)(A)][/us/pl/107/16/s646/a/1/A], substituted “severance from employment” for “separation from service”.
+    Subsec. (k)(2)(B)(i)(I). [Pub. L. 107–16][/us/pl/107/16], § 646(a)(1)(A), substituted “severance from employment” for “separation from service”.
 
-    Subsec. (k)(10). [Pub. L. 107–16, § 646(a)(1)(C)(iii)][/us/pl/107/16/s646/a/1/C/iii], struck out “or disposition of assets or subsidiary” after “plan” in heading.
+    Subsec. (k)(10). [Pub. L. 107–16][/us/pl/107/16], § 646(a)(1)(C)(iii), struck out “or disposition of assets or subsidiary” after “plan” in heading.
 
-    Subsec. (k)(10)(A). [Pub. L. 107–16, § 646(a)(1)(B)][/us/pl/107/16/s646/a/1/B], reenacted heading without change and amended text generally, substituting present provisions for provisions including termination of plan, disposition of assets, and disposition of subsidiary as events described in this paragraph.
+    Subsec. (k)(10)(A). [Pub. L. 107–16][/us/pl/107/16], § 646(a)(1)(B), reenacted heading without change and amended text generally, substituting present provisions for provisions including termination of plan, disposition of assets, and disposition of subsidiary as events described in this paragraph.
 
-    Subsec. (k)(10)(B)(i). [Pub. L. 107–16, § 646(a)(1)(C)(i)][/us/pl/107/16/s646/a/1/C/i], substituted “A termination” for “An event” and “the termination” for “the event”.
+    Subsec. (k)(10)(B)(i). [Pub. L. 107–16][/us/pl/107/16], § 646(a)(1)(C)(i), substituted “A termination” for “An event” and “the termination” for “the event”.
 
-    Subsec. (k)(10)(C). [Pub. L. 107–16, § 646(a)(1)(C)(ii)][/us/pl/107/16/s646/a/1/C/ii], struck out heading and text of subpar. (C). Text read as follows: “An event shall not be treated as described in clause (ii) or (iii) of subparagraph (A) unless the transferor corporation continues to maintain the plan after the disposition.”
+    Subsec. (k)(10)(C). [Pub. L. 107–16][/us/pl/107/16], § 646(a)(1)(C)(ii), struck out heading and text of subpar. (C). Text read as follows: “An event shall not be treated as described in clause (ii) or (iii) of subparagraph (A) unless the transferor corporation continues to maintain the plan after the disposition.”
 
-    Subsec. (k)(11)(B)(i)(I). [Pub. L. 107–16, § 611(f)(3)(A)][/us/pl/107/16/s611/f/3/A], substituted “the amount in effect under section 408(p)(2)(A)(ii)” for “$6,000”.
+    Subsec. (k)(11)(B)(i)(I). [Pub. L. 107–16][/us/pl/107/16], § 611(f)(3)(A), substituted “the amount in effect under section 408(p)(2)(A)(ii)” for “$6,000”.
 
-    Subsec. (k)(11)(E). [Pub. L. 107–16, § 611(f)(3)(B)][/us/pl/107/16/s611/f/3/B], struck out heading and text of subpar. (E). Text read as follows: “The Secretary shall adjust the $6,000 amount under subparagraph (B)(i)(I) at the same time and in the same manner as under section 408(p)(2)(E).”
+    Subsec. (k)(11)(E). [Pub. L. 107–16][/us/pl/107/16], § 611(f)(3)(B), struck out heading and text of subpar. (E). Text read as follows: “The Secretary shall adjust the $6,000 amount under subparagraph (B)(i)(I) at the same time and in the same manner as under section 408(p)(2)(E).”
 
-    Subsec. (m)(9). [Pub. L. 107–16, § 666(a)][/us/pl/107/16/s666/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and subsection (k) including—
+    Subsec. (m)(9). [Pub. L. 107–16][/us/pl/107/16], § 666(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and subsection (k) including—
 
     “(A) such regulations as may be necessary to prevent the multiple use of the alternative limitation with respect to any highly compensated employee, and
 
@@ -1873,63 +1873,63 @@
 
     “(II) an annuity plan described in section 403(a).”
 
-    1997—Subsec. (a)(1). [Pub. L. 105–34, § 1530(c)(1)][/us/pl/105/34/s1530/c/1], inserted “or by a charitable remainder trust pursuant to a qualified gratuitous transfer (as defined in section 664(g)(1)),” after “stock bonus plans),”.
+    1997—Subsec. (a)(1). [Pub. L. 105–34][/us/pl/105/34], § 1530(c)(1), inserted “or by a charitable remainder trust pursuant to a qualified gratuitous transfer (as defined in section 664(g)(1)),” after “stock bonus plans),”.
 
-    Subsec. (a)(5)(G). [Pub. L. 105–34, § 1505(a)(1)][/us/pl/105/34/s1505/a/1], added subpar. (G).
+    Subsec. (a)(5)(G). [Pub. L. 105–34][/us/pl/105/34], § 1505(a)(1), added subpar. (G).
 
-    Subsec. (a)(13)(C), (D). [Pub. L. 105–34, § 1502(b)][/us/pl/105/34/s1502/b], added subpars. (C) and (D).
+    Subsec. (a)(13)(C), (D). [Pub. L. 105–34][/us/pl/105/34], § 1502(b), added subpars. (C) and (D).
 
-    Subsec. (a)(26)(H). [Pub. L. 105–34, § 1505(a)(2)][/us/pl/105/34/s1505/a/2], amended heading and text of subpar. (H) generally. Prior to amendment, text read as follows:
+    Subsec. (a)(26)(H). [Pub. L. 105–34][/us/pl/105/34], § 1505(a)(2), amended heading and text of subpar. (H) generally. Prior to amendment, text read as follows:
 
     “(i) In general.—An employer may elect to have this paragraph applied separately with respect to any classification of qualified public safety employees for whom a separate plan is maintained.
 
     “(ii) Qualified public safety employee.—For purposes of this subparagraph, the term ‘qualified public safety employee’ means any employee of any police department or fire department organized and operated by a State or political subdivision if the employee provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision.”
 
-    Subsec. (k)(3)(G). [Pub. L. 105–34, § 1505(b)][/us/pl/105/34/s1505/b], added subpar. (G).
+    Subsec. (k)(3)(G). [Pub. L. 105–34][/us/pl/105/34], § 1505(b), added subpar. (G).
 
-    Subsec. (k)(7)(B)(iii) to (v). [Pub. L. 105–34, § 1525(a)][/us/pl/105/34/s1525/a], struck out “and” at end of cl. (iii), added cl. (iv), redesignated former cl. (iv) as (v), and in cl. (v), substituted “, (iii), or (iv)” for “or (iii)”.
+    Subsec. (k)(7)(B)(iii) to (v). [Pub. L. 105–34][/us/pl/105/34], § 1525(a), struck out “and” at end of cl. (iii), added cl. (iv), redesignated former cl. (iv) as (v), and in cl. (v), substituted “, (iii), or (iv)” for “or (iii)”.
 
-    Subsec. (k)(11)(B)(iii). [Pub. L. 105–34, § 1601(d)(2)(D)][/us/pl/105/34/s1601/d/2/D], added cl. (iii).
+    Subsec. (k)(11)(B)(iii). [Pub. L. 105–34][/us/pl/105/34], § 1601(d)(2)(D), added cl. (iii).
 
-    Subsec. (k)(11)(D)(ii). [Pub. L. 105–34, § 1601(d)(2)(A)][/us/pl/105/34/s1601/d/2/A], inserted “if such plan allows only contributions required under this paragraph” before period at end.
+    Subsec. (k)(11)(D)(ii). [Pub. L. 105–34][/us/pl/105/34], § 1601(d)(2)(A), inserted “if such plan allows only contributions required under this paragraph” before period at end.
 
-    Subsec. (k)(11)(E). [Pub. L. 105–34, § 1601(d)(2)(B)][/us/pl/105/34/s1601/d/2/B], added subpar. (E).
+    Subsec. (k)(11)(E). [Pub. L. 105–34][/us/pl/105/34], § 1601(d)(2)(B), added subpar. (E).
 
-    Subsec. (m)(11). [Pub. L. 105–34, § 1601(d)(3)][/us/pl/105/34/s1601/d/3], substituted “Additional alternative” for “Alternative” in heading.
+    Subsec. (m)(11). [Pub. L. 105–34][/us/pl/105/34], § 1601(d)(3), substituted “Additional alternative” for “Alternative” in heading.
 
-    1996—Subsec. (a)(5)(D)(ii). [Pub. L. 104–188, § 1431(c)(1)(B)][/us/pl/104/188/s1431/c/1/B], substituted “section 414(q)(4)” for “section 414(q)(7)” in introductory provisions.
+    1996—Subsec. (a)(5)(D)(ii). [Pub. L. 104–188][/us/pl/104/188], § 1431(c)(1)(B), substituted “section 414(q)(4)” for “section 414(q)(7)” in introductory provisions.
 
-    Subsec. (a)(5)(F). [Pub. L. 104–188, § 1445(a)][/us/pl/104/188/s1445/a], added subpar. (F).
+    Subsec. (a)(5)(F). [Pub. L. 104–188][/us/pl/104/188], § 1445(a), added subpar. (F).
 
-    Subsec. (a)(9)(C). [Pub. L. 104–188, § 1404(a)][/us/pl/104/188/s1404/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘required beginning date’ means April 1 of the calendar year following the calendar year in which the employee attains age 70½. In the case of a governmental plan or church plan, the required beginning date shall be the later of the date determined under the preceding sentence or April 1 of the calendar year following the calendar year in which the employee retires. For purposes of this subparagraph, the term ‘church plan’ means a plan maintained by a church for church employees, and the term ‘church’ means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
+    Subsec. (a)(9)(C). [Pub. L. 104–188][/us/pl/104/188], § 1404(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘required beginning date’ means April 1 of the calendar year following the calendar year in which the employee attains age 70½. In the case of a governmental plan or church plan, the required beginning date shall be the later of the date determined under the preceding sentence or April 1 of the calendar year following the calendar year in which the employee retires. For purposes of this subparagraph, the term ‘church plan’ means a plan maintained by a church for church employees, and the term ‘church’ means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
 
-    Subsec. (a)(17)(A). [Pub. L. 104–188, § 1431(b)(2)][/us/pl/104/188/s1431/b/2], struck out at end “In determining the compensation of an employee, the rules of section 414(q)(6) shall apply, except that in applying such rules, the term ‘family’ shall include only the spouse of the employee and any lineal descendants of the employee who have not attained age 19 before the close of the year.”
+    Subsec. (a)(17)(A). [Pub. L. 104–188][/us/pl/104/188], § 1431(b)(2), struck out at end “In determining the compensation of an employee, the rules of section 414(q)(6) shall apply, except that in applying such rules, the term ‘family’ shall include only the spouse of the employee and any lineal descendants of the employee who have not attained age 19 before the close of the year.”
 
-    Subsec. (a)(20). [Pub. L. 104–188, § 1704(t)(67)][/us/pl/104/188/s1704/t/67], substituted “section 521” for “section 211” in last sentence.
+    Subsec. (a)(20). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(67), substituted “section 521” for “section 211” in last sentence.
 
-    Subsec. (a)(26)(A). [Pub. L. 104–188, § 1432(a)][/us/pl/104/188/s1432/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A trust shall not constitute a qualified trust under this subsection unless such trust is part of a plan which on each day of the plan year benefits the lesser of—
+    Subsec. (a)(26)(A). [Pub. L. 104–188][/us/pl/104/188], § 1432(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A trust shall not constitute a qualified trust under this subsection unless such trust is part of a plan which on each day of the plan year benefits the lesser of—
 
     “(i) 50 employees of the employer, or
 
     “(ii) 40 percent or more of all employees of the employer.”
 
-    Subsec. (a)(26)(G). [Pub. L. 104–188, § 1432(b)][/us/pl/104/188/s1432/b], substituted “paragraph (2)(A) or (7)” for “paragraph (7)”.
+    Subsec. (a)(26)(G). [Pub. L. 104–188][/us/pl/104/188], § 1432(b), substituted “paragraph (2)(A) or (7)” for “paragraph (7)”.
 
-    Subsec. (a)(28)(B)(v). [Pub. L. 104–188, § 1401(b)(5)][/us/pl/104/188/s1401/b/5], struck out cl. (v) which read as follows:
+    Subsec. (a)(28)(B)(v). [Pub. L. 104–188][/us/pl/104/188], § 1401(b)(5), struck out cl. (v) which read as follows:
 
     “(v) Coordination with distribution rules.—Any distribution required by this subparagraph shall not be taken into account in determining whether a subsequent distribution is a lump sum distribution under section 402(d)(4)(A) or in determining whether section 402(c)(10) applies.”
 
-    Subsec. (d). [Pub. L. 104–188, § 1441(a)][/us/pl/104/188/s1441/a], amended subsec. (d) generally, substituting provisions relating to contribution limit on owner-employees for former provisions relating to additional requirements for qualification of trusts and plans benefiting owner-employees.
+    Subsec. (d). [Pub. L. 104–188][/us/pl/104/188], § 1441(a), amended subsec. (d) generally, substituting provisions relating to contribution limit on owner-employees for former provisions relating to additional requirements for qualification of trusts and plans benefiting owner-employees.
 
-    Subsec. (h). [Pub. L. 104–188, § 1704(a)][/us/pl/104/188/s1704/a], provided that, except as otherwise expressly provided, whenever in title XII of [Pub. L. 101–508][/us/pl/101/508] an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. [Section 12011(b) of title XII of Pub. L. 101–508][/us/pl/101/508/s12011/b] directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
+    Subsec. (h). [Pub. L. 104–188][/us/pl/104/188], § 1704(a), provided that, except as otherwise expressly provided, whenever in title XII of [Pub. L. 101–508][/us/pl/101/508] an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. [Section 12011(b) of title XII of Pub. L. 101–508][/us/pl/101/508/tXII/s12011/b] directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
-    Subsec. (k)(3)(A). [Pub. L. 104–188, § 1433(c)(1)][/us/pl/104/188/s1433/c/1], in introductory provisions of cl. (ii) substituted “the plan year” for “such year” and “for the preceding plan year” for “for such plan year” and inserted at end of closing provisions of subpar. (A) “An arrangement may apply clause (ii) by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.”
+    Subsec. (k)(3)(A). [Pub. L. 104–188][/us/pl/104/188], § 1433(c)(1), in introductory provisions of cl. (ii) substituted “the plan year” for “such year” and “for the preceding plan year” for “for such plan year” and inserted at end of closing provisions of subpar. (A) “An arrangement may apply clause (ii) by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.”
 
-    Subsec. (k)(3)(E). [Pub. L. 104–188, § 1433(d)(1)][/us/pl/104/188/s1433/d/1], added subpar. (E).
+    Subsec. (k)(3)(E). [Pub. L. 104–188][/us/pl/104/188], § 1433(d)(1), added subpar. (E).
 
-    Subsec. (k)(3)(F). [Pub. L. 104–188, § 1459(a)][/us/pl/104/188/s1459/a], added subpar. (F).
+    Subsec. (k)(3)(F). [Pub. L. 104–188][/us/pl/104/188], § 1459(a), added subpar. (F).
 
-    Subsec. (k)(4)(B). [Pub. L. 104–188, § 1426(a)][/us/pl/104/188/s1426/a], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (k)(4)(B). [Pub. L. 104–188][/us/pl/104/188], § 1426(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(B) State and local governments and tax-exempt organizations not eligible.—A cash or deferred arrangement shall not be treated as a qualified cash or deferred arrangement if it is part of a plan maintained by—
 
@@ -1939,41 +1939,41 @@
 
     This subparagraph shall not apply to a rural cooperative plan.”
 
-    Subsec. (k)(7)(B)(i). [Pub. L. 104–188, § 1443(b)][/us/pl/104/188/s1443/b], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any organization which—
+    Subsec. (k)(7)(B)(i). [Pub. L. 104–188][/us/pl/104/188], § 1443(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any organization which—
 
     “(I) is exempt from tax under this subtitle or which is a State or local government or political subdivision thereof (or agency or instrumentality thereof), and
 
     “(II) is engaged primarily in providing electric service on a mutual or cooperative basis,”.
 
-    Subsec. (k)(7)(C). [Pub. L. 104–188, § 1443(a)][/us/pl/104/188/s1443/a], added subpar. (C).
+    Subsec. (k)(7)(C). [Pub. L. 104–188][/us/pl/104/188], § 1443(a), added subpar. (C).
 
-    Subsec. (k)(8)(C). [Pub. L. 104–188, § 1433(e)(1)][/us/pl/104/188/s1433/e/1], substituted “on the basis of the amount of contributions by, or on behalf of, each of such employees” for “on the basis of the respective portions of the excess contributions attributable to each of such employees”.
+    Subsec. (k)(8)(C). [Pub. L. 104–188][/us/pl/104/188], § 1433(e)(1), substituted “on the basis of the amount of contributions by, or on behalf of, each of such employees” for “on the basis of the respective portions of the excess contributions attributable to each of such employees”.
 
-    Subsec. (k)(10)(B)(ii). [Pub. L. 104–188, § 1401(b)(6)][/us/pl/104/188/s1401/b/6], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows:
+    Subsec. (k)(10)(B)(ii). [Pub. L. 104–188][/us/pl/104/188], § 1401(b)(6), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows:
 
     “(ii) Lump sum distribution.—For purposes of this subparagraph, the term ‘lump sum distribution’ has the meaning given such term by section 402(d)(4), without regard to clauses (i), (ii), (iii), and (iv) of subparagraph (A), subparagraph (B), or subparagraph (F) thereof.”
 
-    Subsec. (k)(11). [Pub. L. 104–188, § 1422(a)][/us/pl/104/188/s1422/a], added par. (11).
+    Subsec. (k)(11). [Pub. L. 104–188][/us/pl/104/188], § 1422(a), added par. (11).
 
-    Subsec. (k)(12). [Pub. L. 104–188, § 1433(a)][/us/pl/104/188/s1433/a], added par. (12).
+    Subsec. (k)(12). [Pub. L. 104–188][/us/pl/104/188], § 1433(a), added par. (12).
 
-    Subsec. (m)(2)(A). [Pub. L. 104–188, § 1433(c)(2)][/us/pl/104/188/s1433/c/2], inserted “for such plan year” after “highly compensated employees” in introductory provisions, inserted “for the preceding plan year” after “eligible employees” wherever appearing in cls. (i) and (ii), and inserted at end “This subparagraph may be applied by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.”
+    Subsec. (m)(2)(A). [Pub. L. 104–188][/us/pl/104/188], § 1433(c)(2), inserted “for such plan year” after “highly compensated employees” in introductory provisions, inserted “for the preceding plan year” after “eligible employees” wherever appearing in cls. (i) and (ii), and inserted at end “This subparagraph may be applied by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.”
 
-    Subsec. (m)(3). [Pub. L. 104–188, § 1433(d)(2)][/us/pl/104/188/s1433/d/2], inserted at end of closing provisions “Rules similar to the rules of subsection (k)(3)(E) shall apply for purposes of this subsection.”
+    Subsec. (m)(3). [Pub. L. 104–188][/us/pl/104/188], § 1433(d)(2), inserted at end of closing provisions “Rules similar to the rules of subsection (k)(3)(E) shall apply for purposes of this subsection.”
 
-    Subsec. (m)(5)(C). [Pub. L. 104–188, § 1459(b)][/us/pl/104/188/s1459/b], added subpar. (C).
+    Subsec. (m)(5)(C). [Pub. L. 104–188][/us/pl/104/188], § 1459(b), added subpar. (C).
 
-    Subsec. (m)(6)(C). [Pub. L. 104–188, § 1433(e)(2)][/us/pl/104/188/s1433/e/2], substituted “on the basis of the amount of contributions on behalf of, or by, each such employee” for “on the basis of the respective portions of such amounts attributable to each of such employees”.
+    Subsec. (m)(6)(C). [Pub. L. 104–188][/us/pl/104/188], § 1433(e)(2), substituted “on the basis of the amount of contributions on behalf of, or by, each such employee” for “on the basis of the respective portions of such amounts attributable to each of such employees”.
 
-    Subsec. (m)(10). [Pub. L. 104–188, § 1422(b)][/us/pl/104/188/s1422/b], added par. (10). Former par. (10) redesignated (11).
+    Subsec. (m)(10). [Pub. L. 104–188][/us/pl/104/188], § 1422(b), added par. (10). Former par. (10) redesignated (11).
 
-    Subsec. (m)(11). [Pub. L. 104–188, § 1433(b)][/us/pl/104/188/s1433/b], added par. (11). Former par. (11) redesignated (12).
+    Subsec. (m)(11). [Pub. L. 104–188][/us/pl/104/188], § 1433(b), added par. (11). Former par. (11) redesignated (12).
 
-    [Pub. L. 104–188, § 1422(b)][/us/pl/104/188/s1422/b], redesignated par. (10) as (11).
+    [Pub. L. 104–188][/us/pl/104/188], § 1422(b), redesignated par. (10) as (11).
 
-    Subsec. (m)(12). [Pub. L. 104–188, § 1433(b)][/us/pl/104/188/s1433/b], redesignated par. (11) as (12).
+    Subsec. (m)(12). [Pub. L. 104–188][/us/pl/104/188], § 1433(b), redesignated par. (11) as (12).
 
-    1994—Subsec. (a)(17)(B). [Pub. L. 103–465, § 732(a)][/us/pl/103/465/s732/a], reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows:
+    1994—Subsec. (a)(17)(B). [Pub. L. 103–465][/us/pl/103/465], § 732(a), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows:
 
     “(i) In general.—If, for any calendar year after 1994, the excess (if any) of—
 
@@ -1985,77 +1985,77 @@
 
     “(ii) Cost-of-living adjustment.—The cost-of-living adjustment for any calendar year shall be the adjustment made under section 415(d) for such calendar year, except that the base period for purposes of section 415(d)(1)(A) shall be the calendar quarter beginning October 1, 1993.”
 
-    Subsec. (a)(32). [Pub. L. 103–465, § 751(a)(9)(C)][/us/pl/103/465/s751/a/9/C], which directed amendment of subsec. (a) by adding par. (32) at end, was executed by adding par. (32) after par. (31) to reflect the probable intent of Congress.
+    Subsec. (a)(32). [Pub. L. 103–465][/us/pl/103/465], § 751(a)(9)(C), which directed amendment of subsec. (a) by adding par. (32) at end, was executed by adding par. (32) after par. (31) to reflect the probable intent of Congress.
 
-    Subsec. (a)(33). [Pub. L. 103–465, § 766(b)][/us/pl/103/465/s766/b], which directed amendment of subsec. (a) by adding par. (33) at end, was executed by adding par. (33) after par. (32) to reflect the probable intent of Congress.
+    Subsec. (a)(33). [Pub. L. 103–465][/us/pl/103/465], § 766(b), which directed amendment of subsec. (a) by adding par. (33) at end, was executed by adding par. (33) after par. (32) to reflect the probable intent of Congress.
 
-    Subsec. (a)(34). [Pub. L. 103–465, § 776(d)][/us/pl/103/465/s776/d], added par. (34).
+    Subsec. (a)(34). [Pub. L. 103–465][/us/pl/103/465], § 776(d), added par. (34).
 
     1993—Subsec. (a)(17). [Pub. L. 103–66][/us/pl/103/66] inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “$150,000” for “$200,000” in first sentence, struck out after first sentence “The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).”, and added subpar. (B).
 
-    1992—Subsec. (a)(20). [Pub. L. 102–318, § 521(b)(5)][/us/pl/102/318/s521/b/5], substituted “1 or more distributions within 1 taxable year to a distributee on account of a termination of the plan of which the trust is a part, or in the case of a profit-sharing or stock bonus plan, a complete discontinuance of contributions under such plan” for “a qualified total distribution described in section 402(a)(5)(E)(i)(I)” and inserted at end “For purposes of this paragraph, rules similar to the rules of section 402(a)(6)(B) (as in effect before its repeal by section 211 of the Unemployment Compensation Amendments of 1992) shall apply.”
+    1992—Subsec. (a)(20). [Pub. L. 102–318][/us/pl/102/318], § 521(b)(5), substituted “1 or more distributions within 1 taxable year to a distributee on account of a termination of the plan of which the trust is a part, or in the case of a profit-sharing or stock bonus plan, a complete discontinuance of contributions under such plan” for “a qualified total distribution described in section 402(a)(5)(E)(i)(I)” and inserted at end “For purposes of this paragraph, rules similar to the rules of section 402(a)(6)(B) (as in effect before its repeal by section 211 of the Unemployment Compensation Amendments of 1992) shall apply.”
 
-    Subsec. (a)(28)(B)(v). [Pub. L. 102–318, § 521(b)(6)][/us/pl/102/318/s521/b/6], amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “Any distribution required by this subparagraph shall not be taken into account in determining whether—
+    Subsec. (a)(28)(B)(v). [Pub. L. 102–318][/us/pl/102/318], § 521(b)(6), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “Any distribution required by this subparagraph shall not be taken into account in determining whether—
 
     “(I) a subsequent distribution is a lump-sum distribution under section 402(e)(4)(A), or
 
     “(II) section 402(a)(5)(D)(iii) applies to a subsequent distribution.”
 
-    Subsec. (a)(31). [Pub. L. 102–318, § 522(a)(1)][/us/pl/102/318/s522/a/1], added par. (31).
+    Subsec. (a)(31). [Pub. L. 102–318][/us/pl/102/318], § 522(a)(1), added par. (31).
 
-    Subsec. (k)(2)(B)(i)(IV). [Pub. L. 102–318, § 521(b)(7)][/us/pl/102/318/s521/b/7], substituted “402(e)(3)” for “402(a)(8)”.
+    Subsec. (k)(2)(B)(i)(IV). [Pub. L. 102–318][/us/pl/102/318], § 521(b)(7), substituted “402(e)(3)” for “402(a)(8)”.
 
-    Subsec. (k)(10)(B)(ii). [Pub. L. 102–318, § 521(b)(8)][/us/pl/102/318/s521/b/8], substituted “402(d)(4)” for “402(e)(4)” and “subparagraph (F)” for “subparagraph (H)”.
+    Subsec. (k)(10)(B)(ii). [Pub. L. 102–318][/us/pl/102/318], § 521(b)(8), substituted “402(d)(4)” for “402(e)(4)” and “subparagraph (F)” for “subparagraph (H)”.
 
     1990—Subsec. (h). [Pub. L. 101–508][/us/pl/101/508], which directed that “section 401(h) is amended by inserting ‘, and subject to the provisions of section 420’ ” without specifying that amendment was to the Internal Revenue Code of 1986, was executed by making the insertion in subsec. (h) of this section. See 1996 Amendment note above.
 
     1989—Subsec. (a)(9)(C). [Pub. L. 101–140][/us/pl/101/140] struck out “(as defined in section 89(i)(4))” after “governmental or church plan” and inserted at end “For purposes of this subparagraph, the term ‘church plan’ means a plan maintained by a church for church employees, and the term ‘church’ means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).”
 
-    Subsec. (a)(28)(B)(ii)(II). [Pub. L. 101–239, § 7811(h)(3)][/us/pl/101/239/s7811/h/3], made technical correction to directory language of [Pub. L. 100–647, § 1011B(j)(1)][/us/pl/100/647/s1011B/j/1], see 1988 Amendment note below.
+    Subsec. (a)(28)(B)(ii)(II). [Pub. L. 101–239][/us/pl/101/239], § 7811(h)(3), made technical correction to directory language of [Pub. L. 100–647][/us/pl/100/647], § 1011B(j)(1), see 1988 Amendment note below.
 
-    Subsec. (a)(29)(A)(i). [Pub. L. 101–239, § 7881(i)(4)(A)][/us/pl/101/239/s7881/i/4/A], substituted “multiemployer plan) to which the requirements of section 412 apply” for “multiemployer plan)”.
+    Subsec. (a)(29)(A)(i). [Pub. L. 101–239][/us/pl/101/239], § 7881(i)(4)(A), substituted “multiemployer plan) to which the requirements of section 412 apply” for “multiemployer plan)”.
 
-    Subsec. (a)(29)(C)(i)(II). [Pub. L. 101–239, § 7881(i)(1)(A)][/us/pl/101/239/s7881/i/1/A], substituted “plan amendment and any other plan amendments adopted after December 22, 1987, and before such plan amendment” for “plan amendment”.
+    Subsec. (a)(29)(C)(i)(II). [Pub. L. 101–239][/us/pl/101/239], § 7881(i)(1)(A), substituted “plan amendment and any other plan amendments adopted after December 22, 1987, and before such plan amendment” for “plan amendment”.
 
-    Subsec. (a)(30). [Pub. L. 101–239, § 7811(g)(1)][/us/pl/101/239/s7811/g/1], moved par. (30) from a position after the undesignated closing par. to a position immediately after par. (29).
+    Subsec. (a)(30). [Pub. L. 101–239][/us/pl/101/239], § 7811(g)(1), moved par. (30) from a position after the undesignated closing par. to a position immediately after par. (29).
 
-    Subsec. (h). [Pub. L. 101–239, § 7311(a)][/us/pl/101/239/s7311/a], inserted at end “In no event shall the requirements of paragraph (1) be treated as met if the aggregate actual contributions for medical benefits, when added to actual contributions for life insurance protection under the plan, exceed 25 percent of the total actual contributions to the plan (other than contributions to fund past service credits) after the date on which the account is established.”
+    Subsec. (h). [Pub. L. 101–239][/us/pl/101/239], § 7311(a), inserted at end “In no event shall the requirements of paragraph (1) be treated as met if the aggregate actual contributions for medical benefits, when added to actual contributions for life insurance protection under the plan, exceed 25 percent of the total actual contributions to the plan (other than contributions to fund past service credits) after the date on which the account is established.”
 
-    Subsec. (k)(4)(B). [Pub. L. 101–239, § 7816][/us/pl/101/239/s7816](l), amended [Pub. L. 100–647, § 6071(b)(2)][/us/pl/100/647/s6071/b/2], see 1988 Amendment note below.
+    Subsec. (k)(4)(B). [Pub. L. 101–239][/us/pl/101/239], § 7816(l), amended [Pub. L. 100–647][/us/pl/100/647], § 6071(b)(2), see 1988 Amendment note below.
 
-    1988—Subsec. (a)(9)(C). [Pub. L. 100–647, § 6053(a)][/us/pl/100/647/s6053/a], inserted at end “In the case of a governmental plan or church plan (as defined in section 89(i)(4)), the required beginning date shall be the later of the date determined under the preceding sentence or April 1 of the calendar year following the calendar year in which the employee retires.”
+    1988—Subsec. (a)(9)(C). [Pub. L. 100–647][/us/pl/100/647], § 6053(a), inserted at end “In the case of a governmental plan or church plan (as defined in section 89(i)(4)), the required beginning date shall be the later of the date determined under the preceding sentence or April 1 of the calendar year following the calendar year in which the employee retires.”
 
-    Subsec. (a)(11)(E), (F). [Pub. L. 100–647, § 1011A][/us/pl/100/647/s1011A](l), redesignated subpar. (E), relating to cross reference, as (F).
+    Subsec. (a)(11)(E), (F). [Pub. L. 100–647][/us/pl/100/647], § 1011A(l), redesignated subpar. (E), relating to cross reference, as (F).
 
-    Subsec. (a)(17). [Pub. L. 100–647, § 1011(d)(4)][/us/pl/100/647/s1011/d/4], inserted at end “In determining the compensation of an employee, the rules of section 414(q)(6) shall apply, except that in applying such rules, the term ‘family’ shall include only the spouse of the employee and any lineal descendants of the employee who have not attained age 19 before the close of the year.”
+    Subsec. (a)(17). [Pub. L. 100–647][/us/pl/100/647], § 1011(d)(4), inserted at end “In determining the compensation of an employee, the rules of section 414(q)(6) shall apply, except that in applying such rules, the term ‘family’ shall include only the spouse of the employee and any lineal descendants of the employee who have not attained age 19 before the close of the year.”
 
-    Subsec. (a)(22). [Pub. L. 100–647, § 1011B(k)(1)][/us/pl/100/647/s1011B/k/1], (2), substituted “is not readily tradable on an established market” for “is not publicly traded” in subpar. (A) and in last sentence, and inserted at end “For purposes of the preceding sentence, subsections (b), (c), (m), and (o) of section 414 shall not apply except for determining whether stock of the employer is not readily tradable on an established market.”
+    Subsec. (a)(22). [Pub. L. 100–647][/us/pl/100/647], § 1011B(k)(1), (2), substituted “is not readily tradable on an established market” for “is not publicly traded” in subpar. (A) and in last sentence, and inserted at end “For purposes of the preceding sentence, subsections (b), (c), (m), and (o) of section 414 shall not apply except for determining whether stock of the employer is not readily tradable on an established market.”
 
-    Subsec. (a)(26)(F), (G). [Pub. L. 100–647, § 1011(h)(3)][/us/pl/100/647/s1011/h/3], added subpars. (F) and (G). Former subpar. (F) redesignated (H).
+    Subsec. (a)(26)(F), (G). [Pub. L. 100–647][/us/pl/100/647], § 1011(h)(3), added subpars. (F) and (G). Former subpar. (F) redesignated (H).
 
-    Subsec. (a)(26)(H). [Pub. L. 100–647, § 6055(a)][/us/pl/100/647/s6055/a], added subpar. (H). Former subpar. (H) redesignated (I).
+    Subsec. (a)(26)(H). [Pub. L. 100–647][/us/pl/100/647], § 6055(a), added subpar. (H). Former subpar. (H) redesignated (I).
 
-    [Pub. L. 100–647, § 1011(h)(3)][/us/pl/100/647/s1011/h/3], redesignated former subpar. (F) as (H).
+    [Pub. L. 100–647][/us/pl/100/647], § 1011(h)(3), redesignated former subpar. (F) as (H).
 
-    Subsec. (a)(26)(I). [Pub. L. 100–647, § 6055(a)][/us/pl/100/647/s6055/a], redesignated former subpar. (H) as (I).
+    Subsec. (a)(26)(I). [Pub. L. 100–647][/us/pl/100/647], § 6055(a), redesignated former subpar. (H) as (I).
 
-    Subsec. (a)(27). [Pub. L. 100–647, § 1011A(j)][/us/pl/100/647/s1011A/j], inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+    Subsec. (a)(27). [Pub. L. 100–647][/us/pl/100/647], § 1011A(j), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-    Subsec. (a)(28)(B)(ii)(II). [Pub. L. 100–647, § 1011B(j)(1)][/us/pl/100/647/s1011B/j/1], as amended by [Pub. L. 101–239, § 7811(h)(3)][/us/pl/101/239/s7811/h/3], inserted “and within 90 days after the period during which the election may be made, the plan invests the portion of the participant’s account covered by the election in accordance with such election” after “clause (i)”.
+    Subsec. (a)(28)(B)(ii)(II). [Pub. L. 100–647][/us/pl/100/647], § 1011B(j)(1), as amended by [Pub. L. 101–239][/us/pl/101/239], § 7811(h)(3), inserted “and within 90 days after the period during which the election may be made, the plan invests the portion of the participant’s account covered by the election in accordance with such election” after “clause (i)”.
 
-    Subsec. (a)(28)(B)(iv). [Pub. L. 100–647, § 1011B(d)(2)][/us/pl/100/647/s1011B/d/2], amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of this subparagraph, the term ‘qualified election period’ means the 5-plan-year period beginning with the plan year after the plan year in which the participant attains age 55 (or, if later, beginning with the plan year after the 1st plan year in which the individual 1st became a qualified participant).”
+    Subsec. (a)(28)(B)(iv). [Pub. L. 100–647][/us/pl/100/647], § 1011B(d)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “For purposes of this subparagraph, the term ‘qualified election period’ means the 5-plan-year period beginning with the plan year after the plan year in which the participant attains age 55 (or, if later, beginning with the plan year after the 1st plan year in which the individual 1st became a qualified participant).”
 
-    Subsec. (a)(28)(B)(v). [Pub. L. 100–647, § 1011B(j)(6)][/us/pl/100/647/s1011B/j/6], added cl. (v).
+    Subsec. (a)(28)(B)(v). [Pub. L. 100–647][/us/pl/100/647], § 1011B(j)(6), added cl. (v).
 
-    Subsec. (a)(30). [Pub. L. 100–647, § 1011(c)(7)(A)][/us/pl/100/647/s1011/c/7/A], added par. (30) at end.
+    Subsec. (a)(30). [Pub. L. 100–647][/us/pl/100/647], § 1011(c)(7)(A), added par. (30) at end.
 
-    Subsec. (k)(1), (2). [Pub. L. 100–647, § 6071(a)][/us/pl/100/647/s6071/a], struck out “electric” after “or a rural”.
+    Subsec. (k)(1), (2). [Pub. L. 100–647][/us/pl/100/647], § 6071(a), struck out “electric” after “or a rural”.
 
-    Subsec. (k)(2)(B). [Pub. L. 100–647, § 1011(k)(2)(A)][/us/pl/100/647/s1011/k/2/A], inserted “amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election” after “under which”.
+    Subsec. (k)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(2)(A), inserted “amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election” after “under which”.
 
-    Subsec. (k)(2)(B)(i). [Pub. L. 100–647, § 1011(k)(2)(B)][/us/pl/100/647/s1011/k/2/B], struck out “amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election” before “may not be”.
+    Subsec. (k)(2)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(2)(B), struck out “amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election” before “may not be”.
 
-    [Pub. L. 100–647, § 1011(k)(1)(A)][/us/pl/100/647/s1011/k/1/A], added subcl. (II), redesignated former subcls. (V) and (VI) as (III) and (IV), respectively, and struck out former subcls. (II) to (IV) which read as follows:
+    [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(1)(A), added subcl. (II), redesignated former subcls. (V) and (VI) as (III) and (IV), respectively, and struck out former subcls. (II) to (IV) which read as follows:
 
     “(II) termination of the plan without establishment of a successor plan,
 
@@ -2063,21 +2063,21 @@
 
     “(IV) the date of the sale by a corporation of such corporation’s interest in a subsidiary (within the meaning of section 409(d)(3)) with respect to an employee who continues employment with such subsidiary,”.
 
-    Subsec. (k)(2)(B)(ii). [Pub. L. 100–647, § 1011(k)(2)(C)][/us/pl/100/647/s1011/k/2/C], struck out “amounts” before “will not be”.
+    Subsec. (k)(2)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(2)(C), struck out “amounts” before “will not be”.
 
-    Subsec. (k)(3)(A). [Pub. L. 100–647, § 1011(k)(3)(B)][/us/pl/100/647/s1011/k/3/B], made technical correction to [Pub. L. 99–514, § 1116(b)(4)][/us/pl/99/514/s1116/b/4]. See 1986 Amendment note below.
+    Subsec. (k)(3)(A). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(3)(B), made technical correction to [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(4). See 1986 Amendment note below.
 
-    Subsec. (k)(3)(A)(ii). [Pub. L. 100–647, § 1011(k)(3)(A)][/us/pl/100/647/s1011/k/3/A], inserted “eligible” before “highly compensated employees” in introductory text, in subcl. (I), and in two places in subcl. (II).
+    Subsec. (k)(3)(A)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(3)(A), inserted “eligible” before “highly compensated employees” in introductory text, in subcl. (I), and in two places in subcl. (II).
 
-    Subsec. (k)(3)(C), (D). [Pub. L. 100–647, § 1011(k)(4)][/us/pl/100/647/s1011/k/4], (5), redesignated subpar. (C), relating to employer contributions, as (D), and substituted “meet” for “meets” in cl. (ii)(I).
+    Subsec. (k)(3)(C), (D). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(4), (5), redesignated subpar. (C), relating to employer contributions, as (D), and substituted “meet” for “meets” in cl. (ii)(I).
 
-    Subsec. (k)(4)(A). [Pub. L. 100–647, § 1011(k)(6)][/us/pl/100/647/s1011/k/6], struck out “provided by such employer” after “any other benefit”.
+    Subsec. (k)(4)(A). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(6), struck out “provided by such employer” after “any other benefit”.
 
-    Subsec. (k)(4)(B). [Pub. L. 100–647, § 6071(b)(2)][/us/pl/100/647/s6071/b/2], as amended by [Pub. L. 101–239, § 7816][/us/pl/101/239/s7816](l), substituted “rural cooperative plan” for “rural electric cooperative plan” in last sentence.
+    Subsec. (k)(4)(B). [Pub. L. 100–647][/us/pl/100/647], § 6071(b)(2), as amended by [Pub. L. 101–239][/us/pl/101/239], § 7816(l), substituted “rural cooperative plan” for “rural electric cooperative plan” in last sentence.
 
-    [Pub. L. 100–647, § 1011(k)(9)][/us/pl/100/647/s1011/k/9], inserted at end “This subparagraph shall not apply to a rural electric cooperative plan.”
+    [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(9), inserted at end “This subparagraph shall not apply to a rural electric cooperative plan.”
 
-    Subsec. (k)(7). [Pub. L. 100–647, § 6071(b)(1)][/us/pl/100/647/s6071/b/1], substituted “Rural cooperative plan” for “Rural electric cooperative plan” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection—
+    Subsec. (k)(7). [Pub. L. 100–647][/us/pl/100/647], § 6071(b)(1), substituted “Rural cooperative plan” for “Rural electric cooperative plan” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subsection—
 
     “(A) In general.—The term ‘rural cooperative plan’ means any pension plan—
 
@@ -2097,45 +2097,45 @@
 
     “(iii) an organization which is a national association of organizations described in clause (i) or (ii).”
 
-    [Pub. L. 100–647, § 1011(e)(3)][/us/pl/100/647/s1011/e/3], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “For purposes of this subsection, the term ‘rural electric cooperative plan’ means any pension plan—
+    [Pub. L. 100–647][/us/pl/100/647], § 1011(e)(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “For purposes of this subsection, the term ‘rural electric cooperative plan’ means any pension plan—
 
     “(A) which is a defined contribution plan (as defined in section 414(i)), and
 
     “(B) which is established and maintained by a rural electric cooperative (as defined in section 457(d)(9)(B)) or a national association of such rural electric cooperatives.”
 
-    Subsec. (k)(8)(E), (F). [Pub. L. 100–647, § 1011(k)(7)][/us/pl/100/647/s1011/k/7], added subpar. (E) and redesignated former subpar. (E) as (F).
+    Subsec. (k)(8)(E), (F). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(7), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    Subsec. (k)(10). [Pub. L. 100–647, § 1011(k)(1)(B)][/us/pl/100/647/s1011/k/1/B], added par. (10).
+    Subsec. (k)(10). [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(1)(B), added par. (10).
 
-    Subsec. (l)(2)(B)(i), (ii). [Pub. L. 100–647, § 1011(g)(1)(A)][/us/pl/100/647/s1011/g/1/A], substituted “contributed by the employer under” for “contributed under”.
+    Subsec. (l)(2)(B)(i), (ii). [Pub. L. 100–647][/us/pl/100/647], § 1011(g)(1)(A), substituted “contributed by the employer under” for “contributed under”.
 
-    Subsec. (l)(3)(A)(ii). [Pub. L. 100–647, § 1011(g)(1)(B)][/us/pl/100/647/s1011/g/1/B], inserted “attributable to employer contributions” after “basis of benefits”.
+    Subsec. (l)(3)(A)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1011(g)(1)(B), inserted “attributable to employer contributions” after “basis of benefits”.
 
-    Subsec. (l)(5)(C). [Pub. L. 100–647, § 1011(g)(2)][/us/pl/100/647/s1011/g/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The term ‘average annual compensation’ means the greater of—
+    Subsec. (l)(5)(C). [Pub. L. 100–647][/us/pl/100/647], § 1011(g)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The term ‘average annual compensation’ means the greater of—
 
     “(i) the participant’s final average compensation (determined without regard to subparagraph (D)(ii)), or
 
     “(ii) the participant’s highest average annual compensation for any other period of at least 3 consecutive years.”
 
-    Subsec. (l)(5)(E). [Pub. L. 100–647, § 1011(g)(3)][/us/pl/100/647/s1011/g/3], substituted “the social security retirement age” for “age 65” in cl. (i) and in two places in cl. (ii), and added cl. (iii).
+    Subsec. (l)(5)(E). [Pub. L. 100–647][/us/pl/100/647], § 1011(g)(3), substituted “the social security retirement age” for “age 65” in cl. (i) and in two places in cl. (ii), and added cl. (iii).
 
-    Subsec. (m)(1). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(1), substituted “A defined contribution plan” for “A plan”.
+    Subsec. (m)(1). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(1), substituted “A defined contribution plan” for “A plan”.
 
-    Subsec. (m)(2)(B). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(3), substituted “contributions to which this subsection applies are made” for “such contributions are made”.
+    Subsec. (m)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(3), substituted “contributions to which this subsection applies are made” for “such contributions are made”.
 
-    Subsec. (m)(3). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(2), inserted at end “If matching contributions are taken into account for purposes of subsection (k)(3)(A)(ii) for any plan year, such contributions shall not be taken into account under subparagraph (A) for such year.”
+    Subsec. (m)(3). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(2), inserted at end “If matching contributions are taken into account for purposes of subsection (k)(3)(A)(ii) for any plan year, such contributions shall not be taken into account under subparagraph (A) for such year.”
 
-    Subsec. (m)(4)(A)(i), (ii). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(4), substituted “a defined contribution plan” for “the plan”.
+    Subsec. (m)(4)(A)(i), (ii). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(4), substituted “a defined contribution plan” for “the plan”.
 
-    Subsec. (m)(4)(B). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(5)(A), substituted “section 402(g)(3)” for “section 402(g)(3)(A)”.
+    Subsec. (m)(4)(B). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(5)(A), substituted “section 402(g)(3)” for “section 402(g)(3)(A)”.
 
-    Subsec. (m)(6)(C). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(6), substituted “excess aggregate contributions” for “excess contributions” in heading.
+    Subsec. (m)(6)(C). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(6), substituted “excess aggregate contributions” for “excess contributions” in heading.
 
-    Subsec. (m)(7)(A). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(7), substituted “paragraph (6)” for “paragraph (8)”.
+    Subsec. (m)(7)(A). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(7), substituted “paragraph (6)” for “paragraph (8)”.
 
     1987—Subsec. (a)(29). [Pub. L. 100–203][/us/pl/100/203] added par. (29).
 
-    1986—Subsec. (a)(4). [Pub. L. 99–514, § 1114(b)(7)][/us/pl/99/514/s1114/b/7], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if the contributions or the benefits provided under the plan do not discriminate in favor of employees who are—
+    1986—Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514], § 1114(b)(7), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “if the contributions or the benefits provided under the plan do not discriminate in favor of employees who are—
 
     “(A) officers,
 
@@ -2145,11 +2145,11 @@
 
     For purposes of this paragraph, there shall be excluded from consideration employees described in section 410(b)(3)(A) and (C).”
 
-    Subsec. (a)(5). [Pub. L. 99–514, § 1111(b)][/us/pl/99/514/s1111/b], amended par. (5) generally. Prior to amendment, par. (5) related to conditions which taken alone would not require a classification to be considered discriminatory and means of determining the basic or regular rate of compensation of an employee and whether two or more plans of an employer satisfy requirements of par. (4) when considered as a single plan.
+    Subsec. (a)(5). [Pub. L. 99–514][/us/pl/99/514], § 1111(b), amended par. (5) generally. Prior to amendment, par. (5) related to conditions which taken alone would not require a classification to be considered discriminatory and means of determining the basic or regular rate of compensation of an employee and whether two or more plans of an employer satisfy requirements of par. (4) when considered as a single plan.
 
-    Subsec. (a)(8). [Pub. L. 99–514, § 1119(a)][/us/pl/99/514/s1119/a], substituted “defined benefit plan” for “pension plan”.
+    Subsec. (a)(8). [Pub. L. 99–514][/us/pl/99/514], § 1119(a), substituted “defined benefit plan” for “pension plan”.
 
-    Subsec. (a)(9)(C). [Pub. L. 99–514, § 1121(b)][/us/pl/99/514/s1121/b], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of this paragraph, the term ‘required beginning date’ means April 1 of the calendar year following the later of—
+    Subsec. (a)(9)(C). [Pub. L. 99–514][/us/pl/99/514], § 1121(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of this paragraph, the term ‘required beginning date’ means April 1 of the calendar year following the later of—
 
     “(i) the calendar year in which the employee attains age 70½, or
 
@@ -2157,287 +2157,287 @@
 
     Clause (ii) shall not apply in the case of an employee who is a 5-percent owner (as defined in section 416(i)(1)(B)) at any time during the 5-plan-year period ending in the calendar year in which the employee attains age 70½. If the employee becomes a 5-percent owner during any subsequent plan year, the required beginning date shall be April 1 of the calendar year following the calendar year in which such subsequent plan year ends.”
 
-    [Pub. L. 99–514, § 1852(a)(4)(A)][/us/pl/99/514/s1852/a/4/A], substituted last 2 sentences for “Except as provided in section 409(d), clause (ii) shall not apply in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains 70½.”
+    [Pub. L. 99–514][/us/pl/99/514], § 1852(a)(4)(A), substituted last 2 sentences for “Except as provided in section 409(d), clause (ii) shall not apply in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains 70½.”
 
-    Subsec. (a)(9)(G). [Pub. L. 99–514, § 1852(a)(6)][/us/pl/99/514/s1852/a/6], added subpar. (G).
+    Subsec. (a)(9)(G). [Pub. L. 99–514][/us/pl/99/514], § 1852(a)(6), added subpar. (G).
 
-    Subsec. (a)(11)(A)(i). [Pub. L. 99–514, § 1898(b)(3)(A)][/us/pl/99/514/s1898/b/3/A], substituted “who does not die before the annuity starting date” for “who retires under the plan”.
+    Subsec. (a)(11)(A)(i). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(3)(A), substituted “who does not die before the annuity starting date” for “who retires under the plan”.
 
-    Subsec. (a)(11)(B). [Pub. L. 99–514, § 1898(b)(2)(A)(ii)][/us/pl/99/514/s1898/b/2/A/ii], inserted at end “Clause (iii)(III) shall apply only with respect to the transferred assets (and income therefrom) if the plan separately accounts for such assets and any income therefrom.”
+    Subsec. (a)(11)(B). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(2)(A)(ii), inserted at end “Clause (iii)(III) shall apply only with respect to the transferred assets (and income therefrom) if the plan separately accounts for such assets and any income therefrom.”
 
-    Subsec. (a)(11)(B)(iii)(I). [Pub. L. 99–514, § 1898(b)(7)(A)][/us/pl/99/514/s1898/b/7/A], inserted “(reduced by any security interest held by the plan by reason of a loan outstanding to such participant)”.
+    Subsec. (a)(11)(B)(iii)(I). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(7)(A), inserted “(reduced by any security interest held by the plan by reason of a loan outstanding to such participant)”.
 
-    [Pub. L. 99–514, § 1898(b)(13)(A)][/us/pl/99/514/s1898/b/13/A], substituted “section 417(a)(2)” for “section 417(a)(2)(A)”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(13)(A), substituted “section 417(a)(2)” for “section 417(a)(2)(A)”.
 
-    Subsec. (a)(11)(B)(iii)(III). [Pub. L. 99–514, § 1898(b)(2)(A)(i)][/us/pl/99/514/s1898/b/2/A/i], inserted “(in a transfer after December 31, 1984)”.
+    Subsec. (a)(11)(B)(iii)(III). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(2)(A)(i), inserted “(in a transfer after December 31, 1984)”.
 
-    Subsec. (a)(11)(D), (E). [Pub. L. 99–514, § 1145(a)][/us/pl/99/514/s1145/a], added subpar. (E) relating to exception for plans described in section 404(c) and redesignated former subpar. (D), relating to cross references, as (E).
+    Subsec. (a)(11)(D), (E). [Pub. L. 99–514][/us/pl/99/514], § 1145(a), added subpar. (E) relating to exception for plans described in section 404(c) and redesignated former subpar. (D), relating to cross references, as (E).
 
-    [Pub. L. 99–514, § 1898(b)(14)(A)][/us/pl/99/514/s1898/b/14/A], added subpar. (D) and redesignated former subpar. (D), relating to cross references, as (E).
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(14)(A), added subpar. (D) and redesignated former subpar. (D), relating to cross references, as (E).
 
-    Subsec. (a)(17). [Pub. L. 99–514, § 1106(d)(1)][/us/pl/99/514/s1106/d/1], added par. (17).
+    Subsec. (a)(17). [Pub. L. 99–514][/us/pl/99/514], § 1106(d)(1), added par. (17).
 
-    Subsec. (a)(20). [Pub. L. 99–514, § 1852(b)(8)][/us/pl/99/514/s1852/b/8], substituted “qualified total distribution described in section 402(a)(5)(E)(i)(I)” for “qualifying rollover distribution (determined as if section 402(a)(5)(D)(i) did not contain subclause (II) thereof) described in section 402(a)(5)(A)(i) or 403(a)(4)(A)(i)”.
+    Subsec. (a)(20). [Pub. L. 99–514][/us/pl/99/514], § 1852(b)(8), substituted “qualified total distribution described in section 402(a)(5)(E)(i)(I)” for “qualifying rollover distribution (determined as if section 402(a)(5)(D)(i) did not contain subclause (II) thereof) described in section 402(a)(5)(A)(i) or 403(a)(4)(A)(i)”.
 
-    Subsec. (a)(21). [Pub. L. 99–514, § 1171(b)(5)][/us/pl/99/514/s1171/b/5], struck out par. (21) which read as follows: “A trust forming part of a tax credit employee stock ownership plan shall not fail to be considered a permanent program merely because employer contributions under the plan are determined solely by reference to the amount of credit which would be allowable under section 41 if the employer made the transfer described in section 41(c)(1)(B)”.
+    Subsec. (a)(21). [Pub. L. 99–514][/us/pl/99/514], § 1171(b)(5), struck out par. (21) which read as follows: “A trust forming part of a tax credit employee stock ownership plan shall not fail to be considered a permanent program merely because employer contributions under the plan are determined solely by reference to the amount of credit which would be allowable under section 41 if the employer made the transfer described in section 41(c)(1)(B)”.
 
-    Subsec. (a)(22). [Pub. L. 99–514, § 1899A(10)][/us/pl/99/514/s1899A/10], substituted “If” for “if”.
+    Subsec. (a)(22). [Pub. L. 99–514][/us/pl/99/514], § 1899A(10), substituted “If” for “if”.
 
-    [Pub. L. 99–514, § 1176(a)][/us/pl/99/514/s1176/a], inserted at end “The requirements of subsection (e) of section 409 shall not apply to any employees of an employer who are participants in any defined contribution plan established and maintained by such employer if the stock of such employer is not publicly traded and the trade or business of such employer consists of publishing on a regular basis a newspaper for general circulation.”
+    [Pub. L. 99–514][/us/pl/99/514], § 1176(a), inserted at end “The requirements of subsection (e) of section 409 shall not apply to any employees of an employer who are participants in any defined contribution plan established and maintained by such employer if the stock of such employer is not publicly traded and the trade or business of such employer consists of publishing on a regular basis a newspaper for general circulation.”
 
-    Subsec. (a)(23). [Pub. L. 99–514, § 1174(c)(2)(A)][/us/pl/99/514/s1174/c/2/A], amended par. (23) generally. Prior to amendment, par. (23) read as follows: “A stock bonus plan which otherwise meets the requirements of this section shall not be considered to fail to meet the requirements of this section because it provides a cash distribution option to participants if that option meets the requirements of section 409(h), except that in applying section 409(h) for purposes of this paragraph, the term ‘employer securities’ shall include any securities of the employer held by the plan.”
+    Subsec. (a)(23). [Pub. L. 99–514][/us/pl/99/514], § 1174(c)(2)(A), amended par. (23) generally. Prior to amendment, par. (23) read as follows: “A stock bonus plan which otherwise meets the requirements of this section shall not be considered to fail to meet the requirements of this section because it provides a cash distribution option to participants if that option meets the requirements of section 409(h), except that in applying section 409(h) for purposes of this paragraph, the term ‘employer securities’ shall include any securities of the employer held by the plan.”
 
-    Subsec. (a)(26). [Pub. L. 99–514, § 1112(b)][/us/pl/99/514/s1112/b], added par. (26).
+    Subsec. (a)(26). [Pub. L. 99–514][/us/pl/99/514], § 1112(b), added par. (26).
 
-    Subsec. (a)(27). [Pub. L. 99–514, § 1136(a)][/us/pl/99/514/s1136/a], added par. (27).
+    Subsec. (a)(27). [Pub. L. 99–514][/us/pl/99/514], § 1136(a), added par. (27).
 
-    Subsec. (a)(28). [Pub. L. 99–514, § 1175(a)(1)][/us/pl/99/514/s1175/a/1], added par. (28).
+    Subsec. (a)(28). [Pub. L. 99–514][/us/pl/99/514], § 1175(a)(1), added par. (28).
 
-    Subsec. (c)(2)(A)(v). [Pub. L. 99–514, § 1848(b)][/us/pl/99/514/s1848/b], substituted “section 404” for “sections 404 and 405(c)”.
+    Subsec. (c)(2)(A)(v). [Pub. L. 99–514][/us/pl/99/514], § 1848(b), substituted “section 404” for “sections 404 and 405(c)”.
 
-    Subsec. (c)(6). [Pub. L. 99–514, § 1143(a)][/us/pl/99/514/s1143/a], added par. (6).
+    Subsec. (c)(6). [Pub. L. 99–514][/us/pl/99/514], § 1143(a), added par. (6).
 
-    Subsec. (h). [Pub. L. 99–514, § 1852(h)(1)][/us/pl/99/514/s1852/h/1], substituted “key employee” for “5-percent owner” in two places in par. (6) and amended last sentence generally, substituting “ ‘key employee’ means any employee, who” for “ ‘5-percent owner’ means any employee who,” and “key employee as defined in section 416(i)” for “5-percent owner (as defined in section 416(i)(1)(B))”.
+    Subsec. (h). [Pub. L. 99–514][/us/pl/99/514], § 1852(h)(1), substituted “key employee” for “5-percent owner” in two places in par. (6) and amended last sentence generally, substituting “ ‘key employee’ means any employee, who” for “ ‘5-percent owner’ means any employee who,” and “key employee as defined in section 416(i)” for “5-percent owner (as defined in section 416(i)(1)(B))”.
 
-    Subsec. (k)(1), (2). [Pub. L. 99–514, § 1879(g)(1)][/us/pl/99/514/s1879/g/1], substituted “, a pre-ERISA money purchase plan, or a rural electric cooperative plan” for “(or a pre-ERISA money purchase plan)”.
+    Subsec. (k)(1), (2). [Pub. L. 99–514][/us/pl/99/514], § 1879(g)(1), substituted “, a pre-ERISA money purchase plan, or a rural electric cooperative plan” for “(or a pre-ERISA money purchase plan)”.
 
-    Subsec. (k)(2)(B). [Pub. L. 99–514, § 1116(b)(1)][/us/pl/99/514/s1116/b/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “under which amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election may not be distributable to participants or other beneficiaries earlier than upon retirement, death, disability, or separation from service (or in the case of a profit sharing or stock bonus plan, hardship or the attainment of age 59½) and will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years; and”.
+    Subsec. (k)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “under which amounts held by the trust which are attributable to employer contributions made pursuant to the employee’s election may not be distributable to participants or other beneficiaries earlier than upon retirement, death, disability, or separation from service (or in the case of a profit sharing or stock bonus plan, hardship or the attainment of age 59½) and will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years; and”.
 
-    Subsec. (k)(2)(C). [Pub. L. 99–514, § 1852(g)(3)][/us/pl/99/514/s1852/g/3], substituted “is nonforfeitable” for “are nonforfeitable”.
+    Subsec. (k)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1852(g)(3), substituted “is nonforfeitable” for “are nonforfeitable”.
 
-    Subsec. (k)(2)(D). [Pub. L. 99–514, § 1116(b)(2)][/us/pl/99/514/s1116/b/2], added subpar. (D).
+    Subsec. (k)(2)(D). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(2), added subpar. (D).
 
-    Subsec. (k)(3). [Pub. L. 99–514, § 1116(d)(3)][/us/pl/99/514/s1116/d/3], which directed that the last sentence of subpar. (B) be struck out was executed by striking out the last sentence of par. (3) as the probable intent of Congress because subpar. (B) is composed of only one sentence. Prior to being stricken, such last sentence read as follows: “For purposes of the preceding sentence, the compensation of any employee for a plan year shall be the amount of his compensation which is taken into account under the plan in calculating the contribution which may be made on his behalf for such plan year.”
+    Subsec. (k)(3). [Pub. L. 99–514][/us/pl/99/514], § 1116(d)(3), which directed that the last sentence of subpar. (B) be struck out was executed by striking out the last sentence of par. (3) as the probable intent of Congress because subpar. (B) is composed of only one sentence. Prior to being stricken, such last sentence read as follows: “For purposes of the preceding sentence, the compensation of any employee for a plan year shall be the amount of his compensation which is taken into account under the plan in calculating the contribution which may be made on his behalf for such plan year.”
 
-    Subsec. (k)(3)(A). [Pub. L. 99–514, § 1116(b)(4)][/us/pl/99/514/s1116/b/4], as amended by [Pub. L. 100–647, § 1011(k)(3)(B)][/us/pl/100/647/s1011/k/3/B], substituted “any highly compensated employee” for “an employee” in concluding provisions.
+    Subsec. (k)(3)(A). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(4), as amended by [Pub. L. 100–647][/us/pl/100/647], § 1011(k)(3)(B), substituted “any highly compensated employee” for “an employee” in concluding provisions.
 
-    [Pub. L. 99–514, § 1852(g)(2)][/us/pl/99/514/s1852/g/2], substituted “If an employee is a participant under 2 or more cash or deferred arrangements of the employer, for purposes of determining the deferral percentage with respect to such employee, all such cash or deferred arrangements shall be treated as 1 cash or deferred arrangement” for “The deferral percentage taken into account under this subparagraph for any employee who is a participant under 2 or more cash or deferred arrangements of the employer shall be the sum of the deferral percentages for such employee under each of such arrangements”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1852(g)(2), substituted “If an employee is a participant under 2 or more cash or deferred arrangements of the employer, for purposes of determining the deferral percentage with respect to such employee, all such cash or deferred arrangements shall be treated as 1 cash or deferred arrangement” for “The deferral percentage taken into account under this subparagraph for any employee who is a participant under 2 or more cash or deferred arrangements of the employer shall be the sum of the deferral percentages for such employee under each of such arrangements”.
 
-    Subsec. (k)(3)(A)(i). [Pub. L. 99–514, § 1112(d)(1)][/us/pl/99/514/s1112/d/1], struck out “subparagraph (A) or (B) of” before “section 410(b)(1)”.
+    Subsec. (k)(3)(A)(i). [Pub. L. 99–514][/us/pl/99/514], § 1112(d)(1), struck out “subparagraph (A) or (B) of” before “section 410(b)(1)”.
 
-    Subsec. (k)(3)(A)(ii). [Pub. L. 99–514, § 1116(c)(2)][/us/pl/99/514/s1116/c/2], substituted “paragraph (5)” for “paragraph (4)”.
+    Subsec. (k)(3)(A)(ii). [Pub. L. 99–514][/us/pl/99/514], § 1116(c)(2), substituted “paragraph (5)” for “paragraph (4)”.
 
-    [Pub. L. 99–514, § 1116(a)][/us/pl/99/514/s1116/a], substituted “1.25” for “1.5” in subcl. (I), and “2 percentage points” for “3 percentage points” and “2” for “2.5” in subcl. (II).
+    [Pub. L. 99–514][/us/pl/99/514], § 1116(a), substituted “1.25” for “1.5” in subcl. (I), and “2 percentage points” for “3 percentage points” and “2” for “2.5” in subcl. (II).
 
-    Subsec. (k)(3)(C). [Pub. L. 99–514, § 1852(g)(1)][/us/pl/99/514/s1852/g/1], added subpar. (C) relating to treatment of cash or deferred arrangements.
+    Subsec. (k)(3)(C). [Pub. L. 99–514][/us/pl/99/514], § 1852(g)(1), added subpar. (C) relating to treatment of cash or deferred arrangements.
 
-    [Pub. L. 99–514, § 1116(e)][/us/pl/99/514/s1116/e], added subpar. (C) relating to employer contributions.
+    [Pub. L. 99–514][/us/pl/99/514], § 1116(e), added subpar. (C) relating to employer contributions.
 
-    Subsec. (k)(4). [Pub. L. 99–514, § 1116(b)(3)][/us/pl/99/514/s1116/b/3], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (k)(4). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(3), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (k)(5). [Pub. L. 99–514, § 1116(b)(3)][/us/pl/99/514/s1116/b/3], (d)(1), redesignated former par. (4) as (5) and substituted “the term ‘highly compensated employee’ has the meaning given such term by section 414(q)” for “the term ‘highly compensated employee’ means any employee who is more highly compensated than two-thirds of all eligible employees, taking into account only compensation which is considered in applying paragraph (3)”. Former par. (5) redesignated (6).
+    Subsec. (k)(5). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(3), (d)(1), redesignated former par. (4) as (5) and substituted “the term ‘highly compensated employee’ has the meaning given such term by section 414(q)” for “the term ‘highly compensated employee’ means any employee who is more highly compensated than two-thirds of all eligible employees, taking into account only compensation which is considered in applying paragraph (3)”. Former par. (5) redesignated (6).
 
-    Subsec. (k)(6). [Pub. L. 99–514, § 1116(b)(3)][/us/pl/99/514/s1116/b/3], redesignated former par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (k)(6). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(3), redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 99–514, § 1879(g)(2)][/us/pl/99/514/s1879/g/2], added par. (6).
+    [Pub. L. 99–514][/us/pl/99/514], § 1879(g)(2), added par. (6).
 
-    Subsec. (k)(7). [Pub. L. 99–514, § 1116(b)(3)][/us/pl/99/514/s1116/b/3], redesignated former par. (6) as (7).
+    Subsec. (k)(7). [Pub. L. 99–514][/us/pl/99/514], § 1116(b)(3), redesignated former par. (6) as (7).
 
-    Subsec. (k)(8). [Pub. L. 99–514, § 1116(c)(1)][/us/pl/99/514/s1116/c/1], added par. (8).
+    Subsec. (k)(8). [Pub. L. 99–514][/us/pl/99/514], § 1116(c)(1), added par. (8).
 
-    Subsec. (k)(9). [Pub. L. 99–514, § 1116(d)(2)][/us/pl/99/514/s1116/d/2], added par. (9).
+    Subsec. (k)(9). [Pub. L. 99–514][/us/pl/99/514], § 1116(d)(2), added par. (9).
 
-    Subsec. (l). [Pub. L. 99–514, § 1111(a)][/us/pl/99/514/s1111/a], amended subsec. (l) generally, substituting provisions relating to permitted disparity in plan contributions or benefits for provisions relating to nondiscriminatory coordination of defined contribution plans with OASDI.
+    Subsec. (l). [Pub. L. 99–514][/us/pl/99/514], § 1111(a), amended subsec. (l) generally, substituting provisions relating to permitted disparity in plan contributions or benefits for provisions relating to nondiscriminatory coordination of defined contribution plans with OASDI.
 
-    Subsec. (m). [Pub. L. 99–514, § 1117(a)][/us/pl/99/514/s1117/a], added subsec. (m) and redesignated former subsec. (m) as (n).
+    Subsec. (m). [Pub. L. 99–514][/us/pl/99/514], § 1117(a), added subsec. (m) and redesignated former subsec. (m) as (n).
 
-    [Pub. L. 99–514, § 1898(c)(3)][/us/pl/99/514/s1898/c/3], added subsec. (m).
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(c)(3), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 99–514, § 1117(a)][/us/pl/99/514/s1117/a], redesignated former subsec. (m) as (n). Former subsec. (n) redesignated (o).
+    Subsec. (n). [Pub. L. 99–514][/us/pl/99/514], § 1117(a), redesignated former subsec. (m) as (n). Former subsec. (n) redesignated (o).
 
-    [Pub. L. 99–514, § 1898(c)(3)][/us/pl/99/514/s1898/c/3], redesignated subsec. (o) as (n).
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(c)(3), redesignated subsec. (o) as (n).
 
-    Subsec. (o). [Pub. L. 99–514, § 1117(a)][/us/pl/99/514/s1117/a], redesignated former subsec. (n) as (o).
+    Subsec. (o). [Pub. L. 99–514][/us/pl/99/514], § 1117(a), redesignated former subsec. (n) as (o).
 
-    [Pub. L. 99–514, § 1898(c)(3)][/us/pl/99/514/s1898/c/3], redesignated subsec. (o) as (n).
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(c)(3), redesignated subsec. (o) as (n).
 
-    1984—Subsec. (a)(9). [Pub. L. 98–369, § 521(a)(1)][/us/pl/98/369/s521/a/1], amended par. (9) generally, redesignating existing provisions as subpar. (A) and in subpar. (A) as so redesignated struck out “In the case of a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of subsection (c)(1)” before “a trust forming part of such plan”, substituted “the plan provides that the entire interest of each employee—” for “, under the plan, the entire interest of each employee—”, redesignated subpars. (A) and (B) as cls. (i) and (ii) respectively, in cl. (i) as so redesignated substituted provisions stating that a qualified plan provides that the entire interest will be distributed to the employee not later than the beginning date for former provisions which provided alternative dates for providing interest, in cl. (ii) as so redesignated substituted alternate distribution dates to be set in accordance with regulations for former provisions stating that a qualified plan shall be distributed not later than the taxable year in which the taxpayer attains age 70½, and struck out the par. following cl. (ii) which provided “A trust shall not be disqualified under this paragraph by reason of distributions under a designation, prior to the date of the enactment of this paragraph, by any employee under the plan of which such trust is a part, of a method of distribution which does not meet the terms of the preceding sentence.”, and added subpars. (B) to (F).
+    1984—Subsec. (a)(9). [Pub. L. 98–369][/us/pl/98/369], § 521(a)(1), amended par. (9) generally, redesignating existing provisions as subpar. (A) and in subpar. (A) as so redesignated struck out “In the case of a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of subsection (c)(1)” before “a trust forming part of such plan”, substituted “the plan provides that the entire interest of each employee—” for “, under the plan, the entire interest of each employee—”, redesignated subpars. (A) and (B) as cls. (i) and (ii) respectively, in cl. (i) as so redesignated substituted provisions stating that a qualified plan provides that the entire interest will be distributed to the employee not later than the beginning date for former provisions which provided alternative dates for providing interest, in cl. (ii) as so redesignated substituted alternate distribution dates to be set in accordance with regulations for former provisions stating that a qualified plan shall be distributed not later than the taxable year in which the taxpayer attains age 70½, and struck out the par. following cl. (ii) which provided “A trust shall not be disqualified under this paragraph by reason of distributions under a designation, prior to the date of the enactment of this paragraph, by any employee under the plan of which such trust is a part, of a method of distribution which does not meet the terms of the preceding sentence.”, and added subpars. (B) to (F).
 
-    [Pub. L. 98–369, § 521(a)(2)][/us/pl/98/369/s521/a/2], repealed amendment made by [Pub. L. 97–248, § 242(a)][/us/pl/97/248/s242/a]. See 1982 Amendment note below.
+    [Pub. L. 98–369][/us/pl/98/369], § 521(a)(2), repealed amendment made by [Pub. L. 97–248][/us/pl/97/248], § 242(a). See 1982 Amendment note below.
 
-    Subsec. (a)(10)(B)(iii). [Pub. L. 98–369, § 524(d)(1)][/us/pl/98/369/s524/d/1], added cl. (iii).
+    Subsec. (a)(10)(B)(iii). [Pub. L. 98–369][/us/pl/98/369], § 524(d)(1), added cl. (iii).
 
-    Subsec. (a)(11). [Pub. L. 98–397, § 203(a)][/us/pl/98/397/s203/a], amended par. (11) generally, inserting provisions relating to preretirement survivor annuities, and substituting present four subpars. for former eight subpars.
+    Subsec. (a)(11). [Pub. L. 98–397][/us/pl/98/397], § 203(a), amended par. (11) generally, inserting provisions relating to preretirement survivor annuities, and substituting present four subpars. for former eight subpars.
 
-    Subsec. (a)(13). [Pub. L. 98–397, § 204(a)][/us/pl/98/397/s204/a], designated existing provisions as subpar. (A), corrected the margin of subpar. (A), and added subpar. (B).
+    Subsec. (a)(13). [Pub. L. 98–397][/us/pl/98/397], § 204(a), designated existing provisions as subpar. (A), corrected the margin of subpar. (A), and added subpar. (B).
 
-    Subsec. (a)(21). [Pub. L. 98–369, § 474(r)(13)][/us/pl/98/369/s474/r/13], substituted provisions relating to the amount of the credit which would be allowable under section 41 if the employer made the transfer described in section 41(c)(1)(B) for former provisions which had related to the amount of credit which would be allowable under section 46(a) if the employer made the transfer described in section 48(n)(1) or under section 44G if the employer made the transfer described in section 44G(c)(1)(B).
+    Subsec. (a)(21). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(13), substituted provisions relating to the amount of the credit which would be allowable under section 41 if the employer made the transfer described in section 41(c)(1)(B) for former provisions which had related to the amount of credit which would be allowable under section 46(a) if the employer made the transfer described in section 48(n)(1) or under section 44G if the employer made the transfer described in section 44G(c)(1)(B).
 
-    Subsec. (a)(22). [Pub. L. 98–369, § 491(e)(4)][/us/pl/98/369/s491/e/4], substituted “section 409” for “section 409A”.
+    Subsec. (a)(22). [Pub. L. 98–369][/us/pl/98/369], § 491(e)(4), substituted “section 409” for “section 409A”.
 
-    Subsec. (a)(23). [Pub. L. 98–369, § 491(e)(5)][/us/pl/98/369/s491/e/5], substituted “section 409(h)” for “section 409A(h)” in two places.
+    Subsec. (a)(23). [Pub. L. 98–369][/us/pl/98/369], § 491(e)(5), substituted “section 409(h)” for “section 409A(h)” in two places.
 
-    Subsec. (a)(24). [Pub. L. 98–369, § 211(b)(5)][/us/pl/98/369/s211/b/5], substituted “section 818(a)(6)” for “section 805(d)(6)”.
+    Subsec. (a)(24). [Pub. L. 98–369][/us/pl/98/369], § 211(b)(5), substituted “section 818(a)(6)” for “section 805(d)(6)”.
 
-    Subsec. (a)(25). [Pub. L. 98–397, § 301(b)][/us/pl/98/397/s301/b], added par. (25).
+    Subsec. (a)(25). [Pub. L. 98–397][/us/pl/98/397], § 301(b), added par. (25).
 
-    Subsec. (e). [Pub. L. 98–369, § 713(d)(3)][/us/pl/98/369/s713/d/3], repealed subsec. (e) which related to contributions for premiums on annuity, etc., contracts.
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 713(d)(3), repealed subsec. (e) which related to contributions for premiums on annuity, etc., contracts.
 
-    Subsec. (f)(2). [Pub. L. 98–369, § 713(c)(2)(A)][/us/pl/98/369/s713/c/2/A], substituted “(as defined in section 408(n))” for “(as defined in subsection (d)(1))”.
+    Subsec. (f)(2). [Pub. L. 98–369][/us/pl/98/369], § 713(c)(2)(A), substituted “(as defined in section 408(n))” for “(as defined in subsection (d)(1))”.
 
-    Subsec. (h)(6). [Pub. L. 98–369, § 528(b)][/us/pl/98/369/s528/b], added par. (6).
+    Subsec. (h)(6). [Pub. L. 98–369][/us/pl/98/369], § 528(b), added par. (6).
 
-    Subsec. (k)(1), (2). [Pub. L. 98–369, § 527(b)(1)][/us/pl/98/369/s527/b/1], inserted “(or a pre-ERISA money purchase plan)”.
+    Subsec. (k)(1), (2). [Pub. L. 98–369][/us/pl/98/369], § 527(b)(1), inserted “(or a pre-ERISA money purchase plan)”.
 
-    Subsec. (k)(2)(B). [Pub. L. 98–369, § 527(b)(3)][/us/pl/98/369/s527/b/3], substituted “(or in the case of a profit sharing or stock bonus plan, hardship or the attainment of age 59½)” for “, hardship or the attainment of age 59½,”.
+    Subsec. (k)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 527(b)(3), substituted “(or in the case of a profit sharing or stock bonus plan, hardship or the attainment of age 59½)” for “, hardship or the attainment of age 59½,”.
 
-    Subsec. (k)(3)(A). [Pub. L. 98–369, § 527(a)][/us/pl/98/369/s527/a], struck out “qualified” before “cash or deferred arrangement”, substituted “shall not be treated as a qualified cash or deferred arrangement unless” for “shall be considered to satisfy the requirements of subsection (a)(4), with respect to the amount of contributions, and of subparagraph (B) of section 410(b)(1) for a plan year if”, designated provisions beginning “those employees” and ending “section 401(b)(1)” as cl. (i) and text following as cl. (ii), redesignated former cls. (i) and (ii) as subcls. (I) and (II) and inserted text following subcl. (II).
+    Subsec. (k)(3)(A). [Pub. L. 98–369][/us/pl/98/369], § 527(a), struck out “qualified” before “cash or deferred arrangement”, substituted “shall not be treated as a qualified cash or deferred arrangement unless” for “shall be considered to satisfy the requirements of subsection (a)(4), with respect to the amount of contributions, and of subparagraph (B) of section 410(b)(1) for a plan year if”, designated provisions beginning “those employees” and ending “section 401(b)(1)” as cl. (i) and text following as cl. (ii), redesignated former cls. (i) and (ii) as subcls. (I) and (II) and inserted text following subcl. (II).
 
-    Subsec. (k)(5). [Pub. L. 98–369, § 527(b)(2)][/us/pl/98/369/s527/b/2], added par. (5).
+    Subsec. (k)(5). [Pub. L. 98–369][/us/pl/98/369], § 527(b)(2), added par. (5).
 
-    1983—Subsec. (a)(21). [Pub. L. 97–448, § 103(g)(2)(A)][/us/pl/97/448/s103/g/2/A], designated part of existing provisions as subpar. (A) and added subpar. (B).
+    1983—Subsec. (a)(21). [Pub. L. 97–448][/us/pl/97/448], § 103(g)(2)(A), designated part of existing provisions as subpar. (A) and added subpar. (B).
 
     Subsec. (c)(2)(A)(vi). [Pub. L. 98–21][/us/pl/98/21] added cl. (vi).
 
-    Subsec. (d)(2). [Pub. L. 97–448, § 306(a)(12)][/us/pl/97/448/s306/a/12], substituted “paragraph (1)(B)” for “paragraph (9)(B)”.
+    Subsec. (d)(2). [Pub. L. 97–448][/us/pl/97/448], § 306(a)(12), substituted “paragraph (1)(B)” for “paragraph (9)(B)”.
 
-    Subsec. (d)(5). [Pub. L. 97–448, § 103(c)(10)(A)][/us/pl/97/448/s103/c/10/A], substituted “Subparagraphs (A) and (B) shall not apply to contributions described in subsection (e), and shall not apply to any deductible employee contribution (as defined in section 72(o)(5))” for “Subparagraphs (A) and (B) do not apply to contributions described in subsection (e)” in second sentence.
+    Subsec. (d)(5). [Pub. L. 97–448][/us/pl/97/448], § 103(c)(10)(A), substituted “Subparagraphs (A) and (B) shall not apply to contributions described in subsection (e), and shall not apply to any deductible employee contribution (as defined in section 72(o)(5))” for “Subparagraphs (A) and (B) do not apply to contributions described in subsection (e)” in second sentence.
 
-    Subsec. (j)(3). [Pub. L. 97–448, § 103(d)(2)][/us/pl/97/448/s103/d/2], substituted “under subparagraph (A) of paragraph (2) shall be treated as beginning a new period of plan participation with respect only to such change” for “under subparagraph (A) of subsection (j)(2) shall be treated as beginning a new period of plan participation” in last sentence.
+    Subsec. (j)(3). [Pub. L. 97–448][/us/pl/97/448], § 103(d)(2), substituted “under subparagraph (A) of paragraph (2) shall be treated as beginning a new period of plan participation with respect only to such change” for “under subparagraph (A) of subsection (j)(2) shall be treated as beginning a new period of plan participation” in last sentence.
 
-    1982—Subsec. (a)(9). [Pub. L. 97–248, § 242(a)][/us/pl/97/248/s242/a], which was repealed by [Pub. L. 98–369, § 521(a)(2)][/us/pl/98/369/s521/a/2], had amended par. (9) generally, redesignating existing provisions as subpar. (A), in subpar. (A), as so redesignated, struck out preliminary provision which limited the application of this paragraph to plans providing contributions or benefits for employees some or all of whom were employees within the meaning of subsec. (c)(1), redesignated former subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), in cl. (i), as so redesignated, substituted reference to a key employee who is a participant in a top-heavy plan for former reference to owner-employees (within the meaning of subsec. (c)(3)), redesignated former cls. (i) and (ii) of subpar. (B) as subcls. (I) and (II) of cl. (ii), struck out former provision that a trust would not be disqualified under this paragraph by reason of distributions under a designation, prior to the date of the enactment of this paragraph, by any employee under the plan of which such trust was a part, of a method of distribution which did not meet the terms of this paragraph, and adding subpar. (B).
+    1982—Subsec. (a)(9). [Pub. L. 97–248][/us/pl/97/248], § 242(a), which was repealed by [Pub. L. 98–369][/us/pl/98/369], § 521(a)(2), had amended par. (9) generally, redesignating existing provisions as subpar. (A), in subpar. (A), as so redesignated, struck out preliminary provision which limited the application of this paragraph to plans providing contributions or benefits for employees some or all of whom were employees within the meaning of subsec. (c)(1), redesignated former subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), in cl. (i), as so redesignated, substituted reference to a key employee who is a participant in a top-heavy plan for former reference to owner-employees (within the meaning of subsec. (c)(3)), redesignated former cls. (i) and (ii) of subpar. (B) as subcls. (I) and (II) of cl. (ii), struck out former provision that a trust would not be disqualified under this paragraph by reason of distributions under a designation, prior to the date of the enactment of this paragraph, by any employee under the plan of which such trust was a part, of a method of distribution which did not meet the terms of this paragraph, and adding subpar. (B).
 
-    Subsec. (a)(10). [Pub. L. 97–248, § 237(e)(1)][/us/pl/97/248/s237/e/1], amended par. (10) generally, redesignating subpar. (B) as (A) and striking out former subpar. (A) relating to qualified trust as a trust forming part of such plan, for provisions relating to discriminatory plans with respect to nonapplicability of paragraph (3), the first and second sentences of paragraph (5) and [section 410 of this title][/us/usc/t26/s410].
+    Subsec. (a)(10). [Pub. L. 97–248][/us/pl/97/248], § 237(e)(1), amended par. (10) generally, redesignating subpar. (B) as (A) and striking out former subpar. (A) relating to qualified trust as a trust forming part of such plan, for provisions relating to discriminatory plans with respect to nonapplicability of paragraph (3), the first and second sentences of paragraph (5) and [section 410 of this title][/us/usc/t26/s410].
 
-    Subsec. (a)(10)(B). [Pub. L. 97–248, § 240(b)][/us/pl/97/248/s240/b], added subpar. (B).
+    Subsec. (a)(10)(B). [Pub. L. 97–248][/us/pl/97/248], § 240(b), added subpar. (B).
 
-    Subsec. (a)(17), (18). [Pub. L. 97–248, § 237(b)][/us/pl/97/248/s237/b], struck out pars. (17) and (18) which related, respectively, to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of subsection (c)(1), or are shareholder-employees within the meaning of section 1379(d), and a trust which is part of a plan providing a defined benefit for employees some or all of whom are employees within the meaning of subsection (c)(1), or are shareholder-employees within the meaning of section 1379(d).
+    Subsec. (a)(17), (18). [Pub. L. 97–248][/us/pl/97/248], § 237(b), struck out pars. (17) and (18) which related, respectively, to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of subsection (c)(1), or are shareholder-employees within the meaning of section 1379(d), and a trust which is part of a plan providing a defined benefit for employees some or all of whom are employees within the meaning of subsection (c)(1), or are shareholder-employees within the meaning of section 1379(d).
 
     Subsec. (a)(24). [Pub. L. 97–248][/us/pl/97/248] added par. (24).
 
-    Subsec. (c)(1). [Pub. L. 97–248, § 238(d)(1)][/us/pl/97/248/s238/d/1], amended par. (1) generally, substituting in heading “Self-employed individual treated as employee” for “Employee”, adding subparagraph headings, and substituting provisions defining “employee” and “self-employed individual”, for provisions defining “employee”.
+    Subsec. (c)(1). [Pub. L. 97–248][/us/pl/97/248], § 238(d)(1), amended par. (1) generally, substituting in heading “Self-employed individual treated as employee” for “Employee”, adding subparagraph headings, and substituting provisions defining “employee” and “self-employed individual”, for provisions defining “employee”.
 
-    Subsec. (c)(2)(A). [Pub. L. 97–248, § 238(d)(2)][/us/pl/97/248/s238/d/2], added cl. (v).
+    Subsec. (c)(2)(A). [Pub. L. 97–248][/us/pl/97/248], § 238(d)(2), added cl. (v).
 
-    Subsec. (d). [Pub. L. 97–248, § 237(a)][/us/pl/97/248/s237/a], redesignated pars. (9) to (11) as (1) to (3), respectively. Former pars. (1) to (7), which related to trusts created or organized before or after October 10, 1962, contributions under the plan, benefits under the plan for employees, contributions or benefits under the plan, limitations pursuant to the plan, applicability of requirements of subsec. (a)(4) of this section, and distributions under the plan, respectively, were struck out.
+    Subsec. (d). [Pub. L. 97–248][/us/pl/97/248], § 237(a), redesignated pars. (9) to (11) as (1) to (3), respectively. Former pars. (1) to (7), which related to trusts created or organized before or after October 10, 1962, contributions under the plan, benefits under the plan for employees, contributions or benefits under the plan, limitations pursuant to the plan, applicability of requirements of subsec. (a)(4) of this section, and distributions under the plan, respectively, were struck out.
 
-    Subsec. (j). [Pub. L. 97–248, § 238(b)][/us/pl/97/248/s238/b], struck out subsec. (j) which related to general requirements, regulation guidelines, applicable percentage, certain contributions and benefits not taken into account, definitions, and special rules with respect to defined benefit plans providing benefits for self-employed individuals and shareholder-employees.
+    Subsec. (j). [Pub. L. 97–248][/us/pl/97/248], § 238(b), struck out subsec. (j) which related to general requirements, regulation guidelines, applicable percentage, certain contributions and benefits not taken into account, definitions, and special rules with respect to defined benefit plans providing benefits for self-employed individuals and shareholder-employees.
 
-    Subsecs. (l), (o). [Pub. L. 97–248, § 249(a)][/us/pl/97/248/s249/a], added subsec. (l) and redesignated former subsec. (l) as (o).
+    Subsecs. (l), (o). [Pub. L. 97–248][/us/pl/97/248], § 249(a), added subsec. (l) and redesignated former subsec. (l) as (o).
 
-    1981—Subsec. (a)(17). [Pub. L. 97–34, § 312(b)(1)][/us/pl/97/34/s312/b/1], designated provision relating to the annual compensation of each employee as subpar. (A), and in subpar. (A) as so designated, substituted “$200,000” for “$100,000”, and added subpar. (B).
+    1981—Subsec. (a)(17). [Pub. L. 97–34][/us/pl/97/34], § 312(b)(1), designated provision relating to the annual compensation of each employee as subpar. (A), and in subpar. (A) as so designated, substituted “$200,000” for “$100,000”, and added subpar. (B).
 
-    Subsec. (a)(22). [Pub. L. 97–34, § 338(a)][/us/pl/97/34/s338/a], inserted “(other than a profit-sharing plan)” and substituted “if” for “If” and “such plan” for “said plan”.
+    Subsec. (a)(22). [Pub. L. 97–34][/us/pl/97/34], § 338(a), inserted “(other than a profit-sharing plan)” and substituted “if” for “If” and “such plan” for “said plan”.
 
-    Subsec. (a)(23). [Pub. L. 97–34, § 335][/us/pl/97/34/s335], substituted “409A(h), except that in applying section 409A(h) for purposes of this paragraph, the term ‘employer securities’ shall include any securities of the employer held by the plan” for “409A(h)(2)”.
+    Subsec. (a)(23). [Pub. L. 97–34][/us/pl/97/34], § 335, substituted “409A(h), except that in applying section 409A(h) for purposes of this paragraph, the term ‘employer securities’ shall include any securities of the employer held by the plan” for “409A(h)(2)”.
 
-    Subsec. (d)(4). [Pub. L. 97–34, § 312(e)(2)][/us/pl/97/34/s312/e/2], inserted provision making subpar. (B) inapplicable to any distribution to which section 72(m)(9) applies.
+    Subsec. (d)(4). [Pub. L. 97–34][/us/pl/97/34], § 312(e)(2), inserted provision making subpar. (B) inapplicable to any distribution to which section 72(m)(9) applies.
 
-    Subsec. (d)(5). [Pub. L. 97–34, § 314(a)(1)][/us/pl/97/34/s314/a/1], inserted provision making subpar. (C) inapplicable to a distribution on account of the termination of the plan.
+    Subsec. (d)(5). [Pub. L. 97–34][/us/pl/97/34], § 314(a)(1), inserted provision making subpar. (C) inapplicable to a distribution on account of the termination of the plan.
 
-    Subsec. (e). [Pub. L. 97–34, § 312(c)(2)][/us/pl/97/34/s312/c/2], substituted “for such taxable year exceeds $15,000” for “for all such years exceeds $7,500”.
+    Subsec. (e). [Pub. L. 97–34][/us/pl/97/34], § 312(c)(2), substituted “for such taxable year exceeds $15,000” for “for all such years exceeds $7,500”.
 
-    Subsec. (j). [Pub. L. 97–34, § 312(c)(3)][/us/pl/97/34/s312/c/3], (4), substituted in par. (2)(A) “$100,000” for “$50,000” and in par. (3) inserted provision that for purposes of this paragraph, a change in the annual compensation taken into account under subpar. (A) of subsec. (j)(2) be treated as beginning a new period of plan participation.
+    Subsec. (j). [Pub. L. 97–34][/us/pl/97/34], § 312(c)(3), (4), substituted in par. (2)(A) “$100,000” for “$50,000” and in par. (3) inserted provision that for purposes of this paragraph, a change in the annual compensation taken into account under subpar. (A) of subsec. (j)(2) be treated as beginning a new period of plan participation.
 
     1980—Subsec. (a)(2). [Pub. L. 96–364][/us/pl/96/364], §§ 208(e), 410(b), inserted provisions relating to applicability to multiemployer plans and return of contributions made by a mistake of law or fact, or return of withdrawal liability payment.
 
-    Subsec. (a)(4). [Pub. L. 96–605, § 225(b)(1)][/us/pl/96/605/s225/b/1], substituted “section 410(b)(3)(A)” for “section 410(b)(2)(A)”.
+    Subsec. (a)(4). [Pub. L. 96–605][/us/pl/96/605], § 225(b)(1), substituted “section 410(b)(3)(A)” for “section 410(b)(2)(A)”.
 
-    Subsec. (a)(12). [Pub. L. 96–364, § 208(a)][/us/pl/96/364/s208/a], substituted provisions relating to applicability to multiemployer plans subject to title IV of the Employee Retirement Income Security Act of 1974 of provisions of preceding sentence, for provisions relating to applicability of paragraph to multiemployer plans to extent determined by Corporation.
+    Subsec. (a)(12). [Pub. L. 96–364][/us/pl/96/364], § 208(a), substituted provisions relating to applicability to multiemployer plans subject to title IV of the Employee Retirement Income Security Act of 1974 of provisions of preceding sentence, for provisions relating to applicability of paragraph to multiemployer plans to extent determined by Corporation.
 
-    Subsec. (a)(20). [Pub. L. 96–222, § 101(a)(14)(E)(iii)][/us/pl/96/222/s101/a/14/E/iii], substituted “makes a qualifying rollover distribution (determined as if section 402(a)(5)(D)(i) did not contain subclause (II) thereof) described in section 402(a)(5)(A)(i) or 403(a)(4)(A)(i)” for “makes a payment or distribution described in section 402(a)(5)(i) or 403(a)(4)(i)”.
+    Subsec. (a)(20). [Pub. L. 96–222][/us/pl/96/222], § 101(a)(14)(E)(iii), substituted “makes a qualifying rollover distribution (determined as if section 402(a)(5)(D)(i) did not contain subclause (II) thereof) described in section 402(a)(5)(A)(i) or 403(a)(4)(A)(i)” for “makes a payment or distribution described in section 402(a)(5)(i) or 403(a)(4)(i)”.
 
-    Subsec. (a)(21). [Pub. L. 96–222, § 101(a)(7)(L)(i)(V)][/us/pl/96/222/s101/a/7/L/i/V], substituted “a tax credit employee stock ownership plan” for “an ESOP”.
+    Subsec. (a)(21). [Pub. L. 96–222][/us/pl/96/222], § 101(a)(7)(L)(i)(V), substituted “a tax credit employee stock ownership plan” for “an ESOP”.
 
-    Subsec. (a)(22)(B). [Pub. L. 96–222, § 101(a)(9)][/us/pl/96/222/s101/a/9], substituted “are securities” for “as securities”.
+    Subsec. (a)(22)(B). [Pub. L. 96–222][/us/pl/96/222], § 101(a)(9), substituted “are securities” for “as securities”.
 
-    Subsec. (a)(23). [Pub. L. 96–605, § 221(a)][/us/pl/96/605/s221/a], added par. (23).
+    Subsec. (a)(23). [Pub. L. 96–605][/us/pl/96/605], § 221(a), added par. (23).
 
-    Subsec. (d)(3)(B). [Pub. L. 96–605, § 225(b)(2)][/us/pl/96/605/s225/b/2], substituted in cl. (i) “section 410(b)(3)(A)” for “section 410(b)(2)(A)” and in cl. (ii) “section 410(b)(3)(C)” for “section 410(b)(2)(C)”.
+    Subsec. (d)(3)(B). [Pub. L. 96–605][/us/pl/96/605], § 225(b)(2), substituted in cl. (i) “section 410(b)(3)(A)” for “section 410(b)(2)(A)” and in cl. (ii) “section 410(b)(3)(C)” for “section 410(b)(2)(C)”.
 
-    1978—Subsec. (a)(5). [Pub. L. 95–600, § 152(e)][/us/pl/95/600/s152/e], inserted provision that for purposes of determining whether one or more plans of the employer satisfy the requirements of section 410(b)(4), an employer may take into account all simplified employee pensions to which only the employer contributes.
+    1978—Subsec. (a)(5). [Pub. L. 95–600][/us/pl/95/600], § 152(e), inserted provision that for purposes of determining whether one or more plans of the employer satisfy the requirements of section 410(b)(4), an employer may take into account all simplified employee pensions to which only the employer contributes.
 
-    Subsec. (a)(21). [Pub. L. 95–600, § 141(f)(3)][/us/pl/95/600/s141/f/3], substituted “ESOP” for “employee stock option plan which satisfies the requirements of section 301(d) of the Tax Reduction Act of 1975” and “section 48(n)(1)” for “subsection (d)(6) or (e)(3) of section 301 of the Tax Reduction Act of 1975”.
+    Subsec. (a)(21). [Pub. L. 95–600][/us/pl/95/600], § 141(f)(3), substituted “ESOP” for “employee stock option plan which satisfies the requirements of section 301(d) of the Tax Reduction Act of 1975” and “section 48(n)(1)” for “subsection (d)(6) or (e)(3) of section 301 of the Tax Reduction Act of 1975”.
 
-    Subsec. (a)(22). [Pub. L. 95–600, § 143(a)][/us/pl/95/600/s143/a], added par. (22).
+    Subsec. (a)(22). [Pub. L. 95–600][/us/pl/95/600], § 143(a), added par. (22).
 
-    Subsecs. (k), (l). [Pub. L. 95–600, § 135(a)][/us/pl/95/600/s135/a], added subsec. (k) and redesignated former subsec. (k) as (l).
+    Subsecs. (k), (l). [Pub. L. 95–600][/us/pl/95/600], § 135(a), added subsec. (k) and redesignated former subsec. (k) as (l).
 
-    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 803(b)(2), 1901(a)(56), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in pars. (5), (11), and (14), substituted references to Sept. 2, 1974, for references to the enactment of the Employee Retirement Income Security Act of 1974 in pars. (12), (13), (15), and (19), added par. (21), and inserted reference to par. (20) in provisions following par. (21), such addition of reference to par. (20) duplicating amendment by [Pub. L. 94–267, § 1(c)(2)][/us/pl/94/267/s1/c/2].
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 803(b)(2), 1901(a)(56), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in pars. (5), (11), and (14), substituted references to Sept. 2, 1974, for references to the enactment of the Employee Retirement Income Security Act of 1974 in pars. (12), (13), (15), and (19), added par. (21), and inserted reference to par. (20) in provisions following par. (21), such addition of reference to par. (20) duplicating amendment by [Pub. L. 94–267][/us/pl/94/267], § 1(c)(2).
 
-    [Pub. L. 94–267, § 1(c)(2)][/us/pl/94/267/s1/c/2], substituted “(19), and (20)” for “and (19)”.
+    [Pub. L. 94–267][/us/pl/94/267], § 1(c)(2), substituted “(19), and (20)” for “and (19)”.
 
-    Subsec. (a)(20). [Pub. L. 94–267, § 1(c)(1)][/us/pl/94/267/s1/c/1], added par. (20).
+    Subsec. (a)(20). [Pub. L. 94–267][/us/pl/94/267], § 1(c)(1), added par. (20).
 
-    Subsecs. (b), (c), (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (b), (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (f). [Pub. L. 94–455, § 1505(b)][/us/pl/94/455/s1505/b], inserted reference to contracts (other than life, health, or accident, property, casualty, or liability insurance contracts) issued by an insurance company qualified to do a business in a State and struck out “or his delegate” after “Secretary”.
+    Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], § 1505(b), inserted reference to contracts (other than life, health, or accident, property, casualty, or liability insurance contracts) issued by an insurance company qualified to do a business in a State and struck out “or his delegate” after “Secretary”.
 
-    Subsecs. (h), (i), (j). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (h), (i), (j). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    1974—Subsec. (a). [Pub. L. 93–406, § 1021(a)(2)][/us/pl/93/406/s1021/a/2], inserted provision that paragraphs (11), (12), (13), (14), (15), and (19) shall apply only in the case of a plan to which section 411 (relating to minimum vesting standards) applies without regard to subsection (e)(2) of this section.
+    1974—Subsec. (a). [Pub. L. 93–406][/us/pl/93/406], § 1021(a)(2), inserted provision that paragraphs (11), (12), (13), (14), (15), and (19) shall apply only in the case of a plan to which section 411 (relating to minimum vesting standards) applies without regard to subsection (e)(2) of this section.
 
-    Subsec. (a)(3). [Pub. L. 93–406, § 1016(a)(2)(A)][/us/pl/93/406/s1016/a/2/A], substituted provisions referring simply to a plan of which the trust is a part and the satisfaction by that plan of the requirements of section 410 (relating to minimum participation standards) for provisions referring to a trust, trusts, or trust or trusts and annuity plan or plans designated by the employer as constituting parts of a plan intended to qualify under subsec. (a) and spelling out the requisite coverage of the plan.
+    Subsec. (a)(3). [Pub. L. 93–406][/us/pl/93/406], § 1016(a)(2)(A), substituted provisions referring simply to a plan of which the trust is a part and the satisfaction by that plan of the requirements of section 410 (relating to minimum participation standards) for provisions referring to a trust, trusts, or trust or trusts and annuity plan or plans designated by the employer as constituting parts of a plan intended to qualify under subsec. (a) and spelling out the requisite coverage of the plan.
 
-    Subsec. (a)(4). [Pub. L. 93–406, § 1022(a)][/us/pl/93/406/s1022/a], struck out provisions referring to persons whose principal duties consist in supervising the work of other employees and inserted provisions directing the exclusion from consideration of employees described in section 410(b)(2) (A) and (C).
+    Subsec. (a)(4). [Pub. L. 93–406][/us/pl/93/406], § 1022(a), struck out provisions referring to persons whose principal duties consist in supervising the work of other employees and inserted provisions directing the exclusion from consideration of employees described in section 410(b)(2) (A) and (C).
 
     Subsec. (a)(5). [Pub. L. 93–406][/us/pl/93/406], §§ 1012(b), 1016(a)(2)(B), inserted provisions covering the determination of whether two or more plans of an employer satisfy the requirements of par. (4) when considered as a single plan and substituted “shall not be considered discriminatory within the meaning of paragraph (4) of section 410(b) (without regard to paragraph (1)(A) thereof)” for “shall not be considered discriminatory within the meaning of paragraph (3)(B) or (4)”.
 
-    Subsec. (a)(7). [Pub. L. 93–406, § 1016(a)(2)(C)][/us/pl/93/406/s1016/a/2/C], substituted provisions referring simply to the satisfaction by the plan of which a trust is a part of the requirements of section 411 (relating to minimum vesting standards) for provisions spelling out in detail the conditions which the plan had to satisfy in order that the trust forming part of that plan constitute a qualified trust under this section.
+    Subsec. (a)(7). [Pub. L. 93–406][/us/pl/93/406], § 1016(a)(2)(C), substituted provisions referring simply to the satisfaction by the plan of which a trust is a part of the requirements of section 411 (relating to minimum vesting standards) for provisions spelling out in detail the conditions which the plan had to satisfy in order that the trust forming part of that plan constitute a qualified trust under this section.
 
     Subsec. (a)(10)(A). [Pub. L. 93–406][/us/pl/93/406], §§ 1022(b)(1), 2001(e)(4), inserted reference to section 410 in provisions preceding cl. (i) and substituted “subsection (e)” for “subsection (e)(3)(A)” in cl. (ii).
 
-    Subsec. (a)(11). [Pub. L. 93–406, § 1021(a)(1)][/us/pl/93/406/s1021/a/1], added par. (11).
+    Subsec. (a)(11). [Pub. L. 93–406][/us/pl/93/406], § 1021(a)(1), added par. (11).
 
-    Subsec. (a)(12). [Pub. L. 93–406, § 1021(b)][/us/pl/93/406/s1021/b], added par. (12).
+    Subsec. (a)(12). [Pub. L. 93–406][/us/pl/93/406], § 1021(b), added par. (12).
 
-    Subsec. (a)(13). [Pub. L. 93–406, § 1021(c)][/us/pl/93/406/s1021/c], added par. (13).
+    Subsec. (a)(13). [Pub. L. 93–406][/us/pl/93/406], § 1021(c), added par. (13).
 
-    Subsec. (a)(14). [Pub. L. 93–406, § 1021(d)][/us/pl/93/406/s1021/d], added par. (14).
+    Subsec. (a)(14). [Pub. L. 93–406][/us/pl/93/406], § 1021(d), added par. (14).
 
-    Subsec. (a)(15). [Pub. L. 93–406, § 1021(e)][/us/pl/93/406/s1021/e], added par. (15).
+    Subsec. (a)(15). [Pub. L. 93–406][/us/pl/93/406], § 1021(e), added par. (15).
 
-    Subsec. (a)(16). [Pub. L. 93–406, § 2004(a)(1)][/us/pl/93/406/s2004/a/1], added par. (16).
+    Subsec. (a)(16). [Pub. L. 93–406][/us/pl/93/406], § 2004(a)(1), added par. (16).
 
-    Subsec. (a)(17). [Pub. L. 93–406, § 2001(c)][/us/pl/93/406/s2001/c], added par. (17).
+    Subsec. (a)(17). [Pub. L. 93–406][/us/pl/93/406], § 2001(c), added par. (17).
 
-    Subsec. (a)(18). [Pub. L. 93–406, § 2001(d)(1)][/us/pl/93/406/s2001/d/1], added par. (18).
+    Subsec. (a)(18). [Pub. L. 93–406][/us/pl/93/406], § 2001(d)(1), added par. (18).
 
-    Subsec. (a)(19). [Pub. L. 93–406, § 1021(f)][/us/pl/93/406/s1021/f], added par. (19).
+    Subsec. (a)(19). [Pub. L. 93–406][/us/pl/93/406], § 1021(f), added par. (19).
 
-    Subsec. (b). [Pub. L. 93–406, § 1023][/us/pl/93/406/s1023], substituted reference to the requirements of subsection (a) for the period beginning with the date on which a stock bonus, pension, profit-sharing, or annuity plan was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary or his delegate may designate for reference to the requirements of paragraphs (3), (4), (5), and (6) of subsection (a) for the period beginning with the date on which a stock bonus, pension, profit-sharing, or annuity plan was put into effect and ending with the 15th day of the third month following the close of the taxable year of the employer in which the plan was put in effect.
+    Subsec. (b). [Pub. L. 93–406][/us/pl/93/406], § 1023, substituted reference to the requirements of subsection (a) for the period beginning with the date on which a stock bonus, pension, profit-sharing, or annuity plan was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary or his delegate may designate for reference to the requirements of paragraphs (3), (4), (5), and (6) of subsection (a) for the period beginning with the date on which a stock bonus, pension, profit-sharing, or annuity plan was put into effect and ending with the 15th day of the third month following the close of the taxable year of the employer in which the plan was put in effect.
 
-    Subsec. (d)(1). [Pub. L. 93–406, § 1022(c)][/us/pl/93/406/s1022/c], (f), substituted “October 10, 1962” for “the date of the enactment of this subsection” and “assets thereof are held by a bank or other person who demonstrates to the satisfaction of the Secretary or his delegate that the manner in which he will administer the trust will be consistent with the requirements of this section. A trust shall not be disqualified under this paragraph merely because a person (including the employer) other than the trustee or custodian so administering the trust” for “trustee is a bank, but a person (including the employer) other than a bank” and inserted reference to an insured credit union (within the meaning of section 101(6) of the Federal Credit Union Act) in definition of “bank”.
+    Subsec. (d)(1). [Pub. L. 93–406][/us/pl/93/406], § 1022(c), (f), substituted “October 10, 1962” for “the date of the enactment of this subsection” and “assets thereof are held by a bank or other person who demonstrates to the satisfaction of the Secretary or his delegate that the manner in which he will administer the trust will be consistent with the requirements of this section. A trust shall not be disqualified under this paragraph merely because a person (including the employer) other than the trustee or custodian so administering the trust” for “trustee is a bank, but a person (including the employer) other than a bank” and inserted reference to an insured credit union (within the meaning of section 101(6) of the Federal Credit Union Act) in definition of “bank”.
 
-    Subsec. (d)(3). [Pub. L. 93–406, § 1022(b)(2)][/us/pl/93/406/s1022/b/2], inserted reference to the section 410(a)(3) definition of “years of service” and substituted reference to employees included in a unit of employees covered by a collective-bargaining agreement described in section 410(b)(2)(A) and employees who are nonresident aliens described in section 410(b)(2)(C) for reference to employees whose customary employment was for not more than 20 hours in any one week or was for not more than 5 months in any calendar year.
+    Subsec. (d)(3). [Pub. L. 93–406][/us/pl/93/406], § 1022(b)(2), inserted reference to the section 410(a)(3) definition of “years of service” and substituted reference to employees included in a unit of employees covered by a collective-bargaining agreement described in section 410(b)(2)(A) and employees who are nonresident aliens described in section 410(b)(2)(C) for reference to employees whose customary employment was for not more than 20 hours in any one week or was for not more than 5 months in any calendar year.
 
-    Subsec. (d)(4)(B). [Pub. L. 93–406, § 2001(h)(1)][/us/pl/93/406/s2001/h/1], inserted “in excess of contributions made by an owner-employee as an employee” after “benefits”.
+    Subsec. (d)(4)(B). [Pub. L. 93–406][/us/pl/93/406], § 2001(h)(1), inserted “in excess of contributions made by an owner-employee as an employee” after “benefits”.
 
-    Subsec. (d)(5). [Pub. L. 93–406, § 2001(e)(1)][/us/pl/93/406/s2001/e/1], substituted “Subparagraphs (A) and (B) do not apply to contributions described in subsection (e)” for “Subparagraphs (A) and (B) shall not apply to any contribution which is not considered to be an excess contribution (as defined in subsection (e)(1)) by reason of the application of subsection (e)(3)”.
+    Subsec. (d)(5). [Pub. L. 93–406][/us/pl/93/406], § 2001(e)(1), substituted “Subparagraphs (A) and (B) do not apply to contributions described in subsection (e)” for “Subparagraphs (A) and (B) shall not apply to any contribution which is not considered to be an excess contribution (as defined in subsection (e)(1)) by reason of the application of subsection (e)(3)”.
 
-    Subsec. (d)(8). [Pub. L. 93–406, § 2001(e)(2)][/us/pl/93/406/s2001/e/2], struck out par. (8) covering excess contributions.
+    Subsec. (d)(8). [Pub. L. 93–406][/us/pl/93/406], § 2001(e)(2), struck out par. (8) covering excess contributions.
 
-    Subsec. (e). [Pub. L. 93–406, § 2001(e)(3)][/us/pl/93/406/s2001/e/3], struck out pars. (1) and (2) which defined and described the effect of excess contributions, redesignated par. (3) as the entire subsec. (e) and in provisions as thus carried forward as the entire subsec. (e) substituted “$7,500” for “$2,500” and inserted references to section 4972(b).
+    Subsec. (e). [Pub. L. 93–406][/us/pl/93/406], § 2001(e)(3), struck out pars. (1) and (2) which defined and described the effect of excess contributions, redesignated par. (3) as the entire subsec. (e) and in provisions as thus carried forward as the entire subsec. (e) substituted “$7,500” for “$2,500” and inserted references to section 4972(b).
 
-    Subsec. (f). [Pub. L. 93–406, § 1022(d)][/us/pl/93/406/s1022/d], expanded provisions to cover annuity contracts.
+    Subsec. (f). [Pub. L. 93–406][/us/pl/93/406], § 1022(d), expanded provisions to cover annuity contracts.
 
-    Subsecs. (j), (k). [Pub. L. 93–406, § 2001(d)(2)][/us/pl/93/406/s2001/d/2], added subsec. (j) and redesignated former subsec. (j) as (k).
+    Subsecs. (j), (k). [Pub. L. 93–406][/us/pl/93/406], § 2001(d)(2), added subsec. (j) and redesignated former subsec. (j) as (k).
 
     1971—Subsec. (i). [Pub. L. 91–691][/us/pl/91/691] struck out “multi-employer” before “pension plans” in heading, and substituted “one or more employers” for “two or more employers who are not related (determined under regulations prescribed by the Secretary or his delegate)” in par. (1).
 
-    1966—Subsec. (a)(10)(A)(ii). [Pub. L. 89–809, § 204(b)(1)(A)][/us/pl/89/809/s204/b/1/A], struck out “(determined without regard to section 404(a)(10))” after “deducted under section 404”.
+    1966—Subsec. (a)(10)(A)(ii). [Pub. L. 89–809][/us/pl/89/809], § 204(b)(1)(A), struck out “(determined without regard to section 404(a)(10))” after “deducted under section 404”.
 
-    Subsec. (c)(2)(A). [Pub. L. 89–809, § 204(c)][/us/pl/89/809/s204/c], struck out “to the extent that such net earnings constitute earned income (as defined in section 911(b) but determined with the application of subparagraph (B))” after “The term ‘earned income’ means the net earnings from self-employment (as defined in section 1402(a))”, added cl. (i) and redesignated former cls. (i) to (ii) as (ii) to (iv) respectively, and struck out references to section 911(b) and subparagraph (B), as in effect for a taxable year beginning on January 1, 1963, in text following cl. (iv).
+    Subsec. (c)(2)(A). [Pub. L. 89–809][/us/pl/89/809], § 204(c), struck out “to the extent that such net earnings constitute earned income (as defined in section 911(b) but determined with the application of subparagraph (B))” after “The term ‘earned income’ means the net earnings from self-employment (as defined in section 1402(a))”, added cl. (i) and redesignated former cls. (i) to (ii) as (ii) to (iv) respectively, and struck out references to section 911(b) and subparagraph (B), as in effect for a taxable year beginning on January 1, 1963, in text following cl. (iv).
 
-    Subsec. (c)(2)(B). [Pub. L. 89–809, § 204(c)][/us/pl/89/809/s204/c], struck out subpar. (B) relating to earned income when both personal services and capital are material income-producing factors. See subsec. (c)(2)(A)(i).
+    Subsec. (c)(2)(B). [Pub. L. 89–809][/us/pl/89/809], § 204(c), struck out subpar. (B) relating to earned income when both personal services and capital are material income-producing factors. See subsec. (c)(2)(A)(i).
 
-    Subsec. (c)(2)(C). [Pub. L. 89–809, § 205(a)][/us/pl/89/809/s205/a], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 89–809][/us/pl/89/809], § 205(a), added subpar. (C).
 
-    Subsecs. (d)(5)(A), (B), (d)(6)(A), (e)(1)(A), (B)(i), (3). [Pub. L. 89–809, § 204(b)(1)(B)][/us/pl/89/809/s204/b/1/B] to (E), struck out “(determined without regard to section 404(a)(10))” wherever appearing.
+    Subsecs. (d)(5)(A), (B), (d)(6)(A), (e)(1)(A), (B)(i), (3). [Pub. L. 89–809][/us/pl/89/809], § 204(b)(1)(B) to (E), struck out “(determined without regard to section 404(a)(10))” wherever appearing.
 
     1965—Subsec. (d)(4)(B). [Pub. L. 89–97][/us/pl/89/97] substituted “section 72(m)(7)” for “section 213(g)(3)”.
 
     1964—Subsecs. (i), (j). [Pub. L. 88–272][/us/pl/88/272] added subsec. (i) and redesignated former subsec. (i) as (j).
 
-    1962—Subsec. (a)(5). [Pub. L. 87–792, § 2(1)][/us/pl/87/792/s2/1], inserted provisions defining total compensation for purposes of par. (5) and par. (10) of this subsection.
+    1962—Subsec. (a)(5). [Pub. L. 87–792][/us/pl/87/792], § 2(1), inserted provisions defining total compensation for purposes of par. (5) and par. (10) of this subsection.
 
-    Subsec. (a)(7) to (10). [Pub. L. 87–792, § 2(2)][/us/pl/87/792/s2/2], added pars. (7) to (10).
+    Subsec. (a)(7) to (10). [Pub. L. 87–792][/us/pl/87/792], § 2(2), added pars. (7) to (10).
 
-    Subsecs. (c) to (g). [Pub. L. 87–792, § 2(3)][/us/pl/87/792/s2/3], added subsecs. (c) to (g). Former subsec. (c) redesignated (h).
+    Subsecs. (c) to (g). [Pub. L. 87–792][/us/pl/87/792], § 2(3), added subsecs. (c) to (g). Former subsec. (c) redesignated (h).
 
     Subsec. (h). [Pub. L. 87–863][/us/pl/87/863] added subsec. (h). Former subsec. (h) redesignated (i).
 
-    [Pub. L. 87–792, § 2(3)][/us/pl/87/792/s2/3], redesignated former subsec. (c) as (h).
+    [Pub. L. 87–792][/us/pl/87/792], § 2(3), redesignated former subsec. (c) as (h).
 
     Subsec. (i). [Pub. L. 87–863][/us/pl/87/863] redesignated former subsec. (h) as (i).
 
@@ -2445,13 +2445,13 @@
 
     Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 113–97, § 3][/us/pl/113/97/s3], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
+[Pub. L. 113–97][/us/pl/113/97], § 3, Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101], provided that: 
 
 > “Unless otherwise specified in this Act \[see Tables for classification\], the provisions of this Act shall apply to years beginning after December 31, 2013.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–192, title II, § 202(c)(1)][/us/pl/111/192/s202/c/1], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299], provided that: 
+[Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(c)(1), June 25, 2010, [124 Stat. 1299][/us/stat/124/1299], provided that: 
 
 > “The amendment made by subsection (a) \[amending sections 1021, 1023, 1053, 1054, 1056, 1057, 1103, 1108, 1301, 1303, 1310, 1362, 1371, and 1423 of Title 29, Labor, and section 106 of 1978 Reorg. Plan No. 4, set out in the Appendix to Title 5, Government Organization and Employees, and as a note under [section 1001 of Title 29][/us/usc/t29/s1001], enacting provisions set out as a note under this section, and amending provisions set out as a note under [section 1021 of Title 29][/us/usc/t29/s1021]\] shall take effect as if included in the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280]\].”
 
@@ -2459,7 +2459,7 @@
 
     Amendment by sections 101(d)(2)(A)–(C) and 109(a)–(b)(2) of [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 110–458, title II, § 201(c)][/us/pl/110/458/s201/c], Dec. 23, 2008, [122 Stat. 5117][/us/stat/122/5117], provided that:
+[Pub. L. 110–458, title II][/us/pl/110/458/tII], § 201(c), Dec. 23, 2008, [122 Stat. 5117][/us/stat/122/5117], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2487,7 +2487,7 @@
 
 >             This paragraph shall not apply to any amendment unless during the period beginning on the effective date of the amendment and ending on December 31, 2009, the plan or contract is operated as if such plan or contract amendment were in effect.”
 
-[Pub. L. 110–245, title I, § 104(d)][/us/pl/110/245/s104/d], June 17, 2008, [122 Stat. 1627][/us/stat/122/1627], provided that:
+[Pub. L. 110–245, title I][/us/pl/110/245/tI], § 104(d), June 17, 2008, [122 Stat. 1627][/us/stat/122/1627], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2529,7 +2529,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title I, § 114(g)][/us/pl/109/280/s114/g], as added by [Pub. L. 110–458, title I, § 101(d)(3)][/us/pl/110/458/s101/d/3], Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 114(g), as added by [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(d)(3), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2541,11 +2541,11 @@
 
     Amendment by [section 827(b)(1) of Pub. L. 109–280][/us/pl/109/280/s827/b/1] applicable to distributions after Sept. 11, 2001, with waiver of limitations if refund or credit of overpayment of tax resulting from such amendment is prevented before the close of the 1-year period beginning on Aug. 17, 2006, see [section 827(c) of Pub. L. 109–280][/us/pl/109/280/s827/c], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 109–280, title VIII, § 861(c)][/us/pl/109/280/s861/c], Aug. 17, 2006, [120 Stat. 1021][/us/stat/120/1021], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 861(c), Aug. 17, 2006, [120 Stat. 1021][/us/stat/120/1021], provided that: 
 
 > “The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall apply to any year beginning after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-[Pub. L. 109–280, title IX, § 901(c)][/us/pl/109/280/s901/c], Aug. 17, 2006, [120 Stat. 1032][/us/stat/120/1032], provided that:
+[Pub. L. 109–280, title IX][/us/pl/109/280/tIX], § 901(c), Aug. 17, 2006, [120 Stat. 1032][/us/stat/120/1032], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2587,17 +2587,17 @@
 
 >         In applying section 401(a)(35)(H) of the Internal Revenue Code of 1986 and section 204(j)(7) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1054(j)(7)][/us/usc/t29/s1054/j/7]\] (as added by this section) to employer securities to which this paragraph applies, the applicable percentage shall be determined without regard to this paragraph.”
 
-[Pub. L. 109–280, title IX, § 902(g)][/us/pl/109/280/s902/g], Aug. 17, 2006, [120 Stat. 1039][/us/stat/120/1039], provided that: 
+[Pub. L. 109–280, title IX][/us/pl/109/280/tIX], § 902(g), Aug. 17, 2006, [120 Stat. 1039][/us/stat/120/1039], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 411, 414, 416, and 4979 of this title, and sections 1053, 1132, and 1144 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2007, except that the amendments made by subsection (f) \[amending sections 1132 and 1144 of Title 29\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-[Pub. L. 109–280, title IX, § 905(c)][/us/pl/109/280/s905/c], Aug. 17, 2006, [120 Stat. 1051][/us/stat/120/1051], provided that: 
+[Pub. L. 109–280, title IX][/us/pl/109/280/tIX], § 905(c), Aug. 17, 2006, [120 Stat. 1051][/us/stat/120/1051], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1002 of Title 29][/us/usc/t29/s1002], Labor\] shall apply to distributions in plan years beginning after December 31, 2006.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–311, title IV, § 407(c)][/us/pl/108/311/s407/c], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190], provided that: 
+[Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 407(c), Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1377 of this title][/us/usc/t26/s1377]\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[[Pub. L. 104–188][/us/pl/104/188]\] to which they relate.”
 
@@ -2611,19 +2611,19 @@
 
     Amendment by [section 641(e)(3) of Pub. L. 107–16][/us/pl/107/16/s641/e/3] applicable to distributions after Dec. 31, 2001, see [section 641(f)(1) of Pub. L. 107–16][/us/pl/107/16/s641/f/1], set out as a note under [section 402 of this title][/us/usc/t26/s402].
 
-[Pub. L. 107–16, title VI, § 643(d)][/us/pl/107/16/s643/d], June 7, 2001, [115 Stat. 123][/us/stat/115/123], provided that: 
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 643(d), June 7, 2001, [115 Stat. 123][/us/stat/115/123], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 402 and 408 of this title\] shall apply to distributions made after December 31, 2001.”
 
-[Pub. L. 107–16, title VI, § 646(b)][/us/pl/107/16/s646/b], June 7, 2001, [115 Stat. 126][/us/stat/115/126], provided that: 
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 646(b), June 7, 2001, [115 Stat. 126][/us/stat/115/126], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 403 and 457 of this title\] shall apply to distributions after December 31, 2001.”
 
-[Pub. L. 107–16, title VI, § 657(d)][/us/pl/107/16/s657/d], June 7, 2001, [115 Stat. 137][/us/stat/115/137], provided that: 
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 657(d), June 7, 2001, [115 Stat. 137][/us/stat/115/137], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 402 of this title][/us/usc/t26/s402], and [section 1104 of Title 29][/us/usc/t29/s1104], Labor\] shall apply to distributions made after final regulations implementing subsection (c)(2)(A) \[set out as a note below\] are prescribed \[Final regulations implementing subsec. (c)(2)(A) became effective Mar. 28, 2005. See 69 F.R. 58017.\].”
 
-[Pub. L. 107–16, title VI, § 666(b)][/us/pl/107/16/s666/b], June 7, 2001, [115 Stat. 144][/us/stat/115/144], provided that: 
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 666(b), June 7, 2001, [115 Stat. 144][/us/stat/115/144], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 2001.”
 
@@ -2633,11 +2633,11 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XV, § 1502(c)][/us/pl/105/34/s1502/c], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061], provided that: 
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1502(c), Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1056 of Title 29][/us/usc/t29/s1056], Labor\] shall apply to judgments, orders, and decrees issued, and settlement agreements entered into, on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–34, title XV, § 1505(d)][/us/pl/105/34/s1505/d], Aug. 5, 1997, [111 Stat. 1064][/us/stat/111/1064], as amended by [Pub. L. 105–206, title VI, § 6015(b)][/us/pl/105/206/s6015/b], July 22, 1998, [112 Stat. 820][/us/stat/112/820]; [Pub. L. 109–280, title VIII, § 861(a)(2)][/us/pl/109/280/s861/a/2], Aug. 17, 2006, [120 Stat. 1021][/us/stat/120/1021], provided that:
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1505(d), Aug. 5, 1997, [111 Stat. 1064][/us/stat/111/1064], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6015(b), July 22, 1998, [112 Stat. 820][/us/stat/112/820]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 861(a)(2), Aug. 17, 2006, [120 Stat. 1021][/us/stat/120/1021], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2647,11 +2647,11 @@
 
 >     A governmental plan (within the meaning of section 414(d) of the Internal Revenue Code of 1986) shall be treated as satisfying the requirements of sections 401(a)(3), 401(a)(4), 401(a)(26), 401(k), 401(m), 403(b)(1)(D) and (b)(12)(A)(i), and 410 of such Code for all taxable years beginning before the date of enactment of this Act.”
 
-[Pub. L. 105–34, title XV, § 1525(b)][/us/pl/105/34/s1525/b], Aug. 5, 1997, [111 Stat. 1072][/us/stat/111/1072], provided that: 
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1525(b), Aug. 5, 1997, [111 Stat. 1072][/us/stat/111/1072], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1997.”
 
-[Pub. L. 105–34, title XV, § 1530(d)][/us/pl/105/34/s1530/d], Aug. 5, 1997, [111 Stat. 1080][/us/stat/111/1080], provided that: 
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1530(d), Aug. 5, 1997, [111 Stat. 1080][/us/stat/111/1080], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 404, 415, 664, 674, 2055, 2056, 4947, 4975, 4978, and 4979A of this title\] shall apply to transfers made by trusts to, or for the use of, an employee stock ownership plan after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -2661,25 +2661,25 @@
 
     Amendment by section 1401(b)(5), (6) of [Pub. L. 104–188][/us/pl/104/188] applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see [section 1401(c) of Pub. L. 104–188][/us/pl/104/188/s1401/c], set out as a note under [section 402 of this title][/us/usc/t26/s402].
 
-[Pub. L. 104–188, title I, § 1404(b)][/us/pl/104/188/s1404/b], Aug. 20, 1996, [110 Stat. 1792][/us/stat/110/1792], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1404(b), Aug. 20, 1996, [110 Stat. 1792][/us/stat/110/1792], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1422(c)][/us/pl/104/188/s1422/c], Aug. 20, 1996, [110 Stat. 1801][/us/stat/110/1801], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1422(c), Aug. 20, 1996, [110 Stat. 1801][/us/stat/110/1801], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1426(b)][/us/pl/104/188/s1426/b], Aug. 20, 1996, [110 Stat. 1802][/us/stat/110/1802], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1426(b), Aug. 20, 1996, [110 Stat. 1802][/us/stat/110/1802], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1996, but shall not apply to any cash or deferred arrangement to which clause (i) of section 1116(f)(2)(B) of the Tax Reform Act of 1986 applies \[[Pub. L. 99–514][/us/pl/99/514], set out below\].”
 
     Amendment by [section 1431(b)(2) of Pub. L. 104–188][/us/pl/104/188/s1431/b/2] applicable to years beginning after Dec. 31, 1996, and amendment by [section 1431(c)(1)(B) of Pub. L. 104–188][/us/pl/104/188/s1431/c/1/B] applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, amendment by section 1431(c)(1)(B) to be treated as having been in effect for years beginning in 1996, see [section 1431(d) of Pub. L. 104–188][/us/pl/104/188/s1431/d], set out as a note under [section 414 of this title][/us/usc/t26/s414].
 
-[Pub. L. 104–188, title I, § 1432(c)][/us/pl/104/188/s1432/c], Aug. 20, 1996, [110 Stat. 1804][/us/stat/110/1804], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1432(c), Aug. 20, 1996, [110 Stat. 1804][/us/stat/110/1804], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1433(f)][/us/pl/104/188/s1433/f], Aug. 20, 1996, [110 Stat. 1807][/us/stat/110/1807], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1433(f), Aug. 20, 1996, [110 Stat. 1807][/us/stat/110/1807], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2689,11 +2689,11 @@
 
 >     The amendments made by subsections (c), (d), and (e) \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1441(b)][/us/pl/104/188/s1441/b], Aug. 20, 1996, [110 Stat. 1808][/us/stat/110/1808], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1441(b), Aug. 20, 1996, [110 Stat. 1808][/us/stat/110/1808], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1443(c)][/us/pl/104/188/s1443/c], Aug. 20, 1996, [110 Stat. 1809][/us/stat/110/1809], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1443(c), Aug. 20, 1996, [110 Stat. 1809][/us/stat/110/1809], provided that:
 
 >     “(1)  __Distributions__  __.—__ 
 
@@ -2703,17 +2703,17 @@
 
 >     The amendments made by subsection (b) \[amending this section\] shall apply to plan years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1445(b)][/us/pl/104/188/s1445/b], Aug. 20, 1996, [110 Stat. 1811][/us/stat/110/1811], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1445(b), Aug. 20, 1996, [110 Stat. 1811][/us/stat/110/1811], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 1996.”
 
-[Pub. L. 104–188, title I, § 1459(c)][/us/pl/104/188/s1459/c], Aug. 20, 1996, [110 Stat. 1820][/us/stat/110/1820], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1459(c), Aug. 20, 1996, [110 Stat. 1820][/us/stat/110/1820], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1998.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 732(e)][/us/pl/103/465/s732/e], Dec. 8, 1994, [108 Stat. 5005][/us/stat/108/5005], provided that:
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 732(e), Dec. 8, 1994, [108 Stat. 5005][/us/stat/108/5005], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2723,7 +2723,7 @@
 
 >     The amendments made by this section providing for the rounding of indexed amounts shall not apply to any year to the extent the rounding would require the indexed amount to be reduced below the amount in effect for years beginning in 1994.”
 
-[Pub. L. 103–465, title VII, § 751(b)][/us/pl/103/465/s751/b], Dec. 8, 1994, [108 Stat. 5022][/us/stat/108/5022], provided that:
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 751(b), Dec. 8, 1994, [108 Stat. 5022][/us/stat/108/5022], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2733,19 +2733,19 @@
 
 >     The amendment made by subsection (a)(11) \[amending [section 404 of this title][/us/usc/t26/s404]\] shall take effect on the date of the enactment of this Act \[Dec. 8, 1994\].”
 
-[Pub. L. 103–465, title VII, § 766(d)][/us/pl/103/465/s766/d], Dec. 8, 1994, [108 Stat. 5037][/us/stat/108/5037], provided that: 
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 766(d), Dec. 8, 1994, [108 Stat. 5037][/us/stat/108/5037], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1054 and 1322 of Title 29, Labor\] shall apply to plan amendments adopted on or after the date of enactment of this Act \[Dec. 8, 1994\].”
 
     Amendment by [section 776(d) of Pub. L. 103–465][/us/pl/103/465/s776/d] effective with respect to distributions that occur in plan years commencing on or after Jan. 1, 1996, see [section 776(e) of Pub. L. 103–465][/us/pl/103/465/s776/e], set out as a note under [section 1056 of Title 29][/us/usc/t29/s1056], Labor.
 
-[Pub. L. 103–465, title VII, § 781][/us/pl/103/465/s781], Dec. 8, 1994, [108 Stat. 5050][/us/stat/108/5050], provided that: 
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 781, Dec. 8, 1994, [108 Stat. 5050][/us/stat/108/5050], provided that: 
 
 > “Except as otherwise provided in this subtitle \[subtitle F (§§ 750–781) of title VII of [Pub. L. 103–465][/us/pl/103/465], enacting sections 1310, 1311, and 1350 of Title 29, Labor, amending this section, sections 404, 411, 412, 415, 417, 4971, and 4972 of this title, and sections 1053 to 1056, 1082, 1132, 1301, 1303, 1305, 1306, 1322, 1341, 1342, and 1343 of Title 29, and enacting provisions set out as notes under this section, sections 1, 411, 412, and 4972 of this title, and sections 1056, 1082, 1303, 1306, 1310, 1311, 1322, 1341, and 1342 of Title 29\], the amendments made by this subtitle shall be effective on the date of enactment of this Act \[Dec. 8, 1994\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13212(d)][/us/pl/103/66/s13212/d], Aug. 10, 1993, [107 Stat. 472][/us/stat/107/472], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13212(d), Aug. 10, 1993, [107 Stat. 472][/us/stat/107/472], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2789,7 +2789,7 @@
 
     Amendment by section 521(b)(5)–(8) of [Pub. L. 102–318][/us/pl/102/318] applicable to distributions after Dec. 31, 1992, see [section 521(e) of Pub. L. 102–318][/us/pl/102/318/s521/e], set out as a note under [section 402 of this title][/us/usc/t26/s402].
 
-[Pub. L. 102–318, title V, § 522(d)][/us/pl/102/318/s522/d], July 3, 1992, [106 Stat. 315][/us/stat/106/315], provided that:
+[Pub. L. 102–318, title V][/us/pl/102/318/tV], § 522(d), July 3, 1992, [106 Stat. 315][/us/stat/106/315], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2809,7 +2809,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7311(b)][/us/pl/101/239/s7311/b], Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7311(b), Dec. 19, 1989, [103 Stat. 2354][/us/stat/103/2354], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2829,15 +2829,15 @@
 
     Amendment by sections 7811(g)(1), (h)(3) and 7816(l) of [Pub. L. 101–239][/us/pl/101/239] effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, [Pub. L. 100–647][/us/pl/100/647], to which such amendment relates, see [section 7817 of Pub. L. 101–239][/us/pl/101/239/s7817], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 101–239, title VII, § 7882][/us/pl/101/239/s7882], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7882, Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], provided that: 
 
-> “Except as otherwise provided in this subpart \[subpart C (§§ 7881, 7882) of part V of title VII of [Pub. L. 101–239][/us/pl/101/239], amending this section and sections 411 and 412 of this title, and sections 1002, 1021, 1023, 1054, 1082, 1083, 1085b, 1103, 1107, 1108, 1113, 1132, 1306, 1322, 1341, 1342, 1344, 1362, 1364, 1368, 1370, and 1371 of Title 29, Labor, enacting provisions set out as a note under [section 1054 of Title 29][/us/usc/t29/s1054], and amending provisions set out as notes under sections 404 and 412 of this title and sections 1021, 1301, 1322, and 1344 of Title 29\], any amendment made by this subpart shall take effect as if included in the provision of the Pension Protection Act \[[Pub. L. 100–203, title IX][/us/pl/100/203], subtitle D, part II, §§ 9302–9346\] to which such amendment relates.”
+> “Except as otherwise provided in this subpart \[subpart C (§§ 7881, 7882) of part V of title VII of [Pub. L. 101–239][/us/pl/101/239], amending this section and sections 411 and 412 of this title, and sections 1002, 1021, 1023, 1054, 1082, 1083, 1085b, 1103, 1107, 1108, 1113, 1132, 1306, 1322, 1341, 1342, 1344, 1362, 1364, 1368, 1370, and 1371 of Title 29, Labor, enacting provisions set out as a note under [section 1054 of Title 29][/us/usc/t29/s1054], and amending provisions set out as notes under sections 404 and 412 of this title and sections 1021, 1301, 1322, and 1344 of Title 29\], any amendment made by this subpart shall take effect as if included in the provision of the Pension Protection Act \[[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], subtitle D, part II, §§ 9302–9346\] to which such amendment relates.”
 
     Amendment by [Pub. L. 101–140][/us/pl/101/140] effective as if included in [section 1151 of Pub. L. 99–514][/us/pl/99/514/s1151], see [section 203(c) of Pub. L. 101–140][/us/pl/101/140/s203/c], set out as a note under [section 79 of this title][/us/usc/t26/s79].
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1011(c)(7)(E)][/us/pl/100/647/s1011/c/7/E], Nov. 10, 1988, [102 Stat. 3458][/us/stat/102/3458], provided that:
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(c)(7)(E), Nov. 10, 1988, [102 Stat. 3458][/us/stat/102/3458], provided that:
 
 >     “(i) Except as provided in clause (ii), the amendments made by this paragraph \[amending this section and sections 403, 408, and 501 of this title\] shall apply to plan years beginning after December 31, 1987.
 
@@ -2849,33 +2849,33 @@
 
 >         “(II) January 1, 1989.”
 
-[Pub. L. 100–647, title I, § 1011(k)(1)(C)][/us/pl/100/647/s1011/k/1/C], Nov. 10, 1988, [102 Stat. 3469][/us/stat/102/3469], provided that:
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(k)(1)(C), Nov. 10, 1988, [102 Stat. 3469][/us/stat/102/3469], provided that:
 
 >     “(i) Subparagraph (A)(i) of section 401(k)(10) of the 1986 Code (as added by subparagraph (B)) shall apply to distributions after October 16, 1987.
 
 >     “(ii) Subparagraph (B) of section 401(k)(10) of the 1986 Code (as added by subparagraph (B)) shall apply to distributions after March 31, 1988.”
 
-[Pub. L. 100–647, title I, § 1011][/us/pl/100/647/s1011](l)(5)(B), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(l)(5)(B), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], provided that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall take effect as if included in the amendments made by section 1120 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
     Amendment by sections 1011(d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), (2)–(7), (9), (l)(1)–(4), (6), (7), 1011A(j), (l), and 1011B(j)(1), (2), (6), (k)(1), (2) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6053(b)][/us/pl/100/647/s6053/b], Nov. 10, 1988, [102 Stat. 3696][/us/stat/102/3696], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6053(b), Nov. 10, 1988, [102 Stat. 3696][/us/stat/102/3696], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 1121 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
-[Pub. L. 100–647, title VI, § 6055(b)][/us/pl/100/647/s6055/b], Nov. 10, 1988, [102 Stat. 3697][/us/stat/102/3697], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6055(b), Nov. 10, 1988, [102 Stat. 3697][/us/stat/102/3697], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1112(b) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
-[Pub. L. 100–647, title VI, § 6071(d)][/us/pl/100/647/s6071/d], Nov. 10, 1988, [102 Stat. 3705][/us/stat/102/3705], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6071(d), Nov. 10, 1988, [102 Stat. 3705][/us/stat/102/3705], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 457 of this title][/us/usc/t26/s457]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title IX, § 9341(c)][/us/pl/100/203/s9341/c], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371], as amended by [Pub. L. 101–239, title VII, § 7881(i)(5)][/us/pl/101/239/s7881/i/5], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442], provided that:
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9341(c), Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7881(i)(5), Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2889,7 +2889,7 @@
 
     Amendment by [section 1106(d)(1) of Pub. L. 99–514][/us/pl/99/514/s1106/d/1] applicable to benefits accruing in years beginning after Dec. 31, 1988, except as otherwise provided, see [section 1106(i)(5) of Pub. L. 99–514][/us/pl/99/514/s1106/i/5], set out as a note under [section 415 of this title][/us/usc/t26/s415].
 
-[Pub. L. 99–514, title XI, § 1111(c)][/us/pl/99/514/s1111/c], Oct. 22, 1986, [100 Stat. 2440][/us/stat/100/2440], as amended by [Pub. L. 100–647, title I, § 1011(g)(4)][/us/pl/100/647/s1011/g/4], Nov. 10, 1988, [102 Stat. 3464][/us/stat/102/3464], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1111(c), Oct. 22, 1986, [100 Stat. 2440][/us/stat/100/2440], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(g)(4), Nov. 10, 1988, [102 Stat. 3464][/us/stat/102/3464], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -2913,7 +2913,7 @@
 
 >         “(B) January 1, 1991.”
 
-[Pub. L. 99–514, title XI, § 1112(e)][/us/pl/99/514/s1112/e], Oct. 22, 1986, [100 Stat. 2445][/us/stat/100/2445], as amended by [Pub. L. 100–647, title I, § 1011(h)(6)][/us/pl/100/647/s1011/h/6]–(9), Nov. 10, 1988, [102 Stat. 3465][/us/stat/102/3465], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1112(e), Oct. 22, 1986, [100 Stat. 2445][/us/stat/100/2445], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(h)(6)–(9), Nov. 10, 1988, [102 Stat. 3465][/us/stat/102/3465], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -2999,7 +2999,7 @@
 
     Amendment by [section 1114(b)(7) of Pub. L. 99–514][/us/pl/99/514/s1114/b/7] applicable to years beginning after Dec. 31, 1988, see [section 1114(c)(3) of Pub. L. 99–514][/us/pl/99/514/s1114/c/3], set out as a note under [section 414 of this title][/us/usc/t26/s414].
 
-[Pub. L. 99–514, title XI, § 1116(f)][/us/pl/99/514/s1116/f], Oct. 22, 1986, [100 Stat. 2457][/us/stat/100/2457], as amended by [Pub. L. 100–647, title I, § 1011(k)(8)][/us/pl/100/647/s1011/k/8], (10), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1116(f), Oct. 22, 1986, [100 Stat. 2457][/us/stat/100/2457], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(k)(8), (10), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3091,7 +3091,7 @@
 
 >             If a plan adopts the amendment prescribed under clause (i) and makes a distribution in accordance with such amendment, such distribution shall be treated as made in accordance with the provisions of the plan.”
 
-[Pub. L. 99–514, title XI, § 1117(d)][/us/pl/99/514/s1117/d], Oct. 22, 1986, [100 Stat. 2462][/us/stat/100/2462], as amended by [Pub. L. 100–647, title I, § 1011][/us/pl/100/647/s1011](l)(12), Nov. 10, 1988, [102 Stat. 3471][/us/stat/102/3471], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1117(d), Oct. 22, 1986, [100 Stat. 2462][/us/stat/100/2462], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(l)(12), Nov. 10, 1988, [102 Stat. 3471][/us/stat/102/3471], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3141,11 +3141,11 @@
 
 >             If a plan adopts the amendment prescribed under clause (i) and makes a distribution in accordance with such amendment, such distribution shall be treated as made in accordance with the provisions of the plan.”
 
-[Pub. L. 99–514, title XI, § 1119(b)][/us/pl/99/514/s1119/b], Oct. 22, 1986, [100 Stat. 2463][/us/stat/100/2463], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1119(b), Oct. 22, 1986, [100 Stat. 2463][/us/stat/100/2463], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning after December 31, 1985.”
 
-[Pub. L. 99–514, title XI, § 1121(d)][/us/pl/99/514/s1121/d], Oct. 22, 1986, [100 Stat. 2465][/us/stat/100/2465], as amended by [Pub. L. 100–647, title I, § 1011A(a)(3)][/us/pl/100/647/s1011A/a/3], (4), Nov. 10, 1988, [102 Stat. 3472][/us/stat/102/3472], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1121(d), Oct. 22, 1986, [100 Stat. 2465][/us/stat/100/2465], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011A(a)(3), (4), Nov. 10, 1988, [102 Stat. 3472][/us/stat/102/3472], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3189,41 +3189,41 @@
 
 >     Notwithstanding any other provision of law, except as provided in regulations prescribed by the Secretary of the Treasury or his delegate, a plan may incorporate by reference the requirements of section 401(a)(9) of the Internal Revenue Code of 1986.”
 
-[Pub. L. 99–514, title XI, § 1136(c)][/us/pl/99/514/s1136/c], Oct. 22, 1986, [100 Stat. 2486][/us/stat/100/2486], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1136(c), Oct. 22, 1986, [100 Stat. 2486][/us/stat/100/2486], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1985.”
 
-[Pub. L. 99–514, title XI, § 1143(b)][/us/pl/99/514/s1143/b], Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1143(b), Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
-[Pub. L. 99–514, title XI, § 1145(d)][/us/pl/99/514/s1145/d], Oct. 22, 1986, [100 Stat. 2491][/us/stat/100/2491], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1145(d), Oct. 22, 1986, [100 Stat. 2491][/us/stat/100/2491], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 1055 of Title 29][/us/usc/t29/s1055], Labor, and provisions set out as a note under [section 1001 of Title 29][/us/usc/t29/s1001]\] shall apply as if included in the amendments made by the Retirement Equity Act of 1984 \[[Pub. L. 98–397][/us/pl/98/397]\].”
 
     Amendment by [section 1171(b)(5) of Pub. L. 99–514][/us/pl/99/514/s1171/b/5] applicable to compensation paid or accrued after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see [section 1171(c) of Pub. L. 99–514][/us/pl/99/514/s1171/c], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
-[Pub. L. 99–514, title XI, § 1174(c)(2)(B)][/us/pl/99/514/s1174/c/2/B], Oct. 22, 1986, [100 Stat. 2518][/us/stat/100/2518], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1174(c)(2)(B), Oct. 22, 1986, [100 Stat. 2518][/us/stat/100/2518], provided that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall apply to distributions attributable to stock acquired after December 31, 1986.”
 
-[Pub. L. 99–514, title XI, § 1175(a)(2)][/us/pl/99/514/s1175/a/2], Oct. 22, 1986, [100 Stat. 2519][/us/stat/100/2519], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1175(a)(2), Oct. 22, 1986, [100 Stat. 2519][/us/stat/100/2519], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to stock acquired after December 31, 1986.”
 
-[Pub. L. 99–514, title XI, § 1176(c)][/us/pl/99/514/s1176/c], Oct. 22, 1986, [100 Stat. 2520][/us/stat/100/2520], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1176(c), Oct. 22, 1986, [100 Stat. 2520][/us/stat/100/2520], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective December 31, 1986. The amendment made by subsection (b) \[amending [section 409 of this title][/us/usc/t26/s409]\] shall apply to acquisitions of securities after December 31, 1986.”
 
-    [Pub. L. 99–514, title XVIII, § 1852(h)(1)][/us/pl/99/514/s1852/h/1], Oct. 22, 1986, [100 Stat. 2869][/us/stat/100/2869], as amended by [Pub. L. 100–647, title I, § 1018(t)(3)(C)][/us/pl/100/647/s1018/t/3/C], Nov. 10, 1988, [102 Stat. 3588][/us/stat/102/3588], provided that the amendment made by that section is effective for years beginning after Dec. 31, 1985.
+    [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1852(h)(1), Oct. 22, 1986, [100 Stat. 2869][/us/stat/100/2869], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(t)(3)(C), Nov. 10, 1988, [102 Stat. 3588][/us/stat/102/3588], provided that the amendment made by that section is effective for years beginning after Dec. 31, 1985.
 
-[Pub. L. 99–514, title XVIII, § 1879(g)(3)][/us/pl/99/514/s1879/g/3], Oct. 22, 1986, [100 Stat. 2907][/us/stat/100/2907], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1879(g)(3), Oct. 22, 1986, [100 Stat. 2907][/us/stat/100/2907], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
 
-    Amendment by sections 1848(b) and 1852(a)(4)(A), (6), (b)(8), (g), (h)(1) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by sections 1848(b) and 1852(a)(4)(A), (6), (b)(8), (g), (h)(1) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
-[Pub. L. 99–514, title XVIII, § 1898(j)][/us/pl/99/514/s1898/j], Oct. 22, 1986, [100 Stat. 2957][/us/stat/100/2957], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1898(j), Oct. 22, 1986, [100 Stat. 2957][/us/stat/100/2957], provided that: 
 
 > “Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 402, 411, 414, 415, 417, and 2503 of this title, and sections 1053 to 1056 of Title 29, Labor, and provisions set out as notes under [section 1001 of Title 29][/us/usc/t29/s1001]\] shall take effect as if included in the provision of the Retirement Equity Act of 1984 \[[Pub. L. 98–397][/us/pl/98/397]\] to which such amendment relates.”
 
@@ -3237,11 +3237,11 @@
 
     Amendment by [section 474(r)(13) of Pub. L. 98–369][/us/pl/98/369/s474/r/13] applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see [section 475(a) of Pub. L. 98–369][/us/pl/98/369/s475/a], set out as a note under [section 21 of this title][/us/usc/t26/s21].
 
-[Pub. L. 98–369, div. A, title IV, § 491(f)(3)][/us/pl/98/369/s491/f/3], July 18, 1984, [98 Stat. 853][/us/stat/98/853], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(f)(3), July 18, 1984, [98 Stat. 853][/us/stat/98/853], provided that: 
 
 > “The amendments made by subsection (e) \[redesignating section 409A as [section 409 of this title][/us/usc/t26/s409] and amending this section and sections 41, 415, 4975, and 6699 of this title\] shall take effect on January 1, 1984.”
 
-[Pub. L. 98–369, div. A, title V, § 521(e)][/us/pl/98/369/s521/e], July 18, 1984, [98 Stat. 868][/us/stat/98/868], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 521(e), July 18, 1984, [98 Stat. 868][/us/stat/98/868], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3269,11 +3269,11 @@
 
 >         For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
 
-[Pub. L. 98–369, div. A, title V, § 524(d)(2)][/us/pl/98/369/s524/d/2], July 18, 1984, [98 Stat. 872][/us/stat/98/872], provided that: 
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 524(d)(2), July 18, 1984, [98 Stat. 872][/us/stat/98/872], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1983.”
 
-[Pub. L. 98–369, div. A, title V, § 527(c)][/us/pl/98/369/s527/c], July 18, 1984, [98 Stat. 876][/us/stat/98/876], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 527(c), July 18, 1984, [98 Stat. 876][/us/stat/98/876], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -3299,7 +3299,7 @@
 
 >         Rules similar to the rules under section 135(c)(2) of the Revenue Act of 1978 \[[section 135(c)(2) of Pub. L. 95–600][/us/pl/95/600/s135/c/2], set out below\] shall apply with respect to any pre-ERISA money purchase plan (as defined in section 401(k)(5) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for plan years beginning after December 31, 1979, and on or before the date of the enactment of this Act.”
 
-[Pub. L. 98–369, div. A, title V, § 528(c)][/us/pl/98/369/s528/c], July 18, 1984, [98 Stat. 877][/us/stat/98/877], provided that: 
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 528(c), July 18, 1984, [98 Stat. 877][/us/stat/98/877], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 415 of this title][/us/usc/t26/s415]\] shall apply to years beginning after March 31, 1984.”
 
@@ -3313,13 +3313,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-    [Pub. L. 97–248, title II, § 242(b)][/us/pl/97/248/s242/b], Sept. 3, 1982, [96 Stat. 521][/us/stat/96/521], which prescribed the effective date for amendment by [section 242(a) of Pub. L. 97–248][/us/pl/97/248/s242/a], was repealed by [Pub. L. 98–369, div. A, title V, § 521(a)(2)][/us/pl/98/369/s521/a/2], July 18, 1984, [98 Stat. 867][/us/stat/98/867].
+    [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 242(b), Sept. 3, 1982, [96 Stat. 521][/us/stat/96/521], which prescribed the effective date for amendment by [section 242(a) of Pub. L. 97–248][/us/pl/97/248/s242/a], was repealed by [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 521(a)(2), July 18, 1984, [98 Stat. 867][/us/stat/98/867].
 
-[Pub. L. 97–248, title II, § 249(b)][/us/pl/97/248/s249/b], Sept. 3, 1982, [96 Stat. 528][/us/stat/96/528], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 249(b), Sept. 3, 1982, [96 Stat. 528][/us/stat/96/528], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1983.”
 
-[Pub. L. 97–248, title II, § 254(b)][/us/pl/97/248/s254/b], Sept. 3, 1982, [96 Stat. 533][/us/stat/96/533], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 254(b), Sept. 3, 1982, [96 Stat. 533][/us/stat/96/533], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1981.”
 
@@ -3329,29 +3329,29 @@
 
     Amendment by section 312(b)(1), (c)(2)–(4), (e)(2) of [Pub. L. 97–34][/us/pl/97/34] applicable to plans which include employees within the meaning of subsec. (c)(1) of this section with respect to taxable years beginning after Dec. 31, 1981, see [section 312(f)(1) of Pub. L. 97–34][/us/pl/97/34/s312/f/1], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 97–34, title III, § 314(a)(2)][/us/pl/97/34/s314/a/2], Aug. 13, 1981, [95 Stat. 286][/us/stat/95/286], provided that: 
+[Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 314(a)(2), Aug. 13, 1981, [95 Stat. 286][/us/stat/95/286], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after December 31, 1980, in taxable years beginning after such date.”
 
-[Pub. L. 97–34, title III, § 338(b)][/us/pl/97/34/s338/b], Aug. 13, 1981, [95 Stat. 298][/us/stat/95/298], provided that: 
+[Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 338(b), Aug. 13, 1981, [95 Stat. 298][/us/stat/95/298], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to acquisitions of securities after December 31, 1979.”
 
-[Pub. L. 97–34, title III, § 339][/us/pl/97/34/s339], Aug. 13, 1981, [95 Stat. 299][/us/stat/95/299], provided that: 
+[Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 339, Aug. 13, 1981, [95 Stat. 299][/us/stat/95/299], provided that: 
 
 > “Except as otherwise provided, the amendments made by this subtitle \[subtitle D (§§ 331–339) of title III of [Pub. L. 97–34][/us/pl/97/34], enacting [section 44G of this title][/us/usc/t26/s44G] and amending this section and sections 46, 48, 55, 56, 381, 383, 404, 409A, 415, 6096, 6411, 6511, and 6699 of this title\] shall apply to taxable years beginning after December 31, 1981.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–605, title II, § 221(b)][/us/pl/96/605/s221/b], Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], provided that: 
+[Pub. L. 96–605, title II][/us/pl/96/605/tII], § 221(b), Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 1980.”
 
-[Pub. L. 96–605, title II, § 225(c)][/us/pl/96/605/s225/c], Dec. 28, 1980, [94 Stat. 3529][/us/stat/94/3529], provided that: 
+[Pub. L. 96–605, title II][/us/pl/96/605/tII], § 225(c), Dec. 28, 1980, [94 Stat. 3529][/us/stat/94/3529], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 408 and 410 of this title\] shall apply with respect to plan years beginning after December 31, 1980.”
 
-[Pub. L. 96–364, title IV, § 410(c)][/us/pl/96/364/s410/c], Sept. 26, 1980, [94 Stat. 1308][/us/stat/94/1308], provided that: 
+[Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 410(c), Sept. 26, 1980, [94 Stat. 1308][/us/stat/94/1308], provided that: 
 
 > “The amendment made by this section \[amending this section and [section 1103 of Title 29][/us/usc/t29/s1103], Labor\] shall take effect on January 1, 1975, except that in the case of contributions received by a collectively bargained plan maintained by more than one employer before the date of enactment of this Act, \[Sept. 26, 1980\], any determination by the plan administrator that any such contribution was made by mistake of fact or law before such date shall be deemed to have been made on such date of enactment.”
 
@@ -3361,13 +3361,13 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title I, § 135(c)(1)][/us/pl/95/600/s135/c/1], Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], provided that: 
+[Pub. L. 95–600, title I][/us/pl/95/600/tI], § 135(c)(1), Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 402 of this title][/us/usc/t26/s402]\] shall apply to plan years beginning after December 31, 1979.”
 
     Amendment by [section 141(f)(3) of Pub. L. 95–600][/us/pl/95/600/s141/f/3] effective with respect to qualified investment for taxable years beginning after Dec. 31, 1978, see [section 141(g)(1) of Pub. L. 95–600][/us/pl/95/600/s141/g/1], set out as an Effective Date note under [section 409 of this title][/us/usc/t26/s409].
 
-[Pub. L. 95–600, title I, § 143(b)][/us/pl/95/600/s143/b], Nov. 6, 1978, [92 Stat. 2796][/us/stat/92/2796], provided that: 
+[Pub. L. 95–600, title I][/us/pl/95/600/tI], § 143(b), Nov. 6, 1978, [92 Stat. 2796][/us/stat/92/2796], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to acquisitions of securities after December 31, 1979.”
 
@@ -3377,13 +3377,13 @@
 
     Amendment by [section 803(b)(2) of Pub. L. 94–455][/us/pl/94/455/s803/b/2] effective for taxable years beginning after Dec. 31, 1974, see [section 803(j) of Pub. L. 94–455][/us/pl/94/455/s803/j], set out as a note under [section 46 of this title][/us/usc/t26/s46].
 
-[Pub. L. 94–455, title XV, § 1505(c)][/us/pl/94/455/s1505/c], Oct. 4, 1976, [90 Stat. 1739][/us/stat/90/1739], provided that: 
+[Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1505(c), Oct. 4, 1976, [90 Stat. 1739][/us/stat/90/1739], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 801 of this title][/us/usc/t26/s801]\] apply for taxable years beginning after December 31, 1975.”
 
     Amendment by [section 1901(a)(56) of Pub. L. 94–455][/us/pl/94/455/s1901/a/56] effective for taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
-[Pub. L. 94–267, § 1(e)][/us/pl/94/267/s1/e], Apr. 15, 1976, [90 Stat. 369][/us/stat/90/369], provided that: 
+[Pub. L. 94–267][/us/pl/94/267], § 1(e), Apr. 15, 1976, [90 Stat. 369][/us/stat/90/369], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 402 to 404 and 805 of this title, and enacting provisions set out as a note under [section 402 of this title][/us/usc/t26/s402]\] shall apply with respect to payments made to an employee on or after July 4, 1974.”
 
@@ -3391,17 +3391,17 @@
 
     Amendment by sections 1012(b) and 1016(a)(2) of [Pub. L. 93–406][/us/pl/93/406] applicable, except as otherwise provided in section 1017(c) through (i) of [Pub. L. 93–406][/us/pl/93/406], for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by sections 1012(b) and 196(a)(2) of [Pub. L. 93–406][/us/pl/93/406] applicable for plan years beginning after Dec. 31, 1975, see [section 1017 of Pub. L. 93–406][/us/pl/93/406/s1017], set out as an Effective Date; Transitional Rules note under [section 410 of this title][/us/usc/t26/s410].
 
-    [Pub. L. 93–406, title II, § 1021(a)(1)][/us/pl/93/406/s1021/a/1], (b), Sept. 2, 1974, [88 Stat. 935][/us/stat/88/935], 937, provided that the amendment made by that section is effective with respect to plan years beginning after Dec. 31, 1975.
+    [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1021(a)(1), (b), Sept. 2, 1974, [88 Stat. 935][/us/stat/88/935], 937, provided that the amendment made by that section is effective with respect to plan years beginning after Dec. 31, 1975.
 
-    [Pub. L. 93–406, title II, § 1022(d)][/us/pl/93/406/s1022/d], Sept. 2, 1974, [88 Stat. 939][/us/stat/88/939], provided that the amendment made by that section is effective as of Jan. 1, 1974.
+    [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1022(d), Sept. 2, 1974, [88 Stat. 939][/us/stat/88/939], provided that the amendment made by that section is effective as of Jan. 1, 1974.
 
-    [Pub. L. 93–406, title II, § 1022(f)][/us/pl/93/406/s1022/f], Sept. 2, 1974, [88 Stat. 940][/us/stat/88/940], provided that the amendment made by that section is effective as of Jan. 1, 1974.
+    [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1022(f), Sept. 2, 1974, [88 Stat. 940][/us/stat/88/940], provided that the amendment made by that section is effective as of Jan. 1, 1974.
 
-[Pub. L. 93–406, title II, § 1024][/us/pl/93/406/s1024], Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943], provided that: 
+[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1024, Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943], provided that: 
 
 > “Except as otherwise provided in section 1021, the amendments made by section 1021 \[amending this section\] shall apply to plan years to which part I applies. \[For description of plan years to which part I applies, see [section 1017 of Pub. L. 93–406][/us/pl/93/406/s1017], set out as an Effective Date; Transitional Rules note under [section 410 of this title][/us/usc/t26/s410].\] Except as otherwise provided in section 1022, the amendments made by section 1022 \[amending this section and [section 6051 of this title][/us/usc/t26/s6051]\] shall apply to plan years to which part I applies. Section 1023 \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 2, 1974\].”
 
-[Pub. L. 93–406, title II, § 2001(i)(2)][/us/pl/93/406/s2001/i/2]–(4), Sept. 2, 1974, [88 Stat. 958][/us/stat/88/958], provided that:
+[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 2001(i)(2)–(4), Sept. 2, 1974, [88 Stat. 958][/us/stat/88/958], provided that:
 
 >     “(2)
 
@@ -3421,17 +3421,17 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–691, § 1(b)][/us/pl/91/691/s1/b], Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074], provided that: 
+[Pub. L. 91–691][/us/pl/91/691], § 1(b), Jan. 12, 1971, [84 Stat. 2074][/us/stat/84/2074], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, but only with respect to contributions made after December 31, 1954.”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–809, title II, § 204(d)][/us/pl/89/809/s204/d], Nov. 13, 1966, [80 Stat. 1578][/us/stat/80/1578], as amended by [Pub. L. 90–607][/us/pl/90/607], Oct. 21, 1968, [82 Stat. 1189][/us/stat/82/1189]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 204(d), Nov. 13, 1966, [80 Stat. 1578][/us/stat/80/1578], as amended by [Pub. L. 90–607][/us/pl/90/607], Oct. 21, 1968, [82 Stat. 1189][/us/stat/82/1189]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 404 of this title][/us/usc/t26/s404]\] shall apply with respect to taxable years beginning after December 31, 1967. The amendment made by subsection (c) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1967, and in the case of a taxpayer who applies the averaging provisions of section 401(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning after December 31, 1967, the computation of the amount deductible under section 404 of such Code for any prior taxable year which began before January 1, 1968, shall be made, for purposes of such averaging provisions, as if the amendment made by subsection (c) were applicable to such prior taxable year.”
 
-[Pub. L. 89–809, title II, § 205(b)][/us/pl/89/809/s205/b], Nov. 13, 1966, [80 Stat. 1578][/us/stat/80/1578], provided that: 
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 205(b), Nov. 13, 1966, [80 Stat. 1578][/us/stat/80/1578], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
@@ -3441,13 +3441,13 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–272, title II, § 219(b)][/us/pl/88/272/s219/b], Feb. 26, 1964, [78 Stat. 58][/us/stat/78/58], provided that: 
+[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 219(b), Feb. 26, 1964, [78 Stat. 58][/us/stat/78/58], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954, but only with respect to contributions made after December 31, 1954.”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–863, § 2(c)][/us/pl/87/863/s2/c], Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142], provided that: 
+[Pub. L. 87–863][/us/pl/87/863], § 2(c), Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 404 of this title][/us/usc/t26/s404]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 23, 1962\].”
 
@@ -3455,17 +3455,17 @@
 
  __Short Title of 1962 Amendment__ 
 
-[Pub. L. 87–792, § 1][/us/pl/87/792/s1], Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809], provided: 
+[Pub. L. 87–792][/us/pl/87/792], § 1, Oct. 10, 1962, [76 Stat. 809][/us/stat/76/809], provided: 
 
 > “That this Act \[enacting sections 405 and 6047 of this title and amending this section and sections 37, 62, 72, 101, 104, 105, 172, 402 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401, and 7207 of this title\] may be cited as the ‘Self-Employed Individuals Tax Retirement Act of 1962’.”
 
  __Regulations__ 
 
-[Pub. L. 109–280, title VIII, § 823][/us/pl/109/280/s823], Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 823, Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], provided that: 
 
 > “The Secretary of the Treasury shall issue regulations under which a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) shall, for all years to which section 401(a)(9) of such Code applies to such plan, be treated as having complied with such section 401(a)(9) if such plan complies with a reasonable good faith interpretation of such section 401(a)(9).”
 
-[Pub. L. 109–280, title VIII, § 826][/us/pl/109/280/s826], Aug. 17, 2006, [120 Stat. 999][/us/stat/120/999], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 826, Aug. 17, 2006, [120 Stat. 999][/us/stat/120/999], provided that: 
 
 > “Within 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of the Treasury shall modify the rules for determining whether a participant has had a hardship for purposes of section 401(k)(2)(B)(i)(IV) of the Internal Revenue Code of 1986 to provide that if an event (including the occurrence of a medical expense) would constitute a hardship under the plan if it occurred with respect to the participant’s spouse or dependent (as defined in section 152 of such Code), such event shall, to the extent permitted under a plan, constitute a hardship if it occurs with respect to a person who is a beneficiary under the plan with respect to the participant. The Secretary of the Treasury shall issue similar rules for purposes of determining whether a participant has had—
 
@@ -3473,7 +3473,7 @@
 
 >     “(2) an unforeseen financial emergency for purposes of sections 409A(a)(2)(A)(vi), 409A(a)(2)(B)(ii), and 457(d)(1)(A)(iii) of such Code.”
 
-[Pub. L. 107–16, title VI, § 657(c)(2)][/us/pl/107/16/s657/c/2], June 7, 2001, [115 Stat. 136][/us/stat/115/136], provided that:
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 657(c)(2), June 7, 2001, [115 Stat. 136][/us/stat/115/136], provided that:
 
 >     “(A)  __Automatic rollover safe harbor__  __.—__ 
 
@@ -3483,7 +3483,7 @@
 
 >     The Secretary of the Treasury and the Secretary of Labor may provide, and shall give consideration to providing, special relief with respect to the use of low-cost individual retirement plans for purposes of transfers under section 401(a)(31)(B) of the Internal Revenue Code of 1986 and for other uses that promote the preservation of assets for retirement income purposes.”
 
-[Pub. L. 99–514, title XI, § 1141][/us/pl/99/514/s1141], Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1141, Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
 
 > “The Secretary of the Treasury or his delegate shall issue before February 1, 1988, such final regulations as may be necessary to carry out the amendments made by—
 
@@ -3507,7 +3507,7 @@
 
  __Special Rules for Multiple Employer Plans of Certain Cooperatives__ 
 
-[Pub. L. 109–280, title I, § 104][/us/pl/109/280/s104], Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], as amended by [Pub. L. 111–192, title II, § 202(b)][/us/pl/111/192/s202/b], June 25, 2010, [124 Stat. 1298][/us/stat/124/1298]; [Pub. L. 113–97, title I, § 103(b)][/us/pl/113/97/s103/b], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 104, Aug. 17, 2006, [120 Stat. 816][/us/stat/120/816], as amended by [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(b), June 25, 2010, [124 Stat. 1298][/us/stat/124/1298]; [Pub. L. 113–97, title I][/us/pl/113/97/tI], § 103(b), Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -3609,7 +3609,7 @@
 
 >         Not later than December 31, 2014, a plan sponsor may make a one-time, irrevocable, retroactive election to not be treated as an eligible charity plan. Such election shall be effective for plan years beginning after December 31, 2007, and shall be made by providing reasonable notice to the Secretary of the Treasury.”
 
-\[[Pub. L. 111–192, title II, § 202(c)(2)][/us/pl/111/192/s202/c/2], June 25, 2010, [124 Stat. 1299][/us/stat/124/1299], provided that: 
+\[[Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(c)(2), June 25, 2010, [124 Stat. 1299][/us/stat/124/1299], provided that: 
 
 > “The amendments made by subsection (b) \[amending [section 104 of Pub. L. 109–280][/us/pl/109/280/s104], set out above\] shall apply to plan years beginning after December 31, 2007, except that a plan sponsor may elect to apply such amendments to plan years beginning after December 31, 2008. Any such election shall be made at such time, and in such form and manner, as shall be prescribed by the Secretary of the Treasury, and may be revoked only with the consent of the Secretary of the Treasury.”
 
@@ -3617,7 +3617,7 @@
 
  __Temporary Relief for Certain PBGC Settlement Plans__ 
 
-[Pub. L. 109–280, title I, § 105][/us/pl/109/280/s105], Aug. 17, 2006, [120 Stat. 817][/us/stat/120/817], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 105, Aug. 17, 2006, [120 Stat. 817][/us/stat/120/817], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -3637,7 +3637,7 @@
 
  __Special Rules for Plans of Certain Government Contractors__ 
 
-[Pub. L. 109–280, title I, § 106][/us/pl/109/280/s106], Aug. 17, 2006, [120 Stat. 817][/us/stat/120/817], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 106, Aug. 17, 2006, [120 Stat. 817][/us/stat/120/817], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -3663,7 +3663,7 @@
 
  __Application of Extended Amortization Periods to Plans With Delayed Effective Date__ 
 
-[Pub. L. 109–280, title I, § 107][/us/pl/109/280/s107], as added by [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 107, as added by [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(a), June 25, 2010, [124 Stat. 1297][/us/stat/124/1297], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3735,7 +3735,7 @@
 
  __Grandfather Rule for Church Plans Which Self-Annuitize__ 
 
-[Pub. L. 109–280, title VIII, § 865][/us/pl/109/280/s865], Aug. 17, 2006, [120 Stat. 1025][/us/stat/120/1025], provided that:
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 865, Aug. 17, 2006, [120 Stat. 1025][/us/stat/120/1025], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3751,7 +3751,7 @@
 
  __New Technologies in Retirement Plans__ 
 
-[Pub. L. 105–34, title XV, § 1510][/us/pl/105/34/s1510], Aug. 5, 1997, [111 Stat. 1068][/us/stat/111/1068], provided that:
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1510, Aug. 5, 1997, [111 Stat. 1068][/us/stat/111/1068], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3767,7 +3767,7 @@
 
  __Treatment of Qualified Football Coaches Plan__ 
 
-[Pub. L. 104–188, title I, § 1704(k)][/us/pl/104/188/s1704/k], Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(k), Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3793,19 +3793,19 @@
 
  __Applicability of Subsection (a)(26)__ 
 
-[Pub. L. 100–647, title VI, § 6065][/us/pl/100/647/s6065], Nov. 10, 1988, [102 Stat. 3702][/us/stat/102/3702], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6065, Nov. 10, 1988, [102 Stat. 3702][/us/stat/102/3702], provided that: 
 
 > “In the case of plan years beginning before January 1, 1993, section 401(a)(26) of the 1986 Code shall not apply to any governmental plan (within the meaning of section 414(d) of such Code) with respect to employees who were participants in such plan on July 14, 1988.”
 
  __Coordination of Internal Revenue Code of 1986 With Employee Retirement Income Security Act of 1974__ 
 
-[Pub. L. 100–203, title IX, § 9343(a)][/us/pl/100/203/s9343/a], Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9343(a), Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372], provided that: 
 
 > “Except to the extent specifically provided in the Internal Revenue Code of 1986 or as determined by the Secretary of the Treasury, titles I and IV of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1001][/us/usc/t29/s1001] et seq., 1301 et seq.\] are not applicable in interpreting such Code.”
 
  __Plan Amendments Not Required Until January 1, 1998__ 
 
-[Pub. L. 104–188, title I, § 1465][/us/pl/104/188/s1465], Aug. 20, 1996, [110 Stat. 1825][/us/stat/110/1825], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1465, Aug. 20, 1996, [110 Stat. 1825][/us/stat/110/1825], provided that: 
 
 > “If any amendment made by this subtitle \[subtitle D (§§ 1401–1465) of title I of [Pub. L. 104–188][/us/pl/104/188], see Tables for classification\] requires an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after January 1, 1998, if—
 
@@ -3817,7 +3817,7 @@
 
  __Plan Amendments Not Required Until January 1, 1994__ 
 
-[Pub. L. 102–318, title V, § 523][/us/pl/102/318/s523], July 3, 1992, [106 Stat. 315][/us/stat/106/315], provided that: 
+[Pub. L. 102–318, title V][/us/pl/102/318/tV], § 523, July 3, 1992, [106 Stat. 315][/us/stat/106/315], provided that: 
 
 > “If any amendment made by this subtitle \[subtitle B (§§ 521–523) of title V of [Pub. L. 102–318][/us/pl/102/318], amending this section and sections 55, 62, 72, 219, 402 to 404, 406 to 408, 411, 414, 415, 457, 691, 871, 877, 1441, 3121, 3306, 3402, 3405, 4973, 4980A, 6047, 6652, and 7701 of this title\] requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1994, if—
 
@@ -3827,7 +3827,7 @@
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
-[Pub. L. 99–514, title XI, § 1140][/us/pl/99/514/s1140], Oct. 22, 1986, [100 Stat. 2489][/us/stat/100/2489], as amended by [Pub. L. 101–239, title VII, § 7861(c)][/us/pl/101/239/s7861/c], Dec. 19, 1989, [103 Stat. 2431][/us/stat/103/2431]; [Pub. L. 104–188, title I, § 1704(t)(27)][/us/pl/104/188/s1704/t/27], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888], provided that:
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1140, Oct. 22, 1986, [100 Stat. 2489][/us/stat/100/2489], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7861(c), Dec. 19, 1989, [103 Stat. 2431][/us/stat/103/2431]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(27), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3871,19 +3871,19 @@
 
  __Secretary To Accept Applications With Respect to Section 401(k) Plans__ 
 
-[Pub. L. 99–514, title XI, § 1142][/us/pl/99/514/s1142], Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
+[Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1142, Oct. 22, 1986, [100 Stat. 2490][/us/stat/100/2490], provided that: 
 
 > “The Secretary of the Treasury or his delegate shall, not later than May 1, 1987, begin accepting applications for opinion letters with respect to master and prototype plans for qualified cash or deferred arrangements under section 401(k) of the Internal Revenue Code of 1986.”
 
  __Treatment of Individuals Having Beginning Date Affected by__  __[__  __Pub. L. 99–514__  __][/us/pl/99/514]__ 
 
-[Pub. L. 99–514, title XVIII, § 1852(a)(4)(C)][/us/pl/99/514/s1852/a/4/C], as added by [Pub. L. 100–647, title I, § 1018(t)(3)(A)][/us/pl/100/647/s1018/t/3/A], Nov. 10, 1988, [102 Stat. 3588][/us/stat/102/3588], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1852(a)(4)(C), as added by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(t)(3)(A), Nov. 10, 1988, [102 Stat. 3588][/us/stat/102/3588], provided that: 
 
 > “An individual whose required beginning date would, but for the amendment made by subparagraph (A) \[amending this section\], occur after December 31, 1986, but whose required beginning date after such amendment occurs before January 1, 1987, shall be treated as if such individual had become a 5-percent owner during the plan year ending in 1986.”
 
  __Distribution Requirements for Accounts and Annuities of an Insurer in a Rehabilitation Proceeding__ 
 
-[Pub. L. 98–369, div. A, title V, § 553][/us/pl/98/369/s553], July 18, 1984, [98 Stat. 897][/us/stat/98/897], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 553, July 18, 1984, [98 Stat. 897][/us/stat/98/897], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -3905,7 +3905,7 @@
 
  __Qualification Requirements Modified if Regulations Not Issued__ 
 
-[Pub. L. 98–369, div. A, title V, § 524(e)][/us/pl/98/369/s524/e], July 18, 1984, [98 Stat. 872][/us/stat/98/872], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 524(e), July 18, 1984, [98 Stat. 872][/us/stat/98/872], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -3925,7 +3925,7 @@
 
  __Transitional Rule__ 
 
-[Pub. L. 95–600, title I, § 135(c)(2)][/us/pl/95/600/s135/c/2], Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–600, title I][/us/pl/95/600/tI], § 135(c)(2), Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “In the case of cash or deferred arrangements in existence on June 27, 1974—
 
@@ -3941,7 +3941,7 @@
 
  __Salary Reduction Regulations__ 
 
-[Pub. L. 93–406, title II, § 2006][/us/pl/93/406/s2006], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992], as amended by [Pub. L. 94–455, title XV, § 1506][/us/pl/94/455/s1506], Oct. 4, 1976, [90 Stat. 1739][/us/stat/90/1739]; [Pub. L. 95–615, § 5][/us/pl/95/615/s5], Nov. 8, 1978, [92 Stat. 3097][/us/stat/92/3097]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 2006, Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992], as amended by [Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1506, Oct. 4, 1976, [90 Stat. 1739][/us/stat/90/1739]; [Pub. L. 95–615][/us/pl/95/615], § 5, Nov. 8, 1978, [92 Stat. 3097][/us/stat/92/3097]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a) __Inclusion of Certain Contributions in Income.—__ 
 
@@ -3987,7 +3987,7 @@
 
 >     For purpose of this section, the term ‘salary reduction regulations’ means regulations dealing with the includibility in gross income (at the time of contribution) of amounts contributed to a plan which includes a trust that qualifies under section 401(a) \[subsec. (a) of this section\], or a plan described in section 403(a) or 405(a), including plans or arrangements described in subsection (b)(2), if the contribution is made under an arrangement under which the contribution will be made only if the employee elects to receive a reduction in his compensation or to forego an increase in his compensation, or under an arrangement under which the employee is permitted to elect to receive part of his compensation in one or more alternative forms (if one of such forms results in the inclusion of amounts in income under the Internal Revenue Code of 1986).”
 
-\[[Pub. L. 95–615, § 210(b)][/us/pl/95/615/s210/b], Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that: 
+\[[Pub. L. 95–615][/us/pl/95/615], § 210(b), Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that: 
 
 > “Section 5 of this Act \[amending [section 2006 of Pub. L. 93–406][/us/pl/93/406/s2006], set out above\] shall not apply with respect to any type of plan for any period for which rules for that type of plan are provided by the Revenue Act of 1978 \[[Pub. L. 95–600][/us/pl/95/600], see Short Title of 1978 Amendment note set out under [section 1 of this title][/us/usc/t26/s1]\].”
 
@@ -4044,95 +4044,95 @@
 ----------
 ----------
 
-[/us/pl/97/248/s237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs237%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F511
-[/us/pl/99/514/s1171/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fb%2F5
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2513
-[/us/pl/98/369/s713/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs713%2Fd%2F3
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F958
-[/us/pl/97/248/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs238%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F512
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F134
-[/us/pl/87/792/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/stat/76/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F809
-[/us/pl/87/863/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863%2Fs2%2Fa
+[/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/stat/76/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1141
-[/us/pl/88/272/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs219%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F57
-[/us/pl/89/97/s106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs106%2Fd%2F4
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F337
-[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1577
-[/us/pl/91/691/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F691%2Fs1%2Fa
+[/us/pl/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F691
 [/us/stat/84/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2074
-[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F913
-[/us/pl/94/267/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267%2Fs1%2Fc%2F1
+[/us/pl/94/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267
 [/us/stat/90/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F367
-[/us/pl/94/455/s803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs803%2Fb%2F2
+[/us/pl/94/455/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVIII
 [/us/stat/90/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1584
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2785
-[/us/pl/96/222/s101/a/7/L/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F7%2FL%2Fi%2FV
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F199
-[/us/pl/96/364/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs208%2Fa
+[/us/pl/96/364/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtII
 [/us/stat/94/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1289
-[/us/pl/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605
+[/us/pl/96/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtII
 [/us/stat/94/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3528
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/283-286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F283-286
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/511-513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F511-513
-[/us/pl/97/448/s103/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs103%2Fc%2F10%2FA
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2377-2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2377-2379
-[/us/pl/98/21/s124/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs124%2Fc%2F4%2FA
+[/us/pl/98/21/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtI
 [/us/stat/97/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F91
-[/us/pl/98/369/s211/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F5
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F754
-[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtII
 [/us/stat/98/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1440
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2435
-[/us/pl/100/203/s9341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-369
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3458-3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3458-3460
-[/us/pl/101/140/s203/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F5
+[/us/pl/101/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2FtII
 [/us/stat/103/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F830
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2354
-[/us/pl/101/508/s12011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fb
+[/us/pl/101/508/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII
 [/us/stat/104/1388-571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-571
-[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F310
-[/us/pl/103/66/s13212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13212%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F471
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5004
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1789
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1059
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F97
-[/us/pl/107/147/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F48
-[/us/pl/108/311/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs407%2Fb
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1190
-[/us/pl/109/280/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F853
-[/us/pl/110/245/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs104%2Fa
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1626
-[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
-[/us/pl/111/152/s1004/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fd%2F5
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1036
-[/us/pl/113/97/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FA
+[/us/pl/113/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtII
 [/us/stat/128/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1136
-[/us/pl/113/295/s221/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F52
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
@@ -4142,325 +4142,325 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/102/318/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/113/97/s202/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FA
-[/us/pl/113/97/s202/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F5%2FA
-[/us/pl/113/97/s202/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F5%2FB
-[/us/pl/113/97/s202/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F4
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
-[/us/pl/110/458/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs201%2Fa
-[/us/pl/110/458/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FA
-[/us/pl/110/458/s101/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FB
-[/us/pl/110/458/s101/d/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FC%2Fi
-[/us/pl/110/458/s101/d/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FC%2Fii
-[/us/pl/110/458/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs109%2Fa
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
-[/us/pl/110/458/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs109%2Fb%2F2
-[/us/pl/110/458/s109/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs109%2Fb%2F1
-[/us/pl/109/280/s861/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs861%2Fa%2F1
-[/us/pl/109/280/s861/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs861%2Fa%2F1
-[/us/pl/109/280/s901/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fa%2F2%2FA
-[/us/pl/109/280/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F1
-[/us/pl/109/280/s114/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F2%2FA
-[/us/pl/109/280/s114/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F2%2FB
-[/us/pl/109/280/s114/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F3%2FA
-[/us/pl/109/280/s114/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F3%2FB
-[/us/pl/109/280/s114/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fa%2F3%2FC
-[/us/pl/109/280/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fa%2F1
-[/us/pl/109/280/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs905%2Fb
-[/us/pl/109/280/s827/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs827%2Fb%2F1
-[/us/pl/109/280/s861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs861%2Fa%2F2
-[/us/pl/109/280/s902/e/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F3%2FB%2Fi
-[/us/pl/109/280/s902/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fd%2F2%2FC
-[/us/pl/109/280/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fa
-[/us/pl/109/280/s902/e/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F3%2FB%2Fii
-[/us/pl/109/280/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fb
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/107/147/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411
-[/us/pl/107/147/s411/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fq%2F1
-[/us/pl/107/16/s611/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Fc%2F1
-[/us/pl/107/16/s611/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Fc%2F2
-[/us/pl/107/16/s657/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fa%2F2%2FA
-[/us/pl/107/16/s657/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fa%2F1
-[/us/pl/107/16/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs643%2Fb
-[/us/pl/107/16/s641/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs641%2Fe%2F3
-[/us/pl/107/16/s657/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fa%2F2%2FB
-[/us/pl/107/16/s657/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fa%2F1
-[/us/pl/107/16/s657/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fa%2F1
-[/us/pl/107/16/s611/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Fg%2F1
-[/us/pl/107/16/s646/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fa%2F1%2FA
-[/us/pl/107/16/s646/a/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fa%2F1%2FC%2Fiii
-[/us/pl/107/16/s646/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fa%2F1%2FB
-[/us/pl/107/16/s646/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fa%2F1%2FC%2Fi
-[/us/pl/107/16/s646/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fa%2F1%2FC%2Fii
-[/us/pl/107/16/s611/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Ff%2F3%2FA
-[/us/pl/107/16/s611/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Ff%2F3%2FB
-[/us/pl/107/16/s666/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs666%2Fa
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/34/s1530/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F1
-[/us/pl/105/34/s1505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1505%2Fa%2F1
-[/us/pl/105/34/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1502%2Fb
-[/us/pl/105/34/s1505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1505%2Fa%2F2
-[/us/pl/105/34/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1505%2Fb
-[/us/pl/105/34/s1525/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1525%2Fa
-[/us/pl/105/34/s1601/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fd%2F2%2FD
-[/us/pl/105/34/s1601/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fd%2F2%2FA
-[/us/pl/105/34/s1601/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fd%2F2%2FB
-[/us/pl/105/34/s1601/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fd%2F3
-[/us/pl/104/188/s1431/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1431%2Fc%2F1%2FB
-[/us/pl/104/188/s1445/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1445%2Fa
-[/us/pl/104/188/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1404%2Fa
-[/us/pl/104/188/s1431/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1431%2Fb%2F2
-[/us/pl/104/188/s1704/t/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F67
-[/us/pl/104/188/s1432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1432%2Fa
-[/us/pl/104/188/s1432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1432%2Fb
-[/us/pl/104/188/s1401/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1401%2Fb%2F5
-[/us/pl/104/188/s1441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1441%2Fa
-[/us/pl/104/188/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fa
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/508/s12011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fb
-[/us/pl/104/188/s1433/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fc%2F1
-[/us/pl/104/188/s1433/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fd%2F1
-[/us/pl/104/188/s1459/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1459%2Fa
-[/us/pl/104/188/s1426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1426%2Fa
-[/us/pl/104/188/s1443/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1443%2Fb
-[/us/pl/104/188/s1443/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1443%2Fa
-[/us/pl/104/188/s1433/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fe%2F1
-[/us/pl/104/188/s1401/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1401%2Fb%2F6
-[/us/pl/104/188/s1422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1422%2Fa
-[/us/pl/104/188/s1433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fa
-[/us/pl/104/188/s1433/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fc%2F2
-[/us/pl/104/188/s1433/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fd%2F2
-[/us/pl/104/188/s1459/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1459%2Fb
-[/us/pl/104/188/s1433/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fe%2F2
-[/us/pl/104/188/s1422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1422%2Fb
-[/us/pl/104/188/s1433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fb
-[/us/pl/104/188/s1422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1422%2Fb
-[/us/pl/104/188/s1433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Fb
-[/us/pl/103/465/s732/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs732%2Fa
-[/us/pl/103/465/s751/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs751%2Fa%2F9%2FC
-[/us/pl/103/465/s766/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs766%2Fb
-[/us/pl/103/465/s776/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fd
+[/us/pl/101/508/tXII/s12011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII%2Fs12011%2Fb
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/102/318/s521/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fb%2F5
-[/us/pl/102/318/s521/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fb%2F6
-[/us/pl/102/318/s522/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs522%2Fa%2F1
-[/us/pl/102/318/s521/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fb%2F7
-[/us/pl/102/318/s521/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fb%2F8
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
-[/us/pl/101/239/s7811/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fh%2F3
-[/us/pl/100/647/s1011B/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fj%2F1
-[/us/pl/101/239/s7881/i/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fi%2F4%2FA
-[/us/pl/101/239/s7881/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fi%2F1%2FA
-[/us/pl/101/239/s7811/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fg%2F1
-[/us/pl/101/239/s7311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7311%2Fa
-[/us/pl/101/239/s7816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816
-[/us/pl/100/647/s6071/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6071%2Fb%2F2
-[/us/pl/100/647/s6053/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6053%2Fa
-[/us/pl/100/647/s1011A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A
-[/us/pl/100/647/s1011/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fd%2F4
-[/us/pl/100/647/s1011B/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fk%2F1
-[/us/pl/100/647/s1011/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F3
-[/us/pl/100/647/s6055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6055%2Fa
-[/us/pl/100/647/s1011/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F3
-[/us/pl/100/647/s6055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6055%2Fa
-[/us/pl/100/647/s1011A/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fj
-[/us/pl/100/647/s1011B/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fj%2F1
-[/us/pl/101/239/s7811/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fh%2F3
-[/us/pl/100/647/s1011B/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fd%2F2
-[/us/pl/100/647/s1011B/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fj%2F6
-[/us/pl/100/647/s1011/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fc%2F7%2FA
-[/us/pl/100/647/s6071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6071%2Fa
-[/us/pl/100/647/s1011/k/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F2%2FA
-[/us/pl/100/647/s1011/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F2%2FB
-[/us/pl/100/647/s1011/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F1%2FA
-[/us/pl/100/647/s1011/k/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F2%2FC
-[/us/pl/100/647/s1011/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F3%2FB
-[/us/pl/99/514/s1116/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F4
-[/us/pl/100/647/s1011/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F3%2FA
-[/us/pl/100/647/s1011/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F4
-[/us/pl/100/647/s1011/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F6
-[/us/pl/100/647/s6071/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6071%2Fb%2F2
-[/us/pl/101/239/s7816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816
-[/us/pl/100/647/s1011/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F9
-[/us/pl/100/647/s6071/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6071%2Fb%2F1
-[/us/pl/100/647/s1011/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fe%2F3
-[/us/pl/100/647/s1011/k/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F7
-[/us/pl/100/647/s1011/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F1%2FB
-[/us/pl/100/647/s1011/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fg%2F1%2FA
-[/us/pl/100/647/s1011/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fg%2F1%2FB
-[/us/pl/100/647/s1011/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fg%2F2
-[/us/pl/100/647/s1011/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fg%2F3
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/514/s1114/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F7
-[/us/pl/99/514/s1111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1111%2Fb
-[/us/pl/99/514/s1119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1119%2Fa
-[/us/pl/99/514/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1121%2Fb
-[/us/pl/99/514/s1852/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fa%2F4%2FA
-[/us/pl/99/514/s1852/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fa%2F6
-[/us/pl/99/514/s1898/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F3%2FA
-[/us/pl/99/514/s1898/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F2%2FA%2Fii
-[/us/pl/99/514/s1898/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F7%2FA
-[/us/pl/99/514/s1898/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F13%2FA
-[/us/pl/99/514/s1898/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F2%2FA%2Fi
-[/us/pl/99/514/s1145/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1145%2Fa
-[/us/pl/99/514/s1898/b/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F14%2FA
-[/us/pl/99/514/s1106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1106%2Fd%2F1
-[/us/pl/99/514/s1852/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fb%2F8
-[/us/pl/99/514/s1171/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fb%2F5
-[/us/pl/99/514/s1899A/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F10
-[/us/pl/99/514/s1176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1176%2Fa
-[/us/pl/99/514/s1174/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1174%2Fc%2F2%2FA
-[/us/pl/99/514/s1112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1112%2Fb
-[/us/pl/99/514/s1136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1136%2Fa
-[/us/pl/99/514/s1175/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1175%2Fa%2F1
-[/us/pl/99/514/s1848/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1848%2Fb
-[/us/pl/99/514/s1143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1143%2Fa
-[/us/pl/99/514/s1852/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fh%2F1
-[/us/pl/99/514/s1879/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fg%2F1
-[/us/pl/99/514/s1116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F1
-[/us/pl/99/514/s1852/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fg%2F3
-[/us/pl/99/514/s1116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F2
-[/us/pl/99/514/s1116/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fd%2F3
-[/us/pl/99/514/s1116/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F4
-[/us/pl/100/647/s1011/k/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F3%2FB
-[/us/pl/99/514/s1852/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fg%2F2
-[/us/pl/99/514/s1112/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1112%2Fd%2F1
-[/us/pl/99/514/s1116/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fc%2F2
-[/us/pl/99/514/s1116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fa
-[/us/pl/99/514/s1852/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fg%2F1
-[/us/pl/99/514/s1116/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fe
-[/us/pl/99/514/s1116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F3
-[/us/pl/99/514/s1116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F3
-[/us/pl/99/514/s1116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F3
-[/us/pl/99/514/s1879/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fg%2F2
-[/us/pl/99/514/s1116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fb%2F3
-[/us/pl/99/514/s1116/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fc%2F1
-[/us/pl/99/514/s1116/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Fd%2F2
-[/us/pl/99/514/s1111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1111%2Fa
-[/us/pl/99/514/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1117%2Fa
-[/us/pl/99/514/s1898/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F3
-[/us/pl/99/514/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1117%2Fa
-[/us/pl/99/514/s1898/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F3
-[/us/pl/99/514/s1117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1117%2Fa
-[/us/pl/99/514/s1898/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fc%2F3
-[/us/pl/98/369/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs521%2Fa%2F1
-[/us/pl/98/369/s521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs521%2Fa%2F2
-[/us/pl/97/248/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242%2Fa
-[/us/pl/98/369/s524/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs524%2Fd%2F1
-[/us/pl/98/397/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs203%2Fa
-[/us/pl/98/397/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs204%2Fa
-[/us/pl/98/369/s474/r/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F13
-[/us/pl/98/369/s491/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fe%2F4
-[/us/pl/98/369/s491/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fe%2F5
-[/us/pl/98/369/s211/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F5
-[/us/pl/98/397/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs301%2Fb
-[/us/pl/98/369/s713/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs713%2Fd%2F3
-[/us/pl/98/369/s713/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs713%2Fc%2F2%2FA
-[/us/pl/98/369/s528/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs528%2Fb
-[/us/pl/98/369/s527/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs527%2Fb%2F1
-[/us/pl/98/369/s527/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs527%2Fb%2F3
-[/us/pl/98/369/s527/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs527%2Fa
-[/us/pl/98/369/s527/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs527%2Fb%2F2
-[/us/pl/97/448/s103/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs103%2Fg%2F2%2FA
-[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
-[/us/pl/97/448/s306/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F12
-[/us/pl/97/448/s103/c/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs103%2Fc%2F10%2FA
-[/us/pl/97/448/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs103%2Fd%2F2
-[/us/pl/97/248/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242%2Fa
-[/us/pl/98/369/s521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs521%2Fa%2F2
-[/us/pl/97/248/s237/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs237%2Fe%2F1
-[/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
-[/us/pl/97/248/s240/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs240%2Fb
-[/us/pl/97/248/s237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs237%2Fb
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/248/s238/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs238%2Fd%2F1
-[/us/pl/97/248/s238/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs238%2Fd%2F2
-[/us/pl/97/248/s237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs237%2Fa
-[/us/pl/97/248/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs238%2Fb
-[/us/pl/97/248/s249/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs249%2Fa
-[/us/pl/97/34/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Fb%2F1
-[/us/pl/97/34/s338/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs338%2Fa
-[/us/pl/97/34/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs335
-[/us/pl/97/34/s312/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Fe%2F2
-[/us/pl/97/34/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs314%2Fa%2F1
-[/us/pl/97/34/s312/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Fc%2F2
-[/us/pl/97/34/s312/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Fc%2F3
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
-[/us/pl/96/605/s225/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs225%2Fb%2F1
-[/us/pl/96/364/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs208%2Fa
-[/us/pl/96/222/s101/a/14/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F14%2FE%2Fiii
-[/us/pl/96/222/s101/a/7/L/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F7%2FL%2Fi%2FV
-[/us/pl/96/222/s101/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F9
-[/us/pl/96/605/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs221%2Fa
-[/us/pl/96/605/s225/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs225%2Fb%2F2
-[/us/pl/95/600/s152/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs152%2Fe
-[/us/pl/95/600/s141/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs141%2Ff%2F3
-[/us/pl/95/600/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs143%2Fa
-[/us/pl/95/600/s135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs135%2Fa
+[/us/pl/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605
+[/us/pl/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/267/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267%2Fs1%2Fc%2F2
-[/us/pl/94/267/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267%2Fs1%2Fc%2F2
-[/us/pl/94/267/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267%2Fs1%2Fc%2F1
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1505%2Fb
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/93/406/s1021/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fa%2F2
-[/us/pl/93/406/s1016/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F2%2FA
-[/us/pl/93/406/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Fa
+[/us/pl/94/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267
+[/us/pl/94/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267
+[/us/pl/94/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
-[/us/pl/93/406/s1016/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F2%2FC
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
-[/us/pl/93/406/s1021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fa%2F1
-[/us/pl/93/406/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fb
-[/us/pl/93/406/s1021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fc
-[/us/pl/93/406/s1021/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fd
-[/us/pl/93/406/s1021/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fe
-[/us/pl/93/406/s2004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2004%2Fa%2F1
-[/us/pl/93/406/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fc
-[/us/pl/93/406/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fd%2F1
-[/us/pl/93/406/s1021/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Ff
-[/us/pl/93/406/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1023
-[/us/pl/93/406/s1022/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Fc
-[/us/pl/93/406/s1022/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Fb%2F2
-[/us/pl/93/406/s2001/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fh%2F1
-[/us/pl/93/406/s2001/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fe%2F1
-[/us/pl/93/406/s2001/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fe%2F2
-[/us/pl/93/406/s2001/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fe%2F3
-[/us/pl/93/406/s1022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Fd
-[/us/pl/93/406/s2001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fd%2F2
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F691
-[/us/pl/89/809/s204/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs204%2Fb%2F1%2FA
-[/us/pl/89/809/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs204%2Fc
-[/us/pl/89/809/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs204%2Fc
-[/us/pl/89/809/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs205%2Fa
-[/us/pl/89/809/s204/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs204%2Fb%2F1%2FB
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/87/792/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2%2F1
-[/us/pl/87/792/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2%2F2
-[/us/pl/87/792/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2%2F3
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
-[/us/pl/87/792/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs2%2F3
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
-[/us/pl/111/192/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fc%2F1
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
@@ -4469,28 +4469,28 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/110/458/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs201%2Fc
+[/us/pl/110/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtII
 [/us/stat/122/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5117
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/110/245/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs104%2Fd
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1627
-[/us/pl/109/280/s114/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fg
-[/us/pl/110/458/s101/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F3
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
 [/us/pl/109/280/s827/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs827%2Fb%2F1
 [/us/pl/109/280/s827/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs827%2Fc
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s861/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs861%2Fc
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1021
-[/us/pl/109/280/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fc
+[/us/pl/109/280/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIX
 [/us/stat/120/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1032
 [/us/usc/t29/s1054/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fj%2F7
-[/us/pl/109/280/s902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fg
+[/us/pl/109/280/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIX
 [/us/stat/120/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1039
-[/us/pl/109/280/s905/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs905%2Fc
+[/us/pl/109/280/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIX
 [/us/stat/120/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1051
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/108/311/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs407%2Fc
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1190
 [/us/usc/t26/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1377
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -4504,32 +4504,32 @@
 [/us/pl/107/16/s641/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs641%2Fe%2F3
 [/us/pl/107/16/s641/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs641%2Ff%2F1
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/107/16/s643/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs643%2Fd
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F123
-[/us/pl/107/16/s646/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs646%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F126
-[/us/pl/107/16/s657/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fd
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F137
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
 [/us/usc/t29/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1104
-[/us/pl/107/16/s666/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs666%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F144
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs51
-[/us/pl/105/34/s1502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1502%2Fc
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1061
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
-[/us/pl/105/34/s1505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1505%2Fd
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1064
-[/us/pl/105/206/s6015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6015%2Fb
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
-[/us/pl/109/280/s861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs861%2Fa%2F2
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1021
-[/us/pl/105/34/s1525/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1525%2Fb
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1072
-[/us/pl/105/34/s1530/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fd
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1080
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -4539,133 +4539,133 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1401%2Fc
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/104/188/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1404%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1792
-[/us/pl/104/188/s1422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1422%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1801
-[/us/pl/104/188/s1426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1426%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1802
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/104/188/s1431/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1431%2Fb%2F2
 [/us/pl/104/188/s1431/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1431%2Fc%2F1%2FB
 [/us/pl/104/188/s1431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1431%2Fd
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
-[/us/pl/104/188/s1432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1432%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1804
-[/us/pl/104/188/s1433/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1433%2Ff
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1807
-[/us/pl/104/188/s1441/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1441%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1808
-[/us/pl/104/188/s1443/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1443%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1809
-[/us/pl/104/188/s1445/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1445%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1811
-[/us/pl/104/188/s1459/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1459%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1820
-[/us/pl/103/465/s732/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs732%2Fe
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5005
-[/us/pl/103/465/s751/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs751%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5022
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
-[/us/pl/103/465/s766/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs766%2Fd
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5037
 [/us/pl/103/465/s776/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fd
 [/us/pl/103/465/s776/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fe
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
-[/us/pl/103/465/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs781
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5050
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/66/s13212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13212%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F472
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/102/318/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fe
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/102/318/s522/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs522%2Fd
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F315
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s12011/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fc%2F1
 [/us/usc/t26/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs420
-[/us/pl/101/239/s7311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7311%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2354
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/101/239/s7882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7882
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t29/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
 [/us/pl/99/514/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151
 [/us/pl/101/140/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fc
 [/us/usc/t26/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs79
-[/us/pl/100/647/s1011/c/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fc%2F7%2FE
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3458
 [/us/pl/99/514/s1105/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1105%2Fc%2F2
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/100/647/s1011/k/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F1%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3469
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3470
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6053/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6053%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3696
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/100/647/s6055/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6055%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3697
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/100/647/s6071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6071%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3705
 [/us/usc/t26/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs457
-[/us/pl/100/203/s9341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fc
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-371
-[/us/pl/101/239/s7881/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fi%2F5
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2442
 [/us/usc/t29/s1085b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085b
 [/us/pl/99/514/s1106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1106%2Fd%2F1
 [/us/pl/99/514/s1106/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1106%2Fi%2F5
 [/us/usc/t26/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs415
-[/us/pl/99/514/s1111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1111%2Fc
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2440
-[/us/pl/100/647/s1011/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fg%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3464
-[/us/pl/99/514/s1112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1112%2Fe
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2445
-[/us/pl/100/647/s1011/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fh%2F6
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3465
 [/us/usc/t29/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301
 [/us/pl/99/514/s1114/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F7
 [/us/pl/99/514/s1114/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fc%2F3
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
-[/us/pl/99/514/s1116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1116%2Ff
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2457
-[/us/pl/100/647/s1011/k/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011%2Fk%2F8
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3470
-[/us/pl/99/514/s1117/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1117%2Fd
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2462
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3471
 [/us/usc/t26/s4979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4979
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
-[/us/pl/99/514/s1119/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1119%2Fb
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2463
-[/us/pl/99/514/s1121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1121%2Fd
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2465
-[/us/pl/100/647/s1011A/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fa%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3472
 [/us/usc/t26/s4974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4974
 [/us/pl/97/248/s242/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242%2Fb%2F2
-[/us/pl/99/514/s1136/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1136%2Fc
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2486
-[/us/pl/99/514/s1143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1143%2Fb
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2490
-[/us/pl/99/514/s1145/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1145%2Fd
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2491
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4673,24 +4673,24 @@
 [/us/pl/99/514/s1171/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fb%2F5
 [/us/pl/99/514/s1171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fc
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
-[/us/pl/99/514/s1174/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1174%2Fc%2F2%2FB
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2518
-[/us/pl/99/514/s1175/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1175%2Fa%2F2
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2519
-[/us/pl/99/514/s1176/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1176%2Fc
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2520
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/99/514/s1852/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fh%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2869
-[/us/pl/100/647/s1018/t/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F3%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3588
-[/us/pl/99/514/s1879/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fg%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2907
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/514/s1898/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fj
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2957
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
@@ -4708,23 +4708,23 @@
 [/us/pl/98/369/s474/r/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F13
 [/us/pl/98/369/s475/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs475%2Fa
 [/us/usc/t26/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs21
-[/us/pl/98/369/s491/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Ff%2F3
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F853
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/98/369/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs521%2Fe
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F868
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/97/248/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/98/369/s524/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs524%2Fd%2F2
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F872
-[/us/pl/98/369/s527/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs527%2Fc
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F876
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/95/600/s135/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs135%2Fc%2F2
-[/us/pl/98/369/s528/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs528%2Fc
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F877
 [/us/usc/t26/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs415
 [/us/pl/98/369/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs713
@@ -4738,14 +4738,14 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/448/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/248/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F521
 [/us/pl/97/248/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs242%2Fa
-[/us/pl/98/369/s521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs521%2Fa%2F2
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F867
-[/us/pl/97/248/s249/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs249%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F528
-[/us/pl/97/248/s254/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs254%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F533
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs241
@@ -4753,19 +4753,19 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s312/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs312%2Ff%2F1
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/97/34/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs314%2Fa%2F2
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F286
-[/us/pl/97/34/s338/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs338%2Fb
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F298
-[/us/pl/97/34/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs339
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F299
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t26/s44G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs44G
-[/us/pl/96/605/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs221%2Fb
+[/us/pl/96/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtII
 [/us/stat/94/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3528
-[/us/pl/96/605/s225/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs225%2Fc
+[/us/pl/96/605/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtII
 [/us/stat/94/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3529
-[/us/pl/96/364/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs410%2Fc
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1308
 [/us/usc/t29/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1103
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
@@ -4775,13 +4775,13 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/95/600/s135/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs135%2Fc%2F1
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2787
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
 [/us/pl/95/600/s141/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs141%2Ff%2F3
 [/us/pl/95/600/s141/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs141%2Fg%2F1
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/95/600/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs143%2Fb
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2796
 [/us/pl/95/600/s152/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs152%2Fe
 [/us/pl/95/600/s152/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs152%2Fh
@@ -4789,13 +4789,13 @@
 [/us/pl/94/455/s803/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs803%2Fb%2F2
 [/us/pl/94/455/s803/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs803%2Fj
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
-[/us/pl/94/455/s1505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1505%2Fc
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1739
 [/us/usc/t26/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs801
 [/us/pl/94/455/s1901/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F56
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/94/267/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267%2Fs1%2Fe
+[/us/pl/94/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F267
 [/us/stat/90/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F369
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
@@ -4803,18 +4803,18 @@
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
-[/us/pl/93/406/s1021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1021%2Fa%2F1
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F935
-[/us/pl/93/406/s1022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Fd
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F939
-[/us/pl/93/406/s1022/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1022%2Ff
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F940
-[/us/pl/93/406/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1024
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F943
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
 [/us/usc/t26/s6051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6051
-[/us/pl/93/406/s2001/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2001%2Fi%2F2
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F958
 [/us/usc/t26/s4972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4972
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
@@ -4824,49 +4824,49 @@
 [/us/pl/93/406/s2004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2004%2Fa%2F1
 [/us/pl/93/406/s2004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2004%2Fd
 [/us/usc/t26/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs415
-[/us/pl/91/691/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F691%2Fs1%2Fb
+[/us/pl/91/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F691
 [/us/stat/84/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2074
-[/us/pl/89/809/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs204%2Fd
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1578
 [/us/pl/90/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F607
 [/us/stat/82/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1189
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
-[/us/pl/89/809/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs205%2Fb
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1578
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97/s106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs106%2Fe
 [/us/usc/t26/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs213
-[/us/pl/88/272/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs219%2Fb
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F58
-[/us/pl/87/863/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863%2Fs2%2Fc
+[/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/stat/76/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1142
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/pl/87/792/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs8
 [/us/usc/t26/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs22
-[/us/pl/87/792/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs1
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/stat/76/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F809
-[/us/pl/109/280/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs823
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F998
-[/us/pl/109/280/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs826
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F999
-[/us/pl/107/16/s657/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs657%2Fc%2F2
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F136
 [/us/usc/t29/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1104%2Fa
-[/us/pl/99/514/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1141
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2490
 [/us/usc/t29/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/usc/t26/s4979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4979
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/usc/t26/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs403
-[/us/pl/109/280/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs104
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F816
-[/us/pl/111/192/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fb
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1298
-[/us/pl/113/97/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs103%2Fb
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4885,10 +4885,10 @@
 [/us/usc/t29/s1083/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F3
 [/us/usc/t29/s1083/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F2%2FD%2Fi
 [/us/usc/t29/s1083/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fc%2F6
-[/us/pl/111/192/s202/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fc%2F2
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1299
 [/us/pl/109/280/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs104
-[/us/pl/109/280/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs105
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F817
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4898,7 +4898,7 @@
 [/us/usc/t29/s1083/h/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiii
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/usc/t29/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1342
-[/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F817
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -4907,8 +4907,8 @@
 [/us/usc/t29/s1082/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fb%2F5%2FB
 [/us/usc/t29/s1083/h/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC%2Fiii
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/109/280/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs107
-[/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -4923,62 +4923,62 @@
 [/us/usc/t29/s1082/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fc%2F2
 [/us/usc/t29/s1082/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fd%2F8%2FB
 [/us/usc/t29/s1082/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fd
-[/us/pl/109/280/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs865
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1025
-[/us/pl/105/34/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1510
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1068
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/104/188/s1704/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fk
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1882
-[/us/pl/100/647/s6065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6065
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3702
-[/us/pl/100/203/s9343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9343%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-372
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/104/188/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1465
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1825
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/102/318/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs523
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F315
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
-[/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2489
-[/us/pl/101/239/s7861/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7861%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2431
-[/us/pl/104/188/s1704/t/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F27
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/99/514/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1142
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2490
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s1852/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1852%2Fa%2F4%2FC
-[/us/pl/100/647/s1018/t/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F3%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3588
-[/us/pl/98/369/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs553
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F897
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/98/369/s524/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs524%2Fe
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F872
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/95/600/s135/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs135%2Fc%2F2
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2787
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/93/406/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2006
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F992
-[/us/pl/94/455/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1506
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1739
-[/us/pl/95/615/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs5
+[/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/stat/92/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3097
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs403%2Fa
 [/us/usc/t26/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs405%2Fa
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/95/615/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs210%2Fb
+[/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/stat/92/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3109
 [/us/pl/93/406/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2006
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, title I, § 1018(u)(32)][/us/pl/100/647/s1018/u/32], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592], redesignated parts III and IV as II and III, respectively, and struck out former Part II “Mutual insurance companies (other than life and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies of premium deposits).”
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(32), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592], redesignated parts III and IV as II and III, respectively, and struck out former Part II “Mutual insurance companies (other than life and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies of premium deposits).”
 
-    1962—[Pub. L. 87–834, § 8(g)(4)(A)][/us/pl/87/834/s8/g/4/A], Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999], substituted “and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies or premium deposits” for “or marine or fire insurance companies issuing perpetual policies” in heading of part II.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 8(g)(4)(A), Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999], substituted “and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies or premium deposits” for “or marine or fire insurance companies issuing perpetual policies” in heading of part II.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/100/647/s1018/u/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F32
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
-[/us/pl/87/834/s8/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fg%2F4%2FA
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F999
 
 

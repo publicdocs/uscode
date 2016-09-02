@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptV/m__us_usc_t26_stA_ch1_schO_ptV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVI/m__us_usc_t26_stA_ch1_schO_ptVI.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1071)
 
-## \[§ 1071. Repealed. [Pub. L. 104–7, § 2(a)][/us/pl/104/7/s2/a], Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93]\]
+## \[§ 1071. Repealed. [Pub. L. 104–7][/us/pl/104/7], § 2(a), Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93]\]
 
-    Section, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 311][/us/stat/68A/311]; Sept. 2, 1958, [Pub. L. 85–866, title I, § 48(a)][/us/pl/85/866/s48/a], [72 Stat. 1642][/us/stat/72/1642]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(31)(E), 1906(b)(13)(A), [90 Stat. 1800][/us/stat/90/1800], 1834, provided for nonrecognition on FCC certified sales and exchanges.
+    Section, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 311][/us/stat/68A/311]; Sept. 2, 1958, [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 48(a), [72 Stat. 1642][/us/stat/72/1642]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(31)(E), 1906(b)(13)(A), [90 Stat. 1800][/us/stat/90/1800], 1834, provided for nonrecognition on FCC certified sales and exchanges.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 104–7, § 2(d)][/us/pl/104/7/s2/d], Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], provided that:
+[Pub. L. 104–7][/us/pl/104/7], § 2(d), Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/104/7/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7%2Fs2%2Fa
+[/us/pl/104/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7
 [/us/stat/109/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F93
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F311
-[/us/pl/85/866/s48/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs48%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1642
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1800
-[/us/pl/104/7/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7%2Fs2%2Fd
+[/us/pl/104/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7
 [/us/stat/109/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F93
 
 

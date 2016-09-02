@@ -27,7 +27,7 @@
 
         The bonds given under subsection (a) shall be cancelled or credited and the bonds liable under subsection (b) credited if there is such proof of exportation as the Secretary may by regulations require.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1352][/us/stat/72/1352]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 3(b)][/us/pl/95/176/s3/b], Nov. 14, 1977, [91 Stat. 1365][/us/stat/91/1365]; [Pub. L. 96–39, title VIII, § 807(a)(15)][/us/pl/96/39/s807/a/15], July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 105–34, title XIV, § 1412(a)][/us/pl/105/34/s1412/a], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1352][/us/stat/72/1352]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 3(b), Nov. 14, 1977, [91 Stat. 1365][/us/stat/91/1365]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(15), July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1412(a), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
 
  __Prior Provisions__ 
 
@@ -39,9 +39,9 @@
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
-    1979—Subsec. (a). [Pub. L. 96–39, § 807(a)(15)(A)][/us/pl/96/39/s807/a/15/A], struck out “for storage therein pending exportation” after “customs bonded warehouse”.
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 
-    Subsec. (b). [Pub. L. 96–39, § 807(a)(15)(B)][/us/pl/96/39/s807/a/15/B], substituted “from bonded premises by the proprietor for exportation without payment of tax, the bond of such proprietor required to be furnished under paragraph (1) of section 5173(a) covering such premises shall cover such exportation, and subsection (a) shall not apply” for “for exportation without payment of tax on application of the proprietor of bonded premises, the bond of such proprietor covering such bonded premises shall cover such exportation and subsection (a) shall not be applicable”.
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(15)(B), substituted “from bonded premises by the proprietor for exportation without payment of tax, the bond of such proprietor required to be furnished under paragraph (1) of section 5173(a) covering such premises shall cover such exportation, and subsection (a) shall not apply” for “for exportation without payment of tax on application of the proprietor of bonded premises, the bond of such proprietor covering such bonded premises shall cover such exportation and subsection (a) shall not be applicable”.
 
     1977—Subsec. (a). [Pub. L. 95–176][/us/pl/95/176] required export bonds for withdrawals from bonded premises, without payment of tax, for transfer to a customs bonded warehouse for storage therein pending exportation.
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1412(b)][/us/pl/105/34/s1412/b], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1412(b), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -63,7 +63,7 @@
 
  __Continuation of Distiller’s Notice and Bond__ 
 
-[Pub. L. 85–859, title II, § 210(f)][/us/pl/85/859/s210/f], Sept. 2, 1958, [72 Stat. 1436][/us/stat/72/1436], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 210(f), Sept. 2, 1958, [72 Stat. 1436][/us/stat/72/1436], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Notwithstanding any provision of section 5175 or 5176(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Secretary of the Treasury or his delegate may waive, as to registered distillers or registered fruit distillers qualified to operate under bond on April 30, 1959, requirements for filing notice and executing new bond on May 1, 1959, if the distiller and the surety have executed consent to continuation of the terms of the existing bond to cover operations from May 1, 1959, to June 30, 1959, both dates inclusive. Nothing in this subsection shall be construed as limiting the authority of the Secretary of the Treasury or his delegate under section 5176(b) or (c) of the Internal Revenue Code of 1986.”
 
@@ -74,15 +74,15 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1352
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs3%2Fb
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1365
-[/us/pl/96/39/s807/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F15
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F282
-[/us/pl/105/34/s1412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1412%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F628
@@ -91,11 +91,11 @@
 [/us/stat/68A/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F647
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/96/39/s807/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F15%2FA
-[/us/pl/96/39/s807/a/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F15%2FB
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/105/34/s1412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1412%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
@@ -103,9 +103,9 @@
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/95/176/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs7
 [/us/usc/t26/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5003
-[/us/pl/85/859/s210/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Ff
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1436
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

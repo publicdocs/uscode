@@ -17,7 +17,7 @@
 
     The Secretary shall prescribe such regulations as he may deem necessary in order that the tax liability of any affiliated group of corporations making a consolidated return and of each corporation in the group, both during and after the period of affiliation, may be returned, determined, computed, assessed, collected, and adjusted, in such manner as clearly to reflect the income-tax liability and the various factors necessary for the determination of such liability, and in order to prevent avoidance of such tax liability. In carrying out the preceding sentence, the Secretary may prescribe rules that are different from the provisions of chapter 1 that would apply if such corporations filed separate returns.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 367][/us/stat/68A/367]; [Pub. L. 94–455, title XIX, § 1906(b)][/us/pl/94/455/s1906/b] (13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 108–357, title VIII, § 844(a)][/us/pl/108/357/s844/a], Oct. 22, 2004, [118 Stat. 1600][/us/stat/118/1600].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 367][/us/stat/68A/367]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b) (13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 844(a), Oct. 22, 2004, [118 Stat. 1600][/us/stat/118/1600].)
 
  __Amendments__ 
 
@@ -27,13 +27,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 844(c)][/us/pl/108/357/s844/c], Oct. 22, 2004, [118 Stat. 1600][/us/stat/118/1600], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 844(c), Oct. 22, 2004, [118 Stat. 1600][/us/stat/118/1600], provided that: 
 
 > “This section \[amending this section\], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Dual Resident Companies__ 
 
-[Pub. L. 100–647, title VI, § 6126][/us/pl/100/647/s6126], Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6126, Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Special Rule for Disposition of Stock of Subsidiary__ 
 
-[Pub. L. 99–514, title VI, § 647][/us/pl/99/514/s647], Oct. 22, 1986, [100 Stat. 2294][/us/stat/100/2294], provided that: 
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 647, Oct. 22, 1986, [100 Stat. 2294][/us/stat/100/2294], provided that: 
 
 > “If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under the laws of the foreign country in which the joint venture mineral project is located.”
 
@@ -130,17 +130,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F367
-[/us/pl/94/455/s1906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/108/357/s844/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs844%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1600
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/108/357/s844/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs844%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1600
-[/us/pl/100/647/s6126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6126
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3713
-[/us/pl/99/514/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs647
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2294
 
 

@@ -91,13 +91,13 @@
 
                 (ii) the date on which the Secretary is notified of such allocation or ownership.
 
-(Added and amended [Pub. L. 99–514, title XI, § 1172(b)(2)][/us/pl/99/514/s1172/b/2], title XVIII, § 1854(a)(9)(A), Oct. 22, 1986, [100 Stat. 2514][/us/stat/100/2514], 2877; [Pub. L. 101–239, title VII, § 7304(a)(2)(D)][/us/pl/101/239/s7304/a/2/D], Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353]; [Pub. L. 104–188, title I, § 1704(t)(22)][/us/pl/104/188/s1704/t/22], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 105–34, title XV, § 1530(c)(15)][/us/pl/105/34/s1530/c/15]–(17), Aug. 5, 1997, [111 Stat. 1079][/us/stat/111/1079], 1080; [Pub. L. 107–16, title VI, § 656(c)][/us/pl/107/16/s656/c], June 7, 2001, [115 Stat. 134][/us/stat/115/134].)
+(Added and amended [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1172(b)(2), title XVIII, § 1854(a)(9)(A), Oct. 22, 1986, [100 Stat. 2514][/us/stat/100/2514], 2877; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7304(a)(2)(D), Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(22), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1530(c)(15)–(17), Aug. 5, 1997, [111 Stat. 1079][/us/stat/111/1079], 1080; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 656(c), June 7, 2001, [115 Stat. 134][/us/stat/115/134].)
 
  __Amendments__ 
 
-    2001—Subsec. (a). [Pub. L. 107–16, § 656(c)(1)][/us/pl/107/16/s656/c/1], added pars. (3) and (4) and, in concluding provisions, substituted “there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.” for “there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
+    2001—Subsec. (a). [Pub. L. 107–16][/us/pl/107/16], § 656(c)(1), added pars. (3) and (4) and, in concluding provisions, substituted “there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.” for “there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
 
-    Subsec. (c). [Pub. L. 107–16, § 656(c)(2)][/us/pl/107/16/s656/c/2], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
+    Subsec. (c). [Pub. L. 107–16][/us/pl/107/16], § 656(c)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
 
     “(1) the employer sponsoring such plan, or
 
@@ -105,11 +105,11 @@
 
     which made the written statement described in section 664(g)(1)(E) or in section 1042(b)(3)(B) (as the case may be).”
 
-    Subsec. (e). [Pub. L. 107–16, § 656(c)(3)][/us/pl/107/16/s656/c/3], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Terms used in this section have the same respective meaning as when used in section 4978.”
+    Subsec. (e). [Pub. L. 107–16][/us/pl/107/16], § 656(c)(3), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Terms used in this section have the same respective meaning as when used in section 4978.”
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1530(c)(15)][/us/pl/105/34/s1530/c/15], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1530(c)(15), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
 
-    Subsec. (c). [Pub. L. 105–34, § 1530(c)(16)][/us/pl/105/34/s1530/c/16], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
+    Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1530(c)(16), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
 
     “(1) the employer sponsoring such plan, or
 
@@ -117,17 +117,17 @@
 
     which made the written statement described in section 1042(b)(3)(B).”
 
-    Subsecs. (d), (e). [Pub. L. 105–34, § 1530(c)(17)][/us/pl/105/34/s1530/c/17], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 105–34][/us/pl/105/34], § 1530(c)(17), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    1996—Subsec. (c). [Pub. L. 104–188][/us/pl/104/188] amended directory language of [Pub. L. 101–239, § 7304(a)(2)(D)(ii)][/us/pl/101/239/s7304/a/2/D/ii]. See 1989 Amendment note below.
+    1996—Subsec. (c). [Pub. L. 104–188][/us/pl/104/188] amended directory language of [Pub. L. 101–239][/us/pl/101/239], § 7304(a)(2)(D)(ii). See 1989 Amendment note below.
 
-    1989—Subsec. (b)(1). [Pub. L. 101–239, § 7304(a)(2)(D)(i)][/us/pl/101/239/s7304/a/2/D/i], struck out “or section 2057” after “section 1042”.
+    1989—Subsec. (b)(1). [Pub. L. 101–239][/us/pl/101/239], § 7304(a)(2)(D)(i), struck out “or section 2057” after “section 1042”.
 
-    Subsec. (c). [Pub. L. 101–239, § 7304(a)(2)(D)(ii)][/us/pl/101/239/s7304/a/2/D/ii], as amended by [Pub. L. 104–188][/us/pl/104/188], struck out “or section 2057(d)” after “section 1042(b)(3)(B)” in concluding provisions.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7304(a)(2)(D)(ii), as amended by [Pub. L. 104–188][/us/pl/104/188], struck out “or section 2057(d)” after “section 1042(b)(3)(B)” in concluding provisions.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1172(b)(2)(A)][/us/pl/99/514/s1172/b/2/A], inserted reference to section 2057.
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1172(b)(2)(A), inserted reference to section 2057.
 
-    Subsec. (c). [Pub. L. 99–514, § 1172(b)(2)(B)][/us/pl/99/514/s1172/b/2/B], inserted reference to section 2057(d).
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1172(b)(2)(B), inserted reference to section 2057(d).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -147,7 +147,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XVIII, § 1854(a)(9)(D)][/us/pl/99/514/s1854/a/9/D], Oct. 22, 1986, [100 Stat. 2878][/us/stat/100/2878], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1854(a)(9)(D), Oct. 22, 1986, [100 Stat. 2878][/us/stat/100/2878], provided that: 
 
 > “The amendments made by this paragraph \[enacting this section and amending [section 1042 of this title][/us/usc/t26/s1042]\] shall apply to sales of securities after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -162,29 +162,29 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1172/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1172%2Fb%2F2
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2514
-[/us/pl/101/239/s7304/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fa%2F2%2FD
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2353
-[/us/pl/104/188/s1704/t/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F22
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
-[/us/pl/105/34/s1530/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F15
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1079
-[/us/pl/107/16/s656/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs656%2Fc
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F134
-[/us/pl/107/16/s656/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs656%2Fc%2F1
-[/us/pl/107/16/s656/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs656%2Fc%2F2
-[/us/pl/107/16/s656/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs656%2Fc%2F3
-[/us/pl/105/34/s1530/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F15
-[/us/pl/105/34/s1530/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F16
-[/us/pl/105/34/s1530/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F17
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/239/s7304/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fa%2F2%2FD%2Fii
-[/us/pl/101/239/s7304/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fa%2F2%2FD%2Fi
-[/us/pl/101/239/s7304/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fa%2F2%2FD%2Fii
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/99/514/s1172/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1172%2Fb%2F2%2FA
-[/us/pl/99/514/s1172/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1172%2Fb%2F2%2FB
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/usc/t26/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1362%2Fa
 [/us/pl/107/16/s656/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs656%2Fd
@@ -198,7 +198,7 @@
 [/us/pl/99/514/s1172/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1172%2Fb%2F2
 [/us/pl/99/514/s1172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1172%2Fc
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/99/514/s1854/a/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1854%2Fa%2F9%2FD
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2878
 [/us/usc/t26/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1042
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

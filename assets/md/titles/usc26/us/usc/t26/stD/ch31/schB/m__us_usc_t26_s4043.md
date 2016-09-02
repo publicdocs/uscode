@@ -103,11 +103,11 @@
 
         This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2021.
 
-(Added [Pub. L. 112–95, title XI, § 1103(a)(1)][/us/pl/112/95/s1103/a/1], Feb. 14, 2012, [126 Stat. 149][/us/stat/126/149].)
+(Added [Pub. L. 112–95, title XI][/us/pl/112/95/tXI], § 1103(a)(1), Feb. 14, 2012, [126 Stat. 149][/us/stat/126/149].)
 
  __Effective Date__ 
 
-[Pub. L. 112–95, title XI, § 1103(d)(1)][/us/pl/112/95/s1103/d/1], Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: 
+[Pub. L. 112–95, title XI][/us/pl/112/95/tXI], § 1103(d)(1), Feb. 14, 2012, [126 Stat. 151][/us/stat/126/151], provided that: 
 
 > “The amendments made by subsection (a) \[enacting this section and amending sections 4082 and 9502 of this title\] shall apply to fuel used after March 31, 2012.”
 
@@ -118,9 +118,9 @@
 ----------
 ----------
 
-[/us/pl/112/95/s1103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fa%2F1
+[/us/pl/112/95/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtXI
 [/us/stat/126/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F149
-[/us/pl/112/95/s1103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fd%2F1
+[/us/pl/112/95/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2FtXI
 [/us/stat/126/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F151
 
 

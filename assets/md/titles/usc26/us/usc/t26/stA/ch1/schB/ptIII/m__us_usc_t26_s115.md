@@ -21,7 +21,7 @@
 
     (2) income accruing to the government of any possession of the United States, or any political subdivision thereof.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 35][/us/stat/68A/35]; [Pub. L. 94–455, title XIX, § 1901(a)(19)][/us/pl/94/455/s1901/a/19], Oct. 4, 1976, [90 Stat. 1766][/us/stat/90/1766].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 35][/us/stat/68A/35]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(19), Oct. 4, 1976, [90 Stat. 1766][/us/stat/90/1766].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Tax Treatment of State Ownership of Railroad Real Estate Investment Trust__ 
 
-[Pub. L. 109–59, title XI, § 11146][/us/pl/109/59/s11146], Aug. 10, 2005, [119 Stat. 1966][/us/stat/119/1966], provided that:
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11146, Aug. 10, 2005, [119 Stat. 1966][/us/stat/119/1966], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -110,13 +110,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F35
-[/us/pl/94/455/s1901/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F19
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1766
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/109/59/s11146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11146
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1966
 [/us/usc/t49/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10101
 

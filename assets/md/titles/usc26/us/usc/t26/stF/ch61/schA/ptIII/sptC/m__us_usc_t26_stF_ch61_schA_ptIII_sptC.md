@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1965—[Pub. L. 89–97, title III, § 313(e)(2)(D)][/us/pl/89/97/s313/e/2/D], July 30, 1965, [79 Stat. 385][/us/stat/79/385], added item 6053.
+    1965—[Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 313(e)(2)(D), July 30, 1965, [79 Stat. 385][/us/stat/79/385], added item 6053.
 
-    1964—[Pub. L. 88–272, title II, § 204(c)(3)][/us/pl/88/272/s204/c/3], Feb. 26, 1964, [78 Stat. 37][/us/stat/78/37], added item 6052.
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 204(c)(3), Feb. 26, 1964, [78 Stat. 37][/us/stat/78/37], added item 6052.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/89/97/s313/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fe%2F2%2FD
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F385
-[/us/pl/88/272/s204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs204%2Fc%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F37
 
 

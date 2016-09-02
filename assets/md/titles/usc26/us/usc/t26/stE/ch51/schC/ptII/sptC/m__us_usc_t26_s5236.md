@@ -17,7 +17,7 @@
 
     When the Secretary finds any facilities for the storage of distilled spirits on bonded premises to be unsafe or unfit for use, or the spirits contained therein subject to great loss or wastage he may require the discontinuance of the use of such facilities and require the spirits contained therein to be transferred to such other storage facilities as he may designate. Such transfer shall be made at such time and under such supervision as the Secretary may require and the expense of the transfer shall be paid by the owner or the warehouseman of the distilled spirits. Whenever the owner of such distilled spirits or the warehouseman fails to make such transfer within the time prescribed, or to pay the just and proper expense of such transfer, as ascertained and determined by the Secretary, such distilled spirits may be seized and sold by the Secretary in the same manner as goods are sold on distraint for taxes, and the proceeds of such sale shall be applied to the payment of the taxes due thereon and the cost and expenses of such sale and removal, and the balance paid over to the owner of such distilled spirits.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1369][/us/stat/72/1369]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1369][/us/stat/72/1369]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1369
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F649

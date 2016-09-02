@@ -17,7 +17,7 @@
 
     The mailing by certified mail or registered mail of any pleading, decision, order, notice, or process in respect of proceedings before the Tax Court shall be held sufficient service of such pleading, decision, order, notice, or process.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 85–866, title I, § 89(b)][/us/pl/85/866/s89/b], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(b), Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F884
-[/us/pl/85/866/s89/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866

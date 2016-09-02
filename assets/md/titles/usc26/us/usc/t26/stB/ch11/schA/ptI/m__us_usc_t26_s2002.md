@@ -17,7 +17,7 @@
 
     The tax imposed by this chapter shall be paid by the executor.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 374][/us/stat/68A/374]; [Pub. L. 98–369, div. A, title V, § 544(b)(1)][/us/pl/98/369/s544/b/1], July 18, 1984, [98 Stat. 894][/us/stat/98/894]; [Pub. L. 101–239, title VII, § 7304(b)(2)(A)][/us/pl/101/239/s7304/b/2/A], Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 374][/us/stat/68A/374]; [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 544(b)(1), July 18, 1984, [98 Stat. 894][/us/stat/98/894]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7304(b)(2)(A), Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353].)
 
  __Amendments__ 
 
@@ -27,13 +27,13 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7304(b)(3)][/us/pl/101/239/s7304/b/3], Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7304(b)(3), Dec. 19, 1989, [103 Stat. 2353][/us/stat/103/2353], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 6018 of this title][/us/usc/t26/s6018] and repealing [section 2210 of this title][/us/usc/t26/s2210]\] shall apply to estates of decedents dying after July 12, 1989.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title V, § 544(d)][/us/pl/98/369/s544/d], July 18, 1984, [98 Stat. 894][/us/stat/98/894], provided that: 
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 544(d), July 18, 1984, [98 Stat. 894][/us/stat/98/894], provided that: 
 
 > “The amendments made by this section \[enacting [section 2210 of this title][/us/usc/t26/s2210] and amending this section and sections 6018 and 6166 of this title\] shall apply to those estates of decedents which are required to file returns on a date (including any extensions) after the date of enactment of this Act \[July 18, 1984\].”
 
@@ -46,17 +46,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F374
-[/us/pl/98/369/s544/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs544%2Fb%2F1
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F894
-[/us/pl/101/239/s7304/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fb%2F2%2FA
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2353
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/101/239/s7304/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7304%2Fb%2F3
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2353
 [/us/usc/t26/s6018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6018
 [/us/usc/t26/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2210
-[/us/pl/98/369/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs544%2Fd
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F894
 [/us/usc/t26/s2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2210
 

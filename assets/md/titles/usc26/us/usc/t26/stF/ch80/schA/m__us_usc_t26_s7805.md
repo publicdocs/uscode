@@ -99,7 +99,7 @@
 
             (B) the consideration (and discussion) required under paragraph (2) shall be made in connection with the promulgation of such final regulation.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 917][/us/stat/68A/917]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 43(b)][/us/pl/98/369/s43/b], July 18, 1984, [98 Stat. 558][/us/stat/98/558]; [Pub. L. 100–647, title VI, § 6232(a)][/us/pl/100/647/s6232/a], Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734]; [Pub. L. 101–508, title XI, § 11621(a)][/us/pl/101/508/s11621/a], Nov. 5, 1990, [104 Stat. 1388–503][/us/stat/104/1388-503]; [Pub. L. 104–168, title XI, § 1101(a)][/us/pl/104/168/s1101/a], July 30, 1996, [110 Stat. 1468][/us/stat/110/1468]; [Pub. L. 105–206, title III, § 3704][/us/pl/105/206/s3704], July 22, 1998, [112 Stat. 777][/us/stat/112/777].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 917][/us/stat/68A/917]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 43(b), July 18, 1984, [98 Stat. 558][/us/stat/98/558]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6232(a), Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11621(a), Nov. 5, 1990, [104 Stat. 1388–503][/us/stat/104/1388-503]; [Pub. L. 104–168, title XI][/us/pl/104/168/tXI], § 1101(a), July 30, 1996, [110 Stat. 1468][/us/stat/110/1468]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3704, July 22, 1998, [112 Stat. 777][/us/stat/112/777].)
 
  __Amendments__ 
 
@@ -117,19 +117,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title XI, § 1101(b)][/us/pl/104/168/s1101/b], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469], provided that: 
+[Pub. L. 104–168, title XI][/us/pl/104/168/tXI], § 1101(b), July 30, 1996, [110 Stat. 1469][/us/stat/110/1469], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to regulations which relate to statutory provisions enacted on or after the date of the enactment of this Act \[July 30, 1996\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11621(b)][/us/pl/101/508/s11621/b], Nov. 5, 1990, [104 Stat. 1388–504][/us/stat/104/1388-504], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11621(b), Nov. 5, 1990, [104 Stat. 1388–504][/us/stat/104/1388-504], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to regulations issued after the date which is 30 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6232(b)][/us/pl/100/647/s6232/b], Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6232(b), Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any regulation issued after the date which is 10 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -139,7 +139,7 @@
 
  __Internet Availability__ 
 
-[Pub. L. 105–206, title II, § 2003(d)][/us/pl/105/206/s2003/d], July 22, 1998, [112 Stat. 725][/us/stat/112/725], provided that: 
+[Pub. L. 105–206, title II][/us/pl/105/206/tII], § 2003(d), July 22, 1998, [112 Stat. 725][/us/stat/112/725], provided that: 
 
 > “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary’s delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
 
@@ -152,17 +152,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F917
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s43/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs43%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F558
-[/us/pl/100/647/s6232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6232%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3734
-[/us/pl/101/508/s11621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11621%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-503
-[/us/pl/104/168/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1101%2Fa
+[/us/pl/104/168/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXI
 [/us/stat/110/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1468
-[/us/pl/105/206/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3704
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F777
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
@@ -170,16 +170,16 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/104/168/s1101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1101%2Fb
+[/us/pl/104/168/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXI
 [/us/stat/110/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1469
-[/us/pl/101/508/s11621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11621%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-504
-[/us/pl/100/647/s6232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6232%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3735
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44
 [/us/usc/t26/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1271
-[/us/pl/105/206/s2003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs2003%2Fd
+[/us/pl/105/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtII
 [/us/stat/112/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F725
 
 

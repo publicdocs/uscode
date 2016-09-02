@@ -103,7 +103,7 @@
 
             No notice may be published under paragraph (1)(A) with respect to any qualified agreement before the date 90 days after the date on which a copy of such agreement was furnished to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Added [July 25, 1956, ch. 725, § 3][/us/act/1956-07-25/ch725/s3], [70 Stat. 644][/us/stat/70/644]; amended [Pub. L. 86–70, § 22(b)][/us/pl/86/70/s22/b], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624, § 18(a)][/us/pl/86/624/s18/a], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 87–508, § 5(b)][/us/pl/87/508/s5/b], June 28, 1962, [76 Stat. 116][/us/stat/76/116]; [Pub. L. 89–44, title VIII, § 803(a)][/us/pl/89/44/s803/a], June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 91–258, title II, § 203(b)][/us/pl/91/258/s203/b], May 21, 1970, [84 Stat. 238][/us/stat/84/238]; [Pub. L. 97–248, title II, § 281A(a)(1)][/us/pl/97/248/s281A/a/1], (2), Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], 567.)
+(Added [July 25, 1956, ch. 725][/us/act/1956-07-25/ch725], § 3, [70 Stat. 644][/us/stat/70/644]; amended [Pub. L. 86–70][/us/pl/86/70], § 22(b), June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624][/us/pl/86/624], § 18(a), July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 87–508][/us/pl/87/508], § 5(b), June 28, 1962, [76 Stat. 116][/us/stat/76/116]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 803(a), June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 91–258, title II][/us/pl/91/258/tII], § 203(b), May 21, 1970, [84 Stat. 238][/us/stat/84/238]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 281A(a)(1), (2), Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], 567.)
 
  __Prior Provisions__ 
 
@@ -111,15 +111,15 @@
 
  __Amendments__ 
 
-    1982—Subsec. (c)(3). [Pub. L. 97–248, § 281A(a)(1)][/us/pl/97/248/s281A/a/1], substituted “12 hours” for “6 hours” wherever appearing.
+    1982—Subsec. (c)(3). [Pub. L. 97–248][/us/pl/97/248], § 281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
 
-    Subsec. (e). [Pub. L. 97–248, § 281A(a)(2)][/us/pl/97/248/s281A/a/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 97–248][/us/pl/97/248], § 281A(a)(2), added subsec. (e).
 
-    1970—Subsec. (a). [Pub. L. 91–258, § 203(b)(1)][/us/pl/91/258/s203/b/1]–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
+    1970—Subsec. (a). [Pub. L. 91–258][/us/pl/91/258], § 203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
 
-    Subsec. (b). [Pub. L. 91–258, § 203(b)(1)][/us/pl/91/258/s203/b/1], (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
+    Subsec. (b). [Pub. L. 91–258][/us/pl/91/258], § 203(b)(1), (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
 
-    Subsec. (d). [Pub. L. 91–258, § 203(b)(5)][/us/pl/91/258/s203/b/5], added subsec. (d).
+    Subsec. (d). [Pub. L. 91–258][/us/pl/91/258], § 203(b)(5), added subsec. (d).
 
     1965—Subsec. (c)(4). [Pub. L. 89–44][/us/pl/89/44] inserted sentence relating to personnel of the Armed Forces traveling in uniform at their own expense following subpar. (B).
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title II, § 281A(a)(3)][/us/pl/97/248/s281A/a/3], Sept. 3, 1982, [96 Stat. 567][/us/stat/96/567], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 281A(a)(3), Sept. 3, 1982, [96 Stat. 567][/us/stat/96/567], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to transportation beginning after August 31, 1982.”
 
@@ -145,13 +145,13 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–44, title VIII, § 803(b)][/us/pl/89/44/s803/b], June 21, 1965, [79 Stat. 160][/us/stat/79/160], provided that: 
+[Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 803(b), June 21, 1965, [79 Stat. 160][/us/stat/79/160], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid for transportation beginning on or after July 1, 1965.”
 
  __Effective Date of 1962 Amendment__ 
 
-    [Pub. L. 87–508, § 5(b)][/us/pl/87/508/s5/b], June 28, 1962, [76 Stat. 115][/us/stat/76/115], provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
+    [Pub. L. 87–508][/us/pl/87/508], § 5(b), June 28, 1962, [76 Stat. 115][/us/stat/76/115], provided that the amendment made by that section is effective with respect to transportation beginning after Nov. 15, 1962.
 
  __Effective Date of 1960 Amendment__ 
 
@@ -176,39 +176,39 @@
 ----------
 ----------
 
-[/us/act/1956-07-25/ch725/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch725%2Fs3
+[/us/act/1956-07-25/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch725
 [/us/stat/70/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F644
-[/us/pl/86/70/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs22%2Fb
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
-[/us/pl/86/624/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs18%2Fa
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F416
-[/us/pl/87/508/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508%2Fs5%2Fb
+[/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/stat/76/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F116
-[/us/pl/89/44/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs803%2Fa
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F160
-[/us/pl/91/258/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs203%2Fb
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F238
-[/us/pl/97/248/s281A/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281A%2Fa%2F1
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F566
-[/us/pl/97/248/s281A/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281A%2Fa%2F1
-[/us/pl/97/248/s281A/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281A%2Fa%2F2
-[/us/pl/91/258/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs203%2Fb%2F1
-[/us/pl/91/258/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs203%2Fb%2F1
-[/us/pl/91/258/s203/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs203%2Fb%2F5
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/pl/97/248/s281A/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281A%2Fa%2F3
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F567
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/pl/91/258/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs211%2Fb
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/89/44/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs803%2Fb
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F160
-[/us/pl/87/508/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508%2Fs5%2Fb
+[/us/pl/87/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F508
 [/us/stat/76/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F115
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/624/s18/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs18%2Fk

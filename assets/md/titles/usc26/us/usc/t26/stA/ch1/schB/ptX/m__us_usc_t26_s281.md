@@ -81,7 +81,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 87–870, § 1(a)][/us/pl/87/870/s1/a], Oct. 23, 1962, [76 Stat. 1158][/us/stat/76/1158]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 95–473, § 2(a)(2)(D)][/us/pl/95/473/s2/a/2/D], (E), Oct. 17, 1978, [92 Stat. 1464][/us/stat/92/1464]; [Pub. L. 104–88, title III, § 304(b)][/us/pl/104/88/s304/b], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
+(Added [Pub. L. 87–870][/us/pl/87/870], § 1(a), Oct. 23, 1962, [76 Stat. 1158][/us/stat/76/1158]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(40), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(2)(D), (E), Oct. 17, 1978, [92 Stat. 1464][/us/stat/92/1464]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 304(b), Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943].)
 
  __References in Text__ 
 
@@ -91,11 +91,11 @@
 
     1995—Subsec. (d)(1)(A), (B). [Pub. L. 104–88][/us/pl/104/88] substituted “rail carriers subject to part A of subtitle IV” for “domestic railroad corporations providing transportation subject to subchapter I of chapter 105”.
 
-    1978—Subsec. (d)(1)(A). [Pub. L. 95–473, § 2(a)(2)(D)][/us/pl/95/473/s2/a/2/D], substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act ([49 U.S.C. 1][/us/usc/t49/s1] and following)”.
+    1978—Subsec. (d)(1)(A). [Pub. L. 95–473][/us/pl/95/473], § 2(a)(2)(D), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act ([49 U.S.C. 1][/us/usc/t49/s1] and following)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 95–473, § 2(a)(2)(E)][/us/pl/95/473/s2/a/2/E], substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act”.
+    Subsec. (d)(1)(B). [Pub. L. 95–473][/us/pl/95/473], § 2(a)(2)(E), substituted “providing transportation subject to subchapter I of chapter 105 of title 49” for “subject to part I of the Interstate Commerce Act”.
 
-    1976—Subsec. (d)(1)(A). [Pub. L. 94–455, § 1901(a)][/us/pl/94/455/s1901/a] (40)(A), inserted “([49 U.S.C. 1][/us/usc/t49/s1] and following)” after “Interstate Commerce Act”.
+    1976—Subsec. (d)(1)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(a) (40)(A), inserted “([49 U.S.C. 1][/us/usc/t49/s1] and following)” after “Interstate Commerce Act”.
 
     Subsecs. (e), (f). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(40)(B), 1906(b)(13)(A), redesignated subsec. (f) as (e) and struck out “or his delegate” after “Secretary”. Former subsec. (e), which made special provision for the application of this section to taxable years ending before Oct. 23, 1962, was struck out.
 
@@ -109,13 +109,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–870, § 2(a)][/us/pl/87/870/s2/a], Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], provided that: 
+[Pub. L. 87–870][/us/pl/87/870], § 2(a), Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], provided that: 
 
 > “The amendments made by the first section of this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
  __Internal Revenue Code of 1939; Inclusion of Terminal Railroad Corporations and Their Shareholders Provision__ 
 
-[Pub. L. 87–870, § 2(b)][/us/pl/87/870/s2/b], Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 87–870][/us/pl/87/870], § 2(b), Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Provisions having the same effect as section 281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the first section of this Act) shall be deemed to be included in the Internal Revenue Code of 1939, effective with respect to all taxable years to which such Code applies.”
 
@@ -126,20 +126,20 @@
 ----------
 ----------
 
-[/us/pl/87/870/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs1%2Fa
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1158
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1771
-[/us/pl/95/473/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F2%2FD
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1464
-[/us/pl/104/88/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs304%2Fb
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F943
 [/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
-[/us/pl/95/473/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F2%2FD
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/usc/t49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1
-[/us/pl/95/473/s2/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F2%2FE
-[/us/pl/94/455/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
@@ -148,11 +148,11 @@
 [/us/pl/94/455/s1901/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F40
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/87/870/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs2%2Fa
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1160
-[/us/pl/87/870/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs2%2Fb
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1160
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

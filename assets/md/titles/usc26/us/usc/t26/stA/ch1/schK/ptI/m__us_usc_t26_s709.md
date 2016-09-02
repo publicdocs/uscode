@@ -49,7 +49,7 @@
 
             (C) are of a character which, if expended incident to the creation of a partnership having an ascertainable life, would be amortized over such life.
 
-(Added [Pub. L. 94–455, title II, § 213(b)(1)][/us/pl/94/455/s213/b/1], Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547]; amended [Pub. L. 108–357, title VIII, § 902(c)][/us/pl/108/357/s902/c], Oct. 22, 2004, [118 Stat. 1651][/us/stat/118/1651]; [Pub. L. 109–135, title IV, § 403][/us/pl/109/135/s403](ll), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
+(Added [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(b)(1), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 902(c), Oct. 22, 2004, [118 Stat. 1651][/us/stat/118/1651]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(ll), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title II, § 213(f)][/us/pl/94/455/s213/f], Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(f), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/94/455/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fb%2F1
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1547
-[/us/pl/108/357/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1651
-[/us/pl/109/135/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -103,9 +103,9 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fd
 [/us/usc/t26/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs195
-[/us/pl/94/455/s213/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Ff
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1548
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs704
 

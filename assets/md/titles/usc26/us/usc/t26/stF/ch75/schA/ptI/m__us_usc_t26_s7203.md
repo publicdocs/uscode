@@ -17,7 +17,7 @@
 
     Any person required under this title to pay any estimated tax or tax, or required by this title or by regulations made under authority thereof to make a return, keep any records, or supply any information, who willfully fails to pay such estimated tax or tax, make such return, keep such records, or supply such information, at the time or times required by law or regulations, shall, in addition to other penalties provided by law, be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $25,000 ($100,000 in the case of a corporation), or imprisoned not more than 1 year, or both, together with the costs of prosecution. In the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure. In the case of a willful violation of any provision of section 6050I, the first sentence of this section shall be applied by substituting “felony” for “misdemeanor” and “5 years” for “1 year”.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 851][/us/stat/68A/851]; [Pub. L. 90–364, title I, § 103(e)(5)][/us/pl/90/364/s103/e/5], June 28, 1968, [82 Stat. 264][/us/stat/82/264]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 327, 329(b), Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617], 618; [Pub. L. 98–369, div. A, title IV, § 412(b)(9)][/us/pl/98/369/s412/b/9], July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 100–690, title VII, § 7601(a)(2)(B)][/us/pl/100/690/s7601/a/2/B], Nov. 18, 1988, [102 Stat. 4504][/us/stat/102/4504]; [Pub. L. 101–647, title XXXIII, § 3303(a)][/us/pl/101/647/s3303/a], Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 851][/us/stat/68A/851]; [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 103(e)(5), June 28, 1968, [82 Stat. 264][/us/stat/82/264]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 327, 329(b), Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617], 618; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 412(b)(9), July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7601(a)(2)(B), Nov. 18, 1988, [102 Stat. 4504][/us/stat/102/4504]; [Pub. L. 101–647, title XXXIII][/us/pl/101/647/tXXXIII], § 3303(a), Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918].)
 
  __Amendments__ 
 
@@ -27,15 +27,15 @@
 
     1984—[Pub. L. 98–369][/us/pl/98/369] struck out “(other than a return required under the authority of section 6015)” after “to make a return”.
 
-    1982—[Pub. L. 97–248, § 329(b)][/us/pl/97/248/s329/b], substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
+    1982—[Pub. L. 97–248][/us/pl/97/248], § 329(b), substituted “$25,000 ($100,000 in the case of a corporation)” for “$10,000”.
 
-    [Pub. L. 97–248, § 327][/us/pl/97/248/s327], inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
+    [Pub. L. 97–248][/us/pl/97/248], § 327, inserted last sentence providing that, in the case of any person with respect to whom there is a failure to pay any estimated tax, this section shall not apply to such person with respect to such failure if there is no addition to tax under section 6654 or 6655 with respect to such failure.
 
     1968—[Pub. L. 90–364][/us/pl/90/364] struck out reference to section 6016.
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–647, title XXXIII, § 3303(c)][/us/pl/101/647/s3303/c], Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918], provided that: 
+[Pub. L. 101–647, title XXXIII][/us/pl/101/647/tXXXIII], § 3303(c), Nov. 29, 1990, [104 Stat. 4918][/us/stat/104/4918], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to actions, and failures to act, occurring after the date of the enactment of this Act \[Nov. 29, 1990\].”
 
@@ -64,23 +64,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F851
-[/us/pl/90/364/s103/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Fe%2F5
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F264
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F617
-[/us/pl/98/369/s412/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs412%2Fb%2F9
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F792
-[/us/pl/100/690/s7601/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7601%2Fa%2F2%2FB
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4504
-[/us/pl/101/647/s3303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3303%2Fa
+[/us/pl/101/647/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXIII
 [/us/stat/104/4918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4918
 [/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/248/s329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs329%2Fb
-[/us/pl/97/248/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs327
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/90/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364
-[/us/pl/101/647/s3303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3303%2Fc
+[/us/pl/101/647/tXXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXIII
 [/us/stat/104/4918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4918
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7601%2Fa%2F3

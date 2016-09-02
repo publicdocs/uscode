@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s113.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s115.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs114)
 
-## \[§ 114. Repealed. [Pub. L. 108–357, title I, § 101(a)][/us/pl/108/357/s101/a], Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423]\]
+## \[§ 114. Repealed. [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 101(a), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423]\]
 
-    Section, added [Pub. L. 106–519, § 3(a)][/us/pl/106/519/s3/a], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423], related to exclusion of extraterritorial income from gross income.
+    Section, added [Pub. L. 106–519][/us/pl/106/519], § 3(a), Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423], related to exclusion of extraterritorial income from gross income.
 
-    A prior section 114, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 35][/us/stat/68A/35], related to sports programs conducted for American National Red Cross, prior to repeal by [Pub. L. 101–508, title XI, § 11801(a)(8)][/us/pl/101/508/s11801/a/8], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520].
+    A prior section 114, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 35][/us/stat/68A/35], related to sports programs conducted for American National Red Cross, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(8), Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520].
 
  __Effective Date of Repeal__ 
 
@@ -25,7 +25,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 108–357, title I, § 101(d)][/us/pl/108/357/s101/d]–(f), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1424, as amended by [Pub. L. 109–222, title V, § 513(b)][/us/pl/109/222/s513/b], May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 113–295, div. A, title II, § 219(a)][/us/pl/113/295/s219/a], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that:
+[Pub. L. 108–357, title I][/us/pl/108/357/tI], § 101(d)–(f), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1424, as amended by [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 513(b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 219(a), Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that:
 
 >     “(d)  __Transitional Rule for__  __2005__  __and__  __2006.—__ 
 
@@ -55,7 +55,7 @@
 
 >         The Secretary of the Treasury (or such Secretary’s delegate) may prescribe such regulations as may be necessary to prevent the abuse of the purposes of this subsection.
 
->     “\[(f) Repealed. [Pub. L. 109–222, title V, § 513(b)][/us/pl/109/222/s513/b], May 17, 2006, [120 Stat. 366][/us/stat/120/366].\]”
+>     “\[(f) Repealed. [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 513(b), May 17, 2006, [120 Stat. 366][/us/stat/120/366].\]”
 
 ----------
 
@@ -64,23 +64,23 @@
 ----------
 ----------
 
-[/us/pl/108/357/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fa
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
-[/us/pl/106/519/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs3%2Fa
+[/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F35
-[/us/pl/101/508/s11801/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F8
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-520
 [/us/pl/108/357/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fc
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/108/357/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fd
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
-[/us/pl/109/222/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs513%2Fb
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
-[/us/pl/113/295/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fa
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
-[/us/pl/109/222/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs513%2Fb
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
 
 

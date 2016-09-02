@@ -45,7 +45,7 @@
 
         Subsection (a) shall not apply to information conveyed to an attorney, certified public accountant, or enrolled agent for the purpose of perpetrating a fraud or crime.
 
-(Added [Pub. L. 104–168, title XII, § 1203(a)][/us/pl/104/168/s1203/a], July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
+(Added [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1203(a), July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–168, title XII, § 1203(c)][/us/pl/104/168/s1203/c], July 30, 1996, [110 Stat. 1471][/us/stat/110/1471], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1203(c), July 30, 1996, [110 Stat. 1471][/us/stat/110/1471], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering former section 7435 as 7436 of this title\] shall apply to actions after the date of the enactment of this Act \[July 30, 1996\].”
 
@@ -65,9 +65,9 @@
 ----------
 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/104/168/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1203%2Fa
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1470
-[/us/pl/104/168/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1203%2Fc
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1471
 
 

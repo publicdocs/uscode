@@ -51,7 +51,7 @@
 
         For penalty for violation of this section, see section 5606.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1374][/us/stat/72/1374]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 807(a)(41)][/us/pl/96/39/s807/a/41], July 26, 1979, [93 Stat. 287][/us/stat/93/287]; [Pub. L. 98–369, div. A, title IV, § 454(b)][/us/pl/98/369/s454/b], (c)(9), July 18, 1984, [98 Stat. 820][/us/stat/98/820], 821.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1374][/us/stat/72/1374]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(41), July 26, 1979, [93 Stat. 287][/us/stat/93/287]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(b), (c)(9), July 18, 1984, [98 Stat. 820][/us/stat/98/820], 821.)
 
  __Prior Provisions__ 
 
@@ -79,9 +79,9 @@
 
  __Amendments__ 
 
-    1984—Subsec. (c). [Pub. L. 98–369, § 454(c)(9)][/us/pl/98/369/s454/c/9], substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
+    1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 454(c)(9), substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
 
-    Subsec. (d). [Pub. L. 98–369, § 454(b)][/us/pl/98/369/s454/b], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 454(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1979—Subsec. (a)(1). [Pub. L. 96–39][/us/pl/96/39] substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1374
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39/s807/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F41
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F287
-[/us/pl/98/369/s454/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F654
@@ -148,8 +148,8 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F658
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/98/369/s454/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F9
-[/us/pl/98/369/s454/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fb
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

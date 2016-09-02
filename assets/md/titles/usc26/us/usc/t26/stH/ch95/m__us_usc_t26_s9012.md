@@ -75,7 +75,7 @@
 
         (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 570][/us/stat/85/570]; amended [Pub. L. 93–53, § 6(c)][/us/pl/93/53/s6/c], July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV][/us/pl/93/443], §§ 404(c)(22), 406(b)(2)–(6), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293], 1296; [Pub. L. 94–283, title III, § 307(f)][/us/pl/94/283/s307/f], May 11, 1976, [90 Stat. 502][/us/stat/90/502]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(C)][/us/pl/94/455/s1906/b/13/C], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–94, § 2(c)(2)][/us/pl/113/94/s2/c/2], Apr. 3, 2014, [128 Stat. 1086][/us/stat/128/1086].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 570][/us/stat/85/570]; amended [Pub. L. 93–53][/us/pl/93/53], § 6(c), July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], §§ 404(c)(22), 406(b)(2)–(6), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293], 1296; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 307(f), May 11, 1976, [90 Stat. 502][/us/stat/90/502]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–94][/us/pl/113/94], § 2(c)(2), Apr. 3, 2014, [128 Stat. 1086][/us/stat/128/1086].)
 
  __Constitutionality__ 
 
@@ -83,27 +83,27 @@ For information regarding constitutionality of certain provisions of this sectio
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–94, § 2(c)(2)(A)][/us/pl/113/94/s2/c/2/A], struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).”
+    2014—Subsec. (a)(1). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(2)(A), struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).”
 
-    Subsec. (c)(2), (3). [Pub. L. 113–94, § 2(c)(2)(B)][/us/pl/113/94/s2/c/2/B], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).”
+    Subsec. (c)(2), (3). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).”
 
-    Subsec. (e)(1). [Pub. L. 113–94, § 2(c)(2)(C)][/us/pl/113/94/s2/c/2/C], struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense incurred by such committee with respect to a presidential nominating convention.”
+    Subsec. (e)(1). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(2)(C), struck out at end “It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense incurred by such committee with respect to a presidential nominating convention.”
 
-    Subsec. (e)(3). [Pub. L. 113–94, § 2(c)(2)(D)][/us/pl/113/94/s2/c/2/D], struck out “, or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention” after “authorized committees”.
+    Subsec. (e)(3). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(2)(D), struck out “, or in connection with any expense incurred by the national committee of a major party or minor party with respect to a presidential nominating convention” after “authorized committees”.
 
     1976—Subsec. (b)(1). [Pub. L. 94–283][/us/pl/94/283] substituted “9006(c)” for “9006(d)”.
 
     Subsec. (e)(3). [Pub. L. 94–455][/us/pl/94/455] substituted “Secretary of the Treasury” for “Secretary”.
 
-    1974—Subsec. (a). [Pub. L. 93–443, § 406(b)(2)][/us/pl/93/443/s406/b/2], (3), struck out “campaign” before “expenses” in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
+    1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 406(b)(2), (3), struck out “campaign” before “expenses” in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
 
-    Subsec. (c)(2), (3). [Pub. L. 93–443, § 406(b)(4)][/us/pl/93/443/s406/b/4], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 93–443][/us/pl/93/443], § 406(b)(4), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (d)(1). [Pub. L. 93–443, § 404(c)(22)][/us/pl/93/443/s404/c/22], substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
+    Subsec. (d)(1). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(22), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
 
-    Subsec. (e)(1). [Pub. L. 93–443, § 406(b)(6)][/us/pl/93/443/s406/b/6], inserted provision making it unlawful for a national committee of a major or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense of such committee with respect to a presidential nominating convention.
+    Subsec. (e)(1). [Pub. L. 93–443][/us/pl/93/443], § 406(b)(6), inserted provision making it unlawful for a national committee of a major or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense of such committee with respect to a presidential nominating convention.
 
-    Subsec. (e)(3). [Pub. L. 93–443, § 406(b)(6)][/us/pl/93/443/s406/b/6], inserted requirement of payment, by any person accepting any kickback or illegal payment in connection with any expense incurred by the national committee of a major or minor party with respect to a presidential nominating convention, to the Secretary for deposit in the general fund of the Treasury.
+    Subsec. (e)(3). [Pub. L. 93–443][/us/pl/93/443], § 406(b)(6), inserted requirement of payment, by any person accepting any kickback or illegal payment in connection with any expense incurred by the national committee of a major or minor party with respect to a presidential nominating convention, to the Secretary for deposit in the general fund of the Treasury.
 
     1973—Subsec. (b)(1). [Pub. L. 93–53][/us/pl/93/53] substituted section “9006(d)” for “9006(c)”.
 
@@ -122,30 +122,30 @@ For information regarding constitutionality of certain provisions of this sectio
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F570
-[/us/pl/93/53/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs6%2Fc
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F139
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1293
-[/us/pl/94/283/s307/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Ff
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F502
-[/us/pl/94/455/s1906/b/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/113/94/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F2
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1086
 [/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
-[/us/pl/113/94/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F2%2FA
-[/us/pl/113/94/s2/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F2%2FB
-[/us/pl/113/94/s2/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F2%2FC
-[/us/pl/113/94/s2/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F2%2FD
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/443/s406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fb%2F2
-[/us/pl/93/443/s406/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fb%2F4
-[/us/pl/93/443/s404/c/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F22
-[/us/pl/93/443/s406/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fb%2F6
-[/us/pl/93/443/s406/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fb%2F6
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1

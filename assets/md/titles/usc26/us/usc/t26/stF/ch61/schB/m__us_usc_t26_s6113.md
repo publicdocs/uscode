@@ -63,7 +63,7 @@
 
             The term “fundraising solicitation” shall not include any letter or telephone call if such letter or call is not part of a coordinated fundraising campaign soliciting more than 10 persons during the calendar year.
 
-(Added [Pub. L. 100–203, title X, § 10701(a)][/us/pl/100/203/s10701/a], Dec. 22, 1987, [101 Stat. 1330–457][/us/stat/101/1330-457].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10701(a), Dec. 22, 1987, [101 Stat. 1330–457][/us/stat/101/1330-457].)
 
  __Prior Provisions__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10701(d)][/us/pl/100/203/s10701/d], Dec. 22, 1987, [101 Stat. 1330–459][/us/stat/101/1330-459], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10701(d), Dec. 22, 1987, [101 Stat. 1330–459][/us/stat/101/1330-459], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 6710 of this title][/us/usc/t26/s6710] and renumbering former section 6113 as [section 6114 of this title][/us/usc/t26/s6114]\] shall apply to solicitations after January 31, 1988.”
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10701%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-457
-[/us/pl/100/203/s10701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10701%2Fd
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-459
 [/us/usc/t26/s6710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6710
 [/us/usc/t26/s6114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6114

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVIII/m__us_usc_t26_stA_ch1_schO_ptVIII.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIX/m__us_usc_t26_s1111.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIX)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVIII/m__us_usc_t26_s1101...1103.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIX/m__us_usc_t26_s1111.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIX)
 
 ##### \[PART IX—REPEALED\]
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVIII/m__us_usc_t26_stA_ch1_schO_ptVIII.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIX/m__us_usc_t26_s1111.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIX)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVIII/m__us_usc_t26_s1101...1103.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIX/m__us_usc_t26_s1111.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptIX)
 
 ----------
 ----------

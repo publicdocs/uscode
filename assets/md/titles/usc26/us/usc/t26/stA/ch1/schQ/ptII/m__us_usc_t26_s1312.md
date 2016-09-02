@@ -73,7 +73,7 @@
 
             (iii) there was an erroneous deduction of an item properly chargeable to capital account or an erroneous charge to capital account of an item properly deductible.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 338][/us/stat/68A/338]; [Pub. L. 85–866, title I, § 59(a)][/us/pl/85/866/s59/a], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 338][/us/stat/68A/338]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 59(a), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647].)
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 59(c)][/us/pl/85/866/s59/c], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 59(c), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1314 of this title][/us/usc/t26/s1314]\] shall apply to determinations (as defined in section 1313(a)) made after November 14, 1954.”
 
@@ -94,10 +94,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F338
-[/us/pl/85/866/s59/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs59%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1647
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/pl/85/866/s59/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs59%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1647
 [/us/usc/t26/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1314
 

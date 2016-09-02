@@ -45,7 +45,7 @@
 
         A person is described in this subsection if such person is described in section 4958(f)(7) with respect to a donor advised fund.
 
-(Added [Pub. L. 109–280, title XII, § 1231(a)][/us/pl/109/280/s1231/a], Aug. 17, 2006, [120 Stat. 1097][/us/stat/120/1097].)
+(Added [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1231(a), Aug. 17, 2006, [120 Stat. 1097][/us/stat/120/1097].)
 
  __Effective Date__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1231%2Fa
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1097
 [/us/pl/109/280/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1231%2Fc
 [/us/usc/t26/s4963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4963

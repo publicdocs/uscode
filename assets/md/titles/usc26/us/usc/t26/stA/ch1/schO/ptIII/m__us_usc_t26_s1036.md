@@ -29,7 +29,7 @@
 
         (2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 309][/us/stat/68A/309]; [Pub. L. 105–34, title X, § 1014(e)(3)][/us/pl/105/34/s1014/e/3], Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 309][/us/stat/68A/309]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1014(e)(3), Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921].)
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F309
-[/us/pl/105/34/s1014/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1014%2Fe%2F3
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F921
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34

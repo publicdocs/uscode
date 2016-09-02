@@ -37,7 +37,7 @@
 
         Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, United States Code, no person holding a Federal license under chapter 44 of title 18, United States Code, shall be required to record the name, address, or other information about the purchaser of shotgun ammunition, ammunition suitable for use only in rifles generally available in commerce, or component parts for the aforesaid types of ammunition.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 490][/us/stat/68A/490]; [Pub. L. 91–128, § 5][/us/pl/91/128/s5], Nov. 26, 1969, [83 Stat. 269][/us/stat/83/269]; [Pub. L. 109–59, title XI, § 11131(a)][/us/pl/109/59/s11131/a], Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 490][/us/stat/68A/490]; [Pub. L. 91–128][/us/pl/91/128], § 5, Nov. 26, 1969, [83 Stat. 269][/us/stat/83/269]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11131(a), Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title XI, § 11131(b)][/us/pl/109/59/s11131/b], Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959], provided that:
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11131(b), Aug. 10, 2005, [119 Stat. 1959][/us/stat/119/1959], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Short Title of 1969 Amendment__ 
 
-[Pub. L. 91–128, § 1(a)][/us/pl/91/128/s1/a], Nov. 26, 1969, [83 Stat. 261][/us/stat/83/261], provided that: 
+[Pub. L. 91–128][/us/pl/91/128], § 1(a), Nov. 26, 1969, [83 Stat. 261][/us/stat/83/261], provided that: 
 
 > “This Act \[amending this section and sections 4911, 4912, 4914, 4915, 4919, 4920, 6011, and 6680 of this title and enacting provisions set out as notes under [section 6680 of this title][/us/usc/t26/s6680]\] may be cited as the ‘Interest Equalization Tax Extension Act of 1969’.”
 
@@ -72,15 +72,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F490
-[/us/pl/91/128/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F128%2Fs5
+[/us/pl/91/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F128
 [/us/stat/83/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F269
-[/us/pl/109/59/s11131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11131%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1959
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/91/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F128
-[/us/pl/109/59/s11131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11131%2Fb
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1959
-[/us/pl/91/128/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F128%2Fs1%2Fa
+[/us/pl/91/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F128
 [/us/stat/83/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F261
 [/us/usc/t26/s6680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6680
 

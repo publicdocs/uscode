@@ -43,7 +43,7 @@
 
         No penalty shall be imposed under subsection (a) if the person establishes to the satisfaction of the Secretary that the value established in the appraisal was more likely than not the proper value.
 
-(Added [Pub. L. 109–280, title XII, § 1219(b)(1)][/us/pl/109/280/s1219/b/1], Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084]; amended [Pub. L. 110–172][/us/pl/110/172], §§ 3(e)(1), 11(a)(40), Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474], 2488.)
+(Added [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1219(b)(1), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084]; amended [Pub. L. 110–172][/us/pl/110/172], §§ 3(e)(1), 11(a)(40), Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474], 2488.)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a). [Pub. L. 110–172, § 11(a)(40)][/us/pl/110/172/s11/a/40], designated the words “then such person shall pay a penalty in the amount determined under subsection (b).”, appearing in par. (2), as concluding provisions of subsec. (a).
+    2007—Subsec. (a). [Pub. L. 110–172][/us/pl/110/172], § 11(a)(40), designated the words “then such person shall pay a penalty in the amount determined under subsection (b).”, appearing in par. (2), as concluding provisions of subsec. (a).
 
-    Subsec. (a)(2). [Pub. L. 110–172, § 3(e)(1)][/us/pl/110/172/s3/e/1], inserted “a substantial estate or gift tax valuation understatement (within the meaning of section 6662(g)),” before “or a gross valuation misstatement”.
+    Subsec. (a)(2). [Pub. L. 110–172][/us/pl/110/172], § 3(e)(1), inserted “a substantial estate or gift tax valuation understatement (within the meaning of section 6662(g)),” before “or a gross valuation misstatement”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/109/280/s1219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fb%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1084
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2474
 [/us/pl/109/280/s1219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fb%2F1
-[/us/pl/110/172/s11/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F40
-[/us/pl/110/172/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fe%2F1
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/110/172/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fe%2F1
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/172/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fj

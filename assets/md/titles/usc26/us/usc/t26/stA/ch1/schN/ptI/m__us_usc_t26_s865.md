@@ -259,7 +259,7 @@
 
         (2) For sourcing of income from certain foreign currency transactions, see section 988.
 
-(Added [Pub. L. 99–514, title XII, § 1211(a)][/us/pl/99/514/s1211/a], Oct. 22, 1986, [100 Stat. 2533][/us/stat/100/2533]; amended [Pub. L. 100–647, title I, § 1012(d)(1)][/us/pl/100/647/s1012/d/1]–(6), (8), (9), (11), (12), Nov. 10, 1988, [102 Stat. 3497–3499][/us/stat/102/3497-3499]; [Pub. L. 101–508, title XI, § 11813(b)(18)][/us/pl/101/508/s11813/b/18], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 103–66, title XIII, § 13239(c)][/us/pl/103/66/s13239/c], Aug. 10, 1993, [107 Stat. 509][/us/stat/107/509]; [Pub. L. 104–188, title I, § 1704(f)(4)(A)][/us/pl/104/188/s1704/f/4/A], Aug. 20, 1996, [110 Stat. 1880][/us/stat/110/1880]; [Pub. L. 106–170, title V, § 532(c)(1)(E)][/us/pl/106/170/s532/c/1/E], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1211(a), Oct. 22, 1986, [100 Stat. 2533][/us/stat/100/2533]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, [102 Stat. 3497–3499][/us/stat/102/3497-3499]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11813(b)(18), Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13239(c), Aug. 10, 1993, [107 Stat. 509][/us/stat/107/509]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(f)(4)(A), Aug. 20, 1996, [110 Stat. 1880][/us/stat/110/1880]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(1)(E), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930].)
 
  __Amendments__ 
 
@@ -271,19 +271,19 @@
 
     1990—Subsec. (c)(3)(B). [Pub. L. 101–508][/us/pl/101/508] substituted “section 168(g)(4)” for “section 48(a)(2)(B)”.
 
-    1988—Subsec. (d)(2). [Pub. L. 100–647, § 1012(d)(12)][/us/pl/100/647/s1012/d/12], inserted “franchise,” after “trade brand,”.
+    1988—Subsec. (d)(2). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(12), inserted “franchise,” after “trade brand,”.
 
-    Subsec. (d)(4). [Pub. L. 100–647, § 1012(d)(1)][/us/pl/100/647/s1012/d/1], added par. (4).
+    Subsec. (d)(4). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(1), added par. (4).
 
-    Subsec. (e)(1)(A). [Pub. L. 100–647, § 1012(d)(2)][/us/pl/100/647/s1012/d/2], (9), substituted “(d)(1)(B) or (3)” for “(d)” and “in a foreign country” for first reference to “outside the United States”.
+    Subsec. (e)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(2), (9), substituted “(d)(1)(B) or (3)” for “(d)” and “in a foreign country” for first reference to “outside the United States”.
 
-    Subsec. (e)(2)(B). [Pub. L. 100–647, § 1012(d)(5)][/us/pl/100/647/s1012/d/5], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to—
+    Subsec. (e)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to—
 
     “(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business of the taxpayer outside the United States materially participated in the sale, or
 
     “(ii) any amount included in gross income under section 951(a)(1)(A).”
 
-    Subsec. (f). [Pub. L. 100–647, § 1012(d)(4)][/us/pl/100/647/s1012/d/4], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “If—
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(4), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “If—
 
     “(1) a United States resident sells stock in an affiliate which is a foreign corporation,
 
@@ -293,27 +293,27 @@
 
     any gain from such sale shall be sourced outside the United States.”
 
-    Subsec. (g)(1)(A)(i). [Pub. L. 100–647, § 1012(d)(11)][/us/pl/100/647/s1012/d/11], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any individual who has a tax home (as defined in section 911(d)(3)) in the United States, and”.
+    Subsec. (g)(1)(A)(i). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(11), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any individual who has a tax home (as defined in section 911(d)(3)) in the United States, and”.
 
-    Subsec. (g)(1)(A)(ii). [Pub. L. 100–647, § 1012(d)(3)(A)][/us/pl/100/647/s1012/d/3/A], struck out “partnership,” after “corporation,”.
+    Subsec. (g)(1)(A)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(3)(A), struck out “partnership,” after “corporation,”.
 
-    Subsec. (g)(3). [Pub. L. 100–647, § 1012(d)(6)(A)][/us/pl/100/647/s1012/d/6/A], added par. (3).
+    Subsec. (g)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(6)(A), added par. (3).
 
-    Subsec. (h). [Pub. L. 100–647, § 1012(d)(8)][/us/pl/100/647/s1012/d/8], added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsec. (h). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(8), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-    [Pub. L. 100–647, § 1012(d)(3)(B)][/us/pl/100/647/s1012/d/3/B], added par. (5) to subsec. (h) prior to redesignation as subsec. (i).
+    [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(3)(B), added par. (5) to subsec. (h) prior to redesignation as subsec. (i).
 
-    Subsec. (i). [Pub. L. 100–647, § 1012(d)(8)][/us/pl/100/647/s1012/d/8], redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(8), redesignated former subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-    [Pub. L. 100–647, § 1012(d)(6)(B)][/us/pl/100/647/s1012/d/6/B], added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
+    [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(6)(B), added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
 
-    Subsec. (i)(5). [Pub. L. 100–647, § 1012(d)(3)(B)][/us/pl/100/647/s1012/d/3/B], added par. (5) to subsec. (h) prior to redesignation as subsec. (i).
+    Subsec. (i)(5). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(3)(B), added par. (5) to subsec. (h) prior to redesignation as subsec. (i).
 
-    Subsec. (j). [Pub. L. 100–647, § 1012(d)(8)][/us/pl/100/647/s1012/d/8], redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
+    Subsec. (j). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(8), redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-    Subsec. (j)(3). [Pub. L. 100–647, § 1012(d)(6)(B)][/us/pl/100/647/s1012/d/6/B], added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
+    Subsec. (j)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(6)(B), added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
 
-    Subsec. (k). [Pub. L. 100–647, § 1012(d)(8)][/us/pl/100/647/s1012/d/8], redesignated former subsec. (j) as (k).
+    Subsec. (k). [Pub. L. 100–647][/us/pl/100/647], § 1012(d)(8), redesignated former subsec. (j) as (k).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -321,13 +321,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1704(f)(4)(B)][/us/pl/104/188/s1704/f/4/B], Aug. 20, 1996, [110 Stat. 1880][/us/stat/110/1880], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(f)(4)(B), Aug. 20, 1996, [110 Stat. 1880][/us/stat/110/1880], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13239(e)][/us/pl/103/66/s13239/e], Aug. 10, 1993, [107 Stat. 509][/us/stat/107/509], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13239(e), Aug. 10, 1993, [107 Stat. 509][/us/stat/107/509], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
@@ -337,13 +337,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    [Pub. L. 100–647, title I, § 1012(d)(5)][/us/pl/100/647/s1012/d/5], Nov. 10, 1988, [102 Stat. 3497][/us/stat/102/3497], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1987.
+    [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(d)(5), Nov. 10, 1988, [102 Stat. 3497][/us/stat/102/3497], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1987.
 
     Amendment by section 1012(d)(1)–(4), (6), (8), (9), (11), (12) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XII, § 1211(c)][/us/pl/99/514/s1211/c], Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1211(c), Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -363,7 +363,7 @@
 
  __Study of Source Rules for Sales of Inventory Property__ 
 
-    [Pub. L. 99–514, title XII, § 1211(d)][/us/pl/99/514/s1211/d], Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by [Pub. L. 101–508, title XI, § 11831(b)][/us/pl/101/508/s11831/b], Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559]), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
+    [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1211(d), Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11831(b), Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559]), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
 
 ----------
 
@@ -372,45 +372,45 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2533
-[/us/pl/100/647/s1012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3497-3499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3497-3499
-[/us/pl/101/508/s11813/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fb%2F18
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-555
-[/us/pl/103/66/s13239/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13239%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F509
-[/us/pl/104/188/s1704/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F4%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1880
-[/us/pl/106/170/s532/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F1%2FE
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1012/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F12
-[/us/pl/100/647/s1012/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F1
-[/us/pl/100/647/s1012/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F2
-[/us/pl/100/647/s1012/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F5
-[/us/pl/100/647/s1012/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F4
-[/us/pl/100/647/s1012/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F11
-[/us/pl/100/647/s1012/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F3%2FA
-[/us/pl/100/647/s1012/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F6%2FA
-[/us/pl/100/647/s1012/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F8
-[/us/pl/100/647/s1012/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F3%2FB
-[/us/pl/100/647/s1012/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F8
-[/us/pl/100/647/s1012/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F6%2FB
-[/us/pl/100/647/s1012/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F3%2FB
-[/us/pl/100/647/s1012/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F8
-[/us/pl/100/647/s1012/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F6%2FB
-[/us/pl/100/647/s1012/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F8
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/104/188/s1704/f/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F4%2FB
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1880
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/103/66/s13239/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13239%2Fe
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F509
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s49/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs49%2Fe
@@ -418,13 +418,13 @@
 [/us/usc/t26/s46/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46%2Fb%2F2%2FC
 [/us/pl/101/508/s11813/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fc
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/100/647/s1012/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fd%2F5
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3497
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2536
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
@@ -435,9 +435,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t26/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861
-[/us/pl/99/514/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fd
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2536
-[/us/pl/101/508/s11831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11831%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-559
 
 

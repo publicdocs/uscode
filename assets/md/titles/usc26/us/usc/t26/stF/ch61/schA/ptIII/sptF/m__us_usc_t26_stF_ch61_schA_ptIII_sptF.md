@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–28, title VIII, § 8246(a)(2)(A)(iii)][/us/pl/110/28/s8246/a/2/A/iii], (iv), May 25, 2007, [121 Stat. 201][/us/stat/121/201], substituted “Tax Return Preparers” for “Income Tax Return Preparers” in subpart heading and “tax return preparers” for “income tax return preparers” in item 6060.
+    2007—[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(A)(iii), (iv), May 25, 2007, [121 Stat. 201][/us/stat/121/201], substituted “Tax Return Preparers” for “Income Tax Return Preparers” in subpart heading and “tax return preparers” for “income tax return preparers” in item 6060.
 
-    1976—[Pub. L. 94–455, title XII, § 1203(e)][/us/pl/94/455/s1203/e], Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], added subpart heading and analysis for subpart F.
+    1976—[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(e), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], added subpart heading and analysis for subpart F.
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/110/28/s8246/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FA%2Fiii
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
-[/us/pl/94/455/s1203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fe
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1691
 
 

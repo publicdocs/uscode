@@ -115,7 +115,7 @@
 
         The Secretary shall prescribe regulations necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 101–508, title XI, § 11611(a)][/us/pl/101/508/s11611/a], Nov. 5, 1990, [104 Stat. 1388–501][/us/stat/104/1388-501].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11611(a), Nov. 5, 1990, [104 Stat. 1388–501][/us/stat/104/1388-501].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 44, added [Pub. L. 94–12, title II, § 208(a)][/us/pl/94/12/s208/a], Mar. 29, 1975, [89 Stat. 32][/us/stat/89/32]; amended [Pub. L. 94–45, title IV, § 401(a)][/us/pl/94/45/s401/a], June 30, 1975, [89 Stat. 243][/us/stat/89/243]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], related to purchase of new principal residence, prior to repeal by [Pub. L. 98–369, div. A, title IV, § 474(m)(1)][/us/pl/98/369/s474/m/1], July 18, 1984, [98 Stat. 833][/us/stat/98/833], applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+    A prior section 44, added [Pub. L. 94–12, title II][/us/pl/94/12/tII], § 208(a), Mar. 29, 1975, [89 Stat. 32][/us/stat/89/32]; amended [Pub. L. 94–45, title IV][/us/pl/94/45/tIV], § 401(a), June 30, 1975, [89 Stat. 243][/us/stat/89/243]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], related to purchase of new principal residence, prior to repeal by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(m)(1), July 18, 1984, [98 Stat. 833][/us/stat/98/833], applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
     Another prior section 44 was renumbered [section 37 of this title][/us/usc/t26/s37].
 
@@ -140,19 +140,19 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11611%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-501
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/94/12/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs208%2Fa
+[/us/pl/94/12/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtII
 [/us/stat/89/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F32
-[/us/pl/94/45/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs401%2Fa
+[/us/pl/94/45/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtIV
 [/us/stat/89/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F243
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s474/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fm%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F833
 [/us/usc/t26/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs37
 [/us/pl/101/508/s11611/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11611%2Fe%2F1

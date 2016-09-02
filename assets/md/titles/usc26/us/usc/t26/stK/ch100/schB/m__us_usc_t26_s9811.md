@@ -77,7 +77,7 @@
 
         (3) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
 
-(Added [Pub. L. 105–34, title XV, § 1531(a)(4)][/us/pl/105/34/s1531/a/4], Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081]; amended [Pub. L. 105–206, title VI, § 6015(e)][/us/pl/105/206/s6015/e], July 22, 1998, [112 Stat. 821][/us/stat/112/821].)
+(Added [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(a)(4), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6015(e), July 22, 1998, [112 Stat. 821][/us/stat/112/821].)
 
  __Amendments__ 
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1531/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fa%2F4
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1081
-[/us/pl/105/206/s6015/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6015%2Fe
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F821
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206

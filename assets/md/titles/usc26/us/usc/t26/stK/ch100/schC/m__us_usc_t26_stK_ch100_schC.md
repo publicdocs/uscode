@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–233, title I, § 103(e)(2)][/us/pl/110/233/s103/e/2], May 21, 2008, [122 Stat. 899][/us/stat/122/899], added item 9834.
+    2008—[Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(e)(2), May 21, 2008, [122 Stat. 899][/us/stat/122/899], added item 9834.
 
-    1997—[Pub. L. 105–34, title XV, § 1531(a)(3)][/us/pl/105/34/s1531/a/3], Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081], added subchapter heading and analysis.
+    1997—[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(a)(3), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081], added subchapter heading and analysis.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/110/233/s103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fe%2F2
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F899
-[/us/pl/105/34/s1531/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fa%2F3
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1081
 
 

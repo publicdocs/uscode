@@ -39,7 +39,7 @@
 
         The taxes on wines shall be paid in accordance with section 5061.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1332][/us/stat/72/1332]; amended [Pub. L. 94–455, title XIX, § 1905(b)(2)(C)][/us/pl/94/455/s1905/b/2/C], Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822]; [Pub. L. 96–39, title VIII, § 807(a)(8)][/us/pl/96/39/s807/a/8], July 26, 1979, [93 Stat. 281][/us/stat/93/281]; [Pub. L. 105–206, title VI, § 6014(b)(1)][/us/pl/105/206/s6014/b/1], July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1332][/us/stat/72/1332]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(2)(C), Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(8), July 26, 1979, [93 Stat. 281][/us/stat/93/281]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6014(b)(1), July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
 
  __Prior Provisions__ 
 
@@ -72,13 +72,13 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1332
-[/us/pl/94/455/s1905/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F2%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1822
-[/us/pl/96/39/s807/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F8
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F281
-[/us/pl/105/206/s6014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fb%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F610

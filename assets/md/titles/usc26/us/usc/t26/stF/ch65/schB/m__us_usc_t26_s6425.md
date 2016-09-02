@@ -81,7 +81,7 @@
 
         If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added [Pub. L. 90–364, title I, § 103(d)(1)][/us/pl/90/364/s103/d/1], June 28, 1968, [82 Stat. 262][/us/stat/82/262]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–499, title V, § 516(b)(4)(C)][/us/pl/99/499/s516/b/4/C], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(2)][/us/pl/99/514/s701/d/2], Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–203, title X, § 10301(b)(4)][/us/pl/100/203/s10301/b/4], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(J)][/us/pl/113/295/s221/a/12/J], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039]; [Pub. L. 114–41, title II, § 2006(a)(2)(E)][/us/pl/114/41/s2006/a/2/E], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
+(Added [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 103(d)(1), June 28, 1968, [82 Stat. 262][/us/stat/82/262]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 516(b)(4)(C), Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII][/us/pl/99/514/tVII], § 701(d)(2), Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(b)(4), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(12)(J), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039]; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2006(a)(2)(E), July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
 
@@ -130,19 +130,19 @@
 ----------
 ----------
 
-[/us/pl/90/364/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Fd%2F1
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F262
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/499/s516/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs516%2Fb%2F4%2FC
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1771
-[/us/pl/99/514/s701/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fd%2F2
+[/us/pl/99/514/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVII
 [/us/stat/100/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2342
-[/us/pl/100/203/s10301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fb%2F4
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-429
-[/us/pl/113/295/s221/a/12/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FJ
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
-[/us/pl/114/41/s2006/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FE
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295

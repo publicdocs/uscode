@@ -65,7 +65,7 @@
 
             The number of cases in any lot of distilled spirits shall be determined by dividing the number of liters in such lot by 9.
 
-(Added [Pub. L. 109–59, title XI, § 11126(a)][/us/pl/109/59/s11126/a], Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957].)
+(Added [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11126(a), Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957].)
 
  __References in Text__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s11126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11126%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1957
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F977

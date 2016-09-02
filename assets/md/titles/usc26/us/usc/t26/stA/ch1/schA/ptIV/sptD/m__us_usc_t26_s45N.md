@@ -43,7 +43,7 @@
 
         This section shall not apply to taxable years beginning after December 31, 2016.
 
-(Added [Pub. L. 109–432, div. A, title IV, § 405(a)][/us/pl/109/432/s405/a], Dec. 20, 2006, [120 Stat. 2957][/us/stat/120/2957]; amended [Pub. L. 110–343, div. C, title III, § 310][/us/pl/110/343/s310], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 735(a)][/us/pl/111/312/s735/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 307(a)][/us/pl/112/240/s307/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 117(a)][/us/pl/113/295/s117/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I, § 163(a)][/us/pl/114/113/s163/a], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
+(Added [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 405(a), Dec. 20, 2006, [120 Stat. 2957][/us/stat/120/2957]; amended [Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 310, Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 735(a), Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 307(a), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 117(a), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 163(a), Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
 
  __Amendments__ 
 
@@ -59,25 +59,25 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 163(b)][/us/pl/114/113/s163/b], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 163(b), Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 117(b)][/us/pl/113/295/s117/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 117(b), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 307(b)][/us/pl/112/240/s307/b], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 307(b), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 735(b)][/us/pl/111/312/s735/b], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 735(b), Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
@@ -92,30 +92,30 @@
 ----------
 ----------
 
-[/us/pl/109/432/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2957
-[/us/pl/110/343/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs310
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3869
-[/us/pl/111/312/s735/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs735%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
-[/us/pl/112/240/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs307%2Fa
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
-[/us/pl/113/295/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs117%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/114/113/s163/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs163%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/114/113/s163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs163%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
-[/us/pl/113/295/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs117%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/112/240/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs307%2Fb
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
-[/us/pl/111/312/s735/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs735%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
 [/us/pl/109/432/s405/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs405%2Fe
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

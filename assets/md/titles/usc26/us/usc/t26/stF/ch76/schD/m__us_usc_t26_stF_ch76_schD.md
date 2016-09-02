@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title IX][/us/pl/91/172], §§ 959(b), 960(i)(2), Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734], 735, substituted “Notice of appeal” for “Petition for review” in item 7483 and substituted “Cross references” for “Cross reference” in item 7487.
+    1969—[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], §§ 959(b), 960(i)(2), Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734], 735, substituted “Notice of appeal” for “Petition for review” in item 7483 and substituted “Cross references” for “Cross reference” in item 7487.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F734
 
 

@@ -55,7 +55,7 @@
 
         (3) to exercise his powers in part under paragraph (1) and in part under paragraph (2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 80][/us/stat/68A/80]; [Pub. L. 88–272, title II, § 235(c)(2)][/us/pl/88/272/s235/c/2], Feb. 26, 1964, [78 Stat. 126][/us/stat/78/126]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 98–369, div. A, title VII, § 712(k)(8)(A)][/us/pl/98/369/s712/k/8/A], (B), July 18, 1984, [98 Stat. 952][/us/stat/98/952]; [Pub. L. 113–295, div. A, title II, § 221(a)(45)][/us/pl/113/295/s221/a/45], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 80][/us/stat/68A/80]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 235(c)(2), Feb. 26, 1964, [78 Stat. 126][/us/stat/78/126]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 712(k)(8)(A), (B), July 18, 1984, [98 Stat. 952][/us/stat/98/952]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(45), Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     1984—Subsecs. (b), (c). [Pub. L. 98–369][/us/pl/98/369] added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
 
-    1976—Subsecs. (a), (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (a), (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (c). [Pub. L. 94–455, § 1901(a)(38)][/us/pl/94/455/s1901/a/38], struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(38), struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
     1964—Subsec. (a). [Pub. L. 88–272][/us/pl/88/272] substituted “the Secretary or his delegate may disallow such deduction, credit, or other allowance” for “such deduction, credit or other allowance shall not be allowed”.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title VII, § 712(k)(8)(C)][/us/pl/98/369/s712/k/8/C], July 18, 1984, [98 Stat. 952][/us/stat/98/952], provided that: 
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 712(k)(8)(C), July 18, 1984, [98 Stat. 952][/us/stat/98/952], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall apply to liquidations after October 20, 1983, in taxable years ending after such date.”
 
@@ -92,23 +92,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F80
-[/us/pl/88/272/s235/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fc%2F2
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F126
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1771
-[/us/pl/98/369/s712/k/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F8%2FA
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F952
-[/us/pl/113/295/s221/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F45
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F38
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/98/369/s712/k/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F8%2FC
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F952
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/272/s235/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fd

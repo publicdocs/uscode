@@ -83,7 +83,7 @@
 
         For purposes of this subpart, the term “unrelated person” means a person other than a related person as defined in section 954(d)(3).
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1029][/us/stat/76/1029]; amended [Pub. L. 92–178, title V, § 505(c)][/us/pl/92/178/s505/c], Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1029][/us/stat/76/1029]; amended [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 505(c), Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Treatment of Certain Former Export Trade Corporations__ 
 
-[Pub. L. 99–514, title XVIII, § 1876(m)][/us/pl/99/514/s1876/m], Oct. 22, 1986, [100 Stat. 2901][/us/stat/100/2901], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1876(m), Oct. 22, 1986, [100 Stat. 2901][/us/stat/100/2901], provided that: 
 
 > “If—
 
@@ -110,12 +110,12 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1029
-[/us/pl/92/178/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs505%2Fc
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F553
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
-[/us/pl/99/514/s1876/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fm
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2901
 [/us/usc/t26/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs991
 

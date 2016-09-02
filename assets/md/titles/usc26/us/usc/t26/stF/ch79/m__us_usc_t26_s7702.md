@@ -615,57 +615,57 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 98–369, div. A, title II, § 221(a)][/us/pl/98/369/s221/a], July 18, 1984, [98 Stat. 767][/us/stat/98/767]; amended [Pub. L. 99–514, title XVIII, § 1825(a)][/us/pl/99/514/s1825/a]–(c), Oct. 22, 1986, [100 Stat. 2846–2848][/us/stat/100/2846-2848]; [Pub. L. 100–647, title V, § 5011(a)][/us/pl/100/647/s5011/a], (b), title VI, § 6078(a), Nov. 10, 1988, [102 Stat. 3660][/us/stat/102/3660], 3661, 3709.)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 221(a), July 18, 1984, [98 Stat. 767][/us/stat/98/767]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1825(a)–(c), Oct. 22, 1986, [100 Stat. 2846–2848][/us/stat/100/2846-2848]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5011(a), (b), title VI, § 6078(a), Nov. 10, 1988, [102 Stat. 3660][/us/stat/102/3660], 3661, 3709.)
 
  __Amendments__ 
 
-    1988—Subsec. (c)(3)(B)(i), (ii). [Pub. L. 100–647, § 5011(a)][/us/pl/100/647/s5011/a], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+    1988—Subsec. (c)(3)(B)(i), (ii). [Pub. L. 100–647][/us/pl/100/647], § 5011(a), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) the mortality charges specified in the contract (or, if none is specified, the mortality charges used in determining the statutory reserves for such contract),
 
     “(ii) any charges (not taken into account under clause (i)) specified in the contract (the amount of any charge not so specified shall be treated as zero), and”.
 
-    Subsec. (c)(3)(D). [Pub. L. 100–647, § 5011(b)][/us/pl/100/647/s5011/b], added subpar. (D).
+    Subsec. (c)(3)(D). [Pub. L. 100–647][/us/pl/100/647], § 5011(b), added subpar. (D).
 
-    Subsecs. (j), (k). [Pub. L. 100–647, § 6078(a)][/us/pl/100/647/s6078/a], added subsec. (j) and redesignated former subsec. (j) as (k).
+    Subsecs. (j), (k). [Pub. L. 100–647][/us/pl/100/647], § 6078(a), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-    1986—Subsec. (b)(2)(C). [Pub. L. 99–514, § 1825(a)(2)][/us/pl/99/514/s1825/a/2], substituted “subparagraphs (A) and (D)” for “subparagraphs (A) and (C)”.
+    1986—Subsec. (b)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1825(a)(2), substituted “subparagraphs (A) and (D)” for “subparagraphs (A) and (C)”.
 
-    Subsec. (e)(1). [Pub. L. 99–514, § 1825(a)(3)][/us/pl/99/514/s1825/a/3], inserted “(other than subsection (d))” after “section”.
+    Subsec. (e)(1). [Pub. L. 99–514][/us/pl/99/514], § 1825(a)(3), inserted “(other than subsection (d))” after “section”.
 
-    Subsec. (e)(1)(B). [Pub. L. 99–514, § 1825(a)(1)(A)][/us/pl/99/514/s1825/a/1/A], substituted “shall be deemed to be no earlier than” for “shall be no earlier than”.
+    Subsec. (e)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1825(a)(1)(A), substituted “shall be deemed to be no earlier than” for “shall be no earlier than”.
 
-    Subsec. (e)(1)(C). [Pub. L. 99–514, § 1821(a)(1)(C)][/us/pl/99/514/s1821/a/1/C], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (e)(1)(C). [Pub. L. 99–514][/us/pl/99/514], § 1821(a)(1)(C), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (e)(1)(D). [Pub. L. 99–514, § 1821(a)(1)(C)][/us/pl/99/514/s1821/a/1/C], (D), redesignated subpar. (C) as (D) and substituted “the maturity date determined by taking into account subparagraph (B)” for “the maturity date described in subparagraph (B)”.
+    Subsec. (e)(1)(D). [Pub. L. 99–514][/us/pl/99/514], § 1821(a)(1)(C), (D), redesignated subpar. (C) as (D) and substituted “the maturity date determined by taking into account subparagraph (B)” for “the maturity date described in subparagraph (B)”.
 
-    Subsec. (e)(2)(C). [Pub. L. 99–514, § 1825(a)(4)][/us/pl/99/514/s1825/a/4], added subpar. (C).
+    Subsec. (e)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1825(a)(4), added subpar. (C).
 
-    Subsec. (f)(1)(A). [Pub. L. 99–514, § 1825(b)(2)][/us/pl/99/514/s1825/b/2], substituted “less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received” for “less any other amounts received”.
+    Subsec. (f)(1)(A). [Pub. L. 99–514][/us/pl/99/514], § 1825(b)(2), substituted “less any excess premiums with respect to which there is a distribution described in subparagraph (B) or (E) of paragraph (7) and any other amounts received” for “less any other amounts received”.
 
-    Subsec. (f)(7). [Pub. L. 99–514, § 1825(b)(1)][/us/pl/99/514/s1825/b/1], amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: “In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.”, and par. (7)(B), certain changes treated as exchange, read as follows: “In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract.”
+    Subsec. (f)(7). [Pub. L. 99–514][/us/pl/99/514], § 1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: “In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.”, and par. (7)(B), certain changes treated as exchange, read as follows: “In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract.”
 
-    Subsec. (g)(1)(B)(ii). [Pub. L. 99–514, § 1825(c)][/us/pl/99/514/s1825/c], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
+    Subsec. (g)(1)(B)(ii). [Pub. L. 99–514][/us/pl/99/514], § 1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5011(d)][/us/pl/100/647/s5011/d], Nov. 10, 1988, [102 Stat. 3661][/us/stat/102/3661], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5011(d), Nov. 10, 1988, [102 Stat. 3661][/us/stat/102/3661], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to contracts entered into on or after October 21, 1988.”
 
-[Pub. L. 100–647, title VI, § 6078(b)][/us/pl/100/647/s6078/b], Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6078(b), Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 221(a) of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], which enacted this section\].”
 
  __Effective Date of 1986 Amendment__ 
 
-    [Pub. L. 99–514, title XVIII, § 1825(a)(4)][/us/pl/99/514/s1825/a/4], Oct. 22, 1986, [100 Stat. 2846][/us/stat/100/2846], as amended by [Pub. L. 100–647, title I, § 1018(j)][/us/pl/100/647/s1018/j], Nov. 10, 1988, [102 Stat. 3583][/us/stat/102/3583], provided that the amendment made by that section is effective with respect to contracts entered into after Oct. 22, 1986.
+    [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1825(a)(4), Oct. 22, 1986, [100 Stat. 2846][/us/stat/100/2846], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(j), Nov. 10, 1988, [102 Stat. 3583][/us/stat/102/3583], provided that the amendment made by that section is effective with respect to contracts entered into after Oct. 22, 1986.
 
-    Amendment by section 1825(a)(1)–(3), (b), (c) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by section 1825(a)(1)–(3), (b), (c) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title II, § 221(d)][/us/pl/98/369/s221/d], July 18, 1984, [98 Stat. 772][/us/stat/98/772], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, §§ 1825(e), 1899A(69), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2848, 2962, provided that:
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 221(d), July 18, 1984, [98 Stat. 772][/us/stat/98/772], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, title XVIII, §§ 1825(e), 1899A(69), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2848, 2962, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -735,7 +735,7 @@
 
  __Interim Rules; Regulations; Standards Before Regulations Take Effect__ 
 
-[Pub. L. 100–647, title V, § 5011(c)][/us/pl/100/647/s5011/c], Nov. 10, 1988, [102 Stat. 3661][/us/stat/102/3661], provided that:
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5011(c), Nov. 10, 1988, [102 Stat. 3661][/us/stat/102/3661], provided that:
 
 >     “(1)  __Regulations__  __.—__ 
 
@@ -751,7 +751,7 @@
 
  __Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements__ 
 
-[Pub. L. 98–369, div. A, title II, § 221(b)(3)][/us/pl/98/369/s221/b/3], as added by [Pub. L. 99–514, title XVIII, § 1825(d)][/us/pl/99/514/s1825/d], Oct. 22, 1986, [100 Stat. 2848][/us/stat/100/2848], provided that: 
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 221(b)(3), as added by [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1825(d), Oct. 22, 1986, [100 Stat. 2848][/us/stat/100/2848], provided that: 
 
 > “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
 
@@ -762,52 +762,52 @@
 ----------
 ----------
 
-[/us/pl/98/369/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs221%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F767
-[/us/pl/99/514/s1825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2846-2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2846-2848
-[/us/pl/100/647/s5011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5011%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3660
-[/us/pl/100/647/s5011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5011%2Fa
-[/us/pl/100/647/s5011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5011%2Fb
-[/us/pl/100/647/s6078/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6078%2Fa
-[/us/pl/99/514/s1825/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa%2F2
-[/us/pl/99/514/s1825/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa%2F3
-[/us/pl/99/514/s1825/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa%2F1%2FA
-[/us/pl/99/514/s1821/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fa%2F1%2FC
-[/us/pl/99/514/s1821/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fa%2F1%2FC
-[/us/pl/99/514/s1825/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa%2F4
-[/us/pl/99/514/s1825/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fb%2F2
-[/us/pl/99/514/s1825/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fb%2F1
-[/us/pl/99/514/s1825/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fc
-[/us/pl/100/647/s5011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5011%2Fd
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3661
-[/us/pl/100/647/s6078/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6078%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3709
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/99/514/s1825/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fa%2F4
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2846
-[/us/pl/100/647/s1018/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fj
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3583
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs221%2Fd
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F772
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101
-[/us/pl/100/647/s5011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5011%2Fc
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3661
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/98/369/s221/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs221%2Fb%2F3
-[/us/pl/99/514/s1825/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1825%2Fd
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2848
 
 

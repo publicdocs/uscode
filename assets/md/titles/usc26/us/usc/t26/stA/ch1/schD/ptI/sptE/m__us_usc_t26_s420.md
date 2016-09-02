@@ -401,11 +401,11 @@
 
         For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
-(Added [Pub. L. 101–508, title XII, § 12011(a)][/us/pl/101/508/s12011/a], Nov. 5, 1990, [104 Stat. 1388–567][/us/stat/104/1388-567]; amended [Pub. L. 103–465, title VII, § 731(a)][/us/pl/103/465/s731/a]–(c)(3), Dec. 8, 1994, [108 Stat. 5003][/us/stat/108/5003], 5004; [Pub. L. 104–188, title I, § 1704(a)][/us/pl/104/188/s1704/a], (t)(32), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1889; [Pub. L. 106–170, title V, § 535(a)(1)][/us/pl/106/170/s535/a/1], (b), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II, § 204(a)][/us/pl/108/218/s204/a], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(b)(1)][/us/pl/108/357/s709/b/1], (2), Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551], 1552; [Pub. L. 109–280, title I, § 114(d)][/us/pl/109/280/s114/d], title VIII, §§ 841(a), 842(a), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 1005, 1009; [Pub. L. 110–28, title VI][/us/pl/110/28], §§ 6612(a), (b), 6613(a), May 25, 2007, [121 Stat. 181][/us/stat/121/181]; [Pub. L. 110–458, title I, § 108(i)(1)][/us/pl/110/458/s108/i/1], (2), Dec. 23, 2008, [122 Stat. 5110][/us/stat/122/5110]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 859, 860, 862, 863; [Pub. L. 113–97, title II, § 202(c)(7)][/us/pl/113/97/s202/c/7], Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137]; [Pub. L. 114–41, title II, § 2007(a)][/us/pl/114/41/s2007/a], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
+(Added [Pub. L. 101–508, title XII][/us/pl/101/508/tXII], § 12011(a), Nov. 5, 1990, [104 Stat. 1388–567][/us/stat/104/1388-567]; amended [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 731(a)–(c)(3), Dec. 8, 1994, [108 Stat. 5003][/us/stat/108/5003], 5004; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(a), (t)(32), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1889; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 535(a)(1), (b), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 204(a), Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII][/us/pl/108/357/tVII], § 709(b)(1), (2), Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551], 1552; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 114(d), title VIII, §§ 841(a), 842(a), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 1005, 1009; [Pub. L. 110–28, title VI][/us/pl/110/28/tVI], §§ 6612(a), (b), 6613(a), May 25, 2007, [121 Stat. 181][/us/stat/121/181]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 108(i)(1), (2), Dec. 23, 2008, [122 Stat. 5110][/us/stat/122/5110]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], §§ 40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 859, 860, 862, 863; [Pub. L. 113–97, title II][/us/pl/113/97/tII], § 202(c)(7), Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137]; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2007(a), July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
 
  __References in Text__ 
 
-    Subsection (e)(1)(D), referred to in subsec. (c)(1)(A), was redesignated subsec. (e)(1)(E) and a new subsec. (e)(1)(D) was added by [Pub. L. 112–141, div. D, title II, § 40242(b)(2)][/us/pl/112/141/s40242/b/2], July 6, 2012, [126 Stat. 859][/us/stat/126/859].
+    Subsection (e)(1)(D), referred to in subsec. (c)(1)(A), was redesignated subsec. (e)(1)(E) and a new subsec. (e)(1)(D) was added by [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40242(b)(2), July 6, 2012, [126 Stat. 859][/us/stat/126/859].
 
     The Social Security Act, referred to in subsec. (c)(3)(C), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
@@ -419,135 +419,135 @@
 
     2014—Subsec. (e)(5). [Pub. L. 113–97][/us/pl/113/97] substituted “sections 430 and 433” for “section 430” in heading and text.
 
-    2012—[Pub. L. 112–141, § 40242(e)(1)][/us/pl/112/141/s40242/e/1], substituted “qualified current retiree liabilities” for “qualified current retiree health liabilities” wherever appearing in subsecs. (b) to (d), (e)(1), and (f).
+    2012—[Pub. L. 112–141][/us/pl/112/141], § 40242(e)(1), substituted “qualified current retiree liabilities” for “qualified current retiree health liabilities” wherever appearing in subsecs. (b) to (d), (e)(1), and (f).
 
-    Subsec. (a). [Pub. L. 112–141, § 40242(a)][/us/pl/112/141/s40242/a], inserted “, or an applicable life insurance account,” after “health benefits account”.
+    Subsec. (a). [Pub. L. 112–141][/us/pl/112/141], § 40242(a), inserted “, or an applicable life insurance account,” after “health benefits account”.
 
-    Subsec. (b)(1)(A). [Pub. L. 112–141, § 40242(g)(1)][/us/pl/112/141/s40242/g/1], struck out “in a taxable year beginning after December 31, 1990” after “such plan”.
+    Subsec. (b)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(1), struck out “in a taxable year beginning after December 31, 1990” after “such plan”.
 
-    [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    Subsec. (b)(2). [Pub. L. 112–141, § 40242(g)(3)][/us/pl/112/141/s40242/g/3], struck out “(A) In general” before “No more than” and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “A transfer described in paragraph (4) shall not be taken into account for purposes of subparagraph (A).”
+    Subsec. (b)(2). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(3), struck out “(A) In general” before “No more than” and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “A transfer described in paragraph (4) shall not be taken into account for purposes of subparagraph (A).”
 
-    Subsec. (b)(2)(A). [Pub. L. 112–141, § 40242(e)(3)(A)][/us/pl/112/141/s40242/e/3/A], inserted at end “If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.”
+    Subsec. (b)(2)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(3)(A), inserted at end “If there is a transfer from a defined benefit plan to both a health benefits account and an applicable life insurance account during any taxable year, such transfers shall be treated as 1 transfer for purposes of this paragraph.”
 
-    Subsec. (b)(3). [Pub. L. 112–141, § 40242(e)(3)(B)][/us/pl/112/141/s40242/e/3/B], inserted “to an account” after “may be transferred”.
+    Subsec. (b)(3). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(3)(B), inserted “to an account” after “may be transferred”.
 
-    Subsec. (b)(4). [Pub. L. 112–141, § 40242(g)(2)][/us/pl/112/141/s40242/g/2], redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for 1990.
+    Subsec. (b)(4). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(2), redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for 1990.
 
-    Subsec. (b)(5). [Pub. L. 112–141, § 40242(g)(2)][/us/pl/112/141/s40242/g/2], redesignated par. (5) as (4).
+    Subsec. (b)(5). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(2), redesignated par. (5) as (4).
 
-    [Pub. L. 112–141, § 40241(a)][/us/pl/112/141/s40241/a], substituted “December 31, 2021” for “December 31, 2013”.
+    [Pub. L. 112–141][/us/pl/112/141], § 40241(a), substituted “December 31, 2021” for “December 31, 2013”.
 
-    Subsec. (c)(1)(A). [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    Subsec. (c)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    Subsec. (c)(1)(B). [Pub. L. 112–141, § 40242(e)(4)][/us/pl/112/141/s40242/e/4], inserted “or life insurance” after “health benefits” in heading.
+    Subsec. (c)(1)(B). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(4), inserted “or life insurance” after “health benefits” in heading.
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    Subsec. (c)(1)(C). [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    Subsec. (c)(1)(C). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    Subsec. (c)(2). [Pub. L. 112–141, § 40242(g)(4)][/us/pl/112/141/s40242/g/4], struck out “(A) In general” before “The requirements of”, realigned margins, and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant’s benefits as if subparagraph (A) had applied immediately before such separation.”
+    Subsec. (c)(2). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(4), struck out “(A) In general” before “The requirements of”, realigned margins, and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: “In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant’s benefits as if subparagraph (A) had applied immediately before such separation.”
 
-    Subsec. (c)(3)(A). [Pub. L. 112–141, § 40242(c)(1)][/us/pl/112/141/s40242/c/1], inserted “, and each group-term life insurance plan under which applicable life insurance benefits are provided,” after “health benefits are provided”.
+    Subsec. (c)(3)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(1), inserted “, and each group-term life insurance plan under which applicable life insurance benefits are provided,” after “health benefits are provided”.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 112–141, § 40242(c)(2)(A)(i)][/us/pl/112/141/s40242/c/2/A/i], redesignated subcls. (I) and (II) as (II) and (III), respectively, and added subcl. (I).
+    Subsec. (c)(3)(B)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(A)(i), redesignated subcls. (I) and (II) as (II) and (III), respectively, and added subcl. (I).
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 112–141, § 40242(c)(2)(A)(ii)][/us/pl/112/141/s40242/c/2/A/ii], substituted “was provided during such taxable year for the benefits with respect to which the determination under clause (i) is made.” for “for applicable health benefits was provided during such taxable year.”
+    Subsec. (c)(3)(B)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(A)(ii), substituted “was provided during such taxable year for the benefits with respect to which the determination under clause (i) is made.” for “for applicable health benefits was provided during such taxable year.”
 
-    Subsec. (c)(3)(C). [Pub. L. 112–141, § 40242(c)(2)(B)][/us/pl/112/141/s40242/c/2/B], inserted “for applicable health benefits” after “applied separately” and “, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year” before the period at end.
+    Subsec. (c)(3)(C). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(B), inserted “for applicable health benefits” after “applied separately” and “, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year” before the period at end.
 
-    Subsec. (c)(3)(E)(i). [Pub. L. 112–141, § 40242(c)(2)(C)(i)][/us/pl/112/141/s40242/c/2/C/i], inserted “or retiree life insurance coverage, as the case may be,” after “retiree health coverage”.
+    Subsec. (c)(3)(E)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(C)(i), inserted “or retiree life insurance coverage, as the case may be,” after “retiree health coverage”.
 
-    Subsec. (c)(3)(E)(ii). [Pub. L. 112–141, § 40242(c)(2)(C)(ii)][/us/pl/112/141/s40242/c/2/C/ii], inserted “for retiree health coverage” after “cost reductions” in heading.
+    Subsec. (c)(3)(E)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(C)(ii), inserted “for retiree health coverage” after “cost reductions” in heading.
 
-    Subsec. (c)(3)(E)(ii)(II). [Pub. L. 112–141, § 40242(c)(2)(C)(iii)][/us/pl/112/141/s40242/c/2/C/iii], inserted “with respect to applicable health benefits” after “liabilities of the employer”.
+    Subsec. (c)(3)(E)(ii)(II). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(C)(iii), inserted “with respect to applicable health benefits” after “liabilities of the employer”.
 
-    Subsec. (d)(1)(A). [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    Subsec. (d)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    Subsec. (d)(2). [Pub. L. 112–141, § 40242(g)(5)][/us/pl/112/141/s40242/g/5], struck out “after December 31, 1990” after “may not contribute”.
+    Subsec. (d)(2). [Pub. L. 112–141][/us/pl/112/141], § 40242(g)(5), struck out “after December 31, 1990” after “may not contribute”.
 
-    Subsec. (e)(1). [Pub. L. 112–141, § 40242(e)(5)(B)][/us/pl/112/141/s40242/e/5/B], struck out “health” after “Qualified current retiree” in the heading.
+    Subsec. (e)(1). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(5)(B), struck out “health” after “Qualified current retiree” in the heading.
 
-    Subsec. (e)(1)(A). [Pub. L. 112–141, § 40242(e)(5)(A)][/us/pl/112/141/s40242/e/5/A], inserted “and applicable life insurance benefits” after “applicable health benefits”.
+    Subsec. (e)(1)(A). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(5)(A), inserted “and applicable life insurance benefits” after “applicable health benefits”.
 
-    Subsec. (e)(1)(B). [Pub. L. 112–141, § 40242(e)(6)(A)][/us/pl/112/141/s40242/e/6/A], inserted “(determined separately for applicable health benefits and applicable life insurance benefits)” after “shall be reduced by the amount” in introductory provisions.
+    Subsec. (e)(1)(B). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(6)(A), inserted “(determined separately for applicable health benefits and applicable life insurance benefits)” after “shall be reduced by the amount” in introductory provisions.
 
-    Subsec. (e)(1)(B)(i). [Pub. L. 112–141, § 40242(e)(6)(C)][/us/pl/112/141/s40242/e/6/C], substituted “qualified current retiree liability” for “qualified current retiree health liability”.
+    Subsec. (e)(1)(B)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(6)(C), substituted “qualified current retiree liability” for “qualified current retiree health liability”.
 
-    [Pub. L. 112–141, § 40242(e)(6)(B)][/us/pl/112/141/s40242/e/6/B], which directed the insertion of “or applicable life insurance accounts” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(6)(B), which directed the insertion of “or applicable life insurance accounts” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
 
-    Subsec. (e)(1)(C)(i). [Pub. L. 112–141, § 40242(b)(3)(B)(i)][/us/pl/112/141/s40242/b/3/B/i], substituted “by reason of retirement” for “upon retirement”.
+    Subsec. (e)(1)(C)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(B)(i), substituted “by reason of retirement” for “upon retirement”.
 
-    Subsec. (e)(1)(D), (E). [Pub. L. 112–141, § 40242(b)(2)][/us/pl/112/141/s40242/b/2], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (e)(1)(D), (E). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (e)(4) to (6). [Pub. L. 112–141, § 40242(b)(1)][/us/pl/112/141/s40242/b/1], added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Subsec. (e)(4) to (6). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-    Subsec. (f). [Pub. L. 112–141, § 40242(e)(7)][/us/pl/112/141/s40242/e/7], struck out “health” after “retiree” in two places in the heading.
+    Subsec. (f). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(7), struck out “health” after “retiree” in two places in the heading.
 
-    Subsec. (f)(2)(B)(ii)(II). [Pub. L. 112–141, § 40242(e)(8)][/us/pl/112/141/s40242/e/8], inserted “or applicable life insurance account, as the case may be,” after “health benefits account”.
+    Subsec. (f)(2)(B)(ii)(II). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(8), inserted “or applicable life insurance account, as the case may be,” after “health benefits account”.
 
-    Subsec. (f)(2)(C)(ii). [Pub. L. 112–141, § 40242(c)(2)(D)][/us/pl/112/141/s40242/c/2/D], substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
+    Subsec. (f)(2)(C)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(D), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
 
-    Subsec. (f)(2)(D)(i)(I). [Pub. L. 112–141, § 40242(c)(2)(E)(i)][/us/pl/112/141/s40242/c/2/E/i], (ii), inserted “, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided,” after “applicable health benefits are provided” and “or applicable life insurance benefits, as the case may be,” after “provides applicable health benefits”.
+    Subsec. (f)(2)(D)(i)(I). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(E)(i), (ii), inserted “, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided,” after “applicable health benefits are provided” and “or applicable life insurance benefits, as the case may be,” after “provides applicable health benefits”.
 
-    Subsec. (f)(2)(D)(i)(II). [Pub. L. 112–141, § 40242(c)(2)(E)(iii)][/us/pl/112/141/s40242/c/2/E/iii], (iv), struck out “group health” after “each collectively bargained” and inserted “or collectively bargained life insurance benefits” after “collectively bargained health benefits”.
+    Subsec. (f)(2)(D)(i)(II). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(E)(iii), (iv), struck out “group health” after “each collectively bargained” and inserted “or collectively bargained life insurance benefits” after “collectively bargained health benefits”.
 
-    Subsec. (f)(2)(D)(ii). [Pub. L. 112–141, § 40242(c)(2)(F)][/us/pl/112/141/s40242/c/2/F], inserted “with respect to applicable health benefits or applicable life insurance benefits” after “requirements of subsection (c)(3)” and inserted at end “Such election may be made separately with respect to applicable health benefits and applicable life insurance benefits. In the case of an election with respect to applicable life insurance benefits, the first sentence of this clause shall be applied as if subsection (c)(3) as in effect before the amendments made by such Act applied to such benefits.”
+    Subsec. (f)(2)(D)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(F), inserted “with respect to applicable health benefits or applicable life insurance benefits” after “requirements of subsection (c)(3)” and inserted at end “Such election may be made separately with respect to applicable health benefits and applicable life insurance benefits. In the case of an election with respect to applicable life insurance benefits, the first sentence of this clause shall be applied as if subsection (c)(3) as in effect before the amendments made by such Act applied to such benefits.”
 
-    Subsec. (f)(2)(D)(iii). [Pub. L. 112–141, § 40242(c)(2)(G)][/us/pl/112/141/s40242/c/2/G], struck out “retiree” before “health benefits” in two places and inserted “, collectively bargained life insurance benefits, or both, as the case may be,” after “health benefits” in two places.
+    Subsec. (f)(2)(D)(iii). [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(G), struck out “retiree” before “health benefits” in two places and inserted “, collectively bargained life insurance benefits, or both, as the case may be,” after “health benefits” in two places.
 
-    Subsec. (f)(2)(E)(i)(III). [Pub. L. 112–141, § 40242(e)(9)][/us/pl/112/141/s40242/e/9], inserted “defined benefit” before “plan maintained by an employer” and “health” before “benefit plans maintained by the employer”.
+    Subsec. (f)(2)(E)(i)(III). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(9), inserted “defined benefit” before “plan maintained by an employer” and “health” before “benefit plans maintained by the employer”.
 
-    Subsec. (f)(2)(E)(ii). [Pub. L. 112–141, § 40242(e)(2)][/us/pl/112/141/s40242/e/2], inserted “, or an applicable life insurance account,” after “a health benefits account”.
+    Subsec. (f)(2)(E)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(2), inserted “, or an applicable life insurance account,” after “a health benefits account”.
 
-    [Pub. L. 112–141, § 40242(c)(2)(D)][/us/pl/112/141/s40242/c/2/D], substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(c)(2)(D), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities”.
 
-    Subsec. (f)(4). [Pub. L. 112–141, § 40242(e)(10)][/us/pl/112/141/s40242/e/10], substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” in two places.
+    Subsec. (f)(4). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(10), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” in two places.
 
-    Subsec. (f)(6)(A)(i). [Pub. L. 112–141, § 40242(e)(11)(A)][/us/pl/112/141/s40242/e/11/A], inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents”.
+    Subsec. (f)(6)(A)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(11)(A), inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents”.
 
-    Subsec. (f)(6)(A)(ii). [Pub. L. 112–141, § 40242(e)(11)][/us/pl/112/141/s40242/e/11], inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents” and substituted “plan” for “health plan”.
+    Subsec. (f)(6)(A)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(11), inserted “, in the case of a transfer to a health benefits account,” before “his covered spouse and dependents” and substituted “plan” for “health plan”.
 
-    Subsec. (f)(6)(B). [Pub. L. 112–141, § 40242(e)(12)(C)][/us/pl/112/141/s40242/e/12/C], struck out “health” after “retiree” in the heading.
+    Subsec. (f)(6)(B). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(12)(C), struck out “health” after “retiree” in the heading.
 
-    [Pub. L. 112–141, § 40242(e)(10)][/us/pl/112/141/s40242/e/10], substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” wherever appearing.
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(10), substituted “collectively bargained retiree liabilities” for “collectively bargained retiree health liabilities” wherever appearing.
 
-    Subsec. (f)(6)(B)(i). [Pub. L. 112–141, § 40242(e)(12)(A)][/us/pl/112/141/s40242/e/12/A], inserted “, and collectively bargained life insurance benefits,” after “collectively bargained health benefits”.
+    Subsec. (f)(6)(B)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(12)(A), inserted “, and collectively bargained life insurance benefits,” after “collectively bargained health benefits”.
 
-    Subsec. (f)(6)(B)(ii). [Pub. L. 112–141, § 40242(e)(12)(B)(ii)][/us/pl/112/141/s40242/e/12/B/ii], which directed the insertion of “, applicable life insurance accounts,” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
+    Subsec. (f)(6)(B)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(12)(B)(ii), which directed the insertion of “, applicable life insurance accounts,” after “health benefit accounts”, was executed by making the insertion after “health benefits accounts” to reflect the probable intent of Congress.
 
-    [Pub. L. 112–141, § 40242(e)(12)(B)(i)][/us/pl/112/141/s40242/e/12/B/i], inserted at end “The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.”
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(12)(B)(i), inserted at end “The preceding sentence shall be applied separately for collectively bargained health benefits and collectively bargained life insurance benefits.”
 
-    Subsec. (f)(6)(B)(iii). [Pub. L. 112–141, § 40242(f)][/us/pl/112/141/s40242/f], substituted “416(i)(1)” for “416(I)(1)”.
+    Subsec. (f)(6)(B)(iii). [Pub. L. 112–141][/us/pl/112/141], § 40242(f), substituted “416(i)(1)” for “416(I)(1)”.
 
-    Subsec. (f)(6)(C). [Pub. L. 112–141, § 40242(b)(3)(B)(ii)(I)][/us/pl/112/141/s40242/b/3/B/ii/I], struck out “which are provided to” after “coverage” in introductory provisions.
+    Subsec. (f)(6)(C). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(B)(ii)(I), struck out “which are provided to” after “coverage” in introductory provisions.
 
-    Subsec. (f)(6)(C)(i). [Pub. L. 112–141, § 40242(b)(3)(B)(ii)(II)][/us/pl/112/141/s40242/b/3/B/ii/II], (III), inserted “which are provided to” before “retired employees” and substituted “by reason of retirement” for “upon retirement”.
+    Subsec. (f)(6)(C)(i). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(B)(ii)(II), (III), inserted “which are provided to” before “retired employees” and substituted “by reason of retirement” for “upon retirement”.
 
-    Subsec. (f)(6)(C)(ii). [Pub. L. 112–141, § 40242(b)(3)(B)(ii)(IV)][/us/pl/112/141/s40242/b/3/B/ii/IV], substituted “which will be provided at retirement to employees who are not retired employees at the time of the transfer and who” for “active employees who, following their retirement,”.
+    Subsec. (f)(6)(C)(ii). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(B)(ii)(IV), substituted “which will be provided at retirement to employees who are not retired employees at the time of the transfer and who” for “active employees who, following their retirement,”.
 
-    Subsec. (f)(6)(D). [Pub. L. 112–141, § 40242(b)(3)(A)][/us/pl/112/141/s40242/b/3/A], added subpar. (D). Former subpar. (D) redesignated (E).
+    Subsec. (f)(6)(D). [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(A), added subpar. (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (f)(6)(E). [Pub. L. 112–141, § 40242(e)(13)][/us/pl/112/141/s40242/e/13], struck out “health” after “bargained” in heading, substituted “bargained” for “bargained health”, and inserted “, or a group-term life insurance plan or arrangement for retired employees,” after “dependents”.
+    Subsec. (f)(6)(E). [Pub. L. 112–141][/us/pl/112/141], § 40242(e)(13), struck out “health” after “bargained” in heading, substituted “bargained” for “bargained health”, and inserted “, or a group-term life insurance plan or arrangement for retired employees,” after “dependents”.
 
-    [Pub. L. 112–141, § 40242(b)(3)(A)][/us/pl/112/141/s40242/b/3/A], redesignated subpar. (D) as (E).
+    [Pub. L. 112–141][/us/pl/112/141], § 40242(b)(3)(A), redesignated subpar. (D) as (E).
 
-    Subsec. (g). [Pub. L. 112–141, § 40211(a)(2)(D)][/us/pl/112/141/s40211/a/2/D], added subsec. (g).
+    Subsec. (g). [Pub. L. 112–141][/us/pl/112/141], § 40211(a)(2)(D), added subsec. (g).
 
-    2008—Subsec. (c)(1)(A). [Pub. L. 110–458, § 108(i)(1)][/us/pl/110/458/s108/i/1], inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
+    2008—Subsec. (c)(1)(A). [Pub. L. 110–458][/us/pl/110/458], § 108(i)(1), inserted last sentence “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).”
 
-    Subsec. (f)(2)(D)(i)(I). [Pub. L. 110–458, § 108(i)(2)][/us/pl/110/458/s108/i/2], struck out “such” after “average amount of”.
+    Subsec. (f)(2)(D)(i)(I). [Pub. L. 110–458][/us/pl/110/458], § 108(i)(2), struck out “such” after “average amount of”.
 
-    2007—Subsec. (c)(3)(A). [Pub. L. 110–28, § 6613(a)][/us/pl/110/28/s6613/a], substituted “transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).” for “transfer.”
+    2007—Subsec. (c)(3)(A). [Pub. L. 110–28][/us/pl/110/28], § 6613(a), substituted “transfer or, in the case of a transfer which involves a plan maintained by an employer described in subsection (f)(2)(E)(i)(III), if the plan meets the requirements of subsection (f)(2)(D)(i)(II).” for “transfer.”
 
-    Subsec. (e)(2)(B). [Pub. L. 110–28, § 6612(b)][/us/pl/110/28/s6612/b], substituted “funding target” for “funding shortfall”.
+    Subsec. (e)(2)(B). [Pub. L. 110–28][/us/pl/110/28], § 6612(b), substituted “funding target” for “funding shortfall”.
 
-    Subsec. (f)(2)(E)(i)(III). [Pub. L. 110–28, § 6612(a)][/us/pl/110/28/s6612/a], substituted “subsection (c)(3)(E)(ii)(II)” for “subsection (c)(2)(E)(ii)(II)”.
+    Subsec. (f)(2)(E)(i)(III). [Pub. L. 110–28][/us/pl/110/28], § 6612(a), substituted “subsection (c)(3)(E)(ii)(II)” for “subsection (c)(2)(E)(ii)(II)”.
 
-    2006—Subsec. (a). [Pub. L. 109–280, § 842(a)(1)][/us/pl/109/280/s842/a/1], struck out “(other than a multiemployer plan)” after “defined benefit plan” in introductory provisions.
+    2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280], § 842(a)(1), struck out “(other than a multiemployer plan)” after “defined benefit plan” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 109–280, § 114(d)(1)][/us/pl/109/280/s114/d/1], reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘excess pension assets’ means the excess (if any) of—
+    Subsec. (e)(2). [Pub. L. 109–280][/us/pl/109/280], § 114(d)(1), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘excess pension assets’ means the excess (if any) of—
 
     “(A) the amount determined under section 412(c)(7)(A)(ii), over
 
@@ -559,41 +559,41 @@
 
     The determination under this paragraph shall be made as of the most recent valuation date of the plan preceding the qualified transfer.”
 
-    Subsec. (e)(4). [Pub. L. 109–280, § 114(d)(2)][/us/pl/109/280/s114/d/2], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a qualified transfer to a health benefits account—
+    Subsec. (e)(4). [Pub. L. 109–280][/us/pl/109/280], § 114(d)(2), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In the case of a qualified transfer to a health benefits account—
 
     “(A) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
 
     “(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting ‘10 plan years’ for ‘5 plan years’.”
 
-    Subsec. (e)(5). [Pub. L. 109–280, § 842(a)(2)][/us/pl/109/280/s842/a/2], added par. (5).
+    Subsec. (e)(5). [Pub. L. 109–280][/us/pl/109/280], § 842(a)(2), added par. (5).
 
-    Subsec. (f). [Pub. L. 109–280, § 841(a)][/us/pl/109/280/s841/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–280][/us/pl/109/280], § 841(a), added subsec. (f).
 
     2004—Subsec. (b)(5). [Pub. L. 108–218][/us/pl/108/218] substituted “2013” for “2005”.
 
     Subsec. (c)(3)(E). [Pub. L. 108–357][/us/pl/108/357] designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-    1999—Subsec. (b)(1)(C)(iii). [Pub. L. 106–170, § 535(b)(2)(A)][/us/pl/106/170/s535/b/2/A], substituted “cost” for “benefits”.
+    1999—Subsec. (b)(1)(C)(iii). [Pub. L. 106–170][/us/pl/106/170], § 535(b)(2)(A), substituted “cost” for “benefits”.
 
-    Subsec. (b)(5). [Pub. L. 106–170, § 535(a)(1)][/us/pl/106/170/s535/a/1], substituted “made after December 31, 2005” for “in any taxable year beginning after December 31, 2000”.
+    Subsec. (b)(5). [Pub. L. 106–170][/us/pl/106/170], § 535(a)(1), substituted “made after December 31, 2005” for “in any taxable year beginning after December 31, 2000”.
 
-    Subsec. (c)(3). [Pub. L. 106–170, § 535(b)(1)][/us/pl/106/170/s535/b/1], amended heading and text of par. (3) generally, substituting present provisions for provisions relating to maintenance of benefit requirements.
+    Subsec. (c)(3). [Pub. L. 106–170][/us/pl/106/170], § 535(b)(1), amended heading and text of par. (3) generally, substituting present provisions for provisions relating to maintenance of benefit requirements.
 
-    Subsec. (e)(1)(D). [Pub. L. 106–170, § 535(b)(2)(B)][/us/pl/106/170/s535/b/2/B], substituted “or in calculating applicable employer cost under subsection (c)(3)(B)” for “and shall not be subject to the minimum benefit requirements of subsection (c)(3)”.
+    Subsec. (e)(1)(D). [Pub. L. 106–170][/us/pl/106/170], § 535(b)(2)(B), substituted “or in calculating applicable employer cost under subsection (c)(3)(B)” for “and shall not be subject to the minimum benefit requirements of subsection (c)(3)”.
 
-    1996—[Pub. L. 104–188, § 1704(a)][/us/pl/104/188/s1704/a], provided that, except as otherwise expressly provided, whenever in title XII of [Pub. L. 101–508][/us/pl/101/508] an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. [Section 12011(a) of title XII of Pub. L. 101–508][/us/pl/101/508/s12011/a] directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
+    1996—[Pub. L. 104–188][/us/pl/104/188], § 1704(a), provided that, except as otherwise expressly provided, whenever in title XII of [Pub. L. 101–508][/us/pl/101/508] an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. [Section 12011(a) of title XII of Pub. L. 101–508][/us/pl/101/508/tXII/s12011/a] directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
 
-    Subsec. (e)(1)(C). [Pub. L. 104–188, § 1704(t)(32)][/us/pl/104/188/s1704/t/32], substituted “means” for “mean”.
+    Subsec. (e)(1)(C). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(32), substituted “means” for “mean”.
 
-    1994—Subsec. (b)(1)(C)(iii). [Pub. L. 103–465, § 731(c)(1)][/us/pl/103/465/s731/c/1], substituted “benefits” for “cost”.
+    1994—Subsec. (b)(1)(C)(iii). [Pub. L. 103–465][/us/pl/103/465], § 731(c)(1), substituted “benefits” for “cost”.
 
-    Subsec. (b)(5). [Pub. L. 103–465, § 731(a)][/us/pl/103/465/s731/a], substituted “2000” for “1995”.
+    Subsec. (b)(5). [Pub. L. 103–465][/us/pl/103/465], § 731(a), substituted “2000” for “1995”.
 
-    Subsec. (c)(3). [Pub. L. 103–465, § 731(b)][/us/pl/103/465/s731/b], amended par. (3) generally, substituting present provisions for provisions outlining minimum cost requirements for plans, providing for elections to compute costs separately, and defining “applicable employer cost” and “cost maintenance period”.
+    Subsec. (c)(3). [Pub. L. 103–465][/us/pl/103/465], § 731(b), amended par. (3) generally, substituting present provisions for provisions outlining minimum cost requirements for plans, providing for elections to compute costs separately, and defining “applicable employer cost” and “cost maintenance period”.
 
-    Subsec. (e)(1)(B). [Pub. L. 103–465, § 731(c)(2)][/us/pl/103/465/s731/c/2], reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
+    Subsec. (e)(1)(B). [Pub. L. 103–465][/us/pl/103/465], § 731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
 
-    Subsec. (e)(1)(D). [Pub. L. 103–465, § 731(c)(3)][/us/pl/103/465/s731/c/3], substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
+    Subsec. (e)(1)(D). [Pub. L. 103–465][/us/pl/103/465], § 731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -603,11 +603,11 @@
 
     Amendment by [section 40211(a)(2)(D) of Pub. L. 112–141][/us/pl/112/141/s40211/a/2/D] applicable with respect to plan years beginning after December 31, 2011, except as otherwise provided, see [section 40211(c) of Pub. L. 112–141][/us/pl/112/141/s40211/c], set out as a note under [section 404 of this title][/us/usc/t26/s404].
 
-[Pub. L. 112–141, div. D, title II, § 40241(c)][/us/pl/112/141/s40241/c], July 6, 2012, [126 Stat. 859][/us/stat/126/859], provided that: 
+[Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40241(c), July 6, 2012, [126 Stat. 859][/us/stat/126/859], provided that: 
 
 > “The amendments made by this Act \[probably should be “section”, amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall take effect on the date of the enactment of this Act \[July 6, 2012\].”
 
-[Pub. L. 112–141, div. D, title II, § 40242(h)][/us/pl/112/141/s40242/h], July 6, 2012, [126 Stat. 864][/us/stat/126/864], provided that:
+[Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40242(h), July 6, 2012, [126 Stat. 864][/us/stat/126/864], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -623,11 +623,11 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VI, § 6612(c)][/us/pl/110/28/s6612/c], May 25, 2007, [121 Stat. 181][/us/stat/121/181], provided that: 
+[Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6612(c), May 25, 2007, [121 Stat. 181][/us/stat/121/181], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as if included in the provisions of the Pension Protection Act of 2006 \[[Pub. L. 109–280][/us/pl/109/280]\] to which they relate.”
 
-[Pub. L. 110–28, title VI, § 6613(b)][/us/pl/110/28/s6613/b], May 25, 2007, [121 Stat. 181][/us/stat/121/181], provided that: 
+[Pub. L. 110–28, title VI][/us/pl/110/28/tVI], § 6613(b), May 25, 2007, [121 Stat. 181][/us/stat/121/181], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[May 25, 2007\].”
 
@@ -635,23 +635,23 @@
 
     Amendment by [section 114(d) of Pub. L. 109–280][/us/pl/109/280/s114/d] applicable to plan years beginning after 2007, see [section 114(g)(1) of Pub. L. 109–280][/us/pl/109/280/s114/g/1], as added by [Pub. L. 110–458][/us/pl/110/458], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
-[Pub. L. 109–280, title VIII, § 841(b)][/us/pl/109/280/s841/b], Aug. 17, 2006, [120 Stat. 1009][/us/stat/120/1009], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 841(b), Aug. 17, 2006, [120 Stat. 1009][/us/stat/120/1009], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-[Pub. L. 109–280, title VIII, § 842(b)][/us/pl/109/280/s842/b], Aug. 17, 2006, [120 Stat. 1009][/us/stat/120/1009], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 842(b), Aug. 17, 2006, [120 Stat. 1009][/us/stat/120/1009], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to transfers made in taxable years beginning after December 31, 2006.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VII, § 709(b)(3)][/us/pl/108/357/s709/b/3], Oct. 22, 2004, [118 Stat. 1552][/us/stat/118/1552], provided that: 
+[Pub. L. 108–357, title VII][/us/pl/108/357/tVII], § 709(b)(3), Oct. 22, 2004, [118 Stat. 1552][/us/stat/118/1552], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title V, § 535(c)][/us/pl/106/170/s535/c], Dec. 17, 1999, [113 Stat. 1935][/us/stat/113/1935], provided that:
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 535(c), Dec. 17, 1999, [113 Stat. 1935][/us/stat/113/1935], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -663,7 +663,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 731(d)][/us/pl/103/465/s731/d], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], provided that:
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 731(d), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004], provided that:
 
 >     “(1)  __Extension__  __.—__ 
 
@@ -675,7 +675,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title XII, § 12011(c)][/us/pl/101/508/s12011/c], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571], provided that:
+[Pub. L. 101–508, title XII][/us/pl/101/508/tXII], § 12011(c), Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -696,31 +696,31 @@
 ----------
 ----------
 
-[/us/pl/101/508/s12011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fa
+[/us/pl/101/508/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII
 [/us/stat/104/1388-567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-567
-[/us/pl/103/465/s731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fa
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5003
-[/us/pl/104/188/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1878
-[/us/pl/106/170/s535/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fa%2F1
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1934
-[/us/pl/108/218/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs204%2Fa
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F609
-[/us/pl/108/357/s709/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs709%2Fb%2F1
+[/us/pl/108/357/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVII
 [/us/stat/118/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1551
-[/us/pl/109/280/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fd
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F854
-[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F181
-[/us/pl/110/458/s108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fi%2F1
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5110
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
-[/us/pl/113/97/s202/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F7
+[/us/pl/113/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtII
 [/us/stat/128/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1137
-[/us/pl/114/41/s2007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fa
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
-[/us/pl/112/141/s40242/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F2
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -731,98 +731,98 @@
 [/us/pl/106/170/s535/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fb%2F1
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
-[/us/pl/112/141/s40242/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F1
-[/us/pl/112/141/s40242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fa
-[/us/pl/112/141/s40242/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F1
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F3
-[/us/pl/112/141/s40242/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F3%2FA
-[/us/pl/112/141/s40242/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F3%2FB
-[/us/pl/112/141/s40242/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F2
-[/us/pl/112/141/s40242/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F2
-[/us/pl/112/141/s40241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fa
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F4
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F4
-[/us/pl/112/141/s40242/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F1
-[/us/pl/112/141/s40242/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FA%2Fi
-[/us/pl/112/141/s40242/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FA%2Fii
-[/us/pl/112/141/s40242/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FB
-[/us/pl/112/141/s40242/c/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FC%2Fi
-[/us/pl/112/141/s40242/c/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FC%2Fii
-[/us/pl/112/141/s40242/c/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FC%2Fiii
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fg%2F5
-[/us/pl/112/141/s40242/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F5%2FB
-[/us/pl/112/141/s40242/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F5%2FA
-[/us/pl/112/141/s40242/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F6%2FA
-[/us/pl/112/141/s40242/e/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F6%2FC
-[/us/pl/112/141/s40242/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F6%2FB
-[/us/pl/112/141/s40242/b/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FB%2Fi
-[/us/pl/112/141/s40242/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F2
-[/us/pl/112/141/s40242/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F1
-[/us/pl/112/141/s40242/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F7
-[/us/pl/112/141/s40242/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F8
-[/us/pl/112/141/s40242/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FD
-[/us/pl/112/141/s40242/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FE%2Fi
-[/us/pl/112/141/s40242/c/2/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FE%2Fiii
-[/us/pl/112/141/s40242/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FF
-[/us/pl/112/141/s40242/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FG
-[/us/pl/112/141/s40242/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F9
-[/us/pl/112/141/s40242/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F2
-[/us/pl/112/141/s40242/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fc%2F2%2FD
-[/us/pl/112/141/s40242/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F10
-[/us/pl/112/141/s40242/e/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F11%2FA
-[/us/pl/112/141/s40242/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F11
-[/us/pl/112/141/s40242/e/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F12%2FC
-[/us/pl/112/141/s40242/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F10
-[/us/pl/112/141/s40242/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F12%2FA
-[/us/pl/112/141/s40242/e/12/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F12%2FB%2Fii
-[/us/pl/112/141/s40242/e/12/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F12%2FB%2Fi
-[/us/pl/112/141/s40242/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Ff
-[/us/pl/112/141/s40242/b/3/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FB%2Fii%2FI
-[/us/pl/112/141/s40242/b/3/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FB%2Fii%2FII
-[/us/pl/112/141/s40242/b/3/B/ii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FB%2Fii%2FIV
-[/us/pl/112/141/s40242/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FA
-[/us/pl/112/141/s40242/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fe%2F13
-[/us/pl/112/141/s40242/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fb%2F3%2FA
-[/us/pl/112/141/s40211/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FD
-[/us/pl/110/458/s108/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fi%2F1
-[/us/pl/110/458/s108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fi%2F2
-[/us/pl/110/28/s6613/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6613%2Fa
-[/us/pl/110/28/s6612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6612%2Fb
-[/us/pl/110/28/s6612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6612%2Fa
-[/us/pl/109/280/s842/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs842%2Fa%2F1
-[/us/pl/109/280/s114/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fd%2F1
-[/us/pl/109/280/s114/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fd%2F2
-[/us/pl/109/280/s842/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs842%2Fa%2F2
-[/us/pl/109/280/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs841%2Fa
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/106/170/s535/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fb%2F2%2FA
-[/us/pl/106/170/s535/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fa%2F1
-[/us/pl/106/170/s535/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fb%2F1
-[/us/pl/106/170/s535/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fb%2F2%2FB
-[/us/pl/104/188/s1704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fa
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/508/s12011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fa
-[/us/pl/104/188/s1704/t/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F32
-[/us/pl/103/465/s731/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fc%2F1
-[/us/pl/103/465/s731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fa
-[/us/pl/103/465/s731/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fb
-[/us/pl/103/465/s731/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fc%2F2
-[/us/pl/103/465/s731/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fc%2F3
+[/us/pl/101/508/tXII/s12011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII%2Fs12011%2Fa
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/112/141/s40211/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FD
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
-[/us/pl/112/141/s40241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fc
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
-[/us/pl/112/141/s40242/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40242%2Fh
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F864
 [/us/usc/t26/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs79
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
@@ -831,26 +831,26 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/110/28/s6612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6612%2Fc
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F181
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/110/28/s6613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs6613%2Fb
+[/us/pl/110/28/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVI
 [/us/stat/121/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F181
 [/us/pl/109/280/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fd
 [/us/pl/109/280/s114/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fg%2F1
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/109/280/s841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs841%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1009
-[/us/pl/109/280/s842/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs842%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1009
-[/us/pl/108/357/s709/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs709%2Fb%2F3
+[/us/pl/108/357/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVII
 [/us/stat/118/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1552
-[/us/pl/106/170/s535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fc
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1935
-[/us/pl/103/465/s731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fd
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5004
-[/us/pl/101/508/s12011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12011%2Fc
+[/us/pl/101/508/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII
 [/us/stat/104/1388-571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-571
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

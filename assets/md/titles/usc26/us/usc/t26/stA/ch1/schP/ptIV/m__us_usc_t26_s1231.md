@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_stA_ch1_schP_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1233.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1231)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_stA_ch1_schP_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232...1232B.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1231)
 
 ## § 1231. Property used in the trade or business and involuntary conversions
 
@@ -159,7 +159,7 @@
 
             For purposes of determining the amount of the net section 1231 gain or loss for any taxable year, the rules of paragraph (4) of subsection (a) shall apply.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 325][/us/stat/68A/325]; [Pub. L. 85–866, title I, § 49(a)][/us/pl/85/866/s49/a], Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642]; [Pub. L. 88–272, title II, § 227(a)(2)][/us/pl/88/272/s227/a/2], Feb. 26, 1964, [78 Stat. 97][/us/stat/78/97]; [Pub. L. 91–172, title II, § 212(b)(1)][/us/pl/91/172/s212/b/1], title V, §§ 514(b)(2), 516(b), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], 643, 646; [Pub. L. 94–455, title XIV, § 1402(b)(1)(R)][/us/pl/94/455/s1402/b/1/R], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 95–600, title VII, § 701(ee)(1)][/us/pl/95/600/s701/ee/1], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–34, title V, § 505(c)(1)][/us/pl/97/34/s505/c/1], Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 98–369, div. A, title I, § 176(a)][/us/pl/98/369/s176/a], title VII, § 711(c)(2)(A)(iii), title X, § 1001(b)(15), (e), July 18, 1984, [98 Stat. 709][/us/stat/98/709], 944, 1012; [Pub. L. 106–170, title V, § 532(c)(1)(G)][/us/pl/106/170/s532/c/1/G], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 113–295, div. A, title II, § 221(a)(81)][/us/pl/113/295/s221/a/81], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 325][/us/stat/68A/325]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 49(a), Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 227(a)(2), Feb. 26, 1964, [78 Stat. 97][/us/stat/78/97]; [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 212(b)(1), title V, §§ 514(b)(2), 516(b), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], 643, 646; [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1)(R), (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(ee)(1), Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–34, title V][/us/pl/97/34/tV], § 505(c)(1), Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 176(a), title VII, § 711(c)(2)(A)(iii), title X, § 1001(b)(15), (e), July 18, 1984, [98 Stat. 709][/us/stat/98/709], 944, 1012; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(1)(G), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(81), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
 
@@ -167,9 +167,9 @@
 
     1999—Subsec. (b)(1)(C), (D). [Pub. L. 106–170][/us/pl/106/170] substituted “section 1221(a)” for “section 1221”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 1001(b)(15)][/us/pl/98/369/s1001/b/15], (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-    [Pub. L. 98–369, § 711(c)(2)(A)(iii)][/us/pl/98/369/s711/c/2/A/iii], amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
+    [Pub. L. 98–369][/us/pl/98/369], § 711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
 
     “(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 
@@ -177,23 +177,23 @@
 
     In the case of any involuntary conversion (subject to the provisions of this subsection but for this sentence) arising from fire, storm, shipwreck, or other casualty, or from theft, of any property used in the trade or business or of any capital asset held for more than 1 year, this subsection shall not apply to such conversion (whether resulting in gain or loss) if during the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.”
 
-    Subsec. (b)(1), (4). [Pub. L. 98–369, § 1001(b)(15)][/us/pl/98/369/s1001/b/15], (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+    Subsec. (b)(1), (4). [Pub. L. 98–369][/us/pl/98/369], § 1001(b)(15), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-    Subsec. (c). [Pub. L. 98–369, § 176(a)][/us/pl/98/369/s176/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 176(a), added subsec. (c).
 
     1981—Subsec. (b)(1)(D). [Pub. L. 97–34][/us/pl/97/34] substituted “paragraph (5)” for “paragraph (6)”.
 
     1978—Subsec. (b)(1)(D). [Pub. L. 95–600][/us/pl/95/600] added subpar. (D).
 
-    1976—Subsecs. (a), (b)(1), (4). [Pub. L. 94–455, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], provided that “9 months” would be changed to “1 year” wherever appearing.
+    1976—Subsecs. (a), (b)(1), (4). [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(2), provided that “9 months” would be changed to “1 year” wherever appearing.
 
-    [Pub. L. 94–455, § 1402(b)(1)(R)][/us/pl/94/455/s1402/b/1/R], provided that in subsecs. (a), first and last sentences, (a)(2), and (b)(1), (4), “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(1)(R), provided that in subsecs. (a), first and last sentences, (a)(2), and (b)(1), (4), “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-    1969—Subsec. (a). [Pub. L. 91–172, § 516(b)][/us/pl/91/172/s516/b], provided that casualty (or theft) losses with respect to depreciable property and real estate used in trade or business and capital assets held for the production of income as well as personal assets are to be consolidated with casualty (or theft) gains with respect to this type of property and if the casualty losses exceed the casualty gains, the net loss is treated as an ordinary loss without regard to whether there may be noncasualty gains under this section, but, if the casualty gains exceed the casualty losses, the net gain is treated as a gain under this section and must be consolidated with other gains and losses under this section.
+    1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 516(b), provided that casualty (or theft) losses with respect to depreciable property and real estate used in trade or business and capital assets held for the production of income as well as personal assets are to be consolidated with casualty (or theft) gains with respect to this type of property and if the casualty losses exceed the casualty gains, the net loss is treated as an ordinary loss without regard to whether there may be noncasualty gains under this section, but, if the casualty gains exceed the casualty losses, the net gain is treated as a gain under this section and must be consolidated with other gains and losses under this section.
 
-    Subsec. (b)(1)(C). [Pub. L. 91–172, § 514(b)(2)][/us/pl/91/172/s514/b/2], inserted reference to a letter or memorandum.
+    Subsec. (b)(1)(C). [Pub. L. 91–172][/us/pl/91/172], § 514(b)(2), inserted reference to a letter or memorandum.
 
-    Subsec. (b)(3). [Pub. L. 91–172, § 212(b)(1)][/us/pl/91/172/s212/b/1], redesignated existing provisions as subpar. (B) and added subpar. (A).
+    Subsec. (b)(3). [Pub. L. 91–172][/us/pl/91/172], § 212(b)(1), redesignated existing provisions as subpar. (B) and added subpar. (A).
 
     1964—Subsec. (b)(2). [Pub. L. 88–272][/us/pl/88/272] inserted reference to iron ore in text, and to domestic iron ore in heading.
 
@@ -209,7 +209,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 176(b)][/us/pl/98/369/s176/b], July 18, 1984, [98 Stat. 709][/us/stat/98/709], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 176(b), July 18, 1984, [98 Stat. 709][/us/stat/98/709], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to net section 1231 gains for taxable years beginning after December 31, 1984.”
 
@@ -223,19 +223,19 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 701(ee)(2)][/us/pl/95/600/s701/ee/2], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(ee)(2), Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to sales, exchanges, and contributions made after October 4, 1976.”
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(1)][/us/pl/94/455/s1402/b/1], Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title II, § 212(b)(2)][/us/pl/91/172/s212/b/2], Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], provided that: 
+[Pub. L. 91–172, title II][/us/pl/91/172/tII], § 212(b)(2), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to livestock acquired after December 31, 1969.”
 
@@ -249,62 +249,50 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 49(b)][/us/pl/85/866/s49/b], Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 49(b), Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1957.”
 
-\[§§ 1232 to 1232B. __Repealed.__  __[__  __Pub. L. 98–369, div. A, title I, § 42(a)(1)__  __][/us/pl/98/369/s42/a/1]__  __,__  __July 18, 1984__  __,__  __[__  __98 Stat. 556__  __][/us/stat/98/556]__  __\]__ 
-
-    Section 1232, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 326][/us/stat/68A/326]; Sept. 2, 1958, [Pub. L. 85–866, title I][/us/pl/85/866], §§ 50(a), 51, [72 Stat. 1642][/us/stat/72/1642], 1643; June 25, 1959, [Pub. L. 86–69, § 3(e)][/us/pl/86/69/s3/e], [73 Stat. 140][/us/stat/73/140]; Sept. 2, 1964, [Pub. L. 88–563, § 5][/us/pl/88/563/s5], [78 Stat. 845][/us/stat/78/845]; Dec. 30, 1969, [Pub. L. 91–172, title IV, § 413(a)][/us/pl/91/172/s413/a], (b), [83 Stat. 609][/us/stat/83/609], 611; Oct. 4, 1976, [Pub. L. 94–455, title XIV, § 1402(b)(1)(S)][/us/pl/94/455/s1402/b/1/S], (2), title XIX, §§ 1901(b)(3)(I), (14)(D), 1904(b)(10)(C), [90 Stat. 1732][/us/stat/90/1732], 1793, 1796, 1817; Aug. 13, 1981, [Pub. L. 97–34, title V, § 505(b)][/us/pl/97/34/s505/b], [95 Stat. 331][/us/stat/95/331]; Sept. 3, 1982, [Pub. L. 97–248, title II][/us/pl/97/248], §§ 231(c), 232(b), title III, § 310(b)(6), [96 Stat. 499][/us/stat/96/499], 501, 599; Jan. 12, 1983, [Pub. L. 97–448, title III, § 306(a)(9)(B)][/us/pl/97/448/s306/a/9/B], (C)(i), (ii), [96 Stat. 2403][/us/stat/96/2403], 2404; July 18, 1984, [Pub. L. 98–369, div. A, title X, § 1001(b)(16)][/us/pl/98/369/s1001/b/16], (d), (e), [98 Stat. 1012][/us/stat/98/1012], related to bonds and other evidences of indebtedness. See section 1271 et seq. of this title.
-
-    Section 1232A, added [Pub. L. 97–248, title II, § 231(a)][/us/pl/97/248/s231/a], Sept. 3, 1982, [96 Stat. 496][/us/stat/96/496]; amended [Pub. L. 98–369, div. A, title II, § 211(b)(17)][/us/pl/98/369/s211/b/17], July 18, 1984, [98 Stat. 756][/us/stat/98/756], related to original issue discount. See section 1271 et seq. of this title.
-
-    Section 1232B, added [Pub. L. 97–248, title II, § 232(a)][/us/pl/97/248/s232/a], Sept. 3, 1982, [96 Stat. 499][/us/stat/96/499], related to stripped bonds. See [section 1286 of this title][/us/usc/t26/s1286].
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable to taxable years ending after July 18, 1984, see [section 44 of Pub. L. 98–369][/us/pl/98/369/s44], set out as an Effective Date note under [section 1271 of this title][/us/usc/t26/s1271].
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_stA_ch1_schP_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1233.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1231)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_stA_ch1_schP_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232...1232B.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1231)
 
 ----------
 ----------
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F325
-[/us/pl/85/866/s49/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs49%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1642
-[/us/pl/88/272/s227/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs227%2Fa%2F2
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F97
-[/us/pl/91/172/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs212%2Fb%2F1
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F571
-[/us/pl/94/455/s1402/b/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FR
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/95/600/s701/ee/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fee%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2924
-[/us/pl/97/34/s505/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs505%2Fc%2F1
+[/us/pl/97/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtV
 [/us/stat/95/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F332
-[/us/pl/98/369/s176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs176%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F709
-[/us/pl/106/170/s532/c/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F1%2FG
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
-[/us/pl/113/295/s221/a/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F81
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/98/369/s1001/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F15
-[/us/pl/98/369/s711/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs711%2Fc%2F2%2FA%2Fiii
-[/us/pl/98/369/s1001/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F15
-[/us/pl/98/369/s176/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs176%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
-[/us/pl/94/455/s1402/b/1/R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FR
-[/us/pl/91/172/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs516%2Fb
-[/us/pl/91/172/s514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs514%2Fb%2F2
-[/us/pl/91/172/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs212%2Fb%2F1
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -313,7 +301,7 @@
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/98/369/s176/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs176%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F709
 [/us/pl/98/369/s711/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs711%2Fc%2F2%2FA%2Fiii
 [/us/pl/98/369/s711/c/2/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs711%2Fc%2F2%2FA%2Fv
@@ -324,13 +312,13 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs508
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
-[/us/pl/95/600/s701/ee/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fee%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2924
-[/us/pl/94/455/s1402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/91/172/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs212%2Fb%2F2
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F571
 [/us/pl/91/172/s514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs514%2Fb%2F2
 [/us/pl/91/172/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs514%2Fc
@@ -341,38 +329,7 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/272/s227/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs227%2Fc
 [/us/usc/t26/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs272
-[/us/pl/85/866/s49/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs49%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1642
-[/us/pl/98/369/s42/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F1
-[/us/stat/98/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F556
-[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
-[/us/stat/68A/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F326
-[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/stat/72/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1642
-[/us/pl/86/69/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs3%2Fe
-[/us/stat/73/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F140
-[/us/pl/88/563/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F563%2Fs5
-[/us/stat/78/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F845
-[/us/pl/91/172/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs413%2Fa
-[/us/stat/83/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F609
-[/us/pl/94/455/s1402/b/1/S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FS
-[/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/97/34/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs505%2Fb
-[/us/stat/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F331
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/stat/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F499
-[/us/pl/97/448/s306/a/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F9%2FB
-[/us/stat/96/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2403
-[/us/pl/98/369/s1001/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F16
-[/us/stat/98/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1012
-[/us/pl/97/248/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs231%2Fa
-[/us/stat/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F496
-[/us/pl/98/369/s211/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F17
-[/us/stat/98/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F756
-[/us/pl/97/248/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs232%2Fa
-[/us/stat/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F499
-[/us/usc/t26/s1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1286
-[/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44
-[/us/usc/t26/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1271
 
 

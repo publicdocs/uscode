@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVI/m__us_usc_t26_s184.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVI/m__us_usc_t26_s186.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs185)
 
-## \[§ 185. Repealed. [Pub. L. 99–514, title II, § 242(a)][/us/pl/99/514/s242/a], Oct. 22, 1986, [100 Stat. 2181][/us/stat/100/2181]\]
+## \[§ 185. Repealed. [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 242(a), Oct. 22, 1986, [100 Stat. 2181][/us/stat/100/2181]\]
 
-    Section, added [Pub. L. 91–172, title VII, § 705(a)][/us/pl/91/172/s705/a], Dec. 30, 1969, [83 Stat. 672][/us/stat/83/672]; amended [Pub. L. 94–455, title XVII, § 1702][/us/pl/94/455/s1702], title XIX, § 1906(b) (13)(A), Oct. 4, 1976, [90 Stat. 1760][/us/stat/90/1760], 1834; [Pub. L. 95–473, § 2(a)(2)(B)][/us/pl/95/473/s2/a/2/B], Oct. 17, 1978, [92 Stat. 1464][/us/stat/92/1464], related to amortization of railroad grading and tunnel bores.
+    Section, added [Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 705(a), Dec. 30, 1969, [83 Stat. 672][/us/stat/83/672]; amended [Pub. L. 94–455, title XVII][/us/pl/94/455/tXVII], § 1702, title XIX, § 1906(b) (13)(A), Oct. 4, 1976, [90 Stat. 1760][/us/stat/90/1760], 1834; [Pub. L. 95–473][/us/pl/95/473], § 2(a)(2)(B), Oct. 17, 1978, [92 Stat. 1464][/us/stat/92/1464], related to amortization of railroad grading and tunnel bores.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 99–514, title II, § 242(c)][/us/pl/99/514/s242/c], Oct. 22, 1986, [100 Stat. 2181][/us/stat/100/2181], provided that:
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 242(c), Oct. 22, 1986, [100 Stat. 2181][/us/stat/100/2181], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs242%2Fa
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2181
-[/us/pl/91/172/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs705%2Fa
+[/us/pl/91/172/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVII
 [/us/stat/83/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F672
-[/us/pl/94/455/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1702
+[/us/pl/94/455/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVII
 [/us/stat/90/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1760
-[/us/pl/95/473/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs2%2Fa%2F2%2FB
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1464
-[/us/pl/99/514/s242/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs242%2Fc
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2181
 
 

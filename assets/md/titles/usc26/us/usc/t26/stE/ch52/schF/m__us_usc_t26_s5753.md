@@ -17,7 +17,7 @@
 
     If it appears that any forfeited, condemned, or abandoned tobacco products, or cigarette papers and tubes, when offered for sale, will not bring a price equal to the tax due and payable thereon, and the expenses incident to the sale thereof, such articles shall not be sold for consumption in the United States but shall be disposed of in accordance with such regulations as the Secretary shall prescribe.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 716][/us/stat/68A/716]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 89–44, title V, § 502(b)(11)][/us/pl/89/44/s502/b/11], June 21, 1965, [79 Stat. 152][/us/stat/79/152]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 716][/us/stat/68A/716]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 89–44, title V][/us/pl/89/44/tV], § 502(b)(11), June 21, 1965, [79 Stat. 152][/us/stat/79/152]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F716
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1425
-[/us/pl/89/44/s502/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F11
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F152
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44

@@ -137,7 +137,7 @@
 
                     (IV) fails to meet any other requirement as the Secretary may prescribe.
 
-(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2398][/us/stat/103/2398]; amended [Pub. L. 108–357, title VIII, § 812(c)][/us/pl/108/357/s812/c], Oct. 22, 2004, [118 Stat. 1579][/us/stat/118/1579]; [Pub. L. 109–280, title XII, § 1219(a)(3)][/us/pl/109/280/s1219/a/3], (c)(2), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084], 1085; [Pub. L. 111–152, title I, § 1409(c)][/us/pl/111/152/s1409/c], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 114–113, div. Q, title II, § 209(a)][/us/pl/114/113/s209/a], Dec. 18, 2015, [129 Stat. 3084][/us/stat/129/3084].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(a), Dec. 19, 1989, [103 Stat. 2398][/us/stat/103/2398]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 812(c), Oct. 22, 2004, [118 Stat. 1579][/us/stat/118/1579]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1219(a)(3), (c)(2), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084], 1085; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1409(c), Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 209(a), Dec. 18, 2015, [129 Stat. 3084][/us/stat/129/3084].)
 
  __Codification__ 
 
@@ -149,19 +149,19 @@
 
     2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113] inserted at end “A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.”
 
-    2010—Subsec. (c)(2) to (4). [Pub. L. 111–152, § 1409(c)(1)(A)][/us/pl/111/152/s1409/c/1/A], (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
+    2010—Subsec. (c)(2) to (4). [Pub. L. 111–152][/us/pl/111/152], § 1409(c)(1)(A), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
 
-    Subsec. (c)(4)(A). [Pub. L. 111–152, § 1409(c)(1)(B)][/us/pl/111/152/s1409/c/1/B], substituted “paragraph (3)” for “paragraph (2)”. See Codification note above.
+    Subsec. (c)(4)(A). [Pub. L. 111–152][/us/pl/111/152], § 1409(c)(1)(B), substituted “paragraph (3)” for “paragraph (2)”. See Codification note above.
 
-    Subsec. (d)(2), (3). [Pub. L. 111–152, § 1409(c)(2)(A)][/us/pl/111/152/s1409/c/2/A], (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4). See Codification note above.
+    Subsec. (d)(2), (3). [Pub. L. 111–152][/us/pl/111/152], § 1409(c)(2)(A), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4). See Codification note above.
 
-    Subsec. (d)(4). [Pub. L. 111–152, § 1409(c)(2)(B)][/us/pl/111/152/s1409/c/2/B], substituted “paragraph (3)(C)” for “paragraph (2)(C)” in introductory provisions. See Codification note above.
+    Subsec. (d)(4). [Pub. L. 111–152][/us/pl/111/152], § 1409(c)(2)(B), substituted “paragraph (3)(C)” for “paragraph (2)(C)” in introductory provisions. See Codification note above.
 
-    [Pub. L. 111–152, § 1409(c)(2)(A)][/us/pl/111/152/s1409/c/2/A], redesignated par. (3) as (4). See Codification note above.
+    [Pub. L. 111–152][/us/pl/111/152], § 1409(c)(2)(A), redesignated par. (3) as (4). See Codification note above.
 
-    2006—Subsec. (c)(2). [Pub. L. 109–280, § 1219(a)(3)][/us/pl/109/280/s1219/a/3], substituted “paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—” for “paragraph (1) shall not apply unless—” in introductory provisions. See Codification note above.
+    2006—Subsec. (c)(2). [Pub. L. 109–280][/us/pl/109/280], § 1219(a)(3), substituted “paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—” for “paragraph (1) shall not apply unless—” in introductory provisions. See Codification note above.
 
-    Subsec. (c)(3)(B), (C). [Pub. L. 109–280, § 1219(c)(2)][/us/pl/109/280/s1219/c/2], amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
+    Subsec. (c)(3)(B), (C). [Pub. L. 109–280][/us/pl/109/280], § 1219(c)(2), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
     “(B) Qualified appraiser.—The term ‘qualified appraiser’ means any appraiser meeting the requirements of the regulations prescribed under section 170(a)(1).
 
@@ -169,15 +169,15 @@
 
     See Codification note above.
 
-    2004—Subsec. (c). [Pub. L. 108–357, § 812(c)(2)(B)][/us/pl/108/357/s812/c/2/B], inserted “for underpayments” after “exception” in heading.
+    2004—Subsec. (c). [Pub. L. 108–357][/us/pl/108/357], § 812(c)(2)(B), inserted “for underpayments” after “exception” in heading.
 
-    Subsec. (c)(1). [Pub. L. 108–357, § 812(c)(2)(A)][/us/pl/108/357/s812/c/2/A], substituted “section 6662 or 6663” for “this part”.
+    Subsec. (c)(1). [Pub. L. 108–357][/us/pl/108/357], § 812(c)(2)(A), substituted “section 6662 or 6663” for “this part”.
 
-    Subsec. (d). [Pub. L. 108–357, § 812(c)(1)][/us/pl/108/357/s812/c/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 108–357][/us/pl/108/357], § 812(c)(1), added subsec. (d).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title II, § 209(d)(1)][/us/pl/114/113/s209/d/1], Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 209(d)(1), Dec. 18, 2015, [129 Stat. 3085][/us/stat/129/3085], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to—
 
@@ -208,30 +208,30 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2398
-[/us/pl/108/357/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1579
-[/us/pl/109/280/s1219/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fa%2F3
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1084
-[/us/pl/111/152/s1409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
-[/us/pl/114/113/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fa
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3084
 [/us/pl/111/152/s1409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/111/152/s1409/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1%2FA
-[/us/pl/111/152/s1409/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1%2FB
-[/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
-[/us/pl/111/152/s1409/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FB
-[/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
-[/us/pl/109/280/s1219/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fa%2F3
-[/us/pl/109/280/s1219/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fc%2F2
-[/us/pl/108/357/s812/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F2%2FB
-[/us/pl/108/357/s812/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F2%2FA
-[/us/pl/108/357/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fc%2F1
-[/us/pl/114/113/s209/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs209%2Fd%2F1
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3085
 [/us/pl/111/152/s1409/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F1
 [/us/pl/111/152/s1409/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fe%2F2

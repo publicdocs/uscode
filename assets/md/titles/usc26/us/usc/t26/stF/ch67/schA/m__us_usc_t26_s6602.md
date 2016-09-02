@@ -17,7 +17,7 @@
 
     Any portion of an internal revenue tax (or any interest, assessable penalty, additional amount, or addition to tax) which has been erroneously refunded, and which is recoverable by suit pursuant to section 7405, shall bear interest at the underpayment rate established under section 6621 from the date of the payment of the refund.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 818][/us/stat/68A/818]; [Pub. L. 93–625, § 7(a)(2)(B)][/us/pl/93/625/s7/a/2/B], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 99–514, title XV, § 1511(c)(12)][/us/pl/99/514/s1511/c/12], Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 818][/us/stat/68A/818]; [Pub. L. 93–625][/us/pl/93/625], § 7(a)(2)(B), Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1511(c)(12), Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F818
-[/us/pl/93/625/s7/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs7%2Fa%2F2%2FB
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2115
-[/us/pl/99/514/s1511/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F12
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2745
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625

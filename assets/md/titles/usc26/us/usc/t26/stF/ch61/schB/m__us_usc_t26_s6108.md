@@ -27,7 +27,7 @@
 
         No publication or other disclosure of statistics or other information required or authorized by subsection (a) or special statistical study authorized by subsection (b) shall in any manner permit the statistics, study, or any information so published, furnished, or otherwise disclosed to be associated with, or otherwise identify, directly or indirectly, a particular taxpayer.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756]; [Pub. L. 94–455, title XII, § 1202(b)][/us/pl/94/455/s1202/b], Oct. 4, 1976, [90 Stat. 1685][/us/stat/90/1685].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(b), Oct. 4, 1976, [90 Stat. 1685][/us/stat/90/1685].)
 
  __Amendments__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F756
-[/us/pl/94/455/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fb
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1685
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

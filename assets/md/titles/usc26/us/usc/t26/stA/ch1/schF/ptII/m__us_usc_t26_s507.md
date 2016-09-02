@@ -127,7 +127,7 @@
 
         (2) following the notification prescribed in section 6104(c) to the appropriate State officer, such State officer within one year notifies the Secretary, in such manner as the Secretary may by regulations prescribe, that corrective action has been initiated pursuant to State law to insure that the assets of such private foundation are preserved for such charitable or other purposes specified in section 501(c)(3) as may be ordered or approved by a court of competent jurisdiction, and upon completion of the corrective action, the Secretary receives certification from the appropriate State officer that such action has resulted in such preservation of assets.
 
-(Added [Pub. L. 91–172, title I, § 101(a)][/us/pl/91/172/s101/a], Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title III, § 313(a)][/us/pl/98/369/s313/a], July 18, 1984, [98 Stat. 786][/us/stat/98/786].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(a), Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 313(a), July 18, 1984, [98 Stat. 786][/us/stat/98/786].)
 
  __Amendments__ 
 
@@ -137,7 +137,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title III, § 313(b)][/us/pl/98/369/s313/b], July 18, 1984, [98 Stat. 787][/us/stat/98/787], provided that: 
+[Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 313(b), July 18, 1984, [98 Stat. 787][/us/stat/98/787], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
@@ -147,7 +147,7 @@
 
  __Applicability to Determination of Status as Substantial Contributor for Purposes of Taxes on Self-Dealing of Contributions Made Prior to__  __October 9, 1969__ 
 
-[Pub. L. 95–170, § 3][/us/pl/95/170/s3], Nov. 12, 1977, [91 Stat. 1352][/us/stat/91/1352], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–170][/us/pl/95/170], § 3, Nov. 12, 1977, [91 Stat. 1352][/us/stat/91/1352], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “In determining whether a person is a substantial contributor within the meaning of section 507(d)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for purposes of applying section 4941 of such Code (relating to taxes on self-dealing), contributions made before October 9, 1969, which—
 
@@ -164,21 +164,21 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fa
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F492
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs313%2Fa
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F786
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/98/369/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs313%2Fb
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F787
 [/us/pl/91/172/s101/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fk%2F1
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940
-[/us/pl/95/170/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F170%2Fs3
+[/us/pl/95/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F170
 [/us/stat/91/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1352
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XII, § 1241(d)][/us/pl/99/514/s1241/d], Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580], added item 884 and redesignated former item 884 as 885.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1241(d), Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580], added item 884 and redesignated former item 884 as 885.
 
-    1966—[Pub. L. 89–809, title I, § 104(b)(3)][/us/pl/89/809/s104/b/3], Nov. 13, 1966, [80 Stat. 1557][/us/stat/80/1557], substituted “Tax on income of foreign corporations not connected with United States business” for “Tax on foreign corporations not engaged in business in United States” in item 881, and “Tax on income of foreign corporations connected with United States business” for “Tax on resident foreign corporations” in item 882.
+    1966—[Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(b)(3), Nov. 13, 1966, [80 Stat. 1557][/us/stat/80/1557], substituted “Tax on income of foreign corporations not connected with United States business” for “Tax on foreign corporations not engaged in business in United States” in item 881, and “Tax on income of foreign corporations connected with United States business” for “Tax on resident foreign corporations” in item 882.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fd
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2580
-[/us/pl/89/809/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fb%2F3
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1557
 
 

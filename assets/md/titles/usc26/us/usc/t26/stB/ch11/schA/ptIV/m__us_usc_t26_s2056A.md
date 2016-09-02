@@ -199,53 +199,53 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent’s gross estate and is by its terms payable for life or a term of years.
 
-(Added [Pub. L. 100–647, title V, § 5033(a)(2)][/us/pl/100/647/s5033/a/2], Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670]; amended [Pub. L. 101–239, title VII, § 7815(d)(7)][/us/pl/101/239/s7815/d/7], (9)–(13), (15), Dec. 19, 1989, [103 Stat. 2415–2418][/us/stat/103/2415-2418]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, [104 Stat. 1388–515][/us/stat/104/1388-515], 1388–516, 1388–518; [Pub. L. 105–34, title XIII][/us/pl/105/34], §§ 1312(a), 1314(a), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], 1045; [Pub. L. 107–16, title V, § 532(c)(6)][/us/pl/107/16/s532/c/6], June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
+(Added [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5033(a)(2), Nov. 10, 1988, [102 Stat. 3670][/us/stat/102/3670]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(d)(7), (9)–(13), (15), Dec. 19, 1989, [103 Stat. 2415–2418][/us/stat/103/2415-2418]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, [104 Stat. 1388–515][/us/stat/104/1388-515], 1388–516, 1388–518; [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], §§ 1312(a), 1314(a), Aug. 5, 1997, [111 Stat. 1044][/us/stat/111/1044], 1045; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(6), June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
 
  __Amendments__ 
 
     2001—Subsec. (b)(10)(A). [Pub. L. 107–16][/us/pl/107/16] struck out “2011,” before “2014,” and inserted “2058,” after “2056,”.
 
-    1997—Subsec. (a)(1)(A). [Pub. L. 105–34, § 1314(a)][/us/pl/105/34/s1314/a], inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
+    1997—Subsec. (a)(1)(A). [Pub. L. 105–34][/us/pl/105/34], § 1314(a), inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
 
-    Subsec. (c)(3). [Pub. L. 105–34, § 1312(a)][/us/pl/105/34/s1312/a], added par. (3).
+    Subsec. (c)(3). [Pub. L. 105–34][/us/pl/105/34], § 1312(a), added par. (3).
 
-    1990—Subsec. (a)(1). [Pub. L. 101–508, § 11702(g)(2)(A)][/us/pl/101/508/s11702/g/2/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+    1990—Subsec. (a)(1). [Pub. L. 101–508][/us/pl/101/508], § 11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 101–508, § 11704(a)(15)][/us/pl/101/508/s11704/a/15], substituted “therefor” for “therefore” in concluding provisions.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 101–508][/us/pl/101/508], § 11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 
-    Subsec. (b)(10)(A). [Pub. L. 101–508, § 11702(g)(4)][/us/pl/101/508/s11702/g/4], substituted “section 2011, 2014, 2032” for “section 2032”.
+    Subsec. (b)(10)(A). [Pub. L. 101–508][/us/pl/101/508], § 11702(g)(4), substituted “section 2011, 2014, 2032” for “section 2032”.
 
-    Subsec. (b)(14), (15). [Pub. L. 101–508, § 11702(g)(2)(B)][/us/pl/101/508/s11702/g/2/B], added pars. (14) and (15).
+    Subsec. (b)(14), (15). [Pub. L. 101–508][/us/pl/101/508], § 11702(g)(2)(B), added pars. (14) and (15).
 
-    Subsec. (d). [Pub. L. 101–508, § 11702(g)(3)(A)][/us/pl/101/508/s11702/g/3/A], inserted at end “No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.”
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 11702(g)(3)(A), inserted at end “No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.”
 
-    1989—Subsec. (a)(1). [Pub. L. 101–239, § 7815(d)(7)(A)(i)][/us/pl/101/239/s7815/d/7/A/i], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
+    1989—Subsec. (a)(1). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that all trustees of the trust be individual citizens of the United States or domestic corporations,”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 101–239, § 7815(d)(7)(A)(ii)][/us/pl/101/239/s7815/d/7/A/ii], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the surviving spouse of the decedent is entitled to all the income from the property in such trust, payable annually or at more frequent intervals,”.
+    Subsec. (a)(2) to (4). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(A)(ii), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the surviving spouse of the decedent is entitled to all the income from the property in such trust, payable annually or at more frequent intervals,”.
 
-    Subsec. (b)(1)(A). [Pub. L. 101–239, § 7815(d)(7)(C)][/us/pl/101/239/s7815/d/7/C], struck out “other than a distribution of income required under subsection (a)(2)” after “qualified domestic trust”.
+    Subsec. (b)(1)(A). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(C), struck out “other than a distribution of income required under subsection (a)(2)” after “qualified domestic trust”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 101–239, § 7815(d)(11)][/us/pl/101/239/s7815/d/11], inserted “(with interest)” after “credit or refund”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(11), inserted “(with interest)” after “credit or refund”.
 
-    Subsec. (b)(2)(C). [Pub. L. 101–239, § 7815(d)(12)][/us/pl/101/239/s7815/d/12], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(12), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 101–239, § 7815(d)(7)(B)][/us/pl/101/239/s7815/d/7/B], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(B), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 101–239, § 7815(d)(7)(D)][/us/pl/101/239/s7815/d/7/D], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “If any person other than an individual citizen of the United States or a domestic corporation becomes a trustee of a qualified domestic trust (or such trust ceases to meet the requirements of subsection (a)(3)), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date on which such person became such a trustee or the date of such cessation, as the case may be.”
+    Subsec. (b)(4). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(D), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “If any person other than an individual citizen of the United States or a domestic corporation becomes a trustee of a qualified domestic trust (or such trust ceases to meet the requirements of subsection (a)(3)), the tax imposed by paragraph (1) shall apply as if the surviving spouse died on the date on which such person became such a trustee or the date of such cessation, as the case may be.”
 
-    [Pub. L. 101–239, § 7815(d)(7)(B)][/us/pl/101/239/s7815/d/7/B], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (b)(5). [Pub. L. 101–239, § 7815(d)(15)][/us/pl/101/239/s7815/d/15], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs.”
+    Subsec. (b)(5). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(15), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The estate tax imposed by paragraph (1) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs.”
 
-    [Pub. L. 101–239, § 7815(d)(7)(B)][/us/pl/101/239/s7815/d/7/B], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6) to (9). [Pub. L. 101–239, § 7815(d)(7)(B)][/us/pl/101/239/s7815/d/7/B], redesignated pars. (5) to (8) as (6) to (9), respectively.
+    Subsec. (b)(6) to (9). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(7)(B), redesignated pars. (5) to (8) as (6) to (9), respectively.
 
-    Subsec. (b)(10) to (13). [Pub. L. 101–239, § 7815(d)(9)][/us/pl/101/239/s7815/d/9], added pars. (10) to (13).
+    Subsec. (b)(10) to (13). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(9), added pars. (10) to (13).
 
-    Subsec. (c)(2). [Pub. L. 101–239, § 7815(d)(10)][/us/pl/101/239/s7815/d/10], substituted “Except as provided in regulations, the term” for “The term”.
+    Subsec. (c)(2). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(10), substituted “Except as provided in regulations, the term” for “The term”.
 
-    Subsec. (e). [Pub. L. 101–239, § 7815(d)(13)][/us/pl/101/239/s7815/d/13], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–239][/us/pl/101/239], § 7815(d)(13), added subsec. (e).
 
  __Effective Date of 2001 Amendment__ 
 
@@ -253,11 +253,11 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1312(b)][/us/pl/105/34/s1312/b], Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1312(b), Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–34, title XIII, § 1314(b)][/us/pl/105/34/s1314/b], Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1314(b), Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -265,7 +265,7 @@
 
     Amendment by section 11702(g)(2), (4) of [Pub. L. 101–508][/us/pl/101/508] effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, [Pub. L. 100–647][/us/pl/100/647], to which such amendment relates, see [section 11702(j) of Pub. L. 101–508][/us/pl/101/508/s11702/j], set out as a note under [section 59 of this title][/us/usc/t26/s59].
 
-[Pub. L. 101–508, title XI, § 11702(g)(3)(B)][/us/pl/101/508/s11702/g/3/B], Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11702(g)(3)(B), Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any election made before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -279,7 +279,7 @@
 
  __Transitional Rule__ 
 
-[Pub. L. 105–34, title XIII, § 1303][/us/pl/105/34/s1303], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that:
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1303, Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -300,50 +300,50 @@
 ----------
 ----------
 
-[/us/pl/100/647/s5033/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fa%2F2
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3670
-[/us/pl/101/239/s7815/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2415-2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415-2418
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-515
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1044
-[/us/pl/107/16/s532/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F6
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F74
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/105/34/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1314%2Fa
-[/us/pl/105/34/s1312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1312%2Fa
-[/us/pl/101/508/s11702/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F2%2FA
-[/us/pl/101/508/s11704/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F15
-[/us/pl/101/508/s11702/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F4
-[/us/pl/101/508/s11702/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F2%2FB
-[/us/pl/101/508/s11702/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F3%2FA
-[/us/pl/101/239/s7815/d/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FA%2Fi
-[/us/pl/101/239/s7815/d/7/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FA%2Fii
-[/us/pl/101/239/s7815/d/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FC
-[/us/pl/101/239/s7815/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F11
-[/us/pl/101/239/s7815/d/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F12
-[/us/pl/101/239/s7815/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FB
-[/us/pl/101/239/s7815/d/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FD
-[/us/pl/101/239/s7815/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FB
-[/us/pl/101/239/s7815/d/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F15
-[/us/pl/101/239/s7815/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FB
-[/us/pl/101/239/s7815/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F7%2FB
-[/us/pl/101/239/s7815/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F9
-[/us/pl/101/239/s7815/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F10
-[/us/pl/101/239/s7815/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F13
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
-[/us/pl/105/34/s1312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1312%2Fb
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1045
-[/us/pl/105/34/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1314%2Fb
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1045
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508/s11702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fj
 [/us/usc/t26/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs59
-[/us/pl/101/508/s11702/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fg%2F3%2FB
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-516
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -351,7 +351,7 @@
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647/s5033/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fd%2F1
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
-[/us/pl/105/34/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1303
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1039
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033

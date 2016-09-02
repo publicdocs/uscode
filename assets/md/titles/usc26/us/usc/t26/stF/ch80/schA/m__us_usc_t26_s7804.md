@@ -35,7 +35,7 @@
 
         If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 916][/us/stat/68A/916]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–206, title I, § 1104(a)][/us/pl/105/206/s1104/a], July 22, 1998, [112 Stat. 710][/us/stat/112/710].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 916][/us/stat/68A/916]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1104(a), July 22, 1998, [112 Stat. 710][/us/stat/112/710].)
 
  __Amendments__ 
 
@@ -45,13 +45,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title I, § 1104(c)][/us/pl/105/206/s1104/c], July 22, 1998, [112 Stat. 710][/us/stat/112/710], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1104(c), July 22, 1998, [112 Stat. 710][/us/stat/112/710], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6344 of this title][/us/usc/t26/s6344]\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
  __Termination of Employment for Misconduct__ 
 
-[Pub. L. 105–206, title I, § 1203][/us/pl/105/206/s1203], July 22, 1998, [112 Stat. 720][/us/stat/112/720], as amended by [Pub. L. 108–357, title VIII, § 881(d)][/us/pl/108/357/s881/d], Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627]; [Pub. L. 114–113, div. Q, title IV, § 407(a)][/us/pl/114/113/s407/a], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1203, July 22, 1998, [112 Stat. 720][/us/stat/112/720], as amended by [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(d), Oct. 22, 2004, [118 Stat. 1627][/us/stat/118/1627]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 407(a), Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -123,7 +123,7 @@
 
 >     An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
 
-\[[Pub. L. 114–113, div. Q, title IV, § 407(b)][/us/pl/114/113/s407/b], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
+\[[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 407(b), Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
 
 > “The amendment made by this section \[amending [section 1203 of Pub. L. 105–206][/us/pl/105/206/s1203], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -131,7 +131,7 @@
 
  __Employee Training Program__ 
 
-[Pub. L. 105–206, title I, § 1205][/us/pl/105/206/s1205], July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1205, July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -155,13 +155,13 @@
 
  __Cataloging Complaints__ 
 
-[Pub. L. 105–206, title III, § 3701][/us/pl/105/206/s3701], July 22, 1998, [112 Stat. 776][/us/stat/112/776], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3701, July 22, 1998, [112 Stat. 776][/us/stat/112/776], provided that: 
 
 > “In collecting data for the report required under section 1211 of the Taxpayer Bill of Rights 2 ([Public Law 104–168][/us/pl/104/168]) \[set out below\], the Secretary of the Treasury or the Secretary’s delegate shall, not later than January 1, 2000, maintain records of taxpayer complaints of misconduct by Internal Revenue Service employees on an individual employee basis.”
 
  __Use of Pseudonyms by Internal Revenue Service Employees__ 
 
-[Pub. L. 105–206, title III, § 3706][/us/pl/105/206/s3706], July 22, 1998, [112 Stat. 778][/us/stat/112/778], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3706, July 22, 1998, [112 Stat. 778][/us/stat/112/778], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -177,7 +177,7 @@
 
  __Reports on Misconduct of IRS Employees__ 
 
-[Pub. L. 104–168, title XII, § 1211][/us/pl/104/168/s1211], July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1211, July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
 
 > “On or before June 1 of each calendar year after 1996, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
 
@@ -187,37 +187,37 @@
 
  __Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training__ 
 
-[Pub. L. 109–115, div. A, title II, § 202][/us/pl/109/115/s202], Nov. 30, 2005, [119 Stat. 2438][/us/stat/119/2438], which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+[Pub. L. 109–115, div. A, title II][/us/pl/109/115/dA/tII], § 202, Nov. 30, 2005, [119 Stat. 2438][/us/stat/119/2438], which provided that the Internal Revenue Service was to maintain a training program to ensure that Internal Revenue Service employees were trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations, was from the Department of the Treasury Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. H, title II, § 202][/us/pl/108/447/s202], Dec. 8, 2004, [118 Stat. 3240][/us/stat/118/3240].
+    [Pub. L. 108–447, div. H, title II][/us/pl/108/447/dH/tII], § 202, Dec. 8, 2004, [118 Stat. 3240][/us/stat/118/3240].
 
-    [Pub. L. 108–199, div. F, title II, § 202][/us/pl/108/199/s202], Jan. 23, 2004, [118 Stat. 318][/us/stat/118/318].
+    [Pub. L. 108–199, div. F, title II][/us/pl/108/199/dF/tII], § 202, Jan. 23, 2004, [118 Stat. 318][/us/stat/118/318].
 
-    [Pub. L. 108–7, div. J, title I, § 102][/us/pl/108/7/s102], Feb. 20, 2003, [117 Stat. 437][/us/stat/117/437].
+    [Pub. L. 108–7, div. J, title I][/us/pl/108/7/dJ/tI], § 102, Feb. 20, 2003, [117 Stat. 437][/us/stat/117/437].
 
-    [Pub. L. 107–67, title I, § 102][/us/pl/107/67/s102], Nov. 12, 2001, [115 Stat. 523][/us/stat/115/523].
+    [Pub. L. 107–67, title I][/us/pl/107/67/tI], § 102, Nov. 12, 2001, [115 Stat. 523][/us/stat/115/523].
 
-    [Pub. L. 106–554, § 1(a)(3)][/us/pl/106/554/s1/a/3] \[title I, § 102\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–132.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(3) \[title I, § 102\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–132.
 
-    [Pub. L. 106–58, title I, § 102][/us/pl/106/58/s102], Sept. 29, 1999, [113 Stat. 437][/us/stat/113/437].
+    [Pub. L. 106–58, title I][/us/pl/106/58/tI], § 102, Sept. 29, 1999, [113 Stat. 437][/us/stat/113/437].
 
-    [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title I, § 102\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–488.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title I, § 102\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–488.
 
-    [Pub. L. 105–61, title I, § 102][/us/pl/105/61/s102], Oct. 10, 1997, [111 Stat. 1281][/us/stat/111/1281].
+    [Pub. L. 105–61, title I][/us/pl/105/61/tI], § 102, Oct. 10, 1997, [111 Stat. 1281][/us/stat/111/1281].
 
-    [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title I, § 102\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–323.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title I, § 102\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–323.
 
-    [Pub. L. 104–52, title I, § 2][/us/pl/104/52/s2], Nov. 19, 1995, [109 Stat. 474][/us/stat/109/474].
+    [Pub. L. 104–52, title I][/us/pl/104/52/tI], § 2, Nov. 19, 1995, [109 Stat. 474][/us/stat/109/474].
 
-    [Pub. L. 103–329, title I, § 2][/us/pl/103/329/s2], Sept. 30, 1994, [108 Stat. 2388][/us/stat/108/2388].
+    [Pub. L. 103–329, title I][/us/pl/103/329/tI], § 2, Sept. 30, 1994, [108 Stat. 2388][/us/stat/108/2388].
 
-    [Pub. L. 103–123, title I, § 2][/us/pl/103/123/s2], Oct. 28, 1993, [107 Stat. 1232][/us/stat/107/1232].
+    [Pub. L. 103–123, title I][/us/pl/103/123/tI], § 2, Oct. 28, 1993, [107 Stat. 1232][/us/stat/107/1232].
 
-    [Pub. L. 102–393, title I, § 2][/us/pl/102/393/s2], Oct. 6, 1992, [106 Stat. 1735][/us/stat/106/1735].
+    [Pub. L. 102–393, title I][/us/pl/102/393/tI], § 2, Oct. 6, 1992, [106 Stat. 1735][/us/stat/106/1735].
 
  __Basis for Evaluation of Internal Revenue Service Employees__ 
 
-[Pub. L. 105–206, title I, § 1204][/us/pl/105/206/s1204], July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1204, July 22, 1998, [112 Stat. 722][/us/stat/112/722], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -243,11 +243,11 @@
 
 >     This section shall apply to evaluations conducted on or after the date of the enactment of this Act \[July 22, 1998\].”
 
-    [Pub. L. 100–647, title VI, § 6231][/us/pl/100/647/s6231], Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734], prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by [Pub. L. 105–206, title I, § 1204(d)][/us/pl/105/206/s1204/d], July 22, 1998, [112 Stat. 722][/us/stat/112/722].
+    [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6231, Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734], prohibited Internal Revenue Service use of records of tax enforcement results to evaluate employees or to impose or suggest production quotas or goals, and required quarterly certification that results had not been used in prohibited manner, prior to repeal by [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1204(d), July 22, 1998, [112 Stat. 722][/us/stat/112/722].
 
  __Sense of Congress as to Increased Internal Revenue Service Funding for Taxpayer Assistance and Enforcement__ 
 
-[Pub. L. 100–203, title X, § 10622][/us/pl/100/203/s10622], Dec. 22, 1987, [101 Stat. 1330–452][/us/stat/101/1330-452], provided that:
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10622, Dec. 22, 1987, [101 Stat. 1330–452][/us/stat/101/1330-452], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -277,7 +277,7 @@
 
  __Tax Counseling for the Elderly__ 
 
-[Pub. L. 95–600, title I, § 163][/us/pl/95/600/s163], Nov. 6, 1978, [92 Stat. 2810][/us/stat/92/2810], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 95–600, title I][/us/pl/95/600/tI], § 163, Nov. 6, 1978, [92 Stat. 2810][/us/stat/92/2810], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a) __Training and Technical Assistance.—__ 
 
@@ -346,20 +346,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F916
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/206/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1104%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F710
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/105/206/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1104%2Fc
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F710
 [/us/usc/t26/s6344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6344
-[/us/pl/105/206/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1203
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F720
-[/us/pl/108/357/s881/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1627
-[/us/pl/114/113/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
@@ -367,60 +367,60 @@
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
-[/us/pl/114/113/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs407%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/pl/105/206/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1203
-[/us/pl/105/206/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1205
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F722
-[/us/pl/105/206/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3701
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F776
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/105/206/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3706
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F778
-[/us/pl/104/168/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1211
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1474
-[/us/pl/109/115/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs202
+[/us/pl/109/115/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtII
 [/us/stat/119/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2438
-[/us/pl/108/447/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs202
+[/us/pl/108/447/dH/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtII
 [/us/stat/118/3240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3240
-[/us/pl/108/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs202
+[/us/pl/108/199/dF/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdF%2FtII
 [/us/stat/118/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F318
-[/us/pl/108/7/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs102
+[/us/pl/108/7/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdJ%2FtI
 [/us/stat/117/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F437
-[/us/pl/107/67/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs102
+[/us/pl/107/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2FtI
 [/us/stat/115/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F523
-[/us/pl/106/554/s1/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/58/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs102
+[/us/pl/106/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtI
 [/us/stat/113/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F437
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/105/61/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs102
+[/us/pl/105/61/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2FtI
 [/us/stat/111/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1281
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/104/52/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs2
+[/us/pl/104/52/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtI
 [/us/stat/109/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F474
-[/us/pl/103/329/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs2
+[/us/pl/103/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtI
 [/us/stat/108/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2388
-[/us/pl/103/123/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2Fs2
+[/us/pl/103/123/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F123%2FtI
 [/us/stat/107/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1232
-[/us/pl/102/393/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs2
+[/us/pl/102/393/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtI
 [/us/stat/106/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1735
-[/us/pl/105/206/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1204
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F722
 [/us/pl/100/647/s6231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6231
-[/us/pl/100/647/s6231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6231
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3734
-[/us/pl/105/206/s1204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1204%2Fd
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F722
-[/us/pl/100/203/s10622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10622
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-452
 [/us/pl/100/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F119
 [/us/usc/t2/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs621
-[/us/pl/95/600/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs163
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2810
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 

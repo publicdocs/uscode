@@ -51,7 +51,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter D, Tax Treatment of Subchapter S Items, consisted of sections 6241 to 6245, prior to repeal by [Pub. L. 104–188, title I, § 1307(c)(1)][/us/pl/104/188/s1307/c/1], Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781].
+    A prior subchapter D, Tax Treatment of Subchapter S Items, consisted of sections 6241 to 6245, prior to repeal by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1307(c)(1), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781].
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1307/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fc%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1781
 
 

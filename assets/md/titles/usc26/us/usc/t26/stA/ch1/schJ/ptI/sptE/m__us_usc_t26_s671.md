@@ -21,7 +21,7 @@
 
  __Certain Entities Not Treated as Corporations__ 
 
-[Pub. L. 99–514, title VI, § 646][/us/pl/99/514/s646], Oct. 22, 1986, [100 Stat. 2292][/us/stat/100/2292], as amended by [Pub. L. 100–647, title I, § 1006(k)][/us/pl/100/647/s1006/k], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 646, Oct. 22, 1986, [100 Stat. 2292][/us/stat/100/2292], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(k), Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -128,9 +128,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F226
-[/us/pl/99/514/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs646
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2292
-[/us/pl/100/647/s1006/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fk
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3411
 [/us/usc/t26/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1031
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

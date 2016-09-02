@@ -23,7 +23,7 @@
 
     No foreign country shall, by reason of the application of this section, be treated as a country contiguous to the United States.
 
-(Added [Pub. L. 91–172, title V, § 505(a)][/us/pl/91/172/s505/a], Dec. 30, 1969, [83 Stat. 634][/us/stat/83/634].)
+(Added [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 505(a), Dec. 30, 1969, [83 Stat. 634][/us/stat/83/634].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs505%2Fa
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F634
 
 

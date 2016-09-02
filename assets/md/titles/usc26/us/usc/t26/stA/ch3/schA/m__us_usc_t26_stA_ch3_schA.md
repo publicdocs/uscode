@@ -75,13 +75,13 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, title I, § 1012(s)(1)(C)][/us/pl/100/647/s1012/s/1/C], Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], substituted “Withholding of tax on foreign partners’ share of effectively connected income” for “Withholding tax on amounts paid by partnerships to foreign partners” in item 1446.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(s)(1)(C), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], substituted “Withholding of tax on foreign partners’ share of effectively connected income” for “Withholding tax on amounts paid by partnerships to foreign partners” in item 1446.
 
-    1986—[Pub. L. 99–514, title XII, § 1246(c)][/us/pl/99/514/s1246/c], Oct. 22, 1986, [100 Stat. 2582][/us/stat/100/2582], added item 1446.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1246(c), Oct. 22, 1986, [100 Stat. 2582][/us/stat/100/2582], added item 1446.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 129(a)(2)][/us/pl/98/369/s129/a/2], July 18, 1984, [98 Stat. 659][/us/stat/98/659], added item 1445.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 129(a)(2), July 18, 1984, [98 Stat. 659][/us/stat/98/659], added item 1445.
 
-    1983—[Pub. L. 97–455, § 1(d)(2)][/us/pl/97/455/s1/d/2], Jan. 12, 1983, [96 Stat. 2498][/us/stat/96/2498], added item 1444.
+    1983—[Pub. L. 97–455][/us/pl/97/455], § 1(d)(2), Jan. 12, 1983, [96 Stat. 2498][/us/stat/96/2498], added item 1444.
 
 ----------
 
@@ -90,13 +90,13 @@
 ----------
 ----------
 
-[/us/pl/100/647/s1012/s/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F1%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
-[/us/pl/99/514/s1246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1246%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2582
-[/us/pl/98/369/s129/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs129%2Fa%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F659
-[/us/pl/97/455/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455%2Fs1%2Fd%2F2
+[/us/pl/97/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F455
 [/us/stat/96/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2498
 
 

@@ -49,7 +49,7 @@
 
         For purposes of this section, the terms “section 501(c)(3) organization” and “political expenditures” have the respective meanings given to such terms by section 4955.
 
-(Added [Pub. L. 100–203, title X, § 10713(a)(1)][/us/pl/100/203/s10713/a/1], Dec. 22, 1987, [101 Stat. 1330–468][/us/stat/101/1330-468].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(a)(1), Dec. 22, 1987, [101 Stat. 1330–468][/us/stat/101/1330-468].)
 
  __Prior Provisions__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10713/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fa%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-468
 [/us/usc/t26/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7410
 

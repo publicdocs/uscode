@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_stD_ch33_schD.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
+[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_s4286 _us_usc_t26_s4287.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
 
 #### Subchapter E—Special Provisions Applicable to Services and Facilities Taxes
 
@@ -59,20 +59,20 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1904(b)(4)][/us/pl/94/455/s1904/b/4], Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815], struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(4), Oct. 4, 1976, [90 Stat. 1815][/us/stat/90/1815], struck out items 4292, 4294, and 4295 relating to State and local governmental exemption, exemption for nonprofit educational organizations, and cross reference to general administrative provisions, respectively.
 
-    1958—[Pub. L. 85–859, title I, § 135(b)][/us/pl/85/859/s135/b], Sept. 2, 1958, [72 Stat. 1292][/us/stat/72/1292], added item 4294 and redesignated former item 4294 as 4295.
-
-----------
-
-[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_stD_ch33_schD.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
+    1958—[Pub. L. 85–859, title I][/us/pl/85/859/tI], § 135(b), Sept. 2, 1958, [72 Stat. 1292][/us/stat/72/1292], added item 4294 and redesignated former item 4294 as 4295.
 
 ----------
+
+[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_s4286 _us_usc_t26_s4287.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
+
+----------
 ----------
 
-[/us/pl/94/455/s1904/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F4
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1815
-[/us/pl/85/859/s135/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs135%2Fb
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1292
 
 

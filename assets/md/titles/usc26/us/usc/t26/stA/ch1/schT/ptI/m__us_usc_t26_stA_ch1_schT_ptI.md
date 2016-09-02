@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–809, title II, § 211(a)(8)][/us/pl/89/809/s211/a/8], Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582], inserted “or nonqualified per-unit retain certificates” in item 1383.
+    1966—[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(a)(8), Nov. 13, 1966, [80 Stat. 1582][/us/stat/80/1582], inserted “or nonqualified per-unit retain certificates” in item 1383.
 
-    1962—[Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], added heading of part I and items 1381 to 1383.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1045][/us/stat/76/1045], added heading of part I and items 1381 to 1383.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/89/809/s211/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F8
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1582
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1045
 
 

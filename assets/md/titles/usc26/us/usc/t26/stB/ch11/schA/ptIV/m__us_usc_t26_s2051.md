@@ -17,7 +17,7 @@
 
     For purposes of the tax imposed by section 2001, the value of the taxable estate shall be determined by deducting from the value of the gross estate the deductions provided for in this part.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388]; [Pub. L. 95–600, title VII, § 702(r)(2)][/us/pl/95/600/s702/r/2], Nov. 6, 1978, [92 Stat. 2938][/us/stat/92/2938].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(r)(2), Nov. 6, 1978, [92 Stat. 2938][/us/stat/92/2938].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(r)(5)][/us/pl/95/600/s702/r/5], Nov. 6, 1978, [92 Stat. 2939][/us/stat/92/2939], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(r)(5), Nov. 6, 1978, [92 Stat. 2939][/us/stat/92/2939], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 1016, 6324B, and 6698A of this title\] shall apply to estates of decedents dying after December 31, 1976.”
 
@@ -38,10 +38,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F388
-[/us/pl/95/600/s702/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fr%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2938
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/95/600/s702/r/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fr%2F5
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2939
 
 

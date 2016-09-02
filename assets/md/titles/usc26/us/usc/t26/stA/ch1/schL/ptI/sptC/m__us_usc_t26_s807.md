@@ -365,7 +365,7 @@
 
             Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 726][/us/stat/98/726]; amended [Pub. L. 99–514, title X, § 1023(b)][/us/pl/99/514/s1023/b], title XVIII, § 1821(a), (s), Oct. 22, 1986, [100 Stat. 2399][/us/stat/100/2399], 2837, 2843; [Pub. L. 100–203, title X, § 10241(a)][/us/pl/100/203/s10241/a]–(b)(2)(A), Dec. 22, 1987, [101 Stat. 1330–419][/us/stat/101/1330-419], 1330–420; [Pub. L. 101–508, title XI, § 11302(a)][/us/pl/101/508/s11302/a], Nov. 5, 1990, [104 Stat. 1388–449][/us/stat/104/1388-449]; [Pub. L. 104–188, title I, § 1704(t)(61)][/us/pl/104/188/s1704/t/61], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 104–191, title III, § 321(b)][/us/pl/104/191/s321/b], Aug. 21, 1996, [110 Stat. 2058][/us/stat/110/2058]; [Pub. L. 105–34, title X, § 1084(b)(2)][/us/pl/105/34/s1084/b/2], Aug. 5, 1997, [111 Stat. 954][/us/stat/111/954]; [Pub. L. 108–218, title II, § 205(b)(1)][/us/pl/108/218/s205/b/1], (2), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610]; [Pub. L. 113–295, div. A, title II, § 221(a)(68)][/us/pl/113/295/s221/a/68], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(a), July 18, 1984, [98 Stat. 726][/us/stat/98/726]; amended [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1023(b), title XVIII, § 1821(a), (s), Oct. 22, 1986, [100 Stat. 2399][/us/stat/100/2399], 2837, 2843; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10241(a)–(b)(2)(A), Dec. 22, 1987, [101 Stat. 1330–419][/us/stat/101/1330-419], 1330–420; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11302(a), Nov. 5, 1990, [104 Stat. 1388–449][/us/stat/104/1388-449]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(61), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 321(b), Aug. 21, 1996, [110 Stat. 2058][/us/stat/110/2058]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1084(b)(2), Aug. 5, 1997, [111 Stat. 954][/us/stat/111/954]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(b)(1), (2), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(68), Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Codification__ 
 
@@ -373,21 +373,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 807, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 259][/us/stat/68A/259], related to adjustment for certain reserves, prior to the general revision of this part by [act Mar. 13, 1956, ch. 83, § 2][/us/act/1956-03-13/ch83/s2], [70 Stat. 36][/us/stat/70/36].
+    A prior section 807, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 259][/us/stat/68A/259], related to adjustment for certain reserves, prior to the general revision of this part by [act Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 2, [70 Stat. 36][/us/stat/70/36].
 
  __Amendments__ 
 
     2014—Subsec. (e)(7)(B), (C). [Pub. L. 113–295][/us/pl/113/295] redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to transitional rule.
 
-    2004—Subsecs. (a)(2)(B), (b)(1)(B). [Pub. L. 108–218, § 205(b)(1)][/us/pl/108/218/s205/b/1], struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
+    2004—Subsecs. (a)(2)(B), (b)(1)(B). [Pub. L. 108–218][/us/pl/108/218], § 205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
 
-    Subsec. (d)(1). [Pub. L. 108–218, § 205(b)(2)(A)][/us/pl/108/218/s205/b/2/A], substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
+    Subsec. (d)(1). [Pub. L. 108–218][/us/pl/108/218], § 205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
 
-    Subsec. (d)(6). [Pub. L. 108–218, § 205(b)(2)(B)][/us/pl/108/218/s205/b/2/B], added par. (6).
+    Subsec. (d)(6). [Pub. L. 108–218][/us/pl/108/218], § 205(b)(2)(B), added par. (6).
 
-    1997—Subsec. (a)(2)(B). [Pub. L. 105–34, § 1084(b)(2)(A)][/us/pl/105/34/s1084/b/2/A], substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+    1997—Subsec. (a)(2)(B). [Pub. L. 105–34][/us/pl/105/34], § 1084(b)(2)(A), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
-    Subsec. (b)(1)(B). [Pub. L. 105–34, § 1084(b)(2)(B)][/us/pl/105/34/s1084/b/2/B], substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+    Subsec. (b)(1)(B). [Pub. L. 105–34][/us/pl/105/34], § 1084(b)(2)(B), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
     1996—Subsec. (d)(3)(A)(iii). [Pub. L. 104–191][/us/pl/104/191] inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
 
@@ -395,17 +395,17 @@
 
     1990—Subsec. (e)(7). [Pub. L. 101–508][/us/pl/101/508] added par. (7).
 
-    1987—Subsec. (c). [Pub. L. 100–203, § 10241(b)(2)(A)][/us/pl/100/203/s10241/b/2/A], substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
+    1987—Subsec. (c). [Pub. L. 100–203][/us/pl/100/203], § 10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
 
-    Subsec. (d)(2)(B). [Pub. L. 100–203, § 10241(a)][/us/pl/100/203/s10241/a], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
+    Subsec. (d)(2)(B). [Pub. L. 100–203][/us/pl/100/203], § 10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
 
-    Subsec. (d)(4). [Pub. L. 100–203, § 10241(b)(1)][/us/pl/100/203/s10241/b/1], substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
+    Subsec. (d)(4). [Pub. L. 100–203][/us/pl/100/203], § 10241(b)(1), substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
 
-    1986—Subsec. (c). [Pub. L. 99–514, § 1023(b)][/us/pl/99/514/s1023/b], inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
+    1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
 
-    [Pub. L. 99–514, § 1821(a)][/us/pl/99/514/s1821/a], inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
+    [Pub. L. 99–514][/us/pl/99/514], § 1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 
-    Subsec. (d)(5)(C). [Pub. L. 99–514, § 1821(s)][/us/pl/99/514/s1821/s], inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner’s standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+    Subsec. (d)(5)(C). [Pub. L. 99–514][/us/pl/99/514], § 1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner’s standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -413,7 +413,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–218, title II, § 205(c)][/us/pl/108/218/s205/c], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610], provided that: 
+[Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(c), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 808, 812, 817, and 842 of this title and repealing [section 809 of this title][/us/usc/t26/s809]\] shall apply to taxable years beginning after December 31, 2004.”
 
@@ -427,13 +427,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11302(b)][/us/pl/101/508/s11302/b], Nov. 5, 1990, [104 Stat. 1388–450][/us/stat/104/1388-450], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11302(b), Nov. 5, 1990, [104 Stat. 1388–450][/us/stat/104/1388-450], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title X, § 10241(c)][/us/pl/100/203/s10241/c], Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10241(c), Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 812 of this title][/us/usc/t26/s812]\] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
 
@@ -441,7 +441,7 @@
 
     Amendment by [section 1023(b) of Pub. L. 99–514][/us/pl/99/514/s1023/b] applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see [section 1023(e) of Pub. L. 99–514][/us/pl/99/514/s1023/e], set out as an Effective Date note under [section 846 of this title][/us/usc/t26/s846].
 
-    Amendment by section 1821(a), (s) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by section 1821(a), (s) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -453,7 +453,7 @@
 
  __Treatment of Certain Assessment Life Insurance Companies__ 
 
-[Pub. L. 98–369, div. A, title II, § 217(f)][/us/pl/98/369/s217/f], July 18, 1984, [98 Stat. 763][/us/stat/98/763], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 217(f), July 18, 1984, [98 Stat. 763][/us/stat/98/763], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __Mortality and morbidity tables__  __.—__ 
 
@@ -479,7 +479,7 @@
 
  __Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts__ 
 
-[Pub. L. 98–369, div. A, title II, § 217(n)][/us/pl/98/369/s217/n], July 18, 1984, [98 Stat. 766][/us/stat/98/766], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1823, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2845, provided that: 
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 217(n), July 18, 1984, [98 Stat. 766][/us/stat/98/766], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, title XVIII, § 1823, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2845, provided that: 
 
 > “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
@@ -502,48 +502,48 @@
 ----------
 ----------
 
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F726
-[/us/pl/99/514/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fb
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2399
-[/us/pl/100/203/s10241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10241%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-419
-[/us/pl/101/508/s11302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11302%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-449
-[/us/pl/104/188/s1704/t/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F61
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
-[/us/pl/104/191/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Fb
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2058
-[/us/pl/105/34/s1084/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F954
-[/us/pl/108/218/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F1
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
-[/us/pl/113/295/s221/a/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F68
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
 [/us/pl/105/34/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F259
-[/us/act/1956-03-13/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs2
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F36
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/108/218/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F1
-[/us/pl/108/218/s205/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F2%2FA
-[/us/pl/108/218/s205/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F2%2FB
-[/us/pl/105/34/s1084/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F2%2FA
-[/us/pl/105/34/s1084/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F2%2FB
+[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/203/s10241/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10241%2Fb%2F2%2FA
-[/us/pl/100/203/s10241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10241%2Fa
-[/us/pl/100/203/s10241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10241%2Fb%2F1
-[/us/pl/99/514/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fb
-[/us/pl/99/514/s1821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fa
-[/us/pl/99/514/s1821/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fs
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/108/218/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fc
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
 [/us/usc/t26/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs809
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -552,16 +552,16 @@
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/191/s321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Ff
 [/us/usc/t26/s7702B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7702B
-[/us/pl/101/508/s11302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11302%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-450
-[/us/pl/100/203/s10241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10241%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-420
 [/us/usc/t26/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs812
 [/us/pl/99/514/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fb
 [/us/pl/99/514/s1023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fe
 [/us/usc/t26/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs846
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs215
@@ -569,14 +569,14 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/98/369/s217/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs217%2Ff
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F763
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/98/369/s217/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs217%2Fn
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F766
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

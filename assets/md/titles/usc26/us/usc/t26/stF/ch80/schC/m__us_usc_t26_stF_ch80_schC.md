@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 801(b)][/us/pl/108/357/s801/b], Oct. 22, 2004, [118 Stat. 1566][/us/stat/118/1566], added item 7874.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 801(b), Oct. 22, 2004, [118 Stat. 1566][/us/stat/118/1566], added item 7874.
 
-    1988—[Pub. L. 100–647, title III, § 3041(b)][/us/pl/100/647/s3041/b], Nov. 10, 1988, [102 Stat. 3641][/us/stat/102/3641], added item 7873.
+    1988—[Pub. L. 100–647, title III][/us/pl/100/647/tIII], § 3041(b), Nov. 10, 1988, [102 Stat. 3641][/us/stat/102/3641], added item 7873.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 172(b)][/us/pl/98/369/s172/b], July 18, 1984, [98 Stat. 703][/us/stat/98/703], added item 7872.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 172(b), July 18, 1984, [98 Stat. 703][/us/stat/98/703], added item 7872.
 
 ----------
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/108/357/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs801%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1566
-[/us/pl/100/647/s3041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3041%2Fb
+[/us/pl/100/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIII
 [/us/stat/102/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3641
-[/us/pl/98/369/s172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs172%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F703
 
 

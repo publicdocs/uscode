@@ -45,7 +45,7 @@
 
         In the case of penalties and interest attributable to additional taxes described in subsections (a) and (b), rules similar to subsections (a), (b), and (c) shall apply.
 
-(Added [Pub. L. 97–34, title IV, § 403(d)(4)(A)][/us/pl/97/34/s403/d/4/A], Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304]; amended [Pub. L. 105–34, title XIII, § 1302(a)][/us/pl/105/34/s1302/a], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039].)
+(Added [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(d)(4)(A), Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304]; amended [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1302(a), Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1302(c)][/us/pl/105/34/s1302/c], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1302(c), Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2207B of this title][/us/usc/t26/s2207B]\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -68,12 +68,12 @@
 ----------
 ----------
 
-[/us/pl/97/34/s403/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fd%2F4%2FA
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F304
-[/us/pl/105/34/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1302%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1039
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/105/34/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1302%2Fc
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1039
 [/us/usc/t26/s2207B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2207B
 [/us/pl/97/34/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fe

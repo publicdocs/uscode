@@ -115,13 +115,13 @@
 
             Except to the extent provided in regulations, rules similar to the rules of this subsection shall also apply in cases (not described in paragraph (1)) in which intermediaries or other devices are used for purposes of reducing the amount of the tax imposed by section 4161(a).
 
-(Added [Pub. L. 98–369, div. A, title X, § 1015(b)][/us/pl/98/369/s1015/b], July 18, 1984, [98 Stat. 1017][/us/stat/98/1017]; amended [Pub. L. 99–514, title II, § 201(d)(7)(C)][/us/pl/99/514/s201/d/7/C], (12), title XVIII, § 1878(b), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2142, 2903; [Pub. L. 108–357, title III, § 334(a)][/us/pl/108/357/s334/a], (b), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478].)
+(Added [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1015(b), July 18, 1984, [98 Stat. 1017][/us/stat/98/1017]; amended [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 201(d)(7)(C), (12), title XVIII, § 1878(b), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2142, 2903; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 334(a), (b), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478].)
 
  __Amendments__ 
 
-    2004—Subsec. (a)(8) to (10). [Pub. L. 108–357, § 334(a)][/us/pl/108/357/s334/a], inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
+    2004—Subsec. (a)(8) to (10). [Pub. L. 108–357][/us/pl/108/357], § 334(a), inserted “and” at end of par. (8), substituted a period for “, and” at end of par. (9), and struck out par. (10) which read as follows: “sonar devices suitable for finding fish.”
 
-    Subsecs. (b), (c). [Pub. L. 108–357, § 334(b)][/us/pl/108/357/s334/b], redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
+    Subsecs. (b), (c). [Pub. L. 108–357][/us/pl/108/357], § 334(b), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “For purposes of this part, the term ‘sonar device suitable for finding fish’ shall not include any sonar device which is—
 
     “(1) a graph recorder,
 
@@ -131,13 +131,13 @@
 
     “(4) a combination graph recorder or combination meter readout.”
 
-    1986—Subsec. (a)(6)(I). [Pub. L. 99–514, § 1878(b)][/us/pl/99/514/s1878/b], amended subpar. (I) generally, substituting “hook” for “hood”.
+    1986—Subsec. (a)(6)(I). [Pub. L. 99–514][/us/pl/99/514], § 1878(b), amended subpar. (I) generally, substituting “hook” for “hood”.
 
-    Subsec. (c)(3). [Pub. L. 99–514, § 201(d)(7)(C)][/us/pl/99/514/s201/d/7/C], (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
+    Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514], § 201(d)(7)(C), (12), made identical amendments, substituting “section 465(b)(3)(C)” for “section 168(e)(4)(D)”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title III, § 334(c)][/us/pl/108/357/s334/c], Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 334(c), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
 
 > “The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
 
@@ -147,11 +147,11 @@
 
     Amendment by section 201(d)(7)(C), (12) of [Pub. L. 99–514][/us/pl/99/514] not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of [Pub. L. 99–514][/us/pl/99/514], set out as a note under [section 46 of this title][/us/usc/t26/s46].
 
-    Amendment by [section 1878(b) of Pub. L. 99–514][/us/pl/99/514/s1878/b] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1878(b) of Pub. L. 99–514][/us/pl/99/514/s1878/b] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title X, § 1015(e)][/us/pl/98/369/s1015/e], July 18, 1984, [98 Stat. 1019][/us/stat/98/1019], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1015(e), July 18, 1984, [98 Stat. 1019][/us/stat/98/1019], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -172,17 +172,17 @@
 ----------
 ----------
 
-[/us/pl/98/369/s1015/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1017
-[/us/pl/99/514/s201/d/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F7%2FC
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2141
-[/us/pl/108/357/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs334%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1478
-[/us/pl/108/357/s334/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs334%2Fa
-[/us/pl/108/357/s334/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs334%2Fb
-[/us/pl/99/514/s1878/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1878%2Fb
-[/us/pl/99/514/s201/d/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F7%2FC
-[/us/pl/108/357/s334/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs334%2Fc
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1478
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -191,12 +191,12 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
 [/us/pl/99/514/s1878/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1878%2Fb
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s1015/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fe
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1019
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

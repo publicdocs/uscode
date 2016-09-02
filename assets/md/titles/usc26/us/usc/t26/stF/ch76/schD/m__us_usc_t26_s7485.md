@@ -35,21 +35,21 @@
 
         (2) For deposit of United States bonds or notes in lieu of sureties, see [section 9303 of title 31][/us/usc/t31/s9303], United States Code.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX, § 960(h)(3)][/us/pl/91/172/s960/h/3], Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735]; [Pub. L. 97–248, title IV, § 402(c)(16)][/us/pl/97/248/s402/c/16], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–258, § 3(f)(15)][/us/pl/97/258/s3/f/15], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(4), 1241(a), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1029; [Pub. L. 114–74, title XI, § 1101(f)(14)][/us/pl/114/74/s1101/f/14], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 960(h)(3), Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735]; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(16), Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–258][/us/pl/97/258], § 3(f)(15), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1222(b)(4), 1241(a), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1029; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(14), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
 
  __Amendment of Subsection (b)__ 
 
-    [Pub. L. 114–74, title XI, § 1101(f)(14)][/us/pl/114/74/s1101/f/14], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended by striking “section 6226, 6228(a), 6247, or 6252” and inserting “section 6234”. See 2015 Amendment note below.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(14), (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (b) of this section is amended by striking “section 6226, 6228(a), 6247, or 6252” and inserting “section 6234”. See 2015 Amendment note below.
 
  __Amendments__ 
 
     2015—Subsec. (b). [Pub. L. 114–74][/us/pl/114/74] substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
-    1997—Subsec. (b). [Pub. L. 105–34, § 1222(b)(4)(B)][/us/pl/105/34/s1222/b/4/B], amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
+    1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34], § 1222(b)(4)(B), amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
 
-    [Pub. L. 105–34, § 1222(b)(4)(A)][/us/pl/105/34/s1222/b/4/A], substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
+    [Pub. L. 105–34][/us/pl/105/34], § 1222(b)(4)(A), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
 
-    [Pub. L. 105–34, § 1241(a)][/us/pl/105/34/s1241/a], inserted “penalties,” after “any interest,” and substituted “aggregate liability of the parties to the action” for “aggregate of such deficiencies”.
+    [Pub. L. 105–34][/us/pl/105/34], § 1241(a), inserted “penalties,” after “any interest,” and substituted “aggregate liability of the parties to the action” for “aggregate of such deficiencies”.
 
     1982—Subsecs. (b), (c). [Pub. L. 97–248][/us/pl/97/248] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -65,7 +65,7 @@
 
     Amendment by [section 1222(b)(4) of Pub. L. 105–34][/us/pl/105/34/s1222/b/4] applicable to partnership taxable years beginning after Dec. 31, 1997, see [section 1226 of Pub. L. 105–34][/us/pl/105/34/s1226], as amended, set out as a note under [section 6011 of this title][/us/usc/t26/s6011].
 
-[Pub. L. 105–34, title XII, § 1241(b)][/us/pl/105/34/s1241/b], Aug. 5, 1997, [111 Stat. 1029][/us/stat/111/1029], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1241(b), Aug. 5, 1997, [111 Stat. 1029][/us/stat/111/1029], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248]\].”
 
@@ -87,22 +87,22 @@
 [/us/usc/t31/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9303
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F891
-[/us/pl/91/172/s960/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fh%2F3
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F735
-[/us/pl/97/248/s402/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F16
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F668
-[/us/pl/97/258/s3/f/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F15
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
-[/us/pl/114/74/s1101/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F14
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
-[/us/pl/114/74/s1101/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F14
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/105/34/s1222/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4%2FB
-[/us/pl/105/34/s1222/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4%2FA
-[/us/pl/105/34/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1241%2Fa
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9303
@@ -115,7 +115,7 @@
 [/us/pl/105/34/s1222/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F4
 [/us/pl/105/34/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1226
 [/us/usc/t26/s6011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6011
-[/us/pl/105/34/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1241%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1029
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

@@ -95,29 +95,29 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of subsection (b)(2)(B) or (d)(2)(B) through the change in form of an entity.
 
-(Added [Pub. L. 100–203, title X, § 10206(a)(1)][/us/pl/100/203/s10206/a/1], Dec. 22, 1987, [101 Stat. 1330–397][/us/stat/101/1330-397]; amended [Pub. L. 100–647, title II, § 2004(e)(1)][/us/pl/100/647/s2004/e/1], (2)(A), (12), (13), Nov. 10, 1988, [102 Stat. 3600][/us/stat/102/3600], 3602.)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10206(a)(1), Dec. 22, 1987, [101 Stat. 1330–397][/us/stat/101/1330-397]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(e)(1), (2)(A), (12), (13), Nov. 10, 1988, [102 Stat. 3600][/us/stat/102/3600], 3602.)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 2004(e)(1)(A)][/us/pl/100/647/s2004/e/1/A], substituted “as otherwise provided in this section” for “as provided in subsections (b) and (c)”.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(1)(A), substituted “as otherwise provided in this section” for “as provided in subsections (b) and (c)”.
 
-    Subsec. (b)(4). [Pub. L. 100–647, § 2004(e)(13)][/us/pl/100/647/s2004/e/13], inserted “except as provided in regulations,” before “the term”.
+    Subsec. (b)(4). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(13), inserted “except as provided in regulations,” before “the term”.
 
-    Subsec. (d)(2)(A). [Pub. L. 100–647, § 2004(e)(12)][/us/pl/100/647/s2004/e/12], inserted “or otherwise terminates such election” after “its taxable year”.
+    Subsec. (d)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(12), inserted “or otherwise terminates such election” after “its taxable year”.
 
-    Subsec. (d)(2)(B). [Pub. L. 100–647, § 2004(e)(1)(C)][/us/pl/100/647/s2004/e/1/C], inserted “or paragraph (3)(A)” after “under subparagraph (A)”.
+    Subsec. (d)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(1)(C), inserted “or paragraph (3)(A)” after “under subparagraph (A)”.
 
-    Subsec. (d)(3). [Pub. L. 100–647, § 2004(e)(1)(B)][/us/pl/100/647/s2004/e/1/B], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No election may be made under subsection (a) with respect to an entity which is part of a tiered structure other than a tiered structure comprised of 1 or more partnerships or S corporations all of which have the same taxable year.”
+    Subsec. (d)(3). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No election may be made under subsection (a) with respect to an entity which is part of a tiered structure other than a tiered structure comprised of 1 or more partnerships or S corporations all of which have the same taxable year.”
 
-    Subsecs. (f), (g). [Pub. L. 100–647, § 2004(e)(2)(A)][/us/pl/100/647/s2004/e/2/A], added subsec. (f) and redesignated former subsec. (f) as (g).
+    Subsecs. (f), (g). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(2)(A), added subsec. (f) and redesignated former subsec. (f) as (g).
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10206(d)][/us/pl/100/203/s10206/d], Dec. 22, 1987, [101 Stat. 1330–403][/us/stat/101/1330-403], as amended by [Pub. L. 100–647, title II, § 2004(e)(11)][/us/pl/100/647/s2004/e/11], Nov. 10, 1988, [102 Stat. 3602][/us/stat/102/3602], provided that:
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10206(d), Dec. 22, 1987, [101 Stat. 1330–403][/us/stat/101/1330-403], as amended by [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(e)(11), Nov. 10, 1988, [102 Stat. 3602][/us/stat/102/3602], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -148,23 +148,23 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fa%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-397
-[/us/pl/100/647/s2004/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F1
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3600
-[/us/pl/100/647/s2004/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F1%2FA
-[/us/pl/100/647/s2004/e/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F13
-[/us/pl/100/647/s2004/e/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F12
-[/us/pl/100/647/s2004/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F1%2FC
-[/us/pl/100/647/s2004/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F1%2FB
-[/us/pl/100/647/s2004/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F2%2FA
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/100/203/s10206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fd
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-403
-[/us/pl/100/647/s2004/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F11
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3602
 [/us/usc/t26/s7519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7519
 

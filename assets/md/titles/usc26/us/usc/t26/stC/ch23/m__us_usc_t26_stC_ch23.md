@@ -115,11 +115,11 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–566, title I, § 115(c)(4)][/us/pl/94/566/s115/c/4], Oct. 20, 1976, [90 Stat. 2671][/us/stat/90/2671], substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
+    1976—[Pub. L. 94–566, title I][/us/pl/94/566/tI], § 115(c)(4), Oct. 20, 1976, [90 Stat. 2671][/us/stat/90/2671], substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
 
-    1970—[Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(b)(2), 131(b)(3), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
+    1970—[Pub. L. 91–373, title I][/us/pl/91/373/tI], §§ 104(b)(2), 131(b)(3), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
 
-    1960—[Pub. L. 86–778, title V, § 531(d)(2)][/us/pl/86/778/s531/d/2], Sept. 13, 1960, [74 Stat. 984][/us/stat/74/984], added item 3308 and redesignated former item 3308 as 3309.
+    1960—[Pub. L. 86–778, title V][/us/pl/86/778/tV], § 531(d)(2), Sept. 13, 1960, [74 Stat. 984][/us/stat/74/984], added item 3308 and redesignated former item 3308 as 3309.
 
 ----------
 
@@ -128,11 +128,11 @@
 ----------
 ----------
 
-[/us/pl/94/566/s115/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F4
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2671
-[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F699
-[/us/pl/86/778/s531/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fd%2F2
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F984
 
 

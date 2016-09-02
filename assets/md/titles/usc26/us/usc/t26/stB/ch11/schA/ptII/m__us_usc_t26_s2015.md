@@ -17,7 +17,7 @@
 
     Where an election is made under section 6163(a) to postpone payment of the tax imposed by section 2001, or 2101, such part of any estate, inheritance, legacy, or succession taxes allowable as a credit under section 2014, as is attributable to a reversionary or remainder interest may be allowed as a credit against the tax attributable to such interest, subject to the limitations on the amount of the credit contained in such sections, if such part is paid, and credit therefor claimed, at any time before the expiration of the time for payment of the tax imposed by section 2001 or 2101 as postponed and extended under section 6163.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 379][/us/stat/68A/379]; [Pub. L. 85–866, title I, § 66(a)(1)][/us/pl/85/866/s66/a/1], Sept. 2, 1958, [72 Stat. 1657][/us/stat/72/1657]; [Pub. L. 107–16, title V, § 532(c)(4)][/us/pl/107/16/s532/c/4], June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 379][/us/stat/68A/379]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 66(a)(1), Sept. 2, 1958, [72 Stat. 1657][/us/stat/72/1657]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(4), June 7, 2001, [115 Stat. 74][/us/stat/115/74].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 66(a)(3)][/us/pl/85/866/s66/a/3], Sept. 2, 1958, [72 Stat. 1658][/us/stat/72/1658], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 66(a)(3), Sept. 2, 1958, [72 Stat. 1658][/us/stat/72/1658], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section and section 927 of I.R.C. 1939\] shall apply in the case of any reversionary or remainder interest in property only if the precedent interest or interests in the property did not terminate before the beginning of the 60-day period which ends on the date of the enactment of this Act \[Sept. 2, 1958\].”
 
@@ -44,16 +44,16 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F379
-[/us/pl/85/866/s66/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs66%2Fa%2F1
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1657
-[/us/pl/107/16/s532/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F4
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F74
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
-[/us/pl/85/866/s66/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs66%2Fa%2F3
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1658
 
 

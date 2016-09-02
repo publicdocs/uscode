@@ -91,7 +91,7 @@
 
         The penalties imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added [Pub. L. 97–248, title III, § 326(a)][/us/pl/97/248/s326/a], Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617]; amended [Pub. L. 109–432, div. A, title IV, § 407(a)][/us/pl/109/432/s407/a], Dec. 20, 2006, [120 Stat. 2960][/us/stat/120/2960].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 326(a), Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617]; amended [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 407(a), Dec. 20, 2006, [120 Stat. 2960][/us/stat/120/2960].)
 
  __Amendments__ 
 
@@ -103,7 +103,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 326(c)][/us/pl/97/248/s326/c], Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 326(c), Sept. 3, 1982, [96 Stat. 617][/us/stat/96/617], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -114,15 +114,15 @@
 ----------
 ----------
 
-[/us/pl/97/248/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs326%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F617
-[/us/pl/109/432/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2960
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Ff
 [/us/usc/t26/s6320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6320
-[/us/pl/97/248/s326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs326%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F617
 
 

@@ -17,7 +17,7 @@
 
     Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the Federal Rules of Evidence.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 91–172, title IX, § 960(f)][/us/pl/91/172/s960/f], Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734]; [Pub. L. 105–34, title XIV, § 1454(b)(3)][/us/pl/105/34/s1454/b/3], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 114–113, div. Q, title IV, § 425(a)][/us/pl/114/113/s425/a], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 960(f), Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1454(b)(3), Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 425(a), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 425(b)][/us/pl/114/113/s425/b], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 425(b), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent that it is just and practicable, to all proceedings pending on such date.”
 
@@ -54,17 +54,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F884
-[/us/pl/91/172/s960/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Ff
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F734
-[/us/pl/105/34/s1454/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1454%2Fb%2F3
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1057
-[/us/pl/114/113/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs425%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7463
-[/us/pl/114/113/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs425%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s962/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs962%2Fe

@@ -33,11 +33,11 @@
 
         Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
 
-(Added [Pub. L. 100–647, title VI, § 6242(a)][/us/pl/100/647/s6242/a], Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], § 6712; renumbered § 6713, [Pub. L. 101–239, title VII, § 7816(v)(1)][/us/pl/101/239/s7816/v/1], Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6242(a), Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], § 6712; renumbered § 6713, [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7816(v)(1), Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423].)
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title VI, § 6242(d)][/us/pl/100/647/s6242/d], Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6242(d), Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 7216 of this title][/us/usc/t26/s7216]\] shall apply to disclosures or uses after December 31, 1988.”
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/100/647/s6242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6242%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3749
-[/us/pl/101/239/s7816/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fv%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2423
-[/us/pl/100/647/s6242/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6242%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3749
 [/us/usc/t26/s7216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7216
 

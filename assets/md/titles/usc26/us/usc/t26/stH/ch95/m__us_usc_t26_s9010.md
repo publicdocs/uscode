@@ -31,7 +31,7 @@
 
         The Commission is authorized on behalf of the United States to appeal from, and to petition the Supreme Court for certiorari to review, judgments or decrees entered with respect to actions in which it appears pursuant to the authority provided in this section.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV, § 404(c)(14)][/us/pl/93/443/s404/c/14]–(18), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(C)][/us/pl/94/455/s1906/b/13/C], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–620, title IV, § 402(28)(E)][/us/pl/98/620/s402/28/E], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 404(c)(14)–(18), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(28)(E), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] substituted “to the Secretary of the Treasury” for “to the Secretary”.
 
-    1974—[Pub. L. 93–443, § 404(c)(14)][/us/pl/93/443/s404/c/14], substituted “Commission” for “Comptroller General” in section catchline.
+    1974—[Pub. L. 93–443][/us/pl/93/443], § 404(c)(14), substituted “Commission” for “Comptroller General” in section catchline.
 
-    Subsec. (a). [Pub. L. 93–443, § 404(c)(15)][/us/pl/93/443/s404/c/15], substituted “Commission” for “Comptroller General”, “its” for “his”, and “it” for “he” wherever appearing.
+    Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(15), substituted “Commission” for “Comptroller General”, “its” for “his”, and “it” for “he” wherever appearing.
 
-    Subsecs. (b), (c). [Pub. L. 93–443, § 404(c)(16)][/us/pl/93/443/s404/c/16], (17), substituted “Commission” for “Comptroller General” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(16), (17), substituted “Commission” for “Comptroller General” wherever appearing.
 
-    Subsec. (d). [Pub. L. 93–443, § 404(c)(18)][/us/pl/93/443/s404/c/18], substituted “Commission” and “it” for “Comptroller General” and “he”.
+    Subsec. (d). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(18), substituted “Commission” and “it” for “Comptroller General” and “he”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -63,20 +63,20 @@
 ----------
 
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F569
-[/us/pl/93/443/s404/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F14
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1293
-[/us/pl/94/455/s1906/b/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/620/s402/28/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F28%2FE
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/443/s404/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F14
-[/us/pl/93/443/s404/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F15
-[/us/pl/93/443/s404/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F16
-[/us/pl/93/443/s404/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F18
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

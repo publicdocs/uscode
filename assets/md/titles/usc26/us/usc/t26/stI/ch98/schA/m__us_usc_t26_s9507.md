@@ -107,7 +107,7 @@
 
             If at any time the Superfund has insufficient funds to pay all of the claims payable out of the Superfund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
-(Added [Pub. L. 99–499, title V, § 517(a)][/us/pl/99/499/s517/a], Oct. 17, 1986, [100 Stat. 1772][/us/stat/100/1772]; amended [Pub. L. 99–509, title VIII, § 8032(c)(4)][/us/pl/99/509/s8032/c/4], Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959]; [Pub. L. 101–508, title XI, § 11231(c)][/us/pl/101/508/s11231/c], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(L)][/us/pl/113/295/s221/a/12/L], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
+(Added [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 517(a), Oct. 17, 1986, [100 Stat. 1772][/us/stat/100/1772]; amended [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8032(c)(4), Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11231(c), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(12)(L), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __References in Text__ 
 
@@ -115,7 +115,7 @@
 
     The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and CERCLA, referred to in subsecs. (b)(2), (4), (5), (c)(1)(A), and (e)(2), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. Title I of CERCLA is classified to subchapter I (§ 9601 et seq.) of chapter 103 of Title 42. Sections 107(c)(3) and 111(a)(1), (2), (5), and (6), (c), and (m) of CERCLA are classified to sections 9607(c)(3) and 9611(a)(1), (2), (5), and (6), (c), and (m) of Title 42, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
 
-    Section 311(b)(6)(B) of the Clean Water Act, referred to in subsec. (b)(3), which was classified to [section 1321(b)(6)(B) of Title 33][/us/usc/t33/s1321/b/6/B], Navigation and Navigable Waters, and which related to civil actions by the Administrator to impose penalties for prohibited discharges was struck out by [Pub. L. 101–380, title IV, § 4301(b)][/us/pl/101/380/s4301/b], Aug. 18, 1990, [104 Stat. 533][/us/stat/104/533], which added a new section 311(b)(6)(B) relating to classes of civil penalties imposed by the Secretary of the department in which the Coast Guard is operating or the Administrator for prohibited discharges or violations of regulations.
+    Section 311(b)(6)(B) of the Clean Water Act, referred to in subsec. (b)(3), which was classified to [section 1321(b)(6)(B) of Title 33][/us/usc/t33/s1321/b/6/B], Navigation and Navigable Waters, and which related to civil actions by the Administrator to impose penalties for prohibited discharges was struck out by [Pub. L. 101–380, title IV][/us/pl/101/380/tIV], § 4301(b), Aug. 18, 1990, [104 Stat. 533][/us/stat/104/533], which added a new section 311(b)(6)(B) relating to classes of civil penalties imposed by the Secretary of the department in which the Coast Guard is operating or the Administrator for prohibited discharges or violations of regulations.
 
     The date of the enactment of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (c)(1)(A)(i), is the date of enactment of [Pub. L. 99–499][/us/pl/99/499], which was approved Oct. 17, 1986.
 
@@ -141,7 +141,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–499, title V, § 517(e)][/us/pl/99/499/s517/e], Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774], provided that:
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 517(e), Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -153,7 +153,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 99–499, title V, § 517(b)][/us/pl/99/499/s517/b], Oct. 17, 1986, [100 Stat. 1773][/us/stat/100/1773], as amended by [Pub. L. 101–508, title XI, § 11231(d)][/us/pl/101/508/s11231/d], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445], provided that: 
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 517(b), Oct. 17, 1986, [100 Stat. 1773][/us/stat/100/1773], as amended by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11231(d), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445], provided that: 
 
 > “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—
 
@@ -177,7 +177,7 @@
 
 >     plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to [42 U.S.C. 9631(b)(2)][/us/usc/t42/s9631/b/2] before its repeal by [section 517(c)(1) of Pub. L. 99–499][/us/pl/99/499/s517/c/1]\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
 
-    \[[Pub. L. 101–508, title XI, § 11231(d)][/us/pl/101/508/s11231/d], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445], directed that [section 517(b) of Pub. L. 99–499][/us/pl/99/499/s517/b], set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. [Pub. L. 104–188, title I, § 1704(t)(44)][/us/pl/104/188/s1704/t/44], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889], provided that [section 11231(d) of Pub. L. 101–508][/us/pl/101/508/s11231/d] “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending [section 517(b)(5) of Pub. L. 99–499][/us/pl/99/499/s517/b/5]\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
+    \[[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11231(d), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445], directed that [section 517(b) of Pub. L. 99–499][/us/pl/99/499/s517/b], set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(44), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889], provided that [section 11231(d) of Pub. L. 101–508][/us/pl/101/508/s11231/d] “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending [section 517(b)(5) of Pub. L. 99–499][/us/pl/99/499/s517/b/5]\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
 
 ----------
 
@@ -186,20 +186,20 @@
 ----------
 ----------
 
-[/us/pl/99/499/s517/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fa
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1772
-[/us/pl/99/509/s8032/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fc%2F4
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1959
-[/us/pl/101/508/s11231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11231%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-445
-[/us/pl/113/295/s221/a/12/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FL
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/pl/99/499/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fb
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t33/s1321/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1321%2Fb%2F6%2FB
-[/us/pl/101/380/s4301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4301%2Fb
+[/us/pl/101/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2FtIV
 [/us/stat/104/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F533
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s6925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6925%2Fa
@@ -215,20 +215,20 @@
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s8032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fd
 [/us/usc/t26/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4611
-[/us/pl/99/499/s517/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fe
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1774
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s9631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9631
-[/us/pl/99/499/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fb
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1773
-[/us/pl/101/508/s11231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11231%2Fd
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-445
 [/us/usc/t42/s9631/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9631%2Fb%2F2
 [/us/pl/99/499/s517/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fc%2F1
-[/us/pl/101/508/s11231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11231%2Fd
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-445
 [/us/pl/99/499/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fb
-[/us/pl/104/188/s1704/t/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F44
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
 [/us/pl/101/508/s11231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11231%2Fd
 [/us/pl/99/499/s517/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fb%2F5

@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title VI, § 651(c)][/us/pl/99/514/s651/c], Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], substituted: “QUALIFIED INVESTMENT ENTITIES” for “REAL ESTATE INVESTMENT TRUSTS” as chapter heading, substituted “Excise tax on undistributed income of real estate investment trusts” for “Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year” in item 4981, and added item 4982.
+    1986—[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 651(c), Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], substituted: “QUALIFIED INVESTMENT ENTITIES” for “REAL ESTATE INVESTMENT TRUSTS” as chapter heading, substituted “Excise tax on undistributed income of real estate investment trusts” for “Excise tax based on certain real estate investment trust taxable income not distributed during the taxable year” in item 4981, and added item 4982.
 
-    1976—[Pub. L. 94–455, title XVI, § 1605(a)][/us/pl/94/455/s1605/a], Oct. 4, 1976, [90 Stat. 1754][/us/stat/90/1754], added chapter heading and section analysis.
+    1976—[Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], § 1605(a), Oct. 4, 1976, [90 Stat. 1754][/us/stat/90/1754], added chapter heading and section analysis.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs651%2Fc
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2297
-[/us/pl/94/455/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1605%2Fa
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1754
 
 

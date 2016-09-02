@@ -155,19 +155,19 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, div. Q, title IV, § 431(b)][/us/pl/114/113/s431/b], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], added item 7466.
+    2015—[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 431(b), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], added item 7466.
 
-    1998—[Pub. L. 105–206, title III, § 3103(b)(2)][/us/pl/105/206/s3103/b/2], July 22, 1998, [112 Stat. 731][/us/stat/112/731], substituted “$50,000” for “$10,000” in item 7463.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3103(b)(2), July 22, 1998, [112 Stat. 731][/us/stat/112/731], substituted “$50,000” for “$10,000” in item 7463.
 
-    1984—[Pub. L. 98–369, div. A, title IV, § 461(a)(2)(B)][/us/pl/98/369/s461/a/2/B], July 18, 1984, [98 Stat. 823][/us/stat/98/823], substituted “$10,000” for “$5,000” in item 7463.
+    1984—[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 461(a)(2)(B), July 18, 1984, [98 Stat. 823][/us/stat/98/823], substituted “$10,000” for “$5,000” in item 7463.
 
-    1980—[Pub. L. 96–589, § 6(c)(2)][/us/pl/96/589/s6/c/2], Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407], added item 7464 and redesignated former item 7464 as 7465.
+    1980—[Pub. L. 96–589][/us/pl/96/589], § 6(c)(2), Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407], added item 7464 and redesignated former item 7464 as 7465.
 
-    1978—[Pub. L. 95–600, title V, § 502(a)(2)(B)][/us/pl/95/600/s502/a/2/B], Nov. 6, 1978, [92 Stat. 2879][/us/stat/92/2879], substituted “$5,000” for “$1,500” in item 7463.
+    1978—[Pub. L. 95–600, title V][/us/pl/95/600/tV], § 502(a)(2)(B), Nov. 6, 1978, [92 Stat. 2879][/us/stat/92/2879], substituted “$5,000” for “$1,500” in item 7463.
 
-    1972—[Pub. L. 92–512, title II, § 203(b)(3)][/us/pl/92/512/s203/b/3], Oct. 20, 1972, [86 Stat. 945][/us/stat/86/945], substituted “$1,500” for “$1,000” in item 7463.
+    1972—[Pub. L. 92–512, title II][/us/pl/92/512/tII], § 203(b)(3), Oct. 20, 1972, [86 Stat. 945][/us/stat/86/945], substituted “$1,500” for “$1,000” in item 7463.
 
-    1969—[Pub. L. 91–172, title IX, § 957(b)][/us/pl/91/172/s957/b], Dec. 30, 1969, [83 Stat. 733][/us/stat/83/733], added item 7463 and redesignated former item 7463 as 7464.
+    1969—[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 957(b), Dec. 30, 1969, [83 Stat. 733][/us/stat/83/733], added item 7463 and redesignated former item 7463 as 7464.
 
 ----------
 
@@ -176,19 +176,19 @@
 ----------
 ----------
 
-[/us/pl/114/113/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs431%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
-[/us/pl/105/206/s3103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3103%2Fb%2F2
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F731
-[/us/pl/98/369/s461/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs461%2Fa%2F2%2FB
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F823
-[/us/pl/96/589/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fc%2F2
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3407
-[/us/pl/95/600/s502/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs502%2Fa%2F2%2FB
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2879
-[/us/pl/92/512/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs203%2Fb%2F3
+[/us/pl/92/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2FtII
 [/us/stat/86/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F945
-[/us/pl/91/172/s957/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs957%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F733
 
 

@@ -29,7 +29,7 @@
 
         (3) any trade or business which is the selling of merchandise, substantially all of which has been received by the organization as gifts or contributions.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 91–172, title I, § 121(b)(7)][/us/pl/91/172/s121/b/7], Dec. 30, 1969, [83 Stat. 542][/us/stat/83/542].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 121(b)(7), Dec. 30, 1969, [83 Stat. 542][/us/stat/83/542].)
 
  __Amendments__ 
 
@@ -48,7 +48,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F166
-[/us/pl/91/172/s121/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fb%2F7
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F542
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs512

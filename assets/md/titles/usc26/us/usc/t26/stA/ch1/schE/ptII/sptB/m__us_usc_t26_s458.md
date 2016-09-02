@@ -149,11 +149,11 @@
 
             The application of this subsection with respect to a taxpayer which is a party to any transaction with respect to which there is nonrecognition of gain or loss to any party to the transaction by reason of subchapter C shall be determined under regulations prescribed by the Secretary.
 
-(Added [Pub. L. 95–600, title III, § 372(a)][/us/pl/95/600/s372/a], Nov. 6, 1978, [92 Stat. 2860][/us/stat/92/2860].)
+(Added [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 372(a), Nov. 6, 1978, [92 Stat. 2860][/us/stat/92/2860].)
 
  __Effective Date__ 
 
-[Pub. L. 95–600, title III, § 372(c)][/us/pl/95/600/s372/c], Nov. 6, 1978, [92 Stat. 2862][/us/stat/92/2862], provided that: 
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 372(c), Nov. 6, 1978, [92 Stat. 2862][/us/stat/92/2862], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979.”
 
@@ -164,9 +164,9 @@
 ----------
 ----------
 
-[/us/pl/95/600/s372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs372%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2860
-[/us/pl/95/600/s372/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs372%2Fc
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2862
 
 

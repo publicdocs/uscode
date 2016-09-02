@@ -23,7 +23,7 @@
 
         For individual’s right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 406][/us/stat/68A/406]; [Pub. L. 91–614, title I, § 102(b)(1)][/us/pl/91/614/s102/b/1], Dec. 31, 1970, [84 Stat. 1840][/us/stat/84/1840]; [Pub. L. 94–455, title XX, § 2008(a)(2)(B)][/us/pl/94/455/s2008/a/2/B], Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891]; [Pub. L. 97–34, title IV, § 442(b)(1)][/us/pl/97/34/s442/b/1], Aug. 13, 1981, [95 Stat. 322][/us/stat/95/322].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 406][/us/stat/68A/406]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 102(b)(1), Dec. 31, 1970, [84 Stat. 1840][/us/stat/84/1840]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2008(a)(2)(B), Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 442(b)(1), Aug. 13, 1981, [95 Stat. 322][/us/stat/95/322].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F406
-[/us/pl/91/614/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fb%2F1
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1840
-[/us/pl/94/455/s2008/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2008%2Fa%2F2%2FB
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1891
-[/us/pl/97/34/s442/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs442%2Fb%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F322
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

@@ -53,17 +53,17 @@
 
             For provisions excluding certain de minimis fringes from gross income, see section 132(e).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 24][/us/stat/68A/24]; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 122(a)(1), 123(b)(1), Oct. 22, 1986, [100 Stat. 2109][/us/stat/100/2109], 2113.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 24][/us/stat/68A/24]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], §§ 122(a)(1), 123(b)(1), Oct. 22, 1986, [100 Stat. 2109][/us/stat/100/2109], 2113.)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 123(b)(1)][/us/pl/99/514/s123/b/1], which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 123(b)(1), which directed that subsec. (a) be amended by substituting “(relating to qualified scholarships)” for “(relating to scholarship and fellowship grants)”, was executed by making the substitution for “(relating to scholarships and fellowship grants)” to reflect the probable intent of Congress.
 
-    [Pub. L. 99–514, § 122(a)(1)(A)][/us/pl/99/514/s122/a/1/A], substituted “Except as otherwise provided in this section or” for “Except as provided in subsection (b) and”.
+    [Pub. L. 99–514][/us/pl/99/514], § 122(a)(1)(A), substituted “Except as otherwise provided in this section or” for “Except as provided in subsection (b) and”.
 
-    Subsec. (b). [Pub. L. 99–514, § 122(a)(1)(B)][/us/pl/99/514/s122/a/1/B], (C), inserted “for certain prizes and awards transferred to charities” in heading and added par. (3).
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 122(a)(1)(B), (C), inserted “for certain prizes and awards transferred to charities” in heading and added par. (3).
 
-    Subsec. (c). [Pub. L. 99–514, § 122(a)(1)(D)][/us/pl/99/514/s122/a/1/D], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 122(a)(1)(D), added subsec. (c).
 
  __Effective Date of 1986 Amendment__ 
 
@@ -84,12 +84,12 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F24
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2109
-[/us/pl/99/514/s123/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs123%2Fb%2F1
-[/us/pl/99/514/s122/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F1%2FA
-[/us/pl/99/514/s122/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F1%2FB
-[/us/pl/99/514/s122/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F1%2FD
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F1
 [/us/pl/99/514/s151/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fc
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

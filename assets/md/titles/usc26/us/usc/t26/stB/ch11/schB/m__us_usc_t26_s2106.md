@@ -71,7 +71,7 @@
 
         No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 398][/us/stat/68A/398]; [Pub. L. 85–866, title I, § 30(d)][/us/pl/85/866/s30/d], Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631]; [Pub. L. 86–779, § 4(c)][/us/pl/86/779/s4/c], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I, § 108(e)][/us/pl/89/809/s108/e], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title II, § 201(d)(2)][/us/pl/91/172/s201/d/2], (4)(B), Dec. 30, 1969, [83 Stat. 561][/us/stat/83/561]; [Pub. L. 94–455, title XIII, § 1307(d)(1)(B)(iii)][/us/pl/94/455/s1307/d/1/B/iii], (C), title XIX, § 1902(a)(5), (12)(A), title XX, §  2001(c)(1)(F), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1805, 1852; [Pub. L. 97–473, title II, § 202(b)(6)][/us/pl/97/473/s202/b/6], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 99–514, title XIV, § 1422(c)][/us/pl/99/514/s1422/c], Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717]; [Pub. L. 100–203, title X, § 10711(a)(4)][/us/pl/100/203/s10711/a/4], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title V, § 5033(c)][/us/pl/100/647/s5033/c], Nov. 10, 1988, [102 Stat. 3672][/us/stat/102/3672]; [Pub. L. 101–239, title VII, § 7815(d)(3)][/us/pl/101/239/s7815/d/3], Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 107–16, title V, § 532(c)(8)][/us/pl/107/16/s532/c/8], June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(ii)][/us/pl/113/295/s221/a/95/A/ii], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 398][/us/stat/68A/398]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 30(d), Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631]; [Pub. L. 86–779][/us/pl/86/779], § 4(c), Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(e), Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 201(d)(2), (4)(B), Dec. 30, 1969, [83 Stat. 561][/us/stat/83/561]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(d)(1)(B)(iii), (C), title XIX, § 1902(a)(5), (12)(A), title XX, §  2001(c)(1)(F), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1805, 1852; [Pub. L. 97–473, title II][/us/pl/97/473/tII], § 202(b)(6), Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1422(c), Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10711(a)(4), Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5033(c), Nov. 10, 1988, [102 Stat. 3672][/us/stat/102/3672]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(d)(3), Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(8), June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(95)(A)(ii), Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __Amendments__ 
 
@@ -89,21 +89,21 @@
 
     1983—Subsec. (a)(2)(F). [Pub. L. 97–473][/us/pl/97/473] substituted “(i)” and “(ii)” for “(1)” and “(2)”, respectively, and added cl. (iii).
 
-    1976—Subsec. (a)(2)(A)(i). [Pub. L. 94–455, § 1902(a)(12)(A)][/us/pl/94/455/s1902/a/12/A], struck out “Territory” after “any State”.
+    1976—Subsec. (a)(2)(A)(i). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(12)(A), struck out “Territory” after “any State”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 94–455, § 1307(d)(1)(B)(iii)][/us/pl/94/455/s1307/d/1/B/iii], substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 94–455][/us/pl/94/455], § 1307(d)(1)(B)(iii), substituted “which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation” after “stockholder or individual”.
 
-    Subsec. (a)(2)(A)(iii). [Pub. L. 94–455, § 1307(d)(1)(C)][/us/pl/94/455/s1307/d/1/C], substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation” after “children or animals”.
+    Subsec. (a)(2)(A)(iii). [Pub. L. 94–455][/us/pl/94/455], § 1307(d)(1)(C), substituted “such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation” for “no substantial part of the activities of such trustee or trustees, or of such fraternal society, order, or association, is carrying on propaganda, or otherwise attempting, to influence legislation” after “children or animals”.
 
-    Subsec. (a)(2)(F). [Pub. L. 94–455, § 1902(a)(5)(A)][/us/pl/94/455/s1902/a/5/A], substituted “Cross references” for “Other cross references” after “(F)”, in cl. (1) “purposes of deduction under this section” for “purpose of deduction under this paragraph” after “valuation for”, in cl. (2) provision for exemption of certain bequests for benefit of United States and for rules of construction for certain bequests, for provisions of cls. (2) to (11) relating to bequests to; Library of Congress, Post Office Department, Office of Naval Records and Library, National Park Service, Department of State, Department of Justice, payment of tax on bequests of United States obligations, Naval Academy, Naval Academy Museum, and National Archives Trust Fund Board, respectively.
+    Subsec. (a)(2)(F). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(5)(A), substituted “Cross references” for “Other cross references” after “(F)”, in cl. (1) “purposes of deduction under this section” for “purpose of deduction under this paragraph” after “valuation for”, in cl. (2) provision for exemption of certain bequests for benefit of United States and for rules of construction for certain bequests, for provisions of cls. (2) to (11) relating to bequests to; Library of Congress, Post Office Department, Office of Naval Records and Library, National Park Service, Department of State, Department of Justice, payment of tax on bequests of United States obligations, Naval Academy, Naval Academy Museum, and National Archives Trust Fund Board, respectively.
 
-    Subsec. (a)(3). [Pub. L. 94–455, § 2001(c)(1)(F)][/us/pl/94/455/s2001/c/1/F], struck out par. (3) relating to specific exemption in case of decedents nonresidents not citizens.
+    Subsec. (a)(3). [Pub. L. 94–455][/us/pl/94/455], § 2001(c)(1)(F), struck out par. (3) relating to specific exemption in case of decedents nonresidents not citizens.
 
-    Subsec. (c). [Pub. L. 94–455, § 1902(a)(5)(B)][/us/pl/94/455/s1902/a/5/B], struck out subsec. (c) relating to treatment of United States bonds in determining gross estate of a decedent who was not engaged in business in the United States at the time of his death.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(5)(B), struck out subsec. (c) relating to treatment of United States bonds in determining gross estate of a decedent who was not engaged in business in the United States at the time of his death.
 
-    1969—Subsec. (a)(2)(A)(ii), (iii). [Pub. L. 91–172, § 201(d)(4)(B)][/us/pl/91/172/s201/d/4/B], inserted non-participation and non-intervention in political campaigns as an additional qualification.
+    1969—Subsec. (a)(2)(A)(ii), (iii). [Pub. L. 91–172][/us/pl/91/172], § 201(d)(4)(B), inserted non-participation and non-intervention in political campaigns as an additional qualification.
 
-    Subsec. (a)(2)(E). [Pub. L. 91–172, § 201(d)(2)][/us/pl/91/172/s201/d/2], substituted substantive provisions for simple reference to sections 503 and 681 of this title in which such substantive provisions were formerly set out.
+    Subsec. (a)(2)(E). [Pub. L. 91–172][/us/pl/91/172], § 201(d)(2), substituted substantive provisions for simple reference to sections 503 and 681 of this title in which such substantive provisions were formerly set out.
 
     1966—Subsec. (a)(3). [Pub. L. 89–809][/us/pl/89/809] substituted “$30,000” for “$2,000” as size of exemption in subpar. (A) and “$30,000” for “$2,000” as item (i) in formula set out in subpar. (B).
 
@@ -157,7 +157,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–779, § 4(e)(2)][/us/pl/86/779/s4/e/2], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000], provided that: 
+[Pub. L. 86–779][/us/pl/86/779], § 4(e)(2), Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000], provided that: 
 
 > “The amendments made by subsections (b) and (c) \[enacting [section 2209 of this title][/us/usc/t26/s2209] and amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
@@ -174,29 +174,29 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F398
-[/us/pl/85/866/s30/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fd
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1631
-[/us/pl/86/779/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs4%2Fc
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1000
-[/us/pl/89/809/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fe
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1572
-[/us/pl/91/172/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fd%2F2
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F561
-[/us/pl/94/455/s1307/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F1%2FB%2Fiii
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1727
-[/us/pl/97/473/s202/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs202%2Fb%2F6
+[/us/pl/97/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtII
 [/us/stat/96/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2610
-[/us/pl/99/514/s1422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1422%2Fc
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2717
-[/us/pl/100/203/s10711/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10711%2Fa%2F4
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-464
-[/us/pl/100/647/s5033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033%2Fc
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3672
-[/us/pl/101/239/s7815/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fd%2F3
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
-[/us/pl/107/16/s532/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F8
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
-[/us/pl/113/295/s221/a/95/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FA%2Fii
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
@@ -205,14 +205,14 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473
-[/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
-[/us/pl/94/455/s1307/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F1%2FB%2Fiii
-[/us/pl/94/455/s1307/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F1%2FC
-[/us/pl/94/455/s1902/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F5%2FA
-[/us/pl/94/455/s2001/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FF
-[/us/pl/94/455/s1902/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F5%2FB
-[/us/pl/91/172/s201/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fd%2F4%2FB
-[/us/pl/91/172/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fd%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
@@ -253,7 +253,7 @@
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809/s108/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fi
 [/us/usc/t26/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2101
-[/us/pl/86/779/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs4%2Fe%2F2
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1000
 [/us/usc/t26/s2209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2209
 [/us/pl/100/647/s5033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5033

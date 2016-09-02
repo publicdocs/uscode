@@ -127,7 +127,7 @@
 
             For purposes of this section, the term “international communications income” includes all income derived from the transmission of communications or data from the United States to any foreign country (or possession of the United States) or from any foreign country (or possession of the United States) to the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 277][/us/stat/68A/277]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], 1799, 1834; [Pub. L. 98–369, div. A, title I, § 124(a)][/us/pl/98/369/s124/a], July 18, 1984, [98 Stat. 646][/us/stat/98/646]; [Pub. L. 99–514, title XII][/us/pl/99/514], §§ 1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], 2539, 2540; [Pub. L. 100–647, title I, § 1012(e)(3)(A)][/us/pl/100/647/s1012/e/3/A], (f), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII, § 7811(i)(2)][/us/pl/101/239/s7811/i/2], Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409]; [Pub. L. 105–34, title XI, § 1174(a)(2)][/us/pl/105/34/s1174/a/2], Aug. 5, 1997, [111 Stat. 989][/us/stat/111/989].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 277][/us/stat/68A/277]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], 1799, 1834; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 124(a), July 18, 1984, [98 Stat. 646][/us/stat/98/646]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], §§ 1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536], 2539, 2540; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(e)(3)(A), (f), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(2), Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1174(a)(2), Aug. 5, 1997, [111 Stat. 989][/us/stat/111/989].)
 
  __Amendments__ 
 
@@ -135,21 +135,21 @@
 
     1989—Subsec. (b)(2), (3). [Pub. L. 101–239][/us/pl/101/239] substituted “865(i)(1)” for “865(h)(1)”.
 
-    1988—[Pub. L. 100–647, § 1012(e)(3)(A)][/us/pl/100/647/s1012/e/3/A], substituted “Special rules for determining source” for “Item not specified in section 861 or 862” in section catchline.
+    1988—[Pub. L. 100–647][/us/pl/100/647], § 1012(e)(3)(A), substituted “Special rules for determining source” for “Item not specified in section 861 or 862” in section catchline.
 
-    Subsec. (e)(2). [Pub. L. 100–647, § 1012(f)][/us/pl/100/647/s1012/f], substituted “foreign country (or possession of the United States)” for “foreign country” in two places.
+    Subsec. (e)(2). [Pub. L. 100–647][/us/pl/100/647], § 1012(f), substituted “foreign country (or possession of the United States)” for “foreign country” in two places.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1212(e)][/us/pl/99/514/s1212/e], substituted “services” for “transportation or other services”.
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1212(e), substituted “services” for “transportation or other services”.
 
-    Subsec. (b)(2), (3). [Pub. L. 99–514, § 1211(b)(1)(A)][/us/pl/99/514/s1211/b/1/A], substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
+    Subsec. (b)(2), (3). [Pub. L. 99–514][/us/pl/99/514], § 1211(b)(1)(A), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
 
-    Subsec. (c)(2). [Pub. L. 99–514, § 1212(a)][/us/pl/99/514/s1212/a], amended par. (2) generally, in subpar. (A) substituting provisions relating to other transportation having United States connections for provisions relating to transportation between United States and any possession, and in subpar. (B) substituting provisions relating to special rule for personal service income for provisions relating to special rule for certain lessors of aircraft.
+    Subsec. (c)(2). [Pub. L. 99–514][/us/pl/99/514], § 1212(a), amended par. (2) generally, in subpar. (A) substituting provisions relating to other transportation having United States connections for provisions relating to transportation between United States and any possession, and in subpar. (B) substituting provisions relating to special rule for personal service income for provisions relating to special rule for certain lessors of aircraft.
 
-    Subsecs. (d), (e). [Pub. L. 99–514, § 1213(a)][/us/pl/99/514/s1213/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 99–514][/us/pl/99/514], § 1213(a), added subsecs. (d) and (e).
 
     1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369] added subsec. (c).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(26)(C), (D), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” in introductory provisions, and inserted “or exchange” after “sale” in pars. (2) and (3), and “or exchanged” after “sold” in par. (2) wherever appearing.
 
@@ -169,7 +169,7 @@
 
     Amendment by [section 1211(b)(1)(A) of Pub. L. 99–514][/us/pl/99/514/s1211/b/1/A] applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see [section 1211(c) of Pub. L. 99–514][/us/pl/99/514/s1211/c], set out as an Effective Date note under [section 865 of this title][/us/usc/t26/s865].
 
-[Pub. L. 99–514, title XII, § 1212(f)][/us/pl/99/514/s1212/f], Oct. 22, 1986, [100 Stat. 2539][/us/stat/100/2539], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1212(f), Oct. 22, 1986, [100 Stat. 2539][/us/stat/100/2539], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -257,13 +257,13 @@
 
 >         </table>
 
-[Pub. L. 99–514, title XII, § 1213(b)][/us/pl/99/514/s1213/b], Oct. 22, 1986, [100 Stat. 2541][/us/stat/100/2541], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1213(b), Oct. 22, 1986, [100 Stat. 2541][/us/stat/100/2541], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 124(b)][/us/pl/98/369/s124/b], July 18, 1984, [98 Stat. 647][/us/stat/98/647], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 124(b), July 18, 1984, [98 Stat. 647][/us/stat/98/647], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to transportation beginning after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
@@ -296,28 +296,28 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F277
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1798
-[/us/pl/98/369/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs124%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F646
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2536
-[/us/pl/100/647/s1012/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F3%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3500
-[/us/pl/101/239/s7811/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2409
-[/us/pl/105/34/s1174/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1174%2Fa%2F2
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F989
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1012/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F3%2FA
-[/us/pl/100/647/s1012/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ff
-[/us/pl/99/514/s1212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fe
-[/us/pl/99/514/s1211/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fb%2F1%2FA
-[/us/pl/99/514/s1212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fa
-[/us/pl/99/514/s1213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1213%2Fa
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1174/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1174%2Fc
@@ -333,13 +333,13 @@
 [/us/pl/99/514/s1211/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fb%2F1%2FA
 [/us/pl/99/514/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1211%2Fc
 [/us/usc/t26/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs865
-[/us/pl/99/514/s1212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Ff
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2539
 [/us/usc/t26/s887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs887
 [/us/usc/t26/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861
-[/us/pl/99/514/s1213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1213%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2541
-[/us/pl/98/369/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs124%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F647
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

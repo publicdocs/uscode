@@ -97,7 +97,7 @@
 
             If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 415][/us/stat/68A/415]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 205A, [68 Stat. 1093][/us/stat/68/1093]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 201(h)(3), [70 Stat. 841][/us/stat/70/841]; [Pub. L. 89–97, title III, § 313(c)(1)][/us/pl/89/97/s313/c/1], (2), July 30, 1965, [79 Stat. 382][/us/stat/79/382], 383; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–216, title III, § 355(a)][/us/pl/95/216/s355/a], (b), Dec. 20, 1977, [91 Stat. 1555][/us/stat/91/1555]; [Pub. L. 101–508, title V, § 5124(a)][/us/pl/101/508/s5124/a], Nov. 5, 1990, [104 Stat. 1388–284][/us/stat/104/1388-284]; [Pub. L. 103–296, title III, § 319(a)(3)][/us/pl/103/296/s319/a/3], Aug. 15, 1994, [108 Stat. 1534][/us/stat/108/1534]; [Pub. L. 103–387, § 2(a)(1)(D)][/us/pl/103/387/s2/a/1/D], Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072]; [Pub. L. 108–203, title IV, § 424(b)][/us/pl/108/203/s424/b], Mar. 2, 2004, [118 Stat. 536][/us/stat/118/536]; [Pub. L. 111–148, title IX, § 9015(a)(2)][/us/pl/111/148/s9015/a/2], Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 415][/us/stat/68A/415]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 205A, [68 Stat. 1093][/us/stat/68/1093]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 201(h)(3), [70 Stat. 841][/us/stat/70/841]; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 313(c)(1), (2), July 30, 1965, [79 Stat. 382][/us/stat/79/382], 383; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 355(a), (b), Dec. 20, 1977, [91 Stat. 1555][/us/stat/91/1555]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5124(a), Nov. 5, 1990, [104 Stat. 1388–284][/us/stat/104/1388-284]; [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 319(a)(3), Aug. 15, 1994, [108 Stat. 1534][/us/stat/108/1534]; [Pub. L. 103–387][/us/pl/103/387], § 2(a)(1)(D), Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072]; [Pub. L. 108–203, title IV][/us/pl/108/203/tIV], § 424(b), Mar. 2, 2004, [118 Stat. 536][/us/stat/118/536]; [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9015(a)(2), Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871].)
 
  __Amendments__ 
 
@@ -111,19 +111,19 @@
 
     1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] added subsec. (d).
 
-    1977—Subsec. (a). [Pub. L. 95–216, § 355(a)][/us/pl/95/216/s355/a], substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
+    1977—Subsec. (a). [Pub. L. 95–216][/us/pl/95/216], § 355(a), substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
 
-    Subsec. (c)(1), (2). [Pub. L. 95–216, § 355(b)(1)][/us/pl/95/216/s355/b/1], substituted “year” for “quarter” wherever appearing.
+    Subsec. (c)(1), (2). [Pub. L. 95–216][/us/pl/95/216], § 355(b)(1), substituted “year” for “quarter” wherever appearing.
 
-    Subsec. (c)(3)(A). [Pub. L. 95–216, § 355(b)(2)(A)][/us/pl/95/216/s355/b/2/A], substituted “in any calendar year” for “in any quarter of the calendar year”.
+    Subsec. (c)(3)(A). [Pub. L. 95–216][/us/pl/95/216], § 355(b)(2)(A), substituted “in any calendar year” for “in any quarter of the calendar year”.
 
-    Subsec. (c)(3)(B), (C). [Pub. L. 95–216, § 355(b)(2)(B)][/us/pl/95/216/s355/b/2/B], substituted “year” for “quarter” wherever appearing.
+    Subsec. (c)(3)(B), (C). [Pub. L. 95–216][/us/pl/95/216], § 355(b)(2)(B), substituted “year” for “quarter” wherever appearing.
 
     1976—Subsec. (c)(3). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1965—Subsec. (a). [Pub. L. 89–97, § 313(c)(2)][/us/pl/89/97/s313/c/2], inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
+    1965—Subsec. (a). [Pub. L. 89–97][/us/pl/89/97], § 313(c)(2), inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
 
-    Subsec. (c). [Pub. L. 89–97, § 313(c)(1)][/us/pl/89/97/s313/c/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 89–97][/us/pl/89/97], § 313(c)(1), added subsec. (c).
 
     1956—Subsec. (a). Act Aug. 1, 1956, substituted “$150 and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” for “$100”.
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1994 Amendments__ 
 
-[Pub. L. 103–387, § 2(a)(3)][/us/pl/103/387/s2/a/3], Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072], provided that:
+[Pub. L. 103–387][/us/pl/103/387], § 2(a)(3), Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -149,13 +149,13 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title V, § 5124(c)][/us/pl/101/508/s5124/c], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285], provided that: 
+[Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5124(c), Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3202 of this title][/us/usc/t26/s3202]\] shall apply to coverage provided after December 31, 1990.”
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–216, title III, § 355(c)][/us/pl/95/216/s355/c], Dec. 20, 1977, [91 Stat. 1555][/us/stat/91/1555], provided that: 
+[Pub. L. 95–216, title III][/us/pl/95/216/tIII], § 355(c), Dec. 20, 1977, [91 Stat. 1555][/us/stat/91/1555], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to remuneration paid and to tips received after December 31, 1977.”
 
@@ -165,7 +165,7 @@
 
  __No Loss of Social Security Coverage for 1994; Continuation of W–2 Filing Requirement__ 
 
-[Pub. L. 103–387, § 2(a)(4)][/us/pl/103/387/s2/a/4], Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072], provided that: 
+[Pub. L. 103–387][/us/pl/103/387], § 2(a)(4), Oct. 22, 1994, [108 Stat. 4072][/us/stat/108/4072], provided that: 
 
 > “Notwithstanding the amendments made by this subsection \[amending this section, [section 3121 of this title][/us/usc/t26/s3121], and sections 409 and 410 of Title 42, The Public Health and Welfare\], if the wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) paid during 1994 to an employee for domestic service in a private home of the employer are less than $1,000—
 
@@ -186,38 +186,38 @@
 [/us/stat/68/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1093
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F841
-[/us/pl/89/97/s313/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fc%2F1
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F382
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/216/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fa
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1555
-[/us/pl/101/508/s5124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5124%2Fa
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-284
-[/us/pl/103/296/s319/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs319%2Fa%2F3
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1534
-[/us/pl/103/387/s2/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs2%2Fa%2F1%2FD
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4072
-[/us/pl/108/203/s424/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs424%2Fb
+[/us/pl/108/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2FtIV
 [/us/stat/118/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F536
-[/us/pl/111/148/s9015/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9015%2Fa%2F2
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F871
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/95/216/s355/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fa
-[/us/pl/95/216/s355/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fb%2F1
-[/us/pl/95/216/s355/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fb%2F2%2FA
-[/us/pl/95/216/s355/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fb%2F2%2FB
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
+[/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/89/97/s313/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fc%2F2
-[/us/pl/89/97/s313/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fc%2F1
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/148/s9015/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9015%2Fc
 [/us/usc/t26/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs164
-[/us/pl/103/387/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs2%2Fa%2F3
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4072
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
@@ -225,15 +225,15 @@
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs319%2Fc
 [/us/usc/t26/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1402
-[/us/pl/101/508/s5124/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5124%2Fc
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-285
 [/us/usc/t26/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3202
-[/us/pl/95/216/s355/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs355%2Fc
+[/us/pl/95/216/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIII
 [/us/stat/91/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1555
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97/s313/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Ff
 [/us/usc/t26/s6053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6053
-[/us/pl/103/387/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs2%2Fa%2F4
+[/us/pl/103/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387
 [/us/stat/108/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4072
 [/us/usc/t26/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409

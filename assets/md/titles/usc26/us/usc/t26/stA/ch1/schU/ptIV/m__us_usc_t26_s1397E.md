@@ -111,7 +111,7 @@
 
             (B) __Eligible local education agency__ 
 
-                The term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+                The term “eligible local education agency” means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.
 
         (5) __Qualified purpose__ 
 
@@ -223,7 +223,7 @@
 
         This section shall not apply to any obligation issued after the date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008.
 
-(Added [Pub. L. 105–34, title II, § 226(a)][/us/pl/105/34/s226/a], Aug. 5, 1997, [111 Stat. 821][/us/stat/111/821]; amended [Pub. L. 105–206, title VI, § 6004(g)(2)][/us/pl/105/206/s6004/g/2]–(4), July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 106–78, title VII, § 752(b)(11)][/us/pl/106/78/s752/b/11], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 106–170, title V, § 509][/us/pl/106/170/s509], Dec. 17, 1999, [113 Stat. 1924][/us/stat/113/1924]; [Pub. L. 107–110, title X, § 1076(t)][/us/pl/107/110/s1076/t], Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092]; [Pub. L. 107–147, title VI, § 608(a)][/us/pl/107/147/s608/a], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III, § 304(a)][/us/pl/108/311/s304/a], title IV, § 406(c), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], 1189; [Pub. L. 109–58, title XIII, § 1303(c)(2)][/us/pl/109/58/s1303/c/2], (3), Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; [Pub. L. 109–432, div. A, title I, § 107(a)][/us/pl/109/432/s107/a], (b)(1), Dec. 20, 2006, [120 Stat. 2938][/us/stat/120/2938]; [Pub. L. 110–234, title XV, § 15316(c)(2)][/us/pl/110/234/s15316/c/2], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–343, div. C, title III, § 313(b)(3)][/us/pl/110/343/s313/b/3], Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872]; [Pub. L. 111–5, div. B, title I, § 1531(c)(3)][/us/pl/111/5/s1531/c/3], Feb. 17, 2009, [123 Stat. 360][/us/stat/123/360].)
+(Added [Pub. L. 105–34, title II][/us/pl/105/34/tII], § 226(a), Aug. 5, 1997, [111 Stat. 821][/us/stat/111/821]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6004(g)(2)–(4), July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(11), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 509, Dec. 17, 1999, [113 Stat. 1924][/us/stat/113/1924]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(t), Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092]; [Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 608(a), Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 304(a), title IV, § 406(c), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], 1189; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1303(c)(2), (3), Aug. 8, 2005, [119 Stat. 997][/us/stat/119/997]; [Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 107(a), (b)(1), Dec. 20, 2006, [120 Stat. 2938][/us/stat/120/2938]; [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15316(c)(2), May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15316(c)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 313(b)(3), Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1531(c)(3), Feb. 17, 2009, [123 Stat. 360][/us/stat/123/360]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(uu)(3), Dec. 10, 2015, [129 Stat. 2183][/us/stat/129/2183].)
 
  __References in Text__ 
 
@@ -231,7 +231,7 @@
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(4)(A)(iv)(II), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+    Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to [section 7801 of Title 20][/us/usc/t20/s7801], Education.
 
     The date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008, referred to in subsec. (m), is the date of enactment of div. C of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
 
@@ -241,25 +241,27 @@
 
  __Amendments__ 
 
+    2015—Subsec. (d)(4)(B). [Pub. L. 114–95][/us/pl/114/95] substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965”.
+
     2009—Subsec. (c)(2). [Pub. L. 111–5][/us/pl/111/5] substituted “, I, and J” for “and I”.
 
-    2008—Subsec. (c)(2). [Pub. L. 110–246, § 15316(c)(2)][/us/pl/110/246/s15316/c/2], substituted “subparts H and I” for “subpart H”.
+    2008—Subsec. (c)(2). [Pub. L. 110–246][/us/pl/110/246], § 15316(c)(2), substituted “subparts H and I” for “subpart H”.
 
     Subsec. (m). [Pub. L. 110–343][/us/pl/110/343] added subsec. (m).
 
-    2006—Subsec. (d)(1)(E). [Pub. L. 109–432, § 107(b)(1)(A)][/us/pl/109/432/s107/b/1/A], added subpar. (E).
+    2006—Subsec. (d)(1)(E). [Pub. L. 109–432][/us/pl/109/432], § 107(b)(1)(A), added subpar. (E).
 
-    Subsec. (e)(1). [Pub. L. 109–432, § 107(a)][/us/pl/109/432/s107/a], substituted “2005, 2006, and 2007” for “and 2005”.
+    Subsec. (e)(1). [Pub. L. 109–432][/us/pl/109/432], § 107(a), substituted “2005, 2006, and 2007” for “and 2005”.
 
-    Subsecs. (f) to (l). [Pub. L. 109–432, § 107(b)(1)(B)][/us/pl/109/432/s107/b/1/B], added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (l), respectively.
+    Subsecs. (f) to (l). [Pub. L. 109–432][/us/pl/109/432], § 107(b)(1)(B), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (l), respectively.
 
-    2005—Subsec. (c)(2). [Pub. L. 109–58, § 1303(c)(2)][/us/pl/109/58/s1303/c/2], inserted “, and subpart H thereof” after “refundable credits”.
+    2005—Subsec. (c)(2). [Pub. L. 109–58][/us/pl/109/58], § 1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
 
-    Subsec. (h). [Pub. L. 109–58, § 1303(c)(3)][/us/pl/109/58/s1303/c/3], amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.”
+    Subsec. (h). [Pub. L. 109–58][/us/pl/109/58], § 1303(c)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.”
 
-    2004—Subsec. (e)(1). [Pub. L. 108–311, § 304(a)][/us/pl/108/311/s304/a], substituted “2003, 2004, and 2005” for “and 2003”.
+    2004—Subsec. (e)(1). [Pub. L. 108–311][/us/pl/108/311], § 304(a), substituted “2003, 2004, and 2005” for “and 2003”.
 
-    Subsec. (i). [Pub. L. 108–311, § 406(c)][/us/pl/108/311/s406/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 108–311][/us/pl/108/311], § 406(c), added subsec. (i).
 
     2002—Subsec. (d)(4)(B). [Pub. L. 107–110][/us/pl/107/110] substituted “9101” for “14101”.
 
@@ -267,15 +269,19 @@
 
     1999—Subsec. (d)(4)(A)(iv)(II). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-    Subsec. (e)(1). [Pub. L. 106–170, § 509(a)][/us/pl/106/170/s509/a], substituted “, 1999, 2000, and 2001” for “and 1999”.
+    Subsec. (e)(1). [Pub. L. 106–170][/us/pl/106/170], § 509(a), substituted “, 1999, 2000, and 2001” for “and 1999”.
 
-    Subsec. (e)(4). [Pub. L. 106–170, § 509(b)][/us/pl/106/170/s509/b], inserted at end “Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.”
+    Subsec. (e)(4). [Pub. L. 106–170][/us/pl/106/170], § 509(b), inserted at end “Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.”
 
-    1998—Subsec. (d)(4)(B). [Pub. L. 105–206, § 6004(g)(2)][/us/pl/105/206/s6004/g/2], substituted “local educational agency as defined” for “local education agency as defined”.
+    1998—Subsec. (d)(4)(B). [Pub. L. 105–206][/us/pl/105/206], § 6004(g)(2), substituted “local educational agency as defined” for “local education agency as defined”.
 
-    Subsec. (g). [Pub. L. 105–206, § 6004(g)(4)][/us/pl/105/206/s6004/g/4], inserted “(determined without regard to subsection (c))” after “section”.
+    Subsec. (g). [Pub. L. 105–206][/us/pl/105/206], § 6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
 
-    Subsec. (h). [Pub. L. 105–206, § 6004(g)(3)][/us/pl/105/206/s6004/g/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–206][/us/pl/105/206], § 6004(g)(3), added subsec. (h).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -291,7 +297,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title I, § 107(c)][/us/pl/109/432/s107/c], Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], provided that:
+[Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 107(c), Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], provided that:
 
 >     “(1)  __Extension__  __.—__ 
 
@@ -307,7 +313,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–311, title III, § 304(b)][/us/pl/108/311/s304/b], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], provided that: 
+[Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 304(b), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2003.”
 
@@ -315,7 +321,7 @@
 
  __Effective Date of 2002 Amendments__ 
 
-[Pub. L. 107–147, title VI, § 608(b)][/us/pl/107/147/s608/b], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60], provided that: 
+[Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 608(b), Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Mar. 9, 2002\].”
 
@@ -327,7 +333,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–34, title II, § 226(c)][/us/pl/105/34/s226/c], Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], provided that: 
+[Pub. L. 105–34, title II][/us/pl/105/34/tII], § 226(c), Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering section 1397D as [section 1397F of this title][/us/usc/t26/s1397F]\] shall apply to obligations issued after December 31, 1997.”
 
@@ -338,32 +344,34 @@
 ----------
 ----------
 
-[/us/pl/105/34/s226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs226%2Fa
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F821
-[/us/pl/105/206/s6004/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fg%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F796
-[/us/pl/106/78/s752/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F11
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
-[/us/pl/106/170/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs509
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1924
-[/us/pl/107/110/s1076/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Ft
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2092
-[/us/pl/107/147/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs608%2Fa
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F60
-[/us/pl/108/311/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs304%2Fa
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1179
-[/us/pl/109/58/s1303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1303%2Fc%2F2
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F997
-[/us/pl/109/432/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fa
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2938
-[/us/pl/110/234/s15316/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15316%2Fc%2F2
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1511
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/343/s313/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fb%2F3
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3872
-[/us/pl/111/5/s1531/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fc%2F3
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F360
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2183
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
@@ -374,24 +382,28 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/246/s15316/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fc%2F2
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/109/432/s107/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fb%2F1%2FA
-[/us/pl/109/432/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fa
-[/us/pl/109/432/s107/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fb%2F1%2FB
-[/us/pl/109/58/s1303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1303%2Fc%2F2
-[/us/pl/109/58/s1303/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1303%2Fc%2F3
-[/us/pl/108/311/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs304%2Fa
-[/us/pl/108/311/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fc
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
-[/us/pl/106/170/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs509%2Fa
-[/us/pl/106/170/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs509%2Fb
-[/us/pl/105/206/s6004/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fg%2F2
-[/us/pl/105/206/s6004/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fg%2F4
-[/us/pl/105/206/s6004/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fg%2F3
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fe
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
@@ -406,18 +418,18 @@
 [/us/pl/110/246/s15316/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fc%2F2
 [/us/pl/110/246/s15316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fd
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/109/432/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fc
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2939
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s1303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1303%2Fe
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/108/311/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs304%2Fb
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1179
 [/us/pl/108/311/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fc
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/108/311/s406/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fh
 [/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
-[/us/pl/107/147/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs608%2Fb
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F60
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
@@ -426,7 +438,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs226%2Fc
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F824
 [/us/usc/t26/s1397F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397F
 

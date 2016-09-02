@@ -79,7 +79,7 @@
 
         To the extent provided by regulations prescribed by the Secretary, any transfer of the property which secures the indebtedness to a person other than the lender shall be treated as an abandonment of such property.
 
-(Added [Pub. L. 98–369, div. A, title I, § 148(a)][/us/pl/98/369/s148/a], July 18, 1984, [98 Stat. 687][/us/stat/98/687]; amended [Pub. L. 104–168, title XII, § 1201(a)(10)][/us/pl/104/168/s1201/a/10], July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 148(a), July 18, 1984, [98 Stat. 687][/us/stat/98/687]; amended [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(10), July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 148(d)][/us/pl/98/369/s148/d], July 18, 1984, [98 Stat. 689][/us/stat/98/689], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 148(d), July 18, 1984, [98 Stat. 689][/us/stat/98/689], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to acquisitions of property and abandonments of property after December 31, 1984.”
 
@@ -102,15 +102,15 @@
 ----------
 ----------
 
-[/us/pl/98/369/s148/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs148%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F687
-[/us/pl/104/168/s1201/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F10
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1470
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fb
 [/us/usc/t26/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6041
-[/us/pl/98/369/s148/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs148%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F689
 
 

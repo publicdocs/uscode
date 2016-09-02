@@ -45,13 +45,13 @@
 
             (B) the retiring or deceased partner was a general partner in the partnership.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 248][/us/stat/68A/248]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title VII, § 701(u)(13)(B)][/us/pl/95/600/s701/u/13/B], Nov. 6, 1978, [92 Stat. 2918][/us/stat/92/2918]; [Pub. L. 103–66, title XIII, § 13262(a)][/us/pl/103/66/s13262/a], (b)(2)(B), Aug. 10, 1993, [107 Stat. 541][/us/stat/107/541].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 248][/us/stat/68A/248]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(u)(13)(B), Nov. 6, 1978, [92 Stat. 2918][/us/stat/92/2918]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13262(a), (b)(2)(B), Aug. 10, 1993, [107 Stat. 541][/us/stat/107/541].)
 
  __Amendments__ 
 
-    1993—Subsec. (b)(3). [Pub. L. 103–66, § 13262(a)][/us/pl/103/66/s13262/a], added par. (3).
+    1993—Subsec. (b)(3). [Pub. L. 103–66][/us/pl/103/66], § 13262(a), added par. (3).
 
-    Subsec. (c). [Pub. L. 103–66, § 13262(b)(2)(B)][/us/pl/103/66/s13262/b/2/B], struck out heading and text of subsec. (c). Text read as follows: “For limitation on the tax attributable to certain gain connected with section 1248 stock, see section 751(e).”
+    Subsec. (c). [Pub. L. 103–66][/us/pl/103/66], § 13262(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “For limitation on the tax attributable to certain gain connected with section 1248 stock, see section 751(e).”
 
     1978—Subsec. (c). [Pub. L. 95–600][/us/pl/95/600] added subsec. (c).
 
@@ -59,7 +59,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13262(c)][/us/pl/103/66/s13262/c], Aug. 10, 1993, [107 Stat. 541][/us/stat/107/541], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13262(c), Aug. 10, 1993, [107 Stat. 541][/us/stat/107/541], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -82,17 +82,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F248
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s701/u/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F13%2FB
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2918
-[/us/pl/103/66/s13262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13262%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F541
-[/us/pl/103/66/s13262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13262%2Fa
-[/us/pl/103/66/s13262/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13262%2Fb%2F2%2FB
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/103/66/s13262/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13262%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F541
 [/us/usc/t26/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs751
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

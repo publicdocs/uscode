@@ -59,7 +59,7 @@
 
         Subsection (a) shall not apply to the amount of any qualified Indian health care benefit which is not includible in gross income of the beneficiary of such benefit under any other provision of this chapter, or to the amount of any such benefit for which a deduction is allowed to such beneficiary under any other provision of this chapter.
 
-(Added [Pub. L. 111–148, title IX, § 9021(a)][/us/pl/111/148/s9021/a], Mar. 23, 2010, [124 Stat. 873][/us/stat/124/873].)
+(Added [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9021(a), Mar. 23, 2010, [124 Stat. 873][/us/stat/124/873].)
 
  __References in Text__ 
 
@@ -67,17 +67,17 @@
 
  __Codification__ 
 
-    Another section 139D, added [Pub. L. 111–148, title X, § 10108(f)(1)][/us/pl/111/148/s10108/f/1], Mar. 23, 2010, [124 Stat. 913][/us/stat/124/913], related to free choice vouchers, prior to repeal by [Pub. L. 112–10, div. B, title VIII, § 1858(b)(2)(A)][/us/pl/112/10/s1858/b/2/A], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], effective as if included in the provisions of, and the amendments made by, the provisions of [Pub. L. 111–148][/us/pl/111/148] to which it relates, see [section 1858(d) of Pub. L. 112–10][/us/pl/112/10/s1858/d], set out as an Effective Date of 2011 Amendment note under [section 36B of this title][/us/usc/t26/s36B].
+    Another section 139D, added [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(f)(1), Mar. 23, 2010, [124 Stat. 913][/us/stat/124/913], related to free choice vouchers, prior to repeal by [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(b)(2)(A), Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], effective as if included in the provisions of, and the amendments made by, the provisions of [Pub. L. 111–148][/us/pl/111/148] to which it relates, see [section 1858(d) of Pub. L. 112–10][/us/pl/112/10/s1858/d], set out as an Effective Date of 2011 Amendment note under [section 36B of this title][/us/usc/t26/s36B].
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title IX, § 9021(c)][/us/pl/111/148/s9021/c], Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9021(c), Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to benefits and coverage provided after the date of the enactment of this Act \[Mar. 23, 2010\].”
 
  __No Inference With Respect to Exclusion From Gross Income of Certain Benefits__ 
 
-[Pub. L. 111–148, title IX, § 9021(d)][/us/pl/111/148/s9021/d], Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9021(d), Mar. 23, 2010, [124 Stat. 874][/us/stat/124/874], provided that: 
 
 > “Nothing in the amendments made by this section \[enacting this section\] shall be construed to create an inference with respect to the exclusion from gross income of—
 
@@ -92,18 +92,18 @@
 ----------
 ----------
 
-[/us/pl/111/148/s9021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9021%2Fa
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F873
-[/us/pl/111/148/s10108/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Ff%2F1
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F913
-[/us/pl/112/10/s1858/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F2%2FA
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s9021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9021%2Fc
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F874
-[/us/pl/111/148/s9021/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9021%2Fd
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F874
 
 

@@ -49,7 +49,7 @@ Amendments  </td>
 
 </table>
 
-    1998—[Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747], added part analysis.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3401(b), July 22, 1998, [112 Stat. 747][/us/stat/112/747], added part analysis.
 
 ----------
 
@@ -58,7 +58,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/105/206/s3401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3401%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F747
 
 

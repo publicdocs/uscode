@@ -119,55 +119,55 @@
 
             In a proceeding under subsection (b) involving the issue of whether an amount assessed or demanded as a result of action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances, the Secretary shall provide a written statement which contains any information with respect to which his determination of the amount assessed was based, but the burden of proof in respect of such issue shall be upon the taxpayer.
 
-(Added [Pub. L. 94–455, title XII, § 1204(a)][/us/pl/94/455/s1204/a], Oct. 4, 1976, [90 Stat. 1695][/us/stat/90/1695]; amended [Pub. L. 98–369, div. A, title IV, § 446(a)][/us/pl/98/369/s446/a], July 18, 1984, [98 Stat. 817][/us/stat/98/817]; [Pub. L. 100–203, title X, § 10713(b)(2)(F)][/us/pl/100/203/s10713/b/2/F], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title VI, § 6237(a)][/us/pl/100/647/s6237/a]–(e)(3), Nov. 10, 1988, [102 Stat. 3741–3743][/us/stat/102/3741-3743]; [Pub. L. 105–206, title III, § 3434(a)][/us/pl/105/206/s3434/a], July 22, 1998, [112 Stat. 760][/us/stat/112/760].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(a), Oct. 4, 1976, [90 Stat. 1695][/us/stat/90/1695]; amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 446(a), July 18, 1984, [98 Stat. 817][/us/stat/98/817]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(b)(2)(F), Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6237(a)–(e)(3), Nov. 10, 1988, [102 Stat. 3741–3743][/us/stat/102/3741-3743]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3434(a), July 22, 1998, [112 Stat. 760][/us/stat/112/760].)
 
  __Amendments__ 
 
     1998—Subsec. (a)(1). [Pub. L. 105–206][/us/pl/105/206] substituted “Administrative review” for “Information to taxpayer” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy.”
 
-    1988—[Pub. L. 100–647, § 6237(e)(3)][/us/pl/100/647/s6237/e/3], inserted “levy or” after “jeopardy” in section catchline.
+    1988—[Pub. L. 100–647][/us/pl/100/647], § 6237(e)(3), inserted “levy or” after “jeopardy” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 100–647, § 6237(a)][/us/pl/100/647/s6237/a], inserted “or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a),” after “6862,” and “or levy” after “such assessment”.
+    Subsec. (a)(1). [Pub. L. 100–647][/us/pl/100/647], § 6237(a), inserted “or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a),” after “6862,” and “or levy” after “such assessment”.
 
-    Subsec. (a)(3). [Pub. L. 100–647, § 6237(b)][/us/pl/100/647/s6237/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “After a request for review is made under paragraph (2), the Secretary shall determine whether or not—
+    Subsec. (a)(3). [Pub. L. 100–647][/us/pl/100/647], § 6237(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “After a request for review is made under paragraph (2), the Secretary shall determine whether or not—
 
     “(A) the making of the assessment under section 6851, 6852, 6861, or 6862, as the case may be, is reasonable under the circumstances, and
 
     “(B) the amount so assessed or demanded as a result of the action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances.”
 
-    Subsec. (b). [Pub. L. 100–647, § 6237(c)][/us/pl/100/647/s6237/c], amended subsec. (b) generally, substituting provisions of pars. (1) to (4) for provisions of former pars. (1) to (3) relating to actions permitted, determination by district court, and order of district court.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 6237(c), amended subsec. (b) generally, substituting provisions of pars. (1) to (4) for provisions of former pars. (1) to (3) relating to actions permitted, determination by district court, and order of district court.
 
-    Subsec. (c). [Pub. L. 100–647, § 6237(e)(1)][/us/pl/100/647/s6237/e/1], struck out “district” before “court”.
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 6237(e)(1), struck out “district” before “court”.
 
-    Subsec. (e). [Pub. L. 100–647, § 6237(d)][/us/pl/100/647/s6237/d], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A civil action under subsection (b) shall be commenced only in the judicial district described in section 1402(a)(1) or (2) of title 28, United States Code.”
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 6237(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A civil action under subsection (b) shall be commenced only in the judicial district described in section 1402(a)(1) or (2) of title 28, United States Code.”
 
-    Subsec. (f). [Pub. L. 100–647, § 6237(e)(1)][/us/pl/100/647/s6237/e/1], struck out “district” after “made by a”.
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 6237(e)(1), struck out “district” after “made by a”.
 
-    Subsec. (g)(1). [Pub. L. 100–647, § 6237(e)(2)][/us/pl/100/647/s6237/e/2], in heading substituted “levy, termination,” for “termination” and in text substituted “a proceeding” for “an action” and inserted “the making of a levy described in subsection (a)(1) or” after “whether”.
+    Subsec. (g)(1). [Pub. L. 100–647][/us/pl/100/647], § 6237(e)(2), in heading substituted “levy, termination,” for “termination” and in text substituted “a proceeding” for “an action” and inserted “the making of a levy described in subsection (a)(1) or” after “whether”.
 
-    Subsec. (g)(2). [Pub. L. 100–647, § 6237(e)(2)(C)][/us/pl/100/647/s6237/e/2/C], substituted “a proceeding” for “an action”.
+    Subsec. (g)(2). [Pub. L. 100–647][/us/pl/100/647], § 6237(e)(2)(C), substituted “a proceeding” for “an action”.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–203, § 10713(b)(2)(F)(i)][/us/pl/100/203/s10713/b/2/F/i], substituted “6851(a), 6852(a)” for “6851(a),”.
+    1987—Subsec. (a)(1). [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(F)(i), substituted “6851(a), 6852(a)” for “6851(a),”.
 
-    Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). [Pub. L. 100–203, § 10713(b)(2)(F)(ii)][/us/pl/100/203/s10713/b/2/F/ii], substituted “6851, 6852,” for “6851,” wherever appearing.
+    Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). [Pub. L. 100–203][/us/pl/100/203], § 10713(b)(2)(F)(ii), substituted “6851, 6852,” for “6851,” wherever appearing.
 
     1984—Subsec. (b)(2). [Pub. L. 98–369][/us/pl/98/369] inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3434(b)][/us/pl/105/206/s3434/b], July 22, 1998, [112 Stat. 760][/us/stat/112/760], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3434(b), July 22, 1998, [112 Stat. 760][/us/stat/112/760], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxes assessed and levies made after the date of the enactment of this Act \[July 22, 1998\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6237(f)][/us/pl/100/647/s6237/f], Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6237(f), Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to jeopardy levies issued and assessments made on or after July 1, 1989.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 446(b)][/us/pl/98/369/s446/b], July 18, 1984, [98 Stat. 817][/us/stat/98/817], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 446(b), July 18, 1984, [98 Stat. 817][/us/stat/98/817], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to actions commenced after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -182,34 +182,34 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fa
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1695
-[/us/pl/98/369/s446/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs446%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F817
-[/us/pl/100/203/s10713/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FF
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-470
-[/us/pl/100/647/s6237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3741-3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3741-3743
-[/us/pl/105/206/s3434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3434%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F760
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/100/647/s6237/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fe%2F3
-[/us/pl/100/647/s6237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fa
-[/us/pl/100/647/s6237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fb
-[/us/pl/100/647/s6237/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fc
-[/us/pl/100/647/s6237/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fe%2F1
-[/us/pl/100/647/s6237/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fd
-[/us/pl/100/647/s6237/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fe%2F1
-[/us/pl/100/647/s6237/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fe%2F2
-[/us/pl/100/647/s6237/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Fe%2F2%2FC
-[/us/pl/100/203/s10713/b/2/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FF%2Fi
-[/us/pl/100/203/s10713/b/2/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FF%2Fii
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/105/206/s3434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3434%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F760
-[/us/pl/100/647/s6237/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6237%2Ff
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3743
-[/us/pl/98/369/s446/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs446%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F817
 [/us/pl/94/455/s1204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fd
 [/us/usc/t26/s6851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6851

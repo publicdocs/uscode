@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–406, title II, § 1031(a)][/us/pl/93/406/s1031/a], Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943], added subpart heading and analysis of sections.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1031(a), Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943], added subpart heading and analysis of sections.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1031%2Fa
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F943
 
 

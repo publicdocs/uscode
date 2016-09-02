@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_stC_ch25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
+[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3451...3456.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
 
 ## § 3406. Backup withholding
 
@@ -427,7 +427,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 98–67, title I, § 104(a)][/us/pl/98/67/s104/a], Aug. 5, 1983, [97 Stat. 371][/us/stat/97/371]; amended [Pub. L. 98–369, div. A, title I, § 152(a)][/us/pl/98/369/s152/a], title VII, § 722(h)(1), (2), July 18, 1984, [98 Stat. 691][/us/stat/98/691], 975; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1521(b), 1523(b)(1), title XVIII, § 1899A(46), Oct. 22, 1986, [100 Stat. 2746][/us/stat/100/2746], 2748, 2961; [Pub. L. 100–647, title I, § 1018(u)(44)][/us/pl/100/647/s1018/u/44], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 102–486, title XIX, § 1935(a)][/us/pl/102/486/s1935/a], Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032]; [Pub. L. 107–16, title I, § 101(c)(10)][/us/pl/107/16/s101/c/10], June 7, 2001, [115 Stat. 44][/us/stat/115/44]; [Pub. L. 110–289, div. C, title III, § 3091(c)][/us/pl/110/289/s3091/c], July 30, 2008, [122 Stat. 2911][/us/stat/122/2911].)
+(Added [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 104(a), Aug. 5, 1983, [97 Stat. 371][/us/stat/97/371]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 152(a), title VII, § 722(h)(1), (2), July 18, 1984, [98 Stat. 691][/us/stat/98/691], 975; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], §§ 1521(b), 1523(b)(1), title XVIII, § 1899A(46), Oct. 22, 1986, [100 Stat. 2746][/us/stat/100/2746], 2748, 2961; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(44), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1935(a), Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032]; [Pub. L. 107–16, title I][/us/pl/107/16/tI], § 101(c)(10), June 7, 2001, [115 Stat. 44][/us/stat/115/44]; [Pub. L. 110–289, div. C, title III][/us/pl/110/289/dC/tIII], § 3091(c), July 30, 2008, [122 Stat. 2911][/us/stat/122/2911].)
 
  __Amendments__ 
 
@@ -439,23 +439,23 @@
 
     1988—Subsec. (h)(5)(D). [Pub. L. 100–647][/us/pl/100/647] inserted period at end of subpar. (D).
 
-    1986—Subsec. (b)(3)(E). [Pub. L. 99–514, § 1523(b)(1)][/us/pl/99/514/s1523/b/1], added subpar. (E).
+    1986—Subsec. (b)(3)(E). [Pub. L. 99–514][/us/pl/99/514], § 1523(b)(1), added subpar. (E).
 
-    Subsec. (b)(6). [Pub. L. 99–514, § 1899A(46)][/us/pl/99/514/s1899A/46], substituted “6041A(a)” for “6041(A)(a)” in heading.
+    Subsec. (b)(6). [Pub. L. 99–514][/us/pl/99/514], § 1899A(46), substituted “6041A(a)” for “6041(A)(a)” in heading.
 
-    Subsec. (h)(5)(D). [Pub. L. 99–514, § 1521(b)][/us/pl/99/514/s1521/b], added subpar. (D).
+    Subsec. (h)(5)(D). [Pub. L. 99–514][/us/pl/99/514], § 1521(b), added subpar. (D).
 
-    1984—Subsec. (c)(1). [Pub. L. 98–369, § 722(h)(2)][/us/pl/98/369/s722/h/2], substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
+    1984—Subsec. (c)(1). [Pub. L. 98–369][/us/pl/98/369], § 722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
 
-    Subsec. (d)(2)(A). [Pub. L. 98–369, § 722(h)(1)(A)][/us/pl/98/369/s722/h/1/A], inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
+    Subsec. (d)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
-    Subsec. (d)(2)(B). [Pub. L. 98–369, § 722(h)(1)(B)][/us/pl/98/369/s722/h/1/B], in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
+    Subsec. (d)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
 
-    Subsec. (e)(1). [Pub. L. 98–369, § 152(a)][/us/pl/98/369/s152/a], inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
+    Subsec. (e)(1). [Pub. L. 98–369][/us/pl/98/369], § 152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–289, div. C, title III, § 3091(e)][/us/pl/110/289/s3091/e], July 30, 2008, [122 Stat. 2911][/us/stat/122/2911], provided that:
+[Pub. L. 110–289, div. C, title III][/us/pl/110/289/dC/tIII], § 3091(e), July 30, 2008, [122 Stat. 2911][/us/stat/122/2911], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -481,7 +481,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1935(b)][/us/pl/102/486/s1935/b], Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1935(b), Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1992.”
 
@@ -497,7 +497,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 152(b)][/us/pl/98/369/s152/b], July 18, 1984, [98 Stat. 691][/us/stat/98/691], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 152(b), July 18, 1984, [98 Stat. 691][/us/stat/98/691], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -511,87 +511,39 @@
 
     For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§ 1101–1147 and 1171–1177\] or title XVIII \[§§ 1800–1899A\] of [Pub. L. 99–514][/us/pl/99/514] require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see [section 1140 of Pub. L. 99–514][/us/pl/99/514/s1140], as amended, set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
-\[§§ 3451 to 3456. __Repealed.__  __[__  __Pub. L. 98–67, title I, § 102(a)__  __][/us/pl/98/67/s102/a]__  __,__  __Aug. 5, 1983__  __,__  __[__  __97 Stat. 369__  __][/us/stat/97/369]__  __\]__ 
-
-    Section 3451, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 576][/us/stat/96/576], set forth withholding requirements respecting income tax collected at source on interest, dividends, and patronage dividends.
-
-    Section 3452, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 577][/us/stat/96/577], related to exemptions from withholding requirements.
-
-    Section 3453, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 579][/us/stat/96/579]; [Pub. L. 97–354, § 3(i)(1)][/us/pl/97/354/s3/i/1], Oct. 19, 1982, [96 Stat. 1690][/us/stat/96/1690], defined “payor”.
-
-    Section 3454, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 580][/us/stat/96/580]; [Pub. L. 97–354, § 3(i)(2)][/us/pl/97/354/s3/i/2], (3), Oct. 19, 1982, [96 Stat. 1690][/us/stat/96/1690]; [Pub. L. 97–424, title V, § 547(b)(3)][/us/pl/97/424/s547/b/3], Jan. 6, 1983, [96 Stat. 2200][/us/stat/96/2200], defined the terms “interest”, “dividend”, and “patronage dividend”.
-
-    Section 3455, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 583][/us/stat/96/583], set forth definitions and other special rules.
-
-    Section 3456, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 585][/us/stat/96/585], set forth administrative provisions.
-
- __Effective Dates; Special Rules__ 
-
-    [Pub. L. 97–248, title III, § 308][/us/pl/97/248/s308], Sept. 3, 1982, [96 Stat. 591][/us/stat/96/591], which provided that the amendments made by sections 301 to 308 \[enacting subchapter B (§§ 3451–3456) of chapter 24 of this title and amending sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title\] would apply to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, provided for the delay in applications for payors unable to comply with the requirements of such provisions without undue hardship, provided a temporary rule for certain withholding exemptions, and provided for delays in making deposits, was repealed by [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369].
-
- __Repeal of Withholding on Interest and Dividends__ 
-
-[Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a]–(d), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
-
->     “(a)  __In General__  __.—__ 
-
->     Subtitle A of title III of the Tax Equity and Fiscal Responsibility Act of 1982 (relating to withholding of tax from interest and dividends) \[subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248], which enacted this section and sections 3452 to 3456 of this title, amended sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title and enacted provisions set out as a note above\] is hereby repealed as of the close of June 30, 1983.
-
->     “(b)  __Conforming Amendment__  __.—__ 
-
->     Except as provided in this section, the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
-
->     “(c)  __Repeal Not To Apply to Amounts Deducted and Withheld Before September__  __2, 1983.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         If, notwithstanding the repeal made by subsection (a) (and the provisions of subsection (b)), an amount is deducted and withheld before September 2, 1983, under subchapter B of chapter 24 of the Internal Revenue Code of 1986 (as in effect before its repeal by subsection (a)), the repeal made by subsection (a) (and the provisions of subsection (b)) shall not apply to the amount so deducted and withheld.
-
->         “(2)  __Election to have paragraph (1) not apply__  __.—__ 
-
->         Paragraph (1) shall not apply with respect to any payor who elects (at the time and in the manner prescribed by the Secretary of the Treasury or his delegate) to have paragraph (1) not apply.
-
->     “(d)  __Estimated Tax Payments__  __.—__ 
-
->     For purposes of determining the amount of any addition to tax under section 6654 of the Internal Revenue Code of 1986 with respect to any installment required to be paid before July 1, 1983, the amount of the credit allowed by section 31 of such Code for any taxable year which includes any portion of the period beginning July 1, 1983, and ending December 31, 1983, shall be increased by an amount equal to 10 percent of the aggregate amount of payments—
-
->         “(1) which are received during the portion of such taxable year after June 30, 1983, and before January 1, 1984, and
-
->         “(2) which (but for the repeal made by subsection (a)) would have been subject to withholding under subchapter B of chapter 24 of such Code (determined without regard to any exemption described in section 3452 of such subchapter B).”
-
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_stC_ch25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
+[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3451...3456.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
 
 ----------
 ----------
 
-[/us/pl/98/67/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs104%2Fa
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F371
-[/us/pl/98/369/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs152%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F691
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2746
-[/us/pl/100/647/s1018/u/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F44
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
-[/us/pl/102/486/s1935/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1935%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3032
-[/us/pl/107/16/s101/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs101%2Fc%2F10
+[/us/pl/107/16/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtI
 [/us/stat/115/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F44
-[/us/pl/110/289/s3091/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3091%2Fc
+[/us/pl/110/289/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtIII
 [/us/stat/122/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2911
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1523%2Fb%2F1
-[/us/pl/99/514/s1899A/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F46
-[/us/pl/99/514/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1521%2Fb
-[/us/pl/98/369/s722/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fh%2F2
-[/us/pl/98/369/s722/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fh%2F1%2FA
-[/us/pl/98/369/s722/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fh%2F1%2FB
-[/us/pl/98/369/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs152%2Fa
-[/us/pl/110/289/s3091/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3091%2Fe
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/110/289/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtIII
 [/us/stat/122/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2911
 [/us/usc/t26/s6050W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050W
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
@@ -599,7 +551,7 @@
 [/us/usc/t26/s1/i/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1%2Fi%2F1%2FD
 [/us/pl/107/16/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs101%2Fd%2F2
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/102/486/s1935/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1935%2Fb
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3032
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -611,7 +563,7 @@
 [/us/pl/99/514/s1523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1523%2Fb%2F1
 [/us/pl/99/514/s1523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1523%2Fd
 [/us/usc/t26/s6050N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050N
-[/us/pl/98/369/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs152%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F691
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
@@ -622,34 +574,5 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
-[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F576
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F577
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F579
-[/us/pl/97/354/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fi%2F1
-[/us/stat/96/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1690
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F580
-[/us/pl/97/354/s3/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fi%2F2
-[/us/stat/96/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1690
-[/us/pl/97/424/s547/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs547%2Fb%2F3
-[/us/stat/96/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2200
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F583
-[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
-[/us/stat/96/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F585
-[/us/pl/97/248/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs308
-[/us/stat/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F591
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
-[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
-[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
-[/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 
 

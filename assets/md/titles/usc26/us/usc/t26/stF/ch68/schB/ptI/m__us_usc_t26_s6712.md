@@ -27,7 +27,7 @@
 
         The penalty imposed by this section shall be in addition to any other penalty imposed by law.
 
-(Added [Pub. L. 100–647, title I, § 1012(aa)(5)(B)][/us/pl/100/647/s1012/aa/5/B], Nov. 10, 1988, [102 Stat. 3532][/us/stat/102/3532].)
+(Added [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(aa)(5)(B), Nov. 10, 1988, [102 Stat. 3532][/us/stat/102/3532].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/647/s1012/aa/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Faa%2F5%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3532
 [/us/usc/t26/s6713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6713
 [/us/pl/100/647/s1012/aa/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Faa%2F5%2FD

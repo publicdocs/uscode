@@ -75,11 +75,11 @@
 
         Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
 
-(Added [Pub. L. 107–134, title I, § 111(a)][/us/pl/107/134/s111/a], Jan. 23, 2002, [115 Stat. 2432][/us/stat/115/2432]; amended [Pub. L. 109–7, § 1(a)][/us/pl/109/7/s1/a], Apr. 15, 2005, [119 Stat. 21][/us/stat/119/21]; [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(iv)][/us/pl/110/343/s706/a/2/D/iv], Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922].)
+(Added [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 111(a), Jan. 23, 2002, [115 Stat. 2432][/us/stat/115/2432]; amended [Pub. L. 109–7][/us/pl/109/7], § 1(a), Apr. 15, 2005, [119 Stat. 21][/us/stat/119/21]; [Pub. L. 110–343, div. C, title VII][/us/pl/110/343/dC/tVII], § 706(a)(2)(D)(iv), Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922].)
 
  __References in Text__ 
 
-    Par. (3) of section 165(h), referred to in subsec. (c)(2), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
+    Par. (3) of section 165(h), referred to in subsec. (c)(2), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(27)(A), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
 
     Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is [section 406 of Pub. L. 107–42][/us/pl/107/42/s406], which is set out as a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
 
@@ -97,11 +97,11 @@
 
     2008—Subsec. (c)(2). [Pub. L. 110–343][/us/pl/110/343] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a Presidentially declared disaster (as defined in section 1033(h)(3)),”.
 
-    2005—Subsec. (d). [Pub. L. 109–7, § 1(a)(2)(A)][/us/pl/109/7/s1/a/2/A], substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
+    2005—Subsec. (d). [Pub. L. 109–7][/us/pl/109/7], § 1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
 
-    Subsec. (e). [Pub. L. 109–7, § 1(a)(2)(B)][/us/pl/109/7/s1/a/2/B], substituted “, (f), and (g)” for “and (f)”.
+    Subsec. (e). [Pub. L. 109–7][/us/pl/109/7], § 1(a)(2)(B), substituted “, (f), and (g)” for “and (f)”.
 
-    Subsecs. (g), (h). [Pub. L. 109–7, § 1(a)(1)][/us/pl/109/7/s1/a/1], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 109–7][/us/pl/109/7], § 1(a)(1), added subsecs. (g) and (h).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -109,13 +109,13 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–7, § 1(c)(1)][/us/pl/109/7/s1/c/1], Apr. 15, 2005, [119 Stat. 22][/us/stat/119/22], provided that: 
+[Pub. L. 109–7][/us/pl/109/7], § 1(c)(1), Apr. 15, 2005, [119 Stat. 22][/us/stat/119/22], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to amounts received before, on, or after the date of the enactment of this Act \[Apr. 15, 2005\].”
 
  __Effective Date__ 
 
-[Pub. L. 107–134, title I, § 111(c)][/us/pl/107/134/s111/c], Jan. 23, 2002, [115 Stat. 2433][/us/stat/115/2433], provided that: 
+[Pub. L. 107–134, title I][/us/pl/107/134/tI], § 111(c), Jan. 23, 2002, [115 Stat. 2433][/us/stat/115/2433], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering former section 139 as [section 140 of this title][/us/usc/t26/s140]\] shall apply to taxable years ending on or after September 11, 2001.”
 
@@ -126,13 +126,13 @@
 ----------
 ----------
 
-[/us/pl/107/134/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs111%2Fa
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2432
-[/us/pl/109/7/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7%2Fs1%2Fa
+[/us/pl/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7
 [/us/stat/119/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F21
-[/us/pl/110/343/s706/a/2/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fiv
+[/us/pl/110/343/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVII
 [/us/stat/122/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3922
-[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/107/42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs406
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
@@ -145,15 +145,15 @@
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/109/7/s1/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7%2Fs1%2Fa%2F2%2FA
-[/us/pl/109/7/s1/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7%2Fs1%2Fa%2F2%2FB
-[/us/pl/109/7/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7%2Fs1%2Fa%2F1
+[/us/pl/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7
+[/us/pl/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7
+[/us/pl/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s706/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fd%2F1
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/109/7/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7%2Fs1%2Fc%2F1
+[/us/pl/109/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F7
 [/us/stat/119/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F22
-[/us/pl/107/134/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs111%2Fc
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2433
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 

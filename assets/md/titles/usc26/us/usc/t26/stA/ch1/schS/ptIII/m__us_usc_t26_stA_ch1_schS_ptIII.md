@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–188, title I, § 1311(b)(2)(D)][/us/pl/104/188/s1311/b/2/D], Aug. 20, 1996, [110 Stat. 1784][/us/stat/110/1784], substituted “accumulated” for “subchapter C” in item 1375.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1311(b)(2)(D), Aug. 20, 1996, [110 Stat. 1784][/us/stat/110/1784], substituted “accumulated” for “subchapter C” in item 1375.
 
-    1986—[Pub. L. 99–514, title VI, § 632(d)][/us/pl/99/514/s632/d], Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], substituted “built-in” for “capital” in item 1374.
+    1986—[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 632(d), Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], substituted “built-in” for “capital” in item 1374.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1311/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1311%2Fb%2F2%2FD
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1784
-[/us/pl/99/514/s632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs632%2Fd
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2277
 
 

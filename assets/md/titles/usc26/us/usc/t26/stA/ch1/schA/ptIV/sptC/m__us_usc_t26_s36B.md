@@ -491,7 +491,7 @@
 
         (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended [Pub. L. 111–148, title I, § 1401(a)][/us/pl/111/148/s1401/a], title X, §§ 10105(a)–(c), 10108(h)(1), Mar. 23, 2010, [124 Stat. 213][/us/stat/124/213], 906, 914; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, [124 Stat. 1030][/us/stat/124/1030], 1034, 1035; [Pub. L. 111–309, title II, § 208(a)][/us/pl/111/309/s208/a], (b), Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291], 3292; [Pub. L. 112–9, § 4(a)][/us/pl/112/9/s4/a], Apr. 14, 2011, [125 Stat. 36][/us/stat/125/36]; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(1)][/us/pl/112/10/s1858/b/1], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168]; [Pub. L. 112–56, title IV, § 401(a)][/us/pl/112/56/s401/a], Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734].)
+(Added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1401(a), title X, §§ 10105(a)–(c), 10108(h)(1), Mar. 23, 2010, [124 Stat. 213][/us/stat/124/213], 906, 914; [Pub. L. 111–152, title I][/us/pl/111/152/tI], §§ 1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, [124 Stat. 1030][/us/stat/124/1030], 1034, 1035; [Pub. L. 111–309, title II][/us/pl/111/309/tII], § 208(a), (b), Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291], 3292; [Pub. L. 112–9][/us/pl/112/9], § 4(a), Apr. 14, 2011, [125 Stat. 36][/us/stat/125/36]; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(b)(1), Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168]; [Pub. L. 112–56, title IV][/us/pl/112/56/tIV], § 401(a), Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -515,31 +515,31 @@
 
     Subsec. (f)(2)(B)(i). [Pub. L. 112–9][/us/pl/112/9] amended cl. (i) generally. Prior to amendment, cl. (i) consisted of text and a table limiting increase in amount recovered on reconciliation of health insurance tax credit and advance of that credit for households with income below 500 percent of Federal poverty line.
 
-    2010—Subsec. (b)(3)(A)(i). [Pub. L. 111–152, § 1001(a)(1)(A)][/us/pl/111/152/s1001/a/1/A], substituted “for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:” for “with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—” in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
+    2010—Subsec. (b)(3)(A)(i). [Pub. L. 111–152][/us/pl/111/152], § 1001(a)(1)(A), substituted “for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:” for “with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—” in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
 
     “(I) the taxpayer’s household income for the taxable year in excess of 100 percent of the poverty line for a family of the size involved, bears to
 
     “(II) an amount equal to 200 percent of the poverty line for a family of the size involved.”
 
-    Subsec. (b)(3)(A)(ii). [Pub. L. 111–152, § 1001(a)(1)(B)][/us/pl/111/152/s1001/a/1/B], added cl. (ii) and struck out former cl. (ii). Text read as follows: “If a taxpayer’s household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer’s applicable percentage shall be 2 percent.”
+    Subsec. (b)(3)(A)(ii). [Pub. L. 111–152][/us/pl/111/152], § 1001(a)(1)(B), added cl. (ii) and struck out former cl. (ii). Text read as follows: “If a taxpayer’s household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer’s applicable percentage shall be 2 percent.”
 
-    [Pub. L. 111–148, § 10105(a)][/us/pl/111/148/s10105/a], substituted “equals or exceeds” for “is in excess of”.
+    [Pub. L. 111–148][/us/pl/111/148], § 10105(a), substituted “equals or exceeds” for “is in excess of”.
 
-    Subsec. (b)(3)(A)(iii). [Pub. L. 111–152, § 1001(a)(1)(B)][/us/pl/111/152/s1001/a/1/B], struck out cl. (iii). Text read as follows: “In the case of taxable years beginning in any calendar year after 2014, the Secretary shall adjust the initial and final applicable percentages under clause (i), and the 2 percent under clause (ii), for the calendar year to reflect the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.”
+    Subsec. (b)(3)(A)(iii). [Pub. L. 111–152][/us/pl/111/152], § 1001(a)(1)(B), struck out cl. (iii). Text read as follows: “In the case of taxable years beginning in any calendar year after 2014, the Secretary shall adjust the initial and final applicable percentages under clause (i), and the 2 percent under clause (ii), for the calendar year to reflect the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.”
 
-    Subsec. (c)(1)(A). [Pub. L. 111–148, § 10105(b)][/us/pl/111/148/s10105/b], inserted “equals or” before “exceeds”.
+    Subsec. (c)(1)(A). [Pub. L. 111–148][/us/pl/111/148], § 10105(b), inserted “equals or” before “exceeds”.
 
-    Subsec. (c)(2)(C)(i)(II). [Pub. L. 111–152, § 1001(a)(2)(A)][/us/pl/111/152/s1001/a/2/A], substituted “9.5 percent” for “9.8 percent”.
+    Subsec. (c)(2)(C)(i)(II). [Pub. L. 111–152][/us/pl/111/152], § 1001(a)(2)(A), substituted “9.5 percent” for “9.8 percent”.
 
-    Subsec. (c)(2)(C)(iv). [Pub. L. 111–152, § 1001(a)(2)][/us/pl/111/152/s1001/a/2], substituted “9.5 percent” for “9.8 percent” and “(b)(3)(A)(ii)” for “(b)(3)(A)(iii)”.
+    Subsec. (c)(2)(C)(iv). [Pub. L. 111–152][/us/pl/111/152], § 1001(a)(2), substituted “9.5 percent” for “9.8 percent” and “(b)(3)(A)(ii)” for “(b)(3)(A)(iii)”.
 
-    [Pub. L. 111–148, § 10105(c)][/us/pl/111/148/s10105/c], substituted “subsection (b)(3)(A)(iii)” for “subsection (b)(3)(A)(ii)”.
+    [Pub. L. 111–148][/us/pl/111/148], § 10105(c), substituted “subsection (b)(3)(A)(iii)” for “subsection (b)(3)(A)(ii)”.
 
-    Subsec. (c)(2)(D). [Pub. L. 111–148, § 10108(h)(1)][/us/pl/111/148/s10108/h/1], added subpar. (D).
+    Subsec. (c)(2)(D). [Pub. L. 111–148][/us/pl/111/148], § 10108(h)(1), added subpar. (D).
 
-    Subsec. (d)(2)(A)(i), (ii). [Pub. L. 111–152, § 1004(a)(1)(A)][/us/pl/111/152/s1004/a/1/A], substituted “modified adjusted gross” for “modified gross”.
+    Subsec. (d)(2)(A)(i), (ii). [Pub. L. 111–152][/us/pl/111/152], § 1004(a)(1)(A), substituted “modified adjusted gross” for “modified gross”.
 
-    Subsec. (d)(2)(B). [Pub. L. 111–152, § 1004(a)(2)(A)][/us/pl/111/152/s1004/a/2/A], amended subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
+    Subsec. (d)(2)(B). [Pub. L. 111–152][/us/pl/111/152], § 1004(a)(2)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
 
     “(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
 
@@ -547,45 +547,45 @@
 
     “(iii) determined without regard to sections 911, 931, and 933.”
 
-    Subsec. (f)(2)(B). [Pub. L. 111–309, § 208(a)][/us/pl/111/309/s208/a], amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: “In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year).”
+    Subsec. (f)(2)(B). [Pub. L. 111–309][/us/pl/111/309], § 208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: “In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year).”
 
-    Subsec. (f)(2)(B)(ii). [Pub. L. 111–309, § 208(b)][/us/pl/111/309/s208/b], inserted “in the table contained” after “each of the dollar amounts” in introductory provisions.
+    Subsec. (f)(2)(B)(ii). [Pub. L. 111–309][/us/pl/111/309], § 208(b), inserted “in the table contained” after “each of the dollar amounts” in introductory provisions.
 
-    Subsec. (f)(3). [Pub. L. 111–152, § 1004(c)][/us/pl/111/152/s1004/c], added par. (3).
+    Subsec. (f)(3). [Pub. L. 111–152][/us/pl/111/152], § 1004(c), added par. (3).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–56, title IV, § 401(b)][/us/pl/112/56/s401/b], Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734], provided that: 
+[Pub. L. 112–56, title IV][/us/pl/112/56/tIV], § 401(b), Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 21, 2011\].”
 
-[Pub. L. 112–10, div. B, title VIII, § 1858(d)][/us/pl/112/10/s1858/d], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169], provided that: 
+[Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(d), Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 162, 4980H, and 6056 of this title, and [section 218b of Title 29][/us/usc/t29/s218b], Labor, and repealing [section 139D of this title][/us/usc/t26/s139D] and [section 18101 of Title 42][/us/usc/t42/s18101], The Public Health and Welfare\] shall take effect as if included in the provisions of, and the amendments made by, the provisions of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\] to which they relate.”
 
-[Pub. L. 112–9, § 4(b)][/us/pl/112/9/s4/b], Apr. 14, 2011, [125 Stat. 37][/us/stat/125/37], provided that: 
+[Pub. L. 112–9][/us/pl/112/9], § 4(b), Apr. 14, 2011, [125 Stat. 37][/us/stat/125/37], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 2013.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–309, title II, § 208(c)][/us/pl/111/309/s208/c], Dec. 15, 2010, [124 Stat. 3292][/us/stat/124/3292], provided that: 
+[Pub. L. 111–309, title II][/us/pl/111/309/tII], § 208(c), Dec. 15, 2010, [124 Stat. 3292][/us/stat/124/3292], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
-[Pub. L. 111–148, title X, § 10108(h)(2)][/us/pl/111/148/s10108/h/2], Mar. 23, 2010, [124 Stat. 914][/us/stat/124/914], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(h)(2), Mar. 23, 2010, [124 Stat. 914][/us/stat/124/914], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1401(e)][/us/pl/111/148/s1401/e], Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1401(e), Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 280C and 6211 of this title and [section 1324 of Title 31][/us/usc/t31/s1324], Money and Finance\] shall apply to taxable years ending after December 31, 2013.”
 
  __No Impact on Social Security Trust Funds__ 
 
-[Pub. L. 112–56, title IV, § 401(c)][/us/pl/112/56/s401/c], Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734], provided that:
+[Pub. L. 112–56, title IV][/us/pl/112/56/tIV], § 401(c), Nov. 21, 2011, [125 Stat. 734][/us/stat/125/734], provided that:
 
 >     “(1)  __Estimate of secretary__  __.—__ 
 
@@ -603,17 +603,17 @@
 ----------
 
 [/us/usc/t42/s1397jj/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397jj%2Fc%2F5
-[/us/pl/111/148/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F213
-[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1030
-[/us/pl/111/309/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs208%2Fa
+[/us/pl/111/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2FtII
 [/us/stat/124/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3291
-[/us/pl/112/9/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F9%2Fs4%2Fa
+[/us/pl/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F9
 [/us/stat/125/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F36
-[/us/pl/112/10/s1858/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F1
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
-[/us/pl/112/56/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs401%2Fa
+[/us/pl/112/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtIV
 [/us/stat/125/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F734
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/148/s1311/d/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1311%2Fd%2F2%2FB%2Fii
@@ -624,38 +624,38 @@
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/pl/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F9
-[/us/pl/111/152/s1001/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fa%2F1%2FA
-[/us/pl/111/152/s1001/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fa%2F1%2FB
-[/us/pl/111/148/s10105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fa
-[/us/pl/111/152/s1001/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fa%2F1%2FB
-[/us/pl/111/148/s10105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fb
-[/us/pl/111/152/s1001/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fa%2F2%2FA
-[/us/pl/111/152/s1001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1001%2Fa%2F2
-[/us/pl/111/148/s10105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fc
-[/us/pl/111/148/s10108/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fh%2F1
-[/us/pl/111/152/s1004/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fa%2F1%2FA
-[/us/pl/111/152/s1004/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fa%2F2%2FA
-[/us/pl/111/309/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs208%2Fa
-[/us/pl/111/309/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs208%2Fb
-[/us/pl/111/152/s1004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fc
-[/us/pl/112/56/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs401%2Fb
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309
+[/us/pl/111/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/112/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtIV
 [/us/stat/125/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F734
-[/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F169
 [/us/usc/t29/s218b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs218b
 [/us/usc/t26/s139D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D
 [/us/usc/t42/s18101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18101
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/112/9/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F9%2Fs4%2Fb
+[/us/pl/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F9
 [/us/stat/125/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F37
-[/us/pl/111/309/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2Fs208%2Fc
+[/us/pl/111/309/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F309%2FtII
 [/us/stat/124/3292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3292
-[/us/pl/111/148/s10108/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fh%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F914
-[/us/pl/111/148/s1401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1401%2Fe
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F220
 [/us/usc/t31/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324
-[/us/pl/112/56/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs401%2Fc
+[/us/pl/112/56/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2FtIV
 [/us/stat/125/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F734
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 

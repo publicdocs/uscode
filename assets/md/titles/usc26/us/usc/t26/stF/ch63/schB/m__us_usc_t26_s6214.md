@@ -35,7 +35,7 @@
 
         For provision giving Tax Court jurisdiction to order a refund of an overpayment and to award sanctions, see section 6512(b)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 773][/us/stat/68A/773]; [Pub. L. 91–172, title I, § 101(j)(43)][/us/pl/91/172/s101/j/43], (44), title IX, § 960(a), Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530], 531, 734; [Pub. L. 91–614, title I, § 102(d)(6)][/us/pl/91/614/s102/d/6], Dec. 31, 1970, [84 Stat. 1842][/us/stat/84/1842]; [Pub. L. 93–406, title II, § 1016(a)(12)][/us/pl/93/406/s1016/a/12], Sept. 2, 1974, [88 Stat. 930][/us/stat/88/930]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(iv)][/us/pl/94/455/s1307/d/2/F/iv], (H), title XVI, § 1605(b)(7), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1834; [Pub. L. 96–223, title I, § 101(f)(1)(F)][/us/pl/96/223/s101/f/1/F], (G), Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–596, § 2(b)][/us/pl/96/596/s2/b], Dec. 24, 1980, [94 Stat. 3472][/us/stat/94/3472]; [Pub. L. 98–369, div. A, title I, § 144(b)][/us/pl/98/369/s144/b], July 18, 1984, [98 Stat. 683][/us/stat/98/683]; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1511(c)(8), 1554(a), title XVIII, § 1833, Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745], 2754, 2852; [Pub. L. 100–418, title I, § 1941(b)(2)(B)(vi)][/us/pl/100/418/s1941/b/2/B/vi], (vii), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI, § 6244(b)(1)][/us/pl/100/647/s6244/b/1], Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 104–188, title I, § 1704(t)(16)][/us/pl/104/188/s1704/t/16], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 109–280, title VIII, § 858(a)][/us/pl/109/280/s858/a], Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 773][/us/stat/68A/773]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(43), (44), title IX, § 960(a), Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530], 531, 734; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 102(d)(6), Dec. 31, 1970, [84 Stat. 1842][/us/stat/84/1842]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(a)(12), Sept. 2, 1974, [88 Stat. 930][/us/stat/88/930]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(d)(2)(F)(iv), (H), title XVI, § 1605(b)(7), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1834; [Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(f)(1)(F), (G), Apr. 2, 1980, [94 Stat. 252][/us/stat/94/252]; [Pub. L. 96–596][/us/pl/96/596], § 2(b), Dec. 24, 1980, [94 Stat. 3472][/us/stat/94/3472]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 144(b), July 18, 1984, [98 Stat. 683][/us/stat/98/683]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], §§ 1511(c)(8), 1554(a), title XVIII, § 1833, Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745], 2754, 2852; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(2)(B)(vi), (vii), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6244(b)(1), Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(16), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 858(a), Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020].)
 
  __Amendments__ 
 
@@ -43,51 +43,51 @@
 
     1996—Subsec. (e). [Pub. L. 104–188][/us/pl/104/188] amended subsec. (e) generally, striking par. (2) designation and par. (1) which provided cross reference to [section 6621(c)(4) of this title][/us/usc/t26/s6621/c/4] for provision giving Tax Court jurisdiction to determine whether any portion of deficiency is a substantial underpayment attributable to tax motivated transactions.
 
-    1988—Subsec. (c). [Pub. L. 100–418, § 1941(b)(2)(B)(vi)][/us/pl/100/418/s1941/b/2/B/vi], substituted “or 44” for “44, or 45” in heading and wherever appearing in text.
+    1988—Subsec. (c). [Pub. L. 100–418][/us/pl/100/418], § 1941(b)(2)(B)(vi), substituted “or 44” for “44, or 45” in heading and wherever appearing in text.
 
-    Subsec. (d). [Pub. L. 100–418, § 1941(b)(2)(B)(vii)][/us/pl/100/418/s1941/b/2/B/vii], substituted “or 44” for “44, or 45”.
+    Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], § 1941(b)(2)(B)(vii), substituted “or 44” for “44, or 45”.
 
     Subsec. (e). [Pub. L. 100–647][/us/pl/100/647] substituted “references” for “reference” in heading, designated existing provisions as par. (1), and added par. (2).
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1554(a)][/us/pl/99/514/s1554/a], substituted “any addition to the tax” for “addition to the tax”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1554(a), substituted “any addition to the tax” for “addition to the tax”.
 
-    Subsec. (c). [Pub. L. 99–514, § 1833][/us/pl/99/514/s1833], substituted “section 4963(b)” for “section 4962(b)”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1833, substituted “section 4963(b)” for “section 4962(b)”.
 
-    Subsec. (e). [Pub. L. 99–514, § 1511(c)(8)][/us/pl/99/514/s1511/c/8], substituted “section 6621(c)(4)” for “section 6621(d)(4)”.
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1511(c)(8), substituted “section 6621(c)(4)” for “section 6621(d)(4)”.
 
     1984—Subsec. (e). [Pub. L. 98–369][/us/pl/98/369] added subsec. (e).
 
     1980—Subsec. (c). [Pub. L. 96–596][/us/pl/96/596] inserted provision directing the Tax Court, in redetermining a deficiency of any second tier tax, to make a determination with respect to whether the taxable event has been corrected.
 
-    [Pub. L. 96–223, § 101(f)(1)(F)][/us/pl/96/223/s101/f/1/F], inserted reference to chapter 45.
+    [Pub. L. 96–223][/us/pl/96/223], § 101(f)(1)(F), inserted reference to chapter 45.
 
-    Subsec. (d). [Pub. L. 96–223, § 101(f)(1)(G)][/us/pl/96/223/s101/f/1/G], inserted reference to chapter 45.
+    Subsec. (d). [Pub. L. 96–223][/us/pl/96/223], § 101(f)(1)(G), inserted reference to chapter 45.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], §§ 1307(d)(2)(F)(iv), (H), 1605(b)(7)(A), (B), substituted in heading and in text “41, 42, 43, or 44” for “42 or 43”.
 
     Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], §§ 1307(d)(2)(F)(iv), 1605(b)(7)(C), substituted “41, 42, 43, or 44” for “42 or 43”.
 
-    1974—Subsec. (c). [Pub. L. 93–406, § 1016(a)(12)(A)][/us/pl/93/406/s1016/a/12/A], (B), inserted reference to chapter 43 in heading and in text.
+    1974—Subsec. (c). [Pub. L. 93–406][/us/pl/93/406], § 1016(a)(12)(A), (B), inserted reference to chapter 43 in heading and in text.
 
-    Subsec. (d). [Pub. L. 93–406, § 1016(a)(12)(C)][/us/pl/93/406/s1016/a/12/C], inserted reference to chapter 43.
+    Subsec. (d). [Pub. L. 93–406][/us/pl/93/406], § 1016(a)(12)(C), inserted reference to chapter 43.
 
     1970—Subsec. (b). [Pub. L. 91–614][/us/pl/91/614] inserted reference to calendar quarters in heading and in text in regard to gift tax deficiencies.
 
-    1969—Subsec. (a). [Pub. L. 91–172, § 960(a)][/us/pl/91/172/s960/a], inserted reference to exception provided for in [section 7463 of this title][/us/usc/t26/s7463].
+    1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 960(a), inserted reference to exception provided for in [section 7463 of this title][/us/usc/t26/s7463].
 
-    Subsecs. (c), (d). [Pub. L. 91–172, § 101(j)(43)][/us/pl/91/172/s101/j/43], (44), added subsec. (c), redesignated former subsec. (c) as (d), and, in subsec. (d) as so redesignated, inserted reference to chapter 42.
+    Subsecs. (c), (d). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(43), (44), added subsec. (c), redesignated former subsec. (c) as (d), and, in subsec. (d) as so redesignated, inserted reference to chapter 42.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title VIII, § 858(b)][/us/pl/109/280/s858/b], Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 858(b), Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to any action or proceeding in the United States Tax Court with respect to which a decision has not become final (as determined under section 7481 of the Internal Revenue Code of 1986) as of the date of the enactment of this Act \[Aug. 17, 2006\].”
 
  __Effective Date of 1988 Amendments__ 
 
-[Pub. L. 100–647, title VI, § 6244(c)][/us/pl/100/647/s6244/c], Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6244(c), Nov. 10, 1988, [102 Stat. 3750][/us/stat/102/3750], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6512 of this title][/us/usc/t26/s6512]\] shall apply to overpayments determined by the Tax Court which have not yet been refunded by the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -97,11 +97,11 @@
 
     Amendment by [section 1511(c)(8) of Pub. L. 99–514][/us/pl/99/514/s1511/c/8] applicable for purposes of determining interest for periods after Dec. 31, 1986, see [section 1511(d) of Pub. L. 99–514][/us/pl/99/514/s1511/d], set out as a note under [section 47 of this title][/us/usc/t26/s47].
 
-[Pub. L. 99–514, title XV, § 1554(b)][/us/pl/99/514/s1554/b], Oct. 22, 1986, [100 Stat. 2754][/us/stat/100/2754], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1554(b), Oct. 22, 1986, [100 Stat. 2754][/us/stat/100/2754], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any action or proceeding in the Tax Court with respect to which a decision has not become final (as determined under section 7481 of the Internal Revenue Code of 1954 \[now 1986\]) before the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-    Amendment by [section 1833 of Pub. L. 99–514][/us/pl/99/514/s1833] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1833 of Pub. L. 99–514][/us/pl/99/514/s1833] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -146,55 +146,55 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F773
-[/us/pl/91/172/s101/j/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F43
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F530
-[/us/pl/91/614/s102/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F6
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1842
-[/us/pl/93/406/s1016/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F12
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F930
-[/us/pl/94/455/s1307/d/2/F/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F2%2FF%2Fiv
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1728
-[/us/pl/96/223/s101/f/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Ff%2F1%2FF
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F252
-[/us/pl/96/596/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fb
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3472
-[/us/pl/98/369/s144/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs144%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F683
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2745
-[/us/pl/100/418/s1941/b/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FB%2Fvi
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1323
-[/us/pl/100/647/s6244/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6244%2Fb%2F1
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3750
-[/us/pl/104/188/s1704/t/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F16
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
-[/us/pl/109/280/s858/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs858%2Fa
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1020
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/usc/t26/s6621/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621%2Fc%2F4
-[/us/pl/100/418/s1941/b/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FB%2Fvi
-[/us/pl/100/418/s1941/b/2/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F2%2FB%2Fvii
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1554/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1554%2Fa
-[/us/pl/99/514/s1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1833
-[/us/pl/99/514/s1511/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F8
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
-[/us/pl/96/223/s101/f/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Ff%2F1%2FF
-[/us/pl/96/223/s101/f/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Ff%2F1%2FG
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
+[/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/406/s1016/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F12%2FA
-[/us/pl/93/406/s1016/a/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F12%2FC
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
-[/us/pl/91/172/s960/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fa
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s7463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7463
-[/us/pl/91/172/s101/j/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F43
-[/us/pl/109/280/s858/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs858%2Fb
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1020
-[/us/pl/100/647/s6244/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6244%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3750
 [/us/usc/t26/s6512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6512
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
@@ -203,10 +203,10 @@
 [/us/pl/99/514/s1511/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F8
 [/us/pl/99/514/s1511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fd
 [/us/usc/t26/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs47
-[/us/pl/99/514/s1554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1554%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2754
 [/us/pl/99/514/s1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1833
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

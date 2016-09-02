@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–121, title I, § 110(a)(3)(B)][/us/pl/108/121/s110/a/3/B], Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342], inserted “, astronauts,” after “Forces” in item 692.
+    2003—[Pub. L. 108–121, title I][/us/pl/108/121/tI], § 110(a)(3)(B), Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342], inserted “, astronauts,” after “Forces” in item 692.
 
-    2002—[Pub. L. 107–134, title I, § 101(c)(2)][/us/pl/107/134/s101/c/2], Jan. 23, 2002, [115 Stat. 2429][/us/stat/115/2429], substituted “Income taxes of members of Armed Forces and victims of certain terrorist attacks on death” for “Income taxes of members of Armed Forces on death” in item 692.
+    2002—[Pub. L. 107–134, title I][/us/pl/107/134/tI], § 101(c)(2), Jan. 23, 2002, [115 Stat. 2429][/us/stat/115/2429], substituted “Income taxes of members of Armed Forces and victims of certain terrorist attacks on death” for “Income taxes of members of Armed Forces on death” in item 692.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/108/121/s110/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fa%2F3%2FB
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1342
-[/us/pl/107/134/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs101%2Fc%2F2
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2429
 
 

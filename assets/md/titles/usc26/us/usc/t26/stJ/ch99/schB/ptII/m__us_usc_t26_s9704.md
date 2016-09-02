@@ -265,7 +265,7 @@
 
             Upon termination of the obligations for the premium liability of any assigned operator or related person for which such account is maintained, all funds remaining in such account (and earnings thereon) shall be refunded to such person as may be designated by the common parent described in paragraph (1)(B).
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3042][/us/stat/106/3042]; amended [Pub. L. 103–296, title I, § 108(h)(9)(A)][/us/pl/103/296/s108/h/9/A], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432], §§ 211(a), 212(a)(2), Dec. 20, 2006, [120 Stat. 3020][/us/stat/120/3020], 3024.)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3042][/us/stat/106/3042]; amended [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(h)(9)(A), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487]; [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], §§ 211(a), 212(a)(2), Dec. 20, 2006, [120 Stat. 3020][/us/stat/120/3020], 3024.)
 
  __References in Text__ 
 
@@ -273,21 +273,21 @@
 
  __Amendments__ 
 
-    2006—Subsec. (d). [Pub. L. 109–432, § 212(a)(2)(A)][/us/pl/109/432/s212/a/2/A], reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
+    2006—Subsec. (d). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
 
-    Subsec. (e)(1). [Pub. L. 109–432, § 212(a)(2)(B)(i)][/us/pl/109/432/s212/a/2/B/i], inserted “and amounts transferred under section 9705(b)” after “premiums received”.
+    Subsec. (e)(1). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
 
-    Subsec. (e)(3)(A). [Pub. L. 109–432, § 212(a)(2)(B)(ii)][/us/pl/109/432/s212/a/2/B/ii], inserted at end “Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph.”
+    Subsec. (e)(3)(A). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(2)(B)(ii), inserted at end “Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph.”
 
-    Subsec. (f)(2)(C). [Pub. L. 109–432, § 212(a)(2)(C)][/us/pl/109/432/s212/a/2/C], added subpar. (C).
+    Subsec. (f)(2)(C). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(2)(C), added subpar. (C).
 
-    Subsec. (j). [Pub. L. 109–432, § 211(a)][/us/pl/109/432/s211/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–432][/us/pl/109/432], § 211(a), added subsec. (j).
 
     1994—Subsecs. (b)(2), (h). [Pub. L. 103–296][/us/pl/103/296] substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title II, § 212(a)(4)][/us/pl/109/432/s212/a/4], Dec. 20, 2006, [120 Stat. 3025][/us/stat/120/3025], provided that: 
+[Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 212(a)(4), Dec. 20, 2006, [120 Stat. 3025][/us/stat/120/3025], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 9705 and 9706 of this title\] shall apply to plan years of the Combined Fund beginning after September 30, 2006.”
 
@@ -303,22 +303,22 @@
 ----------
 
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3042
-[/us/pl/103/296/s108/h/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fh%2F9%2FA
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1487
-[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3020
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/109/432/s212/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F2%2FA
-[/us/pl/109/432/s212/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F2%2FB%2Fi
-[/us/pl/109/432/s212/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F2%2FB%2Fii
-[/us/pl/109/432/s212/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F2%2FC
-[/us/pl/109/432/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs211%2Fa
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
-[/us/pl/109/432/s212/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F4
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3025
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa

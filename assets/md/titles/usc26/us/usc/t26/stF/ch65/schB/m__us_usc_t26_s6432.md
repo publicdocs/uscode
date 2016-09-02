@@ -109,7 +109,7 @@
 
         (2) the application of this section to group health plans that are multiemployer plans (as defined in section 3(37) of the Employee Retirement Income Security Act of 1974).
 
-(Added [Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A)][/us/pl/111/5/s3001/a/12/A], Feb. 17, 2009, [123 Stat. 461][/us/stat/123/461]; amended [Pub. L. 111–144, § 3(b)(5)(C)][/us/pl/111/144/s3/b/5/C], Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45].)
+(Added [Pub. L. 111–5, div. B, title III][/us/pl/111/5/dB/tIII], § 3001(a)(12)(A), Feb. 17, 2009, [123 Stat. 461][/us/stat/123/461]; amended [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(C), Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45].)
 
  __References in Text__ 
 
@@ -121,15 +121,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–144, § 3(b)(5)(C)(i)][/us/pl/111/144/s3/b/5/C/i], substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
+    2010—Subsec. (a). [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(C)(i), substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
 
-    Subsec. (c)(3). [Pub. L. 111–144, § 3(b)(5)(C)(ii)][/us/pl/111/144/s3/b/5/C/ii], substituted “section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a)(1)(A) of such Act”.
+    Subsec. (c)(3). [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(C)(ii), substituted “section 3001(a)(1)(A) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a)(1)(A) of such Act”.
 
-    Subsecs. (e) to (g). [Pub. L. 111–144, § 3(b)(5)(C)(iii)][/us/pl/111/144/s3/b/5/C/iii], added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(C)(iii), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–144, § 3(c)][/us/pl/111/144/s3/c], Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45], provided that: 
+[Pub. L. 111–144][/us/pl/111/144], § 3(c), Mar. 2, 2010, [124 Stat. 45][/us/stat/124/45], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 35, 139C, and 6720C of this title, and amending provisions set out as a note under this section\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5], set out below\] to which they relate, except that—
 
@@ -145,7 +145,7 @@
 
  __Premium Assistance for COBRA Benefits__ 
 
-[Pub. L. 111–5, div. B, title III, § 3001][/us/pl/111/5/s3001], Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], as amended by [Pub. L. 111–118, div. B, § 1010(a)][/us/pl/111/118/s1010/a]–(d), Dec. 19, 2009, [123 Stat. 3472][/us/stat/123/3472], 3473; [Pub. L. 111–144, § 3(a)][/us/pl/111/144/s3/a], (b)(1)–(4), Mar. 2, 2010, [124 Stat. 43][/us/stat/124/43], 44; [Pub. L. 111–157, § 3(a)][/us/pl/111/157/s3/a], (b), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 113–295, div. A, title II, § 209(j)(3)][/us/pl/113/295/s209/j/3], Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031], provided that:
+[Pub. L. 111–5, div. B, title III][/us/pl/111/5/dB/tIII], § 3001, Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], as amended by [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1010(a)–(d), Dec. 19, 2009, [123 Stat. 3472][/us/stat/123/3472], 3473; [Pub. L. 111–144][/us/pl/111/144], § 3(a), (b)(1)–(4), Mar. 2, 2010, [124 Stat. 43][/us/stat/124/43], 44; [Pub. L. 111–157][/us/pl/111/157], § 3(a), (b), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 209(j)(3), Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031], provided that:
 
 >     “(a) __Premium Assistance for COBRA Continuation Coverage for Individuals and Their Families.—__ 
 
@@ -571,13 +571,13 @@
 
 >         The provisions of this subsection shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
-\[[Pub. L. 111–157, § 3(c)][/us/pl/111/157/s3/c], Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117], provided that: 
+\[[Pub. L. 111–157][/us/pl/111/157], § 3(c), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117], provided that: 
 
 > “The amendments made by this section \[amending [section 3001 of Pub. L. 111–5][/us/pl/111/5/s3001], set out above\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5]\].”
 
 \]
 
-\[[Pub. L. 111–118, div. B, § 1010(e)][/us/pl/111/118/s1010/e], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473], provided that: 
+\[[Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1010(e), Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473], provided that: 
 
 > “The amendments made by this section \[amending [section 3001 of Pub. L. 111–5][/us/pl/111/5/s3001], set out above\] shall take effect as if included in the provisions of section 3001 of division B of the American Recovery and Reinvestment Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5]\] to which they relate.”
 
@@ -591,9 +591,9 @@
 ----------
 
 [/us/usc/t31/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324%2Fb%2F2
-[/us/pl/111/5/s3001/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F12%2FA
+[/us/pl/111/5/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtIII
 [/us/stat/123/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F461
-[/us/pl/111/144/s3/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FC
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F45
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F115
@@ -606,24 +606,24 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/144/s3/b/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FC%2Fi
-[/us/pl/111/144/s3/b/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FC%2Fii
-[/us/pl/111/144/s3/b/5/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FC%2Fiii
-[/us/pl/111/144/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fc
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F45
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118
 [/us/pl/111/5/s3001/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F1%2FA
 [/us/pl/111/5/s3001/a/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F12%2FD
-[/us/pl/111/5/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001
+[/us/pl/111/5/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtIII
 [/us/stat/123/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F455
-[/us/pl/111/118/s1010/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1010%2Fa
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3472
-[/us/pl/111/144/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fa
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F43
-[/us/pl/111/157/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs3%2Fa
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1117
-[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t29/s1165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1165%2Fa
@@ -655,11 +655,11 @@
 [/us/usc/t26/s139C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139C
 [/us/pl/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118
 [/us/pl/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118
-[/us/pl/111/157/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs3%2Fc
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1117
 [/us/pl/111/5/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/111/118/s1010/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1010%2Fe
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3473
 [/us/pl/111/5/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5

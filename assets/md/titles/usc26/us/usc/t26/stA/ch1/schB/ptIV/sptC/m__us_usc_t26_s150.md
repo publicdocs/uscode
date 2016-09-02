@@ -243,7 +243,7 @@
 
             Bonds which are part of an issue which meets the requirements of paragraph (1) shall not be treated as private activity bonds except for purposes of sections 147(f) and 149(d).
 
-(Added [Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2651][/us/stat/100/2651]; amended [Pub. L. 100–647, title I, § 1013(a)(23)][/us/pl/100/647/s1013/a/23], (24)(A), (30)–(33), title VI, § 6182(a), (b), Nov. 10, 1988, [102 Stat. 3542][/us/stat/102/3542], 3543, 3729; [Pub. L. 104–188, title I, § 1614(a)][/us/pl/104/188/s1614/a], Aug. 20, 1996, [110 Stat. 1851][/us/stat/110/1851].)
+(Added [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(b), Oct. 22, 1986, [100 Stat. 2651][/us/stat/100/2651]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(23), (24)(A), (30)–(33), title VI, § 6182(a), (b), Nov. 10, 1988, [102 Stat. 3542][/us/stat/102/3542], 3543, 3729; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1614(a), Aug. 20, 1996, [110 Stat. 1851][/us/stat/110/1851].)
 
  __References in Text__ 
 
@@ -253,39 +253,39 @@
 
     1996—Subsec. (d)(3). [Pub. L. 104–188][/us/pl/104/188] added par. (3).
 
-    1988—Subsec. (b)(1)(A). [Pub. L. 100–647, § 1013(a)(23)(C)][/us/pl/100/647/s1013/a/23/C], inserted “tax-exempt” before “qualified mortgage bond”.
+    1988—Subsec. (b)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(23)(C), inserted “tax-exempt” before “qualified mortgage bond”.
 
-    [Pub. L. 100–647, § 1013(a)(30)][/us/pl/100/647/s1013/a/30], inserted before period at end “and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing”.
+    [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(30), inserted before period at end “and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing”.
 
-    Subsec. (b)(2). [Pub. L. 100–647, § 1013(a)(32)][/us/pl/100/647/s1013/a/32], inserted at end “If the provisions of prior law corresponding to section 142(d) apply to a refunded bond, such provisions shall apply (in lieu of section 142(d)) to the refunding bond.”
+    Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(32), inserted at end “If the provisions of prior law corresponding to section 142(d) apply to a refunded bond, such provisions shall apply (in lieu of section 142(d)) to the refunding bond.”
 
-    Subsec. (b)(2)(A). [Pub. L. 100–647, § 1013(a)(31)][/us/pl/100/647/s1013/a/31], substituted “described in paragraph” for “described paragraph”.
+    Subsec. (b)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(31), substituted “described in paragraph” for “described paragraph”.
 
-    Subsec. (b)(4). [Pub. L. 100–647, § 1013(a)(23)(A)][/us/pl/100/647/s1013/a/23/A], (B), inserted “and small issue bonds” after “bonds” in heading, and “or a qualified small issue bond” before period at end of subpar. (B).
+    Subsec. (b)(4). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(23)(A), (B), inserted “and small issue bonds” after “bonds” in heading, and “or a qualified small issue bond” before period at end of subpar. (B).
 
-    Subsec. (b)(6). [Pub. L. 100–647, § 1013(a)(33)][/us/pl/100/647/s1013/a/33], added par. (6).
+    Subsec. (b)(6). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(33), added par. (6).
 
-    Subsec. (e)(1)(B). [Pub. L. 100–647, § 6182(b)][/us/pl/100/647/s6182/b], inserted “(including land which is functionally related and subordinate thereto)” after “a firehouse”.
+    Subsec. (e)(1)(B). [Pub. L. 100–647][/us/pl/100/647], § 6182(b), inserted “(including land which is functionally related and subordinate thereto)” after “a firehouse”.
 
-    Subsec. (e)(2). [Pub. L. 100–647, § 6182(a)][/us/pl/100/647/s6182/a], inserted at end “For purposes of subparagraph (A), other firefighting services provided in an area shall be disregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981.”
+    Subsec. (e)(2). [Pub. L. 100–647][/us/pl/100/647], § 6182(a), inserted at end “For purposes of subparagraph (A), other firefighting services provided in an area shall be disregarded in determining whether an organization is a qualified volunteer fire department if such other firefighting services are provided by a qualified volunteer fire department (determined with the application of this sentence) and such organization and the provider of such other services have been continuously providing firefighting services to such area since January 1, 1981.”
 
-    Subsec. (e)(3). [Pub. L. 100–647, § 1013(a)(24)(A)][/us/pl/100/647/s1013/a/24/A], added par. (3).
+    Subsec. (e)(3). [Pub. L. 100–647][/us/pl/100/647], § 1013(a)(24)(A), added par. (3).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1614(b)][/us/pl/104/188/s1614/b], Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1614(b), Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1013(a)(24)(B)][/us/pl/100/647/s1013/a/24/B], Nov. 10, 1988, [102 Stat. 3543][/us/stat/102/3543], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(24)(B), Nov. 10, 1988, [102 Stat. 3543][/us/stat/102/3543], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after October 21, 1988.”
 
     Amendment by section 1013(a)(23), (30)–(33) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6182(c)][/us/pl/100/647/s6182/c], Nov. 10, 1988, [102 Stat. 3729][/us/stat/102/3729], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6182(c), Nov. 10, 1988, [102 Stat. 3729][/us/stat/102/3729], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -300,34 +300,34 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fb
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2651
-[/us/pl/100/647/s1013/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F23
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3542
-[/us/pl/104/188/s1614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1614%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1851
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/100/647/s1013/a/23/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F23%2FC
-[/us/pl/100/647/s1013/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F30
-[/us/pl/100/647/s1013/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F32
-[/us/pl/100/647/s1013/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F31
-[/us/pl/100/647/s1013/a/23/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F23%2FA
-[/us/pl/100/647/s1013/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F33
-[/us/pl/100/647/s6182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6182%2Fb
-[/us/pl/100/647/s6182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6182%2Fa
-[/us/pl/100/647/s1013/a/24/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F24%2FA
-[/us/pl/104/188/s1614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1614%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1853
-[/us/pl/100/647/s1013/a/24/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F24%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3543
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6182/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6182%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3729
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141

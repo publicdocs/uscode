@@ -39,7 +39,7 @@
 
         For provisions relating to the authority of internal revenue officers to enforce provisions of this section, see sections 5203, 5557, and 7608.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1401][/us/stat/72/1401]; amended [Pub. L. 96–39, title VIII, § 807(a)(53)][/us/pl/96/39/s807/a/53], July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 98–369, div. A, title IV, § 454(c)(11)(A)][/us/pl/98/369/s454/c/11/A], July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1401][/us/stat/72/1401]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(53), July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(11)(A), July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
 
  __Prior Provisions__ 
 
@@ -267,19 +267,19 @@ Provisions similar to those comprising this section were contained in prior sect
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 454(c)(11)(A)][/us/pl/98/369/s454/c/11/A], in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7) as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 454(c)(11)(A), in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7) as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
 
-    Subsec. (b). [Pub. L. 98–369, § 454(c)(11)(A)][/us/pl/98/369/s454/c/11/A], in amending subsec. (b) generally, substituted provisions relating to cross references for provisions relating to officers authorized to enforce this section.
+    Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 454(c)(11)(A), in amending subsec. (b) generally, substituted provisions relating to cross references for provisions relating to officers authorized to enforce this section.
 
-    1979—Subsec. (a)(1). [Pub. L. 96–39, § 807(a)(53)(A)][/us/pl/96/39/s807/a/53/A], substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
+    1979—Subsec. (a)(1). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(53)(A), substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
 
-    Subsec. (a)(2). [Pub. L. 96–39, § 807(a)(53)(B)][/us/pl/96/39/s807/a/53/B], substituted “section 5205(a)(1)” for “section 5205(a)(1) or (2)” and “section 5205(a)(2)” for “section 5205(a)(3)”.
+    Subsec. (a)(2). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(53)(B), substituted “section 5205(a)(1)” for “section 5205(a)(1) or (2)” and “section 5205(a)(2)” for “section 5205(a)(3)”.
 
-    Subsec. (a)(3). [Pub. L. 96–39, § 807(a)(53)(C)][/us/pl/96/39/s807/a/53/C], substituted “section 5205(f)” for “section 5205(g)”.
+    Subsec. (a)(3). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(53)(C), substituted “section 5205(f)” for “section 5205(g)”.
 
-    Subsec. (a)(6). [Pub. L. 96–39, § 807(a)(53)(D)][/us/pl/96/39/s807/a/53/D], substituted “section 5205(a)(2)” for “section 5205(a)(3)”.
+    Subsec. (a)(6). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(53)(D), substituted “section 5205(a)(2)” for “section 5205(a)(3)”.
 
-    Subsec. (a)(13). [Pub. L. 96–39, § 807(a)(53)(E)][/us/pl/96/39/s807/a/53/E], substituted “section 5205(a)” for “section 5205(a)(2) and (3)”.
+    Subsec. (a)(13). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(53)(E), substituted “section 5205(a)” for “section 5205(a)(2) and (3)”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -296,11 +296,11 @@ Provisions similar to those comprising this section were contained in prior sect
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1401
-[/us/pl/96/39/s807/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
-[/us/pl/98/369/s454/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F11%2FA
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F821
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F684
@@ -308,13 +308,13 @@ Provisions similar to those comprising this section were contained in prior sect
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F602
-[/us/pl/98/369/s454/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F11%2FA
-[/us/pl/98/369/s454/c/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F11%2FA
-[/us/pl/96/39/s807/a/53/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53%2FA
-[/us/pl/96/39/s807/a/53/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53%2FB
-[/us/pl/96/39/s807/a/53/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53%2FC
-[/us/pl/96/39/s807/a/53/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53%2FD
-[/us/pl/96/39/s807/a/53/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F53%2FE
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs456%2Fb
 [/us/usc/t26/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5101

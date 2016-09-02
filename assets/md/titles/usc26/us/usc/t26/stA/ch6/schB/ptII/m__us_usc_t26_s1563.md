@@ -253,13 +253,13 @@
 
                 For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
 
-(Added [Pub. L. 88–272, title II, § 235(a)][/us/pl/88/272/s235/a], Feb. 26, 1964, [78 Stat. 120][/us/stat/78/120]; amended [Pub. L. 91–172, title IV, § 401(c)][/us/pl/91/172/s401/c], (d), Dec. 30, 1969, [83 Stat. 602][/us/stat/83/602]; [Pub. L. 91–373, title I, § 102(b)][/us/pl/91/373/s102/b], Aug. 10, 1970, [84 Stat. 696][/us/stat/84/696]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title II, § 211(b)(22)][/us/pl/98/369/s211/b/22], July 18, 1984, [98 Stat. 757][/us/stat/98/757]; [Pub. L. 99–514, title X, § 1024(c)(17)][/us/pl/99/514/s1024/c/17], Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408]; [Pub. L. 100–647, title I, § 1018(s)(3)(A)][/us/pl/100/647/s1018/s/3/A], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587]; [Pub. L. 108–357, title VIII, § 900(a)][/us/pl/108/357/s900/a], (b), Oct. 22, 2004, [118 Stat. 1650][/us/stat/118/1650].)
+(Added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 235(a), Feb. 26, 1964, [78 Stat. 120][/us/stat/78/120]; amended [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 401(c), (d), Dec. 30, 1969, [83 Stat. 602][/us/stat/83/602]; [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 102(b), Aug. 10, 1970, [84 Stat. 696][/us/stat/84/696]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(b)(22), July 18, 1984, [98 Stat. 757][/us/stat/98/757]; [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(c)(17), Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(s)(3)(A), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 900(a), (b), Oct. 22, 2004, [118 Stat. 1650][/us/stat/118/1650].)
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2). [Pub. L. 108–357, § 900(a)][/us/pl/108/357/s900/a], substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
+    2004—Subsec. (a)(2). [Pub. L. 108–357][/us/pl/108/357], § 900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
 
-    Subsec. (f)(5). [Pub. L. 108–357, § 900(b)][/us/pl/108/357/s900/b], added par. (5).
+    Subsec. (f)(5). [Pub. L. 108–357][/us/pl/108/357], § 900(b), added par. (5).
 
     1988—Subsec. (d)(1)(B). [Pub. L. 100–647][/us/pl/100/647] substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
 
@@ -271,21 +271,21 @@
 
     1970—Subsec. (f)(1). [Pub. L. 91–373][/us/pl/91/373] substituted “by paragraphs (1) and (2) of section 2131(d)” for “in section 3306(i)”.
 
-    1969—Subsec. (a)(2). [Pub. L. 91–172, § 401(c)][/us/pl/91/172/s401/c], redesignated existing provisions with minor changes as par. (A) and added par. (B).
+    1969—Subsec. (a)(2). [Pub. L. 91–172][/us/pl/91/172], § 401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
 
-    Subsec. (c)(2)(A)(iv). [Pub. L. 91–172, § 401(d)(1)][/us/pl/91/172/s401/d/1], added cl. (iv).
+    Subsec. (c)(2)(A)(iv). [Pub. L. 91–172][/us/pl/91/172], § 401(d)(1), added cl. (iv).
 
-    Subsec. (c)(2)(B). [Pub. L. 91–172, § 401(d)(2)][/us/pl/91/172/s401/d/2], substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
+    Subsec. (c)(2)(B). [Pub. L. 91–172][/us/pl/91/172], § 401(d)(2), substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 900(c)][/us/pl/108/357/s900/c], Oct. 22, 2004, [118 Stat. 1650][/us/stat/118/1650], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 900(c), Oct. 22, 2004, [118 Stat. 1650][/us/stat/118/1650], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1018(s)(3)(B)][/us/pl/100/647/s1018/s/3/B], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(s)(3)(B), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -312,35 +312,35 @@
 ----------
 ----------
 
-[/us/pl/88/272/s235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F120
-[/us/pl/91/172/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fc
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F602
-[/us/pl/91/373/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs102%2Fb
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F696
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s211/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F22
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F757
-[/us/pl/99/514/s1024/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F17
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2408
-[/us/pl/100/647/s1018/s/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fs%2F3%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
-[/us/pl/108/357/s900/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs900%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1650
-[/us/pl/108/357/s900/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs900%2Fa
-[/us/pl/108/357/s900/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs900%2Fb
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/91/172/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fc
-[/us/pl/91/172/s401/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fd%2F1
-[/us/pl/91/172/s401/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fd%2F2
-[/us/pl/108/357/s900/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs900%2Fc
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1650
-[/us/pl/100/647/s1018/s/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fs%2F3%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1024/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fe

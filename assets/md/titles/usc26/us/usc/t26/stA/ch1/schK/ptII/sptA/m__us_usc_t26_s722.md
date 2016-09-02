@@ -17,7 +17,7 @@
 
     The basis of an interest in a partnership acquired by a contribution of property, including money, to the partnership shall be the amount of such money and the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 94–455, title XXI, § 2131(c)][/us/pl/94/455/s2131/c], Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924]; [Pub. L. 98–369, div. A, title VII, § 722(f)(1)][/us/pl/98/369/s722/f/1], July 18, 1984, [98 Stat. 974][/us/stat/98/974].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2131(c), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 722(f)(1), July 18, 1984, [98 Stat. 974][/us/stat/98/974].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title VII, § 722(f)(2)][/us/pl/98/369/s722/f/2], July 18, 1984, [98 Stat. 974][/us/stat/98/974], provided that: 
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 722(f)(2), July 18, 1984, [98 Stat. 974][/us/stat/98/974], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and [section 723 of this title][/us/usc/t26/s723]\] shall take effect as if included in the amendments made by section 2131 of the Tax Reform Act of 1976 \[[Pub. L. 94–455][/us/pl/94/455]\].”
 
@@ -44,13 +44,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F245
-[/us/pl/94/455/s2131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2131%2Fc
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1924
-[/us/pl/98/369/s722/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Ff%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F974
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/98/369/s722/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Ff%2F2
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F974
 [/us/usc/t26/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs723
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

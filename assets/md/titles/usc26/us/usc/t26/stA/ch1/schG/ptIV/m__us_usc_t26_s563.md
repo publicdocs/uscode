@@ -31,7 +31,7 @@
 
         For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the fourth month following the close of the taxable year shall be considered as made on the last day of such taxable year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 199][/us/stat/68A/199]; [Pub. L. 91–172, title IX, § 914(a)][/us/pl/91/172/s914/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 101–239, title VII, § 7401(b)][/us/pl/101/239/s7401/b], Dec. 19, 1989, [103 Stat. 2356][/us/stat/103/2356]; [Pub. L. 108–357, title IV, § 413(c)(10)][/us/pl/108/357/s413/c/10], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 114–41, title II, § 2006(a)(2)(B)][/us/pl/114/41/s2006/a/2/B], July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 199][/us/stat/68A/199]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 914(a), Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7401(b), Dec. 19, 1989, [103 Stat. 2356][/us/stat/103/2356]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(10), Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2006(a)(2)(B), July 31, 2015, [129 Stat. 457][/us/stat/129/457].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 
     2004—Subsecs. (c), (d). [Pub. L. 108–357][/us/pl/108/357] redesignated subsec. (d) as (c), substituted “subsection (a) or (b)” for “subsection (a), (b), or (c)”, and struck out former subsec. (c) which related to foreign personal holding company tax.
 
-    1989—Subsec. (c). [Pub. L. 101–239, § 7401(b)(1)][/us/pl/101/239/s7401/b/1], added subsec. (c). Former subsec. (c) redesignated (d).
+    1989—Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7401(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 101–239, § 7401(b)(2)][/us/pl/101/239/s7401/b/2], substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
+    Subsec. (d). [Pub. L. 101–239][/us/pl/101/239], § 7401(b)(2), substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
-    [Pub. L. 101–239, § 7401(b)(1)][/us/pl/101/239/s7401/b/1], redesignated former subsec. (c) as (d).
+    [Pub. L. 101–239][/us/pl/101/239], § 7401(b)(1), redesignated former subsec. (c) as (d).
 
     1969—Subsec. (b)(2). [Pub. L. 91–172][/us/pl/91/172] substituted “20 percent” for “10 percent”.
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IX, § 914(b)][/us/pl/91/172/s914/b], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 914(b), Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
@@ -74,19 +74,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F199
-[/us/pl/91/172/s914/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs914%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F723
-[/us/pl/101/239/s7401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2356
-[/us/pl/108/357/s413/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F10
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
-[/us/pl/114/41/s2006/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F2%2FB
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F457
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/101/239/s7401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F1
-[/us/pl/101/239/s7401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F2
-[/us/pl/101/239/s7401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fb%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/114/41/s2006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fa%2F3
@@ -98,7 +98,7 @@
 [/us/pl/101/239/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401
 [/us/pl/101/239/s7401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fd
 [/us/usc/t26/s898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs898
-[/us/pl/91/172/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs914%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F723
 
 

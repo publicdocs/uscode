@@ -23,7 +23,7 @@
 
         For purposes of subsection (a), in the case of an individual, any charge (including taxes thereon) for basic local telephone service with respect to the 1st telephone line provided to any residence of the taxpayer shall be treated as a personal expense.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 76][/us/stat/68A/76]; [Pub. L. 100–647, title V, § 5073(a)][/us/pl/100/647/s5073/a], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 76][/us/stat/68A/76]; [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5073(a), Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title V, § 5073(b)][/us/pl/100/647/s5073/b], Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5073(b), Nov. 10, 1988, [102 Stat. 3682][/us/stat/102/3682], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988.”
 
@@ -44,10 +44,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F76
-[/us/pl/100/647/s5073/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5073%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3682
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/647/s5073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5073%2Fb
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3682
 
 

@@ -37,11 +37,11 @@
 
         The term “mortgage credit certificate” has the meaning given to such term by section 25(c).
 
-(Added [Pub. L. 98–369, div. A, title VI, § 612(d)(1)][/us/pl/98/369/s612/d/1], July 18, 1984, [98 Stat. 912][/us/stat/98/912], § 6708; renumbered § 6709, [Pub. L. 99–514, title XVIII, § 1862(d)(2)][/us/pl/99/514/s1862/d/2], Oct. 22, 1986, [100 Stat. 2884][/us/stat/100/2884].)
+(Added [Pub. L. 98–369, div. A, title VI][/us/pl/98/369/dA/tVI], § 612(d)(1), July 18, 1984, [98 Stat. 912][/us/stat/98/912], § 6708; renumbered § 6709, [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1862(d)(2), Oct. 22, 1986, [100 Stat. 2884][/us/stat/100/2884].)
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/98/369/s612/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs612%2Fd%2F1
+[/us/pl/98/369/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVI
 [/us/stat/98/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F912
-[/us/pl/99/514/s1862/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1862%2Fd%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2884
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s612/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs612%2Fg

@@ -171,7 +171,7 @@
 
         (4) providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added [Pub. L. 99–662, title XIV, § 1402(a)][/us/pl/99/662/s1402/a], Nov. 17, 1986, [100 Stat. 4266][/us/stat/100/4266]; amended [Pub. L. 100–647, title II, § 2002(b)][/us/pl/100/647/s2002/b], title VI, §§ 6109(a), 6110(a), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], 3712; [Pub. L. 104–188, title I, § 1704(i)(1)][/us/pl/104/188/s1704/i/1], Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881]; [Pub. L. 109–59, title XI, § 11116(a)][/us/pl/109/59/s11116/a], Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950].)
+(Added [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1402(a), Nov. 17, 1986, [100 Stat. 4266][/us/stat/100/4266]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2002(b), title VI, §§ 6109(a), 6110(a), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], 3712; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(i)(1), Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11116(a), Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950].)
 
  __Prior Provisions__ 
 
@@ -183,11 +183,11 @@
 
     1996—Subsec. (b)(1)(D). [Pub. L. 104–188][/us/pl/104/188] inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
 
-    1988—Subsec. (b)(1)(B). [Pub. L. 100–647, § 2002(b)][/us/pl/100/647/s2002/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+    1988—Subsec. (b)(1)(B). [Pub. L. 100–647][/us/pl/100/647], § 2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
 
-    Subsec. (g)(3). [Pub. L. 100–647, § 6110(a)][/us/pl/100/647/s6110/a], added par. (3).
+    Subsec. (g)(3). [Pub. L. 100–647][/us/pl/100/647], § 6110(a), added par. (3).
 
-    Subsecs. (h), (i). [Pub. L. 100–647, § 6109(a)][/us/pl/100/647/s6109/a], added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 100–647][/us/pl/100/647], § 6109(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
  __Effective Date of 2005 Amendment__ 
 
@@ -195,19 +195,19 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1704(i)(2)][/us/pl/104/188/s1704/i/2], Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(i)(2), Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881], provided that: 
 
-> “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[[Pub. L. 99–662, title XIV][/us/pl/99/662]\].”
+> “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV]\].”
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [section 2002(b) of Pub. L. 100–647][/us/pl/100/647/s2002/b] effective as if included in the provision of the Harbor Maintenance Revenue Act of 1986, [Pub. L. 99–662, title XIV][/us/pl/99/662], to which it relates, see [section 2002(d) of Pub. L. 100–647][/us/pl/100/647/s2002/d], set out as a note under [section 4042 of this title][/us/usc/t26/s4042].
+    Amendment by [section 2002(b) of Pub. L. 100–647][/us/pl/100/647/s2002/b] effective as if included in the provision of the Harbor Maintenance Revenue Act of 1986, [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], to which it relates, see [section 2002(d) of Pub. L. 100–647][/us/pl/100/647/s2002/d], set out as a note under [section 4042 of this title][/us/usc/t26/s4042].
 
-[Pub. L. 100–647, title VI, § 6109(b)][/us/pl/100/647/s6109/b], Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6109(b), Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987.”
 
-[Pub. L. 100–647, title VI, § 6110(b)][/us/pl/100/647/s6110/b], Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6110(b), Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -226,33 +226,33 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1402%2Fa
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4266
-[/us/pl/100/647/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fb
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3597
-[/us/pl/104/188/s1704/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fi%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1881
-[/us/pl/109/59/s11116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1950
 [/us/usc/t26/s4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4471
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/100/647/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fb
-[/us/pl/100/647/s6110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6110%2Fa
-[/us/pl/100/647/s6109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6109%2Fa
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s11116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fc
 [/us/usc/t26/s4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4461
-[/us/pl/104/188/s1704/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fi%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1881
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/pl/100/647/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fb
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/pl/100/647/s2002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fd
 [/us/usc/t26/s4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4042
-[/us/pl/100/647/s6109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6109%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3712
-[/us/pl/100/647/s6110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6110%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3713
 [/us/pl/99/662/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1402%2Fc
 [/us/usc/t26/s4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4461

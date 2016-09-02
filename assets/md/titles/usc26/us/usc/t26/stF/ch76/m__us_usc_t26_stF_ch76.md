@@ -81,11 +81,11 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title III, § 3001(b)][/us/pl/105/206/s3001/b], July 22, 1998, [112 Stat. 727][/us/stat/112/727], added item for subchapter E.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3001(b), July 22, 1998, [112 Stat. 727][/us/stat/112/727], added item for subchapter E.
 
-    1976—[Pub. L. 94–455, title XIX, § 1952(n)(4)(B)][/us/pl/94/455/s1952/n/4/B], Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], struck out item for subchapter E “Miscellaneous provisions”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1952(n)(4)(B), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], struck out item for subchapter E “Miscellaneous provisions”.
 
-    1966—[Pub. L. 89–719, title I, § 110(d)(3)][/us/pl/89/719/s110/d/3], Nov. 2, 1966, [80 Stat. 1145][/us/stat/80/1145], substituted “Taxpayers and Third Parties” for “taxpayers” in item for subchapter B.
+    1966—[Pub. L. 89–719, title I][/us/pl/89/719/tI], § 110(d)(3), Nov. 2, 1966, [80 Stat. 1145][/us/stat/80/1145], substituted “Taxpayers and Third Parties” for “taxpayers” in item for subchapter B.
 
 ----------
 
@@ -94,11 +94,11 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3001%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F727
-[/us/pl/94/455/s1952/n/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1952%2Fn%2F4%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1846
-[/us/pl/89/719/s110/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs110%2Fd%2F3
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1145
 
 

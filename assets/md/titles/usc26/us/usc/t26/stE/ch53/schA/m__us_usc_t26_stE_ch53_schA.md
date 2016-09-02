@@ -57,7 +57,7 @@ Prior Provisions  </td>
 
 </table>
 
-    A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1227][/us/stat/82/1227].
+    A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1227][/us/stat/82/1227].
 
 ----------
 
@@ -66,7 +66,7 @@ Prior Provisions  </td>
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1227
 
 

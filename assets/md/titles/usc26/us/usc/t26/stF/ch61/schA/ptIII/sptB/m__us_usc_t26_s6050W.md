@@ -153,7 +153,7 @@
 
         The Secretary may prescribe such regulations or other guidance as may be necessary or appropriate to carry out this section, including rules to prevent the reporting of the same transaction more than once.
 
-(Added [Pub. L. 110–289, div. C, title III, § 3091(a)][/us/pl/110/289/s3091/a], July 30, 2008, [122 Stat. 2908][/us/stat/122/2908].)
+(Added [Pub. L. 110–289, div. C, title III][/us/pl/110/289/dC/tIII], § 3091(a), July 30, 2008, [122 Stat. 2908][/us/stat/122/2908].)
 
  __Effective Date__ 
 
@@ -166,7 +166,7 @@
 ----------
 ----------
 
-[/us/pl/110/289/s3091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3091%2Fa
+[/us/pl/110/289/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtIII
 [/us/stat/122/2908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2908
 [/us/pl/110/289/s3091/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3091%2Fe
 [/us/usc/t26/s3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406

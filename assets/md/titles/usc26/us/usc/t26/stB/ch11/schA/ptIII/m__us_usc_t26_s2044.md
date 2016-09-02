@@ -37,7 +37,7 @@
 
         For purposes of this chapter and chapter 13, property includible in the gross estate of the decedent under subsection (a) shall be treated as property passing from the decedent.
 
-(Added [Pub. L. 97–34, title IV, § 403(d)(3)(A)(i)][/us/pl/97/34/s403/d/3/A/i], Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304]; amended [Pub. L. 97–448, title I, § 104(a)(1)(B)][/us/pl/97/448/s104/a/1/B], Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380].)
+(Added [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(d)(3)(A)(i), Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304]; amended [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(a)(1)(B), Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380].)
 
  __Prior Provisions__ 
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/97/34/s403/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fd%2F3%2FA%2Fi
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F304
-[/us/pl/97/448/s104/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F1%2FB
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2380
 [/us/usc/t26/s2045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2045
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448

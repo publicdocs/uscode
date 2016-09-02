@@ -39,7 +39,7 @@
 
         For provision under which beneficiary of trust is treated as owner of the portion of the trust which consists of stock in an S corporation, see section 1361(d).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 231][/us/stat/68A/231]; [Pub. L. 94–455, title X, § 1013(b)][/us/pl/94/455/s1013/b], Oct. 4, 1976, [90 Stat. 1615][/us/stat/90/1615]; [Pub. L. 97–448, title I, § 102(i)(2)][/us/pl/97/448/s102/i/2], Jan. 12, 1983, [96 Stat. 2373][/us/stat/96/2373]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(8)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 231][/us/stat/68A/231]; [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1013(b), Oct. 4, 1976, [90 Stat. 1615][/us/stat/90/1615]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 102(i)(2), Jan. 12, 1983, [96 Stat. 2373][/us/stat/96/2373]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(8)(A)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
 
  __Amendments__ 
 
@@ -66,11 +66,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F231
-[/us/pl/94/455/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Fb
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1615
-[/us/pl/97/448/s102/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fi%2F2
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2373
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448

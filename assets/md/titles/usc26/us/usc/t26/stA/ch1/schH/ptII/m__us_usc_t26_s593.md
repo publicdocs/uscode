@@ -279,11 +279,11 @@
 
             The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 205][/us/stat/68A/205]; [Pub. L. 87–834, § 6(a)][/us/pl/87/834/s6/a], Oct. 16, 1962, [76 Stat. 977][/us/stat/76/977]; [Pub. L. 91–172, title IV, § 432(a)][/us/pl/91/172/s432/a], (b), Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], 622; [Pub. L. 94–455, title XIX, § 1901(a)(84)][/us/pl/94/455/s1901/a/84], Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778]; [Pub. L. 96–222, title I, § 104(a)(3)(C)][/us/pl/96/222/s104/a/3/C], Apr. 1, 1980, [94 Stat. 215][/us/stat/94/215]; [Pub. L. 97–34, title II][/us/pl/97/34], §§ 243, 245(b), (c), Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255], 256; [Pub. L. 99–514, title III, § 311(b)(2)][/us/pl/99/514/s311/b/2], title VI, § 671(b)(2), title IX, § 901(b)(1)–(3), (d)(2), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2317, 2378; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], 3426; [Pub. L. 101–73, title XIV, § 1401(b)(3)][/us/pl/101/73/s1401/b/3], Aug. 9, 1989, [103 Stat. 550][/us/stat/103/550]; [Pub. L. 101–508, title XI, § 11801(c)(12)(F)][/us/pl/101/508/s11801/c/12/F], Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, [110 Stat. 1854][/us/stat/110/1854], 1857, 1890; [Pub. L. 105–34, title XVI, § 1601(f)(5)(A)][/us/pl/105/34/s1601/f/5/A], Aug. 5, 1997, [111 Stat. 1091][/us/stat/111/1091].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 205][/us/stat/68A/205]; [Pub. L. 87–834][/us/pl/87/834], § 6(a), Oct. 16, 1962, [76 Stat. 977][/us/stat/76/977]; [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 432(a), (b), Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], 622; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(84), Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 104(a)(3)(C), Apr. 1, 1980, [94 Stat. 215][/us/stat/94/215]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], §§ 243, 245(b), (c), Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255], 256; [Pub. L. 99–514, title III][/us/pl/99/514/tIII], § 311(b)(2), title VI, § 671(b)(2), title IX, § 901(b)(1)–(3), (d)(2), Oct. 22, 1986, [100 Stat. 2219][/us/stat/100/2219], 2317, 2378; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], 3426; [Pub. L. 101–73, title XIV][/us/pl/101/73/tXIV], § 1401(b)(3), Aug. 9, 1989, [103 Stat. 550][/us/stat/103/550]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(12)(F), Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, [110 Stat. 1854][/us/stat/110/1854], 1857, 1890; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(f)(5)(A), Aug. 5, 1997, [111 Stat. 1091][/us/stat/111/1091].)
 
  __References in Text__ 
 
-    Section 596, referred to in subsec. (b)(2)(D)(iv), was repealed by [Pub. L. 104–188, title I, § 1616(b)(9)][/us/pl/104/188/s1616/b/9], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857].
+    Section 596, referred to in subsec. (b)(2)(D)(iv), was repealed by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(b)(9), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857].
 
     The Tax Reform Act of 1976, referred to in subsec. (c)(2), is [Pub. L. 94–455][/us/pl/94/455], Oct. 4, 1976, [90 Stat. 1520][/us/stat/90/1520], as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
@@ -293,87 +293,87 @@
 
     1997—Subsec. (e)(1)(A). [Pub. L. 105–34][/us/pl/105/34] inserted “(and, in the case of an S corporation, the accumulated adjustments account, as defined in section 1368(e)(1))” after “1951,”.
 
-    1996—Subsec. (b)(1)(A), (3). [Pub. L. 104–188, § 1704(t)(51)][/us/pl/104/188/s1704/t/51], provided that the amendment made by [section 11801(c)(12)(F) of Pub. L. 101–508][/us/pl/101/508/s11801/c/12/F] shall be applied as if “and (3)” appeared instead of “and (E)”. See 1990 Amendment note below.
+    1996—Subsec. (b)(1)(A), (3). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(51), provided that the amendment made by [section 11801(c)(12)(F) of Pub. L. 101–508][/us/pl/101/508/s11801/c/12/F] shall be applied as if “and (3)” appeared instead of “and (E)”. See 1990 Amendment note below.
 
-    Subsec. (e)(1). [Pub. L. 104–188, § 1616(b)(7)(A)][/us/pl/104/188/s1616/b/7/A], substituted “by a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(7)(A), substituted “by a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)” in introductory provisions.
 
-    [Pub. L. 104–188, § 1616(b)(7)(C)][/us/pl/104/188/s1616/b/7/C]–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
+    [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
 
-    Subsec. (e)(1)(B). [Pub. L. 104–188, § 1616(b)(7)(B)][/us/pl/104/188/s1616/b/7/B], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
+    Subsec. (e)(1)(B). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
 
-    Subsecs. (f), (g). [Pub. L. 104–188, § 1616(a)][/us/pl/104/188/s1616/a], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 104–188][/us/pl/104/188], § 1616(a), added subsecs. (f) and (g).
 
-    1990—Subsec. (b). [Pub. L. 101–508, § 11801(c)(12)(F)][/us/pl/101/508/s11801/c/12/F], which directed the amendment of pars. (1)(A) and (E) by substituting “section 585(b)(2)” for “section 585(b)(3)”, was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
+    1990—Subsec. (b). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(12)(F), which directed the amendment of pars. (1)(A) and (E) by substituting “section 585(b)(2)” for “section 585(b)(3)”, was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
 
     1989—Subsec. (e)(1). [Pub. L. 101–73][/us/pl/101/73] amended last sentence generally. Prior to amendment, last sentence read as follows: “This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section 406(f) of the National Housing Act (12 U.S.C. sec. 1729(f)).”
 
-    1988—Subsec. (b)(2)(D)(v). [Pub. L. 100–647, § 1003(c)(3)][/us/pl/100/647/s1003/c/3], added cl. (v).
+    1988—Subsec. (b)(2)(D)(v). [Pub. L. 100–647][/us/pl/100/647], § 1003(c)(3), added cl. (v).
 
-    Subsec. (d)(4). [Pub. L. 100–647, § 1006(t)(25)(B)][/us/pl/100/647/s1006/t/25/B], inserted at end “For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC’s are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.”
+    Subsec. (d)(4). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(25)(B), inserted at end “For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC’s are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.”
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 901(b)(1)][/us/pl/99/514/s901/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to any mutual savings bank, domestic building and loan association, or cooperative bank without capital stock organized and operated for mutual purposes and without profit.”
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to any mutual savings bank, domestic building and loan association, or cooperative bank without capital stock organized and operated for mutual purposes and without profit.”
 
-    Subsec. (b)(1). [Pub. L. 99–514, § 901(d)(2)(A)][/us/pl/99/514/s901/d/2/A], (B), in introductory provisions, substituted “subsection (a)” for “section 166(c)” and in subpar. (B), substituted “paragraph (2) or (3), whichever is the larger” for “paragraph (2), (3), or (4), whichever amount is the largest” in introductory provisions and “paragraph (3)” for “paragraph (4)” in cl. (i).
+    Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 901(d)(2)(A), (B), in introductory provisions, substituted “subsection (a)” for “section 166(c)” and in subpar. (B), substituted “paragraph (2) or (3), whichever is the larger” for “paragraph (2), (3), or (4), whichever amount is the largest” in introductory provisions and “paragraph (3)” for “paragraph (4)” in cl. (i).
 
-    Subsec. (b)(2)(A). [Pub. L. 99–514, § 901(b)(2)(A)][/us/pl/99/514/s901/b/2/A], added subpar. (A) and struck out former subpar. (A) which provided that subject to subpars. (B), (C), and (D), the amount determined under par. (2) was to be an amount equal to applicable percentage of taxable income for such year determined under a table which fixed specific percentages for taxable years 1976, 1977, 1978, and 1979 or thereafter.
+    Subsec. (b)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(2)(A), added subpar. (A) and struck out former subpar. (A) which provided that subject to subpars. (B), (C), and (D), the amount determined under par. (2) was to be an amount equal to applicable percentage of taxable income for such year determined under a table which fixed specific percentages for taxable years 1976, 1977, 1978, and 1979 or thereafter.
 
-    Subpar. (b)(2)(B). [Pub. L. 99–514, § 901(b)(2)(A)][/us/pl/99/514/s901/b/2/A], added subpar. (B), which incorporated provisions of former subpar. (C), relating to reducing amounts referred to in par. (1)(A), and struck out former subpar. (B) which provided for reduction of applicable percentage in certain cases.
+    Subpar. (b)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(2)(A), added subpar. (B), which incorporated provisions of former subpar. (C), relating to reducing amounts referred to in par. (1)(A), and struck out former subpar. (B) which provided for reduction of applicable percentage in certain cases.
 
-    Subsec. (b)(2)(C). [Pub. L. 99–514, § 901(b)(2)(A)][/us/pl/99/514/s901/b/2/A], (B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which related to reduction for amounts referred to in par. (1)(A). See par. (1)(B).
+    Subsec. (b)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(2)(A), (B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which related to reduction for amounts referred to in par. (1)(A). See par. (1)(B).
 
-    Subsec. (b)(2)(D). [Pub. L. 99–514, § 901(b)(2)(B)][/us/pl/99/514/s901/b/2/B], (d)(2)(B), redesignated subpar. (E) as (D) and substituted in cl. (iv) “8 percent” for “the applicable percentage (determined under subparagraphs (A) and (B))”. Former subpar. (D) redesignated (C).
+    Subsec. (b)(2)(D). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(2)(B), (d)(2)(B), redesignated subpar. (E) as (D) and substituted in cl. (iv) “8 percent” for “the applicable percentage (determined under subparagraphs (A) and (B))”. Former subpar. (D) redesignated (C).
 
-    Subsec. (b)(2)(E). [Pub. L. 99–514, § 901(b)(2)(B)][/us/pl/99/514/s901/b/2/B], redesignated subpar. (E) as (D).
+    Subsec. (b)(2)(E). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(2)(B), redesignated subpar. (E) as (D).
 
-    [Pub. L. 99–514, § 311(b)(2)][/us/pl/99/514/s311/b/2], redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: “by excluding from gross income an amount equal to the lesser of 18⁄46 of the net long-term capital gain for the taxable year or 18⁄46 of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and”.
+    [Pub. L. 99–514][/us/pl/99/514], § 311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: “by excluding from gross income an amount equal to the lesser of 18⁄46 of the net long-term capital gain for the taxable year or 18⁄46 of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and”.
 
-    Subsec. (b)(3), (4). [Pub. L. 99–514, § 901(b)(3)][/us/pl/99/514/s901/b/3], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year.”
+    Subsec. (b)(3), (4). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year.”
 
-    Subsec. (b)(5). [Pub. L. 99–514, § 901(b)(3)][/us/pl/99/514/s901/b/3], struck out par. (5) which read as follows: “For purposes of paragraph (3), the amount deemed to be the balance of the reserve for losses on loans at the beginning of the taxable year shall be the total of the balances at such time of the reserve for losses on nonqualifying loans, the reserve for losses on qualifying real property loans, and the supplemental reserve for losses on loans.”
+    Subsec. (b)(5). [Pub. L. 99–514][/us/pl/99/514], § 901(b)(3), struck out par. (5) which read as follows: “For purposes of paragraph (3), the amount deemed to be the balance of the reserve for losses on loans at the beginning of the taxable year shall be the total of the balances at such time of the reserve for losses on nonqualifying loans, the reserve for losses on qualifying real property loans, and the supplemental reserve for losses on loans.”
 
-    Subsec. (d)(4). [Pub. L. 99–514, § 671(b)(2)][/us/pl/99/514/s671/b/2], added par. (4).
+    Subsec. (d)(4). [Pub. L. 99–514][/us/pl/99/514], § 671(b)(2), added par. (4).
 
-    Subsec. (e)(1)(B). [Pub. L. 99–514, § 901(d)(2)(C)][/us/pl/99/514/s901/d/2/C], substituted “subsection (b)(3)” for “subsection (B)(4)”.
+    Subsec. (e)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 901(d)(2)(C), substituted “subsection (b)(3)” for “subsection (B)(4)”.
 
-    1981—Subsec. (a). [Pub. L. 97–34, § 245(c)(1)][/us/pl/97/34/s245/c/1], struck out “not having capital stock represented by shares” after “mutual savings bank”.
+    1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34], § 245(c)(1), struck out “not having capital stock represented by shares” after “mutual savings bank”.
 
-    Subsec. (b)(2)(B). [Pub. L. 97–34, § 245(b)(1)][/us/pl/97/34/s245/b/1], inserted “which is not described in section 591(b)” after “mutual savings bank” in cls. (i) and (ii) and in last sentence.
+    Subsec. (b)(2)(B). [Pub. L. 97–34][/us/pl/97/34], § 245(b)(1), inserted “which is not described in section 591(b)” after “mutual savings bank” in cls. (i) and (ii) and in last sentence.
 
-    Subsec. (b)(2)(C). [Pub. L. 97–34, § 245(b)(2)][/us/pl/97/34/s245/b/2], inserted “which are not described in section 591(b)” after “mutual savings banks” in cl. (i).
+    Subsec. (b)(2)(C). [Pub. L. 97–34][/us/pl/97/34], § 245(b)(2), inserted “which are not described in section 591(b)” after “mutual savings banks” in cl. (i).
 
-    Subsec. (e)(1). [Pub. L. 97–34, § 245(c)(2)][/us/pl/97/34/s245/c/2], inserted “or an institution that is treated as a mutual savings bank under section 591(b)” after “domestic building and loan association” and “liquidation of the association”.
+    Subsec. (e)(1). [Pub. L. 97–34][/us/pl/97/34], § 245(c)(2), inserted “or an institution that is treated as a mutual savings bank under section 591(b)” after “domestic building and loan association” and “liquidation of the association”.
 
-    [Pub. L. 97–34, § 243][/us/pl/97/34/s243], inserted provisions making par. (1) inapplicable to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Corporation in exchange for financial assistance pursuant to [section 1729(f) of title 12][/us/usc/t12/s1729/f].
+    [Pub. L. 97–34][/us/pl/97/34], § 243, inserted provisions making par. (1) inapplicable to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Corporation in exchange for financial assistance pursuant to [section 1729(f) of title 12][/us/usc/t12/s1729/f].
 
     1980—Subsec. (b)(2)(E)(iv). [Pub. L. 96–222][/us/pl/96/222] substituted “18⁄46” for “⅜” in two places.
 
-    1976—Subsec. (b)(2)(A). [Pub. L. 94–455, § 1901(a)(84)(A)][/us/pl/94/455/s1901/a/84/A], struck from the percentage table the years 1969 to 1975, inclusive.
+    1976—Subsec. (b)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(A), struck from the percentage table the years 1969 to 1975, inclusive.
 
-    Subsec. (b)(2)(E)(i). [Pub. L. 94–455, § 1901(a)(84)(D)][/us/pl/94/455/s1901/a/84/D], substituted “subsection (e)” for “subsection (f)” after “by reason of”.
+    Subsec. (b)(2)(E)(i). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(D), substituted “subsection (e)” for “subsection (f)” after “by reason of”.
 
-    Subsec. (c)(2). [Pub. L. 94–455, § 1901(a)(84)(B)][/us/pl/94/455/s1901/a/84/B], added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
+    Subsec. (c)(2). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(B), added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
 
-    Subsec. (c)(3). [Pub. L. 94–455, § 1901(a)(84)(B)][/us/pl/94/455/s1901/a/84/B], redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
+    Subsec. (c)(3). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
 
-    Subsec. (c)(4), (5). [Pub. L. 94–455, § 1901(a)(84)(B)][/us/pl/94/455/s1901/a/84/B], struck out par. (4) which defined “pre-1963 reserves”, and struck out par. (5) which related to certain pre-1952 surplus.
+    Subsec. (c)(4), (5). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(B), struck out par. (4) which defined “pre-1963 reserves”, and struck out par. (5) which related to certain pre-1952 surplus.
 
-    Subsec. (c)(6). [Pub. L. 94–455, § 1901(a)(84)(B)][/us/pl/94/455/s1901/a/84/B], redesignated par. (6) as (3).
+    Subsec. (c)(6). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(B), redesignated par. (6) as (3).
 
-    Subsecs. (d) to (f). [Pub. L. 94–455, § 1901(a)(84)(C)][/us/pl/94/455/s1901/a/84/C], struck out subsec. (d) relating to the determination of taxable income for taxpayer which uses the reserve method of accounting for bad debts for taxable years beginning in 1962 and ending in 1963, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+    Subsecs. (d) to (f). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(C), struck out subsec. (d) relating to the determination of taxable income for taxpayer which uses the reserve method of accounting for bad debts for taxable years beginning in 1962 and ending in 1963, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-    Subsecs. (e), (f). [Pub. L. 94–455, § 1901(a)(84)(C)][/us/pl/94/455/s1901/a/84/C], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsecs. (e), (f). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(84)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    1969—Subsec. (b)(1)(A). [Pub. L. 91–172, § 432(a)(1)][/us/pl/91/172/s432/a/1], inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
+    1969—Subsec. (b)(1)(A). [Pub. L. 91–172][/us/pl/91/172], § 432(a)(1), inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
 
-    Subsec. (b)(2). [Pub. L. 91–172, § 432(a)(2)][/us/pl/91/172/s432/a/2], substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
+    Subsec. (b)(2). [Pub. L. 91–172][/us/pl/91/172], § 432(a)(2), substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
 
-    Subsec. (b)(3). [Pub. L. 91–172, § 432(a)(2)][/us/pl/91/172/s432/a/2], substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
+    Subsec. (b)(3). [Pub. L. 91–172][/us/pl/91/172], § 432(a)(2), substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
 
-    Subsec. (b)(4). [Pub. L. 91–172, § 432(a)(2)][/us/pl/91/172/s432/a/2], changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(3).
+    Subsec. (b)(4). [Pub. L. 91–172][/us/pl/91/172], § 432(a)(2), changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(3).
 
-    Subsec. (b)(5). [Pub. L. 91–172, § 432(a)(2)][/us/pl/91/172/s432/a/2], substituted provisions relating to determination of reserve for percentage method for provisions relating to limitation in case of certain domestic building and loan associations.
+    Subsec. (b)(5). [Pub. L. 91–172][/us/pl/91/172], § 432(a)(2), substituted provisions relating to determination of reserve for percentage method for provisions relating to limitation in case of certain domestic building and loan associations.
 
-    Subsec. (f). [Pub. L. 91–172, § 432(b)][/us/pl/91/172/s432/b], excepted the application of par. (1) to any transaction to which [section 381 of this title][/us/usc/t26/s381] applied.
+    Subsec. (f). [Pub. L. 91–172][/us/pl/91/172], § 432(b), excepted the application of par. (1) to any transaction to which [section 381 of this title][/us/usc/t26/s381] applied.
 
     1962—[Pub. L. 87–834][/us/pl/87/834] amended section generally. Prior to such amendment, section read as follows:
 
@@ -391,7 +391,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1616(c)][/us/pl/104/188/s1616/c], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(c), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -415,7 +415,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–73, title XIV, § 1401(c)(6)][/us/pl/101/73/s1401/c/6], Aug. 9, 1989, [103 Stat. 550][/us/stat/103/550], provided that: 
+[Pub. L. 101–73, title XIV][/us/pl/101/73/tXIV], § 1401(c)(6), Aug. 9, 1989, [103 Stat. 550][/us/stat/103/550], provided that: 
 
 > “The amendment made by subsection (b)(3) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 9, 1989\].”
 
@@ -433,7 +433,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title II, § 246(b)][/us/pl/97/34/s246/b], Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], provided that: 
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 246(b), Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], provided that: 
 
 > “The amendment made by section 243 \[amending this section\] shall apply to any distribution made on or after January 1, 1981.”
 
@@ -449,13 +449,13 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IV, § 432(e)][/us/pl/91/172/s432/e], Dec. 30, 1969, [83 Stat. 623][/us/stat/83/623], provided that: 
+[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 432(e), Dec. 30, 1969, [83 Stat. 623][/us/stat/83/623], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7701 of this title][/us/usc/t26/s7701]\] shall be effective for taxable years beginning after July 11, 1969.”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–834, § 6(g)(1)][/us/pl/87/834/s6/g/1], Oct. 16, 1962, [76 Stat. 984][/us/stat/76/984], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 6(g)(1), Oct. 16, 1962, [76 Stat. 984][/us/stat/76/984], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1962, except that section 593(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to distributions after December 31, 1962, in taxable years ending after such date.”
 
@@ -476,88 +476,88 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F205
-[/us/pl/87/834/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs6%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F977
-[/us/pl/91/172/s432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F620
-[/us/pl/94/455/s1901/a/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1778
-[/us/pl/96/222/s104/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs104%2Fa%2F3%2FC
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F215
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F255
-[/us/pl/99/514/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs311%2Fb%2F2
+[/us/pl/99/514/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIII
 [/us/stat/100/2219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2219
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3384
-[/us/pl/101/73/s1401/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1401%2Fb%2F3
+[/us/pl/101/73/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXIV
 [/us/stat/103/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F550
-[/us/pl/101/508/s11801/c/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FF
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-527
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1854
-[/us/pl/105/34/s1601/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Ff%2F5%2FA
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1091
-[/us/pl/104/188/s1616/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F9
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/90/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1520
 [/us/usc/t12/s1815/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1815%2Fe
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/104/188/s1704/t/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F51
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508/s11801/c/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FF
-[/us/pl/104/188/s1616/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F7%2FA
-[/us/pl/104/188/s1616/b/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F7%2FC
-[/us/pl/104/188/s1616/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F7%2FB
-[/us/pl/104/188/s1616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fa
-[/us/pl/101/508/s11801/c/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FF
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
-[/us/pl/100/647/s1003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fc%2F3
-[/us/pl/100/647/s1006/t/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F25%2FB
-[/us/pl/99/514/s901/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F1
-[/us/pl/99/514/s901/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fd%2F2%2FA
-[/us/pl/99/514/s901/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F2%2FA
-[/us/pl/99/514/s901/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F2%2FA
-[/us/pl/99/514/s901/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F2%2FA
-[/us/pl/99/514/s901/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F2%2FB
-[/us/pl/99/514/s901/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F2%2FB
-[/us/pl/99/514/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs311%2Fb%2F2
-[/us/pl/99/514/s901/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F3
-[/us/pl/99/514/s901/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fb%2F3
-[/us/pl/99/514/s671/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fb%2F2
-[/us/pl/99/514/s901/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fd%2F2%2FC
-[/us/pl/97/34/s245/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs245%2Fc%2F1
-[/us/pl/97/34/s245/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs245%2Fb%2F1
-[/us/pl/97/34/s245/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs245%2Fb%2F2
-[/us/pl/97/34/s245/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs245%2Fc%2F2
-[/us/pl/97/34/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs243
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t12/s1729/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1729%2Ff
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
-[/us/pl/94/455/s1901/a/84/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FA
-[/us/pl/94/455/s1901/a/84/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FD
-[/us/pl/94/455/s1901/a/84/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FB
-[/us/pl/94/455/s1901/a/84/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FB
-[/us/pl/94/455/s1901/a/84/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FB
-[/us/pl/94/455/s1901/a/84/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FB
-[/us/pl/94/455/s1901/a/84/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FC
-[/us/pl/94/455/s1901/a/84/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F84%2FC
-[/us/pl/91/172/s432/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa%2F1
-[/us/pl/91/172/s432/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa%2F2
-[/us/pl/91/172/s432/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa%2F2
-[/us/pl/91/172/s432/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa%2F2
-[/us/pl/91/172/s432/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fa%2F2
-[/us/pl/91/172/s432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs381
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1616/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
 [/us/usc/t26/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs595
 [/us/usc/t26/s860E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs860E
-[/us/pl/101/73/s1401/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1401%2Fc%2F6
+[/us/pl/101/73/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXIV
 [/us/stat/103/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F550
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -572,7 +572,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fe
 [/us/usc/t26/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs166
-[/us/pl/97/34/s246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs246%2Fb
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F256
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs246%2Fd
@@ -584,12 +584,12 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/91/172/s432/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs432%2Fe
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F623
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701
-[/us/pl/87/834/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs6%2Fg%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F984
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb

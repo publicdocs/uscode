@@ -39,7 +39,7 @@
 
         For purposes of this chapter, the term “brewer” means any person who brews beer or produces beer for sale. Such term shall not include any person who produces only beer exempt from tax under section 5053(e).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1333][/us/stat/72/1333]; amended [Pub. L. 91–673, § 1(b)][/us/pl/91/673/s1/b], Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 109–59, title XI, § 11125(b)(15)][/us/pl/109/59/s11125/b/15], Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1333][/us/stat/72/1333]; amended [Pub. L. 91–673][/us/pl/91/673], § 1(b), Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(15), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
 
  __Prior Provisions__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1333
-[/us/pl/91/673/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs1%2Fb
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2056
-[/us/pl/109/59/s11125/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F15
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F612

@@ -163,29 +163,29 @@
 
             The Secretary shall prescribe such regulations as may be necessary to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section.
 
-(Added [Pub. L. 99–514, title VIII, § 801(a)][/us/pl/99/514/s801/a], Oct. 22, 1986, [100 Stat. 2345][/us/stat/100/2345]; amended [Pub. L. 100–647, title I, § 1008(a)(1)][/us/pl/100/647/s1008/a/1], (2), (7)–(9), title VI, § 6032(a), Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436], 3437, 3695; [Pub. L. 107–147, title IV, § 403(a)][/us/pl/107/147/s403/a], Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40].)
+(Added [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 801(a), Oct. 22, 1986, [100 Stat. 2345][/us/stat/100/2345]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(a)(1), (2), (7)–(9), title VI, § 6032(a), Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436], 3437, 3695; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 403(a), Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40].)
 
  __Amendments__ 
 
     2002—Subsec. (d)(5). [Pub. L. 107–147][/us/pl/107/147] amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount.”
 
-    1988—Subsec. (c)(3)(D). [Pub. L. 100–647, § 1008(a)(9)][/us/pl/100/647/s1008/a/9], added subpar. (D).
+    1988—Subsec. (c)(3)(D). [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(9), added subpar. (D).
 
-    Subsec. (d)(2). [Pub. L. 100–647, § 6032(a)][/us/pl/100/647/s6032/a], inserted at end “To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B).”
+    Subsec. (d)(2). [Pub. L. 100–647][/us/pl/100/647], § 6032(a), inserted at end “To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B).”
 
-    Subsec. (d)(2)(B). [Pub. L. 100–647, § 1008(a)(1)(A)][/us/pl/100/647/s1008/a/1/A], substituted “(or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a))” for “or indirectly”.
+    Subsec. (d)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(1)(A), substituted “(or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a))” for “or indirectly”.
 
-    Subsec. (d)(3). [Pub. L. 100–647, § 1008(a)(7)][/us/pl/100/647/s1008/a/7], inserted sentence at end relating to treatment of S corporation as tax shelter.
+    Subsec. (d)(3). [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(7), inserted sentence at end relating to treatment of S corporation as tax shelter.
 
-    Subsec. (d)(4)(C). [Pub. L. 100–647, § 1008(a)(8)][/us/pl/100/647/s1008/a/8], substituted “90 percent or more of” for “substantially all of”.
+    Subsec. (d)(4)(C). [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(8), substituted “90 percent or more of” for “substantially all of”.
 
-    [Pub. L. 100–647, § 1008(a)(2)][/us/pl/100/647/s1008/a/2], substituted “such group” for “all such members”.
+    [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(2), substituted “such group” for “all such members”.
 
-    Subsec. (d)(8). [Pub. L. 100–647, § 1008(a)(1)(B)][/us/pl/100/647/s1008/a/1/B], added par. (8).
+    Subsec. (d)(8). [Pub. L. 100–647][/us/pl/100/647], § 1008(a)(1)(B), added par. (8).
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–147, title IV, § 403(b)][/us/pl/107/147/s403/b], Mar. 9, 2002, [116 Stat. 41][/us/stat/116/41], provided that:
+[Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 403(b), Mar. 9, 2002, [116 Stat. 41][/us/stat/116/41], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -205,13 +205,13 @@
 
     Amendment by section 1008(a)(1), (2), (7)–(9) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6032(b)][/us/pl/100/647/s6032/b], Nov. 10, 1988, [102 Stat. 3695][/us/stat/102/3695], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6032(b), Nov. 10, 1988, [102 Stat. 3695][/us/stat/102/3695], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title VIII, § 801(d)][/us/pl/99/514/s801/d], Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348], as amended by [Pub. L. 100–647, title I, § 1008(a)(5)][/us/pl/100/647/s1008/a/5], (6), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 801(d), Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(a)(5), (6), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -252,31 +252,31 @@
 ----------
 ----------
 
-[/us/pl/99/514/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs801%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2345
-[/us/pl/100/647/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3436
-[/us/pl/107/147/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs403%2Fa
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F40
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/100/647/s1008/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F9
-[/us/pl/100/647/s6032/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6032%2Fa
-[/us/pl/100/647/s1008/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F1%2FA
-[/us/pl/100/647/s1008/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F7
-[/us/pl/100/647/s1008/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F8
-[/us/pl/100/647/s1008/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F2
-[/us/pl/100/647/s1008/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F1%2FB
-[/us/pl/107/147/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs403%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F41
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6032%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3695
-[/us/pl/99/514/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs801%2Fd
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2348
-[/us/pl/100/647/s1008/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fa%2F5
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3437
 [/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
 

@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title VI, § 631(e)(16)][/us/pl/99/514/s631/e/16], Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], struck out item 333 “Election as to recognition of gain in certain liquidations”.
+    1986—[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(e)(16), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], struck out item 333 “Election as to recognition of gain in certain liquidations”.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s631/e/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F16
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2275
 
 

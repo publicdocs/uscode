@@ -29,7 +29,7 @@
 
         In determining the deduction for dividends paid, the rules provided in section 562 (relating to rules applicable in determining dividends eligible for dividends paid deduction) and section 563 (relating to dividends paid after the close of the taxable year) shall be applicable.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 87–403, § 3(f)][/us/pl/87/403/s3/f], Feb. 2, 1962, [76 Stat. 8][/us/stat/76/8]; [Pub. L. 94–455, title XIX, § 1901(b)(32)(H)][/us/pl/94/455/s1901/b/32/H], Oct. 4, 1976, [90 Stat. 1800][/us/stat/90/1800].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 87–403][/us/pl/87/403], § 3(f), Feb. 2, 1962, [76 Stat. 8][/us/stat/76/8]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(32)(H), Oct. 4, 1976, [90 Stat. 1800][/us/stat/90/1800].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F198
-[/us/pl/87/403/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403%2Fs3%2Ff
+[/us/pl/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403
 [/us/stat/76/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F8
-[/us/pl/94/455/s1901/b/32/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F32%2FH
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1800
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403

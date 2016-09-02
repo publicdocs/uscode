@@ -63,15 +63,15 @@
 
             The term “fish” includes other forms of aquatic life.
 
-(Added [Pub. L. 104–188, title I, § 1116(b)(1)][/us/pl/104/188/s1116/b/1], Aug. 20, 1996, [110 Stat. 1763][/us/stat/110/1763]; amended [Pub. L. 105–34, title XVI, § 1601(a)][/us/pl/105/34/s1601/a], Aug. 5, 1997, [111 Stat. 1086][/us/stat/111/1086]; [Pub. L. 105–206, title VI, § 6023(21)][/us/pl/105/206/s6023/21], July 22, 1998, [112 Stat. 826][/us/stat/112/826].)
+(Added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1116(b)(1), Aug. 20, 1996, [110 Stat. 1763][/us/stat/110/1763]; amended [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(a), Aug. 5, 1997, [111 Stat. 1086][/us/stat/111/1086]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6023(21), July 22, 1998, [112 Stat. 826][/us/stat/112/826].)
 
  __Amendments__ 
 
     1998—Subsec. (b)(2)(A). [Pub. L. 105–206][/us/pl/105/206] substituted a comma for the semicolon at end.
 
-    1997—[Pub. L. 105–34, § 1601(a)(2)][/us/pl/105/34/s1601/a/2], provided that amendment made by [section 1116(b)(1) of Pub. L. 104–188][/us/pl/104/188/s1116/b/1], shall be applied as if reference to chapter 68 were a reference to chapter 61. [Section 1116(b)(1) of Pub. L. 104–188][/us/pl/104/188/s1116/b/1] directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
+    1997—[Pub. L. 105–34][/us/pl/105/34], § 1601(a)(2), provided that amendment made by [section 1116(b)(1) of Pub. L. 104–188][/us/pl/104/188/s1116/b/1], shall be applied as if reference to chapter 68 were a reference to chapter 61. [Section 1116(b)(1) of Pub. L. 104–188][/us/pl/104/188/s1116/b/1] directed amendment of subpart B of part III of subchapter A of chapter 68 by adding this section.
 
-    Subsec. (c)(1). [Pub. L. 105–34, § 1601(a)(1)][/us/pl/105/34/s1601/a/1], substituted “name, address, and phone number of the information contact” for “name and address”.
+    Subsec. (c)(1). [Pub. L. 105–34][/us/pl/105/34], § 1601(a)(1), substituted “name, address, and phone number of the information contact” for “name and address”.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -79,7 +79,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–188, title I, § 1116(b)(3)][/us/pl/104/188/s1116/b/3], Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1116(b)(3), Aug. 20, 1996, [110 Stat. 1764][/us/stat/110/1764], provided that: 
 
 > “The amendments made by this subsection \[enacting this section and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to payments made after December 31, 1997.”
 
@@ -90,22 +90,22 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1116%2Fb%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1763
-[/us/pl/105/34/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fa
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1086
-[/us/pl/105/206/s6023/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F21
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F826
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fa%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188/s1116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1116%2Fb%2F1
 [/us/pl/104/188/s1116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1116%2Fb%2F1
-[/us/pl/105/34/s1601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fa%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1116/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1116%2Fb%2F3
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1764
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 

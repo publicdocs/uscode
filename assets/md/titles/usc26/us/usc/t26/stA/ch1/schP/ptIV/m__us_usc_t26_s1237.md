@@ -57,21 +57,21 @@
 
         For purposes of this section, the term “tract of real property” means a single piece of real property, except that 2 or more pieces of real property shall be considered a tract if at any time they were contiguous in the hands of the taxpayer or if they would be contiguous except for the interposition of a road, street, railroad, stream, or similar property. If, following the sale or exchange of any lot or parcel from a tract of real property, no further sales or exchanges of any other lots or parcels from the remainder of such tract are made for a period of 5 years, such remainder shall be deemed a tract.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 330][/us/stat/68A/330]; [Apr. 27, 1956, ch. 214][/us/act/1956-04-27/ch214], §§ 1, 2, [70 Stat. 118][/us/stat/70/118]; [Pub. L. 85–866, title I, § 55][/us/pl/85/866/s55], Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; [Pub. L. 91–686, § 2(a)][/us/pl/91/686/s2/a], Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(138), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1787][/us/stat/90/1787], 1834; [Pub. L. 104–188, title I, § 1314][/us/pl/104/188/s1314], Aug. 20, 1996, [110 Stat. 1785][/us/stat/110/1785].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 330][/us/stat/68A/330]; [Apr. 27, 1956, ch. 214][/us/act/1956-04-27/ch214], §§ 1, 2, [70 Stat. 118][/us/stat/70/118]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 55, Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; [Pub. L. 91–686][/us/pl/91/686], § 2(a), Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(138), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1787][/us/stat/90/1787], 1834; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1314, Aug. 20, 1996, [110 Stat. 1785][/us/stat/110/1785].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–188, § 1314(a)][/us/pl/104/188/s1314/a], substituted “other than a C corporation” for “other than a corporation” in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–188][/us/pl/104/188], § 1314(a), substituted “other than a C corporation” for “other than a corporation” in introductory provisions.
 
-    Subsec. (a)(2)(A). [Pub. L. 104–188, § 1314(b)][/us/pl/104/188/s1314/b], inserted “an S corporation which included the taxpayer as a shareholder,” after “controlled by the taxpayer,”.
+    Subsec. (a)(2)(A). [Pub. L. 104–188][/us/pl/104/188], § 1314(b), inserted “an S corporation which included the taxpayer as a shareholder,” after “controlled by the taxpayer,”.
 
-    1976—Subsec. (b)(3)(B), (C). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b)(3)(B), (C). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1901(a)(138)][/us/pl/94/455/s1901/a/138], struck out effective date provision making the section applicable only with respect to sales of property occurring after Dec. 31, 1953, except that for purposes of subsec. (c) defining tract of real property and for determining the number of sales under subsec. (b)(1) of this section, all sales of lots and parcels from any tract of real property during the period of 5 years before Dec. 31, 1953, shall be taken into account, except as provided in subsec. (c).
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(138), struck out effective date provision making the section applicable only with respect to sales of property occurring after Dec. 31, 1953, except that for purposes of subsec. (c) defining tract of real property and for determining the number of sales under subsec. (b)(1) of this section, all sales of lots and parcels from any tract of real property during the period of 5 years before Dec. 31, 1953, shall be taken into account, except as provided in subsec. (c).
 
-    1971—Subsec. (a). [Pub. L. 91–686, § 2(a)(1)][/us/pl/91/686/s2/a/1], substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
+    1971—Subsec. (a). [Pub. L. 91–686][/us/pl/91/686], § 2(a)(1), substituted “other than a corporation” for “(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))”.
 
-    Subsec. (b). [Pub. L. 91–686, § 2(a)(2)][/us/pl/91/686/s2/a/2], struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
+    Subsec. (b). [Pub. L. 91–686][/us/pl/91/686], § 2(a)(2), struck out sentence which made subpars. (B) and (C) inapplicable in the case of property acquired through the foreclosure of a lien thereon which secured the payment of an indebtedness to the taxpayer or (in the case of a corporation) to a creditor who has transferred the foreclosure bid to the taxpayer in exchange for all of its stock and other consideration and in the case of property adjacent to such property if 80 percent of the real property owned by the taxpayer was property described in the first part of the sentence.
 
     1958—Subsec. (a)(1). [Pub. L. 85–866][/us/pl/85/866] substituted “and, in the same taxable year” for “or, in the same taxable year”.
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–686, § 2(b)][/us/pl/91/686/s2/b], Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071], provided that: 
+[Pub. L. 91–686][/us/pl/91/686], § 2(b), Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective for taxable years beginning after the date of enactment of this Act \[Jan. 12, 1971\].”
 
@@ -99,13 +99,13 @@
 
  __Effective Date of 1956 Amendment__ 
 
-[Act Apr. 27, 1956, ch. 214, § 3][/us/act/1956-04-27/ch214/s3], [70 Stat. 119][/us/stat/70/119], provided that: 
+[Act Apr. 27, 1956, ch. 214][/us/act/1956-04-27/ch214], § 3, [70 Stat. 119][/us/stat/70/119], provided that: 
 
 > “This Act \[amending this section\] shall apply to all taxable years beginning after Dec. 31, 1954.”
 
  __Sales or Exchanges by Corporations of Real Property Held More Than 25 Years__ 
 
-[Pub. L. 91–686, § 1][/us/pl/91/686/s1], Jan. 12, 1971, [84 Stat. 2070][/us/stat/84/2070], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided: 
+[Pub. L. 91–686][/us/pl/91/686], § 1, Jan. 12, 1971, [84 Stat. 2070][/us/stat/84/2070], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided: 
 
 >     “That 
 
@@ -156,20 +156,20 @@
 [/us/stat/68A/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F330
 [/us/act/1956-04-27/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch214
 [/us/stat/70/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F118
-[/us/pl/85/866/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs55
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1645
-[/us/pl/91/686/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686%2Fs2%2Fa
+[/us/pl/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686
 [/us/stat/84/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2071
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1787
-[/us/pl/104/188/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1314
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1785
-[/us/pl/104/188/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1314%2Fa
-[/us/pl/104/188/s1314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1314%2Fb
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F138
-[/us/pl/91/686/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686%2Fs2%2Fa%2F1
-[/us/pl/91/686/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686%2Fs2%2Fa%2F2
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686
+[/us/pl/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1317%2Fa
@@ -177,16 +177,16 @@
 [/us/pl/94/455/s1901/a/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F138
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/91/686/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686%2Fs2%2Fb
+[/us/pl/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686
 [/us/stat/84/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2071
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc%2F1
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
-[/us/act/1956-04-27/ch214/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch214%2Fs3
+[/us/act/1956-04-27/ch214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-27%2Fch214
 [/us/stat/70/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F119
-[/us/pl/91/686/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686%2Fs1
+[/us/pl/91/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F686
 [/us/stat/84/2070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2070
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

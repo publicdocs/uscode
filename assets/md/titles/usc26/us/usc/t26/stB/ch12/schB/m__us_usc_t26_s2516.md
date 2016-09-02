@@ -23,7 +23,7 @@
 
     shall be deemed to be transfers made for a full and adequate consideration in money or money’s worth.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 409][/us/stat/68A/409]; [Pub. L. 98–369, div. A, title IV, § 425(b)][/us/pl/98/369/s425/b], July 18, 1984, [98 Stat. 804][/us/stat/98/804].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 409][/us/stat/68A/409]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 425(b), July 18, 1984, [98 Stat. 804][/us/stat/98/804].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 425(c)(2)][/us/pl/98/369/s425/c/2], July 18, 1984, [98 Stat. 804][/us/stat/98/804], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 425(c)(2), July 18, 1984, [98 Stat. 804][/us/stat/98/804], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -44,10 +44,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F409
-[/us/pl/98/369/s425/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F804
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/98/369/s425/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fc%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F804
 
 

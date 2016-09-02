@@ -29,7 +29,7 @@
 
         The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added [Pub. L. 98–369, div. A, title I, § 142(b)][/us/pl/98/369/s142/b], July 18, 1984, [98 Stat. 682][/us/stat/98/682]; amended [Pub. L. 99–514, title XV, § 1534(a)][/us/pl/99/514/s1534/a], Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 815(b)(5)(A), 817(a), Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583], 1584.)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 142(b), July 18, 1984, [98 Stat. 682][/us/stat/98/682]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1534(a), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], §§ 815(b)(5)(A), 817(a), Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583], 1584.)
 
  __Codification__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, § 815(b)(5)(A)][/us/pl/108/357/s815/b/5/A], substituted “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in section catchline.
+    2004—[Pub. L. 108–357][/us/pl/108/357], § 815(b)(5)(A), substituted “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–357, § 817(a)][/us/pl/108/357/s817/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person who fails to meet any requirement imposed by section 6112 shall pay a penalty of $50 for each person with respect to whom there is such a failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection for any calendar year shall not exceed $100,000.”
+    Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 817(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person who fails to meet any requirement imposed by section 6112 shall pay a penalty of $50 for each person with respect to whom there is such a failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection for any calendar year shall not exceed $100,000.”
 
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514] substituted “$100,000” for “$50,000”.
 
@@ -47,13 +47,13 @@
 
     Amendment by [section 815(b)(5)(A) of Pub. L. 108–357][/us/pl/108/357/s815/b/5/A] applicable to transactions with respect to which material aid, assistance, or advice referred to in [section 6111(b)(1)(A)(i) of this title][/us/usc/t26/s6111/b/1/A/i] is provided after Oct. 22, 2004, see [section 815(c) of Pub. L. 108–357][/us/pl/108/357/s815/c], set out as a note under [section 6111 of this title][/us/usc/t26/s6111].
 
-[Pub. L. 108–357, title VIII, § 817(b)][/us/pl/108/357/s817/b], Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 817(b), Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to requests made after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1534(b)][/us/pl/99/514/s1534/b], Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1534(b), Oct. 22, 1986, [100 Stat. 2750][/us/stat/100/2750], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to failures occurring or continuing after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -68,23 +68,23 @@
 ----------
 ----------
 
-[/us/pl/98/369/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs142%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F682
-[/us/pl/99/514/s1534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1534%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2750
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1583
 [/us/usc/t26/s6709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6709
-[/us/pl/108/357/s815/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs815%2Fb%2F5%2FA
-[/us/pl/108/357/s817/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs817%2Fa
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/357/s815/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs815%2Fb%2F5%2FA
 [/us/usc/t26/s6111/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6111%2Fb%2F1%2FA%2Fi
 [/us/pl/108/357/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs815%2Fc
 [/us/usc/t26/s6111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6111
-[/us/pl/108/357/s817/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs817%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1584
-[/us/pl/99/514/s1534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1534%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2750
 [/us/pl/98/369/s142/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs142%2Fd
 [/us/usc/t26/s6112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6112

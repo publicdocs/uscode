@@ -87,23 +87,23 @@
 
         an election may be made to treat such sale, exchange, or distribution as a disposition of all of the assets of such other corporation, and no gain or loss shall be recognized on the sale, exchange, or distribution of such stock.
 
-(Added [Pub. L. 99–514, title VI, § 631(a)][/us/pl/99/514/s631/a], Oct. 22, 1986, [100 Stat. 2269][/us/stat/100/2269]; amended [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, [102 Stat. 3400][/us/stat/102/3400], 3403, 3580.)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(a), Oct. 22, 1986, [100 Stat. 2269][/us/stat/100/2269]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, [102 Stat. 3400][/us/stat/102/3400], 3403, 3580.)
 
  __Prior Provisions__ 
 
-    A prior section 336, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 106][/us/stat/68A/106]; Apr. 2, 1980, [Pub. L. 96–223, title IV, § 403(b)(1)][/us/pl/96/223/s403/b/1], [94 Stat. 304][/us/stat/94/304]; Oct. 19, 1980, [Pub. L. 96–471, § 2(b)(1)][/us/pl/96/471/s2/b/1], (c)(1), [94 Stat. 2253][/us/stat/94/2253], 2254; Sept. 3, 1982, [Pub. L. 97–248, title II, § 222(b)][/us/pl/97/248/s222/b], (e)(1)(D), 224(c)(4), [96 Stat. 478][/us/stat/96/478], 480, 489, related to distributions of property in liquidation, prior to repeal by [Pub. L. 99–514, § 631(a)][/us/pl/99/514/s631/a].
+    A prior section 336, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 106][/us/stat/68A/106]; Apr. 2, 1980, [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 403(b)(1), [94 Stat. 304][/us/stat/94/304]; Oct. 19, 1980, [Pub. L. 96–471][/us/pl/96/471], § 2(b)(1), (c)(1), [94 Stat. 2253][/us/stat/94/2253], 2254; Sept. 3, 1982, [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 222(b), (e)(1)(D), 224(c)(4), [96 Stat. 478][/us/stat/96/478], 480, 489, related to distributions of property in liquidation, prior to repeal by [Pub. L. 99–514][/us/pl/99/514], § 631(a).
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–647, § 1006(e)(21)(A)][/us/pl/100/647/s1006/e/21/A], substituted “liabilities” for “liabilities in excess of basis” in heading.
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(21)(A), substituted “liabilities” for “liabilities in excess of basis” in heading.
 
-    Subsec. (c). [Pub. L. 100–647, § 1018(d)(5)(D)][/us/pl/100/647/s1018/d/5/D], substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1018(d)(5)(D), substituted “liquidations which are part of a reorganization” for “certain liquidations to which part III applies” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply with respect to any distribution of property to the extent there is nonrecognition of gain or loss with respect to such property to the recipient under part III.”
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 100–647, § 1006(e)(1)][/us/pl/100/647/s1006/e/1], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II).”
+    Subsec. (d)(2)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of clause (i), any property described in clause (i)(I) acquired by the liquidating corporation during the 2-year period ending on the date of the adoption of the plan of complete liquidation shall, except as provided in regulations, be treated as part of a plan described in clause (i)(II).”
 
-    Subsec. (d)(3). [Pub. L. 100–647, § 1006(e)(2)][/us/pl/100/647/s1006/e/2], inserted at end “The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.”
+    Subsec. (d)(3). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(2), inserted at end “The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.”
 
-    Subsec. (e). [Pub. L. 100–647, § 1006(e)(3)][/us/pl/100/647/s1006/e/3], substituted “an election may be made” for “such corporation may elect” in concluding provisions.
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(3), substituted “an election may be made” for “such corporation may elect” in concluding provisions.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -111,7 +111,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title VI, § 633][/us/pl/99/514/s633], Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], as amended by [Pub. L. 100–647, title I, § 1006(g)][/us/pl/100/647/s1006/g], Nov. 10, 1988, [102 Stat. 3407][/us/stat/102/3407], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 633, Oct. 22, 1986, [100 Stat. 2277][/us/stat/100/2277], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(g), Nov. 10, 1988, [102 Stat. 3407][/us/stat/102/3407], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -392,31 +392,31 @@
 ----------
 ----------
 
-[/us/pl/99/514/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2269
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3400
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F106
-[/us/pl/96/223/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs403%2Fb%2F1
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F304
-[/us/pl/96/471/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs2%2Fb%2F1
+[/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/stat/94/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2253
-[/us/pl/97/248/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F478
-[/us/pl/99/514/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fa
-[/us/pl/100/647/s1006/e/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F21%2FA
-[/us/pl/100/647/s1018/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F5%2FD
-[/us/pl/100/647/s1006/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F1
-[/us/pl/100/647/s1006/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F2
-[/us/pl/100/647/s1006/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F3
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs633
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2277
-[/us/pl/100/647/s1006/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fg
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3407
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs337

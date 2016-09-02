@@ -17,7 +17,7 @@
 
     The value of the gross estate shall include the value of all property to the extent of the interest therein of the decedent at the time of his death.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 87–834, § 18(a)(2)(A)][/us/pl/87/834/s18/a/2/A], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 87–834][/us/pl/87/834], § 18(a)(2)(A), Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F381
-[/us/pl/87/834/s18/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F2%2FA
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1052
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834

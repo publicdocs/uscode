@@ -137,7 +137,7 @@
 
             (B) the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 512][/us/stat/83/512]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596, § 2(a)(1)(F)][/us/pl/96/596/s2/a/1/F], (2)(E), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3470; [Pub. L. 98–369, div. A, title III, § 302(b)][/us/pl/98/369/s302/b], July 18, 1984, [98 Stat. 780][/us/stat/98/780]; [Pub. L. 99–514, title I, § 122(a)(2)(B)][/us/pl/99/514/s122/a/2/B], Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110]; [Pub. L. 100–647, title I, § 1001(d)(1)(B)][/us/pl/100/647/s1001/d/1/B], Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(e), 1244(b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107; [Pub. L. 113–295, div. A, title II, § 221(a)(106)][/us/pl/113/295/s221/a/106], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 512][/us/stat/83/512]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(F), (2)(E), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3470; [Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 302(b), July 18, 1984, [98 Stat. 780][/us/stat/98/780]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 122(a)(2)(B), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1001(d)(1)(B), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], §§ 1212(e), 1244(b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(106), Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __References in Text__ 
 
@@ -151,13 +151,13 @@
 
     2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] struck out “(excluding therefrom any preceding taxable year which begins before January 1, 1970)” after “taxable years of such organization” in concluding provisions.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–280, § 1212(e)(1)(A)][/us/pl/109/280/s1212/e/1/A], substituted “20 percent” for “10 percent”. See Codification note above.
+    2006—Subsec. (a)(1). [Pub. L. 109–280][/us/pl/109/280], § 1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
 
-    Subsec. (a)(2). [Pub. L. 109–280, § 1212(e)(1)(B)][/us/pl/109/280/s1212/e/1/B], substituted “5 percent” for “2½ percent”. See Codification note above.
+    Subsec. (a)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
-    Subsec. (c)(2). [Pub. L. 109–280, § 1212(e)(2)][/us/pl/109/280/s1212/e/2], substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+    Subsec. (c)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(e)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
 
-    Subsec. (d)(4)(A). [Pub. L. 109–280, § 1244(b)][/us/pl/109/280/s1244/b], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or”. See Codification note above.
+    Subsec. (d)(4)(A). [Pub. L. 109–280][/us/pl/109/280], § 1244(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or”. See Codification note above.
 
     1988—Subsec. (g)(1). [Pub. L. 100–647][/us/pl/100/647] amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the grant constitutes a scholarship or fellowship grant which is subject to the provisions of section 117(a) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
 
@@ -165,13 +165,13 @@
 
     1984—Subsec. (d)(4). [Pub. L. 98–369][/us/pl/98/369], in amending par. (4) generally, divided existing provisions into subpars. (A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
 
-    1980—Subsec. (b)(1). [Pub. L. 96–596, § 2(a)(1)(F)][/us/pl/96/596/s2/a/1/F], substituted “taxable period” for “correction period”.
+    1980—Subsec. (b)(1). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(F), substituted “taxable period” for “correction period”.
 
-    Subsec. (i)(2). [Pub. L. 96–596, § 2(a)(2)(E)][/us/pl/96/596/s2/a/2/E], substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212] or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines to be reasonable and necessary, except that such determination not be made with respect to any taxable expenditure within the meaning of pars. (1), (2), (3), or (4) of subsec. (d) of this section because of any action by an appropriate State officer.
+    Subsec. (i)(2). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(2)(E), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212] or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which the deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines to be reasonable and necessary, except that such determination not be made with respect to any taxable expenditure within the meaning of pars. (1), (2), (3), or (4) of subsec. (d) of this section because of any action by an appropriate State officer.
 
     1976—Subsec. (g). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
 
-    Subsecs. (h), (i). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wher­ever appearing.
+    Subsecs. (h), (i). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wher­ever appearing.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -193,7 +193,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title III, § 302(c)(2)][/us/pl/98/369/s302/c/2], July 18, 1984, [98 Stat. 781][/us/stat/98/781], provided that: 
+[Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 302(c)(2), July 18, 1984, [98 Stat. 781][/us/stat/98/781], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply to grants made after December 31, 1984, in taxable years ending after such date.”
 
@@ -212,39 +212,39 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F512
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1795
-[/us/pl/96/596/s2/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FF
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3469
-[/us/pl/98/369/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs302%2Fb
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F780
-[/us/pl/99/514/s122/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fa%2F2%2FB
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2110
-[/us/pl/100/647/s1001/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Fd%2F1%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3350
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
-[/us/pl/113/295/s221/a/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F106
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/109/280/s1212/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F1%2FA
-[/us/pl/109/280/s1212/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F1%2FB
-[/us/pl/109/280/s1212/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F2
-[/us/pl/109/280/s1244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1244%2Fb
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/96/596/s2/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FF
-[/us/pl/96/596/s2/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F2%2FE
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -261,7 +261,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s151/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fc
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/98/369/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs302%2Fc%2F2
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F781
 [/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/pl/96/596/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fd

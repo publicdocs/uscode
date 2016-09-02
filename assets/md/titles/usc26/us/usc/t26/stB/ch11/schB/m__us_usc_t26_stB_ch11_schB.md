@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–809, title I, § 108(h)][/us/pl/89/809/s108/h], Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574], added items 2107 and 2108.
+    1966—[Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(h), Nov. 13, 1966, [80 Stat. 1574][/us/stat/80/1574], added items 2107 and 2108.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/89/809/s108/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fh
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1574
 
 

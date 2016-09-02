@@ -55,7 +55,7 @@
 
         (3) expenditures for job training and educational programs.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1401(a)][/us/pl/111/5/s1401/a], Feb. 17, 2009, [123 Stat. 349][/us/stat/123/349].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1401(a), Feb. 17, 2009, [123 Stat. 349][/us/stat/123/349].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1401%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F349
 
 

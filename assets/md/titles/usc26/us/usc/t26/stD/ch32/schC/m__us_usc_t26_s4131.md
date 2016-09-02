@@ -37,7 +37,7 @@
 
         (2) during periods after the date of the enactment of the Revenue Reconciliation Act of 1993.
 
-(Added [Pub. L. 100–203, title IX, § 9201(a)][/us/pl/100/203/s9201/a], Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327]; amended [Pub. L. 103–66, title XIII, § 13421(a)][/us/pl/103/66/s13421/a], Aug. 10, 1993, [107 Stat. 565][/us/stat/107/565]; [Pub. L. 105–34, title IX, § 904(a)][/us/pl/105/34/s904/a], Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873].)
+(Added [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9201(a), Dec. 22, 1987, [101 Stat. 1330–327][/us/stat/101/1330-327]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13421(a), Aug. 10, 1993, [107 Stat. 565][/us/stat/107/565]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 904(a), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873].)
 
  __References in Text__ 
 
@@ -121,19 +121,19 @@ $4.56    </td>
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title IX, § 904(d)][/us/pl/105/34/s904/d], Aug. 5, 1997, [111 Stat. 874][/us/stat/111/874], provided that: 
+[Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 904(d), Aug. 5, 1997, [111 Stat. 874][/us/stat/111/874], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4132 of this title][/us/usc/t26/s4132]\] shall take effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title IX, § 9201(d)][/us/pl/100/203/s9201/d], Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9201(d), Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 4132 of this title][/us/usc/t26/s4132] and amending sections 4221 and 6416 of this title\] shall take effect on January 1, 1988.”
 
  __Floor Stocks Tax__ 
 
-[Pub. L. 103–66, title XIII, § 13421(c)][/us/pl/103/66/s13421/c], Aug. 10, 1993, [107 Stat. 566][/us/stat/107/566], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13421(c), Aug. 10, 1993, [107 Stat. 566][/us/stat/107/566], provided that:
 
 >     “(1)  __Imposition of tax__  __.—__ 
 
@@ -176,22 +176,22 @@ $4.56    </td>
 ----------
 ----------
 
-[/us/pl/100/203/s9201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9201%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-327
-[/us/pl/103/66/s13421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13421%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F565
-[/us/pl/105/34/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs904%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F873
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/105/34/s904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs904%2Fd
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F874
 [/us/usc/t26/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4132
-[/us/pl/100/203/s9201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9201%2Fd
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-330
 [/us/usc/t26/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4132
-[/us/pl/103/66/s13421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13421%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F566
 
 

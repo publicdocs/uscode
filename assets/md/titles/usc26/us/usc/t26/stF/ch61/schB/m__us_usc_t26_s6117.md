@@ -17,7 +17,7 @@
 
     For inspection of records, returns, etc., concerning gasoline or lubricating oils, see section 4102.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756], § 6109; renumbered § 6110, [Pub. L. 87–397, § 1(a)][/us/pl/87/397/s1/a], Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; renumbered § 6111 and amended [Pub. L. 94–455, title XII, § 1201(a)][/us/pl/94/455/s1201/a], title XIX, § 1906(a)(8), Oct. 4, 1976, [90 Stat. 1660][/us/stat/90/1660], 1824; renumbered § 6112, renumbered § 6113, [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 141(a), 142(a), July 18, 1984, [98 Stat. 677][/us/stat/98/677], 681; renumbered § 6114, [Pub. L. 100–203, title X, § 10701(a)][/us/pl/100/203/s10701/a], Dec. 22, 1987, [101 Stat. 1330–457][/us/stat/101/1330-457]; renumbered § 6115, [Pub. L. 100–647, title I, § 1012(aa)(5)(A)][/us/pl/100/647/s1012/aa/5/A], Nov. 10, 1988, [102 Stat. 3532][/us/stat/102/3532]; renumbered § 6116, [Pub. L. 103–66, title XIII, § 13173(a)][/us/pl/103/66/s13173/a], Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456]; renumbered § 6117, [Pub. L. 112–41, title V, § 502(a)][/us/pl/112/41/s502/a], Oct. 21, 2011, [125 Stat. 460][/us/stat/125/460].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 756][/us/stat/68A/756], § 6109; renumbered § 6110, [Pub. L. 87–397][/us/pl/87/397], § 1(a), Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; renumbered § 6111 and amended [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1201(a), title XIX, § 1906(a)(8), Oct. 4, 1976, [90 Stat. 1660][/us/stat/90/1660], 1824; renumbered § 6112, renumbered § 6113, [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], §§ 141(a), 142(a), July 18, 1984, [98 Stat. 677][/us/stat/98/677], 681; renumbered § 6114, [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10701(a), Dec. 22, 1987, [101 Stat. 1330–457][/us/stat/101/1330-457]; renumbered § 6115, [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(aa)(5)(A), Nov. 10, 1988, [102 Stat. 3532][/us/stat/102/3532]; renumbered § 6116, [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13173(a), Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456]; renumbered § 6117, [Pub. L. 112–41, title V][/us/pl/112/41/tV], § 502(a), Oct. 21, 2011, [125 Stat. 460][/us/stat/125/460].)
 
  __Amendments__ 
 
@@ -32,19 +32,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F756
-[/us/pl/87/397/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397%2Fs1%2Fa
+[/us/pl/87/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397
 [/us/stat/75/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F828
-[/us/pl/94/455/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1201%2Fa
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1660
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F677
-[/us/pl/100/203/s10701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10701%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-457
-[/us/pl/100/647/s1012/aa/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Faa%2F5%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3532
-[/us/pl/103/66/s13173/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13173%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F456
-[/us/pl/112/41/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs502%2Fa
+[/us/pl/112/41/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2FtV
 [/us/stat/125/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F460
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 

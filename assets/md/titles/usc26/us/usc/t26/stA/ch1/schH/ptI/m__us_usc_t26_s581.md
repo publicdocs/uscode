@@ -17,7 +17,7 @@
 
     For purposes of sections 582 and 584, the term “bank” means a bank or trust company incorporated and doing business under the laws of the United States (including laws relating to the District of Columbia) or of any State, a substantial part of the business of which consists of receiving deposits and making loans and discounts, or of exercising fiduciary powers similar to those permitted to national banks under authority of the Comptroller of the Currency, and which is subject by law to supervision and examination by State, Territorial, or Federal authority having supervision over banking institutions. Such term also means a domestic building and loan association.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 202][/us/stat/68A/202]; [Pub. L. 87–722, § 5][/us/pl/87/722/s5], Sept. 28, 1962, [76 Stat. 670][/us/stat/76/670]; [Pub. L. 94–455, title XIX, § 1901(c)(5)][/us/pl/94/455/s1901/c/5], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 202][/us/stat/68A/202]; [Pub. L. 87–722][/us/pl/87/722], § 5, Sept. 28, 1962, [76 Stat. 670][/us/stat/76/670]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(c)(5), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F202
-[/us/pl/87/722/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722%2Fs5
+[/us/pl/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722
 [/us/stat/76/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F670
-[/us/pl/94/455/s1901/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F5
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F722

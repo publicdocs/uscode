@@ -39,7 +39,7 @@
 
         (3) for the payment of all expenses of administration incurred by the Department of the Treasury, the Army Corps of Engineers, and the Department of Commerce related to the administration of subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year.
 
-(Added [Pub. L. 99–662, title XIV, § 1403(a)][/us/pl/99/662/s1403/a], Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269]; amended [Pub. L. 103–182, title VI, § 683(a)][/us/pl/103/182/s683/a], Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218]; [Pub. L. 104–303, title VI, § 601][/us/pl/104/303/s601], Oct. 12, 1996, [110 Stat. 3792][/us/stat/110/3792]; [Pub. L. 113–121, title II, § 2102(c)][/us/pl/113/121/s2102/c], June 10, 2014, [128 Stat. 1278][/us/stat/128/1278].)
+(Added [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1403(a), Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269]; amended [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 683(a), Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218]; [Pub. L. 104–303, title VI][/us/pl/104/303/tVI], § 601, Oct. 12, 1996, [110 Stat. 3792][/us/stat/110/3792]; [Pub. L. 113–121, title II][/us/pl/113/121/tII], § 2102(c), June 10, 2014, [128 Stat. 1278][/us/stat/128/1278].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–182, title VI, § 683(b)][/us/pl/103/182/s683/b], Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218], provided that: 
+[Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 683(b), Dec. 8, 1993, [107 Stat. 2218][/us/stat/107/2218], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Dec. 8, 1993\].”
 
  __Effective Date__ 
 
-[Pub. L. 99–662, title XIV, § 1403(d)][/us/pl/99/662/s1403/d], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], provided that: 
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1403(d), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on April 1, 1987.”
 
  __Harbor Maintenance Trust Fund Deposits and Expenditures__ 
 
-[Pub. L. 102–580, title III, § 330][/us/pl/102/580/s330], Oct. 31, 1992, [106 Stat. 4851][/us/stat/106/4851], provided that:
+[Pub. L. 102–580, title III][/us/pl/102/580/tIII], § 330, Oct. 31, 1992, [106 Stat. 4851][/us/stat/106/4851], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -104,13 +104,13 @@
 
 [/us/act/1954-05-13/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fs13%2Fa
 [/us/act/1954-05-13/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fs13%2Fb
-[/us/pl/99/662/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1403%2Fa
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4269
-[/us/pl/103/182/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs683%2Fa
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2218
-[/us/pl/104/303/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs601
+[/us/pl/104/303/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2FtVI
 [/us/stat/110/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3792
-[/us/pl/113/121/s2102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2Fs2102%2Fc
+[/us/pl/113/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121%2FtII
 [/us/stat/128/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1278
 [/us/act/1954-05-13/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-05-13%2Fs13
 [/us/usc/t33/s988a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs988a
@@ -118,11 +118,11 @@
 [/us/pl/113/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F121
 [/us/pl/104/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
-[/us/pl/103/182/s683/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs683%2Fb
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2218
-[/us/pl/99/662/s1403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1403%2Fd
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4270
-[/us/pl/102/580/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs330
+[/us/pl/102/580/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2FtIII
 [/us/stat/106/4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4851
 
 

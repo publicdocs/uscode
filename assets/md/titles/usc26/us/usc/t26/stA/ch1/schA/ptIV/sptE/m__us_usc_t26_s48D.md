@@ -191,7 +191,7 @@
 
             Any such grant shall not be includible in the gross income of the taxpayer.
 
-(Added [Pub. L. 111–148, title IX, § 9023(a)][/us/pl/111/148/s9023/a], Mar. 23, 2010, [124 Stat. 877][/us/stat/124/877].)
+(Added [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9023(a), Mar. 23, 2010, [124 Stat. 877][/us/stat/124/877].)
 
  __References in Text__ 
 
@@ -211,7 +211,7 @@
 
  __Grants for Qualified Investments in Therapeutic Discovery Projects in Lieu of Tax Credits__ 
 
-[Pub. L. 111–148, title IX, § 9023(e)][/us/pl/111/148/s9023/e], Mar. 23, 2010, [124 Stat. 881][/us/stat/124/881], provided that:
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9023(e), Mar. 23, 2010, [124 Stat. 881][/us/stat/124/881], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -314,7 +314,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s9023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Fa
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F877
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
@@ -323,7 +323,7 @@
 [/us/pl/111/148/s9023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Fe
 [/us/pl/111/148/s9023/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Ff
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
-[/us/pl/111/148/s9023/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9023%2Fe
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F881
 
 

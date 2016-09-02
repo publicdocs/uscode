@@ -61,17 +61,17 @@
 
             Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
 
-(Added [Pub. L. 113–168, § 2(a)][/us/pl/113/168/s2/a], Sept. 26, 2014, [128 Stat. 1883][/us/stat/128/1883].)
+(Added [Pub. L. 113–168][/us/pl/113/168], § 2(a), Sept. 26, 2014, [128 Stat. 1883][/us/stat/128/1883].)
 
  __References in Text__ 
 
     The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
-    Section 3(a) of the Tribal General Welfare Exclusion Act of 2013, referred to in subsec. (c)(3), probably should be a reference to section 3(a) of the Tribal General Welfare Exclusion Act of 2014, [Pub. L. 113–168, § 3(a)][/us/pl/113/168/s3/a], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], which is set out as a note under this section. There is no Tribal General Welfare Exclusion Act of 2013.
+    Section 3(a) of the Tribal General Welfare Exclusion Act of 2013, referred to in subsec. (c)(3), probably should be a reference to section 3(a) of the Tribal General Welfare Exclusion Act of 2014, [Pub. L. 113–168][/us/pl/113/168], § 3(a), Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], which is set out as a note under this section. There is no Tribal General Welfare Exclusion Act of 2013.
 
  __Effective Date__ 
 
-[Pub. L. 113–168, § 2(d)][/us/pl/113/168/s2/d], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that:
+[Pub. L. 113–168][/us/pl/113/168], § 2(d), Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -83,13 +83,13 @@
 
  __Statutory Construction__ 
 
-[Pub. L. 113–168, § 2(c)][/us/pl/113/168/s2/c], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that: 
+[Pub. L. 113–168][/us/pl/113/168], § 2(c), Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that: 
 
 > “Ambiguities in section 139E of such Code \[Internal Revenue Code of 1986\], as added by this Act, shall be resolved in favor of Indian tribal governments and deference shall be given to Indian tribal governments for the programs administered and authorized by the tribe to benefit the general welfare of the tribal community.”
 
  __Tribal Advisory Committee__ 
 
-[Pub. L. 113–168, § 3][/us/pl/113/168/s3], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that:
+[Pub. L. 113–168][/us/pl/113/168], § 3, Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -133,7 +133,7 @@
 
  __Other Relief for Indian Tribes__ 
 
-[Pub. L. 113–168, § 4][/us/pl/113/168/s4], Sept. 26, 2014, [128 Stat. 1885][/us/stat/128/1885], provided that:
+[Pub. L. 113–168][/us/pl/113/168], § 4, Sept. 26, 2014, [128 Stat. 1885][/us/stat/128/1885], provided that:
 
 >     “(a)  __Temporary Suspension of Examinations__  __.—__ 
 
@@ -163,20 +163,20 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/113/168/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fa
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1883
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/113/168/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs3%2Fa
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
-[/us/pl/113/168/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fd
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
-[/us/pl/113/168/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fc
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
-[/us/pl/113/168/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs3
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
-[/us/pl/113/168/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs4
+[/us/pl/113/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168
 [/us/stat/128/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1885
 [/us/pl/113/168/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs3%2Fb%2F2
 

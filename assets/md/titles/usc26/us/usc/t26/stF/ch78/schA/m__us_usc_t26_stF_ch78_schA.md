@@ -131,19 +131,19 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title III, § 3413(d)][/us/pl/105/206/s3413/d], July 22, 1998, [112 Stat. 754][/us/stat/112/754], added items 7612 and 7613 and struck out former item 7612 “Cross references”.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3413(d), July 22, 1998, [112 Stat. 754][/us/stat/112/754], added items 7612 and 7613 and struck out former item 7612 “Cross references”.
 
-    1984—[Pub. L. 98–573, title II, § 213(b)(2)][/us/pl/98/573/s213/b/2], Oct. 30, 1984, [98 Stat. 2988][/us/stat/98/2988], struck out item 7607 “Additional authority for Bureau of Customs”.
+    1984—[Pub. L. 98–573, title II][/us/pl/98/573/tII], § 213(b)(2), Oct. 30, 1984, [98 Stat. 2988][/us/stat/98/2988], struck out item 7607 “Additional authority for Bureau of Customs”.
 
-    [Pub. L. 98–369, div. A, title X, § 1033(c)(2)][/us/pl/98/369/s1033/c/2], July 18, 1984, [98 Stat. 1039][/us/stat/98/1039], added item 7611 and redesignated former item 7611 as 7612.
+    [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1033(c)(2), July 18, 1984, [98 Stat. 1039][/us/stat/98/1039], added item 7611 and redesignated former item 7611 as 7612.
 
-    1976—[Pub. L. 94–455, title XII, § 1205(b)][/us/pl/94/455/s1205/b], Oct. 4, 1976, [90 Stat. 1702][/us/stat/90/1702], substituted “Special procedures for third-party summonses” for “Cross references” in item 7609 and added items 7610 and 7611.
+    1976—[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1205(b), Oct. 4, 1976, [90 Stat. 1702][/us/stat/90/1702], substituted “Special procedures for third-party summonses” for “Cross references” in item 7609 and added items 7610 and 7611.
 
-    1970—[Pub. L. 91–513, title III, § 1102(g)(2)][/us/pl/91/513/s1102/g/2], Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293], struck out “Bureau of Narcotics and” before “Bureau of Customs” in item 7607.
+    1970—[Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(g)(2), Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293], struck out “Bureau of Narcotics and” before “Bureau of Customs” in item 7607.
 
-    1958—[Pub. L. 85–859, title II, § 204(16)][/us/pl/85/859/s204/16], Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430], added item 7608 and redesignated former item 7608 as 7609.
+    1958—[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(16), Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430], added item 7608 and redesignated former item 7608 as 7609.
 
-    1956—[Act July 18, 1956, ch. 629, § 104(b)][/us/act/1956-07-18/ch629/s104/b], [70 Stat. 570][/us/stat/70/570], added item 7607 and redesignated former item 7607 as 7608.
+    1956—[Act July 18, 1956, ch. 629][/us/act/1956-07-18/ch629], § 104(b), [70 Stat. 570][/us/stat/70/570], added item 7607 and redesignated former item 7607 as 7608.
 
 ----------
 
@@ -152,19 +152,19 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3413%2Fd
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F754
-[/us/pl/98/573/s213/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2Fs213%2Fb%2F2
+[/us/pl/98/573/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F573%2FtII
 [/us/stat/98/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2988
-[/us/pl/98/369/s1033/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1033%2Fc%2F2
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1039
-[/us/pl/94/455/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1205%2Fb
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1702
-[/us/pl/91/513/s1102/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fg%2F2
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1293
-[/us/pl/85/859/s204/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F16
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1430
-[/us/act/1956-07-18/ch629/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch629%2Fs104%2Fb
+[/us/act/1956-07-18/ch629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-18%2Fch629
 [/us/stat/70/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F570
 
 

@@ -67,7 +67,7 @@
 
         The term “employment tax” means any tax imposed by subtitle C.
 
-(Added [Pub. L. 105–34, title XIV, § 1454(a)][/us/pl/105/34/s1454/a], Aug. 5, 1997, [111 Stat. 1055][/us/stat/111/1055]; amended [Pub. L. 105–206, title III, § 3103(b)(1)][/us/pl/105/206/s3103/b/1], July 22, 1998, [112 Stat. 731][/us/stat/112/731]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643.)
+(Added [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1454(a), Aug. 5, 1997, [111 Stat. 1055][/us/stat/111/1055]; amended [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3103(b)(1), July 22, 1998, [112 Stat. 731][/us/stat/112/731]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 314(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643.)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3103(c)][/us/pl/105/206/s3103/c], July 22, 1998, [112 Stat. 731][/us/stat/112/731], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3103(c), July 22, 1998, [112 Stat. 731][/us/stat/112/731], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 7443A and 7463 of this title\] shall apply to proceedings commenced after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1454/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1454%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1055
-[/us/pl/105/206/s3103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3103%2Fb%2F1
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F731
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/95/600/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs530
 [/us/usc/t26/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3401
@@ -115,7 +115,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/105/206/s3103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3103%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F731
 
 

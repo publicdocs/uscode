@@ -41,7 +41,7 @@
 
             For provisions excluding certain de minimis fringes from gross income, see section 132(e).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 28][/us/stat/68A/28]; [Pub. L. 99–514, title I, § 122(b)][/us/pl/99/514/s122/b], Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 28][/us/stat/68A/28]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 122(b), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110].)
 
  __Amendments__ 
 
@@ -60,7 +60,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F28
-[/us/pl/99/514/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs122%2Fb
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2110
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

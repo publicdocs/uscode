@@ -81,11 +81,11 @@
 
         (5) as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 104–188, title I, § 1612(a)][/us/pl/104/188/s1612/a], Aug. 20, 1996, [110 Stat. 1846][/us/stat/110/1846].)
+(Added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1612(a), Aug. 20, 1996, [110 Stat. 1846][/us/stat/110/1846].)
 
  __Effective Date__ 
 
-[Pub. L. 104–188, title I, § 1612(c)][/us/pl/104/188/s1612/c], Aug. 20, 1996, [110 Stat. 1847][/us/stat/110/1847], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1612(c), Aug. 20, 1996, [110 Stat. 1847][/us/stat/110/1847], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -144,9 +144,9 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1612%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1846
-[/us/pl/104/188/s1612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1612%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1847
 
 

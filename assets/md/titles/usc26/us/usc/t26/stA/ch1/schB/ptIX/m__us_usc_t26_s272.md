@@ -17,7 +17,7 @@
 
     Where the disposal of coal or iron ore is covered by section 631, no deduction shall be allowed for expenditures attributable to the making and administering of the contract under which such disposition occurs and to the preservation of the economic interest retained under such contract, except that if in any taxable year such expenditures plus the adjusted depletion basis of the coal or iron ore disposed of in such taxable year exceed the amount realized under such contract, such excess, to the extent not availed of as a reduction of gain under section 1231, shall be a loss deductible under section 165(a). This section shall not apply to any taxable year during which there is no income under the contract.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 82][/us/stat/68A/82]; [Pub. L. 88–272, title II, § 227(a)(3)][/us/pl/88/272/s227/a/3], (b)(3), Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 82][/us/stat/68A/82]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 227(a)(3), (b)(3), Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–272, title II, § 227(c)][/us/pl/88/272/s227/c], Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98], provided that: 
+[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 227(c), Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 631, 1016, 1231, and 1402 and [section 411 of Title 42][/us/usc/t42/s411], The Public Health and Welfare\] shall apply with respect to amounts received or accrued in taxable years beginning after December 31, 1963, attributable to iron ore mined in such taxable years.”
 
@@ -38,10 +38,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F82
-[/us/pl/88/272/s227/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs227%2Fa%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F98
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/88/272/s227/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs227%2Fc
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F98
 [/us/usc/t42/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411
 

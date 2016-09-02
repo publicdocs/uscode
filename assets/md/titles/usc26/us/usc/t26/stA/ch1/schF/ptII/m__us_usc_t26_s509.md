@@ -145,7 +145,7 @@
 
             (B) with respect to which the organization performs the functions of, or carries out the purposes of.
 
-(Added [Pub. L. 91–172, title I, § 101(a)][/us/pl/91/172/s101/a], Dec. 30, 1969, [83 Stat. 496][/us/stat/83/496]; amended [Pub. L. 94–81, § 3(a)][/us/pl/94/81/s3/a], Aug. 9, 1975, [89 Stat. 418][/us/stat/89/418]; [Pub. L. 95–345, § 2(a)(1)][/us/pl/95/345/s2/a/1], Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1221(a)(2), 1241(a), (b), Aug. 17, 2006, [120 Stat. 1089][/us/stat/120/1089], 1102.)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(a), Dec. 30, 1969, [83 Stat. 496][/us/stat/83/496]; amended [Pub. L. 94–81][/us/pl/94/81], § 3(a), Aug. 9, 1975, [89 Stat. 418][/us/stat/89/418]; [Pub. L. 95–345][/us/pl/95/345], § 2(a)(1), Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], §§ 1221(a)(2), 1241(a), (b), Aug. 17, 2006, [120 Stat. 1089][/us/stat/120/1089], 1102.)
 
  __References in Text__ 
 
@@ -157,11 +157,11 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(3)(B). [Pub. L. 109–280, § 1241(a)][/us/pl/109/280/s1241/a], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and”. See Codification note above.
+    2006—Subsec. (a)(3)(B). [Pub. L. 109–280][/us/pl/109/280], § 1241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and”. See Codification note above.
 
-    Subsec. (e). [Pub. L. 109–280, § 1221(a)(2)][/us/pl/109/280/s1221/a/2], inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
+    Subsec. (e). [Pub. L. 109–280][/us/pl/109/280], § 1221(a)(2), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
 
-    Subsec. (f). [Pub. L. 109–280, § 1241(b)][/us/pl/109/280/s1241/b], added subsec. (f). See Codification note above.
+    Subsec. (f). [Pub. L. 109–280][/us/pl/109/280], § 1241(b), added subsec. (f). See Codification note above.
 
     1978—Subsec. (e). [Pub. L. 95–345][/us/pl/95/345] inserted provision relating to payments with respect to securities loans.
 
@@ -169,11 +169,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1221(c)][/us/pl/109/280/s1221/c], Aug. 17, 2006, [120 Stat. 1089][/us/stat/120/1089], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1221(c), Aug. 17, 2006, [120 Stat. 1089][/us/stat/120/1089], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4940 of this title][/us/usc/t26/s4940]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-[Pub. L. 109–280, title XII, § 1241(e)][/us/pl/109/280/s1241/e], Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1241(e), Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -189,7 +189,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–345, § 2(e)][/us/pl/95/345/s2/e], Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–345][/us/pl/95/345], § 2(e), Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting [section 1058 of this title][/us/usc/t26/s1058] and amending sections 509, 512, 514, 851, and 4940 of this title\] apply with respect to—
 
@@ -199,7 +199,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–81, § 3(b)][/us/pl/94/81/s3/b], Aug. 9, 1975, [89 Stat. 418][/us/stat/89/418], provided that: 
+[Pub. L. 94–81][/us/pl/94/81], § 3(b), Aug. 9, 1975, [89 Stat. 418][/us/stat/89/418], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to unrelated business taxable income derived from trades and businesses which are acquired by the organization after June 30, 1975.”
 
@@ -213,7 +213,7 @@
 
  __Charitable Trusts Which Are Type III Supporting Organizations__ 
 
-[Pub. L. 109–280, title XII, § 1241(c)][/us/pl/109/280/s1241/c], Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1241(c), Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that: 
 
 > “For purposes of section 509(a)(3)(B)(iii) of the Internal Revenue Code of 1986, an organization which is a trust shall not be considered to be operated in connection with any organization described in paragraph (1) or (2) of section 509(a) of such Code solely because—
 
@@ -225,7 +225,7 @@
 
  __Payout Requirements for Type III Supporting Organizations__ 
 
-[Pub. L. 109–280, title XII, § 1241(d)][/us/pl/109/280/s1241/d], Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1241(d), Aug. 17, 2006, [120 Stat. 1103][/us/stat/120/1103], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -242,40 +242,40 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fa
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F496
-[/us/pl/94/81/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F81%2Fs3%2Fa
+[/us/pl/94/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F81
 [/us/stat/89/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F418
-[/us/pl/95/345/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fa%2F1
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/stat/92/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F481
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1089
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1241%2Fa
-[/us/pl/109/280/s1221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1221%2Fa%2F2
-[/us/pl/109/280/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1241%2Fb
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/pl/94/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F81
-[/us/pl/109/280/s1221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1221%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1089
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940
-[/us/pl/109/280/s1241/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1241%2Fe
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1103
-[/us/pl/95/345/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fe
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/stat/92/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F483
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1058
-[/us/pl/94/81/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F81%2Fs3%2Fb
+[/us/pl/94/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F81
 [/us/stat/89/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F418
 [/us/pl/91/172/s101/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fk%2F1
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940
-[/us/pl/109/280/s1241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1241%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1103
-[/us/pl/109/280/s1241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1241%2Fd
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1103
 
 

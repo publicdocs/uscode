@@ -131,7 +131,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–443, title IV, § 406(c)][/us/pl/93/443/s406/c], Oct. 15, 1974, [88 Stat. 1296][/us/stat/88/1296], substituted “Payments for presidential nominating conventions” for “Information on proposed expenses” in item 9008.
+    1974—[Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 406(c), Oct. 15, 1974, [88 Stat. 1296][/us/stat/88/1296], substituted “Payments for presidential nominating conventions” for “Information on proposed expenses” in item 9008.
 
 ----------
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/93/443/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1296
 
 

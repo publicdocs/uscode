@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XII, § 1205(b)][/us/pl/105/34/s1205/b], Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998], substituted “Payment of tax by commercially acceptable means” for “Payment by check or money order” in item 6311.
+    1997—[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1205(b), Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998], substituted “Payment of tax by commercially acceptable means” for “Payment by check or money order” in item 6311.
 
-    1971—[Pub. L. 92–5, title I, § 4(a)(2)][/us/pl/92/5/s4/a/2], Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5], struck out item 6312 “Payment by United States notes and certificates of indebtedness”.
+    1971—[Pub. L. 92–5, title I][/us/pl/92/5/tI], § 4(a)(2), Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5], struck out item 6312 “Payment by United States notes and certificates of indebtedness”.
 
-    1969—[Pub. L. 91–53, § 2(f)(2)][/us/pl/91/53/s2/f/2], Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93], added item 6317.
+    1969—[Pub. L. 91–53][/us/pl/91/53], § 2(f)(2), Aug. 7, 1969, [83 Stat. 93][/us/stat/83/93], added item 6317.
 
  __Repeals__ 
 
-    [Pub. L. 92–5, title I, § 4(a)(2)][/us/pl/92/5/s4/a/2], Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5], which struck out item 6312, was repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1081.
+    [Pub. L. 92–5, title I][/us/pl/92/5/tI], § 4(a)(2), Mar. 17, 1971, [85 Stat. 5][/us/stat/85/5], which struck out item 6312, was repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1081.
 
 ----------
 
@@ -100,15 +100,15 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F998
-[/us/pl/92/5/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs4%2Fa%2F2
+[/us/pl/92/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2FtI
 [/us/stat/85/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F5
-[/us/pl/91/53/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs2%2Ff%2F2
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F93
-[/us/pl/92/5/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2Fs4%2Fa%2F2
+[/us/pl/92/5/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F5%2FtI
 [/us/stat/85/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F5
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 
 

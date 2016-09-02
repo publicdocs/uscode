@@ -41,13 +41,13 @@
 
         (4) For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1301][/us/stat/88/1301]; amended [Pub. L. 94–283, title III, § 304(b)][/us/pl/94/283/s304/b], May 11, 1976, [90 Stat. 499][/us/stat/90/499].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1301][/us/stat/88/1301]; amended [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 304(b), May 11, 1976, [90 Stat. 499][/us/stat/90/499].)
 
  __Amendments__ 
 
-    1976—Subsec. (c)(2). [Pub. L. 94–283, § 304(b)(1)][/us/pl/94/283/s304/b/1], inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
+    1976—Subsec. (c)(2). [Pub. L. 94–283][/us/pl/94/283], § 304(b)(1), inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
 
-    Subsec. (c)(4). [Pub. L. 94–283, § 304(b)(2)][/us/pl/94/283/s304/b/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 94–283][/us/pl/94/283], § 304(b)(2), added par. (4).
 
  __Effective Date__ 
 
@@ -64,12 +64,12 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1301
-[/us/pl/94/283/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fb
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
-[/us/pl/94/283/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fb%2F1
-[/us/pl/94/283/s304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fb%2F2
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

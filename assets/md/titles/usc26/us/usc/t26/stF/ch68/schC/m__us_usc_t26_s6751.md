@@ -37,11 +37,11 @@
 
         For purposes of this section, the term “penalty” includes any addition to tax or any additional amount.
 
-(Added [Pub. L. 105–206, title III, § 3306(a)][/us/pl/105/206/s3306/a], July 22, 1998, [112 Stat. 744][/us/stat/112/744].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3306(a), July 22, 1998, [112 Stat. 744][/us/stat/112/744].)
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3306(c)][/us/pl/105/206/s3306/c], July 22, 1998, [112 Stat. 744][/us/stat/112/744], as amended by [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 302(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–632, provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3306(c), July 22, 1998, [112 Stat. 744][/us/stat/112/744], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 302(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–632, provided that: 
 
 > “The amendments made by this section \[enacting this subchapter\] shall apply to notices issued, and penalties assessed, after June 30, 2001. In the case of any notice of penalty issued after June 30, 2001, and before July 1, 2003, the requirements of section 6751(a) of the Internal Revenue Code of 1986 shall be treated as met if such notice contains a telephone number at which the taxpayer can request a copy of the taxpayer’s assessment and payment history with respect to such penalty.”
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3306%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F744
-[/us/pl/105/206/s3306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3306%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F744
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

@@ -69,7 +69,7 @@
 
             (B) only the first year of the taxpayer’s holding period for the asset referred to in subsection (a)(1) shall be taken into account for purposes of paragraphs (2)(A)(iii), (3)(C), and (4)(A)(iii) of section 1400F(b).
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602; amended [Pub. L. 113–295, div. A, title II, § 206(c)][/us/pl/113/295/s206/c], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 116(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602; amended [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 206(c), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
 
  __References in Text__ 
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/113/295/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s1397C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397C

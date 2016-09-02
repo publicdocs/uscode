@@ -109,11 +109,11 @@
 
             The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 321][/us/stat/68A/321]; [Pub. L. 91–172, title V, § 514(a)][/us/pl/91/172/s514/a], Dec. 30, 1969, [83 Stat. 643][/us/stat/83/643]; [Pub. L. 94–455, title XIX, § 1901(c)(9)][/us/pl/94/455/s1901/c/9], title XXI, § 2132(a), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], 1925; [Pub. L. 97–34, title V, § 505(a)][/us/pl/97/34/s505/a], Aug. 13, 1981, [95 Stat. 331][/us/stat/95/331]; [Pub. L. 106–170, title V, § 532(a)][/us/pl/106/170/s532/a], Dec. 17, 1999, [113 Stat. 1928][/us/stat/113/1928]; [Pub. L. 107–16, title V, § 542(e)(2)(A)][/us/pl/107/16/s542/e/2/A], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 107–147, title IV, § 417(20)][/us/pl/107/147/s417/20], Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57]; [Pub. L. 109–222, title II, § 204(a)][/us/pl/109/222/s204/a], May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–432, div. A, title IV, § 412(a)][/us/pl/109/432/s412/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 321][/us/stat/68A/321]; [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 514(a), Dec. 30, 1969, [83 Stat. 643][/us/stat/83/643]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(c)(9), title XXI, § 2132(a), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], 1925; [Pub. L. 97–34, title V][/us/pl/97/34/tV], § 505(a), Aug. 13, 1981, [95 Stat. 331][/us/stat/95/331]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(a), Dec. 17, 1999, [113 Stat. 1928][/us/stat/113/1928]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(e)(2)(A), June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(20), Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57]; [Pub. L. 109–222, title II][/us/pl/109/222/tII], § 204(a), May 17, 2006, [120 Stat. 350][/us/stat/120/350]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 412(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(3)(C). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (a)(3)(C) to read as if amendment by [Pub. L. 107–16, § 542(e)(2)(A)][/us/pl/107/16/s542/e/2/A], had never been enacted. See 2001 Amendment note below.
+    2010—Subsec. (a)(3)(C). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (a)(3)(C) to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(e)(2)(A), had never been enacted. See 2001 Amendment note below.
 
     2006—Subsec. (b)(3). [Pub. L. 109–432][/us/pl/109/432] struck out “before January 1, 2011,” after “exchanged”.
 
@@ -123,15 +123,15 @@
 
     2002—Subsec. (b)(1)(B)(i). [Pub. L. 107–147][/us/pl/107/147] substituted “1256(b)))” for “1256(b))”.
 
-    2001—Subsec. (a)(3)(C). [Pub. L. 107–16, § 542(e)(2)(A)][/us/pl/107/16/s542/e/2/A], inserted “(other than by reason of section 1022)” after “is determined”.
+    2001—Subsec. (a)(3)(C). [Pub. L. 107–16][/us/pl/107/16], § 542(e)(2)(A), inserted “(other than by reason of section 1022)” after “is determined”.
 
     1999—[Pub. L. 106–170][/us/pl/106/170] designated existing provisions as subsec. (a), inserted heading, and added pars. (6) to (8) and subsec. (b).
 
     1981—Pars. (5), (6). [Pub. L. 97–34][/us/pl/97/34] redesignated par. (6) as (5) and struck out former par. (5), which excluded from definition of “capital asset” an obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, issued on or after March 1, 1941, on a discount basis and payable without interest at a fixed maturity date not exceeding one year from the date of issue, and is covered by [section 1232(a)(4)(B) of this title][/us/usc/t26/s1232/a/4/B].
 
-    1976—Par. (5). [Pub. L. 94–455, § 1901(c)(9)][/us/pl/94/455/s1901/c/9], struck out “or Territory,” after “State”.
+    1976—Par. (5). [Pub. L. 94–455][/us/pl/94/455], § 1901(c)(9), struck out “or Territory,” after “State”.
 
-    Par. (6). [Pub. L. 94–455, § 2132(a)][/us/pl/94/455/s2132/a], added par. (6).
+    Par. (6). [Pub. L. 94–455][/us/pl/94/455], § 2132(a), added par. (6).
 
     1969—Par. (3). [Pub. L. 91–172][/us/pl/91/172] inserted reference to a letter or memorandum, added subpar. (B) dealing with a letter or memorandum, and redesignated former subpar. (B) as (C).
 
@@ -141,7 +141,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 412(b)][/us/pl/109/432/s412/b], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 412(b), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 204 of the Tax Increase Prevention and Reconciliation Act of 2005 \[[Pub. L. 109–222][/us/pl/109/222]\].”
 
@@ -161,13 +161,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2132(b)][/us/pl/94/455/s2132/b], Oct. 4, 1976, [90 Stat. 1925][/us/stat/90/1925], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2132(b), Oct. 4, 1976, [90 Stat. 1925][/us/stat/90/1925], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and contributions made after the date of enactment of this Act \[Oct. 4, 1976\].”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title V, § 514(c)][/us/pl/91/172/s514/c], Dec. 30, 1969, [83 Stat. 643][/us/stat/83/643], provided that: 
+[Pub. L. 91–172, title V][/us/pl/91/172/tV], § 514(c), Dec. 30, 1969, [83 Stat. 643][/us/stat/83/643], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 341 and 1231 of this title\] shall apply to sales and other dispositions occurring after July 25, 1969.”
 
@@ -180,41 +180,41 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F321
-[/us/pl/91/172/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs514%2Fa
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F643
-[/us/pl/94/455/s1901/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F9
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
-[/us/pl/97/34/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs505%2Fa
+[/us/pl/97/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtV
 [/us/stat/95/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F331
-[/us/pl/106/170/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1928
-[/us/pl/107/16/s542/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F2%2FA
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F85
-[/us/pl/107/147/s417/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F20
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F57
-[/us/pl/109/222/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs204%2Fa
+[/us/pl/109/222/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtII
 [/us/stat/120/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F350
-[/us/pl/109/432/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs412%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F2%2FA
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/107/16/s542/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F2%2FA
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t26/s1232/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1232%2Fa%2F4%2FB
-[/us/pl/94/455/s1901/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F9
-[/us/pl/94/455/s2132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2132%2Fa
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
-[/us/pl/109/432/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs412%2Fb
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
@@ -229,9 +229,9 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs508
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
-[/us/pl/94/455/s2132/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2132%2Fb
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1925
-[/us/pl/91/172/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs514%2Fc
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F643
 
 

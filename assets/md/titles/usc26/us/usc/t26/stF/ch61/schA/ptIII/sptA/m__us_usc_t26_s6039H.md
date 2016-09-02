@@ -43,7 +43,7 @@
 
             The sponsoring Native Corporation shall furnish each recipient of a distribution described in section 646(e)(3) a statement containing the amount deemed to have been distributed to such recipient by such corporation for the taxable year.
 
-(Added [Pub. L. 107–16, title VI, § 671(b)][/us/pl/107/16/s671/b], June 7, 2001, [115 Stat. 147][/us/stat/115/147].)
+(Added [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 671(b), June 7, 2001, [115 Stat. 147][/us/stat/115/147].)
 
  __Effective Date__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/107/16/s671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs671%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F147
 [/us/pl/107/16/s671/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs671%2Fd
 [/us/usc/t26/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs646

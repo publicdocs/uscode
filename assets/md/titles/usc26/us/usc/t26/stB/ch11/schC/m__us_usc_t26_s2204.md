@@ -35,11 +35,11 @@
 
         (2) are not shown on such returns.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 401][/us/stat/68A/401]; [Pub. L. 91–614, title I, § 101(d)(1)][/us/pl/91/614/s101/d/1], (f), Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836], 1838; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(9), 1906(b)(13)(A), title XX, § 2004(d)(2), (f)(4), (6), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834, 1870, 1872; [Pub. L. 95–600, title VII, § 702(p)(1)][/us/pl/95/600/s702/p/1], Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937]; [Pub. L. 97–34, title IV, § 422(e)(1)][/us/pl/97/34/s422/e/1], (3), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 401][/us/stat/68A/401]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(d)(1), (f), Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836], 1838; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1902(a)(9), 1906(b)(13)(A), title XX, § 2004(d)(2), (f)(4), (6), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834, 1870, 1872; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(p)(1), Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(1), (3), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
 
  __Amendments__ 
 
-    1981—Subsecs. (a) to (c). [Pub. L. 97–34, § 422(e)(1)][/us/pl/97/34/s422/e/1], (3), struck out reference to section 6166A in subsecs. (a) and (b), and two such references in subsec. (c).
+    1981—Subsecs. (a) to (c). [Pub. L. 97–34][/us/pl/97/34], § 422(e)(1), (3), struck out reference to section 6166A in subsecs. (a) and (b), and two such references in subsec. (c).
 
     1978—Subsec. (d). [Pub. L. 95–600][/us/pl/95/600] added subsec. (d).
 
@@ -47,13 +47,13 @@
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1902(a)(9), 1906(b)(13)(A), 2004(f)(4), (6), substituted “6166 or 6166A” for “or 6166” after “6161, 6163”, “has been” for “has not been” after “payment of which”, and struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c). [Pub. L. 94–455, § 2004(d)(2)][/us/pl/94/455/s2004/d/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 2004(d)(2), added subsec. (c).
 
-    1970—[Pub. L. 91–614, § 101(d)(1)(A)][/us/pl/91/614/s101/d/1/A], substituted “fiduciary” for “executor” in section catchline.
+    1970—[Pub. L. 91–614][/us/pl/91/614], § 101(d)(1)(A), substituted “fiduciary” for “executor” in section catchline.
 
     Subsec. (a). [Pub. L. 91–614][/us/pl/91/614], §§ 101(d)(1)(B), (C), (f), designated existing provisions as subsec. (a), inserted “General Rule—” immediately preceding first sentence and permitted a discharge of the executor even where an extension of time has been granted under sections 6161, 6163, or 6166 of this title, where a bond, if required, is provided to assure payment of taxes for which the extension was granted, and substituted “9 months” for “1 year” in two places.
 
-    Subsec. (b). [Pub. L. 91–614, § 101(d)(1)(D)][/us/pl/91/614/s101/d/1/D], added subsec. (b).
+    Subsec. (b). [Pub. L. 91–614][/us/pl/91/614], § 101(d)(1)(D), added subsec. (b).
 
  __Effective Date of 1981 Amendment__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(p)(2)][/us/pl/95/600/s702/p/2], Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(p)(2), Nov. 6, 1978, [92 Stat. 2937][/us/stat/92/2937], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
@@ -75,7 +75,7 @@
 
     Amendment by [section 101(d)(1) of Pub. L. 91–614][/us/pl/91/614/s101/d/1] applicable with respect to decedents dying after Dec. 31, 1970, see [section 101(j) of Pub. L. 91–614][/us/pl/91/614/s101/j], set out as a note under [section 2032 of this title][/us/usc/t26/s2032].
 
-    [Pub. L. 91–614, title I, § 101(f)][/us/pl/91/614/s101/f], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
+    [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(f), Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 
 ----------
 
@@ -86,26 +86,26 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F401
-[/us/pl/91/614/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F1
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1836
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
-[/us/pl/95/600/s702/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fp%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2937
-[/us/pl/97/34/s422/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F1
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
-[/us/pl/97/34/s422/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F1
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s2004/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fd%2F2
-[/us/pl/91/614/s101/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F1%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
-[/us/pl/91/614/s101/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F1%2FD
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s422/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Ff%2F1
 [/us/usc/t26/s6166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6166
-[/us/pl/95/600/s702/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fp%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2937
 [/us/pl/94/455/s1902/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F9
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
@@ -116,7 +116,7 @@
 [/us/pl/91/614/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F1
 [/us/pl/91/614/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fj
 [/us/usc/t26/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2032
-[/us/pl/91/614/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Ff
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1838
 
 

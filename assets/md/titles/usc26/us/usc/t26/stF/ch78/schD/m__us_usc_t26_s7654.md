@@ -47,7 +47,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 909][/us/stat/68A/909]; [Pub. L. 92–606, § 1(b)][/us/pl/92/606/s1/b], Oct. 31, 1972, [86 Stat. 1495][/us/stat/86/1495]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 307(a)(16), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369]; [Pub. L. 99–514, title XII, § 1276(a)][/us/pl/99/514/s1276/a], Oct. 22, 1986, [100 Stat. 2599][/us/stat/100/2599]; [Pub. L. 100–647, title I, § 1012(y)][/us/pl/100/647/s1012/y], Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 108–189, § 2(d)][/us/pl/108/189/s2/d], Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 909][/us/stat/68A/909]; [Pub. L. 92–606][/us/pl/92/606], § 1(b), Oct. 31, 1972, [86 Stat. 1495][/us/stat/86/1495]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 307(a)(16), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591; [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 102(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1276(a), Oct. 22, 1986, [100 Stat. 2599][/us/stat/100/2599]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(y), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 108–189][/us/pl/108/189], § 2(d), Dec. 19, 2003, [117 Stat. 2866][/us/stat/117/2866].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     1983—Subsec. (d). [Pub. L. 98–67][/us/pl/98/67] repealed amendments made by [Pub. L. 97–248][/us/pl/97/248]. See 1982 Amendment note below.
 
-    1982—Subsec. (d). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed sub­title A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+    1982—Subsec. (d). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67/tI], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed sub­title A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
     1976—Subsecs. (d), (e). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -90,19 +90,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F909
-[/us/pl/92/606/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs1%2Fb
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1495
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F590
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/99/514/s1276/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1276%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2599
-[/us/pl/100/647/s1012/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fy
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3530
-[/us/pl/108/189/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189%2Fs2%2Fd
+[/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2866
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
@@ -112,7 +112,7 @@
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

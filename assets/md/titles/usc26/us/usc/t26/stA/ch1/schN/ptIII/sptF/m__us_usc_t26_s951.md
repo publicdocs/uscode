@@ -59,7 +59,7 @@
 
         If, but for this subsection, an amount would be included in the gross income of a United States shareholder for any taxable year both under subsection (a)(1)(A)(i) and under section 1293 (relating to current taxation of income from certain passive foreign investment companies), such amount shall be included in the gross income of such shareholder only under subsection (a)(1)(A).
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1006][/us/stat/76/1006]; amended [Pub. L. 94–12, title VI, § 602(a)(3)(B)][/us/pl/94/12/s602/a/3/B], (c)(3), (4), (d)(2), Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58], 62; [Pub. L. 94–455, title XIX, § 1901(a)(119)][/us/pl/94/455/s1901/a/119], Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]; [Pub. L. 98–369, div. A, title I, § 132(c)(1)][/us/pl/98/369/s132/c/1], title VIII, § 801(d)(4), July 18, 1984, [98 Stat. 666][/us/stat/98/666], 996; [Pub. L. 99–514, title XII, § 1235(c)][/us/pl/99/514/s1235/c], title XVIII, § 1876(c)(2), Oct. 22, 1986, [100 Stat. 2574][/us/stat/100/2574], 2898; [Pub. L. 100–647, title I, § 1012(i)(15)][/us/pl/100/647/s1012/i/15], Nov. 10, 1988, [102 Stat. 3510][/us/stat/102/3510]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13231(a), 13232(c), Aug. 10, 1993, [107 Stat. 495][/us/stat/107/495], 502; [Pub. L. 104–188, title I, § 1501(a)(1)][/us/pl/104/188/s1501/a/1], Aug. 20, 1996, [110 Stat. 1825][/us/stat/110/1825]; [Pub. L. 105–34, title XI, § 1112(a)(1)][/us/pl/105/34/s1112/a/1], Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969]; [Pub. L. 108–357, title IV, § 413(c)(16)][/us/pl/108/357/s413/c/16], Oct. 22, 2004, [118 Stat. 1508][/us/stat/118/1508]; [Pub. L. 110–172, § 11(g)(13)][/us/pl/110/172/s11/g/13], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1006][/us/stat/76/1006]; amended [Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(a)(3)(B), (c)(3), (4), (d)(2), Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58], 62; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(119), Oct. 4, 1976, [90 Stat. 1784][/us/stat/90/1784]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 132(c)(1), title VIII, § 801(d)(4), July 18, 1984, [98 Stat. 666][/us/stat/98/666], 996; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(c), title XVIII, § 1876(c)(2), Oct. 22, 1986, [100 Stat. 2574][/us/stat/100/2574], 2898; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(i)(15), Nov. 10, 1988, [102 Stat. 3510][/us/stat/102/3510]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], §§ 13231(a), 13232(c), Aug. 10, 1993, [107 Stat. 495][/us/stat/107/495], 502; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1501(a)(1), Aug. 20, 1996, [110 Stat. 1825][/us/stat/110/1825]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1112(a)(1), Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(16), Oct. 22, 2004, [118 Stat. 1508][/us/stat/118/1508]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(13), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
 
  __References in Text__ 
 
@@ -79,31 +79,31 @@
 
     1996—Subsec. (a)(1)(A) to (C). [Pub. L. 104–188][/us/pl/104/188] inserted “and” at end of subpar. (A), substituted period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “the amount determined under section 956A with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(3)).”
 
-    1993—Subsec. (a)(1)(B). [Pub. L. 103–66, § 13232(c)(1)][/us/pl/103/66/s13232/c/1], substituted “the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and” for “his pro rata share (determined under section 956(a)(2)) of the corporation’s increase in earnings invested in United States property for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and”.
+    1993—Subsec. (a)(1)(B). [Pub. L. 103–66][/us/pl/103/66], § 13232(c)(1), substituted “the amount determined under section 956 with respect to such shareholder for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and” for “his pro rata share (determined under section 956(a)(2)) of the corporation’s increase in earnings invested in United States property for such year (but only to the extent not excluded from gross income under section 959(a)(2)); and”.
 
-    Subsec. (a)(1)(C). [Pub. L. 103–66, § 13231(a)][/us/pl/103/66/s13231/a], added subpar. (C).
+    Subsec. (a)(1)(C). [Pub. L. 103–66][/us/pl/103/66], § 13231(a), added subpar. (C).
 
-    Subsec. (a)(4). [Pub. L. 103–66, § 13232(c)(2)][/us/pl/103/66/s13232/c/2], struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year.”
+    Subsec. (a)(4). [Pub. L. 103–66][/us/pl/103/66], § 13232(c)(2), struck out heading and text of par. (4). Text read as follows: “For purposes of paragraph (1)(B), the pro rata share of any United States shareholder in the increase of the earnings of a controlled foreign corporation invested in United States property shall not exceed an amount (A) which bears the same ratio to his pro rata share of such increase (as determined under section 956(a)(2)) for the taxable year, as (B) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year.”
 
     1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647] substituted “section 957(c)” for “section 957(d)”.
 
-    1986—Subsec. (e)(1). [Pub. L. 99–514, § 1876(c)(2)][/us/pl/99/514/s1876/c/2], struck out last sentence which read as follows: “For purposes of the preceding sentence, income described in paragraph (2) or (3) of section 921(d) shall be treated as derived from sources within the United States.”
+    1986—Subsec. (e)(1). [Pub. L. 99–514][/us/pl/99/514], § 1876(c)(2), struck out last sentence which read as follows: “For purposes of the preceding sentence, income described in paragraph (2) or (3) of section 921(d) shall be treated as derived from sources within the United States.”
 
-    Subsec. (f). [Pub. L. 99–514, § 1235(c)][/us/pl/99/514/s1235/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1235(c), added subsec. (f).
 
-    1984—Subsec. (d). [Pub. L. 98–369, § 132(c)(1)][/us/pl/98/369/s132/c/1], amended subsec. (d) generally, substituting provision that, if a United States shareholder is required to include in gross income an amount under both subsec. (a)(1)(A)(ii) of this section and [section 551(b) of this title][/us/usc/t26/s551/b], such amount be included only under subsec. (a)(1)(A)(ii) of this section for provision that, if a United States shareholder is subject to tax under [section 551(b) of this title][/us/usc/t26/s551/b], such shareholder not be required to include as gross income any amount under subsec. (a) of this section.
+    1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 132(c)(1), amended subsec. (d) generally, substituting provision that, if a United States shareholder is required to include in gross income an amount under both subsec. (a)(1)(A)(ii) of this section and [section 551(b) of this title][/us/usc/t26/s551/b], such amount be included only under subsec. (a)(1)(A)(ii) of this section for provision that, if a United States shareholder is subject to tax under [section 551(b) of this title][/us/usc/t26/s551/b], such shareholder not be required to include as gross income any amount under subsec. (a) of this section.
 
-    Subsec. (e). [Pub. L. 98–369, § 801(d)(4)][/us/pl/98/369/s801/d/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 801(d)(4), added subsec. (e).
 
     1976—Subsec. (a)(1). [Pub. L. 94–455][/us/pl/94/455] struck out “beginning after December 31, 1962” after “during any taxable year”.
 
-    1975—Subsec. (a)(1)(A)(i). [Pub. L. 94–12, § 602(a)(3)(B)][/us/pl/94/12/s602/a/3/B], struck out “except as provided in section 963,” before “his pro rata share”.
+    1975—Subsec. (a)(1)(A)(i). [Pub. L. 94–12][/us/pl/94/12], § 602(a)(3)(B), struck out “except as provided in section 963,” before “his pro rata share”.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 94–12, § 602(c)(3)][/us/pl/94/12/s602/c/3], substituted “(determined under section 955(a)(3) as in effect before the enactment of the Tax Reduction Act of 1975)” for “(determined under section 955(a)(3))”.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 94–12][/us/pl/94/12], § 602(c)(3), substituted “(determined under section 955(a)(3) as in effect before the enactment of the Tax Reduction Act of 1975)” for “(determined under section 955(a)(3))”.
 
-    Subsec. (a)(1)(A)(iii). [Pub. L. 94–12, § 602(d)(2)(A)][/us/pl/94/12/s602/d/2/A], added cl. (iii).
+    Subsec. (a)(1)(A)(iii). [Pub. L. 94–12][/us/pl/94/12], § 602(d)(2)(A), added cl. (iii).
 
-    Subsec. (a)(3). [Pub. L. 94–12, § 602(c)(4)][/us/pl/94/12/s602/c/4], (d)(2)(B), substituted “paragraph (i)(A)(iii)” for “paragraph (1)(A)(ii)” and “foreign base company shipping operations” for “less developed countries”.
+    Subsec. (a)(3). [Pub. L. 94–12][/us/pl/94/12], § 602(c)(4), (d)(2)(B), substituted “paragraph (i)(A)(iii)” for “paragraph (1)(A)(ii)” and “foreign base company shipping operations” for “less developed countries”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1112(a)(2)][/us/pl/105/34/s1112/a/2], Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1112(a)(2), Aug. 5, 1997, [111 Stat. 969][/us/stat/111/969], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -121,11 +121,11 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13231(e)][/us/pl/103/66/s13231/e], Aug. 10, 1993, [107 Stat. 501][/us/stat/107/501], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13231(e), Aug. 10, 1993, [107 Stat. 501][/us/stat/107/501], provided that: 
 
 > “The amendments made by this section \[enacting [section 956A of this title][/us/usc/t26/s956A] and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
 
-[Pub. L. 103–66, title XIII, § 13232(d)][/us/pl/103/66/s13232/d], Aug. 10, 1993, [107 Stat. 502][/us/stat/107/502], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13232(d), Aug. 10, 1993, [107 Stat. 502][/us/stat/107/502], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 956 of this title][/us/usc/t26/s956]\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
 
@@ -137,11 +137,11 @@
 
     Amendment by [section 1235(c) of Pub. L. 99–514][/us/pl/99/514/s1235/c] applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see [section 1235(h) of Pub. L. 99–514][/us/pl/99/514/s1235/h], set out as an Effective Date note under [section 1291 of this title][/us/usc/t26/s1291].
 
-    Amendment by [section 1876(c)(2) of Pub. L. 99–514][/us/pl/99/514/s1876/c/2] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1876(c)(2) of Pub. L. 99–514][/us/pl/99/514/s1876/c/2] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 132(d)(2)(A)][/us/pl/98/369/s132/d/2/A], July 18, 1984, [98 Stat. 667][/us/stat/98/667], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 132(d)(2)(A), July 18, 1984, [98 Stat. 667][/us/stat/98/667], provided that: 
 
 > “The amendment made by paragraph (1) of subsection (c) \[amending this section\] shall apply to taxable years of United States shareholders beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -153,7 +153,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–834, § 12(c)][/us/pl/87/834/s12/c], Oct. 16, 1962, [76 Stat. 1031][/us/stat/76/1031], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 12(c), Oct. 16, 1962, [76 Stat. 1031][/us/stat/76/1031], provided that: 
 
 > “The amendments made by this section \[enacting this section and sections 952 to 964 and 970 to 972 of this title and amending sections 901, 904, and 1016 of this title\] shall apply with respect to taxable years of foreign corporations beginning after December 31, 1962, and to taxable year of United States shareholders within which or with which such taxable years of such foreign corporations end.”
 
@@ -168,27 +168,27 @@
 ----------
 ----------
 
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1006
-[/us/pl/94/12/s602/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fa%2F3%2FB
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F58
-[/us/pl/94/455/s1901/a/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F119
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1784
-[/us/pl/98/369/s132/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs132%2Fc%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F666
-[/us/pl/99/514/s1235/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2574
-[/us/pl/100/647/s1012/i/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F15
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3510
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F495
-[/us/pl/104/188/s1501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1501%2Fa%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1825
-[/us/pl/105/34/s1112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1112%2Fa%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F969
-[/us/pl/108/357/s413/c/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F16
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1508
-[/us/pl/110/172/s11/g/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F13
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/stat/89/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F26
@@ -197,33 +197,33 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/103/66/s13232/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13232%2Fc%2F1
-[/us/pl/103/66/s13231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13231%2Fa
-[/us/pl/103/66/s13232/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13232%2Fc%2F2
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1876/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fc%2F2
-[/us/pl/99/514/s1235/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fc
-[/us/pl/98/369/s132/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs132%2Fc%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs551%2Fb
 [/us/usc/t26/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs551%2Fb
-[/us/pl/98/369/s801/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F4
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/12/s602/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fa%2F3%2FB
-[/us/pl/94/12/s602/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fc%2F3
-[/us/pl/94/12/s602/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fd%2F2%2FA
-[/us/pl/94/12/s602/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fc%2F4
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1112%2Fa%2F2
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F969
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1501%2Fd
 [/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
-[/us/pl/103/66/s13231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13231%2Fe
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F501
 [/us/usc/t26/s956A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs956A
-[/us/pl/103/66/s13232/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13232%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F502
 [/us/usc/t26/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs956
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -234,10 +234,10 @@
 [/us/pl/99/514/s1235/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fh
 [/us/usc/t26/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1291
 [/us/pl/99/514/s1876/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fc%2F2
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s132/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs132%2Fd%2F2%2FA
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F667
 [/us/pl/98/369/s801/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F4
 [/us/pl/98/369/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs805%2Fa%2F1
@@ -245,7 +245,7 @@
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/94/12/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Ff
 [/us/usc/t26/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs955
-[/us/pl/87/834/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1031
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

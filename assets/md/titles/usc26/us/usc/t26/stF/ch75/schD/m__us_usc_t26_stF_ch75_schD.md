@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, div. C, title XXXII, § 32101(h)][/us/pl/114/94/s32101/h], Dec. 4, 2015, [129 Stat. 1733][/us/stat/129/1733], added item 7345.
+    2015—[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32101(h), Dec. 4, 2015, [129 Stat. 1733][/us/stat/129/1733], added item 7345.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s32101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fh
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1733
 
 

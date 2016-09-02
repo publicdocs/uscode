@@ -85,7 +85,7 @@
 
         For purposes of this section, the term “covered expatriate” has the meaning given to such term by section 877A(g)(1).
 
-(Added [Pub. L. 110–245, title III, § 301(b)(1)][/us/pl/110/245/s301/b/1], June 17, 2008, [122 Stat. 1644][/us/stat/122/1644]; amended [Pub. L. 113–295, div. A, title II, § 206(b)(1)][/us/pl/113/295/s206/b/1], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
+(Added [Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 301(b)(1), June 17, 2008, [122 Stat. 1644][/us/stat/122/1644]; amended [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 206(b)(1), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
 
  __Amendments__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–245, title III, § 301(g)][/us/pl/110/245/s301/g], June 17, 2008, [122 Stat. 1647][/us/stat/122/1647], provided that:
+[Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 301(g), June 17, 2008, [122 Stat. 1647][/us/stat/122/1647], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -114,16 +114,16 @@
 ----------
 ----------
 
-[/us/pl/110/245/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fb%2F1
+[/us/pl/110/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIII
 [/us/stat/122/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1644
-[/us/pl/113/295/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fb%2F1
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/113/295/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/110/245/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fg
+[/us/pl/110/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIII
 [/us/stat/122/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1647
 [/us/usc/t26/s877A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs877A
 

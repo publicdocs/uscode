@@ -99,7 +99,7 @@
 
             The Secretary shall prescribe such adjustment to the provisions of this section as may be necessary to prevent the same item of income of a qualified electing fund from being included in the gross income of a United States person more than once.
 
-(Added [Pub. L. 99–514, title XII, § 1235(a)][/us/pl/99/514/s1235/a], Oct. 22, 1986, [100 Stat. 2569][/us/stat/100/2569]; amended [Pub. L. 100–647, title I, § 1012(p)(15)][/us/pl/100/647/s1012/p/15], (18), (23), (32), Nov. 10, 1988, [102 Stat. 3518][/us/stat/102/3518], 3519, 3521; [Pub. L. 103–66, title XIII, § 13231(c)(3)][/us/pl/103/66/s13231/c/3], Aug. 10, 1993, [107 Stat. 498][/us/stat/107/498]; [Pub. L. 105–34, title XI, § 1122(d)(3)][/us/pl/105/34/s1122/d/3], Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(a), Oct. 22, 1986, [100 Stat. 2569][/us/stat/100/2569]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(p)(15), (18), (23), (32), Nov. 10, 1988, [102 Stat. 3518][/us/stat/102/3518], 3519, 3521; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13231(c)(3), Aug. 10, 1993, [107 Stat. 498][/us/stat/107/498]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1122(d)(3), Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977].)
 
  __Amendments__ 
 
@@ -107,13 +107,13 @@
 
     1993—Subsec. (c). [Pub. L. 103–66][/us/pl/103/66] inserted at end “If the passive foreign investment company is a controlled foreign corporation (as defined in section 957(a)), the preceding sentence shall not apply to any United States shareholder (as defined in section 951(b)) in such corporation, and, in applying section 959 to any such shareholder, any inclusion under this section shall be treated as an inclusion under section 951(a)(1)(A).”
 
-    1988—Subsec. (b). [Pub. L. 100–647, § 1012(p)(15)][/us/pl/100/647/s1012/p/15], inserted at end “To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders’ interests in the earnings of such fund, pro rata shares may be determined by using such shorter period.”
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(15), inserted at end “To the extent provided in regulations, if the fund establishes to the satisfaction of the Secretary that it uses a shorter period than the taxable year to determine shareholders’ interests in the earnings of such fund, pro rata shares may be determined by using such shorter period.”
 
-    Subsec. (c). [Pub. L. 100–647, § 1012(p)(23)][/us/pl/100/647/s1012/p/23], inserted “, for purposes of this chapter,” after “shall be treated”, and “; except that such distribution shall immediately reduce earnings and profits” after “is not a dividend”.
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(23), inserted “, for purposes of this chapter,” after “shall be treated”, and “; except that such distribution shall immediately reduce earnings and profits” after “is not a dividend”.
 
-    Subsec. (e)(3). [Pub. L. 100–647, § 1012(p)(18)][/us/pl/100/647/s1012/p/18], added par. (3).
+    Subsec. (e)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(18), added par. (3).
 
-    Subsec. (g). [Pub. L. 100–647, § 1012(p)(32)][/us/pl/100/647/s1012/p/32], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(32), added subsec. (g).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -138,20 +138,20 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2569
-[/us/pl/100/647/s1012/p/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F15
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3518
-[/us/pl/103/66/s13231/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13231%2Fc%2F3
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F498
-[/us/pl/105/34/s1122/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fd%2F3
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F977
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/100/647/s1012/p/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F15
-[/us/pl/100/647/s1012/p/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F23
-[/us/pl/100/647/s1012/p/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F18
-[/us/pl/100/647/s1012/p/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F32
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1124
 [/us/usc/t26/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs532

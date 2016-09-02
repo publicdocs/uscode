@@ -27,17 +27,17 @@
 
         For discharge of executor from personal liability for taxes imposed under chapter 11, see section 2204.
 
-(Added [Pub. L. 91–614, title I, § 101(e)(1)][/us/pl/91/614/s101/e/1], Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837]; amended [Pub. L. 91–614, title I, § 101(f)][/us/pl/91/614/s101/f], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(e)(1), Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837]; amended [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(f), Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1970—Subsec. (a). [Pub. L. 91–614, § 101(f)][/us/pl/91/614/s101/f], substituted “9 months” for “1 year”.
+    1970—Subsec. (a). [Pub. L. 91–614][/us/pl/91/614], § 101(f), substituted “9 months” for “1 year”.
 
  __Effective Date of 1970 Amendment__ 
 
-    [Pub. L. 91–614, title I, § 101(f)][/us/pl/91/614/s101/f], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
+    [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(f), Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 
  __Effective Date__ 
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/91/614/s101/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fe%2F1
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1837
-[/us/pl/91/614/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Ff
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1838
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/614/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Ff
-[/us/pl/91/614/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Ff
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1838
 [/us/pl/91/614/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fj
 [/us/usc/t26/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2032

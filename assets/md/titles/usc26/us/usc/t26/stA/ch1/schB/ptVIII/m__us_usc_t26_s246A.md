@@ -123,11 +123,11 @@
 
         The regulations prescribed for purposes of this section under section 7701(f) shall include regulations providing for the disallowance of interest deductions or other appropriate treatment (in lieu of reducing the dividend received deduction) where the obligor of the indebtedness is a person other than the person receiving the dividend.
 
-(Added [Pub. L. 98–369, div. A, title I, § 51(a)][/us/pl/98/369/s51/a], July 18, 1984, [98 Stat. 562][/us/stat/98/562]; amended [Pub. L. 99–514, title VI, § 611(a)(4)][/us/pl/99/514/s611/a/4], title XVIII, § 1804(a), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2798; [Pub. L. 100–203, title X, § 10221(d)(2)][/us/pl/100/203/s10221/d/2], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I, § 1012][/us/pl/100/647/s1012](l)(1), Nov. 10, 1988, [102 Stat. 3513][/us/stat/102/3513]; [Pub. L. 108–311, title IV, § 408(a)(9)][/us/pl/108/311/s408/a/9], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(F)][/us/pl/113/295/s221/a/41/F], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 51(a), July 18, 1984, [98 Stat. 562][/us/stat/98/562]; amended [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 611(a)(4), title XVIII, § 1804(a), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2798; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10221(d)(2), Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(l)(1), Nov. 10, 1988, [102 Stat. 3513][/us/stat/102/3513]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(9), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(F), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
-    Section 243(d)(4), referred to in subsec. (b)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(41)(D)][/us/pl/113/295/s221/a/41/D], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].
+    Section 243(d)(4), referred to in subsec. (b)(1), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(D), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].
 
     The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15][/us/usc/t15/s661] and Tables.
 
@@ -143,9 +143,9 @@
 
     1987—Subsec. (a)(1). [Pub. L. 100–203][/us/pl/100/203] substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1804(a)][/us/pl/99/514/s1804/a], substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
 
-    Subsec. (a)(1). [Pub. L. 99–514, § 611(a)(4)][/us/pl/99/514/s611/a/4], substituted “80 percent” for “85 percent”.
+    Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 611(a)(4), substituted “80 percent” for “85 percent”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -165,11 +165,11 @@
 
     Amendment by [section 611(a)(4) of Pub. L. 99–514][/us/pl/99/514/s611/a/4] applicable to dividends received or accrued after Dec. 31, 1986, in taxable years ending after such date, see [section 611(b) of Pub. L. 99–514][/us/pl/99/514/s611/b], set out as a note under [section 246 of this title][/us/usc/t26/s246].
 
-    Amendment by [section 1804(a) of Pub. L. 99–514][/us/pl/99/514/s1804/a] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1804(a) of Pub. L. 99–514][/us/pl/99/514/s1804/a] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 51(c)][/us/pl/98/369/s51/c], July 18, 1984, [98 Stat. 564][/us/stat/98/564], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 51(c), July 18, 1984, [98 Stat. 564][/us/stat/98/564], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.”
 
@@ -184,19 +184,19 @@
 ----------
 ----------
 
-[/us/pl/98/369/s51/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs51%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F562
-[/us/pl/99/514/s611/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs611%2Fa%2F4
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2249
-[/us/pl/100/203/s10221/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10221%2Fd%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-409
-[/us/pl/100/647/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3513
-[/us/pl/108/311/s408/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F9
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
-[/us/pl/113/295/s221/a/41/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FF
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
-[/us/pl/113/295/s221/a/41/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FD
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
@@ -206,8 +206,8 @@
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/514/s1804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fa
-[/us/pl/99/514/s611/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs611%2Fa%2F4
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -228,10 +228,10 @@
 [/us/pl/99/514/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs611%2Fb
 [/us/usc/t26/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs246
 [/us/pl/99/514/s1804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fa
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s51/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs51%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F564
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

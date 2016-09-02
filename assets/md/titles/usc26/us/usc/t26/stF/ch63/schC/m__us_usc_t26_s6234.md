@@ -123,11 +123,11 @@
 
             If the Secretary erroneously determines that subchapter B applies to a taxable year of a taxpayer and consistent with that determination timely mails a notice of deficiency to the taxpayer pursuant to section 6212, the notice of deficiency shall be treated as a notice of adjustment under subsection (a) and any petition that is filed in respect of the notice shall be treated as an action brought under subsection (c).
 
-(Added [Pub. L. 105–34, title XII, § 1231(a)][/us/pl/105/34/s1231/a], Aug. 5, 1997, [111 Stat. 1020][/us/stat/111/1020]; amended [Pub. L. 107–147, title IV, § 416(d)(1)(D)][/us/pl/107/147/s416/d/1/D], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55].)
+(Added [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1231(a), Aug. 5, 1997, [111 Stat. 1020][/us/stat/111/1020]; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 416(d)(1)(D), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55].)
 
  __Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 634, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6234 is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 634, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6234 is enacted to read as follows:
 
 >     § 6234. Judicial review of partnership adjustment
 
@@ -163,7 +163,7 @@
 
     If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c), the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
-[Pub. L. 114–113, div. Q, title IV, § 411(b)(2)][/us/pl/114/113/s411/b/2], (3), (e), Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122], provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended as follows:
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 411(b)(2), (3), (e), Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122], provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended as follows:
 
     (1) in subsections (a)(3), (b)(1), and (d), by striking “the Claims Court” and inserting “the Court of Federal Claims”; and
 
@@ -196,13 +196,13 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1231%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1020
-[/us/pl/107/147/s416/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Fd%2F1%2FD
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/114/113/s411/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fb%2F2
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3122
 [/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74

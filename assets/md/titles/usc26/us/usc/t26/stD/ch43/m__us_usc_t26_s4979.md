@@ -61,27 +61,27 @@
 
             Any amount distributed as provided in paragraph (1) shall be treated as earned and received by the recipient in the recipient’s taxable year in which such distributions were made.
 
-(Added [Pub. L. 99–514, title XI, § 1117(b)(1)][/us/pl/99/514/s1117/b/1], Oct. 22, 1986, [100 Stat. 2461][/us/stat/100/2461]; amended [Pub. L. 100–647, title I, § 1011][/us/pl/100/647/s1011](l)(8)–(11), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], 3471; [Pub. L. 109–280, title IX, § 902(e)(1)][/us/pl/109/280/s902/e/1]–(3)(A), Aug. 17, 2006, [120 Stat. 1038][/us/stat/120/1038].)
+(Added [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1117(b)(1), Oct. 22, 1986, [100 Stat. 2461][/us/stat/100/2461]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011(l)(8)–(11), Nov. 10, 1988, [102 Stat. 3470][/us/stat/102/3470], 3471; [Pub. L. 109–280, title IX][/us/pl/109/280/tIX], § 902(e)(1)–(3)(A), Aug. 17, 2006, [120 Stat. 1038][/us/stat/120/1038].)
 
  __Amendments__ 
 
-    2006—Subsec. (f). [Pub. L. 109–280, § 902(e)(1)(B)][/us/pl/109/280/s902/e/1/B], substituted “specified period after” for “2½ months of” in heading.
+    2006—Subsec. (f). [Pub. L. 109–280][/us/pl/109/280], § 902(e)(1)(B), substituted “specified period after” for “2½ months of” in heading.
 
-    Subsec. (f)(1). [Pub. L. 109–280, § 902(e)(1)(A)][/us/pl/109/280/s902/e/1/A], (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “2½ months”.
+    Subsec. (f)(1). [Pub. L. 109–280][/us/pl/109/280], § 902(e)(1)(A), (3)(A), inserted “through the end of the plan year for which the contribution was made” after “thereto” and “(6 months in the case of an excess contribution or excess aggregate contribution to an eligible automatic contribution arrangement (as defined in section 414(w)(3)))” after “2½ months”.
 
-    Subsec. (f)(2). [Pub. L. 109–280, § 902(e)(2)][/us/pl/109/280/s902/e/2], reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows:
+    Subsec. (f)(2). [Pub. L. 109–280][/us/pl/109/280], § 902(e)(2), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows:
 
     “(A) In general.—Except as provided in subparagraph (B), any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.
 
     “(B) De minimis distributions.—If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.”
 
-    1988—Subsec. (a)(1). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
+    1988—Subsec. (a)(1). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(8), struck out “a cash or deferred arrangement which is part of” after “contributions under”.
 
-    Subsec. (c). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(9), struck out “403(b),” and substituted “408(k)(6)(C)” for “408(k)(8)(B)”.
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(9), struck out “403(b),” and substituted “408(k)(6)(C)” for “408(k)(8)(B)”.
 
-    Subsec. (d). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(10), inserted sentence at end relating to determination of excess aggregate contributions under certain annuity contracts.
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(10), inserted sentence at end relating to determination of excess aggregate contributions under certain annuity contracts.
 
-    Subsec. (f)(2). [Pub. L. 100–647, § 1011][/us/pl/100/647/s1011](l)(11), substituted “Year of inclusion” for “Included in prior year” as heading, and amended text generally. Prior to amendment, text read as follows: “Any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.”
+    Subsec. (f)(2). [Pub. L. 100–647][/us/pl/100/647], § 1011(l)(11), substituted “Year of inclusion” for “Included in prior year” as heading, and amended text generally. Prior to amendment, text read as follows: “Any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -110,19 +110,19 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1117/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1117%2Fb%2F1
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2461
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3470
-[/us/pl/109/280/s902/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F1
+[/us/pl/109/280/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIX
 [/us/stat/120/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1038
-[/us/pl/109/280/s902/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F1%2FB
-[/us/pl/109/280/s902/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F1%2FA
-[/us/pl/109/280/s902/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fe%2F2
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
-[/us/pl/100/647/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs902%2Fg
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

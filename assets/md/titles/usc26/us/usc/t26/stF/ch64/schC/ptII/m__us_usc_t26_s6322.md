@@ -17,7 +17,7 @@
 
     Unless another date is specifically fixed by law, the lien imposed by section 6321 shall arise at the time the assessment is made and shall continue until the liability for the amount so assessed (or a judgment against the taxpayer arising out of such liability) is satisfied or becomes unenforceable by reason of lapse of time.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 779][/us/stat/68A/779]; [Pub. L. 89–719, title I, § 113(a)][/us/pl/89/719/s113/a], Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 779][/us/stat/68A/779]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 113(a), Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F779
-[/us/pl/89/719/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs113%2Fa
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1146
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719

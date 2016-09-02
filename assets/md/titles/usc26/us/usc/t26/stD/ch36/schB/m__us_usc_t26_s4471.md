@@ -27,15 +27,15 @@
 
         The tax imposed by this section shall be imposed only once for each passenger on a covered voyage, either at the time of first embarkation or disembarkation in the United States.
 
-(Added [Pub. L. 101–239, title VII, § 7504(a)][/us/pl/101/239/s7504/a], Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7504(a), Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362].)
 
  __Prior Provisions__ 
 
-    A prior section 4471 was contained in subchapter C of this chapter prior to repeal by [Pub. L. 89–44, title IV, § 404][/us/pl/89/44/s404], June 21, 1965, [79 Stat. 149][/us/stat/79/149].
+    A prior section 4471 was contained in subchapter C of this chapter prior to repeal by [Pub. L. 89–44, title IV][/us/pl/89/44/tIV], § 404, June 21, 1965, [79 Stat. 149][/us/stat/79/149].
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VII, § 7504(c)][/us/pl/101/239/s7504/c], Dec. 19, 1989, [103 Stat. 2363][/us/stat/103/2363], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7504(c), Dec. 19, 1989, [103 Stat. 2363][/us/stat/103/2363], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7504%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2362
-[/us/pl/89/44/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs404
+[/us/pl/89/44/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIV
 [/us/stat/79/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F149
-[/us/pl/101/239/s7504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7504%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2363
 
 

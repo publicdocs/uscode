@@ -27,13 +27,13 @@
 
         The basis of property acquired in a transfer with respect to which gain realized is not recognized by reason of subsection (a) or (b) shall be the basis of such property immediately before the transfer increased by the amount of the gain recognized to the estate or trust on the transfer.
 
-(Added [Pub. L. 94–455, title XX, § 2005(b)][/us/pl/94/455/s2005/b], Oct. 4, 1976, [90 Stat. 1877][/us/stat/90/1877]; amended [Pub. L. 95–600, title VII, § 702(d)(3)][/us/pl/95/600/s702/d/3], Nov. 6, 1978, [92 Stat. 2929][/us/stat/92/2929]; [Pub. L. 96–222, title I, § 105(a)(5)(A)][/us/pl/96/222/s105/a/5/A], Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219]; [Pub. L. 96–223, title IV, § 401(c)(2)(A)][/us/pl/96/223/s401/c/2/A], Apr. 2, 1980, [94 Stat. 300][/us/stat/94/300]; [Pub. L. 97–34, title IV, § 421(j)(2)(B)][/us/pl/97/34/s421/j/2/B], Aug. 13, 1981, [95 Stat. 312][/us/stat/95/312]; [Pub. L. 97–448, title I, § 104(b)(3)(A)][/us/pl/97/448/s104/b/3/A], (B), Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381]; [Pub. L. 107–16, title V, § 542(d)(1)][/us/pl/107/16/s542/d/1], June 7, 2001, [115 Stat. 84][/us/stat/115/84]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2005(b), Oct. 4, 1976, [90 Stat. 1877][/us/stat/90/1877]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(d)(3), Nov. 6, 1978, [92 Stat. 2929][/us/stat/92/2929]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 105(a)(5)(A), Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219]; [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 401(c)(2)(A), Apr. 2, 1980, [94 Stat. 300][/us/stat/94/300]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 421(j)(2)(B), Aug. 13, 1981, [95 Stat. 312][/us/stat/95/312]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(b)(3)(A), (B), Jan. 12, 1983, [96 Stat. 2381][/us/stat/96/2381]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(d)(1), June 7, 2001, [115 Stat. 84][/us/stat/115/84]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312][/us/pl/111/312] amended section to read as if amendment by [Pub. L. 107–16, § 542(d)(1)][/us/pl/107/16/s542/d/1], had never been enacted. See 2001 Amendment note below.
+    2010—[Pub. L. 111–312][/us/pl/111/312] amended section to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(d)(1), had never been enacted. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–16, § 542(d)(1)][/us/pl/107/16/s542/d/1], amended section generally. Prior to amendment, text read as follows:
+    2001—[Pub. L. 107–16][/us/pl/107/16], § 542(d)(1), amended section generally. Prior to amendment, text read as follows:
 
     “(a) General rule.—If the executor of the estate of any decedent transfers to a qualified heir (within the meaning of section 2032A(e)(1)) any property with respect to which an election was made under section 2032A, then gain on such transfer shall be recognized to the estate only to the extent that, on the date of such transfer, the fair market value of such property exceeds the value of such property for purposes of chapter 11 (determined without regard to section 2032A).
 
@@ -41,9 +41,9 @@
 
     “(c) Basis of property acquired in transfer described in subsection (a) or (b).—The basis of property acquired in a transfer with respect to which gain realized is not recognized by reason of subsection (a) or (b) shall be the basis of such property immediately before the transfer increased by the amount of the gain recognized to the estate or trust on the transfer.”
 
-    1983—Subsec. (a). [Pub. L. 97–448, § 104(b)(3)(A)][/us/pl/97/448/s104/b/3/A], substituted “on the date of such transfer” for “on the date of such exchange”.
+    1983—Subsec. (a). [Pub. L. 97–448][/us/pl/97/448], § 104(b)(3)(A), substituted “on the date of such transfer” for “on the date of such exchange”.
 
-    Subsec. (c). [Pub. L. 97–448, § 104(b)(3)(B)][/us/pl/97/448/s104/b/3/B], substituted references to “transfer”, “a transfer”, and “the transfer” for references to “exchange”, “an exchange”, and “the exchange”, respectively, wherever appearing in heading and text.
+    Subsec. (c). [Pub. L. 97–448][/us/pl/97/448], § 104(b)(3)(B), substituted references to “transfer”, “a transfer”, and “the transfer” for references to “exchange”, “an exchange”, and “the exchange”, respectively, wherever appearing in heading and text.
 
     1981—[Pub. L. 97–34][/us/pl/97/34] substituted “Transfer of certain farm, etc., real property” for “Use of farm, etc., real property to satisfy pecuniary bequest” in section catchline.
 
@@ -79,7 +79,7 @@
 
     Amendment by [Pub. L. 96–223][/us/pl/96/223] applicable in respect of decedents dying after Dec. 31, 1976, see [section 401(e) of Pub. L. 96–223][/us/pl/96/223/s401/e], set out as a note under [section 1023 of this title][/us/usc/t26/s1023].
 
-[Pub. L. 96–222, title I, § 105(a)(5)(B)][/us/pl/96/222/s105/a/5/B], Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 96–222, title I][/us/pl/96/222/tI], § 105(a)(5)(B), Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Notwithstanding section 515 of the Revenue Act of 1978 \[[section 515 of Pub. L. 95–600][/us/pl/95/600/s515] which deferred carryover basis rules until Dec. 31, 1979\], section 1040 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subparagraph (A) \[amending this section\]) shall apply with respect to the estates of decedents dying after December 31, 1976.”
 
@@ -98,27 +98,27 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2005%2Fb
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1877
-[/us/pl/95/600/s702/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fd%2F3
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2929
-[/us/pl/96/222/s105/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F5%2FA
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F219
-[/us/pl/96/223/s401/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs401%2Fc%2F2%2FA
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F300
-[/us/pl/97/34/s421/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs421%2Fj%2F2%2FB
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F312
-[/us/pl/97/448/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fb%2F3%2FA
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2381
-[/us/pl/107/16/s542/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fd%2F1
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F84
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fd%2F1
-[/us/pl/107/16/s542/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fd%2F1
-[/us/pl/97/448/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fb%2F3%2FA
-[/us/pl/97/448/s104/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fb%2F3%2FB
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
@@ -141,9 +141,9 @@
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/96/223/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs401%2Fe
 [/us/usc/t26/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1023
-[/us/pl/96/222/s105/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F5%2FB
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F219
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/95/600/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs515
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

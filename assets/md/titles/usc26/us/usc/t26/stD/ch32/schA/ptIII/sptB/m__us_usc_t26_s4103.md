@@ -23,7 +23,7 @@
 
     shall be jointly and severally liable with the taxpayer for the tax to which such failure relates.
 
-(Added [Pub. L. 101–508, title XI, § 11212(c)][/us/pl/101/508/s11212/c], Nov. 5, 1990, [104 Stat. 1388–431][/us/stat/104/1388-431]; amended [Pub. L. 103–66, title XIII, § 13242(d)(1)][/us/pl/103/66/s13242/d/1], Aug. 10, 1993, [107 Stat. 522][/us/stat/107/522]; [Pub. L. 108–357, title VIII, § 853(d)(2)(F)][/us/pl/108/357/s853/d/2/F], Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11212(c), Nov. 5, 1990, [104 Stat. 1388–431][/us/stat/104/1388-431]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(d)(1), Aug. 10, 1993, [107 Stat. 522][/us/stat/107/522]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 853(d)(2)(F), Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11212%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-431
-[/us/pl/103/66/s13242/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fd%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F522
-[/us/pl/108/357/s853/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs853%2Fd%2F2%2FF
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1613
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66

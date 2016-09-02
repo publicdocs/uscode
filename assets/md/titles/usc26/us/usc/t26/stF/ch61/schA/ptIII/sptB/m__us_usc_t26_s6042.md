@@ -79,7 +79,7 @@
 
         (3) furnish to the Secretary a statement of its accumulated earnings and profits and the names and addresses of the individuals or shareholders who would be entitled to such accumulated earnings and profits if divided or distributed, and of the amounts that would be payable to each.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 746][/us/stat/68A/746]; [Pub. L. 87–834, § 19(a)][/us/pl/87/834/s19/a], Oct. 16, 1962, [76 Stat. 1053][/us/stat/76/1053]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 303(a), 308(a), Sept. 3, 1982, [96 Stat. 587][/us/stat/96/587], 591; [Pub. L. 97–354, § 5(a)(40)][/us/pl/97/354/s5/a/40], Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 98–67, title I][/us/pl/98/67], §§ 102(a), 108(b), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 383; [Pub. L. 98–369, div. A, title VII, § 714(d)][/us/pl/98/369/s714/d], July 18, 1984, [98 Stat. 961][/us/stat/98/961]; [Pub. L. 99–514, title XV, § 1501(c)(2)][/us/pl/99/514/s1501/c/2], Oct. 22, 1986, [100 Stat. 2736][/us/stat/100/2736]; [Pub. L. 104–168, title XII, § 1201(a)(3)][/us/pl/104/168/s1201/a/3], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 746][/us/stat/68A/746]; [Pub. L. 87–834][/us/pl/87/834], § 19(a), Oct. 16, 1962, [76 Stat. 1053][/us/stat/76/1053]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 303(a), 308(a), Sept. 3, 1982, [96 Stat. 587][/us/stat/96/587], 591; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(40), Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 98–67, title I][/us/pl/98/67/tI], §§ 102(a), 108(b), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 383; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(d), July 18, 1984, [98 Stat. 961][/us/stat/98/961]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(2), Oct. 22, 1986, [100 Stat. 2736][/us/stat/100/2736]; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(3), July 30, 1996, [110 Stat. 1469][/us/stat/110/1469].)
 
  __Amendments__ 
 
@@ -91,7 +91,7 @@
 
     1983—[Pub. L. 98–67][/us/pl/98/67] substituted in subsec. (c) “The written statement required under the preceding sentence shall be furnished (either in person or in a separate mailing by first-class mail) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made, and shall be in such form as the Secretary may prescribe by regulations” for “The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a)(1) was made” and repealed amendments made by [Pub. L. 97–248][/us/pl/97/248]. See 1982 Amendment note below.
 
-    1982—Subsecs. (a)(1), (c), (e). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsecs. (a)(1) and (c) are amended and a new subsec. (e) is added. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+    1982—Subsecs. (a)(1), (c), (e). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsecs. (a)(1) and (c) are amended and a new subsec. (e) is added. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67/tI], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
     Subsec. (b)(2). [Pub. L. 97–354][/us/pl/97/354] redesignated cl. (A)(i) as subpar. (A) and cl. (A)(ii) as subpar. (B). Former subpar. (B), excluding from the term “dividends” any amount described in section 1373 (relating to undistributed taxable income of electing small business corporations), was struck out.
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–834, § 19(h)][/us/pl/87/834/s19/h], Oct. 16, 1962, [76 Stat. 1058][/us/stat/76/1058], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 87–834][/us/pl/87/834], § 19(h), Oct. 16, 1962, [76 Stat. 1058][/us/stat/76/1058], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __Dividends and interest__  __.—__ 
 
@@ -140,21 +140,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F746
-[/us/pl/87/834/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs19%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1053
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F587
-[/us/pl/97/354/s5/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F40
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1696
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/98/369/s714/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fd
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F961
-[/us/pl/99/514/s1501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F2
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2736
-[/us/pl/104/168/s1201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F3
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1469
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -162,7 +162,7 @@
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
@@ -184,9 +184,9 @@
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/87/834/s19/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs19%2Fh
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1058
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

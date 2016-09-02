@@ -81,13 +81,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–245, title III, § 301(b)(2)][/us/pl/110/245/s301/b/2], June 17, 2008, [122 Stat. 1646][/us/stat/122/1646], added item for chapter 15.
+    2008—[Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 301(b)(2), June 17, 2008, [122 Stat. 1646][/us/stat/122/1646], added item for chapter 15.
 
-    1990—[Pub. L. 101–508, title XI, § 11602(c)][/us/pl/101/508/s11602/c], Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], added item for chapter 14.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11602(c), Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], added item for chapter 14.
 
-    1986—[Pub. L. 99–514, title XIV, § 1431(b)][/us/pl/99/514/s1431/b], Oct. 22, 1986, [100 Stat. 2729][/us/stat/100/2729], struck out “certain” after “Tax on” in item for chapter 13.
+    1986—[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(b), Oct. 22, 1986, [100 Stat. 2729][/us/stat/100/2729], struck out “certain” after “Tax on” in item for chapter 13.
 
-    1976—[Pub. L. 94–455, title XX, § 2006(b)(1)][/us/pl/94/455/s2006/b/1], Oct. 4, 1976, [90 Stat. 1888][/us/stat/90/1888], added item for chapter 13.
+    1976—[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(b)(1), Oct. 4, 1976, [90 Stat. 1888][/us/stat/90/1888], added item for chapter 13.
 
 ----------
 
@@ -96,13 +96,13 @@
 ----------
 ----------
 
-[/us/pl/110/245/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fb%2F2
+[/us/pl/110/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIII
 [/us/stat/122/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1646
-[/us/pl/101/508/s11602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11602%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-500
-[/us/pl/99/514/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fb
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2729
-[/us/pl/94/455/s2006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fb%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1888
 
 

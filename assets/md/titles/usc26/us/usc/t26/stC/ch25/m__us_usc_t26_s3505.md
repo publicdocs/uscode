@@ -27,7 +27,7 @@
 
         Any amounts paid to the United States pursuant to this section shall be credited against the liability of the employer.
 
-(Added [Pub. L. 89–719, title I, § 105(a)][/us/pl/89/719/s105/a], Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138].)
+(Added [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 105(a), Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/89/719/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs105%2Fa
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1138
 [/us/pl/89/719/s114/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs114%2Fc%2F1
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323

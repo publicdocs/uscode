@@ -135,33 +135,33 @@
 
             In determining whether a segregated asset account is adequately diversified for purposes of paragraph (1), each United States Government agency or instrumentality shall be treated as a separate issuer.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 750][/us/stat/98/750]; amended [Pub. L. 99–514, title XVIII, § 1821(m)][/us/pl/99/514/s1821/m], (t)(1), Oct. 22, 1986, [100 Stat. 2841][/us/stat/100/2841], 2844; [Pub. L. 100–647, title VI, § 6080(a)][/us/pl/100/647/s6080/a], Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710]; [Pub. L. 104–188, title I, § 1611(a)][/us/pl/104/188/s1611/a], Aug. 20, 1996, [110 Stat. 1845][/us/stat/110/1845]; [Pub. L. 105–34, title XII, § 1271(b)(8)][/us/pl/105/34/s1271/b/8], Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037]; [Pub. L. 108–218, title II, § 205(b)(5)][/us/pl/108/218/s205/b/5], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(a), July 18, 1984, [98 Stat. 750][/us/stat/98/750]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1821(m), (t)(1), Oct. 22, 1986, [100 Stat. 2841][/us/stat/100/2841], 2844; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6080(a), Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1611(a), Aug. 20, 1996, [110 Stat. 1845][/us/stat/110/1845]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1271(b)(8), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(b)(5), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
 
  __Prior Provisions__ 
 
-    A prior section 817, added [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a], June 25, 1959, [73 Stat. 132][/us/stat/73/132]; amended [Pub. L. 94–455, title XIV, § 1402(b)(1)(M)][/us/pl/94/455/s1402/b/1/M], (2), title XIX, §§ 1901(a)(100), 1951(b)(11)(A), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1781, 1839, related to rules regarding certain gains and losses, prior to the general revision of this part by [Pub. L. 98–369, § 211(a)][/us/pl/98/369/s211/a].
+    A prior section 817, added [Pub. L. 86–69][/us/pl/86/69], § 2(a), June 25, 1959, [73 Stat. 132][/us/stat/73/132]; amended [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1)(M), (2), title XIX, §§ 1901(a)(100), 1951(b)(11)(A), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1781, 1839, related to rules regarding certain gains and losses, prior to the general revision of this part by [Pub. L. 98–369][/us/pl/98/369], § 211(a).
 
-    Another prior section 817, [act Aug. 16, 1954, ch. 736, § 817][/us/act/1954-08-16/ch736/s817], as added [Mar. 13, 1956, ch. 83, § 2][/us/act/1956-03-13/ch83/s2], [70 Stat. 46][/us/stat/70/46], related to denial of double deductions, prior to the general revision of this part by [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a].
+    Another prior section 817, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], § 817, as added [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 2, [70 Stat. 46][/us/stat/70/46], related to denial of double deductions, prior to the general revision of this part by [Pub. L. 86–69][/us/pl/86/69], § 2(a).
 
  __Amendments__ 
 
     2004—Subsec. (c). [Pub. L. 108–218][/us/pl/108/218], in introductory provisions, struck out “(other than section 809)” after “For purposes of this part”.
 
-    1997—Subsec. (h)(2)(A). [Pub. L. 105–34, § 1271(b)(8)(A)][/us/pl/105/34/s1271/b/8/A], substituted “851(b)(3)” for “851(b)(4)”.
+    1997—Subsec. (h)(2)(A). [Pub. L. 105–34][/us/pl/105/34], § 1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
 
-    Subsec. (h)(2)(B). [Pub. L. 105–34, § 1271(b)(8)(B)][/us/pl/105/34/s1271/b/8/B], substituted “851(b)(3)(A)(i)” for “851(b)(4)(A)(i)”.
+    Subsec. (h)(2)(B). [Pub. L. 105–34][/us/pl/105/34], § 1271(b)(8)(B), substituted “851(b)(3)(A)(i)” for “851(b)(4)(A)(i)”.
 
-    1996—Subsec. (d)(2)(C). [Pub. L. 104–188, § 1611(a)(1)][/us/pl/104/188/s1611/a/1], added subpar. (C).
+    1996—Subsec. (d)(2)(C). [Pub. L. 104–188][/us/pl/104/188], § 1611(a)(1), added subpar. (C).
 
-    Subsec. (d)(3)(C). [Pub. L. 104–188, § 1611(a)(2)][/us/pl/104/188/s1611/a/2], added subpar. (C).
+    Subsec. (d)(3)(C). [Pub. L. 104–188][/us/pl/104/188], § 1611(a)(2), added subpar. (C).
 
     1988—Subsec. (h)(6). [Pub. L. 100–647][/us/pl/100/647] added par. (6).
 
-    1986—Subsec. (d). [Pub. L. 99–514, § 1821(t)(1)][/us/pl/99/514/s1821/t/1], inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company’s general account.”
+    1986—Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company’s general account.”
 
-    Subsec. (h)(1). [Pub. L. 99–514, § 1821(m)(2)][/us/pl/99/514/s1821/m/2], struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
+    Subsec. (h)(1). [Pub. L. 99–514][/us/pl/99/514], § 1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
 
-    Subsec. (h)(3) to (5). [Pub. L. 99–514, § 1821(m)(1)][/us/pl/99/514/s1821/m/1], added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
+    Subsec. (h)(3) to (5). [Pub. L. 99–514][/us/pl/99/514], § 1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -169,25 +169,25 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1271(c)][/us/pl/105/34/s1271/c], Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1271(c), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1611(b)][/us/pl/104/188/s1611/b], Aug. 20, 1996, [110 Stat. 1846][/us/stat/110/1846], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1611(b), Aug. 20, 1996, [110 Stat. 1846][/us/stat/110/1846], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6080(b)][/us/pl/100/647/s6080/b], Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6080(b), Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVIII, § 1821(t)(2)][/us/pl/99/514/s1821/t/2], Oct. 22, 1986, [100 Stat. 2844][/us/stat/100/2844], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1821(t)(2), Oct. 22, 1986, [100 Stat. 2844][/us/stat/100/2844], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply—
 
@@ -195,7 +195,7 @@
 
 >     “(B) to contracts issued before January 1, 1987, if such contract was treated as a variable contract on the taxpayer’s return.”
 
-    Amendment by [section 1821(m) of Pub. L. 99–514][/us/pl/99/514/s1821/m] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1821(m) of Pub. L. 99–514][/us/pl/99/514/s1821/m] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -203,7 +203,7 @@
 
  __Delay in Effective Date for Diversification Requirements With Respect to Accounts for Certain Immediate Annuities__ 
 
-[Pub. L. 100–647, title I, § 1010(i)][/us/pl/100/647/s1010/i], Nov. 10, 1988, [102 Stat. 3455][/us/stat/102/3455], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(i), Nov. 10, 1988, [102 Stat. 3455][/us/stat/102/3455], provided that: 
 
 > “Section 817(h) of the 1986 Code shall not apply until January 1, 1989, with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if—
 
@@ -224,54 +224,54 @@
 ----------
 ----------
 
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F750
-[/us/pl/99/514/s1821/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fm
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2841
-[/us/pl/100/647/s6080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6080%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3710
-[/us/pl/104/188/s1611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1611%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1845
-[/us/pl/105/34/s1271/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F8
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1037
-[/us/pl/108/218/s205/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F5
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
-[/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F132
-[/us/pl/94/455/s1402/b/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FM
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
-[/us/act/1954-08-16/ch736/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736%2Fs817
-[/us/act/1956-03-13/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F46
-[/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
-[/us/pl/105/34/s1271/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F8%2FA
-[/us/pl/105/34/s1271/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F8%2FB
-[/us/pl/104/188/s1611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1611%2Fa%2F1
-[/us/pl/104/188/s1611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1611%2Fa%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1821/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Ft%2F1
-[/us/pl/99/514/s1821/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fm%2F2
-[/us/pl/99/514/s1821/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fm%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/218/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fc
 [/us/usc/t26/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807
-[/us/pl/105/34/s1271/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fc
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1037
-[/us/pl/104/188/s1611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1611%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1846
-[/us/pl/100/647/s6080/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6080%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3710
-[/us/pl/99/514/s1821/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Ft%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2844
 [/us/pl/99/514/s1821/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fm
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs215
 [/us/usc/t26/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs801
-[/us/pl/100/647/s1010/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fi
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3455
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

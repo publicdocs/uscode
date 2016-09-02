@@ -55,7 +55,7 @@
 
                 In the case of a corporation which is a member of an electing group, the interest expense of such corporation shall be disallowed in the ratio that the fair market value of such corporation’s qualifying vessels bears to the fair market value of the electing groups total assets.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1455][/us/stat/118/1455].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1455][/us/stat/118/1455].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1455
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 

@@ -85,7 +85,7 @@
 
                 (ii) no unpaid interest on such advances.
 
-(Added [Pub. L. 95–227, § 2(a)][/us/pl/95/227/s2/a], Feb. 10, 1978, [92 Stat. 11][/us/stat/92/11]; amended [Pub. L. 97–119, title I, § 102(a)][/us/pl/97/119/s102/a], Dec. 29, 1981, [95 Stat. 1635][/us/stat/95/1635]; [Pub. L. 99–272, title XIII, § 13203(a)][/us/pl/99/272/s13203/a], (c), Apr. 7, 1986, [100 Stat. 312][/us/stat/100/312], 313; [Pub. L. 99–514, title XVIII, § 1897(a)][/us/pl/99/514/s1897/a], Oct. 22, 1986, [100 Stat. 2941][/us/stat/100/2941]; [Pub. L. 100–203, title X, § 10503][/us/pl/100/203/s10503], Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446]; [Pub. L. 110–343, div. B, title I, § 113(a)][/us/pl/110/343/s113/a], Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824].)
+(Added [Pub. L. 95–227][/us/pl/95/227], § 2(a), Feb. 10, 1978, [92 Stat. 11][/us/stat/92/11]; amended [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 102(a), Dec. 29, 1981, [95 Stat. 1635][/us/stat/95/1635]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13203(a), (c), Apr. 7, 1986, [100 Stat. 312][/us/stat/100/312], 313; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1897(a), Oct. 22, 1986, [100 Stat. 2941][/us/stat/100/2941]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10503, Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446]; [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 113(a), Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824].)
 
  __Prior Provisions__ 
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e)(2)(A). [Pub. L. 110–343, § 113(a)(1)][/us/pl/110/343/s113/a/1], substituted “December 31, 2018” for “January 1, 2014”.
+    2008—Subsec. (e)(2)(A). [Pub. L. 110–343][/us/pl/110/343], § 113(a)(1), substituted “December 31, 2018” for “January 1, 2014”.
 
-    Subsec. (e)(2)(B). [Pub. L. 110–343, § 113(a)(2)][/us/pl/110/343/s113/a/2], substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
+    Subsec. (e)(2)(B). [Pub. L. 110–343][/us/pl/110/343], § 113(a)(2), substituted “December 31 after 2007” for “January 1 after 1981” in introductory provisions.
 
     1987—Subsec. (e)(2)(A). [Pub. L. 100–203][/us/pl/100/203] substituted “2014” for “1996”.
 
-    1986—Subsec. (a). [Pub. L. 99–272, § 13203(a)][/us/pl/99/272/s13203/a], amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
+    1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 13203(a), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is hereby imposed on coal sold by the producer a tax at the rates of—
 
     “(1) 50 cents per ton in the case of coal from underground mines located in the United States, and
 
@@ -107,9 +107,9 @@
 
     Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] struck out “, in the case of sales during any calendar year beginning after December 31, 1985” after “subsection (a)”.
 
-    [Pub. L. 99–272, § 13203(a)][/us/pl/99/272/s13203/a], amended subsec. (b) generally. Prior to amendment subsec. (b), limitation on tax, read as follows: “The amount of the tax imposed by subsection (a) with respect to a ton of coal shall not exceed 2 percent of the price at which such ton of coal is sold by the producer.”
+    [Pub. L. 99–272][/us/pl/99/272], § 13203(a), amended subsec. (b) generally. Prior to amendment subsec. (b), limitation on tax, read as follows: “The amount of the tax imposed by subsection (a) with respect to a ton of coal shall not exceed 2 percent of the price at which such ton of coal is sold by the producer.”
 
-    Subsec. (e). [Pub. L. 99–272, § 13203(c)][/us/pl/99/272/s13203/c], substituted “Reduction in amount of tax” for “Temporary increase in amount of tax” in heading and amended par. (1) generally. Prior to amendment par. (1) read as follows: “Effective with respect to sales after December 31, 1981, and before the temporary increase termination date—
+    Subsec. (e). [Pub. L. 99–272][/us/pl/99/272], § 13203(c), substituted “Reduction in amount of tax” for “Temporary increase in amount of tax” in heading and amended par. (1) generally. Prior to amendment par. (1) read as follows: “Effective with respect to sales after December 31, 1981, and before the temporary increase termination date—
 
     “(A) subsection (a) shall be applied—
 
@@ -123,31 +123,31 @@
 
  __Effective Date of 1986 Amendments__ 
 
-[Pub. L. 99–514, title XVIII, § 1897(b)][/us/pl/99/514/s1897/b], Oct. 22, 1986, [100 Stat. 2941][/us/stat/100/2941], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1897(b), Oct. 22, 1986, [100 Stat. 2941][/us/stat/100/2941], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 13203 of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[[section 13203 of Pub. L. 99–272][/us/pl/99/272/s13203], see note below\].”
 
-[Pub. L. 99–272, title XIII, § 13203(d)][/us/pl/99/272/s13203/d], Apr. 7, 1986, [100 Stat. 313][/us/stat/100/313], provided that: 
+[Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13203(d), Apr. 7, 1986, [100 Stat. 313][/us/stat/100/313], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to sales after March 31, 1986.”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–119, title I, § 102(b)][/us/pl/97/119/s102/b], Dec. 29, 1981, [95 Stat. 1635][/us/stat/95/1635], provided that: 
+[Pub. L. 97–119, title I][/us/pl/97/119/tI], § 102(b), Dec. 29, 1981, [95 Stat. 1635][/us/stat/95/1635], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to sales after December 31, 1981.”
 
  __Effective Date__ 
 
-[Pub. L. 95–227, § 2(d)][/us/pl/95/227/s2/d], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12], provided that: 
+[Pub. L. 95–227][/us/pl/95/227], § 2(d), Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 4218, 4221, 4293, and 6416 of this title\] shall apply with respect to sales after March 31, 1978.”
 
-[Pub. L. 95–227, § 5][/us/pl/95/227/s5], Feb. 10, 1978, [92 Stat. 24][/us/stat/92/24], provided that: 
+[Pub. L. 95–227][/us/pl/95/227], § 5, Feb. 10, 1978, [92 Stat. 24][/us/stat/92/24], provided that: 
 
 > “Notwithstanding any other provision of this Act \[see Short Title of 1978 Amendment note set out under [section 1 of this title][/us/usc/t26/s1]\] to the contrary, no provision of this Act (including any amendment made by any such provision) shall take effect or apply unless an Act, enacted after the date of enactment of this Act \[Feb. 10, 1978\], contains a provision, explicitly in satisfaction of the requirements of this section, which states that it is the intent of the Congress that the provisions of this Act shall take effect.”
 
-\[[Pub. L. 95–239, § 20(c)][/us/pl/95/239/s20/c], Mar. 1, 1978, [92 Stat. 106][/us/stat/92/106], provided that: 
+\[[Pub. L. 95–239][/us/pl/95/239], § 20(c), Mar. 1, 1978, [92 Stat. 106][/us/stat/92/106], provided that: 
 
 > “In accordance with the requirements of section 5 of the Black Lung Benefits Revenue Act of 1977 \[[Pub. L. 95–227][/us/pl/95/227], set out above\], it is hereby provided that such Act shall take effect in accordance with the provisions of such Act. The provisions of this subsection are hereby deemed to be in explicit satisfaction of the requirements of section 5 of such Act.”
 
@@ -159,7 +159,7 @@
 
  __Special Rules for Refund of the Coal Excise Tax to Certain Coal Producers and Exporters__ 
 
-[Pub. L. 110–343, div. B, title I, § 114][/us/pl/110/343/s114], Oct. 3, 2008, [122 Stat. 3826][/us/stat/122/3826], provided that:
+[Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 114, Oct. 3, 2008, [122 Stat. 3826][/us/stat/122/3826], provided that:
 
 >     “(a) __Refund.—__ 
 
@@ -288,45 +288,45 @@
 ----------
 ----------
 
-[/us/pl/95/227/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs2%2Fa
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F11
-[/us/pl/97/119/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs102%2Fa
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1635
-[/us/pl/99/272/s13203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203%2Fa
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F312
-[/us/pl/99/514/s1897/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1897%2Fa
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2941
-[/us/pl/100/203/s10503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10503
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-446
-[/us/pl/110/343/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs113%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3824
-[/us/pl/110/343/s113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs113%2Fa%2F1
-[/us/pl/110/343/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs113%2Fa%2F2
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/272/s13203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203%2Fa
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/272/s13203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203%2Fa
-[/us/pl/99/272/s13203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203%2Fc
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/97/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119
-[/us/pl/99/514/s1897/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1897%2Fb
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2941
 [/us/pl/99/272/s13203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203
-[/us/pl/99/272/s13203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13203%2Fd
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F313
-[/us/pl/97/119/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs102%2Fb
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1635
-[/us/pl/95/227/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs2%2Fd
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F12
-[/us/pl/95/227/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs5
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F24
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/95/239/s20/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239%2Fs20%2Fc
+[/us/pl/95/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F239
 [/us/stat/92/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F106
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F11
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/110/343/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs114
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3826
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

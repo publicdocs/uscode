@@ -93,17 +93,17 @@
 
         (2) For special rules in the case of contributions of indebtedness, see section 108(e)(6).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 39][/us/stat/68A/39]; [Pub. L. 94–455, title XXI, § 2120(a)][/us/pl/94/455/s2120/a], Oct. 4, 1976, [90 Stat. 1912][/us/stat/90/1912]; [Pub. L. 95–600, title III, § 364(a)][/us/pl/95/600/s364/a], Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854]; [Pub. L. 96–589, § 2(e)(2)][/us/pl/96/589/s2/e/2], Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 98–369, div. A, title I, § 163(a)][/us/pl/98/369/s163/a], July 18, 1984, [98 Stat. 697][/us/stat/98/697]; [Pub. L. 99–514, title VIII, § 824(a)][/us/pl/99/514/s824/a], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 104–188, title I, § 1613(a)(1)][/us/pl/104/188/s1613/a/1], (2), Aug. 20, 1996, [110 Stat. 1848–1850][/us/stat/110/1848-1850].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 39][/us/stat/68A/39]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2120(a), Oct. 4, 1976, [90 Stat. 1912][/us/stat/90/1912]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 364(a), Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854]; [Pub. L. 96–589][/us/pl/96/589], § 2(e)(2), Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 163(a), July 18, 1984, [98 Stat. 697][/us/stat/98/697]; [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 824(a), Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1613(a)(1), (2), Aug. 20, 1996, [110 Stat. 1848–1850][/us/stat/110/1848-1850].)
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–188, § 1613(a)(2)][/us/pl/104/188/s1613/a/2], inserted “except as provided in subsection (c),” before “the term”.
+    1996—Subsec. (b). [Pub. L. 104–188][/us/pl/104/188], § 1613(a)(2), inserted “except as provided in subsection (c),” before “the term”.
 
-    Subsecs. (c) to (e). [Pub. L. 104–188, § 1613(a)(1)][/us/pl/104/188/s1613/a/1], added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+    Subsecs. (c) to (e). [Pub. L. 104–188][/us/pl/104/188], § 1613(a)(1), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 824(a)][/us/pl/99/514/s824/a], added subsec. (b) and struck out former subsec. (b) relating to contributions in aid of construction, containing par. (1) general rule, par. (2) expenditure rule, par. (3) definitions, and par. (4) disallowance of deductions and investment credit; adjusted basis.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 824(a), added subsec. (b) and struck out former subsec. (b) relating to contributions in aid of construction, containing par. (1) general rule, par. (2) expenditure rule, par. (3) definitions, and par. (4) disallowance of deductions and investment credit; adjusted basis.
 
-    Subsecs. (c), (d). [Pub. L. 99–514, § 824(a)][/us/pl/99/514/s824/a], redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: “If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
+    Subsecs. (c), (d). [Pub. L. 99–514][/us/pl/99/514], § 824(a), redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: “If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
 
     “(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
@@ -119,25 +119,25 @@
 
     1980—Subsec. (c). [Pub. L. 96–589][/us/pl/96/589] designated existing provisions as par. (1) and added par. (2).
 
-    1978—Subsec. (b)(1). [Pub. L. 95–600, § 364(a)(1)][/us/pl/95/600/s364/a/1], (2), substituted in provisions preceding subpar. (A) “electric energy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
+    1978—Subsec. (b)(1). [Pub. L. 95–600][/us/pl/95/600], § 364(a)(1), (2), substituted in provisions preceding subpar. (A) “electric energy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
 
-    Subsec. (b)(2)(A)(ii). [Pub. L. 95–600, § 364(a)(3)][/us/pl/95/600/s364/a/3], substituted “electric energy, gas, steam, water,” for “water”.
+    Subsec. (b)(2)(A)(ii). [Pub. L. 95–600][/us/pl/95/600], § 364(a)(3), substituted “electric energy, gas, steam, water,” for “water”.
 
-    Subsec. (b)(3)(A). [Pub. L. 95–600, § 364(a)(4)][/us/pl/95/600/s364/a/4], substituted “line to an electric line, a gas main, a steam line, or a main water or sewer line” for “property to a main water or sewer line”.
+    Subsec. (b)(3)(A). [Pub. L. 95–600][/us/pl/95/600], § 364(a)(4), substituted “line to an electric line, a gas main, a steam line, or a main water or sewer line” for “property to a main water or sewer line”.
 
-    Subsec. (b)(3)(C). [Pub. L. 95–600, § 364(a)(5)][/us/pl/95/600/s364/a/5], substituted “electric energy, gas, water,” for “water” and inserted “(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)” after “members of the general public”.
+    Subsec. (b)(3)(C). [Pub. L. 95–600][/us/pl/95/600], § 364(a)(5), substituted “electric energy, gas, water,” for “water” and inserted “(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)” after “members of the general public”.
 
-    1976—Subsecs. (b), (c). [Pub. L. 94–455, § 2120(a)][/us/pl/94/455/s2120/a], added subsec. (b) and redesignated former subsec. (b) as (c).
+    1976—Subsecs. (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1613(a)(3)][/us/pl/104/188/s1613/a/3], Aug. 20, 1996, [110 Stat. 1850][/us/stat/110/1850], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1613(a)(3), Aug. 20, 1996, [110 Stat. 1850][/us/stat/110/1850], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to amounts received after June 12, 1996.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VIII, § 824(c)][/us/pl/99/514/s824/c], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], as amended by [Pub. L. 100–647, title I, § 1008(j)(2)][/us/pl/100/647/s1008/j/2], Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 824(c), Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(j)(2), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -157,7 +157,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 163(c)][/us/pl/98/369/s163/c], July 18, 1984, [98 Stat. 698][/us/stat/98/698], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 163(c), July 18, 1984, [98 Stat. 698][/us/stat/98/698], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6501 and 6511 of this title\] shall apply to expenditures with respect to which the second taxable year described in section 118(b)(2)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] ends after December 31, 1984.”
 
@@ -167,13 +167,13 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title III, § 364(b)][/us/pl/95/600/s364/b], Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854], provided that: 
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 364(b), Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to contributions made after January 31, 1976.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2120(c)][/us/pl/94/455/s2120/c], Oct. 4, 1976, [90 Stat. 1913][/us/stat/90/1913], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2120(c), Oct. 4, 1976, [90 Stat. 1913][/us/stat/90/1913], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 362 of this title][/us/usc/t26/s362]\] apply to contributions made after January 31, 1976.”
 
@@ -186,48 +186,48 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F39
-[/us/pl/94/455/s2120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2120%2Fa
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1912
-[/us/pl/95/600/s364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2854
-[/us/pl/96/589/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs2%2Fe%2F2
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3396
-[/us/pl/98/369/s163/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs163%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F697
-[/us/pl/99/514/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs824%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2374
-[/us/pl/104/188/s1613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1613%2Fa%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1848-1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1848-1850
-[/us/pl/104/188/s1613/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1613%2Fa%2F2
-[/us/pl/104/188/s1613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1613%2Fa%2F1
-[/us/pl/99/514/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs824%2Fa
-[/us/pl/99/514/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs824%2Fa
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
-[/us/pl/95/600/s364/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fa%2F1
-[/us/pl/95/600/s364/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fa%2F3
-[/us/pl/95/600/s364/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fa%2F4
-[/us/pl/95/600/s364/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fa%2F5
-[/us/pl/94/455/s2120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2120%2Fa
-[/us/pl/104/188/s1613/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1613%2Fa%2F3
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1850
-[/us/pl/99/514/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs824%2Fc
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2374
-[/us/pl/100/647/s1008/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fj%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3445
 [/us/usc/t26/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs362
 [/us/pl/89/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F774
 [/us/stat/80/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1324
-[/us/pl/98/369/s163/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs163%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F698
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/usc/t26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs108
-[/us/pl/95/600/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs364%2Fb
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2854
-[/us/pl/94/455/s2120/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2120%2Fc
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1913
 [/us/usc/t26/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs362
 

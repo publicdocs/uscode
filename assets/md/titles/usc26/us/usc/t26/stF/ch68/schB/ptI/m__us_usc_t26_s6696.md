@@ -49,7 +49,7 @@
 
             The term “claim for refund” means a claim for refund of, or credit against, any tax imposed by this title.
 
-(Added [Pub. L. 94–455, title XII, § 1203(f)][/us/pl/94/455/s1203/f], Oct. 4, 1976, [90 Stat. 1693][/us/stat/90/1693]; amended [Pub. L. 109–280, title XII, § 1219(b)(2)][/us/pl/109/280/s1219/b/2], Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(H)][/us/pl/110/28/s8246/a/2/H], May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 110–172, § 3(e)(2)][/us/pl/110/172/s3/e/2], Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(f), Oct. 4, 1976, [90 Stat. 1693][/us/stat/90/1693]; amended [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1219(b)(2), Aug. 17, 2006, [120 Stat. 1084][/us/stat/120/1084]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(H), May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 110–172][/us/pl/110/172], § 3(e)(2), Dec. 29, 2007, [121 Stat. 2474][/us/stat/121/2474].)
 
  __Codification__ 
 
@@ -80,13 +80,13 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Ff
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1693
-[/us/pl/109/280/s1219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fb%2F2
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1084
-[/us/pl/110/28/s8246/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FH
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F202
-[/us/pl/110/172/s3/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fe%2F2
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2474
 [/us/pl/109/280/s1219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fb%2F2
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172

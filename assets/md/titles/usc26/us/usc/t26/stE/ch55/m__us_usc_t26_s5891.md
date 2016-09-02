@@ -137,11 +137,11 @@
 
             The provisions of section 3405 regarding withholding of tax shall not apply to the person making the payments in the event of a structured settlement factoring transaction.
 
-(Added [Pub. L. 107–134, title I, § 115(a)][/us/pl/107/134/s115/a], Jan. 23, 2002, [115 Stat. 2436][/us/stat/115/2436].)
+(Added [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 115(a), Jan. 23, 2002, [115 Stat. 2436][/us/stat/115/2436].)
 
  __Effective Date__ 
 
-[Pub. L. 107–134, title I, § 115(c)][/us/pl/107/134/s115/c], Jan. 23, 2002, [115 Stat. 2438][/us/stat/115/2438], provided that:
+[Pub. L. 107–134, title I][/us/pl/107/134/tI], § 115(c), Jan. 23, 2002, [115 Stat. 2438][/us/stat/115/2438], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -172,9 +172,9 @@
 ----------
 ----------
 
-[/us/pl/107/134/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs115%2Fa
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2436
-[/us/pl/107/134/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs115%2Fc
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2438
 
 

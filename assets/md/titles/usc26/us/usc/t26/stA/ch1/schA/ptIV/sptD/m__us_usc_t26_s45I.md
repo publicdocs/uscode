@@ -117,17 +117,17 @@
 
             In the case of production from a qualified marginal well which is eligible for the credit allowed under section 45K for the taxable year, no credit shall be allowable under this section unless the taxpayer elects not to claim the credit under section 45K with respect to the well.
 
-(Added [Pub. L. 108–357, title III, § 341(a)][/us/pl/108/357/s341/a], Oct. 22, 2004, [118 Stat. 1485][/us/stat/118/1485]; amended [Pub. L. 109–58, title XIII, § 1322(a)(3)(B)][/us/pl/109/58/s1322/a/3/B], (D), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011]; [Pub. L. 109–135, title IV, § 412(k)][/us/pl/109/135/s412/k], Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637].)
+(Added [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 341(a), Oct. 22, 2004, [118 Stat. 1485][/us/stat/118/1485]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1322(a)(3)(B), (D), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(k), Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637].)
 
  __Amendments__ 
 
     2005—Subsec. (a)(2). [Pub. L. 109–135][/us/pl/109/135] substituted “qualified crude oil production” for “qualified credit oil production”.
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 109–58, § 1322(a)(3)(B)][/us/pl/109/58/s1322/a/3/B], substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
+    Subsec. (b)(2)(C)(i). [Pub. L. 109–58][/us/pl/109/58], § 1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 109–58, § 1322(a)(3)(D)(i)][/us/pl/109/58/s1322/a/3/D/i], substituted “section 45K(d)(5))” for “section 29(d)(5))”.
+    Subsec. (c)(2)(A). [Pub. L. 109–58][/us/pl/109/58], § 1322(a)(3)(D)(i), substituted “section 45K(d)(5))” for “section 29(d)(5))”.
 
-    Subsec. (d)(3). [Pub. L. 109–58, § 1322(a)(3)(D)(ii)][/us/pl/109/58/s1322/a/3/D/ii], substituted “section 45K” for “section 29” in two places.
+    Subsec. (d)(3). [Pub. L. 109–58][/us/pl/109/58], § 1322(a)(3)(D)(ii), substituted “section 45K” for “section 29” in two places.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -144,16 +144,16 @@
 ----------
 ----------
 
-[/us/pl/108/357/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs341%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1485
-[/us/pl/109/58/s1322/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FB
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1011
-[/us/pl/109/135/s412/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fk
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2637
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/109/58/s1322/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FB
-[/us/pl/109/58/s1322/a/3/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FD%2Fi
-[/us/pl/109/58/s1322/a/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FD%2Fii
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58/s1322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fc%2F1
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K

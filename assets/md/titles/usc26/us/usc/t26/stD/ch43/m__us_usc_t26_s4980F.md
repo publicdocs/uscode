@@ -123,21 +123,21 @@
 
         The Secretary may by regulations allow any notice under subsection (e) to be provided by using new technologies.
 
-(Added [Pub. L. 107–16, title VI, § 659(a)(1)][/us/pl/107/16/s659/a/1], June 7, 2001, [115 Stat. 137][/us/stat/115/137]; amended [Pub. L. 107–147, title IV, § 411(u)(1)][/us/pl/107/147/s411/u/1], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title V, § 502(c)(2)][/us/pl/109/280/s502/c/2], Aug. 17, 2006, [120 Stat. 941][/us/stat/120/941].)
+(Added [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 659(a)(1), June 7, 2001, [115 Stat. 137][/us/stat/115/137]; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(u)(1), Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title V][/us/pl/109/280/tV], § 502(c)(2), Aug. 17, 2006, [120 Stat. 941][/us/stat/120/941].)
 
  __Amendments__ 
 
     2006—Subsec. (e)(1). [Pub. L. 109–280][/us/pl/109/280] inserted “and to each employer who has an obligation to contribute to the plan” before period at end.
 
-    2002—Subsec. (e)(1). [Pub. L. 107–147, § 411(u)(1)(A)][/us/pl/107/147/s411/u/1/A], substituted “the notice described in paragraph (2)” for “written notice”.
+    2002—Subsec. (e)(1). [Pub. L. 107–147][/us/pl/107/147], § 411(u)(1)(A), substituted “the notice described in paragraph (2)” for “written notice”.
 
-    Subsec. (f)(2)(A). [Pub. L. 107–147, § 411(u)(1)(B)][/us/pl/107/147/s411/u/1/B], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any defined benefit plan, or”.
+    Subsec. (f)(2)(A). [Pub. L. 107–147][/us/pl/107/147], § 411(u)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any defined benefit plan, or”.
 
-    Subsec. (f)(3). [Pub. L. 107–147, § 411(u)(1)(C)][/us/pl/107/147/s411/u/1/C], struck out “significantly” before “reduces” and before “reducing”.
+    Subsec. (f)(3). [Pub. L. 107–147][/us/pl/107/147], § 411(u)(1)(C), struck out “significantly” before “reduces” and before “reducing”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title V, § 502(d)][/us/pl/109/280/s502/d], Aug. 17, 2006, [120 Stat. 941][/us/stat/120/941], provided that: 
+[Pub. L. 109–280, title V][/us/pl/109/280/tV], § 502(d), Aug. 17, 2006, [120 Stat. 941][/us/stat/120/941], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1021, 1054, and 1132 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2007.”
 
@@ -147,7 +147,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 107–16, title VI, § 659(c)][/us/pl/107/16/s659/c], June 7, 2001, [115 Stat. 141][/us/stat/115/141], as amended by [Pub. L. 107–147, title IV, § 411(u)(3)][/us/pl/107/147/s411/u/3], Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52], provided that:
+[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 659(c), June 7, 2001, [115 Stat. 141][/us/stat/115/141], as amended by [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(u)(3), Mar. 9, 2002, [116 Stat. 52][/us/stat/116/52], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -174,25 +174,25 @@
 ----------
 ----------
 
-[/us/pl/107/16/s659/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs659%2Fa%2F1
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F137
-[/us/pl/107/147/s411/u/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fu%2F1
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F51
-[/us/pl/109/280/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs502%2Fc%2F2
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F941
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/107/147/s411/u/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fu%2F1%2FA
-[/us/pl/107/147/s411/u/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fu%2F1%2FB
-[/us/pl/107/147/s411/u/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fu%2F1%2FC
-[/us/pl/109/280/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs502%2Fd
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F941
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/147/s411/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fx
 [/us/usc/t26/s25B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25B
-[/us/pl/107/16/s659/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs659%2Fc
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F141
-[/us/pl/107/147/s411/u/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fu%2F3
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F52
 [/us/usc/t29/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054
 [/us/usc/t29/s1054/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fh

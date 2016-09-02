@@ -21,7 +21,7 @@
 
     (2) the applicable rate (determined under subchapter E).
 
-(Added [Pub. L. 94–455, title XX, § 2006(a)][/us/pl/94/455/s2006/a], Oct. 4, 1976, [90 Stat. 1879][/us/stat/90/1879]; amended [Pub. L. 95–600, title VII, § 702(h)(2)][/us/pl/95/600/s702/h/2], (n)(4), Nov. 6, 1978, [92 Stat. 2931][/us/stat/92/2931], 2936; [Pub. L. 97–34, title IV, § 403(a)(2)(B)][/us/pl/97/34/s403/a/2/B], Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301]; [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(a), Oct. 4, 1976, [90 Stat. 1879][/us/stat/90/1879]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(h)(2), (n)(4), Nov. 6, 1978, [92 Stat. 2931][/us/stat/92/2931], 2936; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(a)(2)(B), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718].)
 
  __Amendments__ 
 
@@ -29,11 +29,11 @@
 
     1981—Subsec. (c)(5). [Pub. L. 97–34][/us/pl/97/34] redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) relating to adjustments to marital deduction and providing that if the generation-skipping transfer occurs at the same time as, or within 9 months after, the death of the deemed transferor, for purposes of section 2056, relating to bequests, etc., to surviving spouse, the value of the gross estate of the deemed transferor shall be deemed to be increased by the amount of such transfer.
 
-    1978—Subsec. (a)(1)(C). [Pub. L. 95–600, § 702(h)(2)][/us/pl/95/600/s702/h/2], inserted “, as modified by section 2001(e)” after “within the meaning of section 2001(b)”.
+    1978—Subsec. (a)(1)(C). [Pub. L. 95–600][/us/pl/95/600], § 702(h)(2), inserted “, as modified by section 2001(e)” after “within the meaning of section 2001(b)”.
 
-    Subsec. (d)(1)(A). [Pub. L. 95–600, § 702(n)(4)(A)][/us/pl/95/600/s702/n/4/A], inserted “(or at the same time as the death of a beneficiary of the trust assigned to a higher generation than such deemed transferor)” after “such deemed transferor”.
+    Subsec. (d)(1)(A). [Pub. L. 95–600][/us/pl/95/600], § 702(n)(4)(A), inserted “(or at the same time as the death of a beneficiary of the trust assigned to a higher generation than such deemed transferor)” after “such deemed transferor”.
 
-    Subsec. (d)(2)(A). [Pub. L. 95–600, § 702(n)(4)(B)][/us/pl/95/600/s702/n/4/B], inserted “(or beneficiary)” after “the deemed transferor”.
+    Subsec. (d)(2)(A). [Pub. L. 95–600][/us/pl/95/600], § 702(n)(4)(B), inserted “(or beneficiary)” after “the deemed transferor”.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fa
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1879
-[/us/pl/95/600/s702/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fh%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2931
-[/us/pl/97/34/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fa%2F2%2FB
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2718
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
-[/us/pl/95/600/s702/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fh%2F2
-[/us/pl/95/600/s702/n/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fn%2F4%2FA
-[/us/pl/95/600/s702/n/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fn%2F4%2FB
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
 [/us/usc/t26/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2601

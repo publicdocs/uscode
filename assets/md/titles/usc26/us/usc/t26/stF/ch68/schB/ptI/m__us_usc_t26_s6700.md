@@ -61,41 +61,41 @@
 
         The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added [Pub. L. 97–248, title III, § 320(a)][/us/pl/97/248/s320/a], Sept. 3, 1982, [96 Stat. 611][/us/stat/96/611]; amended [Pub. L. 98–369, div. A, title I, § 143(a)][/us/pl/98/369/s143/a], July 18, 1984, [98 Stat. 682][/us/stat/98/682]; [Pub. L. 101–239, title VII, § 7734(a)][/us/pl/101/239/s7734/a], Dec. 19, 1989, [103 Stat. 2403][/us/stat/103/2403]; [Pub. L. 108–357, title VIII, § 818(a)][/us/pl/108/357/s818/a], Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 320(a), Sept. 3, 1982, [96 Stat. 611][/us/stat/96/611]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 143(a), July 18, 1984, [98 Stat. 682][/us/stat/98/682]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7734(a), Dec. 19, 1989, [103 Stat. 2403][/us/stat/103/2403]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 818(a), Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584].)
 
  __Amendments__ 
 
     2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357] inserted at end of concluding provisions “Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.”
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7734(a)(3)][/us/pl/101/239/s7734/a/3], added concluding provision and struck out former concluding provision which read as follows: “shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: “shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity.”
 
-    Subsec. (a)(1)(B). [Pub. L. 101–239, § 7734(a)(1)][/us/pl/101/239/s7734/a/1], inserted “(directly or indirectly)” after “participates”.
+    Subsec. (a)(1)(B). [Pub. L. 101–239][/us/pl/101/239], § 7734(a)(1), inserted “(directly or indirectly)” after “participates”.
 
-    Subsec. (a)(2). [Pub. L. 101–239, § 7734(a)(2)][/us/pl/101/239/s7734/a/2], inserted “or causes another person to make or furnish” after “makes or furnishes” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 101–239][/us/pl/101/239], § 7734(a)(2), inserted “or causes another person to make or furnish” after “makes or furnishes” in introductory provisions.
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] substituted “20 percent” for “10 percent”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 818(b)][/us/pl/108/357/s818/b], Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 818(b), Oct. 22, 2004, [118 Stat. 1584][/us/stat/118/1584], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to activities after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7734(b)][/us/pl/101/239/s7734/b], Dec. 19, 1989, [103 Stat. 2403][/us/stat/103/2403], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7734(b), Dec. 19, 1989, [103 Stat. 2403][/us/stat/103/2403], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 143(c)][/us/pl/98/369/s143/c], July 18, 1984, [98 Stat. 682][/us/stat/98/682], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 143(c), July 18, 1984, [98 Stat. 682][/us/stat/98/682], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7408 of this title][/us/usc/t26/s7408]\] shall take effect on the day after the date of the enactment of this Act \[July 18, 1984\].”
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 320(c)][/us/pl/97/248/s320/c], Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 320(c), Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -106,27 +106,27 @@
 ----------
 ----------
 
-[/us/pl/97/248/s320/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs320%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F611
-[/us/pl/98/369/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F682
-[/us/pl/101/239/s7734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7734%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2403
-[/us/pl/108/357/s818/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs818%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1584
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/101/239/s7734/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7734%2Fa%2F3
-[/us/pl/101/239/s7734/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7734%2Fa%2F1
-[/us/pl/101/239/s7734/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7734%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/108/357/s818/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs818%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1584
-[/us/pl/101/239/s7734/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7734%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2403
-[/us/pl/98/369/s143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F682
 [/us/usc/t26/s7408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7408
-[/us/pl/97/248/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs320%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F612
 
 

@@ -17,7 +17,7 @@
 
     Natural wine is the product of the juice or must of sound, ripe grapes or other sound, ripe fruit, made with such cellar treatment as may be authorized under section 5382 and containing not more than 21 percent by weight of total solids. Any wine conforming to such definition except for having become substandard by reason of its condition shall be deemed not to be natural wine, unless the condition is cor­rected.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1383][/us/stat/72/1383]; amended [Pub. L. 96–39, title VIII, § 807(a)(48)][/us/pl/96/39/s807/a/48], July 26, 1979, [93 Stat. 288][/us/stat/93/288].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1383][/us/stat/72/1383]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(48), July 26, 1979, [93 Stat. 288][/us/stat/93/288].)
 
  __Prior Provisions__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1383
-[/us/pl/96/39/s807/a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F48
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F288
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F668

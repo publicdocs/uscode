@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stB/ch11/schA/ptIV/m__us_usc_t26_s2051.md) | [Next](./../../../../../../..//us/usc/t26/stB/ch11/schA/ptIV/m__us_usc_t26_s2053.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2052)
 
-## \[§ 2052. Repealed. [Pub. L. 94–455, title XX, § 2001(a)(4)][/us/pl/94/455/s2001/a/4], Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]\]
+## \[§ 2052. Repealed. [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(a)(4), Oct. 4, 1976, [90 Stat. 1848][/us/stat/90/1848]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 389][/us/stat/68A/389], provided for an exemption of $60,000 to be deducted from gross estate in determining value of taxable estate.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2001/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fa%2F4
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1848
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F389

@@ -49,7 +49,7 @@
 
             The provisions of sections 6851(b), 6861(f), and 6861(g) shall apply with respect to any assessment made under subsection (a), except that determinations under section 6861(g) shall be made on the basis of whether the requirements of subsection (a)(1)(B) of this section are met in lieu of whether jeopardy exists.
 
-(Added [Pub. L. 100–203, title X, § 10713(b)(1)][/us/pl/100/203/s10713/b/1], Dec. 22, 1987, [101 Stat. 1330–469][/us/stat/101/1330-469].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(b)(1), Dec. 22, 1987, [101 Stat. 1330–469][/us/stat/101/1330-469].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10713/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-469
 
 

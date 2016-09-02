@@ -107,7 +107,7 @@
 
         The credit under this section shall apply with respect to qualified carbon dioxide before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that 75,000,000 metric tons of qualified carbon dioxide have been taken into account in accordance with subsection (a).
 
-(Added [Pub. L. 110–343, div. B, title I, § 115(a)][/us/pl/110/343/s115/a], Oct. 3, 2008, [122 Stat. 3829][/us/stat/122/3829]; amended [Pub. L. 111–5, div. B, title I, § 1131(a)][/us/pl/111/5/s1131/a], (b), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325]; [Pub. L. 113–295, div. A, title II, § 209(j)(1)][/us/pl/113/295/s209/j/1], Dec. 19, 2014, [128 Stat. 4030][/us/stat/128/4030].)
+(Added [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 115(a), Oct. 3, 2008, [122 Stat. 3829][/us/stat/122/3829]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1131(a), (b), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 209(j)(1), Dec. 19, 2014, [128 Stat. 4030][/us/stat/128/4030].)
 
  __Inflation Adjusted Items for Certain Tax Years__ 
 
@@ -117,21 +117,21 @@
 
     2014—Subsec. (d)(2). [Pub. L. 113–295][/us/pl/113/295] substituted “Administrator of the Environmental Protection Agency, the Secretary of Energy, and the Secretary of the Interior, shall establish” for “Administrator of the Environmental Protection Agency the Secretary of Energy, and the Secretary of the Interior,, shall establish”.
 
-    2009—Subsec. (a)(1)(B). [Pub. L. 111–5, § 1131(b)(2)][/us/pl/111/5/s1131/b/2], inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
+    2009—Subsec. (a)(1)(B). [Pub. L. 111–5][/us/pl/111/5], § 1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
 
-    Subsec. (a)(2)(C). [Pub. L. 111–5, § 1131(a)][/us/pl/111/5/s1131/a], added subpar. (C).
+    Subsec. (a)(2)(C). [Pub. L. 111–5][/us/pl/111/5], § 1131(a), added subpar. (C).
 
-    Subsec. (d)(2). [Pub. L. 111–5, § 1131(b)(1)][/us/pl/111/5/s1131/b/1], inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
+    Subsec. (d)(2). [Pub. L. 111–5][/us/pl/111/5], § 1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
 
-    Subsec. (e). [Pub. L. 111–5, § 1131(b)(3)][/us/pl/111/5/s1131/b/3], substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
+    Subsec. (e). [Pub. L. 111–5][/us/pl/111/5], § 1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1131(c)][/us/pl/111/5/s1131/c], Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1131(c), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -162,22 +162,22 @@
 ----------
 ----------
 
-[/us/pl/110/343/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs115%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3829
-[/us/pl/111/5/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F325
-[/us/pl/113/295/s209/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F1
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4030
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/111/5/s1131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fb%2F2
-[/us/pl/111/5/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fa
-[/us/pl/111/5/s1131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fb%2F1
-[/us/pl/111/5/s1131/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fb%2F3
-[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
-[/us/pl/111/5/s1131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1131%2Fc
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F325
 [/us/pl/110/343/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs115%2Fd
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

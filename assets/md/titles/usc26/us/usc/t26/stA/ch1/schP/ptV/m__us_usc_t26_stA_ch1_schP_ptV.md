@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XVIII, § 1899A(72)][/us/pl/99/514/s1899A/72], Oct. 22, 1986, [100 Stat. 2963][/us/stat/100/2963], inserted “on bonds” after “discount” in item for subpart B.
+    1986—[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(72), Oct. 22, 1986, [100 Stat. 2963][/us/stat/100/2963], inserted “on bonds” after “discount” in item for subpart B.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1899A/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F72
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2963
 
 

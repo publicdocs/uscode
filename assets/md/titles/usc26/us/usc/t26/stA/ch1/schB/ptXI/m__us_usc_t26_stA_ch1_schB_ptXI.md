@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title II, § 204(a)][/us/pl/97/248/s204/a], Sept. 3, 1982, [96 Stat. 423][/us/stat/96/423], added part XI heading and analysis of sections consisting of item 291.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 204(a), Sept. 3, 1982, [96 Stat. 423][/us/stat/96/423], added part XI heading and analysis of sections consisting of item 291.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/97/248/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs204%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F423
 
 

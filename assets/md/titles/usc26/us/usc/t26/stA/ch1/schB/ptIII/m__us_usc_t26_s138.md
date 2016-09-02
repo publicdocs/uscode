@@ -113,7 +113,7 @@
 
         Subsection (i) of section 220 shall not apply to an individual with respect to a Medicare Advantage MSA, and Medicare Advantage MSAs shall not be taken into account in determining whether the numerical limitations under section 220(j) are exceeded.
 
-(Added [Pub. L. 105–33, title IV, § 4006(a)][/us/pl/105/33/s4006/a], Aug. 5, 1997, [111 Stat. 332][/us/stat/111/332]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(3), (b)(6), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–311, title IV, § 408(a)(5)(A)][/us/pl/108/311/s408/a/5/A]–(F), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
+(Added [Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4006(a), Aug. 5, 1997, [111 Stat. 332][/us/stat/111/332]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(3), (b)(6), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(5)(A)–(F), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
 
  __References in Text__ 
 
@@ -125,21 +125,21 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–311, § 408(a)(5)(A)][/us/pl/108/311/s408/a/5/A]–(D), substituted “Medicare Advantage” for “Medicare+Choice” wherever appearing in section catchline, headings, and text.
+    2004—[Pub. L. 108–311][/us/pl/108/311], § 408(a)(5)(A)–(D), substituted “Medicare Advantage” for “Medicare+Choice” wherever appearing in section catchline, headings, and text.
 
-    Subsec. (c)(2)(C)(i). [Pub. L. 108–311, § 408(a)(5)(E)][/us/pl/108/311/s408/a/5/E], substituted “Medicare Advantage MSAs” for “Medicare+Choice MSAs”.
+    Subsec. (c)(2)(C)(i). [Pub. L. 108–311][/us/pl/108/311], § 408(a)(5)(E), substituted “Medicare Advantage MSAs” for “Medicare+Choice MSAs”.
 
-    Subsec. (f). [Pub. L. 108–311, § 408(a)(5)(F)][/us/pl/108/311/s408/a/5/F], substituted “Medicare Advantage MSAs” for “Medicare+Choice MSA’s”.
+    Subsec. (f). [Pub. L. 108–311][/us/pl/108/311], § 408(a)(5)(F), substituted “Medicare Advantage MSAs” for “Medicare+Choice MSA’s”.
 
-    2000—Subsec. (b). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
+    2000—Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA” in introductory provisions.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(3)\], substituted “Archer MSA” for “medical savings account” in introductory provisions.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(3)\], substituted “Archer MSA” for “medical savings account” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(6)\], substituted “Archer MSAs” for “medical savings accounts” in heading.
 
  __Effective Date__ 
 
-[Pub. L. 105–33, title IV, § 4006(c)][/us/pl/105/33/s4006/c], Aug. 5, 1997, [111 Stat. 334][/us/stat/111/334], provided that: 
+[Pub. L. 105–33, title IV][/us/pl/105/33/tIV], § 4006(c), Aug. 5, 1997, [111 Stat. 334][/us/stat/111/334], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending sections 220 and 4973 of this title, and renumbering former [section 138 of this title][/us/usc/t26/s138] as [section 139 of this title][/us/usc/t26/s139]\] shall apply to taxable years beginning after December 31, 1998.”
 
@@ -150,24 +150,24 @@
 ----------
 ----------
 
-[/us/pl/105/33/s4006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4006%2Fa
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F332
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/311/s408/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F5%2FA
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1395w–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9328
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/108/311/s408/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F5%2FA
-[/us/pl/108/311/s408/a/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F5%2FE
-[/us/pl/108/311/s408/a/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F5%2FF
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/105/33/s4006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4006%2Fc
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/33/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIV
 [/us/stat/111/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F334
 [/us/usc/t26/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs138
 [/us/usc/t26/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139

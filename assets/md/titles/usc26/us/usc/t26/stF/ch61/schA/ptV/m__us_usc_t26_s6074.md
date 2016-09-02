@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stF/ch61/schA/ptV/m__us_usc_t26_s6073.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch61/schA/ptV/m__us_usc_t26_s6075.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6074)
 
-## \[§ 6074. Repealed. [Pub. L. 90–364, title I, § 103(a)][/us/pl/90/364/s103/a], June 28, 1968, [82 Stat. 260][/us/stat/82/260]\]
+## \[§ 6074. Repealed. [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 103(a), June 28, 1968, [82 Stat. 260][/us/stat/82/260]\]
 
-    Section, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 751][/us/stat/68A/751]; Feb. 26, 1964, [Pub. L. 88–272, title I, § 122(b)][/us/pl/88/272/s122/b], [78 Stat. 27][/us/stat/78/27], provided for the time of filing declarations of estimated income tax by corporations.
+    Section, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 751][/us/stat/68A/751]; Feb. 26, 1964, [Pub. L. 88–272, title I][/us/pl/88/272/tI], § 122(b), [78 Stat. 27][/us/stat/78/27], provided for the time of filing declarations of estimated income tax by corporations.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/90/364/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Fa
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F260
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F751
-[/us/pl/88/272/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs122%2Fb
+[/us/pl/88/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtI
 [/us/stat/78/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F27
 [/us/pl/90/364/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs104
 [/us/pl/90/364/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Ff

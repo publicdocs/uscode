@@ -91,13 +91,13 @@
 
  __Prior Provisions__ 
 
-    A prior part II consisted of sections 5411 to 5416, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part II consisted of sections 5411 to 5416, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XIV, § 1421(b)][/us/pl/105/34/s1421/b], Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], added item 5418.
+    1997—[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1421(b), Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], added item 5418.
 
-    1971—[Pub. L. 91–673, § 4(b)][/us/pl/91/673/s4/b], Jan. 12, 1971, [84 Stat. 2058][/us/stat/84/2058], substituted “Definitions of package and packaging” for “Definitions of bottle and bottling” in item 5416 and added item 5417.
+    1971—[Pub. L. 91–673][/us/pl/91/673], § 4(b), Jan. 12, 1971, [84 Stat. 2058][/us/stat/84/2058], substituted “Definitions of package and packaging” for “Definitions of bottle and bottling” in item 5416 and added item 5417.
 
 ----------
 
@@ -106,11 +106,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/105/34/s1421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1421%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1049
-[/us/pl/91/673/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs4%2Fb
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2058
 
 

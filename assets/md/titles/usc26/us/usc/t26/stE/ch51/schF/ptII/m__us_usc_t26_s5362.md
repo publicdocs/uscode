@@ -85,7 +85,7 @@
 
             Wine withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of foreign governments, organizations, or individuals authorized to obtain wine free of tax shall not be sold and shall not be disposed of or possessed for any use other than an authorized use. The provisions of paragraphs (1)(B) and (3) of section 5043(a) are hereby extended and made applicable to any person selling, disposing of, or possessing any wine in violation of the preceding sentence, and to the wine involved in any such violation.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1380][/us/stat/72/1380]; amended [Pub. L. 90–73, § 1(a)][/us/pl/90/73/s1/a], Aug. 29, 1967, [81 Stat. 175][/us/stat/81/175]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 96–39, title VIII, § 807(a)(44)][/us/pl/96/39/s807/a/44], July 26, 1979, [93 Stat. 287][/us/stat/93/287]; [Pub. L. 96–601, § 2(a)][/us/pl/96/601/s2/a], (b), Dec. 24, 1980, [94 Stat. 3495][/us/stat/94/3495].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1380][/us/stat/72/1380]; amended [Pub. L. 90–73][/us/pl/90/73], § 1(a), Aug. 29, 1967, [81 Stat. 175][/us/stat/81/175]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(44), July 26, 1979, [93 Stat. 287][/us/stat/93/287]; [Pub. L. 96–601][/us/pl/96/601], § 2(a), (b), Dec. 24, 1980, [94 Stat. 3495][/us/stat/94/3495].)
 
  __Prior Provisions__ 
 
@@ -93,23 +93,23 @@
 
  __Amendments__ 
 
-    1980—Subsec. (c)(4). [Pub. L. 96–601, § 2(a)][/us/pl/96/601/s2/a], substituted “customs bonded” for “class 6 customs manufacturing”.
+    1980—Subsec. (c)(4). [Pub. L. 96–601][/us/pl/96/601], § 2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
 
-    Subsec. (e). [Pub. L. 96–601, § 2(b)][/us/pl/96/601/s2/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 96–601][/us/pl/96/601], § 2(b), added subsec. (e).
 
     1979—Subsec. (b). [Pub. L. 96–39][/us/pl/96/39] substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining “bonded premises”.
 
-    1976—Subsecs. (a) to (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (a) to (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (c)(9). [Pub. L. 94–455, § 1905(c)(4)][/us/pl/94/455/s1905/c/4], struck out “and Territories” after “the several States”.
+    Subsec. (c)(9). [Pub. L. 94–455][/us/pl/94/455], § 1905(c)(4), struck out “and Territories” after “the several States”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1967—Subsec. (d). [Pub. L. 90–73][/us/pl/90/73] added subsec. (d).
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–601, § 2(c)][/us/pl/96/601/s2/c], Dec. 24, 1980, [94 Stat. 3496][/us/stat/94/3496], provided that: 
+[Pub. L. 96–601][/us/pl/96/601], § 2(c), Dec. 24, 1980, [94 Stat. 3496][/us/stat/94/3496], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1967 Amendment__ 
 
-[Pub. L. 90–73, § 1(b)][/us/pl/90/73/s1/b], Aug. 29, 1967, [81 Stat. 175][/us/stat/81/175], provided that: 
+[Pub. L. 90–73][/us/pl/90/73], § 1(b), Aug. 29, 1967, [81 Stat. 175][/us/stat/81/175], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\].”
 
@@ -134,27 +134,27 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1380
-[/us/pl/90/73/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F73%2Fs1%2Fa
+[/us/pl/90/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F73
 [/us/stat/81/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F175
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/96/39/s807/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F44
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F287
-[/us/pl/96/601/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs2%2Fa
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
 [/us/stat/94/3495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3495
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F665
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/96/601/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs2%2Fa
-[/us/pl/96/601/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs2%2Fb
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1905/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fc%2F4
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/90/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F73
-[/us/pl/96/601/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601%2Fs2%2Fc
+[/us/pl/96/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F601
 [/us/stat/94/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3496
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
@@ -162,7 +162,7 @@
 [/us/pl/94/455/s1905/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fc%2F4
 [/us/pl/94/455/s1905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fd
 [/us/usc/t26/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5005
-[/us/pl/90/73/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F73%2Fs1%2Fb
+[/us/pl/90/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F73
 [/us/stat/81/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F175
 
 

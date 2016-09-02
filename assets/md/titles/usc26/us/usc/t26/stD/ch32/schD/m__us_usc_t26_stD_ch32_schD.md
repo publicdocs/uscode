@@ -57,7 +57,7 @@ Amendments  </td>
 
 </table>
 
-    1965—[Pub. L. 89–44, title II, § 205(b)][/us/pl/89/44/s205/b], June 21, 1965, [79 Stat. 140][/us/stat/79/140], struck out item relating to part II.
+    1965—[Pub. L. 89–44, title II][/us/pl/89/44/tII], § 205(b), June 21, 1965, [79 Stat. 140][/us/stat/79/140], struck out item relating to part II.
 
 ----------
 
@@ -66,7 +66,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/89/44/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs205%2Fb
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F140
 
 

@@ -17,7 +17,7 @@
 
     In computing taxable income under section 63, there shall be allowed as deductions the items specified in this part, subject to the exceptions provided in part IX (sec. 261 and following, relating to items not deductible).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 45][/us/stat/68A/45]; [Pub. L. 95–30, title I, § 102(b)(1)][/us/pl/95/30/s102/b/1], May 23, 1977, [91 Stat. 137][/us/stat/91/137].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 45][/us/stat/68A/45]; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 102(b)(1), May 23, 1977, [91 Stat. 137][/us/stat/91/137].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F45
-[/us/pl/95/30/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs102%2Fb%2F1
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F137
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30

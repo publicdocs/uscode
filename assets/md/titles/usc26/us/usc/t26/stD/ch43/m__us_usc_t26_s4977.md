@@ -55,7 +55,7 @@
 
         Except as otherwise provided in regulations, this section shall apply only with respect to employment within the United States.
 
-(Added [Pub. L. 98–369, div. A, title V, § 531(e)(1)][/us/pl/98/369/s531/e/1], July 18, 1984, [98 Stat. 885][/us/stat/98/885]; amended [Pub. L. 99–514, title XVIII, § 1853(c)(1)][/us/pl/99/514/s1853/c/1], (2), Oct. 22, 1986, [100 Stat. 2871][/us/stat/100/2871]; [Pub. L. 103–66, title XIII, § 13213(d)(3)(D)][/us/pl/103/66/s13213/d/3/D], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 104–188, title I, § 1704(t)(66)][/us/pl/104/188/s1704/t/66], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890].)
+(Added [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 531(e)(1), July 18, 1984, [98 Stat. 885][/us/stat/98/885]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1853(c)(1), (2), Oct. 22, 1986, [100 Stat. 2871][/us/stat/100/2871]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13213(d)(3)(D), Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(66), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890].)
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     1993—Subsec. (c). [Pub. L. 103–66][/us/pl/103/66] substituted “section 132(i)(2)” for “section 132(g)(2)” in closing provisions.
 
-    1986—Subsec. (c)(2). [Pub. L. 99–514, § 1853(c)(1)][/us/pl/99/514/s1853/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
+    1986—Subsec. (c)(2). [Pub. L. 99–514][/us/pl/99/514], § 1853(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “as of January 1, 1984, substantially all of the employees of the employer were entitled to employee discounts or services provided by the employer in 1 line of business,”.
 
-    Subsec. (f). [Pub. L. 99–514, § 1853(c)(2)][/us/pl/99/514/s1853/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1853(c)(2), added subsec. (f).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -85,7 +85,7 @@
 
  __Application of Subsection (c) of this Section to Agricultural Cooperatives Incorporated in 1964__ 
 
-[Pub. L. 99–514, title XVIII, § 1853(c)(3)][/us/pl/99/514/s1853/c/3], Oct. 22, 1986, [100 Stat. 2871][/us/stat/100/2871], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1853(c)(3), Oct. 22, 1986, [100 Stat. 2871][/us/stat/100/2871], provided that: 
 
 > “For purposes of determining whether the requirements of section 4977(c) of the Internal Revenue Code of 1954 \[now 1986\] are met in the case of an agricultural cooperative incorporated in 1964, there shall not be taken into account employees of a member of the same controlled group as such cooperative which became a member during July 1980.”
 
@@ -96,23 +96,23 @@
 ----------
 ----------
 
-[/us/pl/98/369/s531/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs531%2Fe%2F1
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F885
-[/us/pl/99/514/s1853/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1853%2Fc%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2871
-[/us/pl/103/66/s13213/d/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fd%2F3%2FD
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F474
-[/us/pl/104/188/s1704/t/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F66
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/99/514/s1853/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1853%2Fc%2F1
-[/us/pl/99/514/s1853/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1853%2Fc%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fe
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s531/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs531%2Fh
@@ -120,7 +120,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/99/514/s1853/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1853%2Fc%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2871
 
 

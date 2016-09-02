@@ -167,7 +167,7 @@
 
             The Secretary shall prescribe rules, regulations, or guidance for the repayment of any assessable payment (including interest) if such payment is based on the allowance or payment of an applicable premium tax credit or cost-sharing reduction with respect to an employee, such allowance or payment is subsequently disallowed, and the assessable payment would not have been required to be made but for such allowance or payment.
 
-(Added and amended [Pub. L. 111–148, title I, § 1513(a)][/us/pl/111/148/s1513/a], title X, §§ 10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, [124 Stat. 253][/us/stat/124/253], 910, 914; [Pub. L. 111–152, title I, § 1003][/us/pl/111/152/s1003], Mar. 30, 2010, [124 Stat. 1033][/us/stat/124/1033]; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(4)][/us/pl/112/10/s1858/b/4], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169]; [Pub. L. 114–41, title IV, § 4007(a)(1)][/us/pl/114/41/s4007/a/1], July 31, 2015, [129 Stat. 465][/us/stat/129/465].)
+(Added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1513(a), title X, §§ 10106(e)–(f)(2), 10108(i)(1)(A), Mar. 23, 2010, [124 Stat. 253][/us/stat/124/253], 910, 914; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1003, Mar. 30, 2010, [124 Stat. 1033][/us/stat/124/1033]; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(b)(4), Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169]; [Pub. L. 114–41, title IV][/us/pl/114/41/tIV], § 4007(a)(1), July 31, 2015, [129 Stat. 465][/us/stat/129/465].)
 
  __References in Text__ 
 
@@ -179,39 +179,39 @@
 
     2011—Subsec. (b)(3). [Pub. L. 112–10][/us/pl/112/10] struck out par. (3). Text read as follows: “No assessable payment shall be imposed under paragraph (1) for any month with respect to any employee to whom the employer provides a free choice voucher under section 10108 of the Patient Protection and Affordable Care Act for such month.”
 
-    2010—Subsec. (b). [Pub. L. 111–152, § 1003(d)][/us/pl/111/152/s1003/d], redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
+    2010—Subsec. (b). [Pub. L. 111–152][/us/pl/111/152], § 1003(d), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to large employers with enrollment waiting periods exceeding 60 days.
 
-    [Pub. L. 111–148, § 10106(e)][/us/pl/111/148/s10106/e], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to large employers with enrollment waiting periods exceeding 30 days.
+    [Pub. L. 111–148][/us/pl/111/148], § 10106(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to large employers with enrollment waiting periods exceeding 30 days.
 
-    Subsec. (c). [Pub. L. 111–152, § 1003(d)][/us/pl/111/152/s1003/d], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 111–152][/us/pl/111/152], § 1003(d), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    Subsec. (c)(1). [Pub. L. 111–152, § 1003(b)(1)][/us/pl/111/152/s1003/b/1], substituted “an amount equal to 1⁄12 of $3,000” for “400 percent of the applicable payment amount” in concluding provisions.
+    Subsec. (c)(1). [Pub. L. 111–152][/us/pl/111/152], § 1003(b)(1), substituted “an amount equal to 1⁄12 of $3,000” for “400 percent of the applicable payment amount” in concluding provisions.
 
-    Subsec. (c)(3). [Pub. L. 111–148, § 10108(i)(1)(A)][/us/pl/111/148/s10108/i/1/A], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–148][/us/pl/111/148], § 10108(i)(1)(A), added par. (3).
 
-    Subsec. (d). [Pub. L. 111–152, § 1003(d)][/us/pl/111/152/s1003/d], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 111–152][/us/pl/111/152], § 1003(d), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(1). [Pub. L. 111–152, § 1003(b)(2)][/us/pl/111/152/s1003/b/2], substituted “$2,000” for “$750”.
+    Subsec. (d)(1). [Pub. L. 111–152][/us/pl/111/152], § 1003(b)(2), substituted “$2,000” for “$750”.
 
-    Subsec. (d)(2)(D). [Pub. L. 111–152, § 1003(a)][/us/pl/111/152/s1003/a], amended subpar. (D) generally. Prior to amendment, text read as follows: “In the case of any employer the substantial annual gross receipts of which are attributable to the construction industry—
+    Subsec. (d)(2)(D). [Pub. L. 111–152][/us/pl/111/152], § 1003(a), amended subpar. (D) generally. Prior to amendment, text read as follows: “In the case of any employer the substantial annual gross receipts of which are attributable to the construction industry—
 
     “(i) subparagraph (A) shall be applied by substituting ‘who employed an average of at least 5 full-time employees on business days during the preceding calendar year and whose annual payroll expenses exceed $250,000 for such preceding calendar year’ for ‘who employed an average of at least 50 full-time employees on business days during the preceding calendar year’, and
 
     “(ii) subparagraph (B) shall be applied by substituting ‘5’ for ‘50’.”
 
-    [Pub. L. 111–148, § 10106(f)(2)][/us/pl/111/148/s10106/f/2], added subpar. (D).
+    [Pub. L. 111–148][/us/pl/111/148], § 10106(f)(2), added subpar. (D).
 
-    Subsec. (d)(2)(E). [Pub. L. 111–152, § 1003(c)][/us/pl/111/152/s1003/c], added subpar. (E).
+    Subsec. (d)(2)(E). [Pub. L. 111–152][/us/pl/111/152], § 1003(c), added subpar. (E).
 
-    Subsec. (d)(4)(A). [Pub. L. 111–148, § 10106(f)(1)][/us/pl/111/148/s10106/f/1], inserted “, with respect to any month,” after “means”.
+    Subsec. (d)(4)(A). [Pub. L. 111–148][/us/pl/111/148], § 10106(f)(1), inserted “, with respect to any month,” after “means”.
 
-    Subsec. (d)(5)(A). [Pub. L. 111–152, § 1003(b)(3)][/us/pl/111/152/s1003/b/3], substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
+    Subsec. (d)(5)(A). [Pub. L. 111–152][/us/pl/111/152], § 1003(b)(3), substituted “subsection (b) and paragraph (1)” for “subsection (b)(2) and (d)(1)” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 111–152, § 1003(d)][/us/pl/111/152/s1003/d], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 111–152][/us/pl/111/152], § 1003(d), redesignated subsec. (e) as (d).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–41, title IV, § 4007(a)(2)][/us/pl/114/41/s4007/a/2], July 31, 2015, [129 Stat. 466][/us/stat/129/466], provided that: 
+[Pub. L. 114–41, title IV][/us/pl/114/41/tIV], § 4007(a)(2), July 31, 2015, [129 Stat. 466][/us/stat/129/466], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2013.”
 
@@ -221,17 +221,17 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10106(f)(3)][/us/pl/111/148/s10106/f/3], Mar. 23, 2010, [124 Stat. 911][/us/stat/124/911], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10106(f)(3), Mar. 23, 2010, [124 Stat. 911][/us/stat/124/911], provided that: 
 
 > “The amendment made by paragraph (2) \[amending this section\] shall apply to months beginning after December 31, 2013.”
 
-[Pub. L. 111–148, title X, § 10108(i)(1)(B)][/us/pl/111/148/s10108/i/1/B], Mar. 23, 2010, [124 Stat. 914][/us/stat/124/914], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(i)(1)(B), Mar. 23, 2010, [124 Stat. 914][/us/stat/124/914], provided that: 
 
 > “The amendment made by this paragraph \[amending this section\] shall apply to months beginning after December 31, 2013.”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1513(d)][/us/pl/111/148/s1513/d], Mar. 23, 2010, [124 Stat. 256][/us/stat/124/256], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1513(d), Mar. 23, 2010, [124 Stat. 256][/us/stat/124/256], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to months beginning after December 31, 2013.”
 
@@ -242,13 +242,13 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1513%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F253
-[/us/pl/111/152/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1033
-[/us/pl/112/10/s1858/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F4
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F169
-[/us/pl/114/41/s4007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fa%2F1
+[/us/pl/114/41/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtIV
 [/us/stat/129/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F465
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
@@ -259,30 +259,30 @@
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
-[/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
-[/us/pl/111/148/s10106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fe
-[/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
-[/us/pl/111/152/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fb%2F1
-[/us/pl/111/148/s10108/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fi%2F1%2FA
-[/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
-[/us/pl/111/152/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fb%2F2
-[/us/pl/111/152/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fa
-[/us/pl/111/148/s10106/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Ff%2F2
-[/us/pl/111/152/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fc
-[/us/pl/111/148/s10106/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Ff%2F1
-[/us/pl/111/152/s1003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fb%2F3
-[/us/pl/111/152/s1003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1003%2Fd
-[/us/pl/114/41/s4007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4007%2Fa%2F2
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/114/41/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtIV
 [/us/stat/129/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F466
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s10106/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Ff%2F3
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F911
-[/us/pl/111/148/s10108/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fi%2F1%2FB
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F914
-[/us/pl/111/148/s1513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1513%2Fd
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F256
 
 

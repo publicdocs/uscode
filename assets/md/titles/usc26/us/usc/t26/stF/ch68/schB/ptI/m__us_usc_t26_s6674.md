@@ -17,7 +17,7 @@
 
     In addition to the criminal penalty provided by section 7204, any person required under the provisions of section 6051 or 6053(b) to furnish a statement to an employee who willfully furnishes a false or fraudulent statement, or who willfully fails to furnish a statement in the manner, at the time, and showing the information required under section 6051 or 6053(b), or regulations prescribed thereunder, shall for each such failure be subject to a penalty under this subchapter of $50, which shall be assessed and collected in the same manner as the tax on employers imposed by section 3111.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 89–97, title III, § 313(e)(2)(C)][/us/pl/89/97/s313/e/2/C], July 30, 1965, [79 Stat. 385][/us/stat/79/385].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 313(e)(2)(C), July 30, 1965, [79 Stat. 385][/us/stat/79/385].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F828
-[/us/pl/89/97/s313/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fe%2F2%2FC
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F385
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/89/97/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313

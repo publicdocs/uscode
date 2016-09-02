@@ -23,7 +23,7 @@
 
         If the proprietor of a distilled spirits plant fails or refuses to furnish a bond required under paragraph (1) of section 5173(a) or to renew the same, and neglects to immediately withdraw the spirits and pay the tax thereon, the Secretary shall proceed to collect the tax.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 807(a)(16)][/us/pl/96/39/s807/a/16], July 26, 1979, [93 Stat. 282][/us/stat/93/282].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(16), July 26, 1979, [93 Stat. 282][/us/stat/93/282].)
 
  __Prior Provisions__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    1979—Subsec. (a). [Pub. L. 96–39, § 807(a)(16)(A)][/us/pl/96/39/s807/a/16/A], struck out “, 5174,” after “sections 5173”.
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(16)(A), struck out “, 5174,” after “sections 5173”.
 
-    Subsec. (b). [Pub. L. 96–39, § 807(a)(16)(A)][/us/pl/96/39/s807/a/16/A], substituted reference to paragraph (1) of section 5173(a) for reference to section 5173(c) and struck out provisions relating to failure or refusal of the proprietor of a distilled spirits plant to withdraw any spirits from storage on bonded premises before the expiration of the time limited on the bond and pay the tax thereon.
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(16)(A), substituted reference to paragraph (1) of section 5173(a) for reference to section 5173(c) and struck out provisions relating to failure or refusal of the proprietor of a distilled spirits plant to withdraw any spirits from storage on bonded premises before the expiration of the time limited on the bond and pay the tax thereon.
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1353
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39/s807/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F16
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F282
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F629
@@ -69,8 +69,8 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F643
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/96/39/s807/a/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F16%2FA
-[/us/pl/96/39/s807/a/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F16%2FA
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810

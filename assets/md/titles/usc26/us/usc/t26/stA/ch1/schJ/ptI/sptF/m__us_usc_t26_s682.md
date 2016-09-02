@@ -27,7 +27,7 @@
 
         For definitions of “husband” and “wife”, as used in this section, see section 7701(a)(17).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 234][/us/stat/68A/234]; [Pub. L. 98–369, div. A, title IV, § 422(d)(2)][/us/pl/98/369/s422/d/2], July 18, 1984, [98 Stat. 798][/us/stat/98/798].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 234][/us/stat/68A/234]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 422(d)(2), July 18, 1984, [98 Stat. 798][/us/stat/98/798].)
 
  __Amendments__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F234
-[/us/pl/98/369/s422/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs422%2Fd%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F798
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

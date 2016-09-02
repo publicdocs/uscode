@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–172, § 11(a)(27)][/us/pl/110/172/s11/a/27], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487], added item 1400T.
+    2007—[Pub. L. 110–172][/us/pl/110/172], § 11(a)(27), Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487], added item 1400T.
 
-    2005—[Pub. L. 109–135, title I][/us/pl/109/135], §§ 102(b), 103(b)(3), title II, § 201(b)(3), Dec. 21, 2005, [119 Stat. 2594][/us/stat/119/2594], 2595, 2607, added items 1400O to 1400S.
+    2005—[Pub. L. 109–135, title I][/us/pl/109/135/tI], §§ 102(b), 103(b)(3), title II, § 201(b)(3), Dec. 21, 2005, [119 Stat. 2594][/us/stat/119/2594], 2595, 2607, added items 1400O to 1400S.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/110/172/s11/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F27
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
-[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2594
 
 

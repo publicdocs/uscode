@@ -17,7 +17,7 @@
 
     For provisions requiring recordkeeping by wholesale liquor dealers, see section 5112, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “5121,”. </sup></sup>  and by retail liquor dealers, see section 5122.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1356][/us/stat/72/1356], § 5181; amended [Pub. L. 96–39, title VIII, § 807(a)(20)][/us/pl/96/39/s807/a/20], July 26, 1979, [93 Stat. 283][/us/stat/93/283]; renumbered § 5182, [Pub. L. 96–223, title II, § 232(e)(1)][/us/pl/96/223/s232/e/1], Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278]; [Pub. L. 109–59, title XI, § 11125(b)(16)][/us/pl/109/59/s11125/b/16], Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1356][/us/stat/72/1356], § 5181; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(20), July 26, 1979, [93 Stat. 283][/us/stat/93/283]; renumbered § 5182, [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(e)(1), Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(16), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
 
  __Prior Provisions__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1356
-[/us/pl/96/39/s807/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F20
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F283
-[/us/pl/96/223/s232/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fe%2F1
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F278
-[/us/pl/109/59/s11125/b/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F16
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F651

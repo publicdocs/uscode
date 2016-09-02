@@ -27,7 +27,7 @@
 
         If any refund or credit of income taxes is attributable to the taxpayer’s election under section 165(i) to deduct a disaster loss for the taxable year immediately preceding the taxable year in which the disaster occurred, the Secretary is authorized in his discretion to make the refund or credit, to the extent attributable to such election, without regard to the provisions of subsection (a) of this section. If such refund or credit is made without regard to subsection (a), there shall thereafter be submitted to such Joint Committee a report containing the matter specified in subsection (a) as soon as the Secretary shall determine the correct amount of the tax for the taxable year for which the refund or credit is made.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 92–418, § 2(b)][/us/pl/92/418/s2/b], Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 92–512, title II, § 203(a)][/us/pl/92/512/s203/a], Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944]; [Pub. L. 94–455, title XII, § 1210(a)][/us/pl/94/455/s1210/a], (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1834; [Pub. L. 95–227, § 4(d)(3)][/us/pl/95/227/s4/d/3], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 98–369, div. A, title VII, § 711(c)(3)][/us/pl/98/369/s711/c/3], July 18, 1984, [98 Stat. 946][/us/stat/98/946]; [Pub. L. 99–514, title XVIII, § 1879(e)][/us/pl/99/514/s1879/e], Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(c)(21)(A), 11834(a), Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528], 1388–560; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 305(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634; [Pub. L. 113–295, div. A, title III, § 301(a)][/us/pl/113/295/s301/a], Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 92–418][/us/pl/92/418], § 2(b), Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 92–512, title II][/us/pl/92/512/tII], § 203(a), Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1210(a), (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1834; [Pub. L. 95–227][/us/pl/95/227], § 4(d)(3), Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 711(c)(3), July 18, 1984, [98 Stat. 946][/us/stat/98/946]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1879(e), Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11801(c)(21)(A), 11834(a), Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528], 1388–560; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 305(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634; [Pub. L. 113–295, div. A, title III][/us/pl/113/295/dA/tIII], § 301(a), Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 
     2000—Subsecs. (a), (b). [Pub. L. 106–554][/us/pl/106/554] substituted “$2,000,000” for “$1,000,000”.
 
-    1990—Subsecs. (a), (b). [Pub. L. 101–508, § 11834(a)][/us/pl/101/508/s11834/a] substituted “$1,000,000” for “$200,000”.
+    1990—Subsecs. (a), (b). [Pub. L. 101–508][/us/pl/101/508], § 11834(a) substituted “$1,000,000” for “$200,000”.
 
-    Subsec. (d). [Pub. L. 101–508, § 11801(c)(21)(A)][/us/pl/101/508/s11801/c/21/A], struck out subsec. (d) which read as follows: “For purposes of this section, a refund or credit made under subchapter E of chapter 64 (relating to Federal collection of qualified State individual income taxes) for a taxable year shall be treated as a portion of a refund or credit of the income tax for that taxable year.”
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(21)(A), struck out subsec. (d) which read as follows: “For purposes of this section, a refund or credit made under subchapter E of chapter 64 (relating to Federal collection of qualified State individual income taxes) for a taxable year shall be treated as a portion of a refund or credit of the income tax for that taxable year.”
 
     1986—Subsecs. (b) to (e). [Pub. L. 99–514][/us/pl/99/514] redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b) which read as follows: “A report to Congress shall be made annually by such committee of such refunds and credits, including the names of all persons and corporations to whom amounts are credited or payments are made, together with the amounts credited or paid to each.”
 
@@ -45,11 +45,11 @@
 
     1978—Subsec. (a). [Pub. L. 95–227][/us/pl/95/227] inserted provisions relating to applicability to public charities, operators’ trust funds, or real estate investment trusts, and references to chapters 41 and 44.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1210(a)][/us/pl/94/455/s1210/a], inserted reference to any tax imposed with respect to private foundations and pensions under chapters 42 and 43, substituted $200,000 for $100,000 and struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1210(a), inserted reference to any tax imposed with respect to private foundations and pensions under chapters 42 and 43, substituted $200,000 for $100,000 and struck out “or his delegate” after “Secretary”.
 
     Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], §§ 1210(b), 1906(b)(13)(A), substituted “$200,000” for “$100,000” and struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
     1972—Subsec. (d). [Pub. L. 92–418][/us/pl/92/418] added subsec. (d).
 
@@ -57,25 +57,25 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title III, § 301(b)][/us/pl/113/295/s301/b], Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055], provided that: 
+[Pub. L. 113–295, div. A, title III][/us/pl/113/295/dA/tIII], § 301(b), Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date under section 6405 of the Internal Revenue Code of 1986.”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 305(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 305(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11834(b)][/us/pl/101/508/s11834/b], Nov. 5, 1990, [104 Stat. 1388–560][/us/stat/104/1388-560], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11834(b), Nov. 5, 1990, [104 Stat. 1388–560][/us/stat/104/1388-560], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\], except that such amendment shall not apply with respect to any refund or credit with respect to a report has been made before such date of enactment under section 6405 of the Internal Revenue Code of 1986.”
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -87,13 +87,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XII, § 1210(d)(1)][/us/pl/94/455/s1210/d/1], Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1210(d)(1), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 4, 1976\], except that such amendments shall not apply with respect to any refund or credit with respect to which a report has been made before the date of enactment of this Act \[Oct. 4, 1976\] under subsection (a) or (c) of section 6405 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–418, § 2(c)][/us/pl/92/418/s2/c], Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657], provided in part that: 
+[Pub. L. 92–418][/us/pl/92/418], § 2(c), Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657], provided in part that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply with respect to refunds or credits made after July 1, 1972.”
 
@@ -114,44 +114,44 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F792
-[/us/pl/92/418/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418%2Fs2%2Fb
+[/us/pl/92/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418
 [/us/stat/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F657
-[/us/pl/92/512/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs203%2Fa
+[/us/pl/92/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2FtII
 [/us/stat/86/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F944
-[/us/pl/94/455/s1210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1210%2Fa
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1711
-[/us/pl/95/227/s4/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fd%2F3
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F23
-[/us/pl/98/369/s711/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs711%2Fc%2F3
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F946
-[/us/pl/99/514/s1879/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fe
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2906
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-528
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/113/295/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs301%2Fa
+[/us/pl/113/295/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtIII
 [/us/stat/128/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4055
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/101/508/s11834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11834%2Fa
-[/us/pl/101/508/s11801/c/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F21%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
-[/us/pl/94/455/s1210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1210%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418
 [/us/pl/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512
-[/us/pl/113/295/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs301%2Fb
+[/us/pl/113/295/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtIII
 [/us/stat/128/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4055
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/101/508/s11834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11834%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-560
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -161,11 +161,11 @@
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/pl/95/227/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Ff
 [/us/usc/t26/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs192
-[/us/pl/94/455/s1210/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1210%2Fd%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1711
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/92/418/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418%2Fs2%2Fc
+[/us/pl/92/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418
 [/us/stat/86/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F657
 [/us/pl/101/508/s11801/c/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F21%2FA
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb

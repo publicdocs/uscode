@@ -37,7 +37,7 @@
 
             Except as provided by regulations, the tax imposed by subsection (a) shall be imposed at the time of unloading.
 
-(Added [Pub. L. 99–662, title XIV, § 1402(a)][/us/pl/99/662/s1402/a], Nov. 17, 1986, [100 Stat. 4266][/us/stat/100/4266]; amended [Pub. L. 101–508, title XI, § 11214(a)][/us/pl/101/508/s11214/a], Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436]; [Pub. L. 109–59, title XI, § 11116(b)][/us/pl/109/59/s11116/b], Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951].)
+(Added [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1402(a), Nov. 17, 1986, [100 Stat. 4266][/us/stat/100/4266]; amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11214(a), Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11116(b), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951].)
 
  __Prior Provisions__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    2005—Subsec. (c)(1). [Pub. L. 109–59, § 11116(b)(1)][/us/pl/109/59/s11116/b/1], inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
+    2005—Subsec. (c)(1). [Pub. L. 109–59][/us/pl/109/59], § 11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 11116(b)(2)][/us/pl/109/59/s11116/b/2], substituted “imposed” for “imposed—
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 11116(b)(2), substituted “imposed” for “imposed—
 
     “(A) in the case of cargo to be exported from the United States, at the time of loading, and
 
@@ -57,29 +57,29 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title XI, § 11116(c)][/us/pl/109/59/s11116/c], Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], provided that: 
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11116(c), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4462 of this title][/us/usc/t26/s4462]\] shall take effect before, on, and after the date of the enactment of this Act \[Aug. 10, 2005\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11214(b)][/us/pl/101/508/s11214/b], Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11214(b), Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1991.”
 
  __Effective Date__ 
 
-[Pub. L. 99–662, title XIV, § 1402(c)][/us/pl/99/662/s1402/c], Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269], provided that: 
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1402(c), Nov. 17, 1986, [100 Stat. 4269][/us/stat/100/4269], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 4462 of this title][/us/usc/t26/s4462]\] shall take effect on April 1, 1987.”
 
  __Authorization of Appropriations__ 
 
-    [Pub. L. 99–662, title XIV, § 1403(b)][/us/pl/99/662/s1403/b], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by [Pub. L. 103–182, title VI, § 690(c)(8)][/us/pl/103/182/s690/c/8], Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
+    [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1403(b), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], authorized to be appropriated to Department of the Treasury (from fees collected under section 58c(9), (10) of Title 19, Customs Duties) such sums as necessary to pay all expenses of administration incurred by such Department in administering this subchapter for periods to which such fees apply, prior to repeal by [Pub. L. 103–182, title VI][/us/pl/103/182/tVI], § 690(c)(8), Dec. 8, 1993, [107 Stat. 2223][/us/stat/107/2223].
 
  __Study of Cargo Diversion__ 
 
-[Pub. L. 99–662, title XIV, § 1407][/us/pl/99/662/s1407], Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272], as amended by [Pub. L. 100–647, title II, § 2002(c)][/us/pl/100/647/s2002/c], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], provided that:
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1407, Nov. 17, 1986, [100 Stat. 4272][/us/stat/100/4272], as amended by [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2002(c), Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597], provided that:
 
 >     “(a)  __Initial Study__  __.—__ 
 
@@ -100,31 +100,31 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1402%2Fa
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4266
-[/us/pl/101/508/s11214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11214%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-436
-[/us/pl/109/59/s11116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fb
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1951
 [/us/usc/t26/s4471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4471
-[/us/pl/109/59/s11116/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fb%2F1
-[/us/pl/109/59/s11116/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fb%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/109/59/s11116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11116%2Fc
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1951
 [/us/usc/t26/s4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4462
-[/us/pl/101/508/s11214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11214%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-436
-[/us/pl/99/662/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1402%2Fc
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4269
 [/us/usc/t26/s4462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4462
-[/us/pl/99/662/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1403%2Fb
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4270
-[/us/pl/103/182/s690/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs690%2Fc%2F8
+[/us/pl/103/182/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtVI
 [/us/stat/107/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2223
-[/us/pl/99/662/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1407
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4272
-[/us/pl/100/647/s2002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2002%2Fc
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3597
 
 

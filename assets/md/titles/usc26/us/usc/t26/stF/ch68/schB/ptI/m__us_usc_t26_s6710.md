@@ -51,7 +51,7 @@
 
         (4) by telephone, shall be treated as occurring when the solicitation was made.
 
-(Added [Pub. L. 100–203, title X, § 10701(b)][/us/pl/100/203/s10701/b], Dec. 22, 1987, [101 Stat. 1330–458][/us/stat/101/1330-458].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10701(b), Dec. 22, 1987, [101 Stat. 1330–458][/us/stat/101/1330-458].)
 
  __Effective Date__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10701%2Fb
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-458
 [/us/pl/100/203/s10701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10701%2Fd
 [/us/usc/t26/s6113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6113

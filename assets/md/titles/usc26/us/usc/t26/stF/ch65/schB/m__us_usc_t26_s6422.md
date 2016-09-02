@@ -39,15 +39,15 @@
 
     (12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 802][/us/stat/68A/802], § 6420; renumbered § 6421, [Apr. 2, 1956, ch. 160, § 1][/us/act/1956-04-02/ch160/s1], [70 Stat. 87][/us/stat/70/87]; renumbered § 6422, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(c), [70 Stat. 394][/us/stat/70/394]; amended [Pub. L. 85–859, title II, § 204(4)][/us/pl/85/859/s204/4], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 88–36, title II, § 201(c)][/us/pl/88/36/s201/c], June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 94–455, title XVI, § 1601(f)(1)][/us/pl/94/455/s1601/f/1], title XIX, §§ 1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1828; [Pub. L. 95–600, title III, § 362(d)(4)][/us/pl/95/600/s362/d/4], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV, § 402(c)(4)][/us/pl/97/248/s402/c/4], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–258, § 3(f)(8)][/us/pl/97/258/s3/f/8], (9), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 101–508, title XI, § 11801(c)(17)(A)][/us/pl/101/508/s11801/c/17/A], Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 105–34, title XI, § 1131(c)(3)][/us/pl/105/34/s1131/c/3], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980]; [Pub. L. 114–74, title XI, § 1101(f)(2)][/us/pl/114/74/s1101/f/2], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 802][/us/stat/68A/802], § 6420; renumbered § 6421, [Apr. 2, 1956, ch. 160][/us/act/1956-04-02/ch160], § 1, [70 Stat. 87][/us/stat/70/87]; renumbered § 6422, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(c), [70 Stat. 394][/us/stat/70/394]; amended [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(4), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 88–36, title II][/us/pl/88/36/tII], § 201(c), June 4, 1963, [77 Stat. 54][/us/stat/77/54]; [Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], § 1601(f)(1), title XIX, §§ 1901(b)(36)(B), 1906(a)(28), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1802, 1828; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(d)(4), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852]; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(4), Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667]; [Pub. L. 97–258][/us/pl/97/258], § 3(f)(8), (9), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(17)(A), Nov. 5, 1990, [104 Stat. 1388–527][/us/stat/104/1388-527]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(c)(3), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980]; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(2), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(f)(2)][/us/pl/114/74/s1101/f/2], (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (12). See 2015 Amendment note below.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(2), (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is amended by striking paragraph (12). See 2015 Amendment note below.
 
  __References in Text__ 
 
-    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), was repealed by [Pub. L. 94–412, title V, § 501(g)][/us/pl/94/412/s501/g], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
+    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(g), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Amendments__ 
 
@@ -57,27 +57,27 @@
 
     1990—[Pub. L. 101–508][/us/pl/101/508] struck out par. (6) and redesignated the succeeding pars. accordingly, which was executed with respect to the succeeding pars. (consisting of pars. (7) to (12), (14), and (15)) by redesignating such pars. as (6) to (13), respectively. Prior to amendment, par. (6) provided a cross reference to [section 1481 of this title][/us/usc/t26/s1481] for overpayment in certain renegotiations of war contracts.
 
-    1982—Par. (10). [Pub. L. 97–258, § 3(f)(8)][/us/pl/97/258/s3/f/8], substituted “[section 3727 of title 31][/us/usc/t31/s3727], United States Code” for “R.S. 3477 ([31 U.S.C. 203][/us/usc/t31/s203])”.
+    1982—Par. (10). [Pub. L. 97–258][/us/pl/97/258], § 3(f)(8), substituted “[section 3727 of title 31][/us/usc/t31/s3727], United States Code” for “R.S. 3477 ([31 U.S.C. 203][/us/usc/t31/s203])”.
 
-    Par. (11). [Pub. L. 97–258, § 3(f)(9)][/us/pl/97/258/s3/f/9], substituted “[section 3728 of title 31][/us/usc/t31/s3728], United States Code” for “the act of March 3, 1875, as amended by [section 13 of the act of March 3, 1933][/us/act/1933-03-03/s13] ([31 U.S.C. 227][/us/usc/t31/s227])”.
+    Par. (11). [Pub. L. 97–258][/us/pl/97/258], § 3(f)(9), substituted “[section 3728 of title 31][/us/usc/t31/s3728], United States Code” for “the act of March 3, 1875, as amended by [section 13 of the act of March 3, 1933][/us/act/1933-03-03/s13] ([31 U.S.C. 227][/us/usc/t31/s227])”.
 
     Par. (15). [Pub. L. 97–248][/us/pl/97/248] added par. (15).
 
     1978—Par. (14). [Pub. L. 95–600][/us/pl/95/600] inserted “regulated investment company or” before “real estate investment trust” and substituted “section 860” for “section 859”.
 
-    1976—Par. (2). [Pub. L. 94–455, § 1901(b)(36)(B)][/us/pl/94/455/s1901/b/36/B], redesignated par. (3) as (2). Former par. (2), which set forth a cross reference to [section 1321 of this title][/us/usc/t26/s1321] for overpayment arising out of adjustments incident to involuntary liquidation of inventory, was struck out.
+    1976—Par. (2). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(36)(B), redesignated par. (3) as (2). Former par. (2), which set forth a cross reference to [section 1321 of this title][/us/usc/t26/s1321] for overpayment arising out of adjustments incident to involuntary liquidation of inventory, was struck out.
 
-    Pars. (3) to (8). [Pub. L. 94–455, § 1901(b)(36)(B)][/us/pl/94/455/s1901/b/36/B], redesignated pars. (4) to (9) as (3) to (8), respectively.
+    Pars. (3) to (8). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(36)(B), redesignated pars. (4) to (9) as (3) to (8), respectively.
 
     Par. (9). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(36)(B), 1906(a)(28)(A), redesignated par. (10) as (9) and substituted “(50 U.S.C. App. 1742)” for “([60 Stat. 48][/us/stat/60/48]; 50 U.S.C. App. 1742)”. Former par. (9) redesignated (8).
 
-    Par. (10). [Pub. L. 94–455, § 1901(b)(36)(B)][/us/pl/94/455/s1901/b/36/B], redesignated par. (11) as (10). Former par. (10) redesignated (9).
+    Par. (10). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(36)(B), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
     Par. (11). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(36)(B), 1906(a)(28)(B), redesignated par. (12) as (11) and substituted “([31 U.S.C. 227][/us/usc/t31/s227])” for “([47 Stat. 1516][/us/stat/47/1516]; [31 U.S.C. 227][/us/usc/t31/s227])”. Former par. (11) redesignated (10).
 
-    Pars. (12), (13). [Pub. L. 94–455, § 1901(b)(36)(B)][/us/pl/94/455/s1901/b/36/B], redesignated pars. (12) and (13) as (11) and (12), respectively.
+    Pars. (12), (13). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(36)(B), redesignated pars. (12) and (13) as (11) and (12), respectively.
 
-    Par. (14). [Pub. L. 94–455, § 1601(f)(1)][/us/pl/94/455/s1601/f/1], added par. (14).
+    Par. (14). [Pub. L. 94–455][/us/pl/94/455], § 1601(f)(1), added par. (14).
 
     1963—Pars. (7) to (14). [Pub. L. 88–36][/us/pl/88/36] redesignated pars. (8) to (14) as (7) to (13), respectively. Former par. (7), which was cross reference provision for abatement or refund in case of tax on silver bullion to section 4894, was struck out.
 
@@ -126,57 +126,57 @@
 [/us/usc/t31/s3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3728
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F802
-[/us/act/1956-04-02/ch160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160%2Fs1
+[/us/act/1956-04-02/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160
 [/us/stat/70/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F87
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F394
-[/us/pl/85/859/s204/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F4
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1429
-[/us/pl/88/36/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2Fs201%2Fc
+[/us/pl/88/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2FtII
 [/us/stat/77/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F54
-[/us/pl/94/455/s1601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Ff%2F1
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1746
-[/us/pl/95/600/s362/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fd%2F4
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2852
-[/us/pl/97/248/s402/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F4
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F667
-[/us/pl/97/258/s3/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F8
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1064
-[/us/pl/101/508/s11801/c/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F17%2FA
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-527
-[/us/pl/105/34/s1131/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F3
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
-[/us/pl/114/74/s1101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F2
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
-[/us/pl/114/74/s1101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F2
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
-[/us/pl/94/412/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fg
+[/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1481
-[/us/pl/97/258/s3/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F8
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3727
 [/us/usc/t31/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs203
-[/us/pl/97/258/s3/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F9
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3728
 [/us/act/1933-03-03/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fs13
 [/us/usc/t31/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs227
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1901/b/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1321
-[/us/pl/94/455/s1901/b/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/60/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F48
-[/us/pl/94/455/s1901/b/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t31/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs227
 [/us/stat/47/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1516
 [/us/usc/t31/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs227
-[/us/pl/94/455/s1901/b/36/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FB
-[/us/pl/94/455/s1601/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Ff%2F1
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74

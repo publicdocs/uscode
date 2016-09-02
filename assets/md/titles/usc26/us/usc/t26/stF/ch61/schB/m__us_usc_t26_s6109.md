@@ -51,7 +51,7 @@
 
         The social security account number issued to an individual for purposes of section 205(c)(2)(A) of the Social Security Act shall, except as shall otherwise be specified under regulations of the Secretary, be used as the identifying number for such individual for purposes of this title.
 
-    \[(e) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1615(a)(2)(A)__  __][/us/pl/104/188/s1615/a/2/A]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1853__  __][/us/stat/110/1853]__  __\]__ 
+    \[(e) __Repealed.__  __[__  __Pub. L. 104–188, title I__  __][/us/pl/104/188/tI]__  __, § 1615(a)(2)(A),__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1853__  __][/us/stat/110/1853]__  __\]__ 
 
     (f) __Access to employer identification numbers by Secretary of Agriculture for purposes of Food and Nutrition Act of 2008 of 1977__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. See 2008 Amendment note below.__  __ </sup></sup> __ 
 
@@ -173,7 +173,7 @@
 
             The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
 
-(Added [Pub. L. 87–397, § 1(a)][/us/pl/87/397/s1/a], Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; amended [Pub. L. 94–455, title XII][/us/pl/94/455], §§ 1203(d), 1211(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], 1712, 1834; [Pub. L. 99–514, title XV, § 1524(a)][/us/pl/99/514/s1524/a], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749]; [Pub. L. 100–485, title VII][/us/pl/100/485], §§ 703(c)(3), 704(a), Oct. 13, 1988, [102 Stat. 2427][/us/stat/102/2427]; [Pub. L. 101–508, title XI, § 11112(a)][/us/pl/101/508/s11112/a], Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413]; [Pub. L. 101–624, title XVII, § 1735(c)][/us/pl/101/624/s1735/c], title XXII, § 2201(d), Nov. 28, 1990, [104 Stat. 3792][/us/stat/104/3792], 3953; [Pub. L. 102–486, title XIX, § 1933(a)][/us/pl/102/486/s1933/a], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–296, title III, § 316(b)][/us/pl/103/296/s316/b], Aug. 15, 1994, [108 Stat. 1532][/us/stat/108/1532]; [Pub. L. 103–465, title VII, § 742(b)][/us/pl/103/465/s742/b], Dec. 8, 1994, [108 Stat. 5010][/us/stat/108/5010]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], 1889; [Pub. L. 105–206, title III, § 3710(a)][/us/pl/105/206/s3710/a], July 22, 1998, [112 Stat. 779][/us/stat/112/779]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(D)][/us/pl/110/28/s8246/a/2/D], May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (G), (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (G), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 114–113, div. Q, title II, § 203(a)][/us/pl/114/113/s203/a], Dec. 18, 2015, [129 Stat. 3078][/us/stat/129/3078].)
+(Added [Pub. L. 87–397][/us/pl/87/397], § 1(a), Oct. 5, 1961, [75 Stat. 828][/us/stat/75/828]; amended [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], §§ 1203(d), 1211(c), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691], 1712, 1834; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1524(a), Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749]; [Pub. L. 100–485, title VII][/us/pl/100/485/tVII], §§ 703(c)(3), 704(a), Oct. 13, 1988, [102 Stat. 2427][/us/stat/102/2427]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11112(a), Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413]; [Pub. L. 101–624, title XVII][/us/pl/101/624/tXVII], § 1735(c), title XXII, § 2201(d), Nov. 28, 1990, [104 Stat. 3792][/us/stat/104/3792], 3953; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1933(a), Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031]; [Pub. L. 103–296, title III][/us/pl/103/296/tIII], § 316(b), Aug. 15, 1994, [108 Stat. 1532][/us/stat/108/1532]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 742(b), Dec. 8, 1994, [108 Stat. 5010][/us/stat/108/5010]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, [110 Stat. 1853][/us/stat/110/1853], 1889; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3710(a), July 22, 1998, [112 Stat. 779][/us/stat/112/779]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(D), May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(B), (G), (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(B), (G), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(a), Dec. 18, 2015, [129 Stat. 3078][/us/stat/129/3078].)
 
  __References in Text__ 
 
@@ -197,21 +197,21 @@
 
     2015—Subsec. (i). [Pub. L. 114–113][/us/pl/114/113] added subsec. (i).
 
-    2008—Subsec. (f). [Pub. L. 110–246, § 4002(b)(1)(G)][/us/pl/110/246/s4002/b/1/G], (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
+    2008—Subsec. (f). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(G), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act” in heading.
 
-    Subsec. (f)(1), (2)(A). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+    Subsec. (f)(1), (2)(A). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(B), (2)(O), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-    2007—Subsec. (a)(4). [Pub. L. 110–28, § 8246(a)(2)(D)(ii)][/us/pl/110/28/s8246/a/2/D/ii], which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
+    2007—Subsec. (a)(4). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(D)(ii), which directed amendment of heading by substituting “tax return preparer” for “income return preparer”, was executed by making the substitution for “income tax return preparer”, to reflect the probable intent of Congress.
 
-    [Pub. L. 110–28, § 8246(a)(2)(D)(i)][/us/pl/110/28/s8246/a/2/D/i], substituted “a tax return preparer” for “an income tax return preparer”.
+    [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(D)(i), substituted “a tax return preparer” for “an income tax return preparer”.
 
     1998—Subsec. (a). [Pub. L. 105–206][/us/pl/105/206] substituted “For purposes of paragraphs (1), (2), and (3)” for “For purposes of this subsection” in concluding provisions.
 
-    1996—Subsec. (e). [Pub. L. 104–188, § 1615(a)(2)(A)][/us/pl/104/188/s1615/a/2/A], struck out subsec. (e) which read as follows:
+    1996—Subsec. (e). [Pub. L. 104–188][/us/pl/104/188], § 1615(a)(2)(A), struck out subsec. (e) which read as follows:
 
     “(e) Furnishing Number for Dependents.—Any taxpayer who claims an exemption under section 151 for any dependent on a return for any taxable year shall include on such return the identifying number (for purposes of this title) of such dependent.”
 
-    Subsecs. (f), (g). [Pub. L. 104–188, § 1704(t)(42)][/us/pl/104/188/s1704/t/42], redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
+    Subsecs. (f), (g). [Pub. L. 104–188][/us/pl/104/188], § 1704(t)(42), redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
 
     1994—Subsec. (e). [Pub. L. 103–465][/us/pl/103/465] substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
 
@@ -221,33 +221,33 @@
 
     such taxpayer shall include on such return the identifying number (for purposes of this title) of such dependent.”
 
-    Subsec. (f)(2). [Pub. L. 103–296, § 316(b)(1)][/us/pl/103/296/s316/b/1], amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by adding par. (2) and striking out former par. (2) “Safeguards” which read as follows: “The Secretary of Agriculture shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to paragraph (1) only to officers and employees of the United States whose duties or responsibilities require access for the administration or enforcement of the Food Stamp Act of 1977. The Secretary of Agriculture shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.”
+    Subsec. (f)(2). [Pub. L. 103–296][/us/pl/103/296], § 316(b)(1), amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by adding par. (2) and striking out former par. (2) “Safeguards” which read as follows: “The Secretary of Agriculture shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to paragraph (1) only to officers and employees of the United States whose duties or responsibilities require access for the administration or enforcement of the Food Stamp Act of 1977. The Secretary of Agriculture shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.”
 
-    Subsec. (f)(3). [Pub. L. 103–296, § 316(b)(2)][/us/pl/103/296/s316/b/2], amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by substituting, in par. (3), “pursuant to this subsection by the Secretary of Agriculture or the head of any agency or instrumentality with which information is shared pursuant to paragraph (2)” for “by the Secretary of Agriculture pursuant to this subsection” and “employer identification numbers shall disclose” for “social security account numbers shall disclose”.
+    Subsec. (f)(3). [Pub. L. 103–296][/us/pl/103/296], § 316(b)(2), amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by substituting, in par. (3), “pursuant to this subsection by the Secretary of Agriculture or the head of any agency or instrumentality with which information is shared pursuant to paragraph (2)” for “by the Secretary of Agriculture pursuant to this subsection” and “employer identification numbers shall disclose” for “social security account numbers shall disclose”.
 
-    Subsec. (f)(4). [Pub. L. 103–296, § 316(b)(3)][/us/pl/103/296/s316/b/3], amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by substituting, in par. (4), “pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2)” for “by the Secretary of Agriculture pursuant to this subsection”.
+    Subsec. (f)(4). [Pub. L. 103–296][/us/pl/103/296], § 316(b)(3), amended subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977 by substituting, in par. (4), “pursuant to this subsection by the Secretary of Agriculture or any agency or instrumentality with which information is shared pursuant to paragraph (2)” for “by the Secretary of Agriculture pursuant to this subsection”.
 
     1992—Subsec. (h). [Pub. L. 102–486][/us/pl/102/486] added subsec. (h).
 
     1990—Subsec. (e)(2). [Pub. L. 101–508][/us/pl/101/508] substituted “1 year” for “2 years”.
 
-    Subsec. (f). [Pub. L. 101–624, § 2201(d)][/us/pl/101/624/s2201/d], added subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act.
+    Subsec. (f). [Pub. L. 101–624][/us/pl/101/624], § 2201(d), added subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act.
 
-    [Pub. L. 101–624, § 1735(c)][/us/pl/101/624/s1735/c], added subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977.
+    [Pub. L. 101–624][/us/pl/101/624], § 1735(c), added subsec. (f) relating to access to employer identification numbers for purposes of Food Stamp Act of 1977.
 
-    1988—Subsec. (a). [Pub. L. 100–485, § 703(c)(3)][/us/pl/100/485/s703/c/3], substituted “or whose identifying number is required to be shown on a return of another person shall furnish” for “shall furnish”.
+    1988—Subsec. (a). [Pub. L. 100–485][/us/pl/100/485], § 703(c)(3), substituted “or whose identifying number is required to be shown on a return of another person shall furnish” for “shall furnish”.
 
-    Subsec. (e)(2). [Pub. L. 100–485, § 704(a)][/us/pl/100/485/s704/a], substituted “age of 2” for “age of 5”.
+    Subsec. (e)(2). [Pub. L. 100–485][/us/pl/100/485], § 704(a), substituted “age of 2” for “age of 5”.
 
     1986—Subsec. (e). [Pub. L. 99–514][/us/pl/99/514] added subsec. (e).
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and added par. (4).
 
-    Subsec. (d). [Pub. L. 94–455, § 1211(c)][/us/pl/94/455/s1211/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1211(c), added subsec. (d).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title II, § 203(f)][/us/pl/114/113/s203/f], Dec. 18, 2015, [129 Stat. 3081][/us/stat/129/3081], provided that: 
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(f), Dec. 18, 2015, [129 Stat. 3081][/us/stat/129/3081], provided that: 
 
 > “The amendments made by this section \[amending this section and section 6213 of this section\] shall apply to applications for individual taxpayer identification numbers made after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -263,7 +263,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3710(b)][/us/pl/105/206/s3710/b], July 22, 1998, [112 Stat. 779][/us/stat/112/779], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3710(b), July 22, 1998, [112 Stat. 779][/us/stat/112/779], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -277,7 +277,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1933(c)][/us/pl/102/486/s1933/c], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1933(c), Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to taxable years beginning after December 31, 1991.”
 
@@ -285,7 +285,7 @@
 
     Amendment by [section 1735(c) of Pub. L. 101–624][/us/pl/101/624/s1735/c] effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, see [section 1781(a) of Pub. L. 101–624][/us/pl/101/624/s1781/a], set out as a note under [section 2012 of Title 7][/us/usc/t7/s2012], Agriculture.
 
-[Pub. L. 101–508, title XI, § 11112(b)][/us/pl/101/508/s11112/b], Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11112(b), Nov. 5, 1990, [104 Stat. 1388–413][/us/stat/104/1388-413], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1990.”
 
@@ -293,31 +293,31 @@
 
     Amendment by [section 703(c)(3) of Pub. L. 100–485][/us/pl/100/485/s703/c/3] applicable to taxable years beginning after Dec. 31, 1988, see [section 703(d) of Pub. L. 100–485][/us/pl/100/485/s703/d], set out as a note under [section 21 of this title][/us/usc/t26/s21].
 
-[Pub. L. 100–485, title VII, § 704(b)][/us/pl/100/485/s704/b], Oct. 13, 1988, [102 Stat. 2428][/us/stat/102/2428], provided that: 
+[Pub. L. 100–485, title VII][/us/pl/100/485/tVII], § 704(b), Oct. 13, 1988, [102 Stat. 2428][/us/stat/102/2428], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1524(c)][/us/pl/99/514/s1524/c], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1524(c), Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6676 of this title][/us/usc/t26/s6676]\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1987.”
 
  __Effective Date__ 
 
-[Pub. L. 87–397, § 1(d)][/us/pl/87/397/s1/d], Oct. 5, 1961, [75 Stat. 829][/us/stat/75/829], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 87–397][/us/pl/87/397], § 1(d), Oct. 5, 1961, [75 Stat. 829][/us/stat/75/829], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
 
  __Audit by TIGTA__ 
 
-[Pub. L. 114–113, div. Q, title II, § 203(b)][/us/pl/114/113/s203/b], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(b), Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
 
 > “Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives.”
 
  __Community-based Certified Acceptance Agents__ 
 
-[Pub. L. 114–113, div. Q, title II, § 203(c)][/us/pl/114/113/s203/c], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(c), Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
 
 > “The Secretary of the Treasury, or the Secretary’s delegate, shall maintain a program for training and approving community-based certified acceptance agents for purposes of section 6109(i)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section). Persons eligible to be acceptance agents under such program include—
 
@@ -337,7 +337,7 @@
 
  __ITIN Study__ 
 
-[Pub. L. 114–113, div. Q, title II, § 203(d)][/us/pl/114/113/s203/d], Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that:
+[Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(d), Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -376,39 +376,39 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1615/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1615%2Fa%2F2%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1853
 [/us/usc/t7/s2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2018
 [/us/usc/t7/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2021
-[/us/pl/87/397/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397%2Fs1%2Fa
+[/us/pl/87/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397
 [/us/stat/75/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F828
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1691
-[/us/pl/99/514/s1524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1524%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2749
-[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVII
 [/us/stat/102/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2427
-[/us/pl/101/508/s11112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11112%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-413
-[/us/pl/101/624/s1735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1735%2Fc
+[/us/pl/101/624/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXVII
 [/us/stat/104/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3792
-[/us/pl/102/486/s1933/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1933%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3031
-[/us/pl/103/296/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs316%2Fb
+[/us/pl/103/296/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtIII
 [/us/stat/108/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1532
-[/us/pl/103/465/s742/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs742%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5010
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1853
-[/us/pl/105/206/s3710/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3710%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F779
-[/us/pl/110/28/s8246/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FD
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
-[/us/pl/110/234/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FB
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/114/113/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fa
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3078
 [/us/usc/t42/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs405
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
@@ -425,27 +425,27 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t26/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6116
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/110/246/s4002/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FG
-[/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
-[/us/pl/110/28/s8246/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FD%2Fii
-[/us/pl/110/28/s8246/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FD%2Fi
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/104/188/s1615/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1615%2Fa%2F2%2FA
-[/us/pl/104/188/s1704/t/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F42
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/296/s316/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs316%2Fb%2F1
-[/us/pl/103/296/s316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs316%2Fb%2F2
-[/us/pl/103/296/s316/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs316%2Fb%2F3
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
+[/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/624/s2201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2201%2Fd
-[/us/pl/101/624/s1735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1735%2Fc
-[/us/pl/100/485/s703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs703%2Fc%2F3
-[/us/pl/100/485/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs704%2Fa
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
+[/us/pl/100/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1211%2Fc
-[/us/pl/114/113/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Ff
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3081
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -458,7 +458,7 @@
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28/s8246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fc
 [/us/usc/t26/s6060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6060
-[/us/pl/105/206/s3710/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3710%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F779
 [/us/pl/104/188/s1615/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1615%2Fa%2F2%2FA
 [/us/pl/104/188/s1615/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1615%2Fd
@@ -466,31 +466,31 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s742/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs742%2Fc
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/102/486/s1933/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1933%2Fc
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3031
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 [/us/pl/101/624/s1735/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1735%2Fc
 [/us/pl/101/624/s1781/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1781%2Fa
 [/us/usc/t7/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012
-[/us/pl/101/508/s11112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11112%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-413
 [/us/pl/100/485/s703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs703%2Fc%2F3
 [/us/pl/100/485/s703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs703%2Fd
 [/us/usc/t26/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs21
-[/us/pl/100/485/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2Fs704%2Fb
+[/us/pl/100/485/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F485%2FtVII
 [/us/stat/102/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2428
-[/us/pl/99/514/s1524/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1524%2Fc
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2749
 [/us/usc/t26/s6676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6676
-[/us/pl/87/397/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397%2Fs1%2Fd
+[/us/pl/87/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F397
 [/us/stat/75/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F829
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/114/113/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fb
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
-[/us/pl/114/113/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fc
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
-[/us/pl/114/113/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs203%2Fd
+[/us/pl/114/113/dQ/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtII
 [/us/stat/129/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3079
 [/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
 

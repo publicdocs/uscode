@@ -63,7 +63,7 @@
 
         The first plan year of the Combined Fund shall begin February 1, 1993, and end September 30, 1993. Each succeeding plan year shall begin on October 1 of each calendar year.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3040][/us/stat/106/3040]; amended [Pub. L. 109–432, div. C, title II, § 213(a)][/us/pl/109/432/s213/a], Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3040][/us/stat/106/3040]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 213(a), Dec. 20, 2006, [120 Stat. 3027][/us/stat/120/3027].)
 
  __Amendments__ 
 
@@ -79,9 +79,9 @@
 [/us/usc/t29/s186/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs186%2Fc%2F5
 [/us/usc/t29/s1002/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F1
 [/us/usc/t29/s1002/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F37
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3040
-[/us/pl/109/432/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs213%2Fa
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3027
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 

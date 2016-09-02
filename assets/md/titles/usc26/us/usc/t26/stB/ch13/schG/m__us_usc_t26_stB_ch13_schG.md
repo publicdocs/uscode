@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], amended analysis to read as if amendment by [Pub. L. 107–16, § 501(c)(2)][/us/pl/107/16/s501/c/2], had never been enacted. See 2001 Amendment note below.
+    2010—[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], amended analysis to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 501(c)(2), had never been enacted. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–16, title V, § 501(c)(2)][/us/pl/107/16/s501/c/2], June 7, 2001, [115 Stat. 69][/us/stat/115/69], added item 2664 “Termination”.
+    2001—[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 501(c)(2), June 7, 2001, [115 Stat. 69][/us/stat/115/69], added item 2664 “Termination”.
 
 ----------
 
@@ -70,10 +70,10 @@
 ----------
 ----------
 
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
-[/us/pl/107/16/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs501%2Fc%2F2
-[/us/pl/107/16/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs501%2Fc%2F2
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F69
 
 

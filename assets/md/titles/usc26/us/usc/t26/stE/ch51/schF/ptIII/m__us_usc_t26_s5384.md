@@ -35,7 +35,7 @@
 
             (D) Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1385][/us/stat/72/1385]; amended [Pub. L. 89–44, title VIII, § 806(b)(2)][/us/pl/89/44/s806/b/2], (c)(2), (3), June 21, 1965, [79 Stat. 163][/us/stat/79/163], 164; [Pub. L. 90–619, § 3(b)][/us/pl/90/619/s3/b], Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 105–34, title XIV, § 1417(a)][/us/pl/105/34/s1417/a], Aug. 5, 1997, [111 Stat. 1048][/us/stat/111/1048].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1385][/us/stat/72/1385]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 806(b)(2), (c)(2), (3), June 21, 1965, [79 Stat. 163][/us/stat/79/163], 164; [Pub. L. 90–619][/us/pl/90/619], § 3(b), Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1417(a), Aug. 5, 1997, [111 Stat. 1048][/us/stat/111/1048].)
 
  __Prior Provisions__ 
 
@@ -47,23 +47,23 @@
 
     1968—Subsec. (a). [Pub. L. 90–619][/us/pl/90/619] substituted “not more than 14 percent” for “less than 14 percent”.
 
-    1965—Subsec. (a). [Pub. L. 89–44, § 806(b)(2)(A)][/us/pl/89/44/s806/b/2/A], authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
+    1965—Subsec. (a). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(2)(A), authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
 
-    Subsec. (b). [Pub. L. 89–44, § 806(c)(3)][/us/pl/89/44/s806/c/3], substituted “Ameliorated” for “Reserve” in heading.
+    Subsec. (b). [Pub. L. 89–44][/us/pl/89/44], § 806(c)(3), substituted “Ameliorated” for “Reserve” in heading.
 
-    Subsec. (b)(1). [Pub. L. 89–44, § 806(b)(2)(B)][/us/pl/89/44/s806/b/2/B], struck out references to reserves and reserve inventories.
+    Subsec. (b)(1). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(2)(B), struck out references to reserves and reserve inventories.
 
-    Subsec. (b)(2). [Pub. L. 89–44, § 806(b)(2)(C)][/us/pl/89/44/s806/b/2/C], amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
+    Subsec. (b)(2). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
 
-    [Pub. L. 89–44, § 806(c)(2)][/us/pl/89/44/s806/c/2], struck out “reserved” after “covering the production of” in fourth sentence.
+    [Pub. L. 89–44][/us/pl/89/44], § 806(c)(2), struck out “reserved” after “covering the production of” in fourth sentence.
 
-    Subsec. (b)(2)(B). [Pub. L. 89–44, § 806(b)(2)(D)][/us/pl/89/44/s806/b/2/D], required that, if liquid sugar is used, the volume of water contained therein be deducted from the volume of ameliorating material authorized.
+    Subsec. (b)(2)(B). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(2)(D), required that, if liquid sugar is used, the volume of water contained therein be deducted from the volume of ameliorating material authorized.
 
-    Subsec. (b)(2)(C). [Pub. L. 89–44, § 806(b)(2)(E)][/us/pl/89/44/s806/b/2/E], substituted “shall have” for “may be withdrawn from reserve inventory with”.
+    Subsec. (b)(2)(C). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(2)(E), substituted “shall have” for “may be withdrawn from reserve inventory with”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1417(b)][/us/pl/105/34/s1417/b], Aug. 5, 1997, [111 Stat. 1048][/us/stat/111/1048], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1417(b), Aug. 5, 1997, [111 Stat. 1048][/us/stat/111/1048], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -82,27 +82,27 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1385
-[/us/pl/89/44/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F163
-[/us/pl/90/619/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs3%2Fb
+[/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/stat/82/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1237
-[/us/pl/105/34/s1417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1417%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1048
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F670
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
-[/us/pl/89/44/s806/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2%2FA
-[/us/pl/89/44/s806/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fc%2F3
-[/us/pl/89/44/s806/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2%2FB
-[/us/pl/89/44/s806/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2%2FC
-[/us/pl/89/44/s806/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fc%2F2
-[/us/pl/89/44/s806/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2%2FD
-[/us/pl/89/44/s806/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F2%2FE
-[/us/pl/105/34/s1417/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1417%2Fb
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1048
 [/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/pl/90/619/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs6

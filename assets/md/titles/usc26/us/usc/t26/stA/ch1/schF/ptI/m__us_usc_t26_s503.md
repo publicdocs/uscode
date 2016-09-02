@@ -47,7 +47,7 @@
 
         Any organization described in subsection (a)(1) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 
-    \[(d) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(22)__  __][/us/pl/101/508/s11801/a/22]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–521__  __][/us/stat/104/1388-521]__  __\]__ 
+    \[(d) __Repealed.__  __[__  __Pub. L. 101–508, title XI__  __][/us/pl/101/508/tXI]__  __, § 11801(a)(22),__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–521__  __][/us/stat/104/1388-521]__  __\]__ 
 
     (e) __Special rules__ 
 
@@ -85,11 +85,11 @@
 
         For purposes of paragraph (2), the term “trustee” means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 85–866, title I, § 30(a)][/us/pl/85/866/s30/a], (b), Sept. 2, 1958, [72 Stat. 1629][/us/stat/72/1629], 1630; [Pub. L. 86–667, § 2][/us/pl/86/667/s2], July 14, 1960, [74 Stat. 535][/us/stat/74/535]; [Pub. L. 87–792, § 6][/us/pl/87/792/s6], Oct. 10, 1962, [76 Stat. 827][/us/stat/76/827]; [Pub. L. 91–172, title I][/us/pl/91/172], §§ 101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, [83 Stat. 527][/us/stat/83/527], 542; [Pub. L. 93–406, title II, § 2003(b)][/us/pl/93/406/s2003/b], Sept. 2, 1974, [88 Stat. 978][/us/stat/88/978]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–508, title XI, § 11801(a)(22)][/us/pl/101/508/s11801/a/22], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 113–295, div. A, title II, § 221(a)(63)][/us/pl/113/295/s221/a/63], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 30(a), (b), Sept. 2, 1958, [72 Stat. 1629][/us/stat/72/1629], 1630; [Pub. L. 86–667][/us/pl/86/667], § 2, July 14, 1960, [74 Stat. 535][/us/stat/74/535]; [Pub. L. 87–792][/us/pl/87/792], § 6, Oct. 10, 1962, [76 Stat. 827][/us/stat/76/827]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], §§ 101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, [83 Stat. 527][/us/stat/83/527], 542; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 2003(b), Sept. 2, 1974, [88 Stat. 978][/us/stat/88/978]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(22), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(63), Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(63)(A)][/us/pl/113/295/s221/a/63/A], amended par. (1) generally. Prior to amendment, text read as follows:
+    2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(63)(A), amended par. (1) generally. Prior to amendment, text read as follows:
 
     “(A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
 
@@ -97,9 +97,9 @@
 
     “(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969.”
 
-    Subsec. (a)(2). [Pub. L. 113–295, § 221(a)(63)(B)][/us/pl/113/295/s221/a/63/B], which directed amendment of par. (2) by substituting “described in paragraph (1)” for “described in section 501(c)(17) or (18) or paragraph (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or paragraph (1)(B)” to reflect the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(63)(B), which directed amendment of par. (2) by substituting “described in paragraph (1)” for “described in section 501(c)(17) or (18) or paragraph (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or paragraph (1)(B)” to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 113–295, § 221(a)(63)(C)][/us/pl/113/295/s221/a/63/C], which directed amendment of subsec. (c) by substituting “described in subsection (a)(1)” for “described in section 501(c)(17) or (18) or subsection (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or subsection (a)(1)(B)” to reflect the probable intent of Congress.
+    Subsec. (c). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(63)(C), which directed amendment of subsec. (c) by substituting “described in subsection (a)(1)” for “described in section 501(c)(17) or (18) or subsection (a)(1)(B)”, was executed by making the substitution for “described in section 501(c) (17) or (18) or subsection (a)(1)(B)” to reflect the probable intent of Congress.
 
     1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] struck out subsec. (d) “Special rule for loans” which read as follows: “For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 
@@ -109,49 +109,49 @@
 
     1976—Subsecs. (a)(2), (c). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1974—Subsec. (a)(1)(A). [Pub. L. 93–406, § 2003(b)(1)][/us/pl/93/406/s2003/b/1], substituted “section 501(c)(17)” for “section 501(c)(17) or (18)”.
+    1974—Subsec. (a)(1)(A). [Pub. L. 93–406][/us/pl/93/406], § 2003(b)(1), substituted “section 501(c)(17)” for “section 501(c)(17) or (18)”.
 
-    Subsec. (a)(1)(B). [Pub. L. 93–406, § 2003(b)(2)][/us/pl/93/406/s2003/b/2], inserted “which is referred to in section 4975(g)(2) or (3)”.
+    Subsec. (a)(1)(B). [Pub. L. 93–406][/us/pl/93/406], § 2003(b)(2), inserted “which is referred to in section 4975(g)(2) or (3)”.
 
-    Subsec. (a)(2). [Pub. L. 93–406, § 2003(b)(3)][/us/pl/93/406/s2003/b/3], substituted “or paragraph (1)(B)” for “or section 401”.
+    Subsec. (a)(2). [Pub. L. 93–406][/us/pl/93/406], § 2003(b)(3), substituted “or paragraph (1)(B)” for “or section 401”.
 
-    Subsec. (c). [Pub. L. 93–406, § 2003(b)(4)][/us/pl/93/406/s2003/b/4], substituted “or subsection (a)(1)(B)” for “or section 401”.
+    Subsec. (c). [Pub. L. 93–406][/us/pl/93/406], § 2003(b)(4), substituted “or subsection (a)(1)(B)” for “or section 401”.
 
-    Subsec. (g). [Pub. L. 93–406, § 2003(b)(5)][/us/pl/93/406/s2003/b/5], struck out subsec. (g) which covered trusts benefiting certain owner-employees.
+    Subsec. (g). [Pub. L. 93–406][/us/pl/93/406], § 2003(b)(5), struck out subsec. (g) which covered trusts benefiting certain owner-employees.
 
     1969—Subsec. (a)(1)(A). [Pub. L. 91–172][/us/pl/91/172], §§ 101(j)(7), 121(b)(6)(B)(ii), redesignated subpar. (B) as (A) and inserted reference to section 501(c)(18). Former subpar. (A), referring to organizations described in section 501(c)(3) and to prohibited transactions engaged in after July 1, 1950, was struck out.
 
-    Subsec. (a)(1)(B). [Pub. L. 91–172, § 101(j)(7)][/us/pl/91/172/s101/j/7], redesignated subpar. (C) as (B). Former subpar. (B), referring to organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
+    Subsec. (a)(1)(B). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(7), redesignated subpar. (C) as (B). Former subpar. (B), referring to organizations described in section 501(c)(17) was amended by addition of a reference to section 501(c)(18), and redesignated as subpar. (A).
 
     Subsec. (a)(1)(C). [Pub. L. 91–172][/us/pl/91/172], §§ 101(j)(7), 121(b)(6)(B)(i), added subpar. (C). Former subpar. (C), dealing with organizations described in section 401(a) and with prohibited transactions engaged in after Mar. 1, 1954, was redesignated as subpar. (B).
 
     Subsec. (a)(2). [Pub. L. 91–172][/us/pl/91/172], §§ 101(j)(8), 121(b)(6)(B)(ii), struck out reference to organizations described in section 501(c)(3), and inserted references to organizations described in section 501(c)(18).
 
-    Subsec. (b). [Pub. L. 91–172, § 101(j)(14)][/us/pl/91/172/s101/j/14], redesignated subsec. (c) as (b). Former subsec. (b), setting out the organizations to which section applied, was struck out.
+    Subsec. (b). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(14), redesignated subsec. (c) as (b). Former subsec. (b), setting out the organizations to which section applied, was struck out.
 
     Subsec. (c). [Pub. L. 91–172][/us/pl/91/172], §§ 101(j)(9), (14), 121(b)(6)(B)(ii), redesignated subsec. (d) as (c), struck out reference to organizations described in section 501(c)(3), and inserted reference to organizations described in section 501(c)(17). Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 91–172, § 101(j)(10)][/us/pl/91/172/s101/j/10], (14), redesignated subsec. (g) as (d) and substituted “subsection (b)(1)” for “subsection (c)(1).” Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(10), (14), redesignated subsec. (g) as (d) and substituted “subsection (b)(1)” for “subsection (c)(1).” Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 91–172, § 101(j)(11)][/us/pl/91/172/s101/j/11], (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”. Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
+    Subsec. (e). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(11), (14), redesignated subsec. (h) as (e), modified heading to read: “Special rules”, substituted “subsection (b)(1)” for “subsection (c)(1)” in text preceding par. (1) and in par. (3), and in text preceding par. (1) struck out “acquired by a trust described in section 401(a) or section 501(c)(17)”. Former subsec. (e), covering the disallowance of certain charitable deductions, was struck out.
 
-    Subsec. (f). [Pub. L. 91–172, § 101(j)(12)][/us/pl/91/172/s101/j/12], (14), redesignated subsec. (i) as (f) and substituted “Subsection (b)(1)” for “Subsection (c)(1)” and “subsection (e)” for “subsection (h)”. Former subsec. (f), defining “gift or bequest”, was struck out.
+    Subsec. (f). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(12), (14), redesignated subsec. (i) as (f) and substituted “Subsection (b)(1)” for “Subsection (c)(1)” and “subsection (e)” for “subsection (h)”. Former subsec. (f), defining “gift or bequest”, was struck out.
 
-    Subsec. (g). [Pub. L. 91–172, § 101(j)(13)][/us/pl/91/172/s101/j/13], (14), redesignated subsec. (j) as (g) and substituted “subsection (b)” for “subsection (c)” in par. (1). Former subsec. (g) redesignated (d).
+    Subsec. (g). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(13), (14), redesignated subsec. (j) as (g) and substituted “subsection (b)” for “subsection (c)” in par. (1). Former subsec. (g) redesignated (d).
 
-    Subsecs. (h) to (j). [Pub. L. 91–172, § 101(j)(14)][/us/pl/91/172/s101/j/14], redesignated subsecs. (h), (i), and (j) as (e), (f), and (g), respectively. Former subsecs. (e) and (f) were struck out and former subsec. (g) was redesignated (d).
+    Subsecs. (h) to (j). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(14), redesignated subsecs. (h), (i), and (j) as (e), (f), and (g), respectively. Former subsecs. (e) and (f) were struck out and former subsec. (g) was redesignated (d).
 
     1962—Subsec. (j). [Pub. L. 87–792][/us/pl/87/792] added subsec. (j).
 
-    1960—Subsec. (a)(1). [Pub. L. 86–667, § 2(a)(1)][/us/pl/86/667/s2/a/1], denied exemption to an organization described in section 501(c)(17) if it has engaged in a prohibited transaction after Dec. 31, 1959.
+    1960—Subsec. (a)(1). [Pub. L. 86–667][/us/pl/86/667], § 2(a)(1), denied exemption to an organization described in section 501(c)(17) if it has engaged in a prohibited transaction after Dec. 31, 1959.
 
-    Subsecs. (a)(2), (b), (d). [Pub. L. 86–667, § 2(a)(2)][/us/pl/86/667/s2/a/2], (b), (c), included organizations described in section 501(c)(17).
+    Subsecs. (a)(2), (b), (d). [Pub. L. 86–667][/us/pl/86/667], § 2(a)(2), (b), (c), included organizations described in section 501(c)(17).
 
-    Subsec. (h). [Pub. L. 86–667, § 2(d)][/us/pl/86/667/s2/d], included trusts described in section 501(c)(17).
+    Subsec. (h). [Pub. L. 86–667][/us/pl/86/667], § 2(d), included trusts described in section 501(c)(17).
 
-    1958—Subsec. (h). [Pub. L. 85–866, § 30(a)][/us/pl/85/866/s30/a], added subsec. (h).
+    1958—Subsec. (h). [Pub. L. 85–866][/us/pl/85/866], § 30(a), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 85–866, § 30(b)][/us/pl/85/866/s30/b], added subsec. (i).
+    Subsec. (i). [Pub. L. 85–866][/us/pl/85/866], § 30(b), added subsec. (i).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 30(c)][/us/pl/85/866/s30/c], Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 30(c), Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -198,53 +198,53 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F22
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F166
-[/us/pl/85/866/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1629
-[/us/pl/86/667/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs2
+[/us/pl/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667
 [/us/stat/74/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F535
-[/us/pl/87/792/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs6
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/stat/76/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F827
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F527
-[/us/pl/93/406/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F978
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/101/508/s11801/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F22
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
-[/us/pl/113/295/s221/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
-[/us/pl/113/295/s221/a/63/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FA
-[/us/pl/113/295/s221/a/63/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FB
-[/us/pl/113/295/s221/a/63/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FC
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/406/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F1
-[/us/pl/93/406/s2003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F2
-[/us/pl/93/406/s2003/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F3
-[/us/pl/93/406/s2003/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F4
-[/us/pl/93/406/s2003/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F5
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/91/172/s101/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F7
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/91/172/s101/j/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F14
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/91/172/s101/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F10
-[/us/pl/91/172/s101/j/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F11
-[/us/pl/91/172/s101/j/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F12
-[/us/pl/91/172/s101/j/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F13
-[/us/pl/91/172/s101/j/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F14
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
-[/us/pl/86/667/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs2%2Fa%2F1
-[/us/pl/86/667/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs2%2Fa%2F2
-[/us/pl/86/667/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs2%2Fd
-[/us/pl/85/866/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fa
-[/us/pl/85/866/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fb
+[/us/pl/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667
+[/us/pl/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667
+[/us/pl/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -264,9 +264,9 @@
 [/us/pl/86/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667
 [/us/pl/86/667/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs6
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
-[/us/pl/85/866/s30/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1631
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb

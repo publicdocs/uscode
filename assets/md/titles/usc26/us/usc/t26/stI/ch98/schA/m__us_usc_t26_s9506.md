@@ -33,7 +33,7 @@
 
             Not more than ½ of the cost of any construction to which section 102(a) of the Water Resources Development Act of 1986 applies (as in effect on the date of the enactment of this section) may be paid from the Inland Waterways Trust Fund.
 
-(Added [Pub. L. 99–662, title XIV, § 1405(a)][/us/pl/99/662/s1405/a], Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271]; amended [Pub. L. 99–499, title V, § 521(b)(3)][/us/pl/99/499/s521/b/3], Oct. 17, 1986, [100 Stat. 1778][/us/stat/100/1778]; [Pub. L. 100–647, title I, § 1018(u)(18)][/us/pl/100/647/s1018/u/18], Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591].)
+(Added [Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1405(a), Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271]; amended [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 521(b)(3), Oct. 17, 1986, [100 Stat. 1778][/us/stat/100/1778]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(18), Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647] made technical corrections to directory language of [Pub. L. 99–499, § 521(b)(3)][/us/pl/99/499/s521/b/3], see 1986 Amendment note below.
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647] made technical corrections to directory language of [Pub. L. 99–499][/us/pl/99/499], § 521(b)(3), see 1986 Amendment note below.
 
-    1986—Subsec. (b). [Pub. L. 99–499][/us/pl/99/499], as amended by [Pub. L. 100–647, § 1018(u)(18)][/us/pl/100/647/s1018/u/18], inserted at end “The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).”
+    1986—Subsec. (b). [Pub. L. 99–499][/us/pl/99/499], as amended by [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(18), inserted at end “The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–662, title XIV, § 1405(d)][/us/pl/99/662/s1405/d], Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271], provided that:
+[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], § 1405(d), Nov. 17, 1986, [100 Stat. 4271][/us/stat/100/4271], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/99/662/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1405%2Fa
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4271
-[/us/pl/99/499/s521/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fb%2F3
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1778
-[/us/pl/100/647/s1018/u/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F18
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3591
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
 [/us/usc/t26/s9506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9506
@@ -87,9 +87,9 @@
 [/us/usc/t26/s9506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9506
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/499/s521/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fb%2F3
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/100/647/s1018/u/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F18
+[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
@@ -97,7 +97,7 @@
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs521%2Fe
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/99/662/s1405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs1405%2Fd
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4271
 [/us/usc/t33/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1801
 

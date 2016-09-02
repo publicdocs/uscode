@@ -181,11 +181,11 @@
 
         Any action brought under any provision of this subchapter shall be conducted in accordance with such rules of practice and procedure as may be prescribed by the Court in which the action is brought.
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 660][/us/stat/96/660]; amended [Pub. L. 98–369, div. A, title VII, § 714(p)(2)(A)][/us/pl/98/369/s714/p/2/A], July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 99–514, title XVIII, § 1875(d)(2)(A)][/us/pl/99/514/s1875/d/2/A], Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I, § 1018][/us/pl/100/647/s1018](o)(1), Nov. 10, 1988, [102 Stat. 3584][/us/stat/102/3584]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, [111 Stat. 1025–1028][/us/stat/111/1025-1028]; [Pub. L. 105–206, title III, § 3201(e)(2)][/us/pl/105/206/s3201/e/2], July 22, 1998, [112 Stat. 740][/us/stat/112/740]; [Pub. L. 110–172, § 11(a)(36)][/us/pl/110/172/s11/a/36], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 660][/us/stat/96/660]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(p)(2)(A), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1875(d)(2)(A), Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(o)(1), Nov. 10, 1988, [102 Stat. 3584][/us/stat/102/3584]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, [111 Stat. 1025–1028][/us/stat/111/1025-1028]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(e)(2), July 22, 1998, [112 Stat. 740][/us/stat/112/740]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(36), Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
 
  __Amendments__ 
 
@@ -193,29 +193,29 @@
 
     1998—Subsec. (c)(5)(A). [Pub. L. 105–206][/us/pl/105/206] substituted “section 6015” for “section 6013(e)”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–34, § 1237(c)(1)][/us/pl/105/34/s1237/c/1], substituted “paragraph (2) or (3)” for “paragraph (2)”.
+    1997—Subsec. (a)(1). [Pub. L. 105–34][/us/pl/105/34], § 1237(c)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 105–34, § 1238(b)(2)][/us/pl/105/34/s1238/b/2], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “affected items which require partner level determinations, or”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “affected items which require partner level determinations, or”.
 
-    Subsec. (a)(3). [Pub. L. 105–34, § 1237(a)][/us/pl/105/34/s1237/a], added par. (3).
+    Subsec. (a)(3). [Pub. L. 105–34][/us/pl/105/34], § 1237(a), added par. (3).
 
-    Subsec. (a)(3)(A). [Pub. L. 105–34, § 1238(b)(3)(A)][/us/pl/105/34/s1238/b/3/A], inserted “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)” after “partnership item”.
+    Subsec. (a)(3)(A). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(3)(A), inserted “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)” after “partnership item”.
 
-    Subsec. (a)(3)(B). [Pub. L. 105–34, § 1238(b)(3)(B)][/us/pl/105/34/s1238/b/3/B], inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
+    Subsec. (a)(3)(B). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(3)(B), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
 
-    Subsec. (c)(1)(C). [Pub. L. 105–34, § 1238(b)(4)][/us/pl/105/34/s1238/b/4], added subpar. (C).
+    Subsec. (c)(1)(C). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(4), added subpar. (C).
 
-    Subsec. (c)(2)(A). [Pub. L. 105–34, § 1238(b)(5)][/us/pl/105/34/s1238/b/5], inserted “or (C)” after “(1)(A)” in subpar. heading and substituted “subparagraph (A) or (C) of paragraph (1)” for “paragraph (1)(A)” in text.
+    Subsec. (c)(2)(A). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(5), inserted “or (C)” after “(1)(A)” in subpar. heading and substituted “subparagraph (A) or (C) of paragraph (1)” for “paragraph (1)(A)” in text.
 
-    Subsec. (c)(4). [Pub. L. 105–34, § 1238(b)(6)][/us/pl/105/34/s1238/b/6], inserted at end “In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.”
+    Subsec. (c)(4). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(6), inserted at end “In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.”
 
-    Subsec. (c)(5). [Pub. L. 105–34, § 1237(b)][/us/pl/105/34/s1237/b], added par. (5).
+    Subsec. (c)(5). [Pub. L. 105–34][/us/pl/105/34], § 1237(b), added par. (5).
 
-    Subsec. (c)(5)(A). [Pub. L. 105–34, § 1238(b)(3)(C)][/us/pl/105/34/s1238/b/3/C], inserted before period at end “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)”.
+    Subsec. (c)(5)(A). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(3)(C), inserted before period at end “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)”.
 
-    Subsec. (c)(5)(D). [Pub. L. 105–34, § 1238(b)(3)(D)][/us/pl/105/34/s1238/b/3/D], inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
+    Subsec. (c)(5)(D). [Pub. L. 105–34][/us/pl/105/34], § 1238(b)(3)(D), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
 
-    Subsec. (d)(6). [Pub. L. 105–34, § 1239(c)(1)][/us/pl/105/34/s1239/c/1], struck out “(or an affected item)” after “partnership item”.
+    Subsec. (d)(6). [Pub. L. 105–34][/us/pl/105/34], § 1239(c)(1), struck out “(or an affected item)” after “partnership item”.
 
     1992—Subsec. (g). [Pub. L. 102–572][/us/pl/102/572] substituted “Court of Federal Claims” for “Claims Court”.
 
@@ -235,7 +235,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1237(d)][/us/pl/105/34/s1237/d], Aug. 5, 1997, [111 Stat. 1026][/us/stat/111/1026], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1237(d), Aug. 5, 1997, [111 Stat. 1026][/us/stat/111/1026], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6503 of this title][/us/usc/t26/s6503]\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248]\].”
 
@@ -253,7 +253,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVIII, § 1875(d)(2)(C)][/us/pl/99/514/s1875/d/2/C], Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1875(d)(2)(C), Oct. 22, 1986, [100 Stat. 2896][/us/stat/100/2896], provided that: 
 
 > “The amendments made by this paragraph \[amending this section and sections 6213 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248]\].”
 
@@ -272,38 +272,38 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F660
-[/us/pl/98/369/s714/p/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FA
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F964
-[/us/pl/99/514/s1875/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F2%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2896
-[/us/pl/100/647/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3584
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1025-1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025-1028
-[/us/pl/105/206/s3201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fe%2F2
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F740
-[/us/pl/110/172/s11/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F36
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1237/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1237%2Fc%2F1
-[/us/pl/105/34/s1238/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F2
-[/us/pl/105/34/s1237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1237%2Fa
-[/us/pl/105/34/s1238/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F3%2FA
-[/us/pl/105/34/s1238/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F3%2FB
-[/us/pl/105/34/s1238/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F4
-[/us/pl/105/34/s1238/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F5
-[/us/pl/105/34/s1238/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F6
-[/us/pl/105/34/s1237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1237%2Fb
-[/us/pl/105/34/s1238/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F3%2FC
-[/us/pl/105/34/s1238/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fb%2F3%2FD
-[/us/pl/105/34/s1239/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fc%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -313,7 +313,7 @@
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fg%2F1
 [/us/usc/t26/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6015
-[/us/pl/105/34/s1237/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1237%2Fd
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1026
 [/us/usc/t26/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6503
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -330,7 +330,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1875/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F2%2FC
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2896
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

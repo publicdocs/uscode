@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, any refund (or advance payment with respect to a refundable credit) made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual (or any other individual) for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 
-(Added [Pub. L. 111–312, title VII, § 728(a)][/us/pl/111/312/s728/a], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; amended [Pub. L. 112–240, title I, § 103(d)][/us/pl/112/240/s103/d], Jan. 2, 2013, [126 Stat. 2320][/us/stat/126/2320].)
+(Added [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 728(a), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; amended [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 103(d), Jan. 2, 2013, [126 Stat. 2320][/us/stat/126/2320].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–312, title VII, § 728(c)][/us/pl/111/312/s728/c], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 728(c), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to amounts received after December 31, 2009.”
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/pl/111/312/s728/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs728%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
-[/us/pl/112/240/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fd
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2320
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s103/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs103%2Fe%2F2
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
-[/us/pl/111/312/s728/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs728%2Fc
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
 
 

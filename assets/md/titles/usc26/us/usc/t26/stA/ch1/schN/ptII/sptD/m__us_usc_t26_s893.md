@@ -37,7 +37,7 @@
 
         (2) any employee of a foreign government whose services are primarily in connection with a commercial activity (whether within or outside the United States) of the foreign government.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 284][/us/stat/68A/284]; [Pub. L. 100–647, title I, § 1012(t)(4)][/us/pl/100/647/s1012/t/4], Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 284][/us/stat/68A/284]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(t)(4), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527].)
 
  __Amendments__ 
 
@@ -56,7 +56,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F284
-[/us/pl/100/647/s1012/t/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ft%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

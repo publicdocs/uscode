@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], amended analysis to read as if amendment by [Pub. L. 107–16, § 542(e)(1)(D)][/us/pl/107/16/s542/e/1/D], had never been enacted. See 2001 Amendment note below.
+    2010—[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], amended analysis to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(e)(1)(D), had never been enacted. See 2001 Amendment note below.
 
-    2001—[Pub. L. 107–16, title V, § 542(e)(1)(D)][/us/pl/107/16/s542/e/1/D], June 7, 2001, [115 Stat. 85][/us/stat/115/85], inserted “and nonresident aliens” after “estates” in item 684.
+    2001—[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(e)(1)(D), June 7, 2001, [115 Stat. 85][/us/stat/115/85], inserted “and nonresident aliens” after “estates” in item 684.
 
-    1997—[Pub. L. 105–34, title XI, § 1131(c)(6)][/us/pl/105/34/s1131/c/6], title XIII, § 1309(b), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], 1043, added items 684 and 685.
+    1997—[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(c)(6), title XIII, § 1309(b), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], 1043, added items 684 and 685.
 
-    1976—[Pub. L. 94–455, title XXI, § 2131(e)(2)][/us/pl/94/455/s2131/e/2], Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924], substituted “Use of trust as an exchange fund” for “Applicability of provisions” in item 683.
+    1976—[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2131(e)(2), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924], substituted “Use of trust as an exchange fund” for “Applicability of provisions” in item 683.
 
 ----------
 
@@ -82,14 +82,14 @@
 ----------
 ----------
 
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
-[/us/pl/107/16/s542/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F1%2FD
-[/us/pl/107/16/s542/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F1%2FD
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F85
-[/us/pl/105/34/s1131/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F6
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
-[/us/pl/94/455/s2131/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2131%2Fe%2F2
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1924
 
 

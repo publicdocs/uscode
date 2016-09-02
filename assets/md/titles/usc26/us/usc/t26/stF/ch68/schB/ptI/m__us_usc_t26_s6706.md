@@ -27,7 +27,7 @@
 
         Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(c)(1)][/us/pl/98/369/s41/c/1], July 18, 1984, [98 Stat. 555][/us/stat/98/555].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(c)(1), July 18, 1984, [98 Stat. 555][/us/stat/98/555].)
 
  __Effective Date__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fc%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F555
 [/us/pl/98/369/s44/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44%2Fh
 [/us/usc/t26/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1271

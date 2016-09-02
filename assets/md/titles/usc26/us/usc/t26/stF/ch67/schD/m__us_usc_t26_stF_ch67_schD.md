@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(22)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647, substituted “Requirements” for “requirements” in subchapter heading.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(22)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647, substituted “Requirements” for “requirements” in subchapter heading.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

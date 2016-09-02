@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter C related to tax on hazardous wastes, consisted of sections 4681 and 4682, prior to repeal by [Pub. L. 99–499, title V, § 514(a)(1)][/us/pl/99/499/s514/a/1], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767].
+    A prior subchapter C related to tax on hazardous wastes, consisted of sections 4681 and 4682, prior to repeal by [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(a)(1), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767].
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/99/499/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fa%2F1
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 
 

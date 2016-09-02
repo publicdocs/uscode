@@ -23,7 +23,7 @@
 
     then such loss shall be treated as an ordinary loss.
 
-(Added [Pub. L. 85–866, title I, § 57(a)][/us/pl/85/866/s57/a], Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; amended [Pub. L. 91–172, title IV, § 433(b)][/us/pl/91/172/s433/b], Dec. 30, 1969, [83 Stat. 624][/us/stat/83/624]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(F)][/us/pl/94/455/s1901/b/3/F], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793].)
+(Added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 57(a), Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; amended [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 433(b), Dec. 30, 1969, [83 Stat. 624][/us/stat/83/624]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(3)(F), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793].)
 
  __References in Text__ 
 
@@ -54,11 +54,11 @@
 ----------
 ----------
 
-[/us/pl/85/866/s57/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs57%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1645
-[/us/pl/91/172/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs433%2Fb
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F624
-[/us/pl/94/455/s1901/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FF
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XX, § 2001(c)(1)(N)(i)][/us/pl/94/455/s2001/c/1/N/i], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853], substituted “Imposition and rate of tax” for “Rate of tax” in item 2001.
+    1976—[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(1)(N)(i), Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853], substituted “Imposition and rate of tax” for “Rate of tax” in item 2001.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2001/c/1/N/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FN%2Fi
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1853
 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptB/m__us_usc_t26_s451.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptB/m__us_usc_t26_s453.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs452)
 
-## \[§ 452. Repealed. [June 15, 1955, ch. 143, § 1(a)][/us/act/1955-06-15/ch143/s1/a], [69 Stat. 134][/us/stat/69/134]\]
+## \[§ 452. Repealed. [June 15, 1955, ch. 143][/us/act/1955-06-15/ch143], § 1(a), [69 Stat. 134][/us/stat/69/134]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 152][/us/stat/68A/152], related to prepaid income.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1955-06-15/ch143/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch143%2Fs1%2Fa
+[/us/act/1955-06-15/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch143
 [/us/stat/69/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F134
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F152

@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–188, title I, § 1612(b)][/us/pl/104/188/s1612/b], Aug. 20, 1996, [110 Stat. 1847][/us/stat/110/1847], added item 817A.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1612(b), Aug. 20, 1996, [110 Stat. 1847][/us/stat/110/1847], added item 817A.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1612%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1847
 
 

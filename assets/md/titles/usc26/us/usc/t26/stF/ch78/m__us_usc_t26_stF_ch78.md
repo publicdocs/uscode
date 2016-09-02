@@ -77,7 +77,7 @@ Amendments  </td>
 
 </table>
 
-    [Pub. L. 94–455, title XIX, § 1906(b)(13)][/us/pl/94/455/s1906/b/13], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], struck out subchapter C relating to supervision of operations of certain manufacturers.
+    [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], struck out subchapter C relating to supervision of operations of certain manufacturers.
 
 ----------
 
@@ -86,7 +86,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/94/455/s1906/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 
 

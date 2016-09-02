@@ -131,7 +131,7 @@
 
         (3) For reduction of credit with respect to dividends paid out of post-1986 undistributed earnings for years for which certain information is not furnished, see section 6038.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 286][/us/stat/68A/286]; [Pub. L. 86–780, § 6(b)(2)][/us/pl/86/780/s6/b/2], Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016]; [Pub. L. 87–834, § 9(a)][/us/pl/87/834/s9/a], Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999]; [Pub. L. 91–684][/us/pl/91/684], §§ 1, 2, Jan. 12, 1971, [84 Stat. 2068][/us/stat/84/2068], 2069; [Pub. L. 94–12, title VI, § 602(c)(6)][/us/pl/94/12/s602/c/6], Mar. 29, 1975, [89 Stat. 59][/us/stat/89/59]; [Pub. L. 94–455, title X, § 1033(a)][/us/pl/94/455/s1033/a], Oct. 4, 1976, [90 Stat. 1626][/us/stat/90/1626]; [Pub. L. 99–514, title XII, § 1202(a)][/us/pl/99/514/s1202/a], Oct. 22, 1986, [100 Stat. 2528][/us/stat/100/2528]; [Pub. L. 100–647, title I, § 1012(b)(1)][/us/pl/100/647/s1012/b/1], (2), Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496]; [Pub. L. 105–34, title XI][/us/pl/105/34], §§ 1113(a), 1163(a), Aug. 5, 1997, [111 Stat. 970][/us/stat/111/970], 987; [Pub. L. 108–357, title IV, § 405(a)][/us/pl/108/357/s405/a], Oct. 22, 2004, [118 Stat. 1498][/us/stat/118/1498].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 286][/us/stat/68A/286]; [Pub. L. 86–780][/us/pl/86/780], § 6(b)(2), Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016]; [Pub. L. 87–834][/us/pl/87/834], § 9(a), Oct. 16, 1962, [76 Stat. 999][/us/stat/76/999]; [Pub. L. 91–684][/us/pl/91/684], §§ 1, 2, Jan. 12, 1971, [84 Stat. 2068][/us/stat/84/2068], 2069; [Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(c)(6), Mar. 29, 1975, [89 Stat. 59][/us/stat/89/59]; [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1033(a), Oct. 4, 1976, [90 Stat. 1626][/us/stat/90/1626]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1202(a), Oct. 22, 1986, [100 Stat. 2528][/us/stat/100/2528]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(b)(1), (2), Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], §§ 1113(a), 1163(a), Aug. 5, 1997, [111 Stat. 970][/us/stat/111/970], 987; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 405(a), Oct. 22, 2004, [118 Stat. 1498][/us/stat/118/1498].)
 
  __References in Text__ 
 
@@ -143,37 +143,37 @@
 
     2004—Subsec. (c)(7), (8). [Pub. L. 108–357][/us/pl/108/357] added par. (7) and redesignated former par. (7) as (8).
 
-    1997—Subsec. (b). [Pub. L. 105–34, § 1113(a)(1)][/us/pl/105/34/s1113/a/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to deemed taxes increased in case of certain 2nd and 3rd tier foreign corporations.
+    1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34], § 1113(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to deemed taxes increased in case of certain 2nd and 3rd tier foreign corporations.
 
-    Subsec. (c)(2)(B). [Pub. L. 105–34, § 1163(a)][/us/pl/105/34/s1163/a], substituted “attributable to” for “deemed paid with respect to”.
+    Subsec. (c)(2)(B). [Pub. L. 105–34][/us/pl/105/34], § 1163(a), substituted “attributable to” for “deemed paid with respect to”.
 
-    Subsec. (c)(3). [Pub. L. 105–34, § 1113(a)(2)(C)][/us/pl/105/34/s1113/a/2/C], substituted “where foreign corporation first qualifies” for “where domestic corporation acquires 10 percent of foreign corporation” in heading.
+    Subsec. (c)(3). [Pub. L. 105–34][/us/pl/105/34], § 1113(a)(2)(C), substituted “where foreign corporation first qualifies” for “where domestic corporation acquires 10 percent of foreign corporation” in heading.
 
-    [Pub. L. 105–34, § 1113(a)(2)(D)][/us/pl/105/34/s1113/a/2/D], struck out “ownership” after “on which the” and “in which such” in subpar. (A) and before “requirements of this subparagraph” in introductory provisions of subpar. (B).
+    [Pub. L. 105–34][/us/pl/105/34], § 1113(a)(2)(D), struck out “ownership” after “on which the” and “in which such” in subpar. (A) and before “requirements of this subparagraph” in introductory provisions of subpar. (B).
 
-    Subsec. (c)(3)(B). [Pub. L. 105–34, § 1113(a)(2)(A)][/us/pl/105/34/s1113/a/2/A], inserted “or” at end of cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+    Subsec. (c)(3)(B). [Pub. L. 105–34][/us/pl/105/34], § 1113(a)(2)(A), inserted “or” at end of cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
     “(ii) the requirements of subsection (b)(3)(A) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (i), or
 
     “(iii) the requirements of subsection (b)(3)(B) are met with respect to such foreign corporation and 10 percent or more of the voting stock of such foreign corporation is owned by another foreign corporation described in clause (ii).”
 
-    Subsec. (c)(4)(B). [Pub. L. 105–34, § 1113(a)(2)(B)][/us/pl/105/34/s1113/a/2/B], substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
+    Subsec. (c)(4)(B). [Pub. L. 105–34][/us/pl/105/34], § 1113(a)(2)(B), substituted “sixth tier foreign corporation” for “3rd foreign corporation”.
 
-    1988—Subsec. (c)(1). [Pub. L. 100–647, § 1012(b)(2)][/us/pl/100/647/s1012/b/2], substituted “sections 964(a) and 986” for “sections 964 and 986”.
+    1988—Subsec. (c)(1). [Pub. L. 100–647][/us/pl/100/647], § 1012(b)(2), substituted “sections 964(a) and 986” for “sections 964 and 986”.
 
-    Subsec. (c)(7). [Pub. L. 100–647, § 1012(b)(1)][/us/pl/100/647/s1012/b/1], substituted “section 960” for “secton 960” and “this section and section 960” for second reference to “this section”.
+    Subsec. (c)(7). [Pub. L. 100–647][/us/pl/100/647], § 1012(b)(1), substituted “section 960” for “secton 960” and “this section and section 960” for second reference to “this section”.
 
     1986—[Pub. L. 99–514][/us/pl/99/514] amended section generally, substituting “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” as section catchline and substituting present provisions generally relating to post-1986 earnings and taxes for former provisions which had provided in subsec. (a) for a general rule with respect to treatment of taxes paid by foreign corporations, in subsec. (b) for treatment of taxes by a foreign subsidiary of first and second foreign corporations, in subsec. (c) for rules defining accumulated profits and determining accounting periods, and in subsec. (d) for cross references.
 
-    1976—[Pub. L. 94–455, § 1033(a)][/us/pl/94/455/s1033/a], struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 1033(a), struck out provisions by which dividends from less developed country corporations are not grossed-up by the amount of foreign taxes paid on the underlying income and the deemed-paid foreign tax credits attributable to those dividends are reduced proportionately, struck out subsec. (d) which defined less developed country corporations, and redesignated subsec. (e) as (d).
 
     1975—Subsec. (d). [Pub. L. 94–12][/us/pl/94/12] substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section 955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
 
-    1971—Subsec. (b). [Pub. L. 91–684, § 1][/us/pl/91/684/s1], substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
+    1971—Subsec. (b). [Pub. L. 91–684][/us/pl/91/684], § 1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
 
-    Subsec. (c)(1)(A). [Pub. L. 91–684, § 2(1)][/us/pl/91/684/s2/1], substituted “(b)(1)(A), and (b)(2)(A)” for “and (b)(1)”.
+    Subsec. (c)(1)(A). [Pub. L. 91–684][/us/pl/91/684], § 2(1), substituted “(b)(1)(A), and (b)(2)(A)” for “and (b)(1)”.
 
-    Subsec. (c)(1)(B). [Pub. L. 91–684, § 2(2)][/us/pl/91/684/s2/2], substituted “(b)(1)(B), and (b)(2)(B)” for “and (b)(2)”.
+    Subsec. (c)(1)(B). [Pub. L. 91–684][/us/pl/91/684], § 2(2), substituted “(b)(1)(B), and (b)(2)(B)” for “and (b)(2)”.
 
     1962—Subsec. (a). [Pub. L. 87–834][/us/pl/87/834] limited provisions which required a domestic corporation owning at least 10 per cent of the voting stock of a foreign corporation from which it receives dividends in any taxable year to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States which the amount of such dividends bears to the amount of accumulated profits to those cases where a foreign corporation paid such dividends out of accumulated profits of a year for which such foreign corporation is a less developed country corporation, and inserted provisions requiring, in the case of a domestic corporation which owns at least 10 percent of the voting stock of a foreign corporation from which it receives dividends in a taxable year, to the extent such dividends are paid by such foreign corporation out of accumulated profits of a year for which such foreign corporation is not a less developed country corporation, to be deemed to have paid the same proportion of any income, war profits, or excess profits taxes paid or deemed to be paid by such foreign corporation to any foreign country or to any possession of the United States on or with respect to such accumulated profits, which the amount of such dividends (determined without regard to section 78) bears to the amount of such accumulated profits in excess of such income, war profits, and excess profits taxes (other than those deemed paid).
 
@@ -199,7 +199,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1113(c)][/us/pl/105/34/s1113/c], Aug. 5, 1997, [111 Stat. 971][/us/stat/111/971], provided that:
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1113(c), Aug. 5, 1997, [111 Stat. 971][/us/stat/111/971], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -209,7 +209,7 @@
 
 >     In the case of any chain of foreign corporations described in clauses (i) and (ii) of section 902(b)(2)(B) of the Internal Revenue Code of 1986 (as amended by this section), no liquidation, reorganization, or similar transaction in a taxable year beginning after the date of the enactment of this Act shall have the effect of permitting taxes to be taken into account under section 902 of the Internal Revenue Code of 1986 which could not have been taken into account under such section but for such transaction.”
 
-[Pub. L. 105–34, title XI, § 1163(c)][/us/pl/105/34/s1163/c], Aug. 5, 1997, [111 Stat. 987][/us/stat/111/987], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1163(c), Aug. 5, 1997, [111 Stat. 987][/us/stat/111/987], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 904 of this title][/us/usc/t26/s904]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -219,13 +219,13 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XII, § 1202(e)][/us/pl/99/514/s1202/e], Oct. 22, 1986, [100 Stat. 2531][/us/stat/100/2531], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1202(e), Oct. 22, 1986, [100 Stat. 2531][/us/stat/100/2531], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 960 and 6038 of this title\] shall apply to distributions by foreign corporations out of, and to inclusions under section 951(a) of the Internal Revenue Code of 1986 attributable to, earnings and profits for taxable years beginning after December 31, 1986.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title X, § 1033(c)][/us/pl/94/455/s1033/c], Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1033(c), Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 78, 535, 545, and 960 of this title\] shall apply—
 
@@ -241,13 +241,13 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–684, § 3][/us/pl/91/684/s3], Jan. 12, 1971, [84 Stat. 2069][/us/stat/84/2069], provided that: 
+[Pub. L. 91–684][/us/pl/91/684], § 3, Jan. 12, 1971, [84 Stat. 2069][/us/stat/84/2069], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply with respect to all taxable years of domestic corporations, ending after the date of enactment of this Act \[Jan. 12, 1971\], but only in respect of dividends paid by one corporation to another corporation after the date of the enactment of this Act.”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–834, § 9(e)][/us/pl/87/834/s9/e], Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 9(e), Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001], provided that: 
 
 > “The amendments made by this section \[enacting [section 78 of this title][/us/usc/t26/s78] and amending this section and sections 535, 545, 861, and 901 of this title\] shall apply—
 
@@ -263,7 +263,7 @@
 
  __Increase in Earnings and Profits of Foreign Corporations Under__  __[__  __Section 1023(e)(3)(C) of Pub. L. 99–514__  __][/us/pl/99/514/s1023/e/3/C]__ 
 
-[Pub. L. 100–647, title I, § 1012(b)(3)][/us/pl/100/647/s1012/b/3], Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(b)(3), Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496], provided that: 
 
 > “For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note under [section 846 of this title][/us/usc/t26/s846]\] shall be taken into account ratably over the 10-year period beginning with the corporation’s first taxable year beginning after December 31, 1986.”
 
@@ -276,42 +276,42 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F286
-[/us/pl/86/780/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs6%2Fb%2F2
+[/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/stat/74/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1016
-[/us/pl/87/834/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs9%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F999
 [/us/pl/91/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684
 [/us/stat/84/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2068
-[/us/pl/94/12/s602/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fc%2F6
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F59
-[/us/pl/94/455/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1626
-[/us/pl/99/514/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1202%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2528
-[/us/pl/100/647/s1012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fb%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3496
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F970
-[/us/pl/108/357/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs405%2Fa
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1498
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2085
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/105/34/s1113/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fa%2F1
-[/us/pl/105/34/s1163/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1163%2Fa
-[/us/pl/105/34/s1113/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fa%2F2%2FC
-[/us/pl/105/34/s1113/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fa%2F2%2FD
-[/us/pl/105/34/s1113/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fa%2F2%2FA
-[/us/pl/105/34/s1113/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fa%2F2%2FB
-[/us/pl/100/647/s1012/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fb%2F2
-[/us/pl/100/647/s1012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fb%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/94/455/s1033/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fa
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
-[/us/pl/91/684/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684%2Fs1
-[/us/pl/91/684/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684%2Fs2%2F1
-[/us/pl/91/684/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684%2Fs2%2F2
+[/us/pl/91/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684
+[/us/pl/91/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684
+[/us/pl/91/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
@@ -321,36 +321,36 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs405%2Fc
 [/us/usc/t26/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs901
-[/us/pl/105/34/s1113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1113%2Fc
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F971
 [/us/usc/t26/s960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs960
-[/us/pl/105/34/s1163/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1163%2Fc
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F987
 [/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1202%2Fe
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2531
-[/us/pl/94/455/s1033/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fc
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1628
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/usc/t26/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs951%2Fb
 [/us/pl/94/12/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Ff
 [/us/usc/t26/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs955
-[/us/pl/91/684/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684%2Fs3
+[/us/pl/91/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F684
 [/us/stat/84/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2069
-[/us/pl/87/834/s9/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs9%2Fe
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1001
 [/us/usc/t26/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs78
 [/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/pl/86/780/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs6%2Fc
 [/us/usc/t26/s6038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6038
 [/us/pl/99/514/s1023/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fe%2F3%2FC
-[/us/pl/100/647/s1012/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fb%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3496
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs846

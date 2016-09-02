@@ -35,7 +35,7 @@
 
         For special rules in determining inclusion of original issue discount on regular interests, see section 1272(a)(6).
 
-(Added [Pub. L. 99–514, title VI, § 671(a)][/us/pl/99/514/s671/a], Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309].)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 671(a), Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2309
 
 

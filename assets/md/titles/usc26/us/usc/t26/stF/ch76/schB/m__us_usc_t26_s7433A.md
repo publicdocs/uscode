@@ -31,7 +31,7 @@
 
         (4) Subsections (c), (d)(1), and (e) of section 7433 shall not apply.
 
-(Added [Pub. L. 108–357, title VIII, § 881(b)(1)][/us/pl/108/357/s881/b/1], Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(b)(1), Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s881/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fb%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1626
 
 

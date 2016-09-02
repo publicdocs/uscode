@@ -69,7 +69,7 @@
 
             (D) in any other case, the date on which such event occurred.
 
-(Added [Pub. L. 96–596, § 2(c)(1)][/us/pl/96/596/s2/c/1], Dec. 24, 1980, [94 Stat. 3473][/us/stat/94/3473], § 4962; renumbered § 4963, [Pub. L. 98–369, div. A, title III, § 305(a)][/us/pl/98/369/s305/a], July 18, 1984, [98 Stat. 783][/us/stat/98/783]; amended [Pub. L. 100–203, title X, § 10712(b)(3)][/us/pl/100/203/s10712/b/3], Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467]; [Pub. L. 104–168, title XIII, § 1311(c)(2)][/us/pl/104/168/s1311/c/2], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 109–280, title XII, § 1231(b)(1)][/us/pl/109/280/s1231/b/1], Aug. 17, 2006, [120 Stat. 1098][/us/stat/120/1098].)
+(Added [Pub. L. 96–596][/us/pl/96/596], § 2(c)(1), Dec. 24, 1980, [94 Stat. 3473][/us/stat/94/3473], § 4962; renumbered § 4963, [Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 305(a), July 18, 1984, [98 Stat. 783][/us/stat/98/783]; amended [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10712(b)(3), Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467]; [Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1311(c)(2), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1231(b)(1), Aug. 17, 2006, [120 Stat. 1098][/us/stat/120/1098].)
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1231(c)][/us/pl/109/280/s1231/c], Aug. 17, 2006, [120 Stat. 1098][/us/stat/120/1098], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1231(c), Aug. 17, 2006, [120 Stat. 1098][/us/stat/120/1098], provided that: 
 
 > “The amendments made by this section \[enacting subchapter G of this chapter and amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -104,21 +104,21 @@
 ----------
 ----------
 
-[/us/pl/96/596/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fc%2F1
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3473
-[/us/pl/98/369/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs305%2Fa
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F783
-[/us/pl/100/203/s10712/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10712%2Fb%2F3
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-467
-[/us/pl/104/168/s1311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1311%2Fc%2F2
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1478
-[/us/pl/109/280/s1231/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1231%2Fb%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1098
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t26/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4955
-[/us/pl/109/280/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1231%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1098
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168

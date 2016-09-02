@@ -145,7 +145,7 @@
 
             For purposes of this section, the term “1988 last signatory operator” means a last signatory operator which is a 1988 agreement operator.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3053][/us/stat/106/3053]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432], §§ 211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023], 3025, 3026.)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3053][/us/stat/106/3053]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], §§ 211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023], 3025, 3026.)
 
  __References in Text__ 
 
@@ -153,19 +153,19 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a)(3), (4). [Pub. L. 109–432, § 212(b)(1)][/us/pl/109/432/s212/b/1], added pars. (3) and (4).
+    2006—Subsec. (a)(3), (4). [Pub. L. 109–432][/us/pl/109/432], § 212(b)(1), added pars. (3) and (4).
 
-    Subsec. (d)(1). [Pub. L. 109–432, § 212(b)(2)(A)][/us/pl/109/432/s212/b/2/A], amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
+    Subsec. (d)(1). [Pub. L. 109–432][/us/pl/109/432], § 212(b)(2)(A), amended text of par. (1) generally. Prior to amendment, par. (1) provided that the contribution requirements of all 1988 last signatory operators include the payment of an annual prefunding premium for all eligible and potentially eligible beneficiaries, payment of a monthly per beneficiary premium, and provision of security.
 
-    Subsec. (d)(2)(B). [Pub. L. 109–432, § 212(b)(2)(B)(i)][/us/pl/109/432/s212/b/2/B/i], substituted “backstop” for “prefunding”.
+    Subsec. (d)(2)(B). [Pub. L. 109–432][/us/pl/109/432], § 212(b)(2)(B)(i), substituted “backstop” for “prefunding”.
 
-    Subsec. (d)(3). [Pub. L. 109–432, § 212(b)(2)(B)(ii)][/us/pl/109/432/s212/b/2/B/ii], substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
+    Subsec. (d)(3). [Pub. L. 109–432][/us/pl/109/432], § 212(b)(2)(B)(ii), substituted “paragraph (1)(A)” for “paragraph (1)(B)”.
 
-    Subsec. (d)(4). [Pub. L. 109–432, § 211(c)][/us/pl/109/432/s211/c], inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
+    Subsec. (d)(4). [Pub. L. 109–432][/us/pl/109/432], § 211(c), inserted at end “The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title II, § 212(b)(2)(C)][/us/pl/109/432/s212/b/2/C], Dec. 20, 2006, [120 Stat. 3026][/us/stat/120/3026], provided that: 
+[Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 212(b)(2)(C), Dec. 20, 2006, [120 Stat. 3026][/us/stat/120/3026], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall apply to fiscal years beginning on or after October 1, 2010.”
 
@@ -185,19 +185,19 @@
 [/us/usc/t30/s1232/h/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh%2F2%2FC%2Fi
 [/us/usc/t30/s1232/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh%2F2%2FC
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3053
-[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3023
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/109/432/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fb%2F1
-[/us/pl/109/432/s212/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fb%2F2%2FA
-[/us/pl/109/432/s212/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fb%2F2%2FB%2Fi
-[/us/pl/109/432/s212/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fb%2F2%2FB%2Fii
-[/us/pl/109/432/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs211%2Fc
-[/us/pl/109/432/s212/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fb%2F2%2FC
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3026
 
 

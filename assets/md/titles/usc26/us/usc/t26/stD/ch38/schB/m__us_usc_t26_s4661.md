@@ -549,11 +549,11 @@
 
         No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
 
-(Added [Pub. L. 96–510, title II, § 211(a)][/us/pl/96/510/s211/a], Dec. 11, 1980, [94 Stat. 2798][/us/stat/94/2798]; amended [Pub. L. 99–499, title V, § 513(a)][/us/pl/99/499/s513/a], Oct. 17, 1986, [100 Stat. 1761][/us/stat/100/1761]; [Pub. L. 99–509, title VIII, § 8032(c)(3)][/us/pl/99/509/s8032/c/3], Oct. 21, 1986, [100 Stat. 1958][/us/stat/100/1958].)
+(Added [Pub. L. 96–510, title II][/us/pl/96/510/tII], § 211(a), Dec. 11, 1980, [94 Stat. 2798][/us/stat/94/2798]; amended [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 513(a), Oct. 17, 1986, [100 Stat. 1761][/us/stat/100/1761]; [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8032(c)(3), Oct. 21, 1986, [100 Stat. 1958][/us/stat/100/1958].)
 
  __Codification__ 
 
-    Amendment by [Pub. L. 99–509, title VIII, § 8031(d)(2)][/us/pl/99/509/s8031/d/2], Oct. 21, 1986, [100 Stat. 1956][/us/stat/100/1956], to subsec. (c) of this section was not executed to text pursuant to [Pub. L. 99–509, title VIII, § 8031(e)(2)][/us/pl/99/509/s8031/e/2], which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as [Pub. L. 99–499][/us/pl/99/499], approved Oct. 17, 1986.
+    Amendment by [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8031(d)(2), Oct. 21, 1986, [100 Stat. 1956][/us/stat/100/1956], to subsec. (c) of this section was not executed to text pursuant to [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as [Pub. L. 99–499][/us/pl/99/499], approved Oct. 17, 1986.
 
  __Amendments__ 
 
@@ -565,7 +565,7 @@
 
     Amendment by [Pub. L. 99–509][/us/pl/99/509] effective on commencement date as defined in former section 4611(f)(2), see [section 8032(d) of Pub. L. 99–509][/us/pl/99/509/s8032/d], set out as a note under [section 4611 of this title][/us/usc/t26/s4611].
 
-[Pub. L. 99–499, title V, § 513(h)][/us/pl/99/499/s513/h], Oct. 17, 1986, [100 Stat. 1765][/us/stat/100/1765], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 513(h), Oct. 17, 1986, [100 Stat. 1765][/us/stat/100/1765], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -642,24 +642,24 @@
 ----------
 ----------
 
-[/us/pl/96/510/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs211%2Fa
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2798
-[/us/pl/99/499/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fa
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1761
-[/us/pl/99/509/s8032/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fc%2F3
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1958
-[/us/pl/99/509/s8031/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8031%2Fd%2F2
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1956
-[/us/pl/99/509/s8031/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8031%2Fe%2F2
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s8032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fd
 [/us/usc/t26/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4611
-[/us/pl/99/499/s513/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs513%2Fh
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1765
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4662
 [/us/usc/t26/s4662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4662

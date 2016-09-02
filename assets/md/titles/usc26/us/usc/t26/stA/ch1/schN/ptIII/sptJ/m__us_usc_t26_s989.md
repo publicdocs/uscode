@@ -49,7 +49,7 @@
 
         (6) setting forth procedures for determining the average exchange rate for any period.
 
-(Added [Pub. L. 99–514, title XII, § 1261(a)][/us/pl/99/514/s1261/a], Oct. 22, 1986, [100 Stat. 2590][/us/stat/100/2590]; amended [Pub. L. 100–647, title I, § 1012(v)(5)][/us/pl/100/647/s1012/v/5], Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529]; [Pub. L. 103–66, title XIII, § 13231(c)(4)(C)][/us/pl/103/66/s13231/c/4/C], Aug. 10, 1993, [107 Stat. 499][/us/stat/107/499]; [Pub. L. 104–188, title I, § 1501(b)(9)][/us/pl/104/188/s1501/b/9], Aug. 20, 1996, [110 Stat. 1826][/us/stat/110/1826]; [Pub. L. 105–34, title XI, § 1102(b)(2)][/us/pl/105/34/s1102/b/2], (3), Aug. 5, 1997, [111 Stat. 966][/us/stat/111/966]; [Pub. L. 108–357, title IV, § 413(c)(17)][/us/pl/108/357/s413/c/17], Oct. 22, 2004, [118 Stat. 1508][/us/stat/118/1508].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(a), Oct. 22, 1986, [100 Stat. 2590][/us/stat/100/2590]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(5), Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13231(c)(4)(C), Aug. 10, 1993, [107 Stat. 499][/us/stat/107/499]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1501(b)(9), Aug. 20, 1996, [110 Stat. 1826][/us/stat/110/1826]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1102(b)(2), (3), Aug. 5, 1997, [111 Stat. 966][/us/stat/111/966]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(17), Oct. 22, 2004, [118 Stat. 1508][/us/stat/118/1508].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 
     2004—Subsec. (b)(3). [Pub. L. 108–357][/us/pl/108/357] struck out “, 551(a),” after “section 951(a)(1)(A)”.
 
-    1997—Subsec. (b)(3), (4). [Pub. L. 105–34, § 1102(b)(3)][/us/pl/105/34/s1102/b/3], struck out “weighted” before “average exchange rate”.
+    1997—Subsec. (b)(3), (4). [Pub. L. 105–34][/us/pl/105/34], § 1102(b)(3), struck out “weighted” before “average exchange rate”.
 
-    Subsec. (c)(6). [Pub. L. 105–34, § 1102(b)(2)][/us/pl/105/34/s1102/b/2], added par. (6).
+    Subsec. (c)(6). [Pub. L. 105–34][/us/pl/105/34], § 1102(b)(2), added par. (6).
 
     1996—Subsec. (b). [Pub. L. 104–188][/us/pl/104/188] substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)” in closing provisions.
 
@@ -100,22 +100,22 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2590
-[/us/pl/100/647/s1012/v/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F5
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3529
-[/us/pl/103/66/s13231/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13231%2Fc%2F4%2FC
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F499
-[/us/pl/104/188/s1501/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1501%2Fb%2F9
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1826
-[/us/pl/105/34/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fb%2F2
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F966
-[/us/pl/108/357/s413/c/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F17
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/105/34/s1102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fb%2F3
-[/us/pl/105/34/s1102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fb%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

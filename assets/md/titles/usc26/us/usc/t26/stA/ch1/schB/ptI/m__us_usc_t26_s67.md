@@ -107,7 +107,7 @@
 
         This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
 
-(Added [Pub. L. 99–514, title I, § 132(a)][/us/pl/99/514/s132/a], Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113]; amended [Pub. L. 100–647, title I, § 1001(f)][/us/pl/100/647/s1001/f], title IV, § 4011(a), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3655; [Pub. L. 101–239, title VII, § 7814(f)][/us/pl/101/239/s7814/f], Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414]; [Pub. L. 103–66, title XIII, § 13213(c)(2)][/us/pl/103/66/s13213/c/2], Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 105–277, div. J, title IV, § 4004(b)(1)][/us/pl/105/277/s4004/b/1], Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
+(Added [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 132(a), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1001(f), title IV, § 4011(a), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3655; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7814(f), Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13213(c)(2), Aug. 10, 1993, [107 Stat. 474][/us/stat/107/474]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4004(b)(1), Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
 
  __References in Text__ 
 
@@ -123,23 +123,23 @@
 
     1989—Subsec. (c)(4). [Pub. L. 101–239][/us/pl/101/239] struck out par. (4) which read as follows: “Termination.—This subsection shall not apply to any taxable year beginning after December 31, 1989.”
 
-    1988—Subsec. (b)(4). [Pub. L. 100–647, § 1001(f)(2)][/us/pl/100/647/s1001/f/2], substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
+    1988—Subsec. (b)(4). [Pub. L. 100–647][/us/pl/100/647], § 1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
 
-    Subsec. (c). [Pub. L. 100–647, § 4011(a)][/us/pl/100/647/s4011/a], amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
 
     “(1) with respect to cooperatives and real estate investment trusts, and
 
     “(2) except as provided in regulations, with respect to estates and trusts.”
 
-    [Pub. L. 100–647, § 1001(f)(4)][/us/pl/100/647/s1001/f/4], amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not apply with respect to estates, trusts, cooperatives, and real estate investment trusts.”
+    [Pub. L. 100–647][/us/pl/100/647], § 1001(f)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not apply with respect to estates, trusts, cooperatives, and real estate investment trusts.”
 
-    Subsec. (e). [Pub. L. 100–647, § 1001(f)(3)][/us/pl/100/647/s1001/f/3], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income.”
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1001(f)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income.”
 
-    Subsec. (f). [Pub. L. 100–647, § 1001(f)(1)][/us/pl/100/647/s1001/f/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1001(f)(1), added subsec. (f).
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. J, title IV, § 4004(c)(2)][/us/pl/105/277/s4004/c/2], Oct. 21, 1998, [112 Stat. 2681–911][/us/stat/112/2681-911], provided that: 
+[Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4004(c)(2), Oct. 21, 1998, [112 Stat. 2681–911][/us/stat/112/2681-911], provided that: 
 
 > “The amendment made by subsection (b)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
@@ -155,7 +155,7 @@
 
     Amendment by [section 1001(f) of Pub. L. 100–647][/us/pl/100/647/s1001/f] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title IV, § 4011(b)][/us/pl/100/647/s4011/b], Nov. 10, 1988, [102 Stat. 3656][/us/stat/102/3656], provided that: 
+[Pub. L. 100–647, title IV][/us/pl/100/647/tIV], § 4011(b), Nov. 10, 1988, [102 Stat. 3656][/us/stat/102/3656], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
 
@@ -165,7 +165,7 @@
 
  __1__  __-Year Delay in Treatment of Publicly Offered Regulated Investment Companies Under__  __2__  __-Percent Floor__ 
 
-[Pub. L. 100–203, title X, § 10104(a)][/us/pl/100/203/s10104/a], Dec. 22, 1987, [101 Stat. 1330–386][/us/stat/101/1330-386], provided that:
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10104(a), Dec. 22, 1987, [101 Stat. 1330–386][/us/stat/101/1330-386], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -197,29 +197,29 @@
 ----------
 
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/99/514/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs132%2Fa
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2113
-[/us/pl/100/647/s1001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Ff
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3351
-[/us/pl/101/239/s7814/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7814%2Ff
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2414
-[/us/pl/103/66/s13213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fc%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F474
-[/us/pl/105/277/s4004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4004%2Fb%2F1
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-910
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s77d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1001/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Ff%2F2
-[/us/pl/100/647/s4011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4011%2Fa
-[/us/pl/100/647/s1001/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Ff%2F4
-[/us/pl/100/647/s1001/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Ff%2F3
-[/us/pl/100/647/s1001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Ff%2F1
-[/us/pl/105/277/s4004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4004%2Fc%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-911
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13213/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13213%2Fe
@@ -232,11 +232,11 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s4011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4011%2Fb
+[/us/pl/100/647/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIV
 [/us/stat/102/3656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3656
 [/us/pl/99/514/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/203/s10104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10104%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-386
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s77d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d

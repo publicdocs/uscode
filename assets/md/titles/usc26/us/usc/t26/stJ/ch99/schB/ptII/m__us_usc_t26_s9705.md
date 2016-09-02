@@ -69,15 +69,15 @@
 
             Any amount transferred under paragraph (1) for any fiscal year shall be used to pay benefits and administrative costs of beneficiaries of the Combined Fund or for such other purposes as are specifically provided in the Acts  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Act”. </sup></sup>  described in paragraph (1).
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3046][/us/stat/106/3046]; amended [Pub. L. 109–432, div. C, title II, § 212(a)(1)][/us/pl/109/432/s212/a/1], Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3046][/us/stat/106/3046]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 212(a)(1), Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023].)
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–432, § 212(a)(1)(C)][/us/pl/109/432/s212/a/1/C], struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
+    2006—Subsec. (b). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(1)(C), struck out “from abandoned mine reclamation fund” after “Transfers” in heading.
 
-    Subsec. (b)(1). [Pub. L. 109–432, § 212(a)(1)(A)][/us/pl/109/432/s212/a/1/A], substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
+    Subsec. (b)(1). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(1)(A), substituted “subsections (h) and (i) of section 402” for “section 402(h)”.
 
-    Subsec. (b)(2). [Pub. L. 109–432, § 212(a)(1)(B)][/us/pl/109/432/s212/a/1/B], reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred.”
+    Subsec. (b)(2). [Pub. L. 109–432][/us/pl/109/432], § 212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -92,13 +92,13 @@
 
 [/us/usc/t30/s1232/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fh
 [/us/usc/t30/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3046
-[/us/pl/109/432/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F1
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3023
-[/us/pl/109/432/s212/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F1%2FC
-[/us/pl/109/432/s212/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F1%2FA
-[/us/pl/109/432/s212/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F1%2FB
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s212/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs212%2Fa%2F4
 [/us/usc/t26/s9704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9704

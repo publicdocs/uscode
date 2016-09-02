@@ -135,7 +135,7 @@
 
             An employee shall not be treated as an eligible employee for purposes of this subsection for any period with respect to any employer if such employer is allowed a credit under subsection (a) or (b) or section 51 with respect to such employee for such period.
 
-(Added [Pub. L. 109–135, title II, § 201(a)][/us/pl/109/135/s201/a], Dec. 21, 2005, [119 Stat. 2601][/us/stat/119/2601].)
+(Added [Pub. L. 109–135, title II][/us/pl/109/135/tII], § 201(a), Dec. 21, 2005, [119 Stat. 2601][/us/stat/119/2601].)
 
 ----------
 
@@ -144,7 +144,7 @@
 ----------
 ----------
 
-[/us/pl/109/135/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs201%2Fa
+[/us/pl/109/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtII
 [/us/stat/119/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2601
 
 

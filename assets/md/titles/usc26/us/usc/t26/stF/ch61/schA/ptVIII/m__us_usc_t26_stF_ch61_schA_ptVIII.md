@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1966—[Pub. L. 89–809, title III, § 302(a)][/us/pl/89/809/s302/a], Nov. 13, 1966, [80 Stat. 1587][/us/stat/80/1587], added part VIII and analysis.
+    1966—[Pub. L. 89–809, title III][/us/pl/89/809/tIII], § 302(a), Nov. 13, 1966, [80 Stat. 1587][/us/stat/80/1587], added part VIII and analysis.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/89/809/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs302%2Fa
+[/us/pl/89/809/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtIII
 [/us/stat/80/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1587
 
 

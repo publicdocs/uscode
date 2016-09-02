@@ -17,7 +17,7 @@
 
     The tax court is authorized to impose a fee in an amount not in excess of $60 to be fixed by the Tax Court for the filing of any petition.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 93–406, title II, § 1041(b)(1)][/us/pl/93/406/s1041/b/1], Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title XIII, § 1306(b)(1)][/us/pl/94/455/s1306/b/1], Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719]; [Pub. L. 97–34, title VII, § 751(a)][/us/pl/97/34/s751/a], Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 97–248, title IV, § 402(c)(12)][/us/pl/97/248/s402/c/12], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 109–280, title VIII, § 859(a)][/us/pl/109/280/s859/a], Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1041(b)(1), Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(b)(1), Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719]; [Pub. L. 97–34, title VII][/us/pl/97/34/tVII], § 751(a), Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(12), Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 859(a), Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title VIII, § 859(b)][/us/pl/109/280/s859/b], Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 859(b), Aug. 17, 2006, [120 Stat. 1020][/us/stat/120/1020], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title VII, § 751(b)][/us/pl/97/34/s751/b], Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349], provided that: 
+[Pub. L. 97–34, title VII][/us/pl/97/34/tVII], § 751(b), Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to petitions filed after December 31, 1981.”
 
@@ -64,27 +64,27 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F884
-[/us/pl/93/406/s1041/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1041%2Fb%2F1
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F950
-[/us/pl/94/455/s1306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fb%2F1
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1719
-[/us/pl/97/34/s751/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs751%2Fa
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F349
-[/us/pl/97/248/s402/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F12
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F668
-[/us/pl/109/280/s859/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs859%2Fa
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1020
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
-[/us/pl/109/280/s859/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs859%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1020
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
-[/us/pl/97/34/s751/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs751%2Fb
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F349
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fc

@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title VI, § 631(e)(17)][/us/pl/99/514/s631/e/17], Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], substituted “Gain or loss recognized on property distributed in complete liquidation” for “General rule” in item 336 and “Nonrecognition for property distributed to parent in complete liquidation of subsidiary” for “Gain or loss on sales or exchanges in connection with certain liquidations” in item 337.
+    1986—[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(e)(17), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], substituted “Gain or loss recognized on property distributed in complete liquidation” for “General rule” in item 336 and “Nonrecognition for property distributed to parent in complete liquidation of subsidiary” for “Gain or loss on sales or exchanges in connection with certain liquidations” in item 337.
 
-    1982—[Pub. L. 97–248, title II, § 224(c)(9)][/us/pl/97/248/s224/c/9], Sept. 3, 1982, [96 Stat. 489][/us/stat/96/489], substituted “Certain stock purchases treated as asset acquisitions” for “Effect on earnings and profits” in item 338.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 224(c)(9), Sept. 3, 1982, [96 Stat. 489][/us/stat/96/489], substituted “Certain stock purchases treated as asset acquisitions” for “Effect on earnings and profits” in item 338.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s631/e/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F17
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2275
-[/us/pl/97/248/s224/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs224%2Fc%2F9
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F489
 
 

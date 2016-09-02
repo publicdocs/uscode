@@ -17,7 +17,7 @@
 
     In addition to other taxes imposed by this chapter, there is hereby imposed for each taxable year on the undistributed personal holding company income (as defined in section 545) of every personal holding company (as defined in section 542) a personal holding company tax equal to 20 percent of the undistributed personal holding company income.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 182][/us/stat/68A/182]; [Pub. L. 88–272, title II, § 225(a)][/us/pl/88/272/s225/a], Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79]; [Pub. L. 97–34, title I, § 101(d)(2)][/us/pl/97/34/s101/d/2], Aug. 13, 1981, [95 Stat. 184][/us/stat/95/184]; [Pub. L. 99–514, title I, § 104(b)(8)][/us/pl/99/514/s104/b/8], Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105]; [Pub. L. 101–508, title XI, § 11802(f)(1)][/us/pl/101/508/s11802/f/1], Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13201(b)(2), 13202(b), Aug. 10, 1993, [107 Stat. 459][/us/stat/107/459], 461; [Pub. L. 107–16, title I, § 101(c)(5)][/us/pl/107/16/s101/c/5], June 7, 2001, [115 Stat. 43][/us/stat/115/43]; [Pub. L. 108–27, title III, § 302(e)(6)][/us/pl/108/27/s302/e/6], May 28, 2003, [117 Stat. 764][/us/stat/117/764]; [Pub. L. 112–240, title I, § 102(c)(1)(B)][/us/pl/112/240/s102/c/1/B], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 182][/us/stat/68A/182]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 225(a), Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79]; [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 101(d)(2), Aug. 13, 1981, [95 Stat. 184][/us/stat/95/184]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(8), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11802(f)(1), Nov. 5, 1990, [104 Stat. 1388–530][/us/stat/104/1388-530]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], §§ 13201(b)(2), 13202(b), Aug. 10, 1993, [107 Stat. 459][/us/stat/107/459], 461; [Pub. L. 107–16, title I][/us/pl/107/16/tI], § 101(c)(5), June 7, 2001, [115 Stat. 43][/us/stat/115/43]; [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 302(e)(6), May 28, 2003, [117 Stat. 764][/us/stat/117/764]; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 102(c)(1)(B), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
 
  __Amendments__ 
 
@@ -27,9 +27,9 @@
 
     2001—[Pub. L. 107–16][/us/pl/107/16] substituted “equal to the product of the highest rate of tax under section 1(c) and the undistributed personal holding company income.” for “equal to 39.6 percent of the undistributed personal holding company income.”
 
-    1993—[Pub. L. 103–66, § 13202(b)][/us/pl/103/66/s13202/b], substituted “39.6 percent” for “36 percent”.
+    1993—[Pub. L. 103–66][/us/pl/103/66], § 13202(b), substituted “39.6 percent” for “36 percent”.
 
-    [Pub. L. 103–66, § 13201(b)(2)][/us/pl/103/66/s13201/b/2], substituted “36 percent” for “28 percent”.
+    [Pub. L. 103–66][/us/pl/103/66], § 13201(b)(2), substituted “36 percent” for “28 percent”.
 
     1990—[Pub. L. 101–508][/us/pl/101/508] struck out “(38.5 percent in the case of taxable years beginning in 1987)” after “28 percent”.
 
@@ -80,27 +80,27 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F182
-[/us/pl/88/272/s225/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs225%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F79
-[/us/pl/97/34/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs101%2Fd%2F2
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F184
-[/us/pl/99/514/s104/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F8
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
-[/us/pl/101/508/s11802/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11802%2Ff%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-530
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F459
-[/us/pl/107/16/s101/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs101%2Fc%2F5
+[/us/pl/107/16/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtI
 [/us/stat/115/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F43
-[/us/pl/108/27/s302/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F6
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F764
-[/us/pl/112/240/s102/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FB
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/103/66/s13202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13202%2Fb
-[/us/pl/103/66/s13201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13201%2Fb%2F2
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34

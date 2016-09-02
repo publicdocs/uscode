@@ -103,19 +103,19 @@
 
         For definition of taxable income, see section 63.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 8][/us/stat/68A/8]; [Pub. L. 88–272, title I, § 112(b)][/us/pl/88/272/s112/b], Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24]; [Pub. L. 91–172, title VIII, § 803(b)][/us/pl/91/172/s803/b], Dec. 30, 1969, [83 Stat. 682][/us/stat/83/682]; [Pub. L. 93–597, § 3(b)][/us/pl/93/597/s3/b], Jan. 2, 1975, [88 Stat. 1951][/us/stat/88/1951]; [Pub. L. 94–455, title XIX, § 1901(a)(1)][/us/pl/94/455/s1901/a/1], (b)(9), Oct. 4, 1976, [90 Stat. 1764][/us/stat/90/1764], 1795; [Pub. L. 94–569, § 3(a)][/us/pl/94/569/s3/a], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 97–448, title III, § 307(a)][/us/pl/97/448/s307/a], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 98–369, div. A, title IV, § 423(c)(2)][/us/pl/98/369/s423/c/2], July 18, 1984, [98 Stat. 801][/us/stat/98/801]; [Pub. L. 99–514, title XIII, § 1301(j)(10)][/us/pl/99/514/s1301/j/10], title XVII, § 1708(a)(1), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658], 2782; [Pub. L. 100–647, title I, § 1007(g)(13)(A)][/us/pl/100/647/s1007/g/13/A], Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436]; [Pub. L. 108–311, title II][/us/pl/108/311], §§ 202, 207(1), Oct. 4, 2004, [118 Stat. 1175][/us/stat/118/1175], 1177; [Pub. L. 109–135, title IV, § 412(a)][/us/pl/109/135/s412/a], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 8][/us/stat/68A/8]; [Pub. L. 88–272, title I][/us/pl/88/272/tI], § 112(b), Feb. 26, 1964, [78 Stat. 24][/us/stat/78/24]; [Pub. L. 91–172, title VIII][/us/pl/91/172/tVIII], § 803(b), Dec. 30, 1969, [83 Stat. 682][/us/stat/83/682]; [Pub. L. 93–597][/us/pl/93/597], § 3(b), Jan. 2, 1975, [88 Stat. 1951][/us/stat/88/1951]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(1), (b)(9), Oct. 4, 1976, [90 Stat. 1764][/us/stat/90/1764], 1795; [Pub. L. 94–569][/us/pl/94/569], § 3(a), Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 307(a), Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 423(c)(2), July 18, 1984, [98 Stat. 801][/us/stat/98/801]; [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(10), title XVII, § 1708(a)(1), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658], 2782; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1007(g)(13)(A), Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436]; [Pub. L. 108–311, title II][/us/pl/108/311/tII], §§ 202, 207(1), Oct. 4, 2004, [118 Stat. 1175][/us/stat/118/1175], 1177; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(a), Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636].)
 
  __Amendments__ 
 
     2005—Subsec. (b)(2)(C). [Pub. L. 109–135][/us/pl/109/135] substituted “subparagraph (B)” for “subparagraph (C)”.
 
-    2004—Subsec. (a)(1)(B)(i). [Pub. L. 108–311, § 207(1)][/us/pl/108/311/s207/1], inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+    2004—Subsec. (a)(1)(B)(i). [Pub. L. 108–311][/us/pl/108/311], § 207(1), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 108–311, § 202(a)][/us/pl/108/311/s202/a], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer’s taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 108–311][/us/pl/108/311], § 202(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer’s taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or”.
 
-    Subsec. (b)(2). [Pub. L. 108–311, § 202(b)(1)][/us/pl/108/311/s202/b/1], redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a legally adopted child of a person shall be considered a child of such person by blood;”.
+    Subsec. (b)(2). [Pub. L. 108–311][/us/pl/108/311], § 202(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a legally adopted child of a person shall be considered a child of such person by blood;”.
 
-    Subsec. (b)(3)(B)(i), (ii). [Pub. L. 108–311, § 202(b)(2)][/us/pl/108/311/s202/b/2], amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+    Subsec. (b)(3)(B)(i), (ii). [Pub. L. 108–311][/us/pl/108/311], § 202(b)(2), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
     “(i) paragraph (9) of section 152(a), or
 
@@ -123,25 +123,25 @@
 
     1988—Subsec. (d). [Pub. L. 100–647][/us/pl/100/647] substituted “the taxes imposed by sections 1 and 55” for “the tax imposed by section 1”.
 
-    1986—Subsec. (a)(3)(B). [Pub. L. 99–514, § 1708(a)(1)][/us/pl/99/514/s1708/a/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the date which is—
+    1986—Subsec. (a)(3)(B). [Pub. L. 99–514][/us/pl/99/514], § 1708(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the date which is—
 
     “(i) December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
     “(ii) 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in clause (i).”
 
-    Subsec. (c). [Pub. L. 99–514, § 1301(j)(10)][/us/pl/99/514/s1301/j/10], substituted “section 7703(b)” for “section 143(b)”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1301(j)(10), substituted “section 7703(b)” for “section 143(b)”.
 
-    1984—Subsec. (b)(1)(A). [Pub. L. 98–369, § 423(c)(2)(A)][/us/pl/98/369/s423/c/2/A], substituted “which constitutes for more than one-half of such taxable year” for “which constitutes for such taxable year”.
+    1984—Subsec. (b)(1)(A). [Pub. L. 98–369][/us/pl/98/369], § 423(c)(2)(A), substituted “which constitutes for more than one-half of such taxable year” for “which constitutes for such taxable year”.
 
-    Subsec. (b)(1)(A)(i). [Pub. L. 98–369, § 423(c)(2)(B)][/us/pl/98/369/s423/c/2/B], inserted “(or would be so entitled but for paragraph (2) or (4) of section 152(e))”.
+    Subsec. (b)(1)(A)(i). [Pub. L. 98–369][/us/pl/98/369], § 423(c)(2)(B), inserted “(or would be so entitled but for paragraph (2) or (4) of section 152(e))”.
 
     1983—Subsec. (a)(3)(B)(i). [Pub. L. 97–448][/us/pl/97/448] substituted “December 31, 1982” for “January 2, 1978”.
 
     1976—Subsec. (a)(3)(B). [Pub. L. 94–569][/us/pl/94/569] substituted “the date which is” for “the date which is 2 years after” in provisions preceding cl. (i), substituted “January 2, 1978” for “the date of the enactment of this paragraph” in cl. (i), and substituted “2 years after the date” for “the date” in cl. (ii).
 
-    Subsec. (b)(3)(B)(ii). [Pub. L. 94–455, § 1901(b)(9)][/us/pl/94/455/s1901/b/9], redesignated cl. (iii) as (ii) and struck out former cl. (ii) which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
+    Subsec. (b)(3)(B)(ii). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(9), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
 
-    Subsec. (c). [Pub. L. 94–455, § 1901(a)(1)][/us/pl/94/455/s1901/a/1], substituted “shall be treated as not married at the close of the taxable year” for “shall not be considered as married”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(1), substituted “shall be treated as not married at the close of the taxable year” for “shall not be considered as married”.
 
     1975—Subsec. (a)(3). [Pub. L. 93–597][/us/pl/93/597] added par. (3).
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–311, title II, § 208][/us/pl/108/311/s208], Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], provided that: 
+[Pub. L. 108–311, title II][/us/pl/108/311/tII], § 208, Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 21, 24, 25B, 32, 42, 51, 72, 105, 120, 125, 129, 132, 151 to 153, 170, 213, 220, 221, 529, 2032A, 2057, 7701, 7702B, and 7703 of this title\] shall apply to taxable years beginning after December 31, 2004.”
 
@@ -171,19 +171,19 @@
 
     Amendment by [section 1301(j)(10) of Pub. L. 99–514][/us/pl/99/514/s1301/j/10] applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of [Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date; Transitional Rules note under [section 141 of this title][/us/usc/t26/s141].
 
-[Pub. L. 99–514, title XVII, § 1708(b)][/us/pl/99/514/s1708/b], Oct. 22, 1986, [100 Stat. 2783][/us/stat/100/2783], provided that: 
+[Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1708(b), Oct. 22, 1986, [100 Stat. 2783][/us/stat/100/2783], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 692, 6013, and 7508 of this title\] shall apply to taxable years beginning after December 31, 1982.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 423(d)][/us/pl/98/369/s423/d], July 18, 1984, [98 Stat. 801][/us/stat/98/801], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 423(d), July 18, 1984, [98 Stat. 801][/us/stat/98/801], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 43, 44A, 105, 143, 152, and 213 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XIX, § 1901(d)][/us/pl/94/455/s1901/d], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], provided that: 
+[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(d), Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803], provided that: 
 
 > “Except as otherwise expressly provided in this section, the amendments made by this section \[see Tables for classification\] shall apply with respect to taxable years beginning after December 31, 1976. The amendments made by subsections (a)(29) and (b)(10) shall apply with respect to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
@@ -210,42 +210,42 @@
 [/us/usc/t5/s5566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5566
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F8
-[/us/pl/88/272/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs112%2Fb
+[/us/pl/88/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtI
 [/us/stat/78/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F24
-[/us/pl/91/172/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs803%2Fb
+[/us/pl/91/172/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVIII
 [/us/stat/83/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F682
-[/us/pl/93/597/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs3%2Fb
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1951
-[/us/pl/94/455/s1901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F1
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1764
-[/us/pl/94/569/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569%2Fs3%2Fa
+[/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/stat/90/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2699
-[/us/pl/97/448/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs307%2Fa
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2407
-[/us/pl/98/369/s423/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs423%2Fc%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F801
-[/us/pl/99/514/s1301/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F10
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
-[/us/pl/100/647/s1007/g/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fg%2F13%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3436
-[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1175
-[/us/pl/109/135/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fa
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2636
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/108/311/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F1
-[/us/pl/108/311/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs202%2Fa
-[/us/pl/108/311/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs202%2Fb%2F1
-[/us/pl/108/311/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs202%2Fb%2F2
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1708/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1708%2Fa%2F1
-[/us/pl/99/514/s1301/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F10
-[/us/pl/98/369/s423/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs423%2Fc%2F2%2FA
-[/us/pl/98/369/s423/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs423%2Fc%2F2%2FB
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
-[/us/pl/94/455/s1901/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F9
-[/us/pl/94/455/s1901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F1
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
@@ -253,7 +253,7 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/108/311/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs208
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -262,11 +262,11 @@
 [/us/pl/99/514/s1301/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F10
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
-[/us/pl/99/514/s1708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1708%2Fb
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2783
-[/us/pl/98/369/s423/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs423%2Fd
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F801
-[/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1803
 [/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/pl/93/597/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs3%2Fc

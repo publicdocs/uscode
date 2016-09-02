@@ -13,11 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t26/stF/ch65/schB/m__us_usc_t26_s6427.md) | [Next](./../../../../../..//us/usc/t26/stF/ch65/schB/m__us_usc_t26_s6429.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6428)
 
-## \[§ 6428. Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(112)(A)][/us/pl/113/295/s221/a/112/A], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054]\]
+## \[§ 6428. Repealed. [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(112)(A), Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054]\]
 
-    Section, added [Pub. L. 107–16, title I, § 101(b)(1)][/us/pl/107/16/s101/b/1], June 7, 2001, [115 Stat. 42][/us/stat/115/42]; amended [Pub. L. 107–147, title IV, § 411(a)][/us/pl/107/147/s411/a], Mar. 9, 2002, [116 Stat. 44][/us/stat/116/44]; [Pub. L. 110–185, title I, § 101(a)][/us/pl/110/185/s101/a], Feb. 13, 2008, [122 Stat. 613][/us/stat/122/613]; [Pub. L. 110–245, title I][/us/pl/110/245], §§ 101(a), 102(b), June 17, 2008, [122 Stat. 1625][/us/stat/122/1625], related to 2008 recovery rebate for individuals.
+    Section, added [Pub. L. 107–16, title I][/us/pl/107/16/tI], § 101(b)(1), June 7, 2001, [115 Stat. 42][/us/stat/115/42]; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(a), Mar. 9, 2002, [116 Stat. 44][/us/stat/116/44]; [Pub. L. 110–185, title I][/us/pl/110/185/tI], § 101(a), Feb. 13, 2008, [122 Stat. 613][/us/stat/122/613]; [Pub. L. 110–245, title I][/us/pl/110/245/tI], §§ 101(a), 102(b), June 17, 2008, [122 Stat. 1625][/us/stat/122/1625], related to 2008 recovery rebate for individuals.
 
-    A prior section 6428, added [Pub. L. 94–12, title I, § 101(a)][/us/pl/94/12/s101/a], Mar. 29, 1975, [89 Stat. 27][/us/stat/89/27]; amended [Pub. L. 97–34, title I, § 101(b)(1)][/us/pl/97/34/s101/b/1], Aug. 13, 1981, [95 Stat. 182][/us/stat/95/182]; [Pub. L. 97–448, title I, § 101(a)(2)][/us/pl/97/448/s101/a/2], Jan. 12, 1983, [96 Stat. 2365][/us/stat/96/2365], related to the 1981 rate reduction tax credit, prior to repeal by [Pub. L. 101–508, title XI, § 11801(a)(47)][/us/pl/101/508/s11801/a/47], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522].
+    A prior section 6428, added [Pub. L. 94–12, title I][/us/pl/94/12/tI], § 101(a), Mar. 29, 1975, [89 Stat. 27][/us/stat/89/27]; amended [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 101(b)(1), Aug. 13, 1981, [95 Stat. 182][/us/stat/95/182]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 101(a)(2), Jan. 12, 1983, [96 Stat. 2365][/us/stat/96/2365], related to the 1981 rate reduction tax credit, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(47), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522].
 
  __Effective Date of Repeal__ 
 
@@ -25,11 +25,11 @@
 
  __Economic Recovery Payment to Recipients of Social Security, Supplemental Security Income, Railroad Retirement Benefits, and Veterans Disability Compensation or Pension Benefits__ 
 
-    [Pub. L. 111–5, div. B, title II, § 2201][/us/pl/111/5/s2201], Feb. 17, 2009, [123 Stat. 450][/us/stat/123/450], provided for a $250 payment to individuals who, for any month during the 3-month period ending with the month which ended prior to the month that included Feb. 17, 2009, were entitled to certain Social Security, railroad retirement, or veterans benefit payments or were eligible for certain SSI cash benefits.
+    [Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2201, Feb. 17, 2009, [123 Stat. 450][/us/stat/123/450], provided for a $250 payment to individuals who, for any month during the 3-month period ending with the month which ended prior to the month that included Feb. 17, 2009, were entitled to certain Social Security, railroad retirement, or veterans benefit payments or were eligible for certain SSI cash benefits.
 
  __Special Credit for Certain Government Retirees__ 
 
-[Pub. L. 111–5, div. B, title II, § 2202][/us/pl/111/5/s2202], Feb. 17, 2009, [123 Stat. 454][/us/stat/123/454], as amended by [Pub. L. 113–295, § 209(i)][/us/pl/113/295/s209/i], Dec. 19, 2014, [128 Stat. 4030][/us/stat/128/4030], provided that:
+[Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2202, Feb. 17, 2009, [123 Stat. 454][/us/stat/123/454], as amended by [Pub. L. 113–295][/us/pl/113/295], § 209(i), Dec. 19, 2014, [128 Stat. 4030][/us/stat/128/4030], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -108,31 +108,31 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/112/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F112%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
-[/us/pl/107/16/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs101%2Fb%2F1
+[/us/pl/107/16/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtI
 [/us/stat/115/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F42
-[/us/pl/107/147/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fa
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F44
-[/us/pl/110/185/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F185%2Fs101%2Fa
+[/us/pl/110/185/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F185%2FtI
 [/us/stat/122/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F613
-[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1625
-[/us/pl/94/12/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs101%2Fa
+[/us/pl/94/12/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtI
 [/us/stat/89/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F27
-[/us/pl/97/34/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs101%2Fb%2F1
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F182
-[/us/pl/97/448/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs101%2Fa%2F2
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2365
-[/us/pl/101/508/s11801/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F47
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/111/5/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2201
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F450
-[/us/pl/111/5/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2202
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F454
-[/us/pl/113/295/s209/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fi
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/stat/128/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4030
 [/us/usc/t31/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324%2Fb%2F2
 [/us/usc/t31/s1324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1324%2Fb%2F2

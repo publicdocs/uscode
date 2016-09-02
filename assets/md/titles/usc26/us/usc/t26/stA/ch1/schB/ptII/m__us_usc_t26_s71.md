@@ -153,23 +153,23 @@
 
         (2) For taxable status of income of an estate or trust in the case of divorce, etc., see section 682.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 19][/us/stat/68A/19]; [Pub. L. 98–369, div. A, title IV, § 422(a)][/us/pl/98/369/s422/a], July 18, 1984, [98 Stat. 795][/us/stat/98/795]; [Pub. L. 99–514, title XVIII, § 1843(a)][/us/pl/99/514/s1843/a]–(c)(1), (d), Oct. 22, 1986, [100 Stat. 2853][/us/stat/100/2853], 2855.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 19][/us/stat/68A/19]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 422(a), July 18, 1984, [98 Stat. 795][/us/stat/98/795]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1843(a)–(c)(1), (d), Oct. 22, 1986, [100 Stat. 2853][/us/stat/100/2853], 2855.)
 
  __Amendments__ 
 
-    1986—Subsec. (b)(1)(D). [Pub. L. 99–514, § 1843(b)][/us/pl/99/514/s1843/b], struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”.
+    1986—Subsec. (b)(1)(D). [Pub. L. 99–514][/us/pl/99/514], § 1843(b), struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”.
 
-    Subsec. (c)(2)(B). [Pub. L. 99–514, § 1843(d)][/us/pl/99/514/s1843/d], substituted “specified in subparagraph (A)” for “specified in paragraph (1)”.
+    Subsec. (c)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1843(d), substituted “specified in subparagraph (A)” for “specified in paragraph (1)”.
 
-    Subsec. (f). [Pub. L. 99–514, § 1843(c)(1)][/us/pl/99/514/s1843/c/1], amended subsec. (f) generally, substituting provisions for the recomputation of liability where there has been excess front-loading of alimony payments for provisions setting forth special rules to prevent excess front-loading of alimony payments.
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1843(c)(1), amended subsec. (f) generally, substituting provisions for the recomputation of liability where there has been excess front-loading of alimony payments for provisions setting forth special rules to prevent excess front-loading of alimony payments.
 
-    Subsec. (g). [Pub. L. 99–514, § 1843(a)][/us/pl/99/514/s1843/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–514][/us/pl/99/514], § 1843(a), added subsec. (g).
 
     1984—[Pub. L. 98–369][/us/pl/98/369] amended section generally, substituting present provisions for provisions which had declared in: subsec. (a), a general rule as to decree of divorce or separate maintenance in par. (1), written separation agreement in par. (2), and decree for support in par. (3); subsec. (b), payments to support minor children; subsec. (c), principal sum paid in installments, par. (1) stating a general rule and par. (2) the rule where period for payment is more than 10 years; subsec. (d), the rule for husband in case of transferred property; and subsec. (e), cross references to sections 7701(a)(17), 215, and 682.
 
  __Effective Date of 1986 Amendment; Transitional Rule__ 
 
-[Pub. L. 99–514, title XVIII, § 1843(c)(2)][/us/pl/99/514/s1843/c/2], (3), Oct. 22, 1986, [100 Stat. 2854][/us/stat/100/2854], 2855, provided that:
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1843(c)(2), (3), Oct. 22, 1986, [100 Stat. 2854][/us/stat/100/2854], 2855, provided that:
 
 >     “(2) __Effective dates.—__ 
 
@@ -187,7 +187,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 422(e)][/us/pl/98/369/s422/e], July 18, 1984, [98 Stat. 798][/us/stat/98/798], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 422(e), July 18, 1984, [98 Stat. 798][/us/stat/98/798], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -214,20 +214,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F19
-[/us/pl/98/369/s422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs422%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F795
-[/us/pl/99/514/s1843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fa
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2853
-[/us/pl/99/514/s1843/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fb
-[/us/pl/99/514/s1843/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fd
-[/us/pl/99/514/s1843/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fc%2F1
-[/us/pl/99/514/s1843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fa
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/99/514/s1843/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1843%2Fc%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2854
-[/us/pl/98/369/s422/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs422%2Fe
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F798
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6676
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

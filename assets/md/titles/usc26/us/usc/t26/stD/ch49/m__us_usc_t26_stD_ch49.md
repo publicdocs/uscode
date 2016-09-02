@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 49, added [Pub. L. 111–148, title IX, § 9017(a)][/us/pl/111/148/s9017/a], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], which related to elective cosmetic medical procedures and consisted of section 5000B, was not set out in the Code in view of [Pub. L. 111–148, title X, § 10907(a)][/us/pl/111/148/s10907/a], Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], which provided that the amendments made by [section 9017 of Pub. L. 111–148][/us/pl/111/148/s9017] were deemed null, void, and of no effect.
+    A prior chapter 49, added [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9017(a), Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], which related to elective cosmetic medical procedures and consisted of section 5000B, was not set out in the Code in view of [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10907(a), Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], which provided that the amendments made by [section 9017 of Pub. L. 111–148][/us/pl/111/148/s9017] were deemed null, void, and of no effect.
 
 ----------
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/111/148/s9017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9017%2Fa
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
-[/us/pl/111/148/s10907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10907%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1020
 [/us/pl/111/148/s9017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9017
 

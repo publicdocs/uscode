@@ -147,29 +147,29 @@
 
             Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust under subsection (b)(1)(B) and to United States persons referred to in such subsection.
 
-(Added [Pub. L. 87–834, § 7(f)][/us/pl/87/834/s7/f], Oct. 16, 1962, [76 Stat. 987][/us/stat/76/987]; amended [Pub. L. 94–455, title X, § 1013(d)(1)][/us/pl/94/455/s1013/d/1], (e)(3), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1616][/us/stat/90/1616], 1834; [Pub. L. 97–248, title III, § 341(b)][/us/pl/97/248/s341/b], Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635]; [Pub. L. 104–188, title I, § 1901(a)][/us/pl/104/188/s1901/a], Aug. 20, 1996, [110 Stat. 1904][/us/stat/110/1904]; [Pub. L. 105–34, title X, § 1027(b)][/us/pl/105/34/s1027/b], title XVI, § 1601(i)(1), Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926], 1092; [Pub. L. 111–147, title V, § 534(a)][/us/pl/111/147/s534/a], Mar. 18, 2010, [124 Stat. 114][/us/stat/124/114].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 7(f), Oct. 16, 1962, [76 Stat. 987][/us/stat/76/987]; amended [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1013(d)(1), (e)(3), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1616][/us/stat/90/1616], 1834; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 341(b), Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1901(a), Aug. 20, 1996, [110 Stat. 1904][/us/stat/110/1904]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1027(b), title XVI, § 1601(i)(1), Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926], 1092; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 534(a), Mar. 18, 2010, [124 Stat. 114][/us/stat/124/114].)
 
  __Amendments__ 
 
     2010—Subsec. (b)(1). [Pub. L. 111–147][/us/pl/111/147] inserted “shall submit such information as the Secretary may prescribe with respect to such trust for such year and” before “shall be responsible to ensure” in introductory provisions.
 
-    1997—Subsec. (b). [Pub. L. 105–34, § 1601(i)(1)][/us/pl/105/34/s1601/i/1], substituted “owner” for “grantor” in heading.
+    1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34], § 1601(i)(1), substituted “owner” for “grantor” in heading.
 
-    Subsec. (d)(5). [Pub. L. 105–34, § 1027(b)][/us/pl/105/34/s1027/b], added par. (5).
+    Subsec. (d)(5). [Pub. L. 105–34][/us/pl/105/34], § 1027(b), added par. (5).
 
     1996—[Pub. L. 104–188][/us/pl/104/188] amended section generally, substituting provisions calling for improved information reporting on foreign trusts for provisions calling for the filing of returns as to foreign trusts, prescribing the form and contents of such returns, and requiring annual returns for foreign trusts with one or more United States beneficiaries.
 
     1982—Subsec. (a). [Pub. L. 97–248][/us/pl/97/248] inserted “(or on or before such later day as the Secretary may by regulations prescribe)” after “the 90th day”.
 
-    1976—[Pub. L. 94–455, § 1013(e)(4)][/us/pl/94/455/s1013/e/4], struck out “creation of or transfer to” after “Returns as to” in section catchline.
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 1013(e)(4), struck out “creation of or transfer to” after “Returns as to” in section catchline.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1013(d)(1)][/us/pl/94/455/s1013/d/1], (e)(3), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) struck out cross reference to section 643(d) for definition of “foreign trust created by a United States person”.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1013(d)(1), (e)(3), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) struck out cross reference to section 643(d) for definition of “foreign trust created by a United States person”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–147, title V, § 534(b)][/us/pl/111/147/s534/b], Mar. 18, 2010, [124 Stat. 115][/us/stat/124/115], provided that: 
+[Pub. L. 111–147, title V][/us/pl/111/147/tV], § 534(b), Mar. 18, 2010, [124 Stat. 115][/us/stat/124/115], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Mar. 18, 2010\].”
 
@@ -181,7 +181,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1901(d)][/us/pl/104/188/s1901/d], Aug. 20, 1996, [110 Stat. 1908][/us/stat/110/1908], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1901(d), Aug. 20, 1996, [110 Stat. 1908][/us/stat/110/1908], provided that:
 
 >     “(1)  __Reportable events__  __.—__ 
 
@@ -206,27 +206,27 @@
 ----------
 ----------
 
-[/us/pl/87/834/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Ff
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F987
-[/us/pl/94/455/s1013/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Fd%2F1
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1616
-[/us/pl/97/248/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs341%2Fb
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F635
-[/us/pl/104/188/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1901%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1904
-[/us/pl/105/34/s1027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F926
-[/us/pl/111/147/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs534%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F114
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
-[/us/pl/105/34/s1601/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fi%2F1
-[/us/pl/105/34/s1027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fb
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/94/455/s1013/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Fe%2F4
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1013/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1013%2Fd%2F1
-[/us/pl/111/147/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs534%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F115
 [/us/pl/105/34/s1027/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fb
 [/us/pl/105/34/s1027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fc
@@ -235,7 +235,7 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1901%2Fd
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1908
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs341%2Fc

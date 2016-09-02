@@ -17,7 +17,7 @@
 
     Every person who fails to register or reregister as required by section 4101, or who in connection with any purchase of any taxable fuel (as defined in section 4083) or aviation fuel falsely represents himself to be registered as provided by section 4101, or who willfully makes any false statement in an application for registration or reregistration under section 4101, shall, upon conviction thereof, be fined not more than $10,000, or imprisoned not more than 5 years, or both, together with the costs of prosecution.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 858][/us/stat/68A/858]; [Pub. L. 89–44, title VIII, § 802(b)(4)][/us/pl/89/44/s802/b/4], June 21, 1965, [79 Stat. 159][/us/stat/79/159]; [Pub. L. 100–647, title III, § 3001(b)(3)(A)][/us/pl/100/647/s3001/b/3/A], (B), Nov. 10, 1988, [102 Stat. 3614][/us/stat/102/3614]; [Pub. L. 104–188, title I, § 1704(t)(20)(A)][/us/pl/104/188/s1704/t/20/A], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 105–34, title X, § 1032(e)(12)(A)][/us/pl/105/34/s1032/e/12/A], (B), Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 105–206, title VI, § 6010(h)(2)][/us/pl/105/206/s6010/h/2], July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title VIII, § 863(b)][/us/pl/108/357/s863/b], Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620]; [Pub. L. 109–59, title XI, § 11164(b)(2)][/us/pl/109/59/s11164/b/2], Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 858][/us/stat/68A/858]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 802(b)(4), June 21, 1965, [79 Stat. 159][/us/stat/79/159]; [Pub. L. 100–647, title III][/us/pl/100/647/tIII], § 3001(b)(3)(A), (B), Nov. 10, 1988, [102 Stat. 3614][/us/stat/102/3614]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(20)(A), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1032(e)(12)(A), (B), Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(h)(2), July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 863(b), Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11164(b)(2), Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975].)
 
  __Amendments__ 
 
@@ -27,9 +27,9 @@
 
     1998—[Pub. L. 105–206][/us/pl/105/206] provided that amendment made by [section 1032(e)(12)(A) of Pub. L. 105–34][/us/pl/105/34/s1032/e/12/A] shall be applied as if “gasoline, diesel fuel,” were the material proposed to be stricken. See 1997 Amendment note below.
 
-    1997—[Pub. L. 105–34, § 1032(e)(12)(B)][/us/pl/105/34/s1032/e/12/B], amended section catchline generally. Prior to amendment, catchline read as follows: “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
+    1997—[Pub. L. 105–34][/us/pl/105/34], § 1032(e)(12)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
 
-    [Pub. L. 105–34, § 1032(e)(12)(A)][/us/pl/105/34/s1032/e/12/A], which directed the substitution of “any taxable fuel (as defined in section 4083)” for “gasoline, lubricating oil, diesel fuel”, was executed by making the substitution for “gasoline, diesel fuel,” to reflect the probable intent of Congress. See 1998 Amendment note above.
+    [Pub. L. 105–34][/us/pl/105/34], § 1032(e)(12)(A), which directed the substitution of “any taxable fuel (as defined in section 4083)” for “gasoline, lubricating oil, diesel fuel”, was executed by making the substitution for “gasoline, diesel fuel,” to reflect the probable intent of Congress. See 1998 Amendment note above.
 
     1996—[Pub. L. 104–188][/us/pl/104/188] struck out “lubricating oil,” after “gasoline,” in section catchline and text.
 
@@ -70,26 +70,26 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F858
-[/us/pl/89/44/s802/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs802%2Fb%2F4
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F159
-[/us/pl/100/647/s3001/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3001%2Fb%2F3%2FA
+[/us/pl/100/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIII
 [/us/stat/102/3614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3614
-[/us/pl/104/188/s1704/t/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F20%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
-[/us/pl/105/34/s1032/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Fe%2F12%2FA
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F935
-[/us/pl/105/206/s6010/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fh%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F815
-[/us/pl/108/357/s863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs863%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1620
-[/us/pl/109/59/s11164/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11164%2Fb%2F2
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1975
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34/s1032/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Fe%2F12%2FA
-[/us/pl/105/34/s1032/e/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Fe%2F12%2FB
-[/us/pl/105/34/s1032/e/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Fe%2F12%2FA
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44

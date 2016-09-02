@@ -101,7 +101,7 @@
 
             (B) the date on which tax imposed by subsection (a)(1) is assessed.
 
-(Added [Pub. L. 100–203, title X, § 10712(a)][/us/pl/100/203/s10712/a], Dec. 22, 1987, [101 Stat. 1330–465][/us/stat/101/1330-465]; amended [Pub. L. 104–168, title XIII, § 1311(c)(1)][/us/pl/104/168/s1311/c/1], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10712(a), Dec. 22, 1987, [101 Stat. 1330–465][/us/stat/101/1330-465]; amended [Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1311(c)(1), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478].)
 
  __Amendments__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title XIII, § 1311(d)(1)][/us/pl/104/168/s1311/d/1], (2), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478], provided that:
+[Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1311(d)(1), (2), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10712(d)][/us/pl/100/203/s10712/d], Dec. 22, 1987, [101 Stat. 1330–468][/us/stat/101/1330-468], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10712(d), Dec. 22, 1987, [101 Stat. 1330–468][/us/stat/101/1330-468], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -132,16 +132,16 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10712/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10712%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-465
-[/us/pl/104/168/s1311/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1311%2Fc%2F1
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1478
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/104/168/s1311/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1311%2Fd%2F1
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1478
 [/us/usc/t26/s4958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4958
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
-[/us/pl/100/203/s10712/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10712%2Fd
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-468
 
 

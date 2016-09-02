@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720], substituted “Taxable Amount” for “Administration” in subchapter heading, substituted “Taxable amount in case of taxable distribution” for “Administration” in item 2621 and “Taxable amount in case of taxable termination” for “Regulations” in item 2622, and added items 2623 and 2624.
+    1986—[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720], substituted “Taxable Amount” for “Administration” in subchapter heading, substituted “Taxable amount in case of taxable distribution” for “Administration” in item 2621 and “Taxable amount in case of taxable termination” for “Regulations” in item 2622, and added items 2623 and 2624.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2720
 
 

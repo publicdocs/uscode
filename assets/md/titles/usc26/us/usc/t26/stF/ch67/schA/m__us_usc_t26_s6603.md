@@ -73,11 +73,11 @@
 
             Deposits shall be treated as returned to the taxpayer on a last-in, first-out basis.
 
-(Added [Pub. L. 108–357, title VIII, § 842(a)][/us/pl/108/357/s842/a], Oct. 22, 2004, [118 Stat. 1598][/us/stat/118/1598].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 842(a), Oct. 22, 2004, [118 Stat. 1598][/us/stat/118/1598].)
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 842(c)][/us/pl/108/357/s842/c], Oct. 22, 2004, [118 Stat. 1599][/us/stat/118/1599], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 842(c), Oct. 22, 2004, [118 Stat. 1599][/us/stat/118/1599], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s842/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs842%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1598
-[/us/pl/108/357/s842/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs842%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1599
 
 

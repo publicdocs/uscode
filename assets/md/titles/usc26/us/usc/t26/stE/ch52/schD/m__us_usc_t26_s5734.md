@@ -17,7 +17,7 @@
 
     The payment of any tax imposed by this subchapter for carrying on any trade or business shall not be held to exempt any person from any penalty or punishment provided by the laws of any State for carrying on such trade or business within such State, or in any manner to authorize the commencement or continuance of such trade or business contrary to the laws of such State or in places prohibited by municipal law; nor shall the payment of any such tax be held to prohibit any State from placing a duty or tax on the same trade or business, for State or other purposes.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1348][/us/stat/72/1348], § 5145; renumbered § 5734 and amended [Pub. L. 109–59, title XI, § 11125(b)(20)(A)][/us/pl/109/59/s11125/b/20/A], Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1348][/us/stat/72/1348], § 5145; renumbered § 5734 and amended [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(20)(A), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1348
-[/us/pl/109/59/s11125/b/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F20%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t26/s5145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5145

@@ -17,7 +17,7 @@
 
     Every manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, every importer, and every export warehouse proprietor shall keep such records in such manner as the Secretary shall by regulation prescribe. The records required under this section shall be available for inspection by any internal revenue officer during business hours.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 715][/us/stat/68A/715]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1423][/us/stat/72/1423]; [Pub. L. 89–44, title V, § 502(b)(9)][/us/pl/89/44/s502/b/9], June 21, 1965, [79 Stat. 151][/us/stat/79/151]; [Pub. L. 94–455, title XXI, § 2128(c)][/us/pl/94/455/s2128/c], Oct. 4, 1976, [90 Stat. 1921][/us/stat/90/1921]; [Pub. L. 111–3, title VII, § 702(a)(3)][/us/pl/111/3/s702/a/3], Feb. 4, 2009, [123 Stat. 108][/us/stat/123/108].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 715][/us/stat/68A/715]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1423][/us/stat/72/1423]; [Pub. L. 89–44, title V][/us/pl/89/44/tV], § 502(b)(9), June 21, 1965, [79 Stat. 151][/us/stat/79/151]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2128(c), Oct. 4, 1976, [90 Stat. 1921][/us/stat/90/1921]; [Pub. L. 111–3, title VII][/us/pl/111/3/tVII], § 702(a)(3), Feb. 4, 2009, [123 Stat. 108][/us/stat/123/108].)
 
  __Amendments__ 
 
@@ -50,13 +50,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F715
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1423
-[/us/pl/89/44/s502/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F9
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F151
-[/us/pl/94/455/s2128/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2128%2Fc
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1921
-[/us/pl/111/3/s702/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs702%2Fa%2F3
+[/us/pl/111/3/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVII
 [/us/stat/123/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F108
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

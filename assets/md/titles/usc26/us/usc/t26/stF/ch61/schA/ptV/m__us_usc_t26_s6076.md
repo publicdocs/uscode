@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stF/ch61/schA/ptV/m__us_usc_t26_s6075.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch61/schA/ptVI/m__us_usc_t26_stF_ch61_schA_ptVI.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6076)
 
-## \[§ 6076. Repealed. [Pub. L. 100–418, title I, § 1941(b)(1)][/us/pl/100/418/s1941/b/1], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]\]
+## \[§ 6076. Repealed. [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(1), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]\]
 
-    Section, added [Pub. L. 96–223, title I, § 101(c)(1)(A)][/us/pl/96/223/s101/c/1/A], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250], related to time for filing return of windfall profit tax.
+    Section, added [Pub. L. 96–223, title I][/us/pl/96/223/tI], § 101(c)(1)(A), Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250], related to time for filing return of windfall profit tax.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1941/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1323
-[/us/pl/96/223/s101/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Fc%2F1%2FA
+[/us/pl/96/223/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtI
 [/us/stat/94/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F250
 [/us/pl/100/418/s1941/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fc
 [/us/usc/t26/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs164

@@ -17,7 +17,7 @@
 
     For purposes of this part and of sections 164(a) and 275(a), the term “income, war profits, and excess profits taxes” shall include a tax paid in lieu of a tax on income, war profits, or excess profits otherwise generally imposed by any foreign country or by any possession of the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 287][/us/stat/68A/287]; [Pub. L. 88–272, title II, § 207(b)(8)][/us/pl/88/272/s207/b/8], Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; [Pub. L. 100–647, title I, § 1012(v)(9)][/us/pl/100/647/s1012/v/9], Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 106–519, § 4(4)][/us/pl/106/519/s4/4], Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433]; [Pub. L. 108–357, title I, § 101(b)(7)][/us/pl/108/357/s101/b/7], Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 287][/us/stat/68A/287]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 207(b)(8), Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(9), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 106–519][/us/pl/106/519], § 4(4), Nov. 15, 2000, [114 Stat. 2433][/us/stat/114/2433]; [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 101(b)(7), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423].)
 
  __Amendments__ 
 
@@ -54,13 +54,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F287
-[/us/pl/88/272/s207/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs207%2Fb%2F8
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F42
-[/us/pl/100/647/s1012/v/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F9
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3530
-[/us/pl/106/519/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs4%2F4
+[/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2433
-[/us/pl/108/357/s101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F7
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519

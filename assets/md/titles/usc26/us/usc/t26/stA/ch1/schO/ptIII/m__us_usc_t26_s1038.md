@@ -77,7 +77,7 @@
 
         then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying section 121, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.
 
-    \[(f) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1616(b)(12)__  __][/us/pl/104/188/s1616/b/12]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1857__  __][/us/stat/110/1857]__  __\]__ 
+    \[(f) __Repealed.__  __[__  __Pub. L. 104–188, title I__  __][/us/pl/104/188/tI]__  __, § 1616(b)(12),__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1857__  __][/us/stat/110/1857]__  __\]__ 
 
     (g) __Acquisition by estate, etc., of seller__ 
 
@@ -87,7 +87,7 @@
 
         (2) the basis of the real property acquired by the taxpayer shall be increased by an amount equal to the deduction under section 691(c) which would (but for this subsection) have been allowable to the taxpayer with respect to the gain on the exchange of the obligation for the real property.
 
-(Added [Pub. L. 88–570, § 2(a)][/us/pl/88/570/s2/a], Sept. 2, 1964, [78 Stat. 854][/us/stat/78/854]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV][/us/pl/95/600], §§ 404(c)(6), 405(c)(3), Nov. 6, 1978, [92 Stat. 2870][/us/stat/92/2870], 2871; [Pub. L. 96–471, § 4][/us/pl/96/471/s4], Oct. 19, 1980, [94 Stat. 2255][/us/stat/94/2255]; [Pub. L. 104–188, title I, § 1616(b)(12)][/us/pl/104/188/s1616/b/12], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857]; [Pub. L. 105–34, title III, § 312(d)(8)][/us/pl/105/34/s312/d/8], Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840].)
+(Added [Pub. L. 88–570][/us/pl/88/570], § 2(a), Sept. 2, 1964, [78 Stat. 854][/us/stat/78/854]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV][/us/pl/95/600/tIV], §§ 404(c)(6), 405(c)(3), Nov. 6, 1978, [92 Stat. 2870][/us/stat/92/2870], 2871; [Pub. L. 96–471][/us/pl/96/471], § 4, Oct. 19, 1980, [94 Stat. 2255][/us/stat/94/2255]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(b)(12), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857]; [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 312(d)(8), Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840].)
 
  __Amendments__ 
 
@@ -109,9 +109,9 @@
 
     1980—Subsec. (g). [Pub. L. 96–471][/us/pl/96/471] added subsec. (g).
 
-    1978—Subsec. (e)(1)(A). [Pub. L. 95–600, § 404(c)(6)][/us/pl/95/600/s404/c/6], substituted “relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
+    1978—Subsec. (e)(1)(A). [Pub. L. 95–600][/us/pl/95/600], § 404(c)(6), substituted “relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “relating to gain from sale or exchange of residence of an individual who has attained age 65”.
 
-    Subsec. (e)(1)(B). [Pub. L. 95–600, § 405(c)(3)][/us/pl/95/600/s405/c/3], which directed the amendment of [section 1083(e)(1)(B) of this title][/us/usc/t26/s1083/e/1/B] by substituting “(relating to rollover of gain on sale of principal residence)” for “(relating to sale or exchange of residence)”, was executed to this section to reflect the probable intent of Congress because section 1083 does not contain a subsec. (e)(1)(B).
+    Subsec. (e)(1)(B). [Pub. L. 95–600][/us/pl/95/600], § 405(c)(3), which directed the amendment of [section 1083(e)(1)(B) of this title][/us/usc/t26/s1083/e/1/B] by substituting “(relating to rollover of gain on sale of principal residence)” for “(relating to sale or exchange of residence)”, was executed to this section to reflect the probable intent of Congress because section 1083 does not contain a subsec. (e)(1)(B).
 
     1976—Subsec. (e). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -125,7 +125,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–471, § 6(c)][/us/pl/96/471/s6/c], Oct. 19, 1980, [94 Stat. 2256][/us/stat/94/2256], provided: 
+[Pub. L. 96–471][/us/pl/96/471], § 6(c), Oct. 19, 1980, [94 Stat. 2256][/us/stat/94/2256], provided: 
 
 > “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
@@ -133,13 +133,13 @@
 
     Amendment by [section 404(c)(6) of Pub. L. 95–600][/us/pl/95/600/s404/c/6] applicable to sales or exchanges after July 26, 1978, in taxable years ending after such date, see [section 404(d)(1) of Pub. L. 95–600][/us/pl/95/600/s404/d/1], set out as a note under [section 121 of this title][/us/usc/t26/s121].
 
-[Pub. L. 95–600, title IV, § 405(d)][/us/pl/95/600/s405/d], Nov. 6, 1978, [92 Stat. 2871][/us/stat/92/2871], provided that: 
+[Pub. L. 95–600, title IV][/us/pl/95/600/tIV], § 405(d), Nov. 6, 1978, [92 Stat. 2871][/us/stat/92/2871], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1034, 1250, 6212, and 6504 of this title\] shall apply to sales and exchanges of residences after July 26, 1978, in taxable years ending after such date.”
 
  __Effective Date; Election To Apply to Taxable Years Beginning After__  __Dec. 31, 1957__ 
 
-[Pub. L. 88–570, § 2(c)][/us/pl/88/570/s2/c], Sept. 2, 1964, [78 Stat. 856][/us/stat/78/856], provided that:
+[Pub. L. 88–570][/us/pl/88/570], § 2(c), Sept. 2, 1964, [78 Stat. 856][/us/stat/78/856], provided that:
 
 >     “(1) The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1964\].
 
@@ -162,25 +162,25 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1616/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F12
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
-[/us/pl/88/570/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F570%2Fs2%2Fa
+[/us/pl/88/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F570
 [/us/stat/78/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F854
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2870
-[/us/pl/96/471/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs4
+[/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/stat/94/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2255
-[/us/pl/104/188/s1616/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F12
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
-[/us/pl/105/34/s312/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F8
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F840
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
-[/us/pl/95/600/s404/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs404%2Fc%2F6
-[/us/pl/95/600/s405/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs405%2Fc%2F3
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/usc/t26/s1083/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1083%2Fe%2F1%2FB
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -189,14 +189,14 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1616/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fc
 [/us/usc/t26/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs593
-[/us/pl/96/471/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs6%2Fc
+[/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/stat/94/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2256
 [/us/pl/95/600/s404/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs404%2Fc%2F6
 [/us/pl/95/600/s404/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs404%2Fd%2F1
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
-[/us/pl/95/600/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs405%2Fd
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2871
-[/us/pl/88/570/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F570%2Fs2%2Fc
+[/us/pl/88/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F570
 [/us/stat/78/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F856
 
 

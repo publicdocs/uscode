@@ -83,17 +83,17 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11163(d)(4)][/us/pl/109/59/s11163/d/4], Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975], substituted “certain sections” for “sections 6420, 6421, and 6427” in item 6206.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11163(d)(4), Aug. 10, 2005, [119 Stat. 1975][/us/stat/119/1975], substituted “certain sections” for “sections 6420, 6421, and 6427” in item 6206.
 
-    1983—[Pub. L. 97–424, title V, § 515(b)(3)(B)][/us/pl/97/424/s515/b/3/B], Jan. 6, 1983, [96 Stat. 2181][/us/stat/96/2181], struck out reference to section 6424 in item 6206.
+    1983—[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(3)(B), Jan. 6, 1983, [96 Stat. 2181][/us/stat/96/2181], struck out reference to section 6424 in item 6206.
 
-    1970—[Pub. L. 91–258, title II, § 207(d)(11)][/us/pl/91/258/s207/d/11], May 21, 1970, [84 Stat. 249][/us/stat/84/249], inserted reference to section 6427 in item 6206.
+    1970—[Pub. L. 91–258, title II][/us/pl/91/258/tII], § 207(d)(11), May 21, 1970, [84 Stat. 249][/us/stat/84/249], inserted reference to section 6427 in item 6206.
 
-    1965—[Pub. L. 89–44, title II, § 202(c)(2)(B)][/us/pl/89/44/s202/c/2/B], June 21, 1965, [79 Stat. 139][/us/stat/79/139], substituted “6420, 6421, and 6424” for “6420 and 6421” in item 6206.
+    1965—[Pub. L. 89–44, title II][/us/pl/89/44/tII], § 202(c)(2)(B), June 21, 1965, [79 Stat. 139][/us/stat/79/139], substituted “6420, 6421, and 6424” for “6420 and 6421” in item 6206.
 
-    1956—[Act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(e)(3), [70 Stat. 397][/us/stat/70/397], substituted “sections 6420 and 6421” for “section 6420” in item 6206.
+    1956—[Act June 29, 1956, ch. 462, title II][/us/act/1956-06-29/ch462/tII], § 208(e)(3), [70 Stat. 397][/us/stat/70/397], substituted “sections 6420 and 6421” for “section 6420” in item 6206.
 
-    [Act Apr. 2, 1956, ch. 160, § 4(b)(2)][/us/act/1956-04-02/ch160/s4/b/2], [70 Stat. 91][/us/stat/70/91], inserted item “6206. Special rules applicable to excessive claims under section 6420”, and renumbered former item 6206 as 6207.
+    [Act Apr. 2, 1956, ch. 160][/us/act/1956-04-02/ch160], § 4(b)(2), [70 Stat. 91][/us/stat/70/91], inserted item “6206. Special rules applicable to excessive claims under section 6420”, and renumbered former item 6206 as 6207.
 
 ----------
 
@@ -102,17 +102,17 @@
 ----------
 ----------
 
-[/us/pl/109/59/s11163/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11163%2Fd%2F4
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1975
-[/us/pl/97/424/s515/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F3%2FB
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2181
-[/us/pl/91/258/s207/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F11
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F249
-[/us/pl/89/44/s202/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F2%2FB
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F139
-[/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
+[/us/act/1956-06-29/ch462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462%2FtII
 [/us/stat/70/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F397
-[/us/act/1956-04-02/ch160/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160%2Fs4%2Fb%2F2
+[/us/act/1956-04-02/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160
 [/us/stat/70/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F91
 
 

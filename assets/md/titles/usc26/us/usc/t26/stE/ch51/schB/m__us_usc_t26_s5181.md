@@ -101,7 +101,7 @@
 
         For purposes of this section, the term “distilled spirits” does not include distilled spirits produced from petroleum, natural gas, or coal.
 
-(Added [Pub. L. 96–223, title II, § 232(e)(1)][/us/pl/96/223/s232/e/1], Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278].)
+(Added [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(e)(1), Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278].)
 
  __Prior Provisions__ 
 
@@ -109,7 +109,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–223, title II, § 232(h)(3)][/us/pl/96/223/s232/h/3], Apr. 2, 1980, [94 Stat. 281][/us/stat/94/281], provided that: 
+[Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(h)(3), Apr. 2, 1980, [94 Stat. 281][/us/stat/94/281], provided that: 
 
 > “The amendments made by subsection (e) \[enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under [section 4081 of this title][/us/usc/t26/s4081]\] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act \[Apr. 2, 1980\].”
 
@@ -120,9 +120,9 @@
 ----------
 ----------
 
-[/us/pl/96/223/s232/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fe%2F1
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F278
-[/us/pl/96/223/s232/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fh%2F3
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F281
 [/us/usc/t26/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4081
 

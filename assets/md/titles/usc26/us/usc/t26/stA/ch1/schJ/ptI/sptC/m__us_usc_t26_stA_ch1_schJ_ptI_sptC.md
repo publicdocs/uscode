@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title II, § 201(e)(2)][/us/pl/91/172/s201/e/2], Dec. 30, 1969, [83 Stat. 564][/us/stat/83/564], added item 664.
+    1969—[Pub. L. 91–172, title II][/us/pl/91/172/tII], § 201(e)(2), Dec. 30, 1969, [83 Stat. 564][/us/stat/83/564], added item 664.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs201%2Fe%2F2
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F564
 
 

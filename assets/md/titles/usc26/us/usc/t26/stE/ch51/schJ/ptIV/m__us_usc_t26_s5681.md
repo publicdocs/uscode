@@ -31,11 +31,11 @@
 
         Whenever on trial for violation of subsection (c) by working in a distilled spirits plant on which no sign required by section 5180(a) is placed or kept, the defendant is shown to have been present at such premises, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1410][/us/stat/72/1410]; amended [Pub. L. 96–39, title VIII, § 807(a)(58)][/us/pl/96/39/s807/a/58], July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 105–34, title XIV, § 1415(b)(1)][/us/pl/105/34/s1415/b/1], (2), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1410][/us/stat/72/1410]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(58), July 26, 1979, [93 Stat. 289][/us/stat/93/289]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1415(b)(1), (2), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047].)
 
  __References in Text__ 
 
-    Section 5113, referred to in subsec. (b), was repealed by [Pub. L. 109–59, title XI, § 11125(a)(1)(C)][/us/pl/109/59/s11125/a/1/C], Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953].
+    Section 5113, referred to in subsec. (b), was repealed by [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(1)(C), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953].
 
  __Prior Provisions__ 
 
@@ -43,21 +43,21 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1415(b)(1)][/us/pl/105/34/s1415/b/1], struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
 
-    Subsec. (c). [Pub. L. 105–34, § 1415(b)(2)][/us/pl/105/34/s1415/b/2], substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
+    Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1415(b)(2), substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
 
-    1979—Subsec. (a). [Pub. L. 96–39, § 807(a)(58)(A)][/us/pl/96/39/s807/a/58/A], substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
+    1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(58)(A), substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
 
-    Subsec. (b). [Pub. L. 96–39, § 807(a)(58)(B)][/us/pl/96/39/s807/a/58/B], substituted “other than a distiller, warehouseman, or processor of distilled spirits” for “other than a distiller, warehouseman of distilled spirits, rectifier, or bottler of distilled spirits”, “section 5171(c)” for “section 5171(a)”, and “business of a distiller, warehouseman, or processor of distilled spirits” for “business of a distiller, bonded warehouseman, rectifier, bottler of distilled spirits”.
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(58)(B), substituted “other than a distiller, warehouseman, or processor of distilled spirits” for “other than a distiller, warehouseman of distilled spirits, rectifier, or bottler of distilled spirits”, “section 5171(c)” for “section 5171(a)”, and “business of a distiller, warehouseman, or processor of distilled spirits” for “business of a distiller, bonded warehouseman, rectifier, bottler of distilled spirits”.
 
-    Subsec. (c). [Pub. L. 96–39, § 807(a)(58)(C)][/us/pl/96/39/s807/a/58/C], substituted “in any distilled spirits plant” for “in any distillery, or in any rectifying, distilled spirits bottling”, “such distilled spirits plant” for “such distillery, or to or from any such rectifying, distilled spirits bottling”, and “to any distilled spirits plant” for “to any distillery”.
+    Subsec. (c). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(58)(C), substituted “in any distilled spirits plant” for “in any distillery, or in any rectifying, distilled spirits bottling”, “such distilled spirits plant” for “such distillery, or to or from any such rectifying, distilled spirits bottling”, and “to any distilled spirits plant” for “to any distillery”.
 
-    Subsec. (d). [Pub. L. 96–39, § 807(a)(58)(D)][/us/pl/96/39/s807/a/58/D], substituted “distilled spirits plant” for “distillery or rectifying establishment”.
+    Subsec. (d). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(58)(D), substituted “distilled spirits plant” for “distillery or rectifying establishment”.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1415(c)][/us/pl/105/34/s1415/c], Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1415(c), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 5115 of this title][/us/usc/t26/s5115]\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -76,24 +76,24 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1410
-[/us/pl/96/39/s807/a/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F58
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
-[/us/pl/105/34/s1415/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1415%2Fb%2F1
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047
-[/us/pl/109/59/s11125/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F1%2FC
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F698
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/105/34/s1415/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1415%2Fb%2F1
-[/us/pl/105/34/s1415/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1415%2Fb%2F2
-[/us/pl/96/39/s807/a/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F58%2FA
-[/us/pl/96/39/s807/a/58/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F58%2FB
-[/us/pl/96/39/s807/a/58/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F58%2FC
-[/us/pl/96/39/s807/a/58/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F58%2FD
-[/us/pl/105/34/s1415/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1415%2Fc
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047
 [/us/usc/t26/s5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5115
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39

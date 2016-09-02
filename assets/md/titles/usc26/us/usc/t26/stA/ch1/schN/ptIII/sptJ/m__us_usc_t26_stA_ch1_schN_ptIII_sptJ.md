@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, title I, § 1012(v)(1)(C)][/us/pl/100/647/s1012/v/1/C], Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], added item 986 and struck out former item 986 “Determination of foreign corporation’s earnings and profits and foreign taxes”.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(1)(C), Nov. 10, 1988, [102 Stat. 3529][/us/stat/102/3529], added item 986 and struck out former item 986 “Determination of foreign corporation’s earnings and profits and foreign taxes”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/100/647/s1012/v/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F1%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3529
 
 

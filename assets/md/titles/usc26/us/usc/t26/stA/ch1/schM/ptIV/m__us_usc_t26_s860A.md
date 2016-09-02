@@ -23,7 +23,7 @@
 
         The income of any REMIC shall be taxable to the holders of interests in such REMIC as provided in this part.
 
-(Added [Pub. L. 99–514, title VI, § 671(a)][/us/pl/99/514/s671/a], Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309]; amended [Pub. L. 100–647, title I, § 1006(t)(20)][/us/pl/100/647/s1006/t/20], Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426].)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 671(a), Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(20), Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title VI, § 675(a)][/us/pl/99/514/s675/a]–(c), Oct. 22, 1986, [100 Stat. 2320][/us/stat/100/2320], as amended by [Pub. L. 100–647, title I, § 1006(w)(1)][/us/pl/100/647/s1006/w/1], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 675(a)–(c), Oct. 22, 1986, [100 Stat. 2320][/us/stat/100/2320], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(w)(1), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -61,7 +61,7 @@
 
  __Study of Amendments by__  __[__  __Pub. L. 99–514__  __][/us/pl/99/514]__ 
 
-    [Pub. L. 99–514, title VI, § 675(d)][/us/pl/99/514/s675/d], as added by [Pub. L. 100–647, title I, § 1006(w)(2)][/us/pl/100/647/s1006/w/2], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by [Pub. L. 101–508, title XI, § 11832(5)][/us/pl/101/508/s11832/5], Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].
+    [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 675(d), as added by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(w)(2), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part \[this subtitle\] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11832(5), Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].
 
 ----------
 
@@ -70,27 +70,27 @@
 ----------
 ----------
 
-[/us/pl/99/514/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2309
-[/us/pl/100/647/s1006/t/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F20
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3426
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s675/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs675%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2320
-[/us/pl/100/647/s1006/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fw%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s1272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1272
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s675/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs675%2Fd
-[/us/pl/100/647/s1006/w/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fw%2F2
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
-[/us/pl/101/508/s11832/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11832%2F5
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-559
 
 

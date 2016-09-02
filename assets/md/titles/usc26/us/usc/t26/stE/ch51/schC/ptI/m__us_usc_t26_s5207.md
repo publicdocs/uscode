@@ -73,7 +73,7 @@
 
         For penalty and forfeiture for refusal or neglect to keep records required under this section, or for false entries therein, see sections 5603 and 5615(5).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1361][/us/stat/72/1361]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 2(e)][/us/pl/95/176/s2/e], Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364]; [Pub. L. 96–39, title VIII, § 807(a)(25)][/us/pl/96/39/s807/a/25], July 26, 1979, [93 Stat. 283][/us/stat/93/283]; [Pub. L. 98–369, div. A, title IV, § 454(c)(6)][/us/pl/98/369/s454/c/6], July 18, 1984, [98 Stat. 821][/us/stat/98/821]; [Pub. L. 105–34, title XIV, § 1413(a)][/us/pl/105/34/s1413/a], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1361][/us/stat/72/1361]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 2(e), Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(25), July 26, 1979, [93 Stat. 283][/us/stat/93/283]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(6), July 18, 1984, [98 Stat. 821][/us/stat/98/821]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1413(a), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
 
  __Prior Provisions__ 
 
@@ -175,7 +175,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] struck out “shall be kept on the premises where the operations covered by the record are carried on and” after “required by subsection (b)”.
 
-    1984—Subsec. (a)(4)(D). [Pub. L. 98–369, § 454(c)(6)][/us/pl/98/369/s454/c/6], struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
+    1984—Subsec. (a)(4)(D). [Pub. L. 98–369][/us/pl/98/369], § 454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
 
     1979—Subsec. (a). [Pub. L. 96–39][/us/pl/96/39] struck out provisions relating to the bottling of distilled spirits in bond and relating to the kind and quantity of distilled spirits returned to bonded premises and inserted provisions relating to the kind and quantity of distilled spirits returned to storage and relating to receipt, use, and balance on hand of all stamps required by law or regulations to be used by the Secretary.
 
@@ -185,13 +185,13 @@ Provisions similar to those comprising this section were contained in prior sect
 
     Subsecs. (d), (e). [Pub. L. 96–39][/us/pl/96/39] redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    1977—Subsec. (a)(10), (11). [Pub. L. 95–176, § 2(e)(2)][/us/pl/95/176/s2/e/2], (3), added par. (10) and redesignated former par. (10) as (11).
+    1977—Subsec. (a)(10), (11). [Pub. L. 95–176][/us/pl/95/176], § 2(e)(2), (3), added par. (10) and redesignated former par. (10) as (11).
 
     1976—Subsecs. (a) to (d). Pub. L. 94—455 struck out “or his delegate” after “Secretary” wherever appearing.
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1413(b)][/us/pl/105/34/s1413/b], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1413(b), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -214,29 +214,29 @@ Provisions similar to those comprising this section were contained in prior sect
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1361
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs2%2Fe
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1364
-[/us/pl/96/39/s807/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F25
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F283
-[/us/pl/98/369/s454/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F6
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F821
-[/us/pl/105/34/s1413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1413%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F637
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/98/369/s454/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F6
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
-[/us/pl/95/176/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs2%2Fe%2F2
-[/us/pl/105/34/s1413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1413%2Fb
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs456%2Fb

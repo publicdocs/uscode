@@ -17,7 +17,7 @@
 
     All boilers, stills, or other vessels, tools and implements, used in distilling or processing, and forfeited under any of the provisions of this chapter, and all condemned material, together with any engine or other machinery connected therewith, and all empty barrels, and all grain or other material suitable for fermentation or distillation, shall be sold at public auction or otherwise disposed of as the court in which forfeiture was recovered shall in its discretion direct.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 96–39, title VIII, § 807(a)(54)][/us/pl/96/39/s807/a/54], July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(54), July 26, 1979, [93 Stat. 289][/us/stat/93/289].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1404
-[/us/pl/96/39/s807/a/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F54
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F289
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685

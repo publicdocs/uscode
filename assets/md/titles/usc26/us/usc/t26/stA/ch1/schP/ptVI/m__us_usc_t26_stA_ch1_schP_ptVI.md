@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XI, § 1122(d)(6)][/us/pl/105/34/s1122/d/6], Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977], added items for subparts C and D and struck out former item for subpart C “General provisions”.
+    1997—[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1122(d)(6), Aug. 5, 1997, [111 Stat. 977][/us/stat/111/977], added items for subparts C and D and struck out former item for subpart C “General provisions”.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1122/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fd%2F6
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F977
 
 

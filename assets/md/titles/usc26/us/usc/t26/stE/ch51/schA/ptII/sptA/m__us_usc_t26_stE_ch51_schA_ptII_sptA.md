@@ -43,13 +43,13 @@
 
  __Prior Provisions__ 
 
-    A prior subpart A, consisting of [section 5081 of this title][/us/usc/t26/s5081], related to proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by [Pub. L. 109–59, title XI, § 11125(a)(1)(A)][/us/pl/109/59/s11125/a/1/A], (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+    A prior subpart A, consisting of [section 5081 of this title][/us/usc/t26/s5081], related to proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(1)(A), (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-    Another prior subpart A, consisting of sections 5081 to 5084 of this title, related to rectifiers of distilled spirits or wines, prior to repeal by [Pub. L. 96–39, title VIII][/us/pl/96/39], §§ 803(b), 810, July 26, 1979, [93 Stat. 274][/us/stat/93/274], 292, effective Jan. 1, 1980.
+    Another prior subpart A, consisting of sections 5081 to 5084 of this title, related to rectifiers of distilled spirits or wines, prior to repeal by [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], §§ 803(b), 810, July 26, 1979, [93 Stat. 274][/us/stat/93/274], 292, effective Jan. 1, 1980.
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11125(b)(2)][/us/pl/109/59/s11125/b/2], Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], redesignated subpart C of this part as this subpart.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(2), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], redesignated subpart C of this part as this subpart.
 
 ----------
 
@@ -59,11 +59,11 @@
 ----------
 
 [/us/usc/t26/s5081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5081
-[/us/pl/109/59/s11125/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F1%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
-[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F274
-[/us/pl/109/59/s11125/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F2
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 
 

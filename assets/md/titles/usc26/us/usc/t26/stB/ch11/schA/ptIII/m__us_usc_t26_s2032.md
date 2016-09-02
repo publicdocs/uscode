@@ -53,17 +53,17 @@
 
             No election may be made under this section if such return is filed more than 1 year after the time prescribed by law (including extensions) for filing such return.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 91–614, title I, § 101(a)][/us/pl/91/614/s101/a], Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369], §§ 1023(a), 1024(a), July 18, 1984, [98 Stat. 1030][/us/stat/98/1030]; [Pub. L. 99–514, title XIV, § 1432(c)(1)][/us/pl/99/514/s1432/c/1], Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 381][/us/stat/68A/381]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(a), Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], §§ 1023(a), 1024(a), July 18, 1984, [98 Stat. 1030][/us/stat/98/1030]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1432(c)(1), Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730].)
 
  __Amendments__ 
 
     1986—Subsec. (c)(2). [Pub. L. 99–514][/us/pl/99/514] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the tax imposed by this chapter (reduced by credits allowable against such tax).”
 
-    1984—Subsec. (c). [Pub. L. 98–369, § 1023(a)][/us/pl/98/369/s1023/a], added subsec. (c). Former subsec. (c) redesignated (d).
+    1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 1023(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 98–369, § 1024(a)][/us/pl/98/369/s1024/a], substituted “Election” for “Time of election” in heading, designated existing text as par. (1), inserted heading “In general”, substituted “shall be made by the executor on the return of the tax imposed by this chapter” for “shall be exercised by the executor on his return if filed within the time prescribed by law or before the expiration of any extension of time granted pursuant to law for the filing of the return”, inserted sentence providing that an election, once made, is irrevocable, and added par. (2).
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 1024(a), substituted “Election” for “Time of election” in heading, designated existing text as par. (1), inserted heading “In general”, substituted “shall be made by the executor on the return of the tax imposed by this chapter” for “shall be exercised by the executor on his return if filed within the time prescribed by law or before the expiration of any extension of time granted pursuant to law for the filing of the return”, inserted sentence providing that an election, once made, is irrevocable, and added par. (2).
 
-    [Pub. L. 98–369, § 1023(a)][/us/pl/98/369/s1023/a], redesignated subsec. (c) as (d).
+    [Pub. L. 98–369][/us/pl/98/369], § 1023(a), redesignated subsec. (c) as (d).
 
     1970—[Pub. L. 91–614][/us/pl/91/614] substituted “6 months” for “1 year” in four places and substituted “6-month” for “1-year”.
 
@@ -73,11 +73,11 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X, § 1023(b)][/us/pl/98/369/s1023/b], July 18, 1984, [98 Stat. 1030][/us/stat/98/1030], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1023(b), July 18, 1984, [98 Stat. 1030][/us/stat/98/1030], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].”
 
-[Pub. L. 98–369, div. A, title X, § 1024(b)][/us/pl/98/369/s1024/b], July 18, 1984, [98 Stat. 1030][/us/stat/98/1030], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1024(b), July 18, 1984, [98 Stat. 1030][/us/stat/98/1030], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–614, title I, § 101(j)][/us/pl/91/614/s101/j], Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that: 
+[Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(j), Dec. 31, 1970, [84 Stat. 1838][/us/stat/84/1838], provided that: 
 
 > “The amendments made by this section \[enacting [section 6905 of this title][/us/usc/t26/s6905], amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
 
@@ -110,28 +110,28 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F381
-[/us/pl/91/614/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fa
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1836
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1030
-[/us/pl/99/514/s1432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1432%2Fc%2F1
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2730
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1023%2Fa
-[/us/pl/98/369/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1024%2Fa
-[/us/pl/98/369/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1023%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
 [/us/usc/t26/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2601
-[/us/pl/98/369/s1023/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1023%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1030
-[/us/pl/98/369/s1024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1024%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1030
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/91/614/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fj
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1838
 [/us/usc/t26/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6905
 

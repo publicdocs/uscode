@@ -65,7 +65,7 @@
 
             If any amounts remain in such account after payment of any qualified costs incurred under section 7624, such amounts shall be withdrawn from such account and deposited in the Treasury of the United States as internal revenue collections.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 918][/us/stat/68A/918]; [Pub. L. 87–870, § 3(b)][/us/pl/87/870/s3/b], Oct. 23, 1962, [76 Stat. 1161][/us/stat/76/1161]; [Pub. L. 89–719, title I, § 112(b)][/us/pl/89/719/s112/b], Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146]; [Pub. L. 94–455, title XII, § 1202(h)(5)][/us/pl/94/455/s1202/h/5], title XIX, §§ 1906(a)(59), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1688][/us/stat/90/1688], 1833, 1834; [Pub. L. 94–528, § 2(d)][/us/pl/94/528/s2/d], Oct. 17, 1976, [90 Stat. 2483][/us/stat/90/2483]; [Pub. L. 100–690, title VII, § 7602(b)][/us/pl/100/690/s7602/b], Nov. 18, 1988, [102 Stat. 4507][/us/stat/102/4507]; [Pub. L. 108–357, title VIII, § 881(a)(2)(A)][/us/pl/108/357/s881/a/2/A], Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 918][/us/stat/68A/918]; [Pub. L. 87–870][/us/pl/87/870], § 3(b), Oct. 23, 1962, [76 Stat. 1161][/us/stat/76/1161]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 112(b), Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(h)(5), title XIX, §§ 1906(a)(59), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1688][/us/stat/90/1688], 1833, 1834; [Pub. L. 94–528][/us/pl/94/528], § 2(d), Oct. 17, 1976, [90 Stat. 2483][/us/stat/90/2483]; [Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7602(b), Nov. 18, 1988, [102 Stat. 4507][/us/stat/102/4507]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(a)(2)(A), Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626].)
 
  __Amendments__ 
 
@@ -73,19 +73,19 @@
 
     1988—Subsec. (d). [Pub. L. 100–690][/us/pl/100/690] added subsec. (d).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(a)(59)][/us/pl/94/455/s1906/a/59], (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(59), (b)(13)(A), struck out “4735, 4762” after “and in sections”, and “or his delegate” after “Secretary” in two places.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (c)(1). [Pub. L. 94–455, § 1202(h)(5)][/us/pl/94/455/s1202/h/5], substituted “section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations)” for “section 7515 (relating to special statistical studies and compilations for other services on request)” after “performed pursuant to”.
+    Subsec. (c)(1). [Pub. L. 94–455][/us/pl/94/455], § 1202(h)(5), substituted “section 6103(p) (relating to furnishing of copies of returns or of return information), and section 6108(b) (relating to special statistical studies and compilations)” for “section 7515 (relating to special statistical studies and compilations for other services on request)” after “performed pursuant to”.
 
     Subsec. (c)(4). [Pub. L. 94–528][/us/pl/94/528] added par. (4).
 
     1966—Subsecs. (a), (b)(4). [Pub. L. 89–719][/us/pl/89/719] inserted reference to section 7810 in subsec. (a) and added subsec. (b)(4).
 
-    1962—Subsec. (a). [Pub. L. 87–870, § 3(b)(1)][/us/pl/87/870/s3/b/1], substituted “subsections (b) and (c) and in” for “subsection (b),”.
+    1962—Subsec. (a). [Pub. L. 87–870][/us/pl/87/870], § 3(b)(1), substituted “subsections (b) and (c) and in” for “subsection (b),”.
 
-    Subsec. (c). [Pub. L. 87–870, § 3(b)(2)][/us/pl/87/870/s3/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 87–870][/us/pl/87/870], § 3(b)(2), added subsec. (c).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1976 Amendments__ 
 
-[Pub. L. 94–528, § 2(e)][/us/pl/94/528/s2/e], Oct. 17, 1976, [90 Stat. 2484][/us/stat/90/2484], provided that: 
+[Pub. L. 94–528][/us/pl/94/528], § 2(e), Oct. 17, 1976, [90 Stat. 2484][/us/stat/90/2484], provided that: 
 
 > “The amendments made by this section \[amending this section and provisions set out as notes under sections 6334, 6851, and 7609 of this title\] shall take effect on the date of the enactment of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
 
@@ -105,7 +105,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 100–690, title VII, § 7602(f)][/us/pl/100/690/s7602/f], Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], provided that: 
+[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7602(f), Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], provided that: 
 
 > “There is authorized to be appropriated from the account referred to in section 7809(d) of the Internal Revenue Code of 1986 such sums as may be necessary to make the payments authorized by section 7624 of such Code.”
 
@@ -118,31 +118,31 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F918
-[/us/pl/87/870/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs3%2Fb
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1161
-[/us/pl/89/719/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs112%2Fb
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1146
-[/us/pl/94/455/s1202/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F5
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1688
-[/us/pl/94/528/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528%2Fs2%2Fd
+[/us/pl/94/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528
 [/us/stat/90/2483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2483
-[/us/pl/100/690/s7602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fb
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4507
-[/us/pl/108/357/s881/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fa%2F2%2FA
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1626
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/94/455/s1906/a/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F59
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1202/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F5
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
-[/us/pl/87/870/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs3%2Fb%2F1
-[/us/pl/87/870/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs3%2Fb%2F2
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/pl/100/690/s7602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fe
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/94/528/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528%2Fs2%2Fe
+[/us/pl/94/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F528
 [/us/stat/90/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2484
 [/us/pl/94/455/s1202/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fh%2F5
 [/us/pl/94/455/s1202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fi
@@ -150,7 +150,7 @@
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
-[/us/pl/100/690/s7602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Ff
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4508
 
 

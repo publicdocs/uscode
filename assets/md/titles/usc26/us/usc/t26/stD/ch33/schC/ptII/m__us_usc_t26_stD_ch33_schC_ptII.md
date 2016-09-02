@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–258, title II, § 204][/us/pl/91/258/s204], May 21, 1970, [84 Stat. 239][/us/stat/84/239], added “PART II—PROPERTY” and items 4271 and 4272.
+    1970—[Pub. L. 91–258, title II][/us/pl/91/258/tII], § 204, May 21, 1970, [84 Stat. 239][/us/stat/84/239], added “PART II—PROPERTY” and items 4271 and 4272.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/258/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs204
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F239
 
 

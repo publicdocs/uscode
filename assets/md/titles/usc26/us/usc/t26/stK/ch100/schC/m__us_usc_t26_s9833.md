@@ -17,7 +17,7 @@
 
     The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this chapter. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this chapter.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082]; § 9806; renumbered § 9833, [Pub. L. 105–34, title XV, § 1531(a)(2)][/us/pl/105/34/s1531/a/2], Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082]; § 9806; renumbered § 9833, [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(a)(2), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2082
-[/us/pl/105/34/s1531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fa%2F2
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1081
 [/us/pl/104/191/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs104
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392

@@ -87,7 +87,7 @@
 
         For provisions relating to allowance for loss in case of wine spirits withdrawn for use in wine production, see section 5373(b)(3).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1323][/us/stat/72/1323]; amended [Pub. L. 89–44, title VIII, § 805(a)][/us/pl/89/44/s805/a], June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 90–630, § 1][/us/pl/90/630/s1], Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 91–659][/us/pl/91/659], §§ 1, 2(a), (b), Jan. 8, 1971, [84 Stat. 1964][/us/stat/84/1964]; [Pub. L. 94–273, § 47][/us/pl/94/273/s47], Apr. 21, 1976, [90 Stat. 382][/us/stat/90/382]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1818][/us/stat/90/1818], 1834; [Pub. L. 95–176][/us/pl/95/176], §§ 2(f), 4(e), Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364], 1366; [Pub. L. 96–39, title VIII, § 807(a)(6)][/us/pl/96/39/s807/a/6], July 26, 1979, [93 Stat. 281][/us/stat/93/281]; [Pub. L. 105–34, title XIV, § 1411(a)][/us/pl/105/34/s1411/a], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1323][/us/stat/72/1323]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(a), June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 90–630][/us/pl/90/630], § 1, Oct. 22, 1968, [82 Stat. 1328][/us/stat/82/1328]; [Pub. L. 91–659][/us/pl/91/659], §§ 1, 2(a), (b), Jan. 8, 1971, [84 Stat. 1964][/us/stat/84/1964]; [Pub. L. 94–273][/us/pl/94/273], § 47, Apr. 21, 1976, [90 Stat. 382][/us/stat/90/382]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1818][/us/stat/90/1818], 1834; [Pub. L. 95–176][/us/pl/95/176], §§ 2(f), 4(e), Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364], 1366; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(6), July 26, 1979, [93 Stat. 281][/us/stat/93/281]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1411(a), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046].)
 
  __Prior Provisions__ 
 
@@ -99,25 +99,25 @@
 
     1997—Subsec. (c)(1). [Pub. L. 105–34][/us/pl/105/34] substituted “on which tax has been determined or paid” for “withdrawn from bonded premises on payment or determination of tax”.
 
-    1979—Subsec. (a)(1)(C). [Pub. L. 96–39, § 807(a)(6)(A)][/us/pl/96/39/s807/a/6/A], added subpar. (C).
+    1979—Subsec. (a)(1)(C). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(A), added subpar. (C).
 
-    Subsec. (a)(5). [Pub. L. 96–39, § 807(a)(6)(B)][/us/pl/96/39/s807/a/6/B], substituted “before” for “prior to the completion” and struck out provisions relating to the applicability of this subsection where the loss occurred after the time prescribed for the withdrawal of the distilled spirits from the bonded premises under section 5006(a)(2) and relating to the applicability of this paragraph to any loss of distilled spirits for which abatement, remission, credit, or refund of tax is allowed under subsec. (c).
+    Subsec. (a)(5). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(B), substituted “before” for “prior to the completion” and struck out provisions relating to the applicability of this subsection where the loss occurred after the time prescribed for the withdrawal of the distilled spirits from the bonded premises under section 5006(a)(2) and relating to the applicability of this paragraph to any loss of distilled spirits for which abatement, remission, credit, or refund of tax is allowed under subsec. (c).
 
-    Subsec. (b). [Pub. L. 96–39, § 807(a)(6)(C)][/us/pl/96/39/s807/a/6/C], struck out “(1) Distilled spirits in bond” before “The proprietor of” and provisions relating to distilled spirits withdrawn for rectification or bottling.
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(C), struck out “(1) Distilled spirits in bond” before “The proprietor of” and provisions relating to distilled spirits withdrawn for rectification or bottling.
 
-    Subsec. (c). [Pub. L. 96–39, § 807(a)(6)(C)][/us/pl/96/39/s807/a/6/C], added subsec. (c). Former subsec. (c), which related to loss of distilled spirits withdrawn from bond for rectification or bottling, was struck out.
+    Subsec. (c). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(C), added subsec. (c). Former subsec. (c), which related to loss of distilled spirits withdrawn from bond for rectification or bottling, was struck out.
 
-    Subsec. (d). [Pub. L. 96–39, § 807(a)(6)(D)][/us/pl/96/39/s807/a/6/D], redesignated subsec. (f) as (d). Former subsec. (d), which related to distilled spirits returned to bonded premises, was struck out.
+    Subsec. (d). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(D), redesignated subsec. (f) as (d). Former subsec. (d), which related to distilled spirits returned to bonded premises, was struck out.
 
-    Subsec. (e). [Pub. L. 96–39, § 807(a)(6)(D)][/us/pl/96/39/s807/a/6/D], (E), redesignated subsec. (g) as (e) and substituted “subsection (c)” for “subsections (b)(2), (c), and (d)” and “under such subsection” for “under such subsections”. Former subsec. (e), which related to samples of distilled spirits used for analysis or testing by United States, was struck out.
+    Subsec. (e). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(D), (E), redesignated subsec. (g) as (e) and substituted “subsection (c)” for “subsections (b)(2), (c), and (d)” and “under such subsection” for “under such subsections”. Former subsec. (e), which related to samples of distilled spirits used for analysis or testing by United States, was struck out.
 
-    Subsec. (f). [Pub. L. 96–39, § 807(a)(6)(D)][/us/pl/96/39/s807/a/6/D], redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+    Subsec. (f). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(D), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-    Subsecs. (g), (h). [Pub. L. 96–39, § 807(a)(6)(D)][/us/pl/96/39/s807/a/6/D], redesignated subsecs. (g) and (h) as (e) and (f), respectively.
+    Subsecs. (g), (h). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-    1977—Subsec. (d). [Pub. L. 95–176, § 2(f)][/us/pl/95/176/s2/f], reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
+    1977—Subsec. (d). [Pub. L. 95–176][/us/pl/95/176], § 2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
 
-    Subsec. (f)(5). [Pub. L. 95–176, § 4(e)][/us/pl/95/176/s4/e], added par. (5).
+    Subsec. (f)(5). [Pub. L. 95–176][/us/pl/95/176], § 4(e), added par. (5).
 
     1976—Subsec. (b)(1). [Pub. L. 94–455][/us/pl/94/455], §§ 1905(a)(2)(A), 1906(b)(13)(A), inserted “or by section 7652” after “tax imposed by this chapter” and struck out “or his delegate” after “Secretary”.
 
@@ -127,15 +127,15 @@
 
     Subsec. (c)(2), (3). [Pub. L. 94–273][/us/pl/94/273] substituted “computation year” for “fiscal year” wherever appearing.
 
-    Subsec. (c)(5). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(5). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (d)(1). [Pub. L. 94–455][/us/pl/94/455], §§ 1905(a)(2)(C), (D), 1906(b)(13)(A), struck out “on or after July 1, 1959,” after “from bonded premises,” and “or his delegate” after “Secretary” and inserted “or under section 7652” after “under section 5001(a)(1)”.
 
-    1971—Subsec. (b)(2). [Pub. L. 91–659, § 2(a)][/us/pl/91/659/s2/a], struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
+    1971—Subsec. (b)(2). [Pub. L. 91–659][/us/pl/91/659], § 2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
 
-    Subsec. (c)(1)(A). [Pub. L. 91–659, § 1][/us/pl/91/659/s1], added cl. (iii).
+    Subsec. (c)(1)(A). [Pub. L. 91–659][/us/pl/91/659], § 1, added cl. (iii).
 
-    Subsec. (c)(5). [Pub. L. 91–659, § 2(b)][/us/pl/91/659/s2/b], permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
+    Subsec. (c)(5). [Pub. L. 91–659][/us/pl/91/659], § 2(b), permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
 
     1968—Subsec. (c)(1). [Pub. L. 90–630][/us/pl/90/630] inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1411(b)][/us/pl/105/34/s1411/b], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1411(b), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -165,7 +165,7 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–630, § 4][/us/pl/90/630/s4], Oct. 22, 1968, [82 Stat. 1329][/us/stat/82/1329], provided that:
+[Pub. L. 90–630][/us/pl/90/630], § 4, Oct. 22, 1968, [82 Stat. 1329][/us/stat/82/1329], provided that:
 
 >     “(a) For purposes of subsection (b), the effective date of this Act is the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 22, 1968\].
 
@@ -173,7 +173,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–44, title VIII, § 805(g)(1)][/us/pl/89/44/s805/g/1], June 21, 1965, [79 Stat. 162][/us/stat/79/162], provided that: 
+[Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(g)(1), June 21, 1965, [79 Stat. 162][/us/stat/79/162], provided that: 
 
 > “The amendments made by subsections (a), (c), (e), and (f)(6) \[amending this section and sections 5062, 5215, and 5608 of this title\] shall take effect on July 1, 1965.”
 
@@ -188,23 +188,23 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1323
-[/us/pl/89/44/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fa
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F160
-[/us/pl/90/630/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs1
+[/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/stat/82/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1328
 [/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/stat/84/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1964
-[/us/pl/94/273/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs47
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F382
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1818
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1364
-[/us/pl/96/39/s807/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F281
-[/us/pl/105/34/s1411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1411%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F602
@@ -213,28 +213,28 @@
 [/us/stat/68A/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F604
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/96/39/s807/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FA
-[/us/pl/96/39/s807/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FB
-[/us/pl/96/39/s807/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FC
-[/us/pl/96/39/s807/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FC
-[/us/pl/96/39/s807/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FD
-[/us/pl/96/39/s807/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FD
-[/us/pl/96/39/s807/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FD
-[/us/pl/96/39/s807/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F6%2FD
-[/us/pl/95/176/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs2%2Ff
-[/us/pl/95/176/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs4%2Fe
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/659/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs2%2Fa
-[/us/pl/91/659/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs1
-[/us/pl/91/659/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs2%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
-[/us/pl/105/34/s1411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1411%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
@@ -248,12 +248,12 @@
 [/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/pl/91/659/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs6
 [/us/usc/t26/s5066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5066
-[/us/pl/90/630/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs4
+[/us/pl/90/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630
 [/us/stat/82/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1329
 [/us/usc/t26/s5062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5062
 [/us/usc/t19/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1313
 [/us/usc/t26/s5232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5232
-[/us/pl/89/44/s805/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fg%2F1
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F162
 [/us/usc/t26/s5041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5041
 [/us/pl/96/39/s808/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs808%2Fd

@@ -51,11 +51,11 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, title I, § 1018(d)(5)(F)][/us/pl/100/647/s1018/d/5/F], Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], substituted “corporations; treatment of distributions.” for “transferor corporation; other treatment of transferor corporation; etc.” in item 361.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(d)(5)(F), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], substituted “corporations; treatment of distributions.” for “transferor corporation; other treatment of transferor corporation; etc.” in item 361.
 
-    1986—[Pub. L. 99–514, title XVIII, § 1804(g)(3)][/us/pl/99/514/s1804/g/3], Oct. 22, 1986, [100 Stat. 2806][/us/stat/100/2806], substituted “to transferor corporation; other treatment of transferor corporation; etc.” for “corporations” in item 361.
+    1986—[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(g)(3), Oct. 22, 1986, [100 Stat. 2806][/us/stat/100/2806], substituted “to transferor corporation; other treatment of transferor corporation; etc.” for “corporations” in item 361.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(13)][/us/pl/94/455/s1901/b/13], Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], struck out item 363 “Effect on earnings and profits”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(13), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], struck out item 363 “Effect on earnings and profits”.
 
 ----------
 
@@ -64,11 +64,11 @@
 ----------
 ----------
 
-[/us/pl/100/647/s1018/d/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F5%2FF
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3580
-[/us/pl/99/514/s1804/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fg%2F3
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2806
-[/us/pl/94/455/s1901/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F13
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1795
 
 

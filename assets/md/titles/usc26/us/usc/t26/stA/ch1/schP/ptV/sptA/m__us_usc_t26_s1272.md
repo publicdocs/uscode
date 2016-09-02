@@ -209,7 +209,7 @@
 
             The basis of any debt instrument in the hands of the holder thereof shall be increased by the amount included in his gross income pursuant to this section.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 533][/us/stat/98/533]; amended [Pub. L. 99–514, title VI, § 672][/us/pl/99/514/s672], Oct. 22, 1986, [100 Stat. 2318][/us/stat/100/2318]; [Pub. L. 105–34, title X, § 1004(a)][/us/pl/105/34/s1004/a], Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 533][/us/stat/98/533]; amended [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 672, Oct. 22, 1986, [100 Stat. 2318][/us/stat/100/2318]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1004(a), Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911].)
 
  __Amendments__ 
 
@@ -219,7 +219,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1004(b)(1)][/us/pl/105/34/s1004/b/1], Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1004(b)(1), Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -233,7 +233,7 @@
 
  __Change in Method of Accounting__ 
 
-[Pub. L. 105–34, title X, § 1004(b)(2)][/us/pl/105/34/s1004/b/2], Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1004(b)(2), Aug. 5, 1997, [111 Stat. 911][/us/stat/111/911], provided that: 
 
 > “In the case of any taxpayer required by this section \[amending this section and enacting provisions set out as a note above\] to change its method of accounting for its first taxable year beginning after the date of the enactment of this Act \[Aug. 5, 1997\]—
 
@@ -250,22 +250,22 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F533
-[/us/pl/99/514/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs672
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2318
-[/us/pl/105/34/s1004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1004%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F911
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/105/34/s1004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1004%2Fb%2F1
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F911
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s675/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs675%2Fb
 [/us/usc/t26/s860A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs860A
 [/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44
 [/us/usc/t26/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1271
-[/us/pl/105/34/s1004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1004%2Fb%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F911
 
 

@@ -37,7 +37,7 @@
 
         For purposes of this section, the term “export promotion expenses” means those expenses incurred to advance the distribution or sale of export property for use, consumption, or distribution outside of the United States, but does not include income taxes. Such expenses shall also include freight expenses to the extent of 50 percent of the cost of shipping export property aboard airplanes owned and operated by United States persons or ships documented under the laws of the United States in those cases where law or regulations does not require that such property be shipped aboard such airplanes or ships.
 
-(Added [Pub. L. 92–178, title V, § 501][/us/pl/92/178/s501], Dec. 10, 1971, [85 Stat. 543][/us/stat/85/543]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 501, Dec. 10, 1971, [85 Stat. 543][/us/stat/85/543]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/92/178/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs501
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F543
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 

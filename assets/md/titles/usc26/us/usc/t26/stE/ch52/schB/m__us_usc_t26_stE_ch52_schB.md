@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–33, title IX, § 9302(h)(2)(C)][/us/pl/105/33/s9302/h/2/C], Aug. 5, 1997, [111 Stat. 674][/us/stat/111/674], inserted “and Importers” after “Manufacturers” in subchapter heading.
+    1997—[Pub. L. 105–33, title IX][/us/pl/105/33/tIX], § 9302(h)(2)(C), Aug. 5, 1997, [111 Stat. 674][/us/stat/111/674], inserted “and Importers” after “Manufacturers” in subchapter heading.
 
-    1965—[Pub. L. 89–44, title V, § 502(b)(5)][/us/pl/89/44/s502/b/5], June 21, 1965, [79 Stat. 151][/us/stat/79/151], struck out reference to dealers in tobacco materials from subchapter heading.
+    1965—[Pub. L. 89–44, title V][/us/pl/89/44/tV], § 502(b)(5), June 21, 1965, [79 Stat. 151][/us/stat/79/151], struck out reference to dealers in tobacco materials from subchapter heading.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/105/33/s9302/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F2%2FC
+[/us/pl/105/33/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIX
 [/us/stat/111/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F674
-[/us/pl/89/44/s502/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F5
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F151
 
 

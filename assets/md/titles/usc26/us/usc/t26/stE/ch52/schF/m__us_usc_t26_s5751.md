@@ -35,7 +35,7 @@
 
         Any person who possesses tobacco products or cigarette papers or tubes in violation of subsection (a)(1) or (a)(2) shall be liable for a tax equal to the tax on such articles.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 716][/us/stat/68A/716]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1424][/us/stat/72/1424]; [Pub. L. 94–455, title XIX, § 1905(b)(7)(A)][/us/pl/94/455/s1905/b/7/A], Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 716][/us/stat/68A/716]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1424][/us/stat/72/1424]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(7)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823].)
 
  __Amendments__ 
 
@@ -64,9 +64,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F716
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1424
-[/us/pl/94/455/s1905/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F7%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859

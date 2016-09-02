@@ -45,7 +45,7 @@
 
         All administrative and penal provisions of this title, insofar as applicable, shall apply to any tax imposed by section 5051.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1334][/us/stat/72/1334]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(5), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1818][/us/stat/90/1818], 1834; [Pub. L. 95–458, § 2(b)(2)(B)][/us/pl/95/458/s2/b/2/B], Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256]; [Pub. L. 99–509, title VIII, § 8011(b)(2)][/us/pl/99/509/s8011/b/2], Oct. 21, 1986, [100 Stat. 1953][/us/stat/100/1953]; [Pub. L. 100–647, title I, § 1018(u)(19)][/us/pl/100/647/s1018/u/19], Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 105–206, title VI, § 6014(a)(1)][/us/pl/105/206/s6014/a/1], (2), July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1334][/us/stat/72/1334]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(5), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1818][/us/stat/90/1818], 1834; [Pub. L. 95–458][/us/pl/95/458], § 2(b)(2)(B), Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256]; [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8011(b)(2), Oct. 21, 1986, [100 Stat. 1953][/us/stat/100/1953]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(19), Nov. 10, 1988, [102 Stat. 3591][/us/stat/102/3591]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6014(a)(1), (2), July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
 
  __Prior Provisions__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–206, § 6014(a)(1)][/us/pl/105/206/s6014/a/1], in heading inserted “; certain imported beer” after “United States” and in text inserted “, or imported into the United States and transferred to a brewery free of tax under section 5418,” after “United States”.
+    1998—Subsec. (a)(1). [Pub. L. 105–206][/us/pl/105/206], § 6014(a)(1), in heading inserted “; certain imported beer” after “United States” and in text inserted “, or imported into the United States and transferred to a brewery free of tax under section 5418,” after “United States”.
 
-    Subsec. (a)(2). [Pub. L. 105–206, § 6014(a)(2)][/us/pl/105/206/s6014/a/2], inserted “and not transferred to a brewery free of tax under section 5418” after “United States”.
+    Subsec. (a)(2). [Pub. L. 105–206][/us/pl/105/206], § 6014(a)(2), inserted “and not transferred to a brewery free of tax under section 5418” after “United States”.
 
     1988—Subsec. (a)(2). [Pub. L. 100–647][/us/pl/100/647] added period at end.
 
@@ -65,9 +65,9 @@
 
     1978—Subsec. (a)(3). [Pub. L. 95–458][/us/pl/95/458] inserted provision excluding from tax the beer exempt from tax under section 5053(e).
 
-    1976—Subsec. (a)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1905(a)(5)][/us/pl/94/455/s1905/a/5], redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(5), redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -96,17 +96,17 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1334
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1818
-[/us/pl/95/458/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fb%2F2%2FB
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1256
-[/us/pl/99/509/s8011/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8011%2Fb%2F2
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1953
-[/us/pl/100/647/s1018/u/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F19
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3591
-[/us/pl/105/206/s6014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fa%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F613
@@ -114,13 +114,13 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F613
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/105/206/s6014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fa%2F1
-[/us/pl/105/206/s6014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fa%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1905/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F5
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1421/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1421%2Fc

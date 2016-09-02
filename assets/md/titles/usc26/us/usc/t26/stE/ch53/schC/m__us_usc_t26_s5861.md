@@ -41,7 +41,7 @@
 
     (l) to make, or cause the making of, a false entry on any application, return, or record required by this chapter, knowing such entry to be false.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1234][/us/stat/82/1234].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1234][/us/stat/82/1234].)
 
  __Prior Provisions__ 
 
@@ -155,7 +155,7 @@ Provisions similar to those comprising subsecs. (a), (b), (d), (g), (j), and (k)
 
     The prior sections 5851 to 5853, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], are set out in [68A Stat. 728][/us/stat/68A/728].
 
-    The prior sections 5854 and 5855, [Pub. L. 85–859, title II, § 203(i)(1)][/us/pl/85/859/s203/i/1], Sept. 2, 1958, are set out in [72 Stat. 1428][/us/stat/72/1428].
+    The prior sections 5854 and 5855, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 203(i)(1), Sept. 2, 1958, are set out in [72 Stat. 1428][/us/stat/72/1428].
 
     A prior section 5862, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 729][/us/stat/68A/729], relating to the forfeiture and disposal of any firearm involved in any violation of the provisions of this chapter or any regulation promulgated thereunder, was omitted in the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618]. The provisions of prior [section 5862 of this title][/us/usc/t26/s5862] are covered by [section 5872 of this title][/us/usc/t26/s5872].
 
@@ -170,7 +170,7 @@ Provisions similar to those comprising subsecs. (a), (b), (d), (g), (j), and (k)
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1234
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F729
@@ -178,7 +178,7 @@ Provisions similar to those comprising subsecs. (a), (b), (d), (g), (j), and (k)
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F728
-[/us/pl/85/859/s203/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs203%2Fi%2F1
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1428
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F729

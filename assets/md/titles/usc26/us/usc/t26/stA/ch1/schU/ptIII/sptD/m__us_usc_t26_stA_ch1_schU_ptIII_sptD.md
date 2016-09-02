@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(1), (b)(7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602, 2763A–604, redesignated subpart C of this part as this subpart and items for sections 1397B and 1397C as 1397C and 1397D, respectively.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 116(a)(1), (b)(7)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602, 2763A–604, redesignated subpart C of this part as this subpart and items for sections 1397B and 1397C as 1397C and 1397D, respectively.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

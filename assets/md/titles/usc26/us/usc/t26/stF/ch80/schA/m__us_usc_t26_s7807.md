@@ -33,7 +33,7 @@
 
  __References in Text__ 
 
-    The Internal Revenue Code of 1939, referred to in subsec. (b), is [act Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], [53 Stat. 1][/us/stat/53/1], as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1].
+    The Internal Revenue Code of 1939, referred to in subsec. (b), is [act Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], [53 Stat. 1][/us/stat/53/1], as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1].
 
 ----------
 
@@ -46,7 +46,7 @@
 [/us/stat/68A/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F917
 [/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 

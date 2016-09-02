@@ -51,7 +51,7 @@
 
         For purposes of this section, rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply.
 
-(Added [Pub. L. 110–245, title I, § 111(a)][/us/pl/110/245/s111/a], June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII, § 736(a)][/us/pl/111/312/s736/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 308(a)][/us/pl/112/240/s308/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 118(a)][/us/pl/113/295/s118/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I, § 122(a)][/us/pl/114/113/s122/a], (b), Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052].)
+(Added [Pub. L. 110–245, title I][/us/pl/110/245/tI], § 111(a), June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 736(a), Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 308(a), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 118(a), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 122(a), (b), Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–113, § 122(b)(1)][/us/pl/114/113/s122/b/1], struck out “, in the case of an eligible small business employer” after “section 38”.
+    2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113], § 122(b)(1), struck out “, in the case of an eligible small business employer” after “section 38”.
 
-    Subsec. (b)(3). [Pub. L. 114–113, § 122(b)(2)][/us/pl/114/113/s122/b/2], amended par. (3) generally. Prior to amendment, par. (3) defined “eligible small business employer”.
+    Subsec. (b)(3). [Pub. L. 114–113][/us/pl/114/113], § 122(b)(2), amended par. (3) generally. Prior to amendment, par. (3) defined “eligible small business employer”.
 
-    Subsec. (f). [Pub. L. 114–113, § 122(a)][/us/pl/114/113/s122/a], struck out subsec. (f). Text read as follows: “This section shall not apply to any payments made after December 31, 2014.”
+    Subsec. (f). [Pub. L. 114–113][/us/pl/114/113], § 122(a), struck out subsec. (f). Text read as follows: “This section shall not apply to any payments made after December 31, 2014.”
 
     2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 122(c)][/us/pl/114/113/s122/c], Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052], provided that:
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 122(c), Dec. 18, 2015, [129 Stat. 3052][/us/stat/129/3052], provided that:
 
 >     “(1)  __Extension__  __.—__ 
 
@@ -85,19 +85,19 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 118(b)][/us/pl/113/295/s118/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 118(b), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 308(b)][/us/pl/112/240/s308/b], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 308(b), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 736(b)][/us/pl/111/312/s736/b], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 736(b), Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2009.”
 
@@ -113,30 +113,30 @@
 ----------
 
 [/us/usc/t38/s4323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4323
-[/us/pl/110/245/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs111%2Fa
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1634
-[/us/pl/111/312/s736/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs736%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
-[/us/pl/112/240/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs308%2Fa
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
-[/us/pl/113/295/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/114/113/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3052
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
-[/us/pl/114/113/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fb%2F1
-[/us/pl/114/113/s122/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fb%2F2
-[/us/pl/114/113/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/114/113/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs122%2Fc
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3052
-[/us/pl/113/295/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/112/240/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs308%2Fb
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
-[/us/pl/111/312/s736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs736%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
 [/us/pl/110/245/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs111%2Fe
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

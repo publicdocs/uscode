@@ -67,7 +67,7 @@
 
         (2) mathematical calculation of the amount of the penalty.
 
-(Added [Pub. L. 103–66, title XIII, § 13242(b)(1)][/us/pl/103/66/s13242/b/1], Aug. 10, 1993, [107 Stat. 520][/us/stat/107/520], § 6714; renumbered § 6715, [Pub. L. 104–188, title I, § 1703(n)(9)(A)][/us/pl/104/188/s1703/n/9/A], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; amended [Pub. L. 105–34, title X, § 1032(e)(11)][/us/pl/105/34/s1032/e/11], Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 855(a), 856(a), (b), Oct. 22, 2004, [118 Stat. 1616][/us/stat/118/1616], 1617.)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(b)(1), Aug. 10, 1993, [107 Stat. 520][/us/stat/107/520], § 6714; renumbered § 6715, [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(n)(9)(A), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; amended [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1032(e)(11), Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], §§ 855(a), 856(a), (b), Oct. 22, 2004, [118 Stat. 1616][/us/stat/118/1616], 1617.)
 
  __References in Text__ 
 
@@ -75,15 +75,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2). [Pub. L. 108–357, § 856(a)][/us/pl/108/357/s856/a], which directed amendment of par. (2) by striking “or”, was executed by striking “or” at the end.
+    2004—Subsec. (a)(2). [Pub. L. 108–357][/us/pl/108/357], § 856(a), which directed amendment of par. (2) by striking “or”, was executed by striking “or” at the end.
 
-    Subsec. (a)(3). [Pub. L. 108–357, § 856(b)][/us/pl/108/357/s856/b], substituted “alters, chemically or otherwise, or attempts to so alter,” for “alters, or attempts to alter,”.
+    Subsec. (a)(3). [Pub. L. 108–357][/us/pl/108/357], § 856(b), substituted “alters, chemically or otherwise, or attempts to so alter,” for “alters, or attempts to alter,”.
 
-    [Pub. L. 108–357, § 856(a)][/us/pl/108/357/s856/a], inserted “or” at end.
+    [Pub. L. 108–357][/us/pl/108/357], § 856(a), inserted “or” at end.
 
-    Subsec. (a)(4). [Pub. L. 108–357, § 856(a)][/us/pl/108/357/s856/a], added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–357][/us/pl/108/357], § 856(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 108–357, § 855(a)][/us/pl/108/357/s855/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–357][/us/pl/108/357], § 855(a), added subsec. (e).
 
     1997—Subsec. (c)(1). [Pub. L. 105–34][/us/pl/105/34] inserted “or kerosene” after “diesel fuel”.
 
@@ -91,11 +91,11 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 855(b)][/us/pl/108/357/s855/b], Oct. 22, 2004, [118 Stat. 1616][/us/stat/118/1616], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 855(b), Oct. 22, 2004, [118 Stat. 1616][/us/stat/118/1616], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
-[Pub. L. 108–357, title VIII, § 856(c)][/us/pl/108/357/s856/c], Oct. 22, 2004, [118 Stat. 1617][/us/stat/118/1617], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 856(c), Oct. 22, 2004, [118 Stat. 1617][/us/stat/118/1617], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -114,26 +114,26 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13242/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fb%2F1
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F520
-[/us/pl/104/188/s1703/n/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fn%2F9%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1877
-[/us/pl/105/34/s1032/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Fe%2F11
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F935
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1616
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs856%2Fa
-[/us/pl/108/357/s856/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs856%2Fb
-[/us/pl/108/357/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs856%2Fa
-[/us/pl/108/357/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs856%2Fa
-[/us/pl/108/357/s855/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs855%2Fa
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/usc/t26/s6714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6714
-[/us/pl/108/357/s855/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs855%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1616
-[/us/pl/108/357/s856/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs856%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1617
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1032/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1032%2Ff%2F1

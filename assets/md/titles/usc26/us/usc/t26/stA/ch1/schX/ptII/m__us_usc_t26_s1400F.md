@@ -111,7 +111,7 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the abuse of the purposes of this section.
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–594; amended [Pub. L. 108–311, title III, § 310(c)(2)(C)][/us/pl/108/311/s310/c/2/C], Oct. 4, 2004, [118 Stat. 1180][/us/stat/118/1180]; [Pub. L. 109–432, div. A, title I, § 110(c)(2)(C)][/us/pl/109/432/s110/c/2/C], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III, § 322(c)(2)(C)][/us/pl/110/343/s322/c/2/C], Oct. 3, 2008, [122 Stat. 3874][/us/stat/122/3874].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–594; amended [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 310(c)(2)(C), Oct. 4, 2004, [118 Stat. 1180][/us/stat/118/1180]; [Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 110(c)(2)(C), Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 322(c)(2)(C), Oct. 3, 2008, [122 Stat. 3874][/us/stat/122/3874].)
 
  __Amendments__ 
 
@@ -132,13 +132,13 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/311/s310/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs310%2Fc%2F2%2FC
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1180
-[/us/pl/109/432/s110/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs110%2Fc%2F2%2FC
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2940
-[/us/pl/110/343/s322/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs322%2Fc%2F2%2FC
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3874
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432

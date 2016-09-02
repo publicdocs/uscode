@@ -97,21 +97,21 @@
 
         In applying this section for purposes of determining income tax liability incurred to the Virgin Islands, the provisions of this section shall not be affected by the provisions of Federal law referred to in section 934(a).
 
-(Added [Pub. L. 99–514, title XII, § 1274(a)][/us/pl/99/514/s1274/a], Oct. 22, 1986, [100 Stat. 2596][/us/stat/100/2596]; amended [Pub. L. 100–647, title I, § 1012(w)(1)][/us/pl/100/647/s1012/w/1]–(3), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 108–357, title VIII, § 908(c)(2)][/us/pl/108/357/s908/c/2], Oct. 22, 2004, [118 Stat. 1656][/us/stat/118/1656].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1274(a), Oct. 22, 1986, [100 Stat. 2596][/us/stat/100/2596]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(w)(1)–(3), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 908(c)(2), Oct. 22, 2004, [118 Stat. 1656][/us/stat/118/1656].)
 
  __Prior Provisions__ 
 
-    A prior section 932, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 292][/us/stat/68A/292]; Nov. 13, 1966, [Pub. L. 89–809, title I, § 103(m)][/us/pl/89/809/s103/m], [80 Stat. 1554][/us/stat/80/1554]; Oct. 31, 1972, [Pub. L. 92–606, § 1(f)(2)][/us/pl/92/606/s1/f/2], (3), [86 Stat. 1497][/us/stat/86/1497]; Apr. 7, 1986, [Pub. L. 99–272, title XII, § 12103(a)][/us/pl/99/272/s12103/a], [100 Stat. 285][/us/stat/100/285], related to income taxation of citizens of possessions of the United States, prior to repeal by [Pub. L. 99–514, title XII, § 1272(d)(1)][/us/pl/99/514/s1272/d/1], Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594].
+    A prior section 932, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 292][/us/stat/68A/292]; Nov. 13, 1966, [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(m), [80 Stat. 1554][/us/stat/80/1554]; Oct. 31, 1972, [Pub. L. 92–606][/us/pl/92/606], § 1(f)(2), (3), [86 Stat. 1497][/us/stat/86/1497]; Apr. 7, 1986, [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12103(a), [100 Stat. 285][/us/stat/100/285], related to income taxation of citizens of possessions of the United States, prior to repeal by [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1272(d)(1), Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594].
 
  __Amendments__ 
 
     2004—Subsecs. (a)(1)(A)(i), (c)(1)(A), (4)(A). [Pub. L. 108–357][/us/pl/108/357] substituted “during the entire taxable year” for “at the close of the taxable year”.
 
-    1988—Subsec. (c)(2). [Pub. L. 100–647, § 1012(w)(3)][/us/pl/100/647/s1012/w/3], substituted “an income tax return” for “his income tax return”.
+    1988—Subsec. (c)(2). [Pub. L. 100–647][/us/pl/100/647], § 1012(w)(3), substituted “an income tax return” for “his income tax return”.
 
-    Subsec. (c)(4). [Pub. L. 100–647, § 1012(w)(2)][/us/pl/100/647/s1012/w/2], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
+    Subsec. (c)(4). [Pub. L. 100–647][/us/pl/100/647], § 1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
 
-    Subsec. (e). [Pub. L. 100–647, § 1012(w)(1)][/us/pl/100/647/s1012/w/1], substituted current heading for “Section not to apply to tax imposed in Virgin Islands” and amended text generally. Prior to amendment, text read as follows: “This section shall not apply for purposes of determining income tax liability incurred to the Virgin Islands.”
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1012(w)(1), substituted current heading for “Section not to apply to tax imposed in Virgin Islands” and amended text generally. Prior to amendment, text read as follows: “This section shall not apply for purposes of determining income tax liability incurred to the Virgin Islands.”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -127,13 +127,13 @@
 
  __Regulations__ 
 
-[Pub. L. 99–514, title XII, § 1274(c)][/us/pl/99/514/s1274/c], Oct. 22, 1986, [100 Stat. 2598][/us/stat/100/2598], as amended by [Pub. L. 100–647, title I, § 1012(w)(4)][/us/pl/100/647/s1012/w/4], Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1274(c), Oct. 22, 1986, [100 Stat. 2598][/us/stat/100/2598], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(w)(4), Nov. 10, 1988, [102 Stat. 3530][/us/stat/102/3530], provided that: 
 
 > “The Secretary of the Treasury or his delegate shall prescribe such regulations as may be necessary or appropriate for applying the Internal Revenue Code of 1986 \[this title\] for purposes of determining tax liability incurred to the Virgin Islands.”
 
  __Authority To Impose Nondiscriminatory Local Income Taxes__ 
 
-[Pub. L. 99–514, title XII, § 1274(b)][/us/pl/99/514/s1274/b], Oct. 22, 1986, [100 Stat. 2597][/us/stat/100/2597], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1274(b), Oct. 22, 1986, [100 Stat. 2597][/us/stat/100/2597], provided that: 
 
 > “Nothing in any provision of Federal law shall prevent the Virgin Islands from imposing on any person nondiscriminatory local income taxes. Any taxes so imposed shall be treated in the same manner as State and local income taxes under section 164 of the Internal Revenue Code of 1954 \[now 1986\] and shall not be treated as taxes to which section 901 of such Code applies.”
 
@@ -144,26 +144,26 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1274/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1274%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2596
-[/us/pl/100/647/s1012/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fw%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3530
-[/us/pl/108/357/s908/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fc%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1656
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F292
-[/us/pl/89/809/s103/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Fm
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1554
-[/us/pl/92/606/s1/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs1%2Ff%2F2
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1497
-[/us/pl/99/272/s12103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12103%2Fa
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F285
-[/us/pl/99/514/s1272/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fd%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2594
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/100/647/s1012/w/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fw%2F3
-[/us/pl/100/647/s1012/w/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fw%2F2
-[/us/pl/100/647/s1012/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fw%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s908/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fd%2F1
 [/us/usc/t26/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs937
@@ -173,11 +173,11 @@
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
-[/us/pl/99/514/s1274/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1274%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2598
-[/us/pl/100/647/s1012/w/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fw%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3530
-[/us/pl/99/514/s1274/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1274%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2597
 
 

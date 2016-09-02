@@ -267,7 +267,7 @@
 
         (2) the base year is a taxable year of less than 12 months.
 
-(Added [Pub. L. 100–203, title X, § 10206(b)(1)][/us/pl/100/203/s10206/b/1], Dec. 22, 1987, [101 Stat. 1330–398][/us/stat/101/1330-398]; amended [Pub. L. 100–647, title II, § 2004(e)(4)][/us/pl/100/647/s2004/e/4]–(10), (14)(B), Nov. 10, 1988, [102 Stat. 3601][/us/stat/102/3601], 3602; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7721(c)(12), 7821(b), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], 2424; [Pub. L. 101–508, title XI, § 11704(a)(29)][/us/pl/101/508/s11704/a/29], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 105–34, title XII, § 1281(d)][/us/pl/105/34/s1281/d], Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10206(b)(1), Dec. 22, 1987, [101 Stat. 1330–398][/us/stat/101/1330-398]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(e)(4)–(10), (14)(B), Nov. 10, 1988, [102 Stat. 3601][/us/stat/102/3601], 3602; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7721(c)(12), 7821(b), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400], 2424; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(29), Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1281(d), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037].)
 
  __References in Text__ 
 
@@ -279,27 +279,27 @@
 
     1990—Subsec. (c)(3). [Pub. L. 101–508][/us/pl/101/508] substituted “payable on the later of” for “payable on later of”.
 
-    1989—Subsec. (d)(4). [Pub. L. 101–239, § 7821(b)][/us/pl/101/239/s7821/b], struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
+    1989—Subsec. (d)(4). [Pub. L. 101–239][/us/pl/101/239], § 7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
 
-    Subsec. (f)(4)(B). [Pub. L. 101–239, § 7721(c)(12)][/us/pl/101/239/s7721/c/12], substituted “part II of subchapter A of chapter 68” for “section 6653”.
+    Subsec. (f)(4)(B). [Pub. L. 101–239][/us/pl/101/239], § 7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
 
-    1988—Subsec. (b)(2). [Pub. L. 100–647, § 2004(e)(4)(A)][/us/pl/100/647/s2004/e/4/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
+    1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
 
-    Subsec. (c). [Pub. L. 100–647, § 2004(e)(5)][/us/pl/100/647/s2004/e/5], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
 
-    Subsec. (d)(2)(A). [Pub. L. 100–647, § 2004(e)(10)][/us/pl/100/647/s2004/e/10], substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
+    Subsec. (d)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
 
-    Subsec. (d)(2)(B). [Pub. L. 100–647, § 2004(e)(7)][/us/pl/100/647/s2004/e/7], (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+    Subsec. (d)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
 
-    Subsec. (d)(3)(A). [Pub. L. 100–647, § 2004(e)(14)(B)][/us/pl/100/647/s2004/e/14/B], struck out “or incurred” after “amounts paid”.
+    Subsec. (d)(3)(A). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
 
-    Subsec. (d)(4). [Pub. L. 100–647, § 2004(e)(9)][/us/pl/100/647/s2004/e/9], inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
+    Subsec. (d)(4). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
 
-    Subsec. (d)(5). [Pub. L. 100–647, § 2004(e)(8)][/us/pl/100/647/s2004/e/8], added par. (5).
+    Subsec. (d)(5). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(8), added par. (5).
 
-    Subsec. (e)(4). [Pub. L. 100–647, § 2004(e)(4)(B)][/us/pl/100/647/s2004/e/4/B], added par. (4).
+    Subsec. (e)(4). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(4)(B), added par. (4).
 
-    Subsec. (g). [Pub. L. 100–647, § 2004(e)(6)][/us/pl/100/647/s2004/e/6], substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
+    Subsec. (g). [Pub. L. 100–647][/us/pl/100/647], § 2004(e)(6), substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
 
     “(1) 2 or more applicable election years begin in the same calendar year, or
 
@@ -313,11 +313,11 @@
 
     Amendment by [section 7721(c)(12) of Pub. L. 101–239][/us/pl/101/239/s7721/c/12] applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see [section 7721(d) of Pub. L. 101–239][/us/pl/101/239/s7721/d], set out as a note under [section 461 of this title][/us/usc/t26/s461].
 
-    [Pub. L. 101–239, title VII, § 7821(b)][/us/pl/101/239/s7821/b], Dec. 19, 1989, [103 Stat. 2424][/us/stat/103/2424], provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
+    [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7821(b), Dec. 19, 1989, [103 Stat. 2424][/us/stat/103/2424], provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date__ 
 
@@ -330,41 +330,41 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fb%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-398
-[/us/pl/100/647/s2004/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F4
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3601
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2400
-[/us/pl/101/508/s11704/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F29
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-519
-[/us/pl/105/34/s1281/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1281%2Fd
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1037
 [/us/pl/99/514/s806/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fe%2F2%2FC
 [/us/usc/t26/s1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1378
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/239/s7821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7821%2Fb
-[/us/pl/101/239/s7721/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F12
-[/us/pl/100/647/s2004/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F4%2FA
-[/us/pl/100/647/s2004/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F5
-[/us/pl/100/647/s2004/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F10
-[/us/pl/100/647/s2004/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F7
-[/us/pl/100/647/s2004/e/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F14%2FB
-[/us/pl/100/647/s2004/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F9
-[/us/pl/100/647/s2004/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F8
-[/us/pl/100/647/s2004/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F4%2FB
-[/us/pl/100/647/s2004/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fe%2F6
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1281/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1281%2Fe
 [/us/usc/t26/s6652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6652
 [/us/pl/101/239/s7721/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F12
 [/us/pl/101/239/s7721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fd
 [/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
-[/us/pl/101/239/s7821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7821%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2424
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/100/203/s10206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fd%2F2

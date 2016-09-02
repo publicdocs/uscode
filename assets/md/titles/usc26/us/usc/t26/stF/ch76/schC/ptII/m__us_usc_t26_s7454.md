@@ -27,7 +27,7 @@
 
         For provisions relating to burden of proof as to transferee liability, see section 6902(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 91–172, title I, § 101(j)(57)][/us/pl/91/172/s101/j/57], Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 4(d)(7)][/us/pl/95/227/s4/d/7], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 96–222, title I, § 108(b)(3)(B)][/us/pl/96/222/s108/b/3/B], Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10712(c)(6), 10714(b), Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467], 1330–471; [Pub. L. 104–168, title XIII, § 1311(c)(5)][/us/pl/104/168/s1311/c/5], July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 104–188, title I, § 1704(t)(43)][/us/pl/104/188/s1704/t/43], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 884][/us/stat/68A/884]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(57), Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227][/us/pl/95/227], § 4(d)(7), Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 108(b)(3)(B), Apr. 1, 1980, [94 Stat. 226][/us/stat/94/226]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], §§ 10712(c)(6), 10714(b), Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467], 1330–471; [Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1311(c)(5), July 30, 1996, [110 Stat. 1478][/us/stat/110/1478]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(43), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 
     [Pub. L. 104–168][/us/pl/104/168] inserted “or whether an organization manager (as defined in section 4958(f)(2)) has ‘knowingly’ participated in an excess benefit transaction (as defined in section 4958(c)),” after “section 4912(b),”.
 
-    1987—Subsec. (b). [Pub. L. 100–203, § 10714(b)][/us/pl/100/203/s10714/b], substituted “, or whether an organization manager (as defined in section 4912(d)(2)) has ‘knowingly’ agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), the burden of proof” for “the burden of proof”.
+    1987—Subsec. (b). [Pub. L. 100–203][/us/pl/100/203], § 10714(b), substituted “, or whether an organization manager (as defined in section 4912(d)(2)) has ‘knowingly’ agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), the burden of proof” for “the burden of proof”.
 
-    [Pub. L. 100–203, § 10712(c)(6)][/us/pl/100/203/s10712/c/6], substituted “or whether an organization manager (as defined in section 4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
+    [Pub. L. 100–203][/us/pl/100/203], § 10712(c)(6), substituted “or whether an organization manager (as defined in section 4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
 
     1980—Subsec. (b). [Pub. L. 96–222][/us/pl/96/222] substituted “section 501(c)(21)” for “section 502(c)(21)”.
 
@@ -80,24 +80,24 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F884
-[/us/pl/91/172/s101/j/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F57
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F532
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/227/s4/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fd%2F7
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F23
-[/us/pl/96/222/s108/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs108%2Fb%2F3%2FB
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F226
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-467
-[/us/pl/104/168/s1311/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1311%2Fc%2F5
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1478
-[/us/pl/104/188/s1704/t/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F43
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/100/203/s10714/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10714%2Fb
-[/us/pl/100/203/s10712/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10712%2Fc%2F6
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/usc/t26/s502/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs502%2Fc%2F21

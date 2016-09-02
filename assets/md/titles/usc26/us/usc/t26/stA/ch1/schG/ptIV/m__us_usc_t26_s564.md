@@ -33,7 +33,7 @@
 
         (5) The amount of the reduction specified in paragraph (4) shall be the amount of the excess of the taxable income, if any, for the first preceding taxable year over such deduction for dividends paid, if any, for the first preceding taxable year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 200][/us/stat/68A/200]; [Pub. L. 94–455, title XIX, § 1901(a)(81)][/us/pl/94/455/s1901/a/81], Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 200][/us/stat/68A/200]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(81), Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778].)
 
  __Amendments__ 
 
@@ -52,7 +52,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F200
-[/us/pl/94/455/s1901/a/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F81
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1778
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

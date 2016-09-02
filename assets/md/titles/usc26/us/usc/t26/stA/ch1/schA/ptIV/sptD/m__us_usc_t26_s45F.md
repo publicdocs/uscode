@@ -287,7 +287,7 @@
 
             No deduction or credit shall be allowed under any other provision of this chapter with respect to the amount of the credit determined under this section.
 
-(Added [Pub. L. 107–16, title II, § 205(a)][/us/pl/107/16/s205/a], June 7, 2001, [115 Stat. 50][/us/stat/115/50]; amended [Pub. L. 107–147, title IV, § 411(d)(1)][/us/pl/107/147/s411/d/1], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46].)
+(Added [Pub. L. 107–16, title II][/us/pl/107/16/tII], § 205(a), June 7, 2001, [115 Stat. 50][/us/stat/115/50]; amended [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(d)(1), Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46].)
 
  __Amendments__ 
 
@@ -308,9 +308,9 @@
 ----------
 ----------
 
-[/us/pl/107/16/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs205%2Fa
+[/us/pl/107/16/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtII
 [/us/stat/115/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F50
-[/us/pl/107/147/s411/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fd%2F1
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F46
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147

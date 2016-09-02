@@ -87,17 +87,17 @@
 
         (2) the amount of bonds issued during such year which are designated under subsection (a) pursuant to such allocation,    the limitation amount under such subsection for such State for the following calendar year shall be increased by the amount of such excess. A similar rule shall apply to the amounts allocated under paragraphs (2) and (4) of subsection (d).
 
-(Added [Pub. L. 111–5, div. B, title I, § 1521(a)][/us/pl/111/5/s1521/a], Feb. 17, 2009, [123 Stat. 355][/us/stat/123/355]; amended [Pub. L. 111–147, title III, § 301(b)][/us/pl/111/147/s301/b], Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1521(a), Feb. 17, 2009, [123 Stat. 355][/us/stat/123/355]; amended [Pub. L. 111–147, title III][/us/pl/111/147/tIII], § 301(b), Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78].)
 
  __Amendments__ 
 
-    2010—Subsec. (d)(1). [Pub. L. 111–147, § 301(b)(1)][/us/pl/111/147/s301/b/1], substituted “by the State education agency (or such other agency as is authorized under State law to make such allocation)” for “by the State”.
+    2010—Subsec. (d)(1). [Pub. L. 111–147][/us/pl/111/147], § 301(b)(1), substituted “by the State education agency (or such other agency as is authorized under State law to make such allocation)” for “by the State”.
 
-    Subsec. (e). [Pub. L. 111–147, § 301(b)(2)][/us/pl/111/147/s301/b/2], substituted “paragraphs (2) and (4) of subsection (d)” for “subsection (d)(4)” in concluding provisions.
+    Subsec. (e). [Pub. L. 111–147][/us/pl/111/147], § 301(b)(2), substituted “paragraphs (2) and (4) of subsection (d)” for “subsection (d)(4)” in concluding provisions.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–147, title III, § 301(c)(2)][/us/pl/111/147/s301/c/2], Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
+[Pub. L. 111–147, title III][/us/pl/111/147/tIII], § 301(c)(2), Mar. 18, 2010, [124 Stat. 78][/us/stat/124/78], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall take effect as if included in section 1521 of the American Recovery and Reinvestment Tax Act of 2009 \[[Pub. L. 111–5][/us/pl/111/5]\].”
 
@@ -114,13 +114,13 @@
 
 [/us/usc/t20/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333
 [/us/usc/t20/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333
-[/us/pl/111/5/s1521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F355
-[/us/pl/111/147/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fb
+[/us/pl/111/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIII
 [/us/stat/124/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F78
-[/us/pl/111/147/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fb%2F1
-[/us/pl/111/147/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fb%2F2
-[/us/pl/111/147/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs301%2Fc%2F2
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtIII
 [/us/stat/124/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F78
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fc

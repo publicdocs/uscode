@@ -93,11 +93,11 @@
 
             Indirect expenses, including general overhead of the institution sponsoring the clinic, shall not be counted as matching funds.
 
-(Added [Pub. L. 105–206, title III, § 3601(a)][/us/pl/105/206/s3601/a], July 22, 1998, [112 Stat. 774][/us/stat/112/774].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3601(a), July 22, 1998, [112 Stat. 774][/us/stat/112/774].)
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3601(c)][/us/pl/105/206/s3601/c], July 22, 1998, [112 Stat. 776][/us/stat/112/776], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3601(c), July 22, 1998, [112 Stat. 776][/us/stat/112/776], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -108,9 +108,9 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3601%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F774
-[/us/pl/105/206/s3601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3601%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F776
 
 

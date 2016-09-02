@@ -71,7 +71,7 @@
 
             This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
 
-(Added [Pub. L. 97–248, title II, § 270(a)][/us/pl/97/248/s270/a], Sept. 3, 1982, [96 Stat. 553][/us/stat/96/553]; amended [Pub. L. 100–647, title II, § 2003(d)][/us/pl/100/647/s2003/d], Nov. 10, 1988, [102 Stat. 3598][/us/stat/102/3598]; [Pub. L. 101–508, title V, § 5130(a)(4)][/us/pl/101/508/s5130/a/4], Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289].)
+(Added [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 270(a), Sept. 3, 1982, [96 Stat. 553][/us/stat/96/553]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2003(d), Nov. 10, 1988, [102 Stat. 3598][/us/stat/102/3598]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5130(a)(4), Nov. 5, 1990, [104 Stat. 1388–289][/us/stat/104/1388-289].)
 
  __Amendments__ 
 
@@ -81,11 +81,11 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective as if included in the enactment of [Pub. L. 100–647, § 2003(d)][/us/pl/100/647/s2003/d], see [section 5130(b) of Pub. L. 101–508][/us/pl/101/508/s5130/b], set out as a note under [section 1402 of this title][/us/usc/t26/s1402].
+    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective as if included in the enactment of [Pub. L. 100–647][/us/pl/100/647], § 2003(d), see [section 5130(b) of Pub. L. 101–508][/us/pl/101/508/s5130/b], set out as a note under [section 1402 of this title][/us/usc/t26/s1402].
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title II, § 270(c)][/us/pl/97/248/s270/c], Sept. 3, 1982, [96 Stat. 554][/us/stat/96/554], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 270(c), Sept. 3, 1982, [96 Stat. 554][/us/stat/96/554], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Sept. 3, 1982\], except that such amendments shall not apply to any assessment made before January 1, 1983.”
 
@@ -96,19 +96,19 @@
 ----------
 ----------
 
-[/us/pl/97/248/s270/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs270%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F553
-[/us/pl/100/647/s2003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2003%2Fd
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3598
-[/us/pl/101/508/s5130/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5130%2Fa%2F4
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-289
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s2003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2003%2Fd
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508/s5130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5130%2Fb
 [/us/usc/t26/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1402
-[/us/pl/97/248/s270/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs270%2Fc
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F554
 
 

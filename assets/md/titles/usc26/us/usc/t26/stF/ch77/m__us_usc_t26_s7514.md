@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe or modify seals of office for the district directors of internal revenue and other officers or employees of the Treasury Department to whom any of the functions of the Secretary of the Treasury shall have been or may be delegated. Each seal so prescribed shall contain such device as the Secretary may select. Each seal shall remain in the custody of any officer or employee whom the Secretary may designate, and, in accordance with the regulations approved by the Secretary, may be affixed in lieu of the seal of the Treasury Department to any certificate or attestation (except for material to be published in the Federal Register) that may be required of such officer or employee. Judicial notice shall be taken of any seal prescribed in accordance with this authority, a facsimile of which has been published in the Federal Register together with the regulations prescribing such seal and the affixation thereof.
 
-(Added [Pub. L. 85–866, title I, § 91(a)][/us/pl/85/866/s91/a], Sept. 2, 1958, [72 Stat. 1667][/us/stat/72/1667]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], (M), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835.)
+(Added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 91(a), Sept. 2, 1958, [72 Stat. 1667][/us/stat/72/1667]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), (M), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1835.)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/866/s91/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs91%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1667
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc

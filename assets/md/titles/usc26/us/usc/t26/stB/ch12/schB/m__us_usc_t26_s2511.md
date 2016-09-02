@@ -35,7 +35,7 @@
 
         which are owned and held by such nonresident shall be deemed to be property situated within the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 406][/us/stat/68A/406]; [Pub. L. 89–809, title I, § 109(b)][/us/pl/89/809/s109/b], Nov. 13, 1966, [80 Stat. 1575][/us/stat/80/1575]; [Pub. L. 107–16, title V, § 511(e)][/us/pl/107/16/s511/e], June 7, 2001, [115 Stat. 71][/us/stat/115/71]; [Pub. L. 107–147, title IV, § 411(g)(1)][/us/pl/107/147/s411/g/1], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 111–312, title III, § 302(e)][/us/pl/111/312/s302/e], Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 406][/us/stat/68A/406]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 109(b), Nov. 13, 1966, [80 Stat. 1575][/us/stat/80/1575]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 511(e), June 7, 2001, [115 Stat. 71][/us/stat/115/71]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(g)(1), Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 302(e), Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302].)
 
  __Amendments__ 
 
@@ -72,13 +72,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F406
-[/us/pl/89/809/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs109%2Fb
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1575
-[/us/pl/107/16/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Fe
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F71
-[/us/pl/107/147/s411/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fg%2F1
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F46
-[/us/pl/111/312/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fe
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3302
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147

@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–443, title IV, § 408(b)][/us/pl/93/443/s408/b], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297], substituted “Presidential primary matching payment account” for “Presidential election campaign fund advisory board” in item for chapter 96.
+    1974—[Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(b), Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297], substituted “Presidential primary matching payment account” for “Presidential election campaign fund advisory board” in item for chapter 96.
 
-    1971—[Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 562][/us/stat/85/562], added subtitle H.
+    1971—[Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 562][/us/stat/85/562], added subtitle H.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fb
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F562
 
 

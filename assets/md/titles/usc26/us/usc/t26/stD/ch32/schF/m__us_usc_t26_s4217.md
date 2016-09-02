@@ -85,7 +85,7 @@
 
                 The term “total gas guzzler tax” means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 494][/us/stat/68A/494]; [Aug. 9, 1955, ch. 677, § 3][/us/act/1955-08-09/ch677/s3], [69 Stat. 614][/us/stat/69/614]; [Pub. L. 85–859, title I, § 117(a)][/us/pl/85/859/s117/a], Sept. 2, 1958, [72 Stat. 1280][/us/stat/72/1280]; [Pub. L. 94–455, title XIX, § 1904][/us/pl/94/455/s1904] (a)(3), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811]; [Pub. L. 95–618, title II, § 201(d)][/us/pl/95/618/s201/d], Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 494][/us/stat/68A/494]; [Aug. 9, 1955, ch. 677][/us/act/1955-08-09/ch677], § 3, [69 Stat. 614][/us/stat/69/614]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 117(a), Sept. 2, 1958, [72 Stat. 1280][/us/stat/72/1280]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904 (a)(3), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811]; [Pub. L. 95–618, title II][/us/pl/95/618/tII], § 201(d), Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184].)
 
  __Amendments__ 
 
@@ -119,7 +119,7 @@
 
  __Application of Leases of Utility Trailers__ 
 
-[Pub. L. 85–859, title I, § 117(c)][/us/pl/85/859/s117/c], Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 85–859, title I][/us/pl/85/859/tI], § 117(c), Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 4216 of this title][/us/usc/t26/s4216]\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of [section 4216 of this title][/us/usc/t26/s4216]\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 
@@ -132,13 +132,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F494
-[/us/act/1955-08-09/ch677/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch677%2Fs3
+[/us/act/1955-08-09/ch677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch677
 [/us/stat/69/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F614
-[/us/pl/85/859/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs117%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1280
-[/us/pl/94/455/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
-[/us/pl/95/618/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs201%2Fd
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3184
 [/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -157,9 +157,9 @@
 [/us/pl/85/859/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs1%2Fc
 [/us/stat/72/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1275
 [/us/usc/t26/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4216
-[/us/pl/85/859/s117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs117%2Fc
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1281
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4216
 [/us/usc/t26/s4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4216

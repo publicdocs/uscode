@@ -67,15 +67,15 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 284][/us/stat/68A/284]; [Pub. L. 99–514, title XII, § 1247(a)][/us/pl/99/514/s1247/a], Oct. 22, 1986, [100 Stat. 2583][/us/stat/100/2583]; [Pub. L. 100–647, title I, § 1012(t)(1)][/us/pl/100/647/s1012/t/1]–(3), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527]; [Pub. L. 101–508, title XI, § 11704(a)(35)][/us/pl/101/508/s11704/a/35], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 284][/us/stat/68A/284]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1247(a), Oct. 22, 1986, [100 Stat. 2583][/us/stat/100/2583]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(t)(1)–(3), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(35), Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(2)(A). [Pub. L. 101–508][/us/pl/101/508] made clarifying amendment to [Pub. L. 100–647, § 1012(t)(1)][/us/pl/100/647/s1012/t/1]. See 1988 Amendment note below.
+    1990—Subsec. (a)(2)(A). [Pub. L. 101–508][/us/pl/101/508] made clarifying amendment to [Pub. L. 100–647][/us/pl/100/647], § 1012(t)(1). See 1988 Amendment note below.
 
-    1988—Subsec. (a)(2)(A). [Pub. L. 100–647, § 1012(t)(1)][/us/pl/100/647/s1012/t/1], (2), as amended by [Pub. L. 101–508][/us/pl/101/508], amended cl. (ii) generally and added cl. (iii). Prior to amendment, cl. (ii) read as follows: “received from or by a controlled commercial entity.”
+    1988—Subsec. (a)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1012(t)(1), (2), as amended by [Pub. L. 101–508][/us/pl/101/508], amended cl. (ii) generally and added cl. (iii). Prior to amendment, cl. (ii) read as follows: “received from or by a controlled commercial entity.”
 
-    Subsec. (a)(3). [Pub. L. 100–647, § 1012(t)(3)][/us/pl/100/647/s1012/t/3], added par. (3).
+    Subsec. (a)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(t)(3), added par. (3).
 
     1986—[Pub. L. 99–514][/us/pl/99/514] amended section generally. Prior to amendment, section read as follows: “The income of foreign governments or international organizations received from investments in the United States in stocks, bonds, or other domestic securities, owned by such foreign governments or by international organizations, or from interest on deposits in banks in the United States of moneys belonging to such foreign governments or international organizations, or from any other source within the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.”
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XII, § 1247(b)][/us/pl/99/514/s1247/b], Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1247(b), Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received on or after July 1, 1986, except that no amount shall be required to be deducted and withheld by reason of the amendment made by subsection (a) from any payment made before the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -102,23 +102,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F284
-[/us/pl/99/514/s1247/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1247%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2583
-[/us/pl/100/647/s1012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ft%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
-[/us/pl/101/508/s11704/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F35
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-519
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ft%2F1
-[/us/pl/100/647/s1012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ft%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1012/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ft%2F3
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1247/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1247%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2584
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1247/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1247%2Fa

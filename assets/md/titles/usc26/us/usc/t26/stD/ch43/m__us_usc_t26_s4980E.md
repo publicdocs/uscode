@@ -75,17 +75,17 @@
 
         Terms used in this section which are also used in section 220 have the respective meanings given such terms in section 220.
 
-(Added [Pub. L. 104–191, title III, § 301(c)(4)(A)][/us/pl/104/191/s301/c/4/A], Aug. 21, 1996, [110 Stat. 2049][/us/stat/110/2049]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(8), (b)(2)(D)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–147, title IV, § 417(17)(A)][/us/pl/107/147/s417/17/A], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 301(c)(4)(A), Aug. 21, 1996, [110 Stat. 2049][/us/stat/110/2049]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(8), (b)(2)(D)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(17)(A), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Amendments__ 
 
     2002—[Pub. L. 107–147][/us/pl/107/147] substituted “Archer MSA contributions” for “medical savings account contributions” in section catchline.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
 
-    Subsecs. (b), (d)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(D)\], substituted “Archer MSAs” for “medical savings accounts”.
+    Subsecs. (b), (d)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(2)(D)\], substituted “Archer MSAs” for “medical savings accounts”.
 
-    Subsec. (d)(2)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
+    Subsec. (d)(2)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(8)\], substituted “Archer MSA” for “medical savings account”.
 
  __Effective Date__ 
 
@@ -98,16 +98,16 @@
 ----------
 ----------
 
-[/us/pl/104/191/s301/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fc%2F4%2FA
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2049
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s417/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F17%2FA
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/191/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fj
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
 

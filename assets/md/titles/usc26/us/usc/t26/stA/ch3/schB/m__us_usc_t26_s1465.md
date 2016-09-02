@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t26/stA/ch3/schB/m__us_usc_t26_s1464.md) | [Next](./../../../../../..//us/usc/t26/stA/ch4/m__us_usc_t26_stA_ch4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1465)
 
-## \[§ 1465. Repealed. [Pub. L. 94–455, title XIX, § 1901(a)(156)][/us/pl/94/455/s1901/a/156], Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]\]
+## \[§ 1465. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(156), Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 360][/us/stat/68A/360], defined withholding agent.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/a/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F156
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1789
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F360

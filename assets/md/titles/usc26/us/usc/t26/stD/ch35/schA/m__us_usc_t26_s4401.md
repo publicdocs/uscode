@@ -33,7 +33,7 @@
 
         Each person who is engaged in the business of accepting wagers shall be liable for and shall pay the tax under this subchapter on all wagers placed with him. Each person who conducts any wagering pool or lottery shall be liable for and shall pay the tax under this subchapter on all wagers placed in such pool or lottery. Any person required to register under section 4412 who receives wagers for or on behalf of another person without having registered under section 4412 the name and place of residence of such other person shall be liable for and shall pay the tax under this subchapter on all such wagers received by him.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 525][/us/stat/68A/525]; [Pub. L. 85–859, title I, § 151(a)][/us/pl/85/859/s151/a], Sept. 2, 1958, [72 Stat. 1304][/us/stat/72/1304]; [Pub. L. 93–499, § 3(a)][/us/pl/93/499/s3/a], Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–362, title I, § 109(a)][/us/pl/97/362/s109/a], Oct. 25, 1982, [96 Stat. 1731][/us/stat/96/1731].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 525][/us/stat/68A/525]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 151(a), Sept. 2, 1958, [72 Stat. 1304][/us/stat/72/1304]; [Pub. L. 93–499][/us/pl/93/499], § 3(a), Oct. 29, 1974, [88 Stat. 1550][/us/stat/88/1550]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–362, title I][/us/pl/97/362/tI], § 109(a), Oct. 25, 1982, [96 Stat. 1731][/us/stat/96/1731].)
 
  __Amendments__ 
 
@@ -47,19 +47,19 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–362, title I, § 109(c)(1)][/us/pl/97/362/s109/c/1], Oct. 25, 1982, [96 Stat. 1731][/us/stat/96/1731], provided that: 
+[Pub. L. 97–362, title I][/us/pl/97/362/tI], § 109(c)(1), Oct. 25, 1982, [96 Stat. 1731][/us/stat/96/1731], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1983.”
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–499, § 3(d)(1)][/us/pl/93/499/s3/d/1], Oct. 29, 1974, [88 Stat. 1551][/us/stat/88/1551], provided that: 
+[Pub. L. 93–499][/us/pl/93/499], § 3(d)(1), Oct. 29, 1974, [88 Stat. 1551][/us/stat/88/1551], provided that: 
 
 > “The amendments made by this section \[enacting section 4424 and amending this section and [section 4411 of this title][/us/usc/t26/s4411]\] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.”
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–859, title I, § 151(b)][/us/pl/85/859/s151/b], Sept. 2, 1958, [72 Stat. 1304][/us/stat/72/1304], provided that: 
+[Pub. L. 85–859, title I][/us/pl/85/859/tI], § 151(b), Sept. 2, 1958, [72 Stat. 1304][/us/stat/72/1304], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
@@ -72,13 +72,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F525
-[/us/pl/85/859/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs151%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1304
-[/us/pl/93/499/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs3%2Fa
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1550
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/362/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs109%2Fa
+[/us/pl/97/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtI
 [/us/stat/96/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1731
 [/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -86,12 +86,12 @@
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/usc/t26/s4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4412
 [/us/usc/t26/s4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4412
-[/us/pl/97/362/s109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs109%2Fc%2F1
+[/us/pl/97/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtI
 [/us/stat/96/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1731
-[/us/pl/93/499/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs3%2Fd%2F1
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1551
 [/us/usc/t26/s4411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4411
-[/us/pl/85/859/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs151%2Fb
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1304
 
 

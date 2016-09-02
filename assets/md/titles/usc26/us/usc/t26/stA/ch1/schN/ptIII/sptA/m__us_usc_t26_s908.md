@@ -27,11 +27,11 @@
 
         Section 275(a)(4) and section 78 shall not apply to any amount of taxes denied credit under subsection (a).
 
-(Added [Pub. L. 94–455, title X, § 1061(a)][/us/pl/94/455/s1061/a], Oct. 4, 1976, [90 Stat. 1649][/us/stat/90/1649].)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1061(a), Oct. 4, 1976, [90 Stat. 1649][/us/stat/90/1649].)
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title X, § 1066(a)][/us/pl/94/455/s1066/a], Oct. 4, 1976, [90 Stat. 1654][/us/stat/90/1654], provided that:
+[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1066(a), Oct. 4, 1976, [90 Stat. 1654][/us/stat/90/1654], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1061%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1649
-[/us/pl/94/455/s1066/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1066%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1654
 [/us/usc/t26/s999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs999
 

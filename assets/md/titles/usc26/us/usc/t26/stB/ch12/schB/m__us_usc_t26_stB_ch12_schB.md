@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XIV, § 1432(d)(2)][/us/pl/99/514/s1432/d/2], title XVIII, § 1852(e)(2)(B), Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730], 2868, added item 2515 and struck out item 2517 “Certain annuities under qualified plans”.
+    1986—[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1432(d)(2), title XVIII, § 1852(e)(2)(B), Oct. 22, 1986, [100 Stat. 2730][/us/stat/100/2730], 2868, added item 2515 and struck out item 2517 “Certain annuities under qualified plans”.
 
-    1981—[Pub. L. 97–34, title IV, § 403(c)(3)(C)][/us/pl/97/34/s403/c/3/C], (d)(3)(B)(ii), Aug. 13, 1981, [95 Stat. 302][/us/stat/95/302], 304, as amended [Pub. L. 97–448, title I, § 104(a)(3)(B)][/us/pl/97/448/s104/a/3/B], Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380], struck out items 2515 “Tenancies by the entirety in real property” and 2515A “Tenancies by the entirety in personal property” and added item 2519.
+    1981—[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(c)(3)(C), (d)(3)(B)(ii), Aug. 13, 1981, [95 Stat. 302][/us/stat/95/302], 304, as amended [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 104(a)(3)(B), Jan. 12, 1983, [96 Stat. 2380][/us/stat/96/2380], struck out items 2515 “Tenancies by the entirety in real property” and 2515A “Tenancies by the entirety in personal property” and added item 2519.
 
-    1978—[Pub. L. 95–600, title VII, § 702(k)(1)(C)][/us/pl/95/600/s702/k/1/C], Nov. 6, 1978, [92 Stat. 2932][/us/stat/92/2932], substituted in item 2515 “Tenancies by the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
+    1978—[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(k)(1)(C), Nov. 6, 1978, [92 Stat. 2932][/us/stat/92/2932], substituted in item 2515 “Tenancies by the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
 
-    1976—[Pub. L. 94–455, title XX, § 2009(b)(3)(A)][/us/pl/94/455/s2009/b/3/A], Oct. 4, 1976, [90 Stat. 1894][/us/stat/90/1894], added item 2518.
+    1976—[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2009(b)(3)(A), Oct. 4, 1976, [90 Stat. 1894][/us/stat/90/1894], added item 2518.
 
-    1958—[Pub. L. 85–866, title I, § 68(b)][/us/pl/85/866/s68/b], Sept. 2, 1958, [72 Stat. 1659][/us/stat/72/1659], added item 2517.
+    1958—[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 68(b), Sept. 2, 1958, [72 Stat. 1659][/us/stat/72/1659], added item 2517.
 
 ----------
 
@@ -124,17 +124,17 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1432/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1432%2Fd%2F2
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2730
-[/us/pl/97/34/s403/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fc%2F3%2FC
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F302
-[/us/pl/97/448/s104/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fa%2F3%2FB
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2380
-[/us/pl/95/600/s702/k/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fk%2F1%2FC
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2932
-[/us/pl/94/455/s2009/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F3%2FA
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1894
-[/us/pl/85/866/s68/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs68%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1659
 
 

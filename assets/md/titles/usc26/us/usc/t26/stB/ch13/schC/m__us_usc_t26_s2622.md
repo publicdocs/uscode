@@ -27,7 +27,7 @@
 
         For purposes of subsection (a), there shall be allowed a deduction similar to the deduction allowed by section 2053 (relating to expenses, indebtedness, and taxes) for amounts attributable to the property with respect to which the taxable termination has occurred.
 
-(Added [Pub. L. 94–455, title XX, § 2006(a)][/us/pl/94/455/s2006/a], Oct. 4, 1976, [90 Stat. 1888][/us/stat/90/1888]; amended [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(a), Oct. 4, 1976, [90 Stat. 1888][/us/stat/90/1888]; amended [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fa
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1888
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2720
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2663

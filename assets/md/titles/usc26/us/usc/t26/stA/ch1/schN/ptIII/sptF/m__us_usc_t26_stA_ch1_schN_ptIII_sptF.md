@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_stA_ch1_schN_ptIII_sptE.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_s941...943.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
 
 ###### Subpart F—Controlled Foreign Corporations
 
@@ -155,32 +155,32 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title IV, § 422(c)][/us/pl/108/357/s422/c], Oct. 22, 2004, [118 Stat. 1519][/us/stat/118/1519], added item 965.
+    2004—[Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 422(c), Oct. 22, 2004, [118 Stat. 1519][/us/stat/118/1519], added item 965.
 
-    1996—[Pub. L. 104–188, title I, § 1501(c)][/us/pl/104/188/s1501/c], Aug. 20, 1996, [110 Stat. 1826][/us/stat/110/1826], which directed that the analysis for subpart F be amended by striking item 956A, could not be executed, because item 956A “Earnings invested in excess passive assets” had been editorially supplied.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1501(c), Aug. 20, 1996, [110 Stat. 1826][/us/stat/110/1826], which directed that the analysis for subpart F be amended by striking item 956A, could not be executed, because item 956A “Earnings invested in excess passive assets” had been editorially supplied.
 
-    1986—[Pub. L. 99–514, title XII, § 1221(b)(3)(E)][/us/pl/99/514/s1221/b/3/E], Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553], substituted “Insurance income” for “Income from insurance of United States risks” in item 953.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1221(b)(3)(E), Oct. 22, 1986, [100 Stat. 2553][/us/stat/100/2553], substituted “Insurance income” for “Income from insurance of United States risks” in item 953.
 
-    1975—[Pub. L. 94–12, title VI, § 602(a)(3)(A)][/us/pl/94/12/s602/a/3/A], (c)(7), (d)(3)(B), Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58], 60, 64, struck out existing item 955 and replaced it with an identical item 955 and struck out item 963 “Receipt of minimum distributions by domestic corporations”.
+    1975—[Pub. L. 94–12, title VI][/us/pl/94/12/tVI], § 602(a)(3)(A), (c)(7), (d)(3)(B), Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58], 60, 64, struck out existing item 955 and replaced it with an identical item 955 and struck out item 963 “Receipt of minimum distributions by domestic corporations”.
 
-    1962—[Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1006][/us/stat/76/1006], added heading of subpart F, and items 951–964.
-
-----------
-
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_stA_ch1_schN_ptIII_sptE.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1006][/us/stat/76/1006], added heading of subpart F, and items 951–964.
 
 ----------
+
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_s941...943.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
+
+----------
 ----------
 
-[/us/pl/108/357/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs422%2Fc
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1519
-[/us/pl/104/188/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1501%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1826
-[/us/pl/99/514/s1221/b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1221%2Fb%2F3%2FE
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2553
-[/us/pl/94/12/s602/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fa%2F3%2FA
+[/us/pl/94/12/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVI
 [/us/stat/89/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F58
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1006
 
 

@@ -81,7 +81,7 @@
 
         (8) For provisions relating to distilled spirits for use of foreign embassies, legations, etc., see section 5066.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1362][/us/stat/72/1362]; amended [Pub. L. 91–172, title I, § 101(j)(29)][/us/pl/91/172/s101/j/29], Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 95–176][/us/pl/95/176], §§ 3(a), (d), 4(a), Nov. 14, 1977, [91 Stat. 1365][/us/stat/91/1365]; [Pub. L. 96–39, title VIII, § 807(a)(28)][/us/pl/96/39/s807/a/28], July 26, 1979, [93 Stat. 285][/us/stat/93/285]; [Pub. L. 96–223, title II, § 232(e)(2)(B)][/us/pl/96/223/s232/e/2/B], Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280]; [Pub. L. 98–369, div. A, title IV, § 455(a)][/us/pl/98/369/s455/a], July 18, 1984, [98 Stat. 823][/us/stat/98/823].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1362][/us/stat/72/1362]; amended [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(29), Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 95–176][/us/pl/95/176], §§ 3(a), (d), 4(a), Nov. 14, 1977, [91 Stat. 1365][/us/stat/91/1365]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(28), July 26, 1979, [93 Stat. 285][/us/stat/93/285]; [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(e)(2)(B), Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 455(a), July 18, 1984, [98 Stat. 823][/us/stat/98/823].)
 
  __Prior Provisions__ 
 
@@ -229,21 +229,21 @@ Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to
 
     1980—Subsec. (a)(12). [Pub. L. 96–223][/us/pl/96/223] added par. (12).
 
-    1979—Subsec. (a)(6). [Pub. L. 96–39, § 807(a)(28)(A)][/us/pl/96/39/s807/a/28/A], inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
+    1979—Subsec. (a)(6). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(28)(A), inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
 
-    Subsec. (a)(9). [Pub. L. 96–39, § 807(a)(28)(B)][/us/pl/96/39/s807/a/28/B], struck out “in the case of distilled spirits bottled in bond for export under section 5233 or distilled spirits returned to bonded premises under section 5215(b),” after “payment of tax,”.
+    Subsec. (a)(9). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(28)(B), struck out “in the case of distilled spirits bottled in bond for export under section 5233 or distilled spirits returned to bonded premises under section 5215(b),” after “payment of tax,”.
 
-    Subsec. (a)(10). [Pub. L. 96–39, § 807(a)(28)(C)][/us/pl/96/39/s807/a/28/C], (D), substituted “distilled spirits operations” for “distillery operations”.
+    Subsec. (a)(10). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(28)(C), (D), substituted “distilled spirits operations” for “distillery operations”.
 
-    Subsec. (a)(11). [Pub. L. 96–39, § 807(a)(28)(D)][/us/pl/96/39/s807/a/28/D], added par. (11).
+    Subsec. (a)(11). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(28)(D), added par. (11).
 
-    Subsec. (b)(4) to (8). [Pub. L. 96–39, § 807(a)(28)(E)][/us/pl/96/39/s807/a/28/E], added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+    Subsec. (b)(4) to (8). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-    1977—Subsec. (a)(9). [Pub. L. 95–176, § 3(a)][/us/pl/95/176/s3/a], substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
+    1977—Subsec. (a)(9). [Pub. L. 95–176][/us/pl/95/176], § 3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
 
-    Subsec. (a)(10). [Pub. L. 95–176, § 4(a)][/us/pl/95/176/s4/a], added par. (10).
+    Subsec. (a)(10). [Pub. L. 95–176][/us/pl/95/176], § 4(a), added par. (10).
 
-    Subsec. (b)(7). [Pub. L. 95–176, § 3(d)][/us/pl/95/176/s3/d], added par. (7).
+    Subsec. (b)(7). [Pub. L. 95–176][/us/pl/95/176], § 3(d), added par. (7).
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in introductory provisions and struck out “or Territory” after “State” in par. (2).
 
@@ -283,19 +283,19 @@ Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to
 [/us/usc/t19/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1309
 [/us/usc/t19/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1311
 [/us/usc/t19/s81c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs81c
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1362
-[/us/pl/91/172/s101/j/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F29
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F529
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1365
-[/us/pl/96/39/s807/a/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F285
-[/us/pl/96/223/s232/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fe%2F2%2FB
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F280
-[/us/pl/98/369/s455/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs455%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F823
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F639
@@ -305,14 +305,14 @@ Provisions similar to those comprising subsecs. (a)(1) to (4), (9) and (b)(3) to
 [/us/stat/68A/646-648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F646-648
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
-[/us/pl/96/39/s807/a/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28%2FA
-[/us/pl/96/39/s807/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28%2FB
-[/us/pl/96/39/s807/a/28/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28%2FC
-[/us/pl/96/39/s807/a/28/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28%2FD
-[/us/pl/96/39/s807/a/28/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F28%2FE
-[/us/pl/95/176/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs3%2Fa
-[/us/pl/95/176/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs4%2Fa
-[/us/pl/95/176/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs3%2Fd
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

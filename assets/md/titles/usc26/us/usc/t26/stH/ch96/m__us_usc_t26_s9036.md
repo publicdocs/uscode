@@ -23,7 +23,7 @@
 
         Initial certifications by the Commission under subsection (a), and all determinations made by it under this chapter, are final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9038 and judicial review under section 9041.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1300
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

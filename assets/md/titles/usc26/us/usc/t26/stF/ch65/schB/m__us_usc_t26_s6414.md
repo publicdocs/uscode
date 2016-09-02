@@ -17,7 +17,7 @@
 
     In the case of an overpayment of tax imposed by chapter 24, or by chapter 3 or 4, refund or credit shall be made to the employer or to the withholding agent, as the case may be, only to the extent that the amount of such overpayment was not deducted and withheld by the employer or withholding agent.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 798][/us/stat/68A/798]; [Pub. L. 111–147, title V, § 501(c)(1)][/us/pl/111/147/s501/c/1], Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 798][/us/stat/68A/798]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(c)(1), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F798
-[/us/pl/111/147/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fc%2F1
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F106
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147

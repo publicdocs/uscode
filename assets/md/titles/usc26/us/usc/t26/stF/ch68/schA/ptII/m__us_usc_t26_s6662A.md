@@ -79,7 +79,7 @@
 
             Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added [Pub. L. 108–357, title VIII, § 812(a)][/us/pl/108/357/s812/a], Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577]; amended [Pub. L. 109–135, title IV, § 403(x)(2)][/us/pl/109/135/s403/x/2], Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629]; [Pub. L. 111–152, title I, § 1409(b)(3)][/us/pl/111/152/s1409/b/3], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 113–295, div. A, title II, § 220(w)][/us/pl/113/295/s220/w], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 812(a), Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(x)(2), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629]; [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1409(b)(3), Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(w), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Codification__ 
 
@@ -117,7 +117,7 @@
 
  __Report on Tax Shelter Penalties and Certain Other Enforcement Actions__ 
 
-[Pub. L. 111–240, title II, § 2103][/us/pl/111/240/s2103], Sept. 27, 2010, [124 Stat. 2564][/us/stat/124/2564], provided that:
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2103, Sept. 27, 2010, [124 Stat. 2564][/us/stat/124/2564], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -152,13 +152,13 @@
 ----------
 ----------
 
-[/us/pl/108/357/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1577
-[/us/pl/109/135/s403/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fx%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2629
-[/us/pl/111/152/s1409/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F3
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
-[/us/pl/113/295/s220/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fw
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/111/152/s1409/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F3
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -173,7 +173,7 @@
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/pl/108/357/s812/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs812%2Ff
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662
-[/us/pl/111/240/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2103
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2564
 
 

@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title V, § 512(f)(2)][/us/pl/91/172/s512/f/2], Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], substituted “carrybacks and carryovers” for “carryover” in item 1212.
+    1969—[Pub. L. 91–172, title V][/us/pl/91/172/tV], § 512(f)(2), Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], substituted “carrybacks and carryovers” for “carryover” in item 1212.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s512/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F2
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F641
 
 

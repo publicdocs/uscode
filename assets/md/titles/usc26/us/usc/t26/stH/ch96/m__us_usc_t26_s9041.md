@@ -23,7 +23,7 @@
 
         The provisions of chapter 7 of title 5, United States Code, apply to judicial review of any agency action, as defined in [section 551(13) of title 5][/us/usc/t5/s551/13], United States Code, by the Commission.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1302][/us/stat/88/1302].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1302][/us/stat/88/1302].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t5/s551/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F13
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1302
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

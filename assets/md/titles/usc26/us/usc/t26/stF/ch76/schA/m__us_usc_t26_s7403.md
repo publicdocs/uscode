@@ -31,7 +31,7 @@
 
         In any such proceeding, at the instance of the United States, the court may appoint a receiver to enforce the lien, or, upon certification by the Secretary during the pendency of such proceedings that it is in the public interest, may appoint a receiver with all the powers of a receiver in equity.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 874][/us/stat/68A/874]; [Pub. L. 89–719, title I, § 107(b)][/us/pl/89/719/s107/b], Nov. 2, 1966, [80 Stat. 1140][/us/stat/80/1140]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XX, § 2004(f)(2), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1872; [Pub. L. 97–34, title IV, § 422(e)(8)][/us/pl/97/34/s422/e/8], Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 874][/us/stat/68A/874]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 107(b), Nov. 2, 1966, [80 Stat. 1140][/us/stat/80/1140]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XX, § 2004(f)(2), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1872; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(8), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1906(b)(13)(A), 2004(f)(2), struck out “or his delegate” after “Secretary” and inserted provisions relating to the acceleration of payment under section 6166(g) or 6166A(h).
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1966—Subsec. (c). [Pub. L. 89–719][/us/pl/89/719] inserted sentence permitting the United States, if the property is sold to satisfy a first lien held by the United States, to bid at the sale such sum, not more than the amount of such lien with expenses of sale, as the Secretary or his delegate directs.
 
@@ -60,15 +60,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F874
-[/us/pl/89/719/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs107%2Fb
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1140
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/34/s422/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F8
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s422/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Ff%2F1

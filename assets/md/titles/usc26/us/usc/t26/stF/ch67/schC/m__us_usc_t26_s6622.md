@@ -23,11 +23,11 @@
 
         Subsection (a) shall not apply for purposes of computing the amount of any addition to tax under section 6654 or 6655.
 
-(Added [Pub. L. 97–248, title III, § 344(a)][/us/pl/97/248/s344/a], Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 344(a), Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635].)
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 344(c)][/us/pl/97/248/s344/c], Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 344(c), Sept. 3, 1982, [96 Stat. 636][/us/stat/96/636], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 6601 of this title][/us/usc/t26/s6601]\] shall apply to interest accruing after December 31, 1982.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/97/248/s344/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs344%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F635
-[/us/pl/97/248/s344/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs344%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F636
 [/us/usc/t26/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6601
 

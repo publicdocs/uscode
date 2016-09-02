@@ -33,7 +33,7 @@
 
         If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the sale of the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 870][/us/stat/68A/870]; [Pub. L. 85–859, title II, § 204(10)][/us/pl/85/859/s204/10], (12), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 85–866, title I, § 78][/us/pl/85/866/s78], Sept. 2, 1958, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV, § 1566(a)][/us/pl/99/514/s1566/a], (b), Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 870][/us/stat/68A/870]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(10), (12), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 78, Sept. 2, 1958, [72 Stat. 1662][/us/stat/72/1662]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1566(a), (b), Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1566(e)][/us/pl/99/514/s1566/e], Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1566(e), Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7103 of this title][/us/usc/t26/s7103]\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -66,19 +66,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F870
-[/us/pl/85/859/s204/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F10
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1429
-[/us/pl/85/866/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs78
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1662
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1566/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1566%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2763
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/99/514/s1566/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1566%2Fe
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2763
 [/us/usc/t26/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7103
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866

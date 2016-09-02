@@ -39,7 +39,7 @@
 
             In applying this section to obligations with maturity of 1 year or less, rules similar to the rules of section 1283(b) shall apply.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 553][/us/stat/98/553]; amended [Pub. L. 100–647, title I, § 1006(u)(3)][/us/pl/100/647/s1006/u/3], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 553][/us/stat/98/553]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(u)(3), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F553
-[/us/pl/100/647/s1006/u/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fu%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

@@ -253,7 +253,7 @@
 
                 (ii) such plan or contract amendment applies retroactively for such period.
 
-(Added [Pub. L. 109–135, title II, § 201(a)][/us/pl/109/135/s201/a], Dec. 21, 2005, [119 Stat. 2596][/us/stat/119/2596].)
+(Added [Pub. L. 109–135, title II][/us/pl/109/135/tII], § 201(a), Dec. 21, 2005, [119 Stat. 2596][/us/stat/119/2596].)
 
  __References in Text__ 
 
@@ -266,7 +266,7 @@
 ----------
 ----------
 
-[/us/pl/109/135/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs201%2Fa
+[/us/pl/109/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtII
 [/us/stat/119/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2596
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 

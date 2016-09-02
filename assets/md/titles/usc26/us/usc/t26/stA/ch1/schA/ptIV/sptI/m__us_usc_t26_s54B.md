@@ -99,7 +99,7 @@
 
                 (ii) the Secretary may not reallocate such allocation for any other purpose.
 
-(Added [Pub. L. 110–234, title XV, § 15316(a)][/us/pl/110/234/s15316/a], May 22, 2008, [122 Stat. 1509][/us/stat/122/1509], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2271.)
+(Added [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15316(a), May 22, 2008, [122 Stat. 1509][/us/stat/122/1509], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2271.)
 
  __References in Text__ 
 
@@ -122,9 +122,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s15316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15316%2Fa
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1509
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

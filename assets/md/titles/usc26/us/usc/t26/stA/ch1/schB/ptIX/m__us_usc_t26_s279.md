@@ -163,17 +163,17 @@
 
         No inference shall be drawn from any provision in this section that any instrument designated as a bond, debenture, note, or certificate or other evidence of indebtedness by its issuer represents an obligation or indebtedness of such issuer in applying any other provision of this title.
 
-(Added [Pub. L. 91–172, title IV, § 411(a)][/us/pl/91/172/s411/a], Dec. 30, 1969, [83 Stat. 604][/us/stat/83/604]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 94–514, § 1(a)][/us/pl/94/514/s1/a], Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443]; [Pub. L. 113–295, div. A, title II, § 221(a)(47)(A)][/us/pl/113/295/s221/a/47/A], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
+(Added [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 411(a), Dec. 30, 1969, [83 Stat. 604][/us/stat/83/604]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 94–514][/us/pl/94/514], § 1(a), Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(47)(A), Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–295, § 221(a)(47)(A)(i)][/us/pl/113/295/s221/a/47/A/i], struck out “after December 31, 1967,” after “(A) issued”.
+    2014—Subsec. (a)(2). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(47)(A)(i), struck out “after December 31, 1967,” after “(A) issued”.
 
-    Subsec. (b). [Pub. L. 113–295, § 221(a)(47)(A)(ii)][/us/pl/113/295/s221/a/47/A/ii], struck out “after October 9, 1969,” after “evidence of indebtedness issued” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(47)(A)(ii), struck out “after October 9, 1969,” after “evidence of indebtedness issued” in introductory provisions.
 
-    Subsec. (d)(5). [Pub. L. 113–295, § 221(a)(47)(A)(iii)][/us/pl/113/295/s221/a/47/A/iii], struck out “after October 9, 1969, and” after “some time”.
+    Subsec. (d)(5). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(47)(A)(iii), struck out “after October 9, 1969, and” after “some time”.
 
-    Subsecs. (i), (j). [Pub. L. 113–295, § 221(a)(47)(A)(iv)][/us/pl/113/295/s221/a/47/A/iv], redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+    Subsecs. (i), (j). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(47)(A)(iv), redesignated subsec. (j) as (i) and struck out former subsec. (i). Prior to amendment, text of subsec. (i) read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
 
     “(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
 
@@ -185,7 +185,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title II, § 221(a)(47)(B)][/us/pl/113/295/s221/a/47/B], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045], provided that: 
+[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(47)(B), Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall not—
 
@@ -197,13 +197,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–514, § 1(b)][/us/pl/94/514/s1/b], Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443], provided that: 
+[Pub. L. 94–514][/us/pl/94/514], § 1(b), Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act \[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date.”
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title IV, § 411(c)][/us/pl/91/172/s411/c], Dec. 30, 1969, [83 Stat. 608][/us/stat/83/608], provided that: 
+[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 411(c), Dec. 30, 1969, [83 Stat. 608][/us/stat/83/608], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to the determination of the allowability of the deduction of interest paid or incurred with respect to indebtedness incurred after October 9, 1969.”
 
@@ -214,29 +214,29 @@
 ----------
 ----------
 
-[/us/pl/91/172/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs411%2Fa
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F604
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/94/514/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514%2Fs1%2Fa
+[/us/pl/94/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514
 [/us/stat/90/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2443
-[/us/pl/113/295/s221/a/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
-[/us/pl/113/295/s221/a/47/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fi
-[/us/pl/113/295/s221/a/47/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fii
-[/us/pl/113/295/s221/a/47/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fiii
-[/us/pl/113/295/s221/a/47/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fiv
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514
-[/us/pl/113/295/s221/a/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FB
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/94/514/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514%2Fs1%2Fb
+[/us/pl/94/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514
 [/us/stat/90/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2443
-[/us/pl/91/172/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs411%2Fc
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F608
 
 

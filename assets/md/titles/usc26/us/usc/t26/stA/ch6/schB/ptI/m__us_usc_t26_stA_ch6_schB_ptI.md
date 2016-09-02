@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–600, title III, § 301(b)(18)(C)][/us/pl/95/600/s301/b/18/C], Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823], in item 1551 substituted “the benefits of the graduated corporate rates” for “surtax exemption”.
+    1978—[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(18)(C), Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823], in item 1551 substituted “the benefits of the graduated corporate rates” for “surtax exemption”.
 
-    1964—[Pub. L. 88–272, title II, § 235(c)(4)][/us/pl/88/272/s235/c/4], Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127], inserted table of parts, and heading for part I.
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 235(c)(4), Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127], inserted table of parts, and heading for part I.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/95/600/s301/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F18%2FC
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2823
-[/us/pl/88/272/s235/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fc%2F4
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F127
 
 

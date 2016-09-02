@@ -225,7 +225,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
-(Added [Pub. L. 96–603, § 2(a)][/us/pl/96/603/s2/a], Dec. 28, 1980, [94 Stat. 3505][/us/stat/94/3505]; amended [Pub. L. 99–514, title XI, § 1114(b)(8)][/us/pl/99/514/s1114/b/8], title XVIII, § 1851(b)(2)(C)(iii), Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451], 2863; [Pub. L. 100–647, title I, § 1012(b)(4)][/us/pl/100/647/s1012/b/4], Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496]; [Pub. L. 109–280, title VIII, § 801(c)(4)][/us/pl/109/280/s801/c/4], Aug. 17, 2006, [120 Stat. 995][/us/stat/120/995].)
+(Added [Pub. L. 96–603][/us/pl/96/603], § 2(a), Dec. 28, 1980, [94 Stat. 3505][/us/stat/94/3505]; amended [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1114(b)(8), title XVIII, § 1851(b)(2)(C)(iii), Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451], 2863; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(b)(4), Nov. 10, 1988, [102 Stat. 3496][/us/stat/102/3496]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 801(c)(4), Aug. 17, 2006, [120 Stat. 995][/us/stat/120/995].)
 
  __Amendments__ 
 
@@ -233,9 +233,9 @@
 
     1988—Subsec. (d)(3). [Pub. L. 100–647][/us/pl/100/647] inserted “except as provided in regulations,” after “qualified foreign plan,”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1851(b)(2)(C)(iii)][/us/pl/99/514/s1851/b/2/C/iii], substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2).
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2).
 
-    Subsec. (g)(1)(A). [Pub. L. 99–514, § 1114(b)(8)][/us/pl/99/514/s1114/b/8], substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+    Subsec. (g)(1)(A). [Pub. L. 99–514][/us/pl/99/514], § 1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -249,11 +249,11 @@
 
     Amendment by [section 1114(b)(8) of Pub. L. 99–514][/us/pl/99/514/s1114/b/8] applicable to years beginning after Dec. 31, 1988, see [section 1114(c)(3) of Pub. L. 99–514][/us/pl/99/514/s1114/c/3], set out as a note under [section 414 of this title][/us/usc/t26/s414].
 
-    Amendment by [section 1851(b)(2)(C)(iii) of Pub. L. 99–514][/us/pl/99/514/s1851/b/2/C/iii] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1851(b)(2)(C)(iii) of Pub. L. 99–514][/us/pl/99/514/s1851/b/2/C/iii] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 96–603, § 2(e)][/us/pl/96/603/s2/e], Dec. 28, 1980, [94 Stat. 3510][/us/stat/94/3510], as amended by [Pub. L. 97–448, title III, § 305(a)][/us/pl/97/448/s305/a], Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 96–603][/us/pl/96/603], § 2(e), Dec. 28, 1980, [94 Stat. 3510][/us/stat/94/3510], as amended by [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 305(a), Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) __In general.—__ 
 
@@ -313,7 +313,7 @@
 
 >         An election under paragraph (2) may be made only by a statement attached to the taxpayer’s return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”
 
-\[[Pub. L. 97–448, title III, § 311(c)(1)][/us/pl/97/448/s311/c/1], Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
+\[[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 311(c)(1), Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
 
 > “The amendment made by subsection (a) of section 305 \[amending par. (2)(E) of this note\] shall take effect on December 28, 1980.”
 
@@ -334,18 +334,18 @@
 ----------
 ----------
 
-[/us/pl/96/603/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fa
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3505
-[/us/pl/99/514/s1114/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F8
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2451
-[/us/pl/100/647/s1012/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fb%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3496
-[/us/pl/109/280/s801/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs801%2Fc%2F4
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F995
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1851/b/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fb%2F2%2FC%2Fiii
-[/us/pl/99/514/s1114/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F8
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s801/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs801%2Fe%2F1
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
@@ -357,20 +357,20 @@
 [/us/pl/99/514/s1114/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fc%2F3
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
 [/us/pl/99/514/s1851/b/2/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fb%2F2%2FC%2Fiii
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/96/603/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs2%2Fe
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3510
-[/us/pl/97/448/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs305%2Fa
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2399
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6689
 [/us/usc/t26/s6689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6689
 [/us/usc/t26/s6689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6689
 [/us/usc/t26/s6689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6689
-[/us/pl/97/448/s311/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs311%2Fc%2F1
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2411
 [/us/pl/99/514/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114
 [/us/pl/99/514/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1141

@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XXI, § 2101(a)][/us/pl/94/455/s2101/a], Oct. 4, 1976, [90 Stat. 1897][/us/stat/90/1897], added part heading and analysis for part VII.
+    1976—[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2101(a), Oct. 4, 1976, [90 Stat. 1897][/us/stat/90/1897], added part heading and analysis for part VII.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2101%2Fa
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1897
 
 

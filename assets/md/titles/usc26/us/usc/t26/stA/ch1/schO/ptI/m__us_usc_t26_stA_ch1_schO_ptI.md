@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(28)(B)(ii)][/us/pl/94/455/s1901/b/28/B/ii], Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], struck out item 1002 “Recognition of gain or loss”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(28)(B)(ii), Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], struck out item 1002 “Recognition of gain or loss”.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/28/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F28%2FB%2Fii
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1799
 
 

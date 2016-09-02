@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title X, § 1042(d)(2)(F)][/us/pl/94/455/s1042/d/2/F], Oct. 4, 1976, [90 Stat. 1639][/us/stat/90/1639], struck out in item relating to part IV “relating to qualification of certain retirement plans” after “Declaratory judgments”.
+    1976—[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1042(d)(2)(F), Oct. 4, 1976, [90 Stat. 1639][/us/stat/90/1639], struck out in item relating to part IV “relating to qualification of certain retirement plans” after “Declaratory judgments”.
 
-    1974—[Pub. L. 93–406, title II, § 1041(c)][/us/pl/93/406/s1041/c], Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], inserted item relating to part IV.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1041(c), Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], inserted item relating to part IV.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1042/d/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1042%2Fd%2F2%2FF
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1639
-[/us/pl/93/406/s1041/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1041%2Fc
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F951
 
 

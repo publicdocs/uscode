@@ -63,7 +63,7 @@
 
         (3) such rules as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 98–369, div. A, title I, § 141(a)][/us/pl/98/369/s141/a], July 18, 1984, [98 Stat. 677][/us/stat/98/677]; amended [Pub. L. 99–514, title II, § 201(d)(13)][/us/pl/99/514/s201/d/13], title XV, § 1531(a), title XVIII, § 1899A(54), Oct. 22, 1986, [100 Stat. 2142][/us/stat/100/2142], 2749, 2961; [Pub. L. 105–34, title X, § 1028(a)][/us/pl/105/34/s1028/a], Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926]; [Pub. L. 108–357, title VIII, § 815(a)][/us/pl/108/357/s815/a], Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581]; [Pub. L. 109–135, title IV, § 412(zz)][/us/pl/109/135/s412/zz], Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 141(a), July 18, 1984, [98 Stat. 677][/us/stat/98/677]; amended [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 201(d)(13), title XV, § 1531(a), title XVIII, § 1899A(54), Oct. 22, 1986, [100 Stat. 2142][/us/stat/100/2142], 2749, 2961; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1028(a), Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 815(a), Oct. 22, 2004, [118 Stat. 1581][/us/stat/118/1581]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(zz), Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641].)
 
  __Prior Provisions__ 
 
@@ -77,21 +77,21 @@
 
     1997—Subsecs. (d) to (f). [Pub. L. 105–34][/us/pl/105/34] added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-    1986—Subsec. (c)(2)(A). [Pub. L. 99–514, § 1531(a)][/us/pl/99/514/s1531/a], substituted “350 percent” for “200 percent”.
+    1986—Subsec. (c)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 1531(a), substituted “350 percent” for “200 percent”.
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 99–514, § 201(d)(13)][/us/pl/99/514/s201/d/13], substituted “section 465(b)(3)(C)” for “section 168(e)(4)”.
+    Subsec. (c)(3)(B)(ii). [Pub. L. 99–514][/us/pl/99/514], § 201(d)(13), substituted “section 465(b)(3)(C)” for “section 168(e)(4)”.
 
-    Subsec. (d)(1)(B). [Pub. L. 99–514, § 1899A(54)][/us/pl/99/514/s1899A/54], substituted “subparagraph” for “subpargraph”.
+    Subsec. (d)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1899A(54), substituted “subparagraph” for “subpargraph”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 815(c)][/us/pl/108/357/s815/c], Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 815(c), Oct. 22, 2004, [118 Stat. 1583][/us/stat/118/1583], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6112 and 6708 of this title\] shall apply to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section) is provided after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1028(e)][/us/pl/105/34/s1028/e], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1028(e), Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -107,13 +107,13 @@
 
     Amendment by [section 201(d)(13) of Pub. L. 99–514][/us/pl/99/514/s201/d/13] not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of [Pub. L. 99–514][/us/pl/99/514], set out as a note under [section 46 of this title][/us/usc/t26/s46].
 
-[Pub. L. 99–514, title XV, § 1531(b)][/us/pl/99/514/s1531/b], Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1531(b), Oct. 22, 1986, [100 Stat. 2749][/us/stat/100/2749], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986.”
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 141(d)][/us/pl/98/369/s141/d], July 18, 1984, [98 Stat. 680][/us/stat/98/680], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 141(d), July 18, 1984, [98 Stat. 680][/us/stat/98/680], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -134,25 +134,25 @@
 ----------
 ----------
 
-[/us/pl/98/369/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs141%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F677
-[/us/pl/99/514/s201/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F13
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2142
-[/us/pl/105/34/s1028/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F926
-[/us/pl/108/357/s815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs815%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1581
-[/us/pl/109/135/s412/zz]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fzz
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2641
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/99/514/s1531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1531%2Fa
-[/us/pl/99/514/s201/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F13
-[/us/pl/99/514/s1899A/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F54
-[/us/pl/108/357/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs815%2Fc
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1583
-[/us/pl/105/34/s1028/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1028%2Fe
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F928
 [/us/usc/t26/s6662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6662
 [/us/pl/99/514/s201/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F13
@@ -161,11 +161,11 @@
 [/us/pl/99/514/s201/d/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201%2Fd%2F13
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
-[/us/pl/99/514/s1531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1531%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2749
-[/us/pl/98/369/s141/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs141%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F680
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6707
 [/us/usc/t26/s6112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6112

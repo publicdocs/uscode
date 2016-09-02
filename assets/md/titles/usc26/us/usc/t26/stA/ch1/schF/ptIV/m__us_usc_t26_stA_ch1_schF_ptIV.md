@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title I, § 101(a)][/us/pl/91/172/s101/a], Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492], substituted “PART IV” for “PART III” as part designation.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(a), Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492], substituted “PART IV” for “PART III” as part designation.
 
-    1962—[Pub. L. 87–834, § 17(b)(5)][/us/pl/87/834/s17/b/5], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051], struck out item 522 “Tax on farmers’ cooperatives”.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 17(b)(5), Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051], struck out item 522 “Tax on farmers’ cooperatives”.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fa
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F492
-[/us/pl/87/834/s17/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fb%2F5
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1051
 
 

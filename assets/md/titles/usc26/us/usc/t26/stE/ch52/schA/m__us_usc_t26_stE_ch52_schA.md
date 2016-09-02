@@ -91,9 +91,9 @@
 
  __Amendments__ 
 
-    1965—[Pub. L. 89–44, title V, § 501(g)][/us/pl/89/44/s501/g], title VIII, § 808(c)(2), June 21, 1965, [79 Stat. 150][/us/stat/79/150], 165, struck out item 5707 “Floor stocks refund on cigarettes” and inserted “Credit” before “refund” in item 5705.
+    1965—[Pub. L. 89–44, title V][/us/pl/89/44/tV], § 501(g), title VIII, § 808(c)(2), June 21, 1965, [79 Stat. 150][/us/stat/79/150], 165, struck out item 5707 “Floor stocks refund on cigarettes” and inserted “Credit” before “refund” in item 5705.
 
-    1958—[Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1414][/us/stat/72/1414], added item 5708.
+    1958—[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1414][/us/stat/72/1414], added item 5708.
 
 ----------
 
@@ -102,9 +102,9 @@
 ----------
 ----------
 
-[/us/pl/89/44/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs501%2Fg
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F150
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1414
 
 

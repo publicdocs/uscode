@@ -47,7 +47,7 @@
 
         For purposes of this section, the term “tables” includes formulas.
 
-(Added [Pub. L. 100–647, title V, § 5031(a)][/us/pl/100/647/s5031/a], Nov. 10, 1988, [102 Stat. 3668][/us/stat/102/3668]; amended [Pub. L. 113–295, div. A, title II, § 221(a)(118)][/us/pl/113/295/s221/a/118], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
+(Added [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5031(a), Nov. 10, 1988, [102 Stat. 3668][/us/stat/102/3668]; amended [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(118), Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title V, § 5031(c)][/us/pl/100/647/s5031/c], Nov. 10, 1988, [102 Stat. 3669][/us/stat/102/3669], provided that: 
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5031(c), Nov. 10, 1988, [102 Stat. 3669][/us/stat/102/3669], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -74,16 +74,16 @@
 ----------
 ----------
 
-[/us/pl/100/647/s5031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5031%2Fa
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3668
-[/us/pl/113/295/s221/a/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F118
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/usc/t26/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7521
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s5031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5031%2Fc
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3669
 
 

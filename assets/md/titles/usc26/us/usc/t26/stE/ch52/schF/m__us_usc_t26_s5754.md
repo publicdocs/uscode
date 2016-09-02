@@ -49,7 +49,7 @@
 
         (4) For forfeiture provisions related to violations of this section, see section 5761(c).
 
-(Added [Pub. L. 105–33, title IX, § 9302(h)(1)(E)(i)][/us/pl/105/33/s9302/h/1/E/i], Aug. 5, 1997, [111 Stat. 673][/us/stat/111/673]; amended [Pub. L. 106–476, title IV, § 4002(a)][/us/pl/106/476/s4002/a], Nov. 9, 2000, [114 Stat. 2176][/us/stat/114/2176]; [Pub. L. 109–432, div. C, title IV, § 401(f)(2)(B)][/us/pl/109/432/s401/f/2/B], Dec. 20, 2006, [120 Stat. 3050][/us/stat/120/3050].)
+(Added [Pub. L. 105–33, title IX][/us/pl/105/33/tIX], § 9302(h)(1)(E)(i), Aug. 5, 1997, [111 Stat. 673][/us/stat/111/673]; amended [Pub. L. 106–476, title IV][/us/pl/106/476/tIV], § 4002(a), Nov. 9, 2000, [114 Stat. 2176][/us/stat/114/2176]; [Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 401(f)(2)(B), Dec. 20, 2006, [120 Stat. 3050][/us/stat/120/3050].)
 
  __Amendments__ 
 
@@ -82,11 +82,11 @@
 ----------
 ----------
 
-[/us/pl/105/33/s9302/h/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FE%2Fi
+[/us/pl/105/33/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIX
 [/us/stat/111/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F673
-[/us/pl/106/476/s4002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4002%2Fa
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2176
-[/us/pl/109/432/s401/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Ff%2F2%2FB
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3050
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476

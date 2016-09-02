@@ -129,31 +129,31 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subpart, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments.
 
-(Added and amended [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], title X, § 1001(b)(24), July 18, 1984, [98 Stat. 547][/us/stat/98/547]; [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, [100 Stat. 2793][/us/stat/100/2793], 2903, 2960; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], 3578; [Pub. L. 103–66, title XIII, § 13206(b)(2)][/us/pl/103/66/s13206/b/2], Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465].)
+(Added and amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), title X, § 1001(b)(24), July 18, 1984, [98 Stat. 547][/us/stat/98/547]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], §§ 1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, [100 Stat. 2793][/us/stat/100/2793], 2903, 2960; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427], 3578; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(b)(2), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(1)(B)(ii)–(iv). [Pub. L. 103–66, § 13206(b)(2)(A)(i)][/us/pl/103/66/s13206/b/2/A/i], redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out heading and text of former cl. (ii). Text read as follows: “Any tax-exempt obligation (as defined in section 1275(a)(3)).”
+    1993—Subsec. (a)(1)(B)(ii)–(iv). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(2)(A)(i), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out heading and text of former cl. (ii). Text read as follows: “Any tax-exempt obligation (as defined in section 1275(a)(3)).”
 
-    Subsec. (a)(1)(C), (D). [Pub. L. 103–66, § 13206(b)(2)(A)(ii)][/us/pl/103/66/s13206/b/2/A/ii], (iii), added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (a)(1)(C), (D). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(2)(A)(ii), (iii), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (a)(4)(B). [Pub. L. 103–66, § 13206(b)(2)(B)(ii)][/us/pl/103/66/s13206/b/2/B/ii], inserted before period at end “or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer”.
+    Subsec. (a)(4)(B). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(2)(B)(ii), inserted before period at end “or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer”.
 
-    Subsec. (b)(1). [Pub. L. 103–66, § 13206(b)(2)(B)(i)][/us/pl/103/66/s13206/b/2/B/i], substituted “sections 103, 871(a),” for “sections 871(a)” in last sentence.
+    Subsec. (b)(1). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(2)(B)(i), substituted “sections 103, 871(a),” for “sections 871(a)” in last sentence.
 
-    1988—Subsec. (a)(4)(B). [Pub. L. 100–647, § 1006(u)(2)][/us/pl/100/647/s1006/u/2], substituted “section 1272(a)(7)” for “section 1272(a)(6)”.
+    1988—Subsec. (a)(4)(B). [Pub. L. 100–647][/us/pl/100/647], § 1006(u)(2), substituted “section 1272(a)(7)” for “section 1272(a)(6)”.
 
-    Subsec. (b)(4). [Pub. L. 100–647, § 1018(c)(3)][/us/pl/100/647/s1018/c/3], added par. (4).
+    Subsec. (b)(4). [Pub. L. 100–647][/us/pl/100/647], § 1018(c)(3), added par. (4).
 
-    Subsec. (c). [Pub. L. 100–647, § 1018(c)(2)][/us/pl/100/647/s1018/c/2], inserted before period at end “, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments”.
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1018(c)(2), inserted before period at end “, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments”.
 
-    1986—Subsec. (a)(1)(B)(i). [Pub. L. 99–514, § 1878(a)][/us/pl/99/514/s1878/a], amended [Pub. L. 98–369, § 1001(b)][/us/pl/98/369/s1001/b], by adding a par. (24) which contained directory language substituting “6 months” for “1 year” in cl. (i). See 1984 Amendment note below.
+    1986—Subsec. (a)(1)(B)(i). [Pub. L. 99–514][/us/pl/99/514], § 1878(a), amended [Pub. L. 98–369][/us/pl/98/369], § 1001(b), by adding a par. (24) which contained directory language substituting “6 months” for “1 year” in cl. (i). See 1984 Amendment note below.
 
-    Subsec. (a)(1)(C). [Pub. L. 99–514, § 1803(a)(6)][/us/pl/99/514/s1803/a/6], added subpar. (C).
+    Subsec. (a)(1)(C). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(6), added subpar. (C).
 
-    Subsec. (a)(4). [Pub. L. 99–514, § 1899A(32)][/us/pl/99/514/s1899A/32], substituted “means” for “means of” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514], § 1899A(32), substituted “means” for “means of” in introductory provisions.
 
-    1984—Subsec. (a)(1)(B)(i). [Pub. L. 98–369, § 1001(b)(24)][/us/pl/98/369/s1001/b/24], as added by [Pub. L. 99–514, § 1878(a)][/us/pl/99/514/s1878/a], substituted “6 months” for “1 year”.
+    1984—Subsec. (a)(1)(B)(i). [Pub. L. 98–369][/us/pl/98/369], § 1001(b)(24), as added by [Pub. L. 99–514][/us/pl/99/514], § 1878(a), substituted “6 months” for “1 year”.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -165,7 +165,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by sections 1803(a)(6) and 1878(a) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by sections 1803(a)(6) and 1878(a) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -186,27 +186,27 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F547
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2793
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
-[/us/pl/103/66/s13206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F465
-[/us/pl/103/66/s13206/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2%2FA%2Fi
-[/us/pl/103/66/s13206/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2%2FA%2Fii
-[/us/pl/103/66/s13206/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2%2FB%2Fii
-[/us/pl/103/66/s13206/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2%2FB%2Fi
-[/us/pl/100/647/s1006/u/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fu%2F2
-[/us/pl/100/647/s1018/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fc%2F3
-[/us/pl/100/647/s1018/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fc%2F2
-[/us/pl/99/514/s1878/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1878%2Fa
-[/us/pl/98/369/s1001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb
-[/us/pl/99/514/s1803/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F6
-[/us/pl/99/514/s1899A/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F32
-[/us/pl/98/369/s1001/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F24
-[/us/pl/99/514/s1878/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1878%2Fa
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t26/s1272/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1272%2Fd%2F1
 [/us/pl/103/66/s13206/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F3
@@ -216,7 +216,7 @@
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

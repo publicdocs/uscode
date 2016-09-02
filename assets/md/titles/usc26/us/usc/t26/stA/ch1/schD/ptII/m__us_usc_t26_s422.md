@@ -99,59 +99,59 @@
 
             For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added [Pub. L. 97–34, title II, § 251(a)][/us/pl/97/34/s251/a], Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], § 422A; amended [Pub. L. 97–448, title I, § 102(j)(1)][/us/pl/97/448/s102/j/1]–(4), Jan. 12, 1983, [96 Stat. 2373][/us/stat/96/2373]; [Pub. L. 98–369, div. A, title V, § 555(a)(1)][/us/pl/98/369/s555/a/1], div. B, title VI, § 2662(f)(1), July 18, 1984, [98 Stat. 897][/us/stat/98/897], 1159; [Pub. L. 99–514, title III, § 321(a)][/us/pl/99/514/s321/a], (b), title XVIII, § 1847(b)(5), Oct. 22, 1986, [100 Stat. 2220][/us/stat/100/2220], 2856; [Pub. L. 100–647, title I, § 1003(d)(1)(A)][/us/pl/100/647/s1003/d/1/A], (2), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384]; renumbered § 422 and amended [Pub. L. 101–508, title XI, § 11801(c)(9)(A)(i)][/us/pl/101/508/s11801/c/9/A/i], (C), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524], 1388–525.)
+(Added [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 251(a), Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], § 422A; amended [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 102(j)(1)–(4), Jan. 12, 1983, [96 Stat. 2373][/us/stat/96/2373]; [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 555(a)(1), div. B, title VI, § 2662(f)(1), July 18, 1984, [98 Stat. 897][/us/stat/98/897], 1159; [Pub. L. 99–514, title III][/us/pl/99/514/tIII], § 321(a), (b), title XVIII, § 1847(b)(5), Oct. 22, 1986, [100 Stat. 2220][/us/stat/100/2220], 2856; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1003(d)(1)(A), (2), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384]; renumbered § 422 and amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(9)(A)(i), (C), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524], 1388–525.)
 
  __Prior Provisions__ 
 
-    A prior section 422, added [Pub. L. 88–272, title II, § 221(a)][/us/pl/88/272/s221/a], Feb. 26, 1964, [78 Stat. 64][/us/stat/78/64]; amended [Pub. L. 94–455, title VI, § 603(a)][/us/pl/94/455/s603/a], (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1574][/us/stat/90/1574], 1834; [Pub. L. 96–589, § 6(i)(3)][/us/pl/96/589/s6/i/3], Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410], related to qualified stock options, prior to repeal by [Pub. L. 101–508, title XI, § 11801(a)(20)][/us/pl/101/508/s11801/a/20], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]. For savings provision, see [section 11821(b) of Pub. L. 101–508][/us/pl/101/508/s11821/b], set out as a note under [section 45K of this title][/us/usc/t26/s45K].
+    A prior section 422, added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 221(a), Feb. 26, 1964, [78 Stat. 64][/us/stat/78/64]; amended [Pub. L. 94–455, title VI][/us/pl/94/455/tVI], § 603(a), (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1574][/us/stat/90/1574], 1834; [Pub. L. 96–589][/us/pl/96/589], § 6(i)(3), Dec. 24, 1980, [94 Stat. 3410][/us/stat/94/3410], related to qualified stock options, prior to repeal by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(20), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]. For savings provision, see [section 11821(b) of Pub. L. 101–508][/us/pl/101/508/s11821/b], set out as a note under [section 45K of this title][/us/usc/t26/s45K].
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, § 11801(c)(9)(A)(i)][/us/pl/101/508/s11801/c/9/A/i], renumbered [section 422A of this title][/us/usc/t26/s422A] as this section.
+    1990—[Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(A)(i), renumbered [section 422A of this title][/us/usc/t26/s422A] as this section.
 
-    Subsec. (a)(2). [Pub. L. 101–508, § 11801(c)(9)(C)(i)][/us/pl/101/508/s11801/c/9/C/i], substituted “424(a)” for “425(a)”.
+    Subsec. (a)(2). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(C)(i), substituted “424(a)” for “425(a)”.
 
-    Subsec. (c)(5) to (8). [Pub. L. 101–508, § 11801(c)(9)(C)(ii)][/us/pl/101/508/s11801/c/9/C/ii], redesignated pars. (6) to (8) as (5) to (7), respectively, and struck out former par. (5) “Coordination with sections 422 and 424” which read as follows: “Sections 422 and 424 shall not apply to an incentive stock option.”
+    Subsec. (c)(5) to (8). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(C)(ii), redesignated pars. (6) to (8) as (5) to (7), respectively, and struck out former par. (5) “Coordination with sections 422 and 424” which read as follows: “Sections 422 and 424 shall not apply to an incentive stock option.”
 
-    1988—Subsec. (b). [Pub. L. 100–647, § 1003(d)(1)(A)][/us/pl/100/647/s1003/d/1/A], inserted at end “Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.”
+    1988—Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1003(d)(1)(A), inserted at end “Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.”
 
-    Subsec. (b)(7). [Pub. L. 100–647, § 1003(d)(2)(B)][/us/pl/100/647/s1003/d/2/B], struck out par. (7) which read as follows: “under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual’s employer corporation and its parent and subsidiary corporations) shall not exceed $100,000.”
+    Subsec. (b)(7). [Pub. L. 100–647][/us/pl/100/647], § 1003(d)(2)(B), struck out par. (7) which read as follows: “under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual’s employer corporation and its parent and subsidiary corporations) shall not exceed $100,000.”
 
-    Subsec. (c)(1). [Pub. L. 100–647, § 1003(d)(2)(C)][/us/pl/100/647/s1003/d/2/C], substituted “subsection (d)” for “paragraph (7) of subsection (b)”.
+    Subsec. (c)(1). [Pub. L. 100–647][/us/pl/100/647], § 1003(d)(2)(C), substituted “subsection (d)” for “paragraph (7) of subsection (b)”.
 
-    Subsec. (d). [Pub. L. 100–647, § 1003(d)(2)(A)][/us/pl/100/647/s1003/d/2/A], added subsec. (d).
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1003(d)(2)(A), added subsec. (d).
 
-    1986—Subsec. (b)(7). [Pub. L. 99–514, § 321(a)][/us/pl/99/514/s321/a], added par. (7) and struck out former par. (7) which read as follows: “such option by its terms is not exercisable while there is outstanding (within the meaning of subsection (c)(7)) any incentive stock option which was granted, before the granting of such option, to such individual to purchase stock in his employer corporation or in a corporation which (at the time of the granting of such option) is a parent or subsidiary corporation of the employer corporation, or in a predecessor corporation of any of such corporations; and”.
+    1986—Subsec. (b)(7). [Pub. L. 99–514][/us/pl/99/514], § 321(a), added par. (7) and struck out former par. (7) which read as follows: “such option by its terms is not exercisable while there is outstanding (within the meaning of subsection (c)(7)) any incentive stock option which was granted, before the granting of such option, to such individual to purchase stock in his employer corporation or in a corporation which (at the time of the granting of such option) is a parent or subsidiary corporation of the employer corporation, or in a predecessor corporation of any of such corporations; and”.
 
-    Subsec. (b)(8). [Pub. L. 99–514, § 321(a)][/us/pl/99/514/s321/a], struck out par. (8) which read as follows: “in the case of an option granted after December 31, 1980, under the terms of the plan the aggregate fair market value (determined as of the time the option is granted) of the stock for which any employee may be granted incentive stock options in any calendar year (under all such plans of his employer corporation and its parent and subsidiary corporation) shall not exceed $100,000 plus any unused limit carryover to such year.”
+    Subsec. (b)(8). [Pub. L. 99–514][/us/pl/99/514], § 321(a), struck out par. (8) which read as follows: “in the case of an option granted after December 31, 1980, under the terms of the plan the aggregate fair market value (determined as of the time the option is granted) of the stock for which any employee may be granted incentive stock options in any calendar year (under all such plans of his employer corporation and its parent and subsidiary corporation) shall not exceed $100,000 plus any unused limit carryover to such year.”
 
-    Subsec. (c)(1). [Pub. L. 99–514, § 321(b)(2)][/us/pl/99/514/s321/b/2], substituted “paragraph (7) of subsection (b)” for “paragraph (8) of subsection (b) and paragraph (4) of this subsection”.
+    Subsec. (c)(1). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(2), substituted “paragraph (7) of subsection (b)” for “paragraph (8) of subsection (b) and paragraph (4) of this subsection”.
 
-    Subsec. (c)(4). [Pub. L. 99–514, § 321(b)(1)][/us/pl/99/514/s321/b/1], redesignated par. (5) as (4) and struck out former par. (4) relating to carryover of unused limit.
+    Subsec. (c)(4). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1), redesignated par. (5) as (4) and struck out former par. (4) relating to carryover of unused limit.
 
-    Subsec. (c)(5), (6). [Pub. L. 99–514, § 321(b)(1)(B)][/us/pl/99/514/s321/b/1/B], redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
+    Subsec. (c)(5), (6). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1)(B), redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-    Subsec. (c)(7). [Pub. L. 99–514, § 321(b)(1)][/us/pl/99/514/s321/b/1], redesignated par. (9) as (7) and struck out former par. (7) which provided that for purposes of subsec. (b)(7) any incentive stock option be treated as outstanding until such option was exercised in full or expired by reason of lapse of time.
+    Subsec. (c)(7). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1), redesignated par. (9) as (7) and struck out former par. (7) which provided that for purposes of subsec. (b)(7) any incentive stock option be treated as outstanding until such option was exercised in full or expired by reason of lapse of time.
 
-    Subsec. (c)(8). [Pub. L. 99–514, § 321(b)(1)(B)][/us/pl/99/514/s321/b/1/B], redesignated par. (10) as (8). Former par. (8) redesignated (6).
+    Subsec. (c)(8). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1)(B), redesignated par. (10) as (8). Former par. (8) redesignated (6).
 
-    Subsec. (c)(9). [Pub. L. 99–514, § 321(b)(1)(B)][/us/pl/99/514/s321/b/1/B], redesignated par. (9) as (7).
+    Subsec. (c)(9). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1)(B), redesignated par. (9) as (7).
 
-    [Pub. L. 99–514, § 1847(b)(5)][/us/pl/99/514/s1847/b/5], substituted “section 22(e)(3)” for “section 37(e)(3)”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1847(b)(5), substituted “section 22(e)(3)” for “section 37(e)(3)”.
 
-    Subsec. (c)(10). [Pub. L. 99–514, § 321(b)(1)(B)][/us/pl/99/514/s321/b/1/B], redesignated par. (10) as (8).
+    Subsec. (c)(10). [Pub. L. 99–514][/us/pl/99/514], § 321(b)(1)(B), redesignated par. (10) as (8).
 
-    1984—Subsec. (c)(9). [Pub. L. 98–369, § 2662(f)(1)][/us/pl/98/369/s2662/f/1], substituted “section 37(e)(3)” for “section 105(d)(4)”.
+    1984—Subsec. (c)(9). [Pub. L. 98–369][/us/pl/98/369], § 2662(f)(1), substituted “section 37(e)(3)” for “section 105(d)(4)”.
 
-    Subsec. (c)(10). [Pub. L. 98–369, § 555(a)(1)][/us/pl/98/369/s555/a/1], added par. (10).
+    Subsec. (c)(10). [Pub. L. 98–369][/us/pl/98/369], § 555(a)(1), added par. (10).
 
-    1983—Subsec. (b)(8). [Pub. L. 97–448, § 102(j)(1)][/us/pl/97/448/s102/j/1], substituted “granted incentive stock options” for “granted options”.
+    1983—Subsec. (b)(8). [Pub. L. 97–448][/us/pl/97/448], § 102(j)(1), substituted “granted incentive stock options” for “granted options”.
 
-    Subsec. (c)(1). [Pub. L. 97–448, § 102(j)(2)][/us/pl/97/448/s102/j/2], substituted “Good faith efforts to value stock” for “Exercise of option when price is less than value of stock” as par. (1) heading and inserted sentence providing that, to the extent provided in regulations by the Secretary, a rule similar to that already enunciated in the paragraph applies for purposes of par. (8) of subsec. (b) and par. (4) of subsec. (c).
+    Subsec. (c)(1). [Pub. L. 97–448][/us/pl/97/448], § 102(j)(2), substituted “Good faith efforts to value stock” for “Exercise of option when price is less than value of stock” as par. (1) heading and inserted sentence providing that, to the extent provided in regulations by the Secretary, a rule similar to that already enunciated in the paragraph applies for purposes of par. (8) of subsec. (b) and par. (4) of subsec. (c).
 
-    Subsec. (c)(2)(A). [Pub. L. 97–448, § 102(j)(3)][/us/pl/97/448/s102/j/3], substituted “either of the periods” for “the 2-year period”.
+    Subsec. (c)(2)(A). [Pub. L. 97–448][/us/pl/97/448], § 102(j)(3), substituted “either of the periods” for “the 2-year period”.
 
-    Subsec. (c)(4)(A)(ii). [Pub. L. 97–448, § 102(j)(4)][/us/pl/97/448/s102/j/4], substituted “granted incentive stock options” for “granted options”.
+    Subsec. (c)(4)(A)(ii). [Pub. L. 97–448][/us/pl/97/448], § 102(j)(4), substituted “granted incentive stock options” for “granted options”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -159,15 +159,15 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title III, § 321(c)][/us/pl/99/514/s321/c], Oct. 22, 1986, [100 Stat. 2220][/us/stat/100/2220], provided that: 
+[Pub. L. 99–514, title III][/us/pl/99/514/tIII], § 321(c), Oct. 22, 1986, [100 Stat. 2220][/us/stat/100/2220], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to options granted after December 31, 1986.”
 
-    Amendment by [section 1847(b)(5) of Pub. L. 99–514][/us/pl/99/514/s1847/b/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1847(b)(5) of Pub. L. 99–514][/us/pl/99/514/s1847/b/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title V, § 555(c)(1)][/us/pl/98/369/s555/c/1], July 18, 1984, [98 Stat. 898][/us/stat/98/898], as amended by [Pub. L. 99–514, title XVIII, § 1855(a)(1)][/us/pl/99/514/s1855/a/1], Oct. 22, 1986, [100 Stat. 2882][/us/stat/100/2882], provided that: 
+[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 555(c)(1), July 18, 1984, [98 Stat. 898][/us/stat/98/898], as amended by [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1855(a)(1), Oct. 22, 1986, [100 Stat. 2882][/us/stat/100/2882], provided that: 
 
 > “The amendment made by subsection (a)(1) \[amending this section\] shall apply to options granted after March 20, 1984, except that such subsection shall not apply to any incentive stock option granted before September 20, 1984, pursuant to a plan adopted or corporate action taken by the board of directors of the grantor corporation before May 15, 1984.”
 
@@ -179,7 +179,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–34, title II, § 251(c)][/us/pl/97/34/s251/c], Aug. 13, 1981, [95 Stat. 259][/us/stat/95/259], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 251(c), Aug. 13, 1981, [95 Stat. 259][/us/stat/95/259], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) __Options to which section applies.—__ 
 
@@ -201,7 +201,7 @@
 
  __Treatment of Options as Incentive Stock Options__ 
 
-[Pub. L. 100–647, title I, § 1003(d)(1)(B)][/us/pl/100/647/s1003/d/1/B], Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1003(d)(1)(B), Nov. 10, 1988, [102 Stat. 3384][/us/stat/102/3384], provided that: 
 
 > “In the case of an option granted after December 31, 1986, and on or before the date of the enactment of this Act \[Nov. 10, 1988\], such option shall not be treated as an incentive stock option if the terms of such option are amended before the date 90 days after such date of enactment to provide that such option will not be treated as an incentive stock option.”
 
@@ -216,65 +216,65 @@
 ----------
 ----------
 
-[/us/pl/97/34/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fa
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F256
-[/us/pl/97/448/s102/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fj%2F1
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2373
-[/us/pl/98/369/s555/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs555%2Fa%2F1
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F897
-[/us/pl/99/514/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fa
+[/us/pl/99/514/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIII
 [/us/stat/100/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2220
-[/us/pl/100/647/s1003/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F1%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3384
-[/us/pl/101/508/s11801/c/9/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FA%2Fi
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-524
-[/us/pl/88/272/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs221%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F64
-[/us/pl/94/455/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs603%2Fa
+[/us/pl/94/455/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVI
 [/us/stat/90/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1574
-[/us/pl/96/589/s6/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fi%2F3
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3410
-[/us/pl/101/508/s11801/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F20
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/101/508/s11801/c/9/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FA%2Fi
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t26/s422A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs422A
-[/us/pl/101/508/s11801/c/9/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FC%2Fi
-[/us/pl/101/508/s11801/c/9/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FC%2Fii
-[/us/pl/100/647/s1003/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F1%2FA
-[/us/pl/100/647/s1003/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F2%2FB
-[/us/pl/100/647/s1003/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F2%2FC
-[/us/pl/100/647/s1003/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F2%2FA
-[/us/pl/99/514/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fa
-[/us/pl/99/514/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fa
-[/us/pl/99/514/s321/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F2
-[/us/pl/99/514/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1
-[/us/pl/99/514/s321/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1%2FB
-[/us/pl/99/514/s321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1
-[/us/pl/99/514/s321/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1%2FB
-[/us/pl/99/514/s321/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1%2FB
-[/us/pl/99/514/s1847/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1847%2Fb%2F5
-[/us/pl/99/514/s321/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fb%2F1%2FB
-[/us/pl/98/369/s2662/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662%2Ff%2F1
-[/us/pl/98/369/s555/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs555%2Fa%2F1
-[/us/pl/97/448/s102/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fj%2F1
-[/us/pl/97/448/s102/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fj%2F2
-[/us/pl/97/448/s102/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fj%2F3
-[/us/pl/97/448/s102/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fj%2F4
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs321%2Fc
+[/us/pl/99/514/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIII
 [/us/stat/100/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2220
 [/us/pl/99/514/s1847/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1847%2Fb%2F5
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s555/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs555%2Fc%2F1
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F898
-[/us/pl/99/514/s1855/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1855%2Fa%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2882
 [/us/pl/98/369/s2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2662
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
@@ -284,14 +284,14 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/448/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/34/s251/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fc
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F259
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/100/647/s1003/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1003%2Fd%2F1%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3384
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

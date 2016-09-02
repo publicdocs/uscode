@@ -111,7 +111,7 @@
 
                 (ii) in the case of a cessation of such an election, the 1st taxable year after such election ceases to apply.
 
-(Added [Pub. L. 97–34, title II, § 237(a)][/us/pl/97/34/s237/a], Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252]; amended [Pub. L. 99–514, title VIII, § 802(a)][/us/pl/99/514/s802/a], Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348].)
+(Added [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 237(a), Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252]; amended [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 802(a), Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348].)
 
  __Amendments__ 
 
@@ -119,7 +119,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VIII, § 802(c)][/us/pl/99/514/s802/c], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 802(c), Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -131,7 +131,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–34, title II, § 237(c)][/us/pl/97/34/s237/c], Aug. 13, 1981, [95 Stat. 253][/us/stat/95/253], provided that: 
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 237(c), Aug. 13, 1981, [95 Stat. 253][/us/stat/95/253], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1981.”
 
@@ -142,15 +142,15 @@
 ----------
 ----------
 
-[/us/pl/97/34/s237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs237%2Fa
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F252
-[/us/pl/99/514/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs802%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2348
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s472/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs472%2Fb
-[/us/pl/99/514/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs802%2Fc
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2350
-[/us/pl/97/34/s237/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs237%2Fc
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F253
 
 

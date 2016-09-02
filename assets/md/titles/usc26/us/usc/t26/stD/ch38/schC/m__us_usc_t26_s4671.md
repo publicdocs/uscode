@@ -49,7 +49,7 @@
 
         No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
 
-(Added [Pub. L. 99–499, title V, § 515(a)][/us/pl/99/499/s515/a], Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767]; amended [Pub. L. 99–509, title VIII, § 8032(c)(3)][/us/pl/99/509/s8032/c/3], Oct. 21, 1986, [100 Stat. 1958][/us/stat/100/1958].)
+(Added [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(a), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767]; amended [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8032(c)(3), Oct. 21, 1986, [100 Stat. 1958][/us/stat/100/1958].)
 
  __Amendments__ 
 
@@ -61,13 +61,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–499, title V, § 515(c)][/us/pl/99/499/s515/c], Oct. 17, 1986, [100 Stat. 1769][/us/stat/100/1769], provided that: 
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(c), Oct. 17, 1986, [100 Stat. 1769][/us/stat/100/1769], provided that: 
 
 > “The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1989.”
 
  __Study and Report__ 
 
-[Pub. L. 99–499, title V, § 515(d)][/us/pl/99/499/s515/d], Oct. 17, 1986, [100 Stat. 1769][/us/stat/100/1769], provided that:
+[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(d), Oct. 17, 1986, [100 Stat. 1769][/us/stat/100/1769], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -90,17 +90,17 @@
 ----------
 ----------
 
-[/us/pl/99/499/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs515%2Fa
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
-[/us/pl/99/509/s8032/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fc%2F3
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1958
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s8032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fd
 [/us/usc/t26/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4611
-[/us/pl/99/499/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs515%2Fc
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1769
-[/us/pl/99/499/s515/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs515%2Fd
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1769
 
 

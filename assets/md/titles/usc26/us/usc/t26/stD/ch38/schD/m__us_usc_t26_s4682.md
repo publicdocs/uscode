@@ -707,49 +707,49 @@
 
             All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added [Pub. L. 101–239, title VII, § 7506(a)][/us/pl/101/239/s7506/a], Dec. 19, 1989, [103 Stat. 2365][/us/stat/103/2365]; amended [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, [104 Stat. 1388–421][/us/stat/104/1388-421], 1388–422, 1388–508; [Pub. L. 102–486, title XIX][/us/pl/102/486], §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, [106 Stat. 3029–3031][/us/stat/106/3029-3031]; [Pub. L. 104–188, title I, § 1803(a)(1)][/us/pl/104/188/s1803/a/1], (b), Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], 1893; [Pub. L. 105–34, title IX, § 903(a)][/us/pl/105/34/s903/a], title XIV, § 1432(c)(2), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 1051; [Pub. L. 113–295, div. A, title II, § 221(a)(107)][/us/pl/113/295/s221/a/107], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7506(a), Dec. 19, 1989, [103 Stat. 2365][/us/stat/103/2365]; amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, [104 Stat. 1388–421][/us/stat/104/1388-421], 1388–422, 1388–508; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, [106 Stat. 3029–3031][/us/stat/106/3029-3031]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1803(a)(1), (b), Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], 1893; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 903(a), title XIV, § 1432(c)(2), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 1051; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(107), Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Prior Provisions__ 
 
-    A prior section 4682, added [Pub. L. 96–510, title II, § 231(a)][/us/pl/96/510/s231/a], Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], was contained in subchapter C of this chapter, prior to repeal by [Pub. L. 99–499, title V, § 514(a)(1)][/us/pl/99/499/s514/a/1], (c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
+    A prior section 4682, added [Pub. L. 96–510, title II][/us/pl/96/510/tII], § 231(a), Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], was contained in subchapter C of this chapter, prior to repeal by [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 514(a)(1), (c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
  __Amendments__ 
 
     2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted “In general” for “Other tax-increase dates” in heading and struck out “after 1991” after “calendar year” in subpar. (C), and struck out former par. (1), which read as follows: “On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.”
 
-    1997—Subsec. (d)(1). [Pub. L. 105–34, § 903(a)][/us/pl/105/34/s903/a], substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
+    1997—Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34], § 903(a), substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
 
-    Subsec. (g). [Pub. L. 105–34, § 1432(c)(2)][/us/pl/105/34/s1432/c/2], amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
+    Subsec. (g). [Pub. L. 105–34][/us/pl/105/34], § 1432(c)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
 
-    1996—Subsec. (d)(1). [Pub. L. 104–188, § 1803(a)(1)][/us/pl/104/188/s1803/a/1], inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
+    1996—Subsec. (d)(1). [Pub. L. 104–188][/us/pl/104/188], § 1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
 
-    Subsec. (g)(4). [Pub. L. 104–188, § 1803(b)][/us/pl/104/188/s1803/b], amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
+    Subsec. (g)(4). [Pub. L. 104–188][/us/pl/104/188], § 1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 
-    1992—Subsec. (g)(2)(A). [Pub. L. 102–486, § 1932(a)][/us/pl/102/486/s1932/a], in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
+    1992—Subsec. (g)(2)(A). [Pub. L. 102–486][/us/pl/102/486], § 1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
 
-    Subsec. (g)(2)(B). [Pub. L. 102–486, § 1931(b)][/us/pl/102/486/s1931/b], in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
+    Subsec. (g)(2)(B). [Pub. L. 102–486][/us/pl/102/486], § 1931(b), in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
 
-    Subsec. (g)(4), (5). [Pub. L. 102–486, § 1932(b)][/us/pl/102/486/s1932/b], (c), added pars. (4) and (5).
+    Subsec. (g)(4), (5). [Pub. L. 102–486][/us/pl/102/486], § 1932(b), (c), added pars. (4) and (5).
 
-    Subsec. (h)(2)(C). [Pub. L. 102–486, § 1931(c)][/us/pl/102/486/s1931/c], substituted “any calendar year after 1991” for “1991, 1992, 1993, and 1994”.
+    Subsec. (h)(2)(C). [Pub. L. 102–486][/us/pl/102/486], § 1931(c), substituted “any calendar year after 1991” for “1991, 1992, 1993, and 1994”.
 
-    1990—Subsecs. (a)(2), (b). [Pub. L. 101–508, § 11203(a)][/us/pl/101/508/s11203/a], inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
+    1990—Subsecs. (a)(2), (b). [Pub. L. 101–508][/us/pl/101/508], § 11203(a), inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 11203(d)(1)][/us/pl/101/508/s11203/d/1], inserted “(other than methyl chloroform)”.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 11203(d)(1), inserted “(other than methyl chloroform)”.
 
-    Subsec. (d)(3)(B)(i). [Pub. L. 101–508, § 11701(g)(1)][/us/pl/101/508/s11701/g/1], substituted “, produced, or imported” for “or produced” in introductory provisions.
+    Subsec. (d)(3)(B)(i). [Pub. L. 101–508][/us/pl/101/508], § 11701(g)(1), substituted “, produced, or imported” for “or produced” in introductory provisions.
 
-    Subsec. (d)(3)(B)(i)(I). [Pub. L. 101–508, § 11701(g)(2)][/us/pl/101/508/s11701/g/2], amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the amount equal to the 1986 export percentage of the aggregate tax imposed by this subchapter with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year (other than chemicals with respect to which subclause (II) applies), and”.
+    Subsec. (d)(3)(B)(i)(I). [Pub. L. 101–508][/us/pl/101/508], § 11701(g)(2), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the amount equal to the 1986 export percentage of the aggregate tax imposed by this subchapter with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year (other than chemicals with respect to which subclause (II) applies), and”.
 
-    Subsec. (d)(3)(B)(i)(II). [Pub. L. 101–508, § 11701(g)(3)][/us/pl/101/508/s11701/g/3], substituted “tax which would (but for this subsection and subsection (g)) be imposed” for “tax imposed”.
+    Subsec. (d)(3)(B)(i)(II). [Pub. L. 101–508][/us/pl/101/508], § 11701(g)(3), substituted “tax which would (but for this subsection and subsection (g)) be imposed” for “tax imposed”.
 
-    Subsec. (d)(3)(B)(i)(III). [Pub. L. 101–508, § 11701(g)(4)][/us/pl/101/508/s11701/g/4], added subcl. (III).
+    Subsec. (d)(3)(B)(i)(III). [Pub. L. 101–508][/us/pl/101/508], § 11701(g)(4), added subcl. (III).
 
-    Subsec. (d)(3)(B)(ii). [Pub. L. 101–508, § 11701(g)(5)][/us/pl/101/508/s11701/g/5], substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
+    Subsec. (d)(3)(B)(ii). [Pub. L. 101–508][/us/pl/101/508], § 11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
 
-    Subsec. (d)(3)(C). [Pub. L. 101–508, § 11203(b)][/us/pl/101/508/s11203/b], added subpar. (C).
+    Subsec. (d)(3)(C). [Pub. L. 101–508][/us/pl/101/508], § 11203(b), added subpar. (C).
 
-    Subsec. (h)(3). [Pub. L. 101–508, § 11203(d)(2)][/us/pl/101/508/s11203/d/2], substituted “June 30” for “April 1”.
+    Subsec. (h)(3). [Pub. L. 101–508][/us/pl/101/508], § 11203(d)(2), substituted “June 30” for “April 1”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -757,13 +757,13 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title IX, § 903(b)][/us/pl/105/34/s903/b], Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], provided that: 
+[Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 903(b), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1803(c)][/us/pl/104/188/s1803/c], Aug. 20, 1996, [110 Stat. 1893][/us/stat/110/1893], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1803(c), Aug. 20, 1996, [110 Stat. 1893][/us/stat/110/1893], provided that:
 
 >     “(1) __Recycled halon.—__ 
 
@@ -783,7 +783,7 @@
 
     Amendment by section 1931(b), (c) of [Pub. L. 102–486][/us/pl/102/486] applicable to taxable chemicals sold or used on or after Jan. 1, 1993, see [section 1931(d) of Pub. L. 102–486][/us/pl/102/486/s1931/d], set out as a note under [section 4681 of this title][/us/usc/t26/s4681].
 
-[Pub. L. 102–486, title XIX, § 1932(d)][/us/pl/102/486/s1932/d], Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1932(d), Oct. 24, 1992, [106 Stat. 3031][/us/stat/106/3031], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to sales and uses on or after January 1, 1993.”
 
@@ -791,17 +791,17 @@
 
     Amendment by section 11203(a), (b), and (d) of [Pub. L. 101–508][/us/pl/101/508] effective Jan. 1, 1991, see [section 11203(e) of Pub. L. 101–508][/us/pl/101/508/s11203/e], set out as a note under [section 4681 of this title][/us/usc/t26/s4681].
 
-    Amendment by [section 11701(g) of Pub. L. 101–508][/us/pl/101/508/s11701/g] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
+    Amendment by [section 11701(g) of Pub. L. 101–508][/us/pl/101/508/s11701/g] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
 
  __Certification System__ 
 
-[Pub. L. 104–188, title I, § 1803(a)(2)][/us/pl/104/188/s1803/a/2], Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1803(a)(2), Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], provided that: 
 
 > “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
 
  __Deposits for First Quarter of 1991__ 
 
-[Pub. L. 101–508, title XI, § 11203(f)][/us/pl/101/508/s11203/f], Nov. 5, 1990, [104 Stat. 1388–423][/us/stat/104/1388-423], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11203(f), Nov. 5, 1990, [104 Stat. 1388–423][/us/stat/104/1388-423], provided that: 
 
 > “No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) \[amending this section\] shall be required to be made before April 1, 1991.”
 
@@ -812,62 +812,62 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7506%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2365
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-421
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3029-3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3029-3031
-[/us/pl/104/188/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fa%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1892
-[/us/pl/105/34/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F873
-[/us/pl/113/295/s221/a/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F107
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
-[/us/pl/96/510/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs231%2Fa
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2804
-[/us/pl/99/499/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fa%2F1
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/105/34/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fa
-[/us/pl/105/34/s1432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1432%2Fc%2F2
-[/us/pl/104/188/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fa%2F1
-[/us/pl/104/188/s1803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fb
-[/us/pl/102/486/s1932/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1932%2Fa
-[/us/pl/102/486/s1931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1931%2Fb
-[/us/pl/102/486/s1932/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1932%2Fb
-[/us/pl/102/486/s1931/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1931%2Fc
-[/us/pl/101/508/s11203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fa
-[/us/pl/101/508/s11203/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fd%2F1
-[/us/pl/101/508/s11701/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F1
-[/us/pl/101/508/s11701/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F2
-[/us/pl/101/508/s11701/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F3
-[/us/pl/101/508/s11701/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F4
-[/us/pl/101/508/s11701/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F5
-[/us/pl/101/508/s11203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fb
-[/us/pl/101/508/s11203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fd%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fb
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F873
-[/us/pl/104/188/s1803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1893
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486/s1931/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1931%2Fd
 [/us/usc/t26/s4681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4681
-[/us/pl/102/486/s1932/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1932%2Fd
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3031
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fe
 [/us/usc/t26/s4681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4681
 [/us/pl/101/508/s11701/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/pl/101/508/s11701/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fn
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
-[/us/pl/104/188/s1803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fa%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1892
-[/us/pl/101/508/s11203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Ff
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-423
 
 

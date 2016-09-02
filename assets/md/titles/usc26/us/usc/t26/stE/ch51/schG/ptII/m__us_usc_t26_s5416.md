@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “package” means a bottle, can, keg, barrel, or other original consumer container, and the term “packaging” means the filling of any package.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1390][/us/stat/72/1390]; amended [Pub. L. 91–673, § 3(e)][/us/pl/91/673/s3/e], Jan. 12, 1971, [84 Stat. 2057][/us/stat/84/2057].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1390][/us/stat/72/1390]; amended [Pub. L. 91–673][/us/pl/91/673], § 3(e), Jan. 12, 1971, [84 Stat. 2057][/us/stat/84/2057].)
 
  __Prior Provisions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1390
-[/us/pl/91/673/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs3%2Fe
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2057
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F676

@@ -43,11 +43,11 @@
 
  __Prior Provisions__ 
 
-    A prior part I, [act Aug. 16, 1964, ch. 736][/us/act/1964-08-16/ch736], [68A Stat. 721][/us/stat/68A/721], and amended thereafter, consisted of sections 5801 to 5803, prior to the general revision of this chapter by [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1228][/us/stat/82/1228].
+    A prior part I, [act Aug. 16, 1964, ch. 736][/us/act/1964-08-16/ch736], [68A Stat. 721][/us/stat/68A/721], and amended thereafter, consisted of sections 5801 to 5803, prior to the general revision of this chapter by [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1228][/us/stat/82/1228].
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–203, title X, § 10512(g)(2)][/us/pl/100/203/s10512/g/2], Dec. 22, 1987, [101 Stat. 1330–450][/us/stat/101/1330-450], substituted “Imposition of tax” for “Tax” in item 5801.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(g)(2), Dec. 22, 1987, [101 Stat. 1330–450][/us/stat/101/1330-450], substituted “Imposition of tax” for “Tax” in item 5801.
 
 ----------
 
@@ -58,9 +58,9 @@
 
 [/us/act/1964-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1964-08-16%2Fch736
 [/us/stat/68A/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F721
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1228
-[/us/pl/100/203/s10512/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Fg%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-450
 
 

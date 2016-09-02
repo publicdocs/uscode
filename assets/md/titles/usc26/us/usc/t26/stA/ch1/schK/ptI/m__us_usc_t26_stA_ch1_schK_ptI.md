@@ -99,7 +99,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title II, § 213(b)(2)][/us/pl/94/455/s213/b/2], title XIX, § 1901(b)(23), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1798, struck out part IV “Effective date for subchapter” in table of parts of subchapter K of chapter 1 and added item 709.
+    1976—[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(b)(2), title XIX, § 1901(b)(23), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1798, struck out part IV “Effective date for subchapter” in table of parts of subchapter K of chapter 1 and added item 709.
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s213/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fb%2F2
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1547
 
 

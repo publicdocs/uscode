@@ -81,11 +81,11 @@
 
                 (ii) the days during such representative period as the Secretary may prescribe.
 
-(Added [Pub. L. 101–239, title VII, § 7401(a)][/us/pl/101/239/s7401/a], Dec. 19, 1989, [103 Stat. 2355][/us/stat/103/2355]; amended [Pub. L. 108–357, title IV, § 413(c)(13)][/us/pl/108/357/s413/c/13], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7401(a), Dec. 19, 1989, [103 Stat. 2355][/us/stat/103/2355]; amended [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(13), Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].)
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–357, § 413(c)(13)(A)][/us/pl/108/357/s413/c/13/A], amended subpar. (A) generally. Prior to amendment, subpar (A) read as follows:
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–357][/us/pl/108/357], § 413(c)(13)(A), amended subpar. (A) generally. Prior to amendment, subpar (A) read as follows:
 
     “(A) which is—
 
@@ -93,11 +93,11 @@
 
     “(ii) a foreign personal holding company (as defined in section 552), and”.
 
-    Subsec. (b)(2)(B). [Pub. L. 108–357, § 413(c)(13)(B)][/us/pl/108/357/s413/c/13/B], struck out “and sections 551(f) and 554, whichever are applicable,” after “section 958”.
+    Subsec. (b)(2)(B). [Pub. L. 108–357][/us/pl/108/357], § 413(c)(13)(B), struck out “and sections 551(f) and 554, whichever are applicable,” after “section 958”.
 
-    Subsec. (b)(3). [Pub. L. 108–357, § 413(c)(13)(C)][/us/pl/108/357/s413/c/13/C], reenacted heading without change, struck out “(A) In general” before “The term”, and struck out heading and text of subpar. (B). Text read as follows: “In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term ‘United States shareholder’ means any person who is treated as a United States shareholder under section 551.”
+    Subsec. (b)(3). [Pub. L. 108–357][/us/pl/108/357], § 413(c)(13)(C), reenacted heading without change, struck out “(A) In general” before “The term”, and struck out heading and text of subpar. (B). Text read as follows: “In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term ‘United States shareholder’ means any person who is treated as a United States shareholder under section 551.”
 
-    Subsec. (c). [Pub. L. 108–357, § 413(c)(13)(D)][/us/pl/108/357/s413/c/13/D], reenacted heading without change and amended text of subsec. (c) generally, substituting provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of pars. (1) to (3), for provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of par. (1), and provisions relating to required year in the case of a foreign personal holding company, consisting of par. (2).
+    Subsec. (c). [Pub. L. 108–357][/us/pl/108/357], § 413(c)(13)(D), reenacted heading without change and amended text of subsec. (c) generally, substituting provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of pars. (1) to (3), for provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of par. (1), and provisions relating to required year in the case of a foreign personal holding company, consisting of par. (2).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -105,7 +105,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VII, § 7401(d)][/us/pl/101/239/s7401/d], Dec. 19, 1989, [103 Stat. 2357][/us/stat/103/2357], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7401(d), Dec. 19, 1989, [103 Stat. 2357][/us/stat/103/2357], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -128,18 +128,18 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2355
-[/us/pl/108/357/s413/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F13
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
-[/us/pl/108/357/s413/c/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F13%2FA
-[/us/pl/108/357/s413/c/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F13%2FB
-[/us/pl/108/357/s413/c/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F13%2FC
-[/us/pl/108/357/s413/c/13/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F13%2FD
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/101/239/s7401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fd
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2357
 [/us/usc/t26/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs563
 

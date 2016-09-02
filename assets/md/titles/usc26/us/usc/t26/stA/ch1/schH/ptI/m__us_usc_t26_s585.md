@@ -233,21 +233,21 @@
 
                 In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
 
-(Added [Pub. L. 91–172, title IV, § 431(a)][/us/pl/91/172/s431/a], Dec. 30, 1969, [83 Stat. 616][/us/stat/83/616]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–34, title II, § 267(a)][/us/pl/97/34/s267/a], Aug. 13, 1981, [95 Stat. 266][/us/stat/95/266]; [Pub. L. 99–514, title IX, § 901(a)][/us/pl/99/514/s901/a], (d)(1), Oct. 22, 1986, [100 Stat. 2375][/us/stat/100/2375], 2378; [Pub. L. 100–203, title X, § 10301(b)(2)][/us/pl/100/203/s10301/b/2], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 100–647, title I, § 1009(a)(2)][/us/pl/100/647/s1009/a/2], (3), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445]; [Pub. L. 101–508, title XI, § 11801(a)(26)][/us/pl/101/508/s11801/a/26], (c)(12)(C)–(E), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527; [Pub. L. 104–188, title I, § 1616(b)(6)][/us/pl/104/188/s1616/b/6], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856].)
+(Added [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 431(a), Dec. 30, 1969, [83 Stat. 616][/us/stat/83/616]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 267(a), Aug. 13, 1981, [95 Stat. 266][/us/stat/95/266]; [Pub. L. 99–514, title IX][/us/pl/99/514/tIX], § 901(a), (d)(1), Oct. 22, 1986, [100 Stat. 2375][/us/stat/100/2375], 2378; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(b)(2), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1009(a)(2), (3), Nov. 10, 1988, [102 Stat. 3445][/us/stat/102/3445]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(b)(6), Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856].)
 
  __Amendments__ 
 
     1996—Subsec. (a)(2)(A). [Pub. L. 104–188][/us/pl/104/188] struck out “other than an organization to which section 593 applies” after “section 581)”.
 
-    1990—Subsec. (b)(1). [Pub. L. 101–508, § 11801(c)(12)(C)][/us/pl/101/508/s11801/c/12/C], substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
+    1990—Subsec. (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
 
     “(A) for taxable years beginning before 1988 the addition to the reserve for losses on loans determined under the percentage method as provided in paragraph (2), or
 
     “(B) the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (3).”
 
-    Subsec. (b)(2). [Pub. L. 101–508, § 11801(a)(26)][/us/pl/101/508/s11801/a/26], (c)(12)(D), redesignated par. (3) as (2) and struck out former par. (2) which related to use of percentage method for determining amount to add to reserve for bad debts.
+    Subsec. (b)(2). [Pub. L. 101–508][/us/pl/101/508], § 11801(a)(26), (c)(12)(D), redesignated par. (3) as (2) and struck out former par. (2) which related to use of percentage method for determining amount to add to reserve for bad debts.
 
-    Subsec. (b)(3). [Pub. L. 101–508, § 11801(c)(12)(D)][/us/pl/101/508/s11801/c/12/D], (E), redesignated par. (4) as (3), substituted heading for one which read: “Regulations; definition of eligible loan, etc.”, and amended text generally. Prior to amendment, text read as follows: “The Secretary shall define the terms ‘loan’ and ‘eligible loan’ and prescribe such regulations as may be necessary to carry out the purposes of this section; except that the term ‘eligible loan’ shall not include—
+    Subsec. (b)(3). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(12)(D), (E), redesignated par. (4) as (3), substituted heading for one which read: “Regulations; definition of eligible loan, etc.”, and amended text generally. Prior to amendment, text read as follows: “The Secretary shall define the terms ‘loan’ and ‘eligible loan’ and prescribe such regulations as may be necessary to carry out the purposes of this section; except that the term ‘eligible loan’ shall not include—
 
     “(A) a loan to a bank (as defined in section 581),
 
@@ -263,27 +263,27 @@
 
     “(G) commercial paper, including short-term promissory notes which may be purchased on the open market.” Former par. (3) redesignated (2).
 
-    Subsec. (b)(4). [Pub. L. 101–508, § 11801(c)(12)(D)][/us/pl/101/508/s11801/c/12/D], redesignated par. (4) as (3).
+    Subsec. (b)(4). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(12)(D), redesignated par. (4) as (3).
 
-    1988—Subsec. (c)(3)(A)(iii)(I). [Pub. L. 100–647, § 1009(a)(2)(B)][/us/pl/100/647/s1009/a/2/B], substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
+    1988—Subsec. (c)(3)(A)(iii)(I). [Pub. L. 100–647][/us/pl/100/647], § 1009(a)(2)(B), substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
 
-    Subsec. (c)(3)(B)(ii). [Pub. L. 100–647, § 1009(a)(2)(C)][/us/pl/100/647/s1009/a/2/C], substituted “elects a higher percentage” for “designates an amount”.
+    Subsec. (c)(3)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1009(a)(2)(C), substituted “elects a higher percentage” for “designates an amount”.
 
-    Subsec. (c)(4). [Pub. L. 100–647, § 1009(a)(3)][/us/pl/100/647/s1009/a/3], inserted at end “If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.”
+    Subsec. (c)(4). [Pub. L. 100–647][/us/pl/100/647], § 1009(a)(3), inserted at end “If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.”
 
-    Subsec. (c)(5)(C). [Pub. L. 100–647, § 1009(a)(2)(A)][/us/pl/100/647/s1009/a/2/A], added subpar. (C).
+    Subsec. (c)(5)(C). [Pub. L. 100–647][/us/pl/100/647], § 1009(a)(2)(A), added subpar. (C).
 
     1987—Subsec. (c)(3)(C). [Pub. L. 100–203][/us/pl/100/203] substituted “section 6655(e)(2)(A)(i)” for “section 6655(d)(3)”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 901(a)(1)][/us/pl/99/514/s901/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 901(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
 
     “(1) any bank (as defined in section 581) other than an organization to which section 593 applies, and
 
     “(2) any corporation to which paragraph (1) would apply except for the fact that it is a foreign corporation, and in the case of any such foreign corporation this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.”
 
-    Subsec. (b)(1). [Pub. L. 99–514, § 901(d)(1)][/us/pl/99/514/s901/d/1], substituted “subsection (a)” for “section 166(c)”.
+    Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 901(d)(1), substituted “subsection (a)” for “section 166(c)”.
 
-    Subsec. (c). [Pub. L. 99–514, § 901(a)(2)][/us/pl/99/514/s901/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 901(a)(2), added subsec. (c).
 
     1981—Subsec. (b)(2). [Pub. L. 97–34][/us/pl/97/34] defined “allowable percentage” to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined “base year” by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
 
@@ -299,7 +299,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title X, § 10301(c)][/us/pl/100/203/s10301/c], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(c), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6201, 6425, 6601, 6651, and 6655 of this title and repealing [section 6154 of this title][/us/usc/t26/s6154]\] shall apply to taxable years beginning after December 31, 1987.”
 
@@ -309,13 +309,13 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title II, § 267(b)][/us/pl/97/34/s267/b], Aug. 13, 1981, [95 Stat. 267][/us/stat/95/267], provided that: 
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 267(b), Aug. 13, 1981, [95 Stat. 267][/us/stat/95/267], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after 1981.”
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title IV, § 431(d)][/us/pl/91/172/s431/d], Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], provided that: 
+[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 431(d), Dec. 30, 1969, [83 Stat. 620][/us/stat/83/620], provided that: 
 
 > “The amendments made by subsections (a) \[enacting this section and [section 586 of this title][/us/usc/t26/s586]\] and (c) \[amending [section 166 of this title][/us/usc/t26/s166]\] shall apply to taxable years beginning after July 11, 1969.”
 
@@ -330,35 +330,35 @@
 ----------
 ----------
 
-[/us/pl/91/172/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs431%2Fa
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F616
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/34/s267/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs267%2Fa
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F266
-[/us/pl/99/514/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fa
+[/us/pl/99/514/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIX
 [/us/stat/100/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2375
-[/us/pl/100/203/s10301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fb%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-429
-[/us/pl/100/647/s1009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fa%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3445
-[/us/pl/101/508/s11801/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F26
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
-[/us/pl/104/188/s1616/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F6
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1856
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508/s11801/c/12/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FC
-[/us/pl/101/508/s11801/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F26
-[/us/pl/101/508/s11801/c/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FD
-[/us/pl/101/508/s11801/c/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F12%2FD
-[/us/pl/100/647/s1009/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fa%2F2%2FB
-[/us/pl/100/647/s1009/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fa%2F2%2FC
-[/us/pl/100/647/s1009/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fa%2F3
-[/us/pl/100/647/s1009/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1009%2Fa%2F2%2FA
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/514/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fa%2F1
-[/us/pl/99/514/s901/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fd%2F1
-[/us/pl/99/514/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fa%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -368,15 +368,15 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/203/s10301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-429
 [/us/usc/t26/s6154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6154
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fe
 [/us/usc/t26/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs166
-[/us/pl/97/34/s267/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs267%2Fb
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F267
-[/us/pl/91/172/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs431%2Fd
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F620
 [/us/usc/t26/s586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs586
 [/us/usc/t26/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs166

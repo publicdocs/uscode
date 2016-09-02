@@ -33,11 +33,11 @@
 
             The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.
 
-(Added [Pub. L. 114–113, div. Q, title IV, § 431(a)][/us/pl/114/113/s431/a], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
+(Added [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 431(a), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
 
  __Effective Date__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 431(c)][/us/pl/114/113/s431/c], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 431(c), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act \[Dec. 18, 2015\] and, to the extent just and practicable, all proceedings pending on such date.”
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t28/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1821
-[/us/pl/114/113/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs431%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
-[/us/pl/114/113/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs431%2Fc
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
 
 

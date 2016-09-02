@@ -47,7 +47,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title IX, § 9007(b)(2)][/us/pl/111/148/s9007/b/2], Mar. 23, 2010, [124 Stat. 857][/us/stat/124/857], added item 4959.
+    2010—[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9007(b)(2), Mar. 23, 2010, [124 Stat. 857][/us/stat/124/857], added item 4959.
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s9007/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9007%2Fb%2F2
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F857
 
 

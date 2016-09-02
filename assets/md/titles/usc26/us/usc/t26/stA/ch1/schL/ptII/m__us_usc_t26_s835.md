@@ -51,21 +51,21 @@
 
         Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
 
-(Added [Pub. L. 87–834, § 8(c)][/us/pl/87/834/s8/c], Oct. 16, 1962, [76 Stat. 996][/us/stat/76/996], § 826; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III, § 301(b)(10)][/us/pl/95/600/s301/b/10], Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; renumbered § 835 and amended [Pub. L. 99–514, title X, § 1024(a)(3)][/us/pl/99/514/s1024/a/3], (c)(9), Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405], 2407; [Pub. L. 100–647, title I, § 1010(f)(2)][/us/pl/100/647/s1010/f/2], (3), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 8(c), Oct. 16, 1962, [76 Stat. 996][/us/stat/76/996], § 826; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(10), Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; renumbered § 835 and amended [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(a)(3), (c)(9), Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405], 2407; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(f)(2), (3), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454].)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 1010(f)(2)][/us/pl/100/647/s1010/f/2], substituted “section 831(a)” for “section 821(a)”.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 1010(f)(2), substituted “section 831(a)” for “section 821(a)”.
 
-    Subsec. (f). [Pub. L. 100–647, § 1010(f)(3)][/us/pl/100/647/s1010/f/3], substituted “subsection (d)” for “subsection (e)”.
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1010(f)(3), substituted “subsection (d)” for “subsection (e)”.
 
-    1986—[Pub. L. 99–514, § 1024(a)(3)][/us/pl/99/514/s1024/a/3], renumbered [section 826 of this title][/us/usc/t26/s826] as this section.
+    1986—[Pub. L. 99–514][/us/pl/99/514], § 1024(a)(3), renumbered [section 826 of this title][/us/usc/t26/s826] as this section.
 
-    Subsec. (d). [Pub. L. 99–514, § 1024(c)(9)(A)][/us/pl/99/514/s1024/c/9/A], redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1024(c)(9)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
 
-    Subsec. (e). [Pub. L. 99–514, § 1024(c)(9)][/us/pl/99/514/s1024/c/9], redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
 
-    Subsecs. (f) to (h). [Pub. L. 99–514, § 1024(c)(9)(A)][/us/pl/99/514/s1024/c/9/A], redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+    Subsecs. (f) to (h). [Pub. L. 99–514][/us/pl/99/514], § 1024(c)(9)(A), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
     1978—Subsec. (c)(1). [Pub. L. 95–600][/us/pl/95/600] substituted “the tax imposed by section 11” for “the taxes imposed by section 11(b) and (c)”.
 
@@ -94,23 +94,23 @@
 ----------
 ----------
 
-[/us/pl/87/834/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F996
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s301/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F10
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2822
-[/us/pl/99/514/s1024/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F3
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2405
-[/us/pl/100/647/s1010/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3454
-[/us/pl/100/647/s1010/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F2
-[/us/pl/100/647/s1010/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F3
-[/us/pl/99/514/s1024/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F3
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs826
-[/us/pl/99/514/s1024/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F9%2FA
-[/us/pl/99/514/s1024/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F9
-[/us/pl/99/514/s1024/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F9%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

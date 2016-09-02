@@ -45,15 +45,15 @@
 
             A partnership shall not be required to make a return under this section with respect to any exchange until the partnership is notified of such exchange.
 
-(Added [Pub. L. 98–369, div. A, title I, § 149(a)][/us/pl/98/369/s149/a], July 18, 1984, [98 Stat. 689][/us/stat/98/689]; amended [Pub. L. 99–514, title XV, § 1501(c)(13)][/us/pl/99/514/s1501/c/13], title XVIII, § 1811(b)(2), Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739], 2833; [Pub. L. 104–168, title XII, § 1201(a)(11)][/us/pl/104/168/s1201/a/11], July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 149(a), July 18, 1984, [98 Stat. 689][/us/stat/98/689]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(13), title XVIII, § 1811(b)(2), Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739], 2833; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(11), July 30, 1996, [110 Stat. 1470][/us/stat/110/1470].)
 
  __Amendments__ 
 
     1996—Subsec. (b)(1). [Pub. L. 104–168][/us/pl/104/168] substituted “name, address, and phone number of the information contact” for “name and address”.
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 1501(c)(13)][/us/pl/99/514/s1501/c/13], in amending subsec. (b) generally, substituted references to partnerships required to make a return for former references to partnerships making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1501(c)(13), in amending subsec. (b) generally, substituted references to partnerships required to make a return for former references to partnerships making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
-    Subsec. (c)(2). [Pub. L. 99–514, § 1811(b)(2)][/us/pl/99/514/s1811/b/2], substituted “this section” for “this subsection”.
+    Subsec. (c)(2). [Pub. L. 99–514][/us/pl/99/514], § 1811(b)(2), substituted “this section” for “this subsection”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -65,11 +65,11 @@
 
     Amendment by [section 1811(b)(2) of Pub. L. 99–514][/us/pl/99/514/s1811/b/2] applicable to partnership taxable years beginning after Oct. 22, 1986, see [section 1811(b)(1)(B) of Pub. L. 99–514][/us/pl/99/514/s1811/b/1/B], set out as a note under [section 6031 of this title][/us/usc/t26/s6031].
 
-    Amendment by [section 1811(b)(2) of Pub. L. 99–514][/us/pl/99/514/s1811/b/2] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1811(b)(2) of Pub. L. 99–514][/us/pl/99/514/s1811/b/2] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 149(d)][/us/pl/98/369/s149/d], July 18, 1984, [98 Stat. 690][/us/stat/98/690], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 149(d), July 18, 1984, [98 Stat. 690][/us/stat/98/690], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to exchanges after December 31, 1984.”
 
@@ -84,15 +84,15 @@
 ----------
 ----------
 
-[/us/pl/98/369/s149/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs149%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F689
-[/us/pl/99/514/s1501/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F13
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2739
-[/us/pl/104/168/s1201/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F11
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1470
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/99/514/s1501/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F13
-[/us/pl/99/514/s1811/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1811%2Fb%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/168/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fb
 [/us/usc/t26/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6041
@@ -103,10 +103,10 @@
 [/us/pl/99/514/s1811/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1811%2Fb%2F1%2FB
 [/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/99/514/s1811/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1811%2Fb%2F2
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s149/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs149%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F690
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

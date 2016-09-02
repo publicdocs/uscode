@@ -45,13 +45,13 @@
 
         Notwithstanding subsection (a), for purposes of section 6511 any payment of tax imposed by chapter 23 which, pursuant to section 6157, is made for a calendar quarter or other period within a calendar year shall, if made before the last day prescribed for filing the return for the calendar year (determined without regard to any extension of time for filing), be considered made on such last day.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 812][/us/stat/68A/812]; [Pub. L. 89–809, title I, § 105(f)(1)][/us/pl/89/809/s105/f/1], (2), Nov. 13, 1966, [80 Stat. 1567][/us/stat/80/1567], 1568; [Pub. L. 91–53, § 2(d)][/us/pl/91/53/s2/d], Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; [Pub. L. 98–76, title II, § 231(b)(2)(C)][/us/pl/98/76/s231/b/2/C], Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 100–647, title VII, § 7106(c)(4)][/us/pl/100/647/s7106/c/4], Nov. 10, 1988, [102 Stat. 3774][/us/stat/102/3774]; [Pub. L. 111–147, title V, § 501(c)(4)][/us/pl/111/147/s501/c/4], (5), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 812][/us/stat/68A/812]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 105(f)(1), (2), Nov. 13, 1966, [80 Stat. 1567][/us/stat/80/1567], 1568; [Pub. L. 91–53][/us/pl/91/53], § 2(d), Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(b)(2)(C), Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(c)(4), Nov. 10, 1988, [102 Stat. 3774][/us/stat/102/3774]; [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(c)(4), (5), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106].)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3). [Pub. L. 111–147, § 501(c)(4)][/us/pl/111/147/s501/c/4], inserted “or 4” after “chapter 3” and “or 1474(b)” after “section 1462”.
+    2010—Subsec. (b)(3). [Pub. L. 111–147][/us/pl/111/147], § 501(c)(4), inserted “or 4” after “chapter 3” and “or 1474(b)” after “section 1462”.
 
-    Subsec. (c). [Pub. L. 111–147, § 501(c)(5)][/us/pl/111/147/s501/c/5], inserted “4,” after “chapter 3,” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–147][/us/pl/111/147], § 501(c)(5), inserted “4,” after “chapter 3,” in introductory provisions.
 
     1988—Subsec. (e). [Pub. L. 100–647][/us/pl/100/647] struck out last sentence which read as follows: “Notwithstanding subsection (a), for purposes of section 6511, any payment of tax imposed by chapter 23A which, pursuant to section 6157, is made for a calendar quarter within a taxable period shall, if made before the last day prescribed for filing the return for the taxable period (determined without regard to any extension of time for filing), be considered made on such last day.”
 
@@ -59,9 +59,9 @@
 
     1969—Subsec. (e). [Pub. L. 91–53][/us/pl/91/53] added subsec. (e).
 
-    1966—Subsec. (b). [Pub. L. 89–809, § 105(f)(1)][/us/pl/89/809/s105/f/1], designated existing provisions as pars. (1) and (2) and added par. (3).
+    1966—Subsec. (b). [Pub. L. 89–809][/us/pl/89/809], § 105(f)(1), designated existing provisions as pars. (1) and (2) and added par. (3).
 
-    Subsec. (c). [Pub. L. 89–809, § 105(f)(2)][/us/pl/89/809/s105/f/2], inserted reference to chapter 3 in provisions preceding par. (1) and “or other amount” after “remuneration” in par. (2).
+    Subsec. (c). [Pub. L. 89–809][/us/pl/89/809], § 105(f)(2), inserted reference to chapter 3 in provisions preceding par. (1) and “or other amount” after “remuneration” in par. (2).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -92,23 +92,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F812
-[/us/pl/89/809/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs105%2Ff%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1567
-[/us/pl/91/53/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs2%2Fd
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F92
-[/us/pl/98/76/s231/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fb%2F2%2FC
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F429
-[/us/pl/100/647/s7106/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fc%2F4
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3774
-[/us/pl/111/147/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fc%2F4
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F106
-[/us/pl/111/147/s501/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fc%2F4
-[/us/pl/111/147/s501/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fc%2F5
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
 [/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
-[/us/pl/89/809/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs105%2Ff%2F1
-[/us/pl/89/809/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs105%2Ff%2F2
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/usc/t26/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1471

@@ -173,7 +173,7 @@
 
             The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
 
-(Added [Pub. L. 108–89, title II, § 202(a)][/us/pl/108/89/s202/a], Oct. 1, 2003, [117 Stat. 1132][/us/stat/117/1132]; amended [Pub. L. 108–357, title VIII, § 891(a)][/us/pl/108/357/s891/a], Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644]; [Pub. L. 110–28, title VIII, § 8244][/us/pl/110/28/s8244], May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 113–295, div. B, title II, § 206(f)][/us/pl/113/295/s206/f], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
+(Added [Pub. L. 108–89, title II][/us/pl/108/89/tII], § 202(a), Oct. 1, 2003, [117 Stat. 1132][/us/stat/117/1132]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 891(a), Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8244, May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(f), Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
 
  __Amendments__ 
 
@@ -189,19 +189,19 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 891(b)][/us/pl/108/357/s891/b], Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 891(b), Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–89, title II, § 202(d)][/us/pl/108/89/s202/d], Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133], provided that: 
+[Pub. L. 108–89, title II][/us/pl/108/89/tII], § 202(d), Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133], provided that: 
 
 > “The amendments made by this section \[enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under [section 7801 of this title][/us/usc/t26/s7801]\] shall apply to requests made after the date of the enactment of this Act \[Oct. 1, 2003\].”
 
  __Limitations__ 
 
-[Pub. L. 108–89, title II, § 202(c)][/us/pl/108/89/s202/c], Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133], provided that: 
+[Pub. L. 108–89, title II][/us/pl/108/89/tII], § 202(c), Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133], provided that: 
 
 > “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
 
@@ -212,13 +212,13 @@
 ----------
 ----------
 
-[/us/pl/108/89/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fa
+[/us/pl/108/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2FtII
 [/us/stat/117/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1132
-[/us/pl/108/357/s891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs891%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1644
-[/us/pl/110/28/s8244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8244
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
-[/us/pl/113/295/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Ff
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
@@ -226,12 +226,12 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/pl/108/357/s891/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs891%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1644
-[/us/pl/108/89/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fd
+[/us/pl/108/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2FtII
 [/us/stat/117/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1133
 [/us/usc/t26/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7801
-[/us/pl/108/89/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fc
+[/us/pl/108/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2FtII
 [/us/stat/117/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1133
 
 

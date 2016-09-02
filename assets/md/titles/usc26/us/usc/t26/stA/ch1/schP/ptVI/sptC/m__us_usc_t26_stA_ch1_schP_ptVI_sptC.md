@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XI, § 1122(a)][/us/pl/105/34/s1122/a], Aug. 5, 1997, [111 Stat. 972][/us/stat/111/972], added subpart C and item 1296. Former subpart C redesignated D.
+    1997—[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1122(a), Aug. 5, 1997, [111 Stat. 972][/us/stat/111/972], added subpart C and item 1296. Former subpart C redesignated D.
 
  __Prior Provisions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F972
 
 

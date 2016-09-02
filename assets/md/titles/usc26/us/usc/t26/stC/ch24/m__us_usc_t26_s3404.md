@@ -17,7 +17,7 @@
 
     If the employer is the United States, or a State, or political subdivision thereof, or the District of Columbia, or any agency or instrumentality of any one or more of the foregoing, the return of the amount deducted and withheld upon any wages may be made by any officer or employee of the United States, or of such State, or political subdivision, or of the District of Columbia, or of such agency or instrumentality, as the case may be, having control of the payment of such wages, or appropriately designated for that purpose.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 469][/us/stat/68A/469]; [Pub. L. 94–455, title XIX, § 1903(c)][/us/pl/94/455/s1903/c], Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 469][/us/stat/68A/469]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1903(c), Oct. 4, 1976, [90 Stat. 1810][/us/stat/90/1810].)
 
  __Amendments__ 
 
@@ -32,7 +32,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F469
-[/us/pl/94/455/s1903/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fc
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1810
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 

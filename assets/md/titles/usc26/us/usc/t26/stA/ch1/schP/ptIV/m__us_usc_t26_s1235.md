@@ -49,25 +49,25 @@
 
         For special rule relating to nonresident aliens, see section 871(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 329][/us/stat/68A/329]; [Pub. L. 85–866, title I, § 54(a)][/us/pl/85/866/s54/a], Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644]; [Pub. L. 94–455, title XIV, § 1402(b)(1)(V)][/us/pl/94/455/s1402/b/1/V], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 98–369, div. A, title I, § 174(b)(5)(C)][/us/pl/98/369/s174/b/5/C], title X, § 1001(b)(19), (e), July 18, 1984, [98 Stat. 707][/us/stat/98/707], 1012; [Pub. L. 105–206, title V, § 5001(a)(5)][/us/pl/105/206/s5001/a/5], title VI, § 6005(d)(4), July 22, 1998, [112 Stat. 788][/us/stat/112/788], 805; [Pub. L. 113–295, div. A, title II, § 221(a)(82)][/us/pl/113/295/s221/a/82], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 329][/us/stat/68A/329]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 54(a), Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644]; [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1)(V), (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 174(b)(5)(C), title X, § 1001(b)(19), (e), July 18, 1984, [98 Stat. 707][/us/stat/98/707], 1012; [Pub. L. 105–206, title V][/us/pl/105/206/tV], § 5001(a)(5), title VI, § 6005(d)(4), July 22, 1998, [112 Stat. 788][/us/stat/112/788], 805; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(82), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(B). [Pub. L. 113–295, § 221(a)(82)(B)][/us/pl/113/295/s221/a/82/B], substituted “subsection (c)” for “subsection (d)”.
+    2014—Subsec. (b)(2)(B). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(82)(B), substituted “subsection (c)” for “subsection (d)”.
 
-    Subsecs. (c) to (e). [Pub. L. 113–295, § 221(a)(82)(A)][/us/pl/113/295/s221/a/82/A], redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “This section shall be applicable with regard to any amounts received, or payments made, pursuant to a transfer described in subsection (a) in any taxable year to which this subtitle applies, regardless of the taxable year in which such transfer occurred.”
+    Subsecs. (c) to (e). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(82)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “This section shall be applicable with regard to any amounts received, or payments made, pursuant to a transfer described in subsection (a) in any taxable year to which this subtitle applies, regardless of the taxable year in which such transfer occurred.”
 
-    1998—Subsec. (a). [Pub. L. 105–206, § 6005(d)(4)][/us/pl/105/206/s6005/d/4], substituted “18 months” for “1 year” in introductory provisions.
+    1998—Subsec. (a). [Pub. L. 105–206][/us/pl/105/206], § 6005(d)(4), substituted “18 months” for “1 year” in introductory provisions.
 
-    [Pub. L. 105–206, § 5001(a)(5)][/us/pl/105/206/s5001/a/5], substituted “1 year” for “18 months” in introductory provisions.
+    [Pub. L. 105–206][/us/pl/105/206], § 5001(a)(5), substituted “1 year” for “18 months” in introductory provisions.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 1001(b)(19)][/us/pl/98/369/s1001/b/19], (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 1001(b)(19), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-    Subsec. (d). [Pub. L. 98–369, § 174(b)(5)(C)][/us/pl/98/369/s174/b/5/C], substituted “section 267(b) or persons described in section 707(b)” for “section 267(b)” and “section 267(b) and (c) and section 707(b)” for “section 267(b) and (c)” in introductory provisions, and substituted “section 267(b) or 707(b)” for “section 267(b)” in par. (1).
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 174(b)(5)(C), substituted “section 267(b) or persons described in section 707(b)” for “section 267(b)” and “section 267(b) and (c) and section 707(b)” for “section 267(b) and (c)” in introductory provisions, and substituted “section 267(b) or 707(b)” for “section 267(b)” in par. (1).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], provided that “9 months” would be changed to “1 year”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-    [Pub. L. 94–455, § 1402(b)(1)(V)][/us/pl/94/455/s1402/b/1/V], provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(1)(V), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
     1958—Subsec. (d). [Pub. L. 85–866][/us/pl/85/866] substituted provisions set out as subsec. (d) for provisions reading “Subsection (a) shall not apply to any sale or exchange between an individual and any other related person (as defined in section 267(b)), except brothers and sisters, whether by the whole or half blood.”
 
@@ -89,13 +89,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(1)][/us/pl/94/455/s1402/b/1], Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 54(b)][/us/pl/85/866/s54/b], Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 54(b), Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to transfers after such date.”
 
@@ -108,24 +108,24 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F329
-[/us/pl/85/866/s54/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs54%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1644
-[/us/pl/94/455/s1402/b/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FV
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/98/369/s174/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs174%2Fb%2F5%2FC
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F707
-[/us/pl/105/206/s5001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5001%2Fa%2F5
+[/us/pl/105/206/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtV
 [/us/stat/112/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F788
-[/us/pl/113/295/s221/a/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F82
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
-[/us/pl/113/295/s221/a/82/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F82%2FB
-[/us/pl/113/295/s221/a/82/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F82%2FA
-[/us/pl/105/206/s6005/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fd%2F4
-[/us/pl/105/206/s5001/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs5001%2Fa%2F5
-[/us/pl/98/369/s1001/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F19
-[/us/pl/98/369/s174/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs174%2Fb%2F5%2FC
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
-[/us/pl/94/455/s1402/b/1/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FV
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
@@ -143,11 +143,11 @@
 [/us/pl/98/369/s1001/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F19
 [/us/pl/98/369/s1001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fe
 [/us/usc/t26/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs166
-[/us/pl/94/455/s1402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/85/866/s54/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs54%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1644
 
 

@@ -101,7 +101,7 @@
 
         The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section and section 6431.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1531(a)][/us/pl/111/5/s1531/a], Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1531(a), Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358].)
 
  __Effective Date__ 
 
@@ -109,7 +109,7 @@
 
  __Transitional Coordination With State Law__ 
 
-[Pub. L. 111–5, div. B, title I, § 1531(d)][/us/pl/111/5/s1531/d], Feb. 17, 2009, [123 Stat. 360][/us/stat/123/360], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1531(d), Feb. 17, 2009, [123 Stat. 360][/us/stat/123/360], provided that: 
 
 > “Except as otherwise provided by a State after the date of the enactment of this Act \[Feb. 17, 2009\], the interest on any build America bond (as defined in section 54AA of the Internal Revenue Code of 1986, as added by this section) and the amount of any credit determined under such section with respect to such bond shall be treated for purposes of the income tax laws of such State as being exempt from Federal income tax.”
 
@@ -120,11 +120,11 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F358
 [/us/pl/111/5/s1531/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fe
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/111/5/s1531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fd
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F360
 
 

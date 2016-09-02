@@ -33,7 +33,7 @@
 
         No court of the United States, whether established under article I or article III of the Constitution, shall have jurisdiction of any action, whether legal or equitable, brought to restrain or review the assessment and collection of amounts by the Secretary under subsection (a), nor shall any such assessment and collection be subject to review by the Secretary in any proceeding. This subsection does not preclude any legal, equitable, or administrative action against the State by an individual in any State court or before any State agency to determine his liability for any amount assessed against him and collected, or to recover any such amount collected from him, under this section.
 
-(Added [Pub. L. 93–647, § 101(b)(1)][/us/pl/93/647/s101/b/1], Jan. 4, 1975, [88 Stat. 2358][/us/stat/88/2358]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–35, title XXIII, § 2332(g)][/us/pl/97/35/s2332/g], Aug. 13, 1981, [95 Stat. 862][/us/stat/95/862]; [Pub. L. 104–193, title III, § 361(a)][/us/pl/104/193/s361/a], Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242].)
+(Added [Pub. L. 93–647][/us/pl/93/647], § 101(b)(1), Jan. 4, 1975, [88 Stat. 2358][/us/stat/88/2358]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–35, title XXIII][/us/pl/97/35/tXXIII], § 2332(g), Aug. 13, 1981, [95 Stat. 862][/us/stat/95/862]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 361(a), Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–193, § 361(a)(4)][/us/pl/104/193/s361/a/4], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places in introductory provisions.
+    1996—Subsec. (a). [Pub. L. 104–193][/us/pl/104/193], § 361(a)(4), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places in introductory provisions.
 
-    Subsec. (a)(5). [Pub. L. 104–193, § 361(a)(1)][/us/pl/104/193/s361/a/1]–(3), added par. (5).
+    Subsec. (a)(5). [Pub. L. 104–193][/us/pl/104/193], § 361(a)(1)–(3), added par. (5).
 
     1981—Subsec. (a)(4). [Pub. L. 97–35][/us/pl/97/35] inserted reference to administrative order.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–193, title III, § 361(b)][/us/pl/104/193/s361/b], Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242], provided that: 
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 361(b), Aug. 22, 1996, [110 Stat. 2242][/us/stat/110/2242], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective October 1, 1997.”
 
@@ -72,20 +72,20 @@
 ----------
 ----------
 
-[/us/pl/93/647/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101%2Fb%2F1
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2358
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/35/s2332/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2332%2Fg
+[/us/pl/97/35/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIII
 [/us/stat/95/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F862
-[/us/pl/104/193/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs361%2Fa
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2242
 [/us/usc/t42/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs652%2Fb
-[/us/pl/104/193/s361/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs361%2Fa%2F4
-[/us/pl/104/193/s361/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs361%2Fa%2F1
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/104/193/s361/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs361%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2242
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193

@@ -45,7 +45,7 @@
 
         For purposes of this section, the terms “inspect”, “return”, and “return information” have the respective meanings given such terms by section 6103(b).
 
-(Added [Pub. L. 105–35, § 2(a)][/us/pl/105/35/s2/a], Aug. 5, 1997, [111 Stat. 1104][/us/stat/111/1104]; amended [Pub. L. 107–210, div. A, title II, § 202(b)(3)][/us/pl/107/210/s202/b/3], Aug. 6, 2002, [116 Stat. 961][/us/stat/116/961]; [Pub. L. 109–280, title XII, § 1224(b)(6)][/us/pl/109/280/s1224/b/6], Aug. 17, 2006, [120 Stat. 1093][/us/stat/120/1093].)
+(Added [Pub. L. 105–35][/us/pl/105/35], § 2(a), Aug. 5, 1997, [111 Stat. 1104][/us/stat/111/1104]; amended [Pub. L. 107–210, div. A, title II][/us/pl/107/210/dA/tII], § 202(b)(3), Aug. 6, 2002, [116 Stat. 961][/us/stat/116/961]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1224(b)(6), Aug. 17, 2006, [120 Stat. 1093][/us/stat/120/1093].)
 
  __Amendments__ 
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/105/35/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35%2Fs2%2Fa
+[/us/pl/105/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F35
 [/us/stat/111/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1104
-[/us/pl/107/210/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs202%2Fb%2F3
+[/us/pl/107/210/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtII
 [/us/stat/116/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F961
-[/us/pl/109/280/s1224/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1224%2Fb%2F6
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1093
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210

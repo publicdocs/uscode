@@ -43,11 +43,11 @@
 
         For penalty for taxpayer instituting proceedings before Tax Court merely for delay, see section 6673.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 886][/us/stat/68A/886]; [Pub. L. 93–406, title II, § 1041(b)(2)][/us/pl/93/406/s1041/b/2], Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title XIII, § 1306(b)(2)][/us/pl/94/455/s1306/b/2], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719], 1834; [Pub. L. 97–248, title IV, § 402(c)(14)][/us/pl/97/248/s402/c/14], Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–362, title I, § 106(b)][/us/pl/97/362/s106/b], Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(2), 1239(e)(1), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028; [Pub. L. 114–74, title XI, § 1101(f)(12)][/us/pl/114/74/s1101/f/12], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 886][/us/stat/68A/886]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1041(b)(2), Sept. 2, 1974, [88 Stat. 950][/us/stat/88/950]; [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(b)(2), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1719][/us/stat/90/1719], 1834; [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(c)(14), Sept. 3, 1982, [96 Stat. 668][/us/stat/96/668]; [Pub. L. 97–362, title I][/us/pl/97/362/tI], § 106(b), Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1222(b)(2), 1239(e)(1), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(12), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
 
  __Amendment of Subsection (c)__ 
 
-    [Pub. L. 114–74, title XI, § 1101(f)(12)][/us/pl/114/74/s1101/f/12], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking “section 6226” and all that follows through “or 6252” and inserting “section 6234”. See 2015 Amendment note below.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(12), (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c) of this section is amended by striking “section 6226” and all that follows through “or 6252” and inserting “section 6234”. See 2015 Amendment note below.
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
     2015—Subsec. (c). [Pub. L. 114–74][/us/pl/114/74] substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 1239(e)(1)][/us/pl/105/34/s1239/e/1], which directed the amendment of subsec. (c) by substituting “, 6228(a), or 6234(c)” for “or section 6228(a)” could not be executed because the words “or section 6228(a)” did not appear in text subsequent to amendment by [Pub. L. 105–34, § 1222(b)(2)][/us/pl/105/34/s1222/b/2]. See below.
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1239(e)(1), which directed the amendment of subsec. (c) by substituting “, 6228(a), or 6234(c)” for “or section 6228(a)” could not be executed because the words “or section 6228(a)” did not appear in text subsequent to amendment by [Pub. L. 105–34][/us/pl/105/34], § 1222(b)(2). See below.
 
-    [Pub. L. 105–34, § 1222(b)(2)][/us/pl/105/34/s1222/b/2], substituted “, 6228(a), 6247, or 6252” for “or section 6228(a)”.
+    [Pub. L. 105–34][/us/pl/105/34], § 1222(b)(2), substituted “, 6228(a), 6247, or 6252” for “or section 6228(a)”.
 
     1982—Subsec. (b). [Pub. L. 97–362][/us/pl/97/362] inserted provision that subject to such conditions as the Tax Court may by rule provide, the requirements of subsec. (b) and of [section 7460 of this title][/us/usc/t26/s7460] are met if findings of fact or opinion are stated orally and recorded in the transcript of the proceedings.
 
@@ -67,7 +67,7 @@
 
     1976—Subsec. (c). [Pub. L. 94–455][/us/pl/94/455] inserted “or under section 7428” after “under part IV of this subchapter” and struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1974—Subsec. (c). [Pub. L. 93–406][/us/pl/93/406] inserted “or, in the case of a declaratory judgment proceeding under part IV of this subchapter, the date of the court’s order entering the decision” after “deficiency is entered in the records of the Tax Court”.
 
@@ -103,31 +103,31 @@
 [/us/stat/44/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F9
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F886
-[/us/pl/93/406/s1041/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1041%2Fb%2F2
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F950
-[/us/pl/94/455/s1306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fb%2F2
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1719
-[/us/pl/97/248/s402/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fc%2F14
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F668
-[/us/pl/97/362/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs106%2Fb
+[/us/pl/97/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtI
 [/us/stat/96/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1730
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
-[/us/pl/114/74/s1101/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F12
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
-[/us/pl/114/74/s1101/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F12
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
 [/us/act/1926-02-26/ch27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-02-26%2Fch27
 [/us/stat/44/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F9
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/105/34/s1239/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fe%2F1
-[/us/pl/105/34/s1222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F2
-[/us/pl/105/34/s1222/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
 [/us/usc/t26/s7460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7460
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg

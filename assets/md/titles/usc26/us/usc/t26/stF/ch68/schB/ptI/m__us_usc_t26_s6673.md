@@ -51,7 +51,7 @@
 
             In connection with any appeal from a proceeding in the Tax Court or a civil proceeding described in paragraph (2), an order of a United States Court of Appeals or the Supreme Court awarding monetary sanctions, penalties or court costs to the United States may be registered in a district court upon filing a certified copy of such order and shall be enforceable as other district court judgments. Any such sanctions, penalties, or costs may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title II, § 292(b)][/us/pl/97/248/s292/b], (d)(2)(A), Sept. 3, 1982, [96 Stat. 574][/us/stat/96/574]; [Pub. L. 99–514, title XV, § 1552(a)][/us/pl/99/514/s1552/a], Oct. 22, 1986, [100 Stat. 2753][/us/stat/100/2753]; [Pub. L. 100–647, title VI, § 6241(b)][/us/pl/100/647/s6241/b], Nov. 10, 1988, [102 Stat. 3748][/us/stat/102/3748]; [Pub. L. 101–239, title VII, § 7731(a)][/us/pl/101/239/s7731/a], Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 828][/us/stat/68A/828]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 292(b), (d)(2)(A), Sept. 3, 1982, [96 Stat. 574][/us/stat/96/574]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1552(a), Oct. 22, 1986, [100 Stat. 2753][/us/stat/100/2753]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6241(b), Nov. 10, 1988, [102 Stat. 3748][/us/stat/102/3748]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7731(a), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400].)
 
  __Amendments__ 
 
@@ -61,27 +61,27 @@
 
     1986—[Pub. L. 99–514][/us/pl/99/514] substituted “, that the taxpayer’s position in such proceeding is frivolous or groundless, or that the taxpayer unreasonably failed to pursue available administrative remedies” for “or that the taxpayer’s position in such proceedings is frivolous or groundless”.
 
-    1982—[Pub. L. 97–248, § 292(d)(2)(A)][/us/pl/97/248/s292/d/2/A], substituted “primarily for delay, etc.” for “merely for delay” after “Tax Court” in section catchline.
+    1982—[Pub. L. 97–248][/us/pl/97/248], § 292(d)(2)(A), substituted “primarily for delay, etc.” for “merely for delay” after “Tax Court” in section catchline.
 
-    Subsec. (a). [Pub. L. 97–248, § 292(b)][/us/pl/97/248/s292/b], substituted “or maintained by the taxpayer primarily for delay or that the taxpayer’s position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000” for “by the taxpayer merely for delay, damages in an amount not in excess of $500” in first sentence.
+    Subsec. (a). [Pub. L. 97–248][/us/pl/97/248], § 292(b), substituted “or maintained by the taxpayer primarily for delay or that the taxpayer’s position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000” for “by the taxpayer merely for delay, damages in an amount not in excess of $500” in first sentence.
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7731(d)][/us/pl/101/239/s7731/d], Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7731(d), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7482 of this title][/us/usc/t26/s7482]\] shall apply to positions taken after December 31, 1989, in proceedings which are pending on, or commenced after such date.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6241(d)][/us/pl/100/647/s6241/d], Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6241(d), Nov. 10, 1988, [102 Stat. 3749][/us/stat/102/3749], provided that: 
 
 > “The amendments made by this section \[enacting [section 7433 of this title][/us/usc/t26/s7433] and amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1552(b)][/us/pl/99/514/s1552/b], Oct. 22, 1986, [100 Stat. 2753][/us/stat/100/2753], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1552(b), Oct. 22, 1986, [100 Stat. 2753][/us/stat/100/2753], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to proceedings commenced after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -98,29 +98,29 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F828
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248/s292/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs292%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F574
-[/us/pl/99/514/s1552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1552%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2753
-[/us/pl/100/647/s6241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6241%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3748
-[/us/pl/101/239/s7731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7731%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2400
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/97/248/s292/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs292%2Fd%2F2%2FA
-[/us/pl/97/248/s292/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs292%2Fb
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/101/239/s7731/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7731%2Fd
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2402
 [/us/usc/t26/s7482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7482
-[/us/pl/100/647/s6241/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6241%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3749
 [/us/usc/t26/s7433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7433
-[/us/pl/99/514/s1552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1552%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2753
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s292/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs292%2Fe%2F2

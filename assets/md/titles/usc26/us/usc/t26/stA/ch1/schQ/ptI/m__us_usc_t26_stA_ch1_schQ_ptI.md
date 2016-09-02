@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior part I consisted of sections 1301 to 1305, prior to repeal by [Pub. L. 99–514, title I, § 141(a)][/us/pl/99/514/s141/a], Oct. 22, 1986, [100 Stat. 2117][/us/stat/100/2117].
+    A prior part I consisted of sections 1301 to 1305, prior to repeal by [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 141(a), Oct. 22, 1986, [100 Stat. 2117][/us/stat/100/2117].
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs141%2Fa
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2117
 
 

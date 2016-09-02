@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVI/m__us_usc_t26_s198.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptVI/m__us_usc_t26_s199.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs198A)
 
-## \[§ 198A. Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(35)][/us/pl/113/295/s221/a/35], Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042]\]
+## \[§ 198A. Repealed. [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(35), Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042]\]
 
-    Section, added [Pub. L. 110–343, div. C, title VII, § 707(a)][/us/pl/110/343/s707/a], Oct. 3, 2008, [122 Stat. 3923][/us/stat/122/3923], related to expensing of qualified disaster expenses. Repeal was executed to this section, which is in part VI of subchapter B of chapter 1, to reflect the probable intent of Congress, notwithstanding directory language of [Pub. L. 113–295][/us/pl/113/295], which repealed section 198A in part VI of subchapter A of chapter 1.
+    Section, added [Pub. L. 110–343, div. C, title VII][/us/pl/110/343/dC/tVII], § 707(a), Oct. 3, 2008, [122 Stat. 3923][/us/stat/122/3923], related to expensing of qualified disaster expenses. Repeal was executed to this section, which is in part VI of subchapter B of chapter 1, to reflect the probable intent of Congress, notwithstanding directory language of [Pub. L. 113–295][/us/pl/113/295], which repealed section 198A in part VI of subchapter A of chapter 1.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F35
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
-[/us/pl/110/343/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs707%2Fa
+[/us/pl/110/343/dC/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVII
 [/us/stat/122/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3923
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb

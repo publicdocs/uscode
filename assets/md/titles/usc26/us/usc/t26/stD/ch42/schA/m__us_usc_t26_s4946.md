@@ -103,7 +103,7 @@
 
         For purposes of subsection (a)(1), the family of any individual shall include only his spouse, ancestors, children, grandchildren, great grandchildren, and the spouses of children, grandchildren, and great grandchildren.
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 515][/us/stat/83/515]; amended [Pub. L. 95–227, § 4(c)(2)(B)][/us/pl/95/227/s4/c/2/B], Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22]; [Pub. L. 98–369, div. A, title III, § 306(a)][/us/pl/98/369/s306/a], July 18, 1984, [98 Stat. 784][/us/stat/98/784]; [Pub. L. 99–514, title XVI, § 1606(a)][/us/pl/99/514/s1606/a], Oct. 22, 1986, [100 Stat. 2771][/us/stat/100/2771]; [Pub. L. 105–206, title I, § 1101(c)(1)][/us/pl/105/206/s1101/c/1], July 22, 1998, [112 Stat. 696][/us/stat/112/696]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(16)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647.)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 515][/us/stat/83/515]; amended [Pub. L. 95–227][/us/pl/95/227], § 4(c)(2)(B), Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 306(a), July 18, 1984, [98 Stat. 784][/us/stat/98/784]; [Pub. L. 99–514, title XVI][/us/pl/99/514/tXVI], § 1606(a), Oct. 22, 1986, [100 Stat. 2771][/us/stat/100/2771]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1101(c)(1), July 22, 1998, [112 Stat. 696][/us/stat/112/696]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(16)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647.)
 
  __Amendments__ 
 
@@ -119,13 +119,13 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVI, § 1606(b)][/us/pl/99/514/s1606/b], Oct. 22, 1986, [100 Stat. 2771][/us/stat/100/2771], provided that: 
+[Pub. L. 99–514, title XVI][/us/pl/99/514/tXVI], § 1606(b), Oct. 22, 1986, [100 Stat. 2771][/us/stat/100/2771], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to compensation received after December 31, 1985.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title III, § 306(c)][/us/pl/98/369/s306/c], July 18, 1984, [98 Stat. 784][/us/stat/98/784], provided that: 
+[Pub. L. 98–369, div. A, title III][/us/pl/98/369/dA/tIII], § 306(c), July 18, 1984, [98 Stat. 784][/us/stat/98/784], provided that: 
 
 > “The amendments made by this subsection \[probably should be “section”, amending this section and [section 6104 of this title][/us/usc/t26/s6104]\] shall take effect on January 1, 1985.”
 
@@ -142,26 +142,26 @@
 
 [/us/usc/t18/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202%2Fa
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F515
-[/us/pl/95/227/s4/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F2%2FB
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F22
-[/us/pl/98/369/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs306%2Fa
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F784
-[/us/pl/99/514/s1606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1606%2Fa
+[/us/pl/99/514/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVI
 [/us/stat/100/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2771
-[/us/pl/105/206/s1101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1101%2Fc%2F1
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F696
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
-[/us/pl/99/514/s1606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1606%2Fb
+[/us/pl/99/514/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVI
 [/us/stat/100/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2771
-[/us/pl/98/369/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs306%2Fc
+[/us/pl/98/369/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIII
 [/us/stat/98/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F784
 [/us/usc/t26/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6104
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227

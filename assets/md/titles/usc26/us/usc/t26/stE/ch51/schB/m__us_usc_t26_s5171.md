@@ -57,7 +57,7 @@
 
         (2) For penalty for the filing of a false application by a distiller, warehouseman, or processor of distilled spirits, see section 5601(a)(3).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1349][/us/stat/72/1349]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(13), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834; [Pub. L. 96–39, title VIII, § 805(a)][/us/pl/96/39/s805/a], July 26, 1979, [93 Stat. 274][/us/stat/93/274].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1349][/us/stat/72/1349]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(13), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 805(a), July 26, 1979, [93 Stat. 274][/us/stat/93/274].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 
     1976—Subsec. (b)(1). [Pub. L. 94–455][/us/pl/94/455], §§ 1905(a)(13)(A), 1906(b)(13)(A), struck out “[49 Stat. 978][/us/stat/49/978];” before “[27 U.S.C. 203][/us/usc/t27/s203], 204” in parenthetical provisions after “Federal Alcohol Administration Act” and struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(3). [Pub. L. 94–455, § 1905(a)(13)(B)][/us/pl/94/455/s1905/a/13/B], struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
+    Subsec. (b)(3). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -161,7 +161,7 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 
  __Transitional Rules Relating to All-In-Bond Method__ 
 
-[Pub. L. 96–39, title VIII, § 809(a)][/us/pl/96/39/s809/a], (b), July 26, 1979, [93 Stat. 292][/us/stat/93/292], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 809(a), (b), July 26, 1979, [93 Stat. 292][/us/stat/93/292], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a) __New Application Required.—__ 
 
@@ -188,11 +188,11 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1349
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
-[/us/pl/96/39/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fa
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F274
 [/us/act/1935-08-29/ch814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch814
 [/us/stat/49/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F977
@@ -210,7 +210,7 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/49/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F978
 [/us/usc/t27/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs203
-[/us/pl/94/455/s1905/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F13%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
@@ -219,9 +219,9 @@ Provisions similar to those comprising subsecs. (a), (b)(1) and (c) of this sect
 [/us/usc/t26/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5005
 [/us/pl/85/859/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fa%2F1
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/96/39/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs809%2Fa
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F292
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

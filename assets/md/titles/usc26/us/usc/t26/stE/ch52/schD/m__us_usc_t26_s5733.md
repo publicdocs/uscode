@@ -55,13 +55,13 @@
 
         Any tax imposed by this subchapter shall apply to any agency or instrumentality of the United States unless such agency or instrumentality is granted by statute a specific exemption from such tax.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1347][/us/stat/72/1347], § 5143; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; renumbered § 5733 and amended [Pub. L. 109–59, title XI, § 11125(b)(20)(A)][/us/pl/109/59/s11125/b/20/A], (C), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956], 1957.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1347][/us/stat/72/1347], § 5143; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; renumbered § 5733 and amended [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(20)(A), (C), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956], 1957.)
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, § 11125(b)(20)(A)][/us/pl/109/59/s11125/b/20/A], renumbered [section 5143 of this title][/us/usc/t26/s5143] as this section, transferred section to this subchapter, and substituted “this subchapter” for “this part” wherever appearing.
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 11125(b)(20)(A), renumbered [section 5143 of this title][/us/usc/t26/s5143] as this section, transferred section to this subchapter, and substituted “this subchapter” for “this part” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 109–59, § 11125(b)(20)(C)][/us/pl/109/59/s11125/b/20/C], substituted “tobacco products and cigarette papers and tubes” for “liquors” in two places.
+    Subsec. (c)(2). [Pub. L. 109–59][/us/pl/109/59], § 11125(b)(20)(C), substituted “tobacco products and cigarette papers and tubes” for “liquors” in two places.
 
     1976—Subsec. (d)(4). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1347
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/109/59/s11125/b/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F20%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
-[/us/pl/109/59/s11125/b/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F20%2FA
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t26/s5143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5143
-[/us/pl/109/59/s11125/b/20/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F20%2FC
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/59/s11125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fc

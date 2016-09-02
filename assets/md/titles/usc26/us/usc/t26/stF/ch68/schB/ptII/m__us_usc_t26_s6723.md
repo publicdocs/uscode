@@ -17,7 +17,7 @@
 
     In the case of a failure by any person to comply with a specified information reporting requirement on or before the time prescribed therefor, such person shall pay a penalty of $50 for each such failure, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390].)
+(Added [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(a), Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7711(a), Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2733
-[/us/pl/101/239/s7711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7711%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2390
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s6676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6676

@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1962—[Pub. L. 87–870, § 1(a)][/us/pl/87/870/s1/a], Oct. 23, 1962, [76 Stat. 1158][/us/stat/76/1158], added part X and item 281.
+    1962—[Pub. L. 87–870][/us/pl/87/870], § 1(a), Oct. 23, 1962, [76 Stat. 1158][/us/stat/76/1158], added part X and item 281.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/87/870/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs1%2Fa
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1158
 
 

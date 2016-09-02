@@ -25,7 +25,7 @@
 
         (2) For penalty and forfeiture for failure or refusal to give bond, or for giving false, forged, or fraudulent bond, or carrying on the business of a distiller without giving bond, see sections 5601(a)(4), 5601(a)(5), 5601(b), and 5615(3).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 94–455, title XIX, § 1905(b)(6)(B)][/us/pl/94/455/s1905/b/6/B], Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823]; [Pub. L. 96–39, title VIII, § 807(a)(17)][/us/pl/96/39/s807/a/17], July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 97–258, § 3(f)(3)][/us/pl/97/258/s3/f/3], Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(6)(B), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(17), July 26, 1979, [93 Stat. 282][/us/stat/93/282]; [Pub. L. 97–258][/us/pl/97/258], § 3(f)(3), Sept. 13, 1982, [96 Stat. 1064][/us/stat/96/1064].)
 
  __Prior Provisions__ 
 
@@ -67,13 +67,13 @@
 ----------
 
 [/us/usc/t31/s9303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9303
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1353
-[/us/pl/94/455/s1905/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F6%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/96/39/s807/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F17
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F282
-[/us/pl/97/258/s3/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F3
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1064
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F628

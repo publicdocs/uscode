@@ -29,7 +29,7 @@
 
             For purposes of section 2053 (relating to expenses, indebtedness, and taxes), a transfer of property which satisfies the requirements of paragraph (1) of section 2516 (relating to certain property settlements) shall be considered to be made for an adequate and full consideration in money or money’s worth.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388]; [Pub. L. 98–369, div. A, title IV, § 425(a)(1)][/us/pl/98/369/s425/a/1], July 18, 1984, [98 Stat. 803][/us/stat/98/803].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 425(a)(1), July 18, 1984, [98 Stat. 803][/us/stat/98/803].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 425(c)(1)][/us/pl/98/369/s425/c/1], July 18, 1984, [98 Stat. 804][/us/stat/98/804], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 425(c)(1), July 18, 1984, [98 Stat. 804][/us/stat/98/804], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 2053 of this title][/us/usc/t26/s2053]\] shall apply to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].”
 
@@ -50,10 +50,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F388
-[/us/pl/98/369/s425/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fa%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F803
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/98/369/s425/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs425%2Fc%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F804
 [/us/usc/t26/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2053
 

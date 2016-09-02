@@ -117,27 +117,27 @@
 
             Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 122(a)][/us/pl/94/566/s122/a], (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II, § 252(a)][/us/pl/112/40/s252/a], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421]; [Pub. L. 113–295, div. B, title II, § 206(c)(2)][/us/pl/113/295/s206/c/2], Dec. 19, 2014, [128 Stat. 4070][/us/stat/128/4070].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212][/us/act/1954-09-01/ch1212], § 2, [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373/tI], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 122(a), (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 252(a), Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(c)(2), Dec. 19, 2014, [128 Stat. 4070][/us/stat/128/4070].)
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–295, § 206(c)(2)(B)][/us/pl/113/295/s206/c/2/B], substituted “paragraphs (1), (2), (3), and (4)” for “paragraphs (1), (2), and (3)” and “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)” in concluding provisions.
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295], § 206(c)(2)(B), substituted “paragraphs (1), (2), (3), and (4)” for “paragraphs (1), (2), and (3)” and “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)” in concluding provisions.
 
-    Subsec. (a)(4). [Pub. L. 113–295, § 206(c)(2)(A)][/us/pl/113/295/s206/c/2/A], added par. (4).
+    Subsec. (a)(4). [Pub. L. 113–295][/us/pl/113/295], § 206(c)(2)(A), added par. (4).
 
     2011—Subsecs. (f), (g). [Pub. L. 112–40][/us/pl/112/40] added subsec. (f) and struck out former subsecs. (f) and (g) which contained transitional provisions enacted by prior amendments.
 
     1976—Subsec. (b)(1) to (3). [Pub. L. 94–455][/us/pl/94/455] substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
 
-    Subsec. (f). [Pub. L. 94–566, § 122(b)][/us/pl/94/566/s122/b], substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
+    Subsec. (f). [Pub. L. 94–566][/us/pl/94/566], § 122(b), substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
 
-    Subsec. (g). [Pub. L. 94–566, § 122(a)][/us/pl/94/566/s122/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 94–566][/us/pl/94/566], § 122(a), added subsec. (g).
 
-    1970—Subsec. (a). [Pub. L. 91–373, § 122(a)][/us/pl/91/373/s122/a], added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
+    1970—Subsec. (a). [Pub. L. 91–373][/us/pl/91/373], § 122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
-    Subsec. (b). [Pub. L. 91–373, § 142(c)][/us/pl/91/373/s142/c]–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
+    Subsec. (b). [Pub. L. 91–373][/us/pl/91/373], § 142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
-    Subsecs. (e), (f). [Pub. L. 91–373, § 104(c)][/us/pl/91/373/s104/c], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 91–373][/us/pl/91/373], § 104(c), added subsecs. (e) and (f).
 
     1954—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
 
@@ -147,7 +147,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, title II, § 252(b)][/us/pl/112/40/s252/b], Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 252(b), Oct. 21, 2011, [125 Stat. 422][/us/stat/125/422], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 1976 Amendments__ 
 
-[Pub. L. 94–566, title I, § 122(c)][/us/pl/94/566/s122/c], Oct. 20, 1976, [90 Stat. 2676][/us/stat/90/2676], provided that: 
+[Pub. L. 94–566, title I][/us/pl/94/566/tI], § 122(c), Oct. 20, 1976, [90 Stat. 2676][/us/stat/90/2676], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970.”
 
@@ -169,7 +169,7 @@
 
     Amendment by [section 104(c) of Pub. L. 91–373][/us/pl/91/373/s104/c] \[amending this section\] to take effect Jan. 1, 1970, see [section 104(d)(1) of Pub. L. 91–373][/us/pl/91/373/s104/d/1], set out as a note under [section 3304 of this title][/us/usc/t26/s3304].
 
-[Pub. L. 91–373, title I, § 122(b)][/us/pl/91/373/s122/b], Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702], provided that: 
+[Pub. L. 91–373, title I][/us/pl/91/373/tI], § 122(b), Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
@@ -177,11 +177,11 @@
 
  __Effective Date of 1954 Amendment__ 
 
-    [Act Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130], provided that the amendment made by that section is effective after Dec. 31, 1954.
+    [Act Sept. 1, 1954, ch. 1212][/us/act/1954-09-01/ch1212], § 2, [68 Stat. 1130][/us/stat/68/1130], provided that the amendment made by that section is effective after Dec. 31, 1954.
 
  __Treatment of Certain Charitable Organizations Retroactively Determined To Be Described in Section 501(c)(3) of This Title__ 
 
-[Pub. L. 98–21, title V, § 524][/us/pl/98/21/s524], Apr. 20, 1983, [97 Stat. 149][/us/stat/97/149], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–21, title V][/us/pl/98/21/tV], § 524, Apr. 20, 1983, [97 Stat. 149][/us/stat/97/149], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “If—
 
@@ -208,33 +208,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F440
-[/us/act/1954-09-01/ch1212/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212%2Fs2
+[/us/act/1954-09-01/ch1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212
 [/us/stat/68/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1130
-[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F699
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1809
-[/us/pl/94/566/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fa
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2675
-[/us/pl/112/40/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252%2Fa
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F421
-[/us/pl/113/295/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4070
-[/us/pl/113/295/s206/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2%2FB
-[/us/pl/113/295/s206/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/566/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fb
-[/us/pl/94/566/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fa
-[/us/pl/91/373/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs122%2Fa
-[/us/pl/91/373/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fc
-[/us/pl/91/373/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fc
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/pl/112/40/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252%2Fb
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F422
-[/us/pl/94/566/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fc
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2676
 [/us/pl/94/455/s1903/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F13
 [/us/pl/94/455/s1903/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fd
@@ -242,16 +242,16 @@
 [/us/pl/91/373/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fc
 [/us/pl/91/373/s104/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fd%2F1
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/91/373/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs122%2Fb
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F702
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/91/373/s142/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fi
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/act/1954-09-01/ch1212/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212%2Fs2
+[/us/act/1954-09-01/ch1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212
 [/us/stat/68/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1130
-[/us/pl/98/21/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs524
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F149
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

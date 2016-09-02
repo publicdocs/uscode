@@ -33,7 +33,7 @@
 
         For purposes of this section, the term “person” means the officer or employee having control of the payment of the refunds (or the allowance of the credits or offsets) or the person appropriately designated for purposes of this section.
 
-(Added [Pub. L. 97–248, title III, § 313(a)][/us/pl/97/248/s313/a], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; amended [Pub. L. 98–369, div. A, title I, § 151(a)][/us/pl/98/369/s151/a], July 18, 1984, [98 Stat. 690][/us/stat/98/690]; [Pub. L. 99–514, title XV, § 1501(c)(8)][/us/pl/99/514/s1501/c/8], Oct. 22, 1986, [100 Stat. 2738][/us/stat/100/2738].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 313(a), Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 151(a), July 18, 1984, [98 Stat. 690][/us/stat/98/690]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(8), Oct. 22, 1986, [100 Stat. 2738][/us/stat/100/2738].)
 
  __Amendments__ 
 
@@ -47,13 +47,13 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 151(b)][/us/pl/98/369/s151/b], July 18, 1984, [98 Stat. 691][/us/stat/98/691], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 151(b), July 18, 1984, [98 Stat. 691][/us/stat/98/691], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 313(c)][/us/pl/97/248/s313/c], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 313(c), Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to payments of refunds, and credits and offsets made, after December 31, 1982.”
 
@@ -64,20 +64,20 @@
 ----------
 ----------
 
-[/us/pl/97/248/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs313%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F603
-[/us/pl/98/369/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs151%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F690
-[/us/pl/99/514/s1501/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F8
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2738
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fe
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
-[/us/pl/98/369/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs151%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F691
-[/us/pl/97/248/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs313%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F603
 
 

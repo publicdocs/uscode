@@ -65,21 +65,21 @@
 
             is held directly (or indirectly through applying paragraphs (2) and (3) of section 958(a) and paragraph (4) of section 318(a)) by United States persons (as defined in section 7701(a)(30)).
 
-(Added [Pub. L. 98–369, div. A, title I, § 136(a)][/us/pl/98/369/s136/a], July 18, 1984, [98 Stat. 669][/us/stat/98/669]; amended [Pub. L. 99–514, title XVIII, § 1810(j)][/us/pl/99/514/s1810/j], Oct. 22, 1986, [100 Stat. 2829][/us/stat/100/2829].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 136(a), July 18, 1984, [98 Stat. 669][/us/stat/98/669]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1810(j), Oct. 22, 1986, [100 Stat. 2829][/us/stat/100/2829].)
 
  __Amendments__ 
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 1810(j)(1)][/us/pl/99/514/s1810/j/1], inserted “and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation”.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1810(j)(1), inserted “and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation”.
 
-    Subsec. (e). [Pub. L. 99–514, § 1810(j)(2)][/us/pl/99/514/s1810/j/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1810(j)(2), added subsec. (e).
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 136(c)][/us/pl/98/369/s136/c], July 18, 1984, [98 Stat. 670][/us/stat/98/670], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 136(c), July 18, 1984, [98 Stat. 670][/us/stat/98/670], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -149,7 +149,7 @@
 
  __Termination of Exception for Certain Real Estate Investment Trusts From the Treatment of Stapled Entities__ 
 
-[Pub. L. 105–206, title VII, § 7002][/us/pl/105/206/s7002], July 22, 1998, [112 Stat. 827][/us/stat/112/827], provided that:
+[Pub. L. 105–206, title VII][/us/pl/105/206/tVII], § 7002, July 22, 1998, [112 Stat. 827][/us/stat/112/827], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -388,21 +388,21 @@
 ----------
 ----------
 
-[/us/pl/98/369/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs136%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F669
-[/us/pl/99/514/s1810/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Fj
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2829
-[/us/pl/99/514/s1810/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Fj%2F1
-[/us/pl/99/514/s1810/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1810%2Fj%2F2
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s136/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs136%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F670
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/105/206/s7002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7002
+[/us/pl/105/206/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVII
 [/us/stat/112/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F827
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

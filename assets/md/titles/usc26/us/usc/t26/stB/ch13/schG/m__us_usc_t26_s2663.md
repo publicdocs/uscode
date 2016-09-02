@@ -23,7 +23,7 @@
 
     (3) regulations providing for such adjustments as may be necessary to the application of this chapter in the case of any arrangement which, although not a trust, is treated as a trust under section 2652(b).
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2729][/us/stat/100/2729]; amended [Pub. L. 100–647, title I, § 1014(g)(10)][/us/pl/100/647/s1014/g/10], Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2729][/us/stat/100/2729]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(10), Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2729
-[/us/pl/100/647/s1014/g/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F10
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3565
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

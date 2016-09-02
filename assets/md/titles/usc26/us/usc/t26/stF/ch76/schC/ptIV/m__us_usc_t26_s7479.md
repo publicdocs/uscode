@@ -47,13 +47,13 @@
 
         The 2-year period in section 6532(a)(1) for filing suit for refund after disallowance of a claim shall be suspended during the 90-day period after the mailing of the notice referred to in subsection (b)(3) and, if a pleading has been filed with the Tax Court under this section, until the decision of the Tax Court has become final.
 
-(Added [Pub. L. 105–34, title V, § 505(a)][/us/pl/105/34/s505/a], Aug. 5, 1997, [111 Stat. 854][/us/stat/111/854]; amended [Pub. L. 105–206, title III, § 3104(b)][/us/pl/105/206/s3104/b], title VI, § 6007(d), July 22, 1998, [112 Stat. 732][/us/stat/112/732], 809.)
+(Added [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 505(a), Aug. 5, 1997, [111 Stat. 854][/us/stat/111/854]; amended [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3104(b), title VI, § 6007(d), July 22, 1998, [112 Stat. 732][/us/stat/112/732], 809.)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1), (2). [Pub. L. 105–206, § 6007(d)][/us/pl/105/206/s6007/d], substituted “an estate (or with respect to any property included therein),” for “an estate,”.
+    1998—Subsec. (a)(1), (2). [Pub. L. 105–206][/us/pl/105/206], § 6007(d), substituted “an estate (or with respect to any property included therein),” for “an estate,”.
 
-    Subsec. (c). [Pub. L. 105–206, § 3104(b)][/us/pl/105/206/s3104/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–206][/us/pl/105/206], § 3104(b), added subsec. (c).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–34, title V, § 505(c)][/us/pl/105/34/s505/c], Aug. 5, 1997, [111 Stat. 855][/us/stat/111/855], provided that: 
+[Pub. L. 105–34, title V][/us/pl/105/34/tV], § 505(c), Aug. 5, 1997, [111 Stat. 855][/us/stat/111/855], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -74,12 +74,12 @@
 ----------
 ----------
 
-[/us/pl/105/34/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs505%2Fa
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F854
-[/us/pl/105/206/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F732
-[/us/pl/105/206/s6007/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fd
-[/us/pl/105/206/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fb
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fb
 [/us/pl/105/206/s3104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3104%2Fc
 [/us/usc/t26/s7422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7422
@@ -87,7 +87,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs505%2Fc
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F855
 
 

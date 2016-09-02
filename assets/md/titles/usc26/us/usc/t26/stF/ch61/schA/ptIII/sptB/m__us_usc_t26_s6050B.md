@@ -41,7 +41,7 @@
 
             The term “person” means the officer or employee having control of the payment of the unemployment compensation, or the person appropriately designated for purposes of this section.
 
-(Added [Pub. L. 95–600, title I, § 112(b)][/us/pl/95/600/s112/b], Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; amended [Pub. L. 99–514, title XV, § 1501(c)(7)][/us/pl/99/514/s1501/c/7], Oct. 22, 1986, [100 Stat. 2738][/us/stat/100/2738]; [Pub. L. 104–168, title XII, § 1201(a)(7)][/us/pl/104/168/s1201/a/7], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I, § 1704(t)(14)][/us/pl/104/188/s1704/t/14], Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888].)
+(Added [Pub. L. 95–600, title I][/us/pl/95/600/tI], § 112(b), Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(7), Oct. 22, 1986, [100 Stat. 2738][/us/stat/100/2738]; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(7), July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(14), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888].)
 
  __Amendments__ 
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/95/600/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs112%2Fb
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2777
-[/us/pl/99/514/s1501/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F7
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2738
-[/us/pl/104/168/s1201/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F7
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1469
-[/us/pl/104/188/s1704/t/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F14
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1888
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

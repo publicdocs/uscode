@@ -35,7 +35,7 @@
 
         For purposes of subsection (a), the term “multiple employer welfare arrangement” has the meaning given such term by section 3(40) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2079][/us/stat/110/2079].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2079][/us/stat/110/2079].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2079
 [/us/usc/t29/s1002/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191

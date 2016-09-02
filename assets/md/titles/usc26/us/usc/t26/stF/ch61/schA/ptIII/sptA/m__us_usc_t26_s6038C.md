@@ -71,7 +71,7 @@
 
         For purposes of this section, the terms “related party”, “foreign person”, and “records” have the respective meanings given to such terms by section 6038A(c).
 
-(Added [Pub. L. 101–508, title XI, § 11315(a)][/us/pl/101/508/s11315/a], Nov. 5, 1990, [104 Stat. 1388–456][/us/stat/104/1388-456].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11315(a), Nov. 5, 1990, [104 Stat. 1388–456][/us/stat/104/1388-456].)
 
  __Effective Date__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11315%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-456
 [/us/pl/101/508/s11315/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11315%2Fc
 [/us/usc/t26/s6038A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6038A

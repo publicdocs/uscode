@@ -35,15 +35,15 @@
 
         Tobacco products furnished by manufacturers of such products for use or consumption by their employees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 713][/us/stat/68A/713]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1422][/us/stat/72/1422]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1821][/us/stat/90/1821], 1834; [Pub. L. 111–3, title VII, § 702(a)(2)(C)][/us/pl/111/3/s702/a/2/C], Feb. 4, 2009, [123 Stat. 108][/us/stat/123/108].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 713][/us/stat/68A/713]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1422][/us/stat/72/1422]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1821][/us/stat/90/1821], 1834; [Pub. L. 111–3, title VII][/us/pl/111/3/tVII], § 702(a)(2)(C), Feb. 4, 2009, [123 Stat. 108][/us/stat/123/108].)
 
  __Amendments__ 
 
     2009—[Pub. L. 111–3][/us/pl/111/3] inserted “, processed tobacco,” after “tobacco products” wherever appearing.
 
-    1976—[Pub. L. 94–455, § 1905(a)(28)(A)][/us/pl/94/455/s1905/a/28/A], substituted “and notices” for “notices, and stamps” in section catchline.
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 1905(a)(28)(A), substituted “and notices” for “notices, and stamps” in section catchline.
 
-    Subsecs. (a), (e). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (a), (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1905(a)(28)(B), 1906(b)(13)(A), struck out references to stamps in heading and in text and struck out “or his delegate” after “Secretary”.
 
@@ -78,15 +78,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F713
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1422
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1821
-[/us/pl/111/3/s702/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs702%2Fa%2F2%2FC
+[/us/pl/111/3/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVII
 [/us/stat/123/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F108
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
-[/us/pl/94/455/s1905/a/28/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F28%2FA
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859

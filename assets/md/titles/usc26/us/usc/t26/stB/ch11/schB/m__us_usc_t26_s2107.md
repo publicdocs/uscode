@@ -83,7 +83,7 @@
 
         For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).
 
-(Added [Pub. L. 89–809, title I, § 108(f)][/us/pl/89/809/s108/f], Nov. 13, 1966, [80 Stat. 1573][/us/stat/80/1573]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(6), 1906(b)(13)(A), title XX, § 2001(c)(1)(E)(ii), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834, 1851; [Pub. L. 104–191, title V, § 511(e)(1)][/us/pl/104/191/s511/e/1], (f)(2)(A), Aug. 21, 1996, [110 Stat. 2097][/us/stat/110/2097], 2099; [Pub. L. 105–34, title XVI, § 1602(g)(6)][/us/pl/105/34/s1602/g/6], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095]; [Pub. L. 107–16, title V, § 532(c)(7)(C)][/us/pl/107/16/s532/c/7/C], June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 108–357, title VIII, § 804(a)(3)][/us/pl/108/357/s804/a/3], Oct. 22, 2004, [118 Stat. 1570][/us/stat/118/1570].)
+(Added [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(f), Nov. 13, 1966, [80 Stat. 1573][/us/stat/80/1573]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1902(a)(6), 1906(b)(13)(A), title XX, § 2001(c)(1)(E)(ii), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], 1834, 1851; [Pub. L. 104–191, title V][/us/pl/104/191/tV], § 511(e)(1), (f)(2)(A), Aug. 21, 1996, [110 Stat. 2097][/us/stat/110/2097], 2099; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(g)(6), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(7)(C), June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 804(a)(3), Oct. 22, 2004, [118 Stat. 1570][/us/stat/118/1570].)
 
  __Amendments__ 
 
@@ -91,27 +91,27 @@
 
     2001—Subsec. (c)(3). [Pub. L. 107–16][/us/pl/107/16] substituted “2012 and 2013” for “2011 to 2013, inclusive,”.
 
-    1997—Subsec. (c)(2)(B)(i). [Pub. L. 105–34, § 1602(g)(6)(A)][/us/pl/105/34/s1602/g/6/A], substituted “such foreign country as the value of the property subjected to such taxes by such foreign country and” for “such foreign country in respect of property included in the gross estate as the value of the property”.
+    1997—Subsec. (c)(2)(B)(i). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(6)(A), substituted “such foreign country as the value of the property subjected to such taxes by such foreign country and” for “such foreign country in respect of property included in the gross estate as the value of the property”.
 
-    Subsec. (c)(2)(C). [Pub. L. 105–34, § 1602(g)(6)(B)][/us/pl/105/34/s1602/g/6/B], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B), a property’s proportionate share is the percentage of the value of the property which is included in the gross estate solely by reason of subsection (b) bears to the total value of the gross estate.”
+    Subsec. (c)(2)(C). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(6)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B), a property’s proportionate share is the percentage of the value of the property which is included in the gross estate solely by reason of subsection (b) bears to the total value of the gross estate.”
 
-    1996—Subsec. (a). [Pub. L. 104–191, § 511(e)(1)(A)][/us/pl/104/191/s511/e/1/A], substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+    1996—Subsec. (a). [Pub. L. 104–191][/us/pl/104/191], § 511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
-    Subsec. (b)(2). [Pub. L. 104–191, § 511(e)(1)(C)][/us/pl/104/191/s511/e/1/C], substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
+    Subsec. (b)(2). [Pub. L. 104–191][/us/pl/104/191], § 511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
 
-    Subsec. (c)(2), (3). [Pub. L. 104–191, § 511(e)(1)(B)][/us/pl/104/191/s511/e/1/B], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 104–191][/us/pl/104/191], § 511(e)(1)(B), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (d). [Pub. L. 104–191, § 511(f)(2)(A)][/us/pl/104/191/s511/f/2/A], redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
+    Subsec. (d). [Pub. L. 104–191][/us/pl/104/191], § 511(f)(2)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
 
     “(d) Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to the transfer of the estate of a decedent whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended ([8 U.S.C. 1401(b)][/us/usc/t8/s1401/b], 1482, or 1487).”
 
-    Subsec. (e). [Pub. L. 104–191, § 511(f)(2)(A)][/us/pl/104/191/s511/f/2/A], added subsec. (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 104–191][/us/pl/104/191], § 511(f)(2)(A), added subsec. (e). Former subsec. (e) redesignated (d).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1902(a)(6)][/us/pl/94/455/s1902/a/6], substituted “November 13, 1966” for “the date of enactment of this section” after “dying after”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(6), substituted “November 13, 1966” for “the date of enactment of this section” after “dying after”.
 
-    Subsec. (c). [Pub. L. 94–455, § 2001(c)(1)(E)(ii)][/us/pl/94/455/s2001/c/1/E/ii], substituted provisions relating to unified credit for “The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with section 2102.”
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 2001(c)(1)(E)(ii), substituted provisions relating to unified credit for “The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with section 2102.”
 
-    Subsec. (e). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -146,31 +146,31 @@
 ----------
 ----------
 
-[/us/pl/89/809/s108/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Ff
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1573
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
-[/us/pl/104/191/s511/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fe%2F1
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2097
-[/us/pl/105/34/s1602/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F6
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1095
-[/us/pl/107/16/s532/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F7%2FC
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
-[/us/pl/108/357/s804/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fa%2F3
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1570
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/105/34/s1602/g/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F6%2FA
-[/us/pl/105/34/s1602/g/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F6%2FB
-[/us/pl/104/191/s511/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fe%2F1%2FA
-[/us/pl/104/191/s511/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fe%2F1%2FC
-[/us/pl/104/191/s511/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fe%2F1%2FB
-[/us/pl/104/191/s511/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Ff%2F2%2FA
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t8/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401%2Fb
-[/us/pl/104/191/s511/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Ff%2F2%2FA
-[/us/pl/94/455/s1902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F6
-[/us/pl/94/455/s2001/c/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FE%2Fii
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s804/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Ff
 [/us/usc/t26/s877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs877

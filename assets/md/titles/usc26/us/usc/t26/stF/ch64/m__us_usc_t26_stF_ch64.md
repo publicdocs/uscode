@@ -79,9 +79,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(14)][/us/pl/101/508/s11801/b/14], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for subchapter E “Collection of State individual income taxes”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(14), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for subchapter E “Collection of State individual income taxes”.
 
-    1972—[Pub. L. 92–512, title II, § 202(b)][/us/pl/92/512/s202/b], Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944], added item for subchapter E.
+    1972—[Pub. L. 92–512, title II][/us/pl/92/512/tII], § 202(b), Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944], added item for subchapter E.
 
 ----------
 
@@ -90,9 +90,9 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F14
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/92/512/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2Fs202%2Fb
+[/us/pl/92/512/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512%2FtII
 [/us/stat/86/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F944
 
 

@@ -65,7 +65,7 @@
 
         Notwithstanding any other provision of law, no amount collected under this subchapter shall be covered over to any possession of the United States.
 
-(Added [Pub. L. 111–148, title VI, § 6301(e)(2)(A)][/us/pl/111/148/s6301/e/2/A], Mar. 23, 2010, [124 Stat. 746][/us/stat/124/746].)
+(Added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(e)(2)(A), Mar. 23, 2010, [124 Stat. 746][/us/stat/124/746].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s6301/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fe%2F2%2FA
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F746
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

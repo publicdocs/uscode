@@ -27,13 +27,13 @@
 
         No firearm may be transferred or made exempt from tax under this section unless the transfer or making is performed pursuant to an application in such form and manner as the Secretary may by regulations prescribe.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1233][/us/stat/82/1233]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1233][/us/stat/82/1233]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
     A prior section 5853, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 728][/us/stat/68A/728], related to importing firearms illegally, prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618]. See [section 5861(k) of this title][/us/usc/t26/s5861/k] and [section 922(a) of Title 18][/us/usc/t18/s922/a], Crimes and Criminal Procedure.
 
-    Provisions similar to those comprising this section were contained in prior section 5821, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 724][/us/stat/68A/724], as amended by act Sept. 2, 1958, [Pub. L. 85–859, title II, § 203(d)][/us/pl/85/859/s203/d], [72 Stat. 1427][/us/stat/72/1427], prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
+    Provisions similar to those comprising this section were contained in prior section 5821, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 724][/us/stat/68A/724], as amended by act Sept. 2, 1958, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 203(d), [72 Stat. 1427][/us/stat/72/1427], prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1233
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F728
@@ -57,7 +57,7 @@
 [/us/usc/t18/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs922%2Fa
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F724
-[/us/pl/85/859/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs203%2Fd
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1427
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

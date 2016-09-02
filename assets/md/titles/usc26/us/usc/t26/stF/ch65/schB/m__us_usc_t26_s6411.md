@@ -81,7 +81,7 @@
 
             The provisions of subsection (c) shall apply to an adjustment under this subsection to the same extent and manner as the Secretary may by regulations provide.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 794][/us/stat/68A/794]; [Pub. L. 89–721, § 2(a)][/us/pl/89/721/s2/a]–(e), Nov. 2, 1966, [80 Stat. 1150][/us/stat/80/1150]; [Pub. L. 90–225, § 2(b)][/us/pl/90/225/s2/b], Dec. 27, 1967, [81 Stat. 731][/us/stat/81/731]; [Pub. L. 91–172, title V, § 512(d)][/us/pl/91/172/s512/d], Dec. 30, 1969, [83 Stat. 639][/us/stat/83/639]; [Pub. L. 92–178, title VI, § 601(e)(1)][/us/pl/92/178/s601/e/1], Dec. 10, 1971, [85 Stat. 560][/us/stat/85/560]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2107(g)(1), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1904; [Pub. L. 95–30, title II, § 202(d)(5)(A)][/us/pl/95/30/s202/d/5/A], May 23, 1977, [91 Stat. 150][/us/stat/91/150]; [Pub. L. 95–600, title V, § 504(a)][/us/pl/95/600/s504/a], (b)(1)(A), Nov. 6, 1978, [92 Stat. 2880][/us/stat/92/2880], 2881; [Pub. L. 96–222, title I][/us/pl/96/222], §§ 103(a)(6)(G)(xiii), 105(a)(2), Apr. 1, 1980, [94 Stat. 211][/us/stat/94/211], 218; [Pub. L. 97–34, title II, § 221(b)(2)(B)][/us/pl/97/34/s221/b/2/B], title III, § 331(d)(2)(B), Aug. 13, 1981, [95 Stat. 247][/us/stat/95/247], 295; [Pub. L. 98–369, div. A, title IV, § 474(r)(37)][/us/pl/98/369/s474/r/37], title VII, § 714(n)(2)(B), July 18, 1984, [98 Stat. 846][/us/stat/98/846], 964; [Pub. L. 99–514, title II, § 231(d)(3)(H)][/us/pl/99/514/s231/d/3/H], title XVIII, § 1847(b)(10), Oct. 22, 1986, [100 Stat. 2180][/us/stat/100/2180], 2857; [Pub. L. 100–647, title I, § 1002(h)(2)][/us/pl/100/647/s1002/h/2], Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 109–135, title IV, § 409(a)(1)][/us/pl/109/135/s409/a/1], Dec. 21, 2005, [119 Stat. 2635][/us/stat/119/2635].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 794][/us/stat/68A/794]; [Pub. L. 89–721][/us/pl/89/721], § 2(a)–(e), Nov. 2, 1966, [80 Stat. 1150][/us/stat/80/1150]; [Pub. L. 90–225][/us/pl/90/225], § 2(b), Dec. 27, 1967, [81 Stat. 731][/us/stat/81/731]; [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 512(d), Dec. 30, 1969, [83 Stat. 639][/us/stat/83/639]; [Pub. L. 92–178, title VI][/us/pl/92/178/tVI], § 601(e)(1), Dec. 10, 1971, [85 Stat. 560][/us/stat/85/560]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XXI, § 2107(g)(1), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1904; [Pub. L. 95–30, title II][/us/pl/95/30/tII], § 202(d)(5)(A), May 23, 1977, [91 Stat. 150][/us/stat/91/150]; [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 504(a), (b)(1)(A), Nov. 6, 1978, [92 Stat. 2880][/us/stat/92/2880], 2881; [Pub. L. 96–222, title I][/us/pl/96/222/tI], §§ 103(a)(6)(G)(xiii), 105(a)(2), Apr. 1, 1980, [94 Stat. 211][/us/stat/94/211], 218; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 221(b)(2)(B), title III, § 331(d)(2)(B), Aug. 13, 1981, [95 Stat. 247][/us/stat/95/247], 295; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(37), title VII, § 714(n)(2)(B), July 18, 1984, [98 Stat. 846][/us/stat/98/846], 964; [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 231(d)(3)(H), title XVIII, § 1847(b)(10), Oct. 22, 1986, [100 Stat. 2180][/us/stat/100/2180], 2857; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1002(h)(2), Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 409(a)(1), Dec. 21, 2005, [119 Stat. 2635][/us/stat/119/2635].)
 
  __Amendments__ 
 
@@ -91,65 +91,65 @@
 
     1988—Subsec. (c). [Pub. L. 100–647][/us/pl/100/647] struck out “unused research credit,” after “net capital loss,”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 231(d)(3)(H)][/us/pl/99/514/s231/d/3/H], in introductory provisions, struck out “by a research credit carryback provided in section 30(g)(2)” after “carryback provided in section 39,”, “unused research credit,” after “net capital loss,”, “a research credit carryback or” after “with respect to any portion of”, and “(or, with respect to any portion of a business credit carryback attributable to a research credit carryback from a subsequent taxable year within a period of 12 months from the end of such subsequent taxable year)” after “such subsequent taxable year”, and in par. (1), struck out “unused research credit,” after “net capital loss,”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 231(d)(3)(H), in introductory provisions, struck out “by a research credit carryback provided in section 30(g)(2)” after “carryback provided in section 39,”, “unused research credit,” after “net capital loss,”, “a research credit carryback or” after “with respect to any portion of”, and “(or, with respect to any portion of a business credit carryback attributable to a research credit carryback from a subsequent taxable year within a period of 12 months from the end of such subsequent taxable year)” after “such subsequent taxable year”, and in par. (1), struck out “unused research credit,” after “net capital loss,”.
 
-    [Pub. L. 99–514, § 1847(b)(10)][/us/pl/99/514/s1847/b/10], substituted “unused research credit, or unused business credit” for “or unused business credit”.
+    [Pub. L. 99–514][/us/pl/99/514], § 1847(b)(10), substituted “unused research credit, or unused business credit” for “or unused business credit”.
 
-    Subsec. (b). [Pub. L. 99–514, § 231(d)(3)(H)(iv)][/us/pl/99/514/s231/d/3/H/iv], struck out “unused research credit,” after “net capital loss,”, in two places.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 231(d)(3)(H)(iv), struck out “unused research credit,” after “net capital loss,”, in two places.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 474(r)(37)(A)][/us/pl/98/369/s474/r/37/A], amended provisions preceding par. (1) generally. Prior to amendment, such provisions read as follows: “A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by an investment credit carryback provided in section 46(b), by a work incentive program carryback provided in section 50A(b), by a new employee credit carryback provided in section 53(b), by a research credit carryback provided in section 44F(g)(2) by an employee stock ownership credit carryback provided by section 44G(b)(2), or by a capital loss carryback provided in section 1212(a)(1), from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer, and shall be filed, on or after the date of filing of the return for the taxable year of the net operating loss, net capital loss, unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit, from which the carryback results and within a period of 12 months from the end of such taxable year (or, with respect to any portion of an investment credit carryback, a work incentive program carryback, a new employee credit carryback, a research credit carryback, or employee stock ownership credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback (or, in the case of a work incentive program carryback, to an investment credit carryback, or, in the case of a new employee credit carryback, to an investment credit carryback or a work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or a new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback) from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year), in the manner and form required by regulations prescribed by the Secretary. The application shall set forth in such detail and with such supporting data and explanation as such regulations shall require—”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(37)(A), amended provisions preceding par. (1) generally. Prior to amendment, such provisions read as follows: “A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by an investment credit carryback provided in section 46(b), by a work incentive program carryback provided in section 50A(b), by a new employee credit carryback provided in section 53(b), by a research credit carryback provided in section 44F(g)(2) by an employee stock ownership credit carryback provided by section 44G(b)(2), or by a capital loss carryback provided in section 1212(a)(1), from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer, and shall be filed, on or after the date of filing of the return for the taxable year of the net operating loss, net capital loss, unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit, from which the carryback results and within a period of 12 months from the end of such taxable year (or, with respect to any portion of an investment credit carryback, a work incentive program carryback, a new employee credit carryback, a research credit carryback, or employee stock ownership credit carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback (or, in the case of a work incentive program carryback, to an investment credit carryback, or, in the case of a new employee credit carryback, to an investment credit carryback or a work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or a new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback) from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year), in the manner and form required by regulations prescribed by the Secretary. The application shall set forth in such detail and with such supporting data and explanation as such regulations shall require—”.
 
-    [Pub. L. 98–369, § 714(n)(2)(B)][/us/pl/98/369/s714/n/2/B], in provisions following par. (6), substituted “Except for purposes of applying section 6611(f)(3)(B), an application” for “An application”.
+    [Pub. L. 98–369][/us/pl/98/369], § 714(n)(2)(B), in provisions following par. (6), substituted “Except for purposes of applying section 6611(f)(3)(B), an application” for “An application”.
 
-    Subsec. (a)(1). [Pub. L. 98–369, § 474(r)(37)(A)][/us/pl/98/369/s474/r/37/A], substituted “unused research credit, or unused business credit” for “unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit”.
+    Subsec. (a)(1). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(37)(A), substituted “unused research credit, or unused business credit” for “unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit”.
 
-    Subsecs. (b), (c). [Pub. L. 98–369, § 474(r)(37)(B)][/us/pl/98/369/s474/r/37/B], substituted “unused research credit, or unused business credit” for “unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(37)(B), substituted “unused research credit, or unused business credit” for “unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit” wherever appearing.
 
-    1981—Subsec. (a). [Pub. L. 97–34, § 331(d)(2)(B)][/us/pl/97/34/s331/d/2/B], inserted in introductory provisions “by an employee stock ownership credit carryback provided by section 44G(b)(2)” after “section 44F(g)(2),” and substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”, “a research credit carryback, or employee stock ownership credit carryback” for “or a research credit carryback”, and “new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)” for “new employee credit carryback)” and in par. (1) substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
+    1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34], § 331(d)(2)(B), inserted in introductory provisions “by an employee stock ownership credit carryback provided by section 44G(b)(2)” after “section 44F(g)(2),” and substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”, “a research credit carryback, or employee stock ownership credit carryback” for “or a research credit carryback”, and “new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)” for “new employee credit carryback)” and in par. (1) substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
 
-    [Pub. L. 97–34, § 221(b)(2)(B)][/us/pl/97/34/s221/b/2/B], inserted in introductory provision “by a research credit carryback provided in section 44F(g)(2),” after “section 53(b),” and substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”, “a new employee credit carryback, or a research credit carryback” for “or a new employee credit carryback”, and “work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)” for “work incentive program carryback)” and in par. (1) substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(2)(B), inserted in introductory provision “by a research credit carryback provided in section 44F(g)(2),” after “section 53(b),” and substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”, “a new employee credit carryback, or a research credit carryback” for “or a new employee credit carryback”, and “work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)” for “work incentive program carryback)” and in par. (1) substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
 
-    Subsec. (b). [Pub. L. 97–34, § 331(d)(2)(B)(i)][/us/pl/97/34/s331/d/2/B/i], substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
+    Subsec. (b). [Pub. L. 97–34][/us/pl/97/34], § 331(d)(2)(B)(i), substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
 
-    [Pub. L. 97–34, § 221(b)(2)(B)(i)][/us/pl/97/34/s221/b/2/B/i], substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(2)(B)(i), substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
 
-    Subsec. (c). [Pub. L. 97–34, § 331(d)(2)(B)(i)][/us/pl/97/34/s331/d/2/B/i], substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
+    Subsec. (c). [Pub. L. 97–34][/us/pl/97/34], § 331(d)(2)(B)(i), substituted “unused research credit, or unused employee stock ownership credit” for “or unused research credit”.
 
-    [Pub. L. 97–34, § 221(b)(2)(B)(i)][/us/pl/97/34/s221/b/2/B/i], substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(2)(B)(i), substituted “unused new employee credit, or unused research credit” for “or unused new employee credit”.
 
-    1980—Subsec. (a). [Pub. L. 96–222, § 103(a)(6)(G)(xiii)][/us/pl/96/222/s103/a/6/G/xiii], substituted “section 53(b)” for “section 53(c)”.
+    1980—Subsec. (a). [Pub. L. 96–222][/us/pl/96/222], § 103(a)(6)(G)(xiii), substituted “section 53(b)” for “section 53(c)”.
 
-    Subsec. (d)(2). [Pub. L. 96–222, § 105(a)(2)][/us/pl/96/222/s105/a/2], substituted “the date of the overpayment (determined under section 1341(b)(1))” for “the last day of the month in which falls the last date prescribed by law (including any extension of time granted the taxpayer) for filing the return for taxable year in which the overpayment occurs”.
+    Subsec. (d)(2). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(2), substituted “the date of the overpayment (determined under section 1341(b)(1))” for “the last day of the month in which falls the last date prescribed by law (including any extension of time granted the taxpayer) for filing the return for taxable year in which the overpayment occurs”.
 
-    1978—[Pub. L. 95–600, § 504(b)(1)(A)][/us/pl/95/600/s504/b/1/A], inserted “and refund” after “carryback” in section catchline.
+    1978—[Pub. L. 95–600][/us/pl/95/600], § 504(b)(1)(A), inserted “and refund” after “carryback” in section catchline.
 
-    Subsec. (d). [Pub. L. 95–600, § 504(a)][/us/pl/95/600/s504/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–600][/us/pl/95/600], § 504(a), added subsec. (d).
 
-    1977—Subsec. (a). [Pub. L. 95–30, § 202(d)(5)(A)(i)][/us/pl/95/30/s202/d/5/A/i] to (iv), inserted references to unused new employee credits and to new employee credit carrybacks in provisions preceding par. (1) and in par. (1).
+    1977—Subsec. (a). [Pub. L. 95–30][/us/pl/95/30], § 202(d)(5)(A)(i) to (iv), inserted references to unused new employee credits and to new employee credit carrybacks in provisions preceding par. (1) and in par. (1).
 
-    Subsecs. (b), (c). [Pub. L. 95–30, § 202(d)(5)(A)(i)][/us/pl/95/30/s202/d/5/A/i], inserted references to unused new employee credits.
+    Subsecs. (b), (c). [Pub. L. 95–30][/us/pl/95/30], § 202(d)(5)(A)(i), inserted references to unused new employee credits.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], §§ 1906(b)(13)(A), 2107(g)(1), struck out “or his delegate” after “Secretary” and inserted “(or, in the case of a work incentive program carryback, to an investment credit carryback)” after “capital loss carryback” in second sentence.
 
-    Subsecs. (b), (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1971—[Pub. L. 92–178, § 601(e)(1)(A)][/us/pl/92/178/s601/e/1/A], substituted “unused investment credit, or unused work incentive program credit” for “or unused investment credit” wherever appearing in subsecs. (a), (a)(1), (b), and (c).
+    1971—[Pub. L. 92–178][/us/pl/92/178], § 601(e)(1)(A), substituted “unused investment credit, or unused work incentive program credit” for “or unused investment credit” wherever appearing in subsecs. (a), (a)(1), (b), and (c).
 
-    Subsec. (a). [Pub. L. 92–178, § 601(e)(1)(B)][/us/pl/92/178/s601/e/1/B] and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in first sentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
+    Subsec. (a). [Pub. L. 92–178][/us/pl/92/178], § 601(e)(1)(B) and (C), inserted “by a work incentive program carryback provided in section 50A(b),” after “section 46(b),” in first sentence, and “or a work incentive program carryback” after “investment credit carryback” in second sentence, respectively.
 
-    1969—Subsec. (a). [Pub. L. 91–172, § 512(d)(1)][/us/pl/91/172/s512/d/1], (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
+    1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 512(d)(1), (2), provided quick refund procedure, presently available in case of net operating loss carrybacks, to be made available in the case of the 3-year capital loss carryback, and substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” in par. (1).
 
-    Subsec. (b). [Pub. L. 91–172, § 512(d)(2)][/us/pl/91/172/s512/d/2], substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” wherever such term appears.
+    Subsec. (b). [Pub. L. 91–172][/us/pl/91/172], § 512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit” wherever such term appears.
 
-    Subsec. (c). [Pub. L. 91–172, § 512(d)(2)][/us/pl/91/172/s512/d/2], substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit”.
+    Subsec. (c). [Pub. L. 91–172][/us/pl/91/172], § 512(d)(2), substituted “net operating loss, net capital loss, or unused investment credit” for “net operating loss or unused investment credit”.
 
     1967—Subsec. (a). [Pub. L. 90–225][/us/pl/90/225] inserted “(or, with respect to any portion of an investment credit carryback from a taxable year attributable to a net operating loss carryback from a subsequent taxable year, within a period of 12 months from the end of such subsequent taxable year)” after “within a period of 12 months from the end of such taxable year”.
 
-    1966—Subsec. (a). [Pub. L. 89–721, § 2(a)][/us/pl/89/721/s2/a]–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in [section 46(b) of this title][/us/usc/t26/s46/b] and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
+    1966—Subsec. (a). [Pub. L. 89–721][/us/pl/89/721], § 2(a)–(c), provided in introductory text for a tentative carryback adjustment based on an investment credit carryback as provided for in [section 46(b) of this title][/us/usc/t26/s46/b] and inserted “or unused investment credit” after “the taxable year of the net operating loss”, inserted in par. (1) “or unused investment” after “net operating loss”, and struck out in par. (5) “of such loss” and inserted in lieu thereof “from which the carryback is made”.
 
-    Subsec. (b). [Pub. L. 89–721, § 2(d)][/us/pl/89/721/s2/d], inserted “or unused investment credit” after “net operating loss” in two places.
+    Subsec. (b). [Pub. L. 89–721][/us/pl/89/721], § 2(d), inserted “or unused investment credit” after “net operating loss” in two places.
 
-    Subsec. (c). [Pub. L. 89–721, § 2(d)][/us/pl/89/721/s2/d], (e), inserted “or unused investment credit” after “net operating loss” and “or credit” after “such loss”.
+    Subsec. (c). [Pub. L. 89–721][/us/pl/89/721], § 2(d), (e), inserted “or unused investment credit” after “net operating loss” and “or credit” after “such loss”.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -157,7 +157,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(d)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(d)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 504 of the Economic Recovery Tax Act of 1981 \[[Pub. L. 97–34][/us/pl/97/34], amending [section 1212 of this title][/us/usc/t26/s1212]\].”
 
@@ -169,7 +169,7 @@
 
     Amendment by [section 231(d)(3)(H) of Pub. L. 99–514][/us/pl/99/514/s231/d/3/H] applicable to taxable years beginning after Dec. 31, 1985, see [section 231(g) of Pub. L. 99–514][/us/pl/99/514/s231/g], set out as a note under [section 41 of this title][/us/usc/t26/s41].
 
-    Amendment by [section 1847(b)(10) of Pub. L. 99–514][/us/pl/99/514/s1847/b/10] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1847(b)(10) of Pub. L. 99–514][/us/pl/99/514/s1847/b/10] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -191,7 +191,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title V, § 504(c)][/us/pl/95/600/s504/c], Nov. 6, 1978, [92 Stat. 2881][/us/stat/92/2881], provided that: 
+[Pub. L. 95–600, title V][/us/pl/95/600/tV], § 504(c), Nov. 6, 1978, [92 Stat. 2881][/us/stat/92/2881], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6213 and 6501 of this title\] shall apply to tentative refund claims filed on and after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
@@ -213,7 +213,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–721, § 2(g)][/us/pl/89/721/s2/g], Nov. 2, 1966, [80 Stat. 1150][/us/stat/80/1150], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 89–721][/us/pl/89/721], § 2(g), Nov. 2, 1966, [80 Stat. 1150][/us/stat/80/1150], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6501 of this title][/us/usc/t26/s6501]\] shall apply with respect to taxable years ending after December 31, 1961, but only in the case of applications filed after the date of the enactment of this Act \[Nov. 2, 1966\]. The period of 12 months referred to in the second sentence of section 6411(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this section) for filing an application for a tentative carryback adjustment of tax attributable to the carryback of any unused investment credit shall not expire before the close of December 31, 1966.”
 
@@ -230,73 +230,73 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F794
-[/us/pl/89/721/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721%2Fs2%2Fa
+[/us/pl/89/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721
 [/us/stat/80/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1150
-[/us/pl/90/225/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F225%2Fs2%2Fb
+[/us/pl/90/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F225
 [/us/stat/81/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F731
-[/us/pl/91/172/s512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Fd
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F639
-[/us/pl/92/178/s601/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs601%2Fe%2F1
+[/us/pl/92/178/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVI
 [/us/stat/85/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F560
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/30/s202/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F5%2FA
+[/us/pl/95/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtII
 [/us/stat/91/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F150
-[/us/pl/95/600/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs504%2Fa
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2880
-[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F211
-[/us/pl/97/34/s221/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F2%2FB
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F247
-[/us/pl/98/369/s474/r/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F37
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F846
-[/us/pl/99/514/s231/d/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FH
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2180
-[/us/pl/100/647/s1002/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fh%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3370
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/135/s409/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs409%2Fa%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2635
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s231/d/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FH
-[/us/pl/99/514/s1847/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1847%2Fb%2F10
-[/us/pl/99/514/s231/d/3/H/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fd%2F3%2FH%2Fiv
-[/us/pl/98/369/s474/r/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F37%2FA
-[/us/pl/98/369/s714/n/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fn%2F2%2FB
-[/us/pl/98/369/s474/r/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F37%2FA
-[/us/pl/98/369/s474/r/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F37%2FB
-[/us/pl/97/34/s331/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F2%2FB
-[/us/pl/97/34/s221/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F2%2FB
-[/us/pl/97/34/s331/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F2%2FB%2Fi
-[/us/pl/97/34/s221/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F2%2FB%2Fi
-[/us/pl/97/34/s331/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F2%2FB%2Fi
-[/us/pl/97/34/s221/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F2%2FB%2Fi
-[/us/pl/96/222/s103/a/6/G/xiii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F6%2FG%2Fxiii
-[/us/pl/96/222/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F2
-[/us/pl/95/600/s504/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs504%2Fb%2F1%2FA
-[/us/pl/95/600/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs504%2Fa
-[/us/pl/95/30/s202/d/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F5%2FA%2Fi
-[/us/pl/95/30/s202/d/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F5%2FA%2Fi
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/92/178/s601/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs601%2Fe%2F1%2FA
-[/us/pl/92/178/s601/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs601%2Fe%2F1%2FB
-[/us/pl/91/172/s512/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Fd%2F1
-[/us/pl/91/172/s512/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Fd%2F2
-[/us/pl/91/172/s512/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Fd%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
+[/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/90/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F225
-[/us/pl/89/721/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721%2Fs2%2Fa
+[/us/pl/89/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721
 [/us/usc/t26/s46/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46%2Fb
-[/us/pl/89/721/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721%2Fs2%2Fd
-[/us/pl/89/721/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721%2Fs2%2Fd
+[/us/pl/89/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721
+[/us/pl/89/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/109/135/s409/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs409%2Fd
 [/us/usc/t26/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs961
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t26/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1212
@@ -308,7 +308,7 @@
 [/us/pl/99/514/s231/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs231%2Fg
 [/us/usc/t26/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs41
 [/us/pl/99/514/s1847/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1847%2Fb%2F10
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s474/r/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F37
@@ -332,7 +332,7 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/95/600/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs504%2Fc
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2881
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/95/30/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fe
@@ -346,9 +346,9 @@
 [/us/pl/90/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F225
 [/us/pl/90/225/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F225%2Fs2%2Fg
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
-[/us/pl/89/721/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721%2Fs2%2Fg
+[/us/pl/89/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F721
 [/us/stat/80/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1150
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6501
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

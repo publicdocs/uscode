@@ -37,7 +37,7 @@
 
         For the disposition of the proceeds of all taxes collected under the internal revenue laws of the United States on articles produced in Guam and transported into the United States or its possessions, or consumed in Guam, see the Act of August 1, 1950 ([48 U.S.C. 1421h][/us/usc/t48/s1421h]).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736] [68A Stat. 908][/us/stat/68A/908]; [Pub. L. 86–70, § 22(f)][/us/pl/86/70/s22/f], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624, § 18(h)][/us/pl/86/624/s18/h], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 94–455, title XIX, § 1906(a)(56)][/us/pl/94/455/s1906/a/56], Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736] [68A Stat. 908][/us/stat/68A/908]; [Pub. L. 86–70][/us/pl/86/70], § 22(f), June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–624][/us/pl/86/624], § 18(h), July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(56), Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832].)
 
  __References in Text__ 
 
@@ -69,11 +69,11 @@
 [/us/usc/t48/s1421h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421h
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F908
-[/us/pl/86/70/s22/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs22%2Ff
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
-[/us/pl/86/624/s18/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs18%2Fh
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F416
-[/us/pl/94/455/s1906/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F56
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1832
 [/us/act/1950-08-01/ch512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-01%2Fch512
 [/us/stat/64/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F384

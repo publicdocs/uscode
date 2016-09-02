@@ -87,7 +87,7 @@
 
         Subsection (a) shall not apply to a power solely exercisable (without the approval or consent of any other person) by a trustee or trustees, none of whom is the grantor or spouse living with the grantor, to distribute, apportion, or accumulate income to or for a beneficiary or beneficiaries, or to, for, or within a class of beneficiaries, whether or not the conditions of paragraph (6) or (7) of subsection (b) are satisfied, if such power is limited by a reasonably definite external standard which is set forth in the trust instrument. A power does not fall within the powers described in this subsection if any person has a power to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus except where such action is to provide for after-born or after-adopted children.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 227][/us/stat/68A/227]; [Pub. L. 99–514, title XIV, § 1402(b)(1)][/us/pl/99/514/s1402/b/1], Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712]; [Pub. L. 100–647, title I, § 1014(a)(3)][/us/pl/100/647/s1014/a/3], Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559]; [Pub. L. 105–34, title XV, § 1530(c)(6)][/us/pl/105/34/s1530/c/6], Aug. 5, 1997, [111 Stat. 1078][/us/stat/111/1078].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 227][/us/stat/68A/227]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1402(b)(1), Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(a)(3), Nov. 10, 1988, [102 Stat. 3559][/us/stat/102/3559]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1530(c)(6), Aug. 5, 1997, [111 Stat. 1078][/us/stat/111/1078].)
 
  __Amendments__ 
 
@@ -118,11 +118,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F227
-[/us/pl/99/514/s1402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1402%2Fb%2F1
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2712
-[/us/pl/100/647/s1014/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fa%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3559
-[/us/pl/105/34/s1530/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1530%2Fc%2F6
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1078
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

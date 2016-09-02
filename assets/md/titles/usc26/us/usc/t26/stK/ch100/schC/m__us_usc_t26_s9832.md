@@ -185,7 +185,7 @@
 
             (D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2080][/us/stat/110/2080], § 9805; renumbered § 9832, [Pub. L. 105–34, title XV, § 1531(a)(2)][/us/pl/105/34/s1531/a/2], Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081]; amended [Pub. L. 110–233, title I, § 103(d)][/us/pl/110/233/s103/d], May 21, 2008, [122 Stat. 898][/us/stat/122/898].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2080][/us/stat/110/2080], § 9805; renumbered § 9832, [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(a)(2), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081]; amended [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(d), May 21, 2008, [122 Stat. 898][/us/stat/122/898].)
 
  __References in Text__ 
 
@@ -216,11 +216,11 @@
 
 [/us/usc/t42/s300e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300e%2Fa
 [/us/usc/t29/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1161
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2080
-[/us/pl/105/34/s1531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fa%2F2
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1081
-[/us/pl/110/233/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fd
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F898
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F832

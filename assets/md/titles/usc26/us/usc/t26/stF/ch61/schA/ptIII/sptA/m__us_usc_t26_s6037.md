@@ -71,7 +71,7 @@
 
             For addition to tax in the case of a shareholder’s negligence in connection with, or disregard of, the requirements of this section, see part II of subchapter A of chapter 68.
 
-(Added [Pub. L. 85–866, title I, § 64(c)][/us/pl/85/866/s64/c], Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; amended [Pub. L. 94–455, title XIX, § 1906(a)(3)][/us/pl/94/455/s1906/a/3], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824], 1834; [Pub. L. 97–354, § 5(a)(39)(A)][/us/pl/97/354/s5/a/39/A], Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 98–369, div. A, title VII, § 714(q)(2)][/us/pl/98/369/s714/q/2], July 18, 1984, [98 Stat. 965][/us/stat/98/965]; [Pub. L. 104–188, title I, § 1307(c)(2)][/us/pl/104/188/s1307/c/2], Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781].)
+(Added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 64(c), Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(3), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824], 1834; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(39)(A), Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(q)(2), July 18, 1984, [98 Stat. 965][/us/stat/98/965]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1307(c)(2), Aug. 20, 1996, [110 Stat. 1781][/us/stat/110/1781].)
 
  __Prior Provisions__ 
 
@@ -110,15 +110,15 @@
 ----------
 ----------
 
-[/us/pl/85/866/s64/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1656
-[/us/pl/94/455/s1906/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F3
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1824
-[/us/pl/97/354/s5/a/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F39%2FA
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1696
-[/us/pl/98/369/s714/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fq%2F2
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F965
-[/us/pl/104/188/s1307/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fc%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1781
 [/us/usc/t26/s6040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6040
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

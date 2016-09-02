@@ -33,7 +33,7 @@
 
         owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. Deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I, § 108(c)][/us/pl/89/809/s108/c], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title IV, § 435(b)][/us/pl/91/172/s435/b], Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625]; [Pub. L. 93–17, § 3(a)(1)][/us/pl/93/17/s3/a/1], Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12]; [Pub. L. 93–625, § 9(b)][/us/pl/93/625/s9/b], Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; [Pub. L. 94–455, title XX, § 2001(c)(1)(L)][/us/pl/94/455/s2001/c/1/L], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 100–647, title I, § 1012(q)(11)][/us/pl/100/647/s1012/q/11], Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525]; [Pub. L. 104–188, title I, § 1704(t)(38)][/us/pl/104/188/s1704/t/38], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 111–226, title II, § 217(c)(3)][/us/pl/111/226/s217/c/3], Aug. 10, 2010, [124 Stat. 2402][/us/stat/124/2402]; [Pub. L. 113–295, div. A, title II, § 221(a)(98)][/us/pl/113/295/s221/a/98], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(c), Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 435(b), Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625]; [Pub. L. 93–17][/us/pl/93/17], § 3(a)(1), Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12]; [Pub. L. 93–625][/us/pl/93/625], § 9(b), Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(1)(L), Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(q)(11), Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(38), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 111–226, title II][/us/pl/111/226/tII], § 217(c)(3), Aug. 10, 2010, [124 Stat. 2402][/us/stat/124/2402]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(98), Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __Amendments__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–17, § 3(a)(2)][/us/pl/93/17/s3/a/2], Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12], provided that: 
+[Pub. L. 93–17][/us/pl/93/17], § 3(a)(2), Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1972, except that in the case of the assumption of a debt obligation of a foreign corporation which is treated as issued under section 4912(c)(2) after December 31, 1972, and before January 1, 1974, the amendment made by paragraph (1) \[amending this section\] shall apply with respect to estates of decedents dying after December 31, 1973.”
 
@@ -87,7 +87,7 @@
 
  __Short Title of 1973 Amendment__ 
 
-[Pub. L. 93–17, § 1(a)][/us/pl/93/17/s1/a], Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12], provided that: 
+[Pub. L. 93–17][/us/pl/93/17], § 1(a), Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12], provided that: 
 
 > “This Act \[enacting sections 4922 and 6689 of this title, amending this section and sections 4911, 4912, 4914, 4915, 4916, 4918, 4919, 4920, and 6611 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Interest Equalization Tax Extension Act of 1973’.”
 
@@ -100,23 +100,23 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F397
-[/us/pl/89/809/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fc
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1572
-[/us/pl/91/172/s435/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs435%2Fb
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F625
-[/us/pl/93/17/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17%2Fs3%2Fa%2F1
+[/us/pl/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17
 [/us/stat/87/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F12
-[/us/pl/93/625/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs9%2Fb
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2116
-[/us/pl/94/455/s2001/c/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FL
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1853
-[/us/pl/100/647/s1012/q/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F11
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3525
-[/us/pl/104/188/s1704/t/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F38
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
-[/us/pl/111/226/s217/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs217%2Fc%2F3
+[/us/pl/111/226/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2FtII
 [/us/stat/124/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2402
-[/us/pl/113/295/s221/a/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F98
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
@@ -145,12 +145,12 @@
 [/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/pl/93/625/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs9%2Fc
 [/us/usc/t26/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861
-[/us/pl/93/17/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17%2Fs3%2Fa%2F2
+[/us/pl/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17
 [/us/stat/87/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F12
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/89/809/s108/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fi
 [/us/usc/t26/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2101
-[/us/pl/93/17/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17%2Fs1%2Fa
+[/us/pl/93/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F17
 [/us/stat/87/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F12
 
 

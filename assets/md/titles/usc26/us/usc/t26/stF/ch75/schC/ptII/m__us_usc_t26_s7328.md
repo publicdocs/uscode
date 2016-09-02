@@ -23,11 +23,11 @@
 
     (4) For provisions relating to forfeitures generally in connection with taxes on certain firearms, see chapter 53.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871], § 7329; renumbered § 7328, [Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(i)][/us/pl/94/455/s1904/b/8/H/i], Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871], § 7329; renumbered § 7328, [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(8)(H)(i), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816].)
 
  __Prior Provisions__ 
 
-    A prior section 7328, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871], provided for confiscation of white phosphorus matches exported or attempted to be exported, prior to repeal by [Pub. L. 94–455, § 1904(b)(8)(H)(i)][/us/pl/94/455/s1904/b/8/H/i].
+    A prior section 7328, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871], provided for confiscation of white phosphorus matches exported or attempted to be exported, prior to repeal by [Pub. L. 94–455][/us/pl/94/455], § 1904(b)(8)(H)(i).
 
     A prior section 7329 was renumbered [section 7328 of this title][/us/usc/t26/s7328].
 
@@ -40,11 +40,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F871
-[/us/pl/94/455/s1904/b/8/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F8%2FH%2Fi
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1816
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F871
-[/us/pl/94/455/s1904/b/8/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F8%2FH%2Fi
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s7328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7328
 
 

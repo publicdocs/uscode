@@ -35,7 +35,7 @@
 
         All distilled spirits redistilled on bonded premises subsequent to production gauge shall be treated the same as if such spirits had been originally produced by the redistiller and all provisions of this chapter applicable to the original production of distilled spirits shall be applicable thereto. Any prior obligation as to taxes, liens, and bonds with respect to such distilled spirits shall be extinguished on redistillation. Nothing in this subsection shall be construed as affecting any provision of law relating to the labeling of distilled spirits or as limiting the authority of the Secretary to regulate the marking, branding, or identification of distilled spirits redistilled under this section.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1365][/us/stat/72/1365]; amended [Pub. L. 89–44, title VIII, § 805(d)][/us/pl/89/44/s805/d], (f)(8), (10), June 21, 1965, [79 Stat. 161][/us/stat/79/161], 162; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII, § 807(a)(31)][/us/pl/96/39/s807/a/31], July 26, 1979, [93 Stat. 286][/us/stat/93/286].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1365][/us/stat/72/1365]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(d), (f)(8), (10), June 21, 1965, [79 Stat. 161][/us/stat/79/161], 162; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(31), July 26, 1979, [93 Stat. 286][/us/stat/93/286].)
 
  __Prior Provisions__ 
 
@@ -93,19 +93,19 @@ Provisions similar to those comprising subsecs. (a) and (d) of this section were
 
  __Amendments__ 
 
-    1979—Subsec. (c). [Pub. L. 96–39, § 807(a)(31)(A)][/us/pl/96/39/s807/a/31/A], inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
+    1979—Subsec. (c). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
 
-    Subsec. (e). [Pub. L. 96–39, § 807(a)(31)(B)][/us/pl/96/39/s807/a/31/B], struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
+    Subsec. (e). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(31)(B), struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
 
     1976—Subsecs. (a) to (c), (e). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1965—[Pub. L. 89–44, § 805(f)(8)][/us/pl/89/44/s805/f/8], substituted “spirits, articles, and residues” for “spirits” in section catchline.
+    1965—[Pub. L. 89–44][/us/pl/89/44], § 805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
 
-    Subsec. (c). [Pub. L. 89–44, § 805(d)][/us/pl/89/44/s805/d], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 89–44][/us/pl/89/44], § 805(d), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 89–44, § 805(d)][/us/pl/89/44/s805/d], (f)(10), redesignated subsec. (c) as (d), inserted “, articles, and residues” after “distilled spirits” in heading, and inserted “, or by the redistillation of the articles or residues described in subsection (c),” after “denatured distilled spirits” in text. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 89–44][/us/pl/89/44], § 805(d), (f)(10), redesignated subsec. (c) as (d), inserted “, articles, and residues” after “distilled spirits” in heading, and inserted “, or by the redistillation of the articles or residues described in subsection (c),” after “denatured distilled spirits” in text. Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 89–11, § 805(d)][/us/pl/89/11/s805/d], redesignated former subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 89–11][/us/pl/89/11], § 805(d), redesignated former subsec. (d) as (e).
 
  __Effective Date of 1979 Amendment__ 
 
@@ -122,24 +122,24 @@ Provisions similar to those comprising subsecs. (a) and (d) of this section were
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1365
-[/us/pl/89/44/s805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fd
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39/s807/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F31
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F286
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F635
-[/us/pl/96/39/s807/a/31/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F31%2FA
-[/us/pl/96/39/s807/a/31/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F31%2FB
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/89/44/s805/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Ff%2F8
-[/us/pl/89/44/s805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fd
-[/us/pl/89/44/s805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fd
-[/us/pl/89/11/s805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F11%2Fs805%2Fd
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F11
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001

@@ -89,15 +89,15 @@
 
             The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.
 
-(Added [Pub. L. 96–605, title I, § 102(a)][/us/pl/96/605/s102/a], Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522]; amended [Pub. L. 98–369, div. A, title I, § 94(a)][/us/pl/98/369/s94/a], July 18, 1984, [98 Stat. 614][/us/stat/98/614]; [Pub. L. 108–357, title VIII, § 902(a)][/us/pl/108/357/s902/a], Oct. 22, 2004, [118 Stat. 1651][/us/stat/118/1651]; [Pub. L. 111–240, title II, § 2031(a)][/us/pl/111/240/s2031/a], Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559].)
+(Added [Pub. L. 96–605, title I][/us/pl/96/605/tI], § 102(a), Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 94(a), July 18, 1984, [98 Stat. 614][/us/stat/98/614]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 902(a), Oct. 22, 2004, [118 Stat. 1651][/us/stat/118/1651]; [Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2031(a), Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559].)
 
  __Amendments__ 
 
     2010—Subsec. (b)(3). [Pub. L. 111–240][/us/pl/111/240] added par. (3).
 
-    2004—Subsec. (b). [Pub. L. 108–357, § 902(a)(2)][/us/pl/108/357/s902/a/2], substituted “deduct” for “amortize” in heading.
+    2004—Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 902(a)(2), substituted “deduct” for “amortize” in heading.
 
-    Subsec. (b)(1). [Pub. L. 108–357, § 902(a)(1)][/us/pl/108/357/s902/a/1], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
+    Subsec. (b)(1). [Pub. L. 108–357][/us/pl/108/357], § 902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
@@ -109,25 +109,25 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–240, title II, § 2031(b)][/us/pl/111/240/s2031/b], Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2031(b), Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 902(d)][/us/pl/108/357/s902/d], Oct. 22, 2004, [118 Stat. 1652][/us/stat/118/1652], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 902(d), Oct. 22, 2004, [118 Stat. 1652][/us/stat/118/1652], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 248 and 709 of this title\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 94(c)][/us/pl/98/369/s94/c], July 18, 1984, [98 Stat. 615][/us/stat/98/615], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 94(c), July 18, 1984, [98 Stat. 615][/us/stat/98/615], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after June 30, 1984.”
 
  __Effective Date__ 
 
-[Pub. L. 96–605, title I, § 102(c)][/us/pl/96/605/s102/c], Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522], provided that: 
+[Pub. L. 96–605, title I][/us/pl/96/605/tI], § 102(c), Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.”
 
@@ -138,28 +138,28 @@
 ----------
 ----------
 
-[/us/pl/96/605/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs102%2Fa
+[/us/pl/96/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtI
 [/us/stat/94/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3522
-[/us/pl/98/369/s94/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs94%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F614
-[/us/pl/108/357/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1651
-[/us/pl/111/240/s2031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2031%2Fa
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2559
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
-[/us/pl/108/357/s902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fa%2F2
-[/us/pl/108/357/s902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fa%2F1
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/111/240/s2031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2031%2Fb
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2559
-[/us/pl/108/357/s902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs902%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1652
-[/us/pl/98/369/s94/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs94%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F615
-[/us/pl/96/605/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs102%2Fc
+[/us/pl/96/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtI
 [/us/stat/94/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3522
 
 

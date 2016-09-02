@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t26/stF/ch77/m__us_usc_t26_s7510.md) | [Next](./../../../../..//us/usc/t26/stF/ch77/m__us_usc_t26_s7512.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7511)
 
-## \[§ 7511. Repealed. [Pub. L. 87–456, title III, § 302(d)][/us/pl/87/456/s302/d], May 24, 1962, [76 Stat. 77][/us/stat/76/77]\]
+## \[§ 7511. Repealed. [Pub. L. 87–456, title III][/us/pl/87/456/tIII], § 302(d), May 24, 1962, [76 Stat. 77][/us/stat/76/77]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 900][/us/stat/68A/900], related to exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/456/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs302%2Fd
+[/us/pl/87/456/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2FtIII
 [/us/stat/76/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F77
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F900

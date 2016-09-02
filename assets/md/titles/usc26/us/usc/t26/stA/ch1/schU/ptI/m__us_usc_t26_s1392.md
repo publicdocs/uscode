@@ -113,11 +113,11 @@
 
         A nominated area in Alaska or Hawaii shall be treated as meeting the requirements of paragraphs (2), (3), and (4) of subsection (a) if for each census tract or block group within such area 20 percent or more of the families have income which is 50 percent or less of the statewide median family income (as determined under section 143).
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 545][/us/stat/107/545]; amended [Pub. L. 105–34, title IX, § 954][/us/pl/105/34/s954], Aug. 5, 1997, [111 Stat. 888][/us/stat/111/888].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 545][/us/stat/107/545]; amended [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 954, Aug. 5, 1997, [111 Stat. 888][/us/stat/111/888].)
 
  __Prior Provisions__ 
 
-    A prior section 1392, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2893][/us/stat/92/2893]; amended [Pub. L. 96–222, title I, § 106(a)(5)][/us/pl/96/222/s106/a/5], Apr. 1, 1980, [94 Stat. 221][/us/stat/94/221]; [Pub. L. 96–595, § 3(a)(3)][/us/pl/96/595/s3/a/3], (4), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to election by general stock ownership corporations not to be subject to taxes imposed by this chapter, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
+    A prior section 1392, added [Pub. L. 95–600, title VI][/us/pl/95/600/tVI], § 601(a), Nov. 6, 1978, [92 Stat. 2893][/us/stat/92/2893]; amended [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 106(a)(5), Apr. 1, 1980, [94 Stat. 221][/us/stat/94/221]; [Pub. L. 96–595][/us/pl/96/595], § 3(a)(3), (4), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to election by general stock ownership corporations not to be subject to taxes imposed by this chapter, prior to repeal by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(a), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
 
@@ -130,17 +130,17 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F545
-[/us/pl/105/34/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs954
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F888
-[/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
+[/us/pl/95/600/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVI
 [/us/stat/92/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2893
-[/us/pl/96/222/s106/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs106%2Fa%2F5
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F221
-[/us/pl/96/595/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595%2Fs3%2Fa%2F3
+[/us/pl/96/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595
 [/us/stat/94/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3465
-[/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 

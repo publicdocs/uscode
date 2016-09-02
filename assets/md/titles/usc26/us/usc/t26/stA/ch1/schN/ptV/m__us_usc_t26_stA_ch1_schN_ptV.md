@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title X, § 1064(a)][/us/pl/94/455/s1064/a], Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650], added part heading and analysis of sections.
+    1976—[Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1064(a), Oct. 4, 1976, [90 Stat. 1650][/us/stat/90/1650], added part heading and analysis of sections.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1064/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1064%2Fa
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1650
 
 

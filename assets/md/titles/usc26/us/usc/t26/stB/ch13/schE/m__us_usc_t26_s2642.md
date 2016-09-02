@@ -279,45 +279,45 @@
 
             An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor’s unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2722][/us/stat/100/2722]; amended [Pub. L. 100–647, title I, § 1014(g)(3)(A)][/us/pl/100/647/s1014/g/3/A], (4), (17)(A), (B), (18), Nov. 10, 1988, [102 Stat. 3563][/us/stat/102/3563], 3566, 3567; [Pub. L. 101–239, title VII, § 7811(j)(4)][/us/pl/101/239/s7811/j/4], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], 1388–519; [Pub. L. 107–16, title V][/us/pl/107/16], §§ 562(a), 563(a), (b), 564(a), June 7, 2001, [115 Stat. 89–91][/us/stat/115/89-91].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2722][/us/stat/100/2722]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, [102 Stat. 3563][/us/stat/102/3563], 3566, 3567; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(j)(4), Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], 1388–519; [Pub. L. 107–16, title V][/us/pl/107/16/tV], §§ 562(a), 563(a), (b), 564(a), June 7, 2001, [115 Stat. 89–91][/us/stat/115/89-91].)
 
  __Amendments__ 
 
-    2001—Subsec. (a)(3). [Pub. L. 107–16, § 562(a)][/us/pl/107/16/s562/a], added par. (3).
+    2001—Subsec. (a)(3). [Pub. L. 107–16][/us/pl/107/16], § 562(a), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 107–16, § 563(a)][/us/pl/107/16/s563/a], reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+    Subsec. (b)(1). [Pub. L. 107–16][/us/pl/107/16], § 563(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
 
     “(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
 
     “(B) such allocation shall be effective on and after the date of such transfer.”
 
-    Subsec. (b)(2)(A). [Pub. L. 107–16, § 563(b)][/us/pl/107/16/s563/b], reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
+    Subsec. (b)(2)(A). [Pub. L. 107–16][/us/pl/107/16], § 563(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
 
-    Subsec. (g). [Pub. L. 107–16, § 564(a)][/us/pl/107/16/s564/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–16][/us/pl/107/16], § 564(a), added subsec. (g).
 
-    1990—Subsec. (b)(3). [Pub. L. 101–508, § 11704(a)(36)][/us/pl/101/508/s11704/a/36], amended [Pub. L. 100–647, § 1014(g)(4)(F)(ii)][/us/pl/100/647/s1014/g/4/F/ii]. See 1988 Amendment note below.
+    1990—Subsec. (b)(3). [Pub. L. 101–508][/us/pl/101/508], § 11704(a)(36), amended [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(F)(ii). See 1988 Amendment note below.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 11703(c)(2)][/us/pl/101/508/s11703/c/2], inserted at end: “Rules similar to the rules of section 2652(c)(3) shall apply for purposes of subparagraph (A).”
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 11703(c)(2), inserted at end: “Rules similar to the rules of section 2652(c)(3) shall apply for purposes of subparagraph (A).”
 
-    Subsec. (c)(2)(B). [Pub. L. 101–508, § 11703(c)(1)][/us/pl/101/508/s11703/c/1], substituted “the trust does not terminate before the individual dies” for “such individual dies before the trust is terminated”.
+    Subsec. (c)(2)(B). [Pub. L. 101–508][/us/pl/101/508], § 11703(c)(1), substituted “the trust does not terminate before the individual dies” for “such individual dies before the trust is terminated”.
 
-    Subsec. (d)(2)(B)(i)(I). [Pub. L. 101–508, § 11704(a)(17)][/us/pl/101/508/s11704/a/17], substituted “State” for “state”.
+    Subsec. (d)(2)(B)(i)(I). [Pub. L. 101–508][/us/pl/101/508], § 11704(a)(17), substituted “State” for “state”.
 
     1989—Subsec. (b)(1), (3). [Pub. L. 101–239][/us/pl/101/239] substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–647, § 1014(g)(4)(B)][/us/pl/100/647/s1014/g/4/B], struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
+    1988—Subsec. (a)(2). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
 
-    Subsec. (b). [Pub. L. 100–647, § 1014(g)(4)(D)][/us/pl/100/647/s1014/g/4/D], inserted “Except as provided in subsection (f)—” as introductory provision.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
 
-    Subsec. (b)(2)(A). [Pub. L. 100–647, § 1014(g)(4)(C)][/us/pl/100/647/s1014/g/4/C], inserted before period at end “; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
+    Subsec. (b)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(C), inserted before period at end “; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.”
 
-    Subsec. (b)(2)(B). [Pub. L. 100–647, § 1014(g)(4)(E)][/us/pl/100/647/s1014/g/4/E], substituted “to property transferred at death” for “at or after death” in heading and “to property transferred as a result of the death of the transferor” for “at or after the death of the transferor” in text.
+    Subsec. (b)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(E), substituted “to property transferred at death” for “at or after death” in heading and “to property transferred as a result of the death of the transferor” for “at or after the death of the transferor” in text.
 
-    Subsec. (b)(3). [Pub. L. 100–647, § 1014(g)(4)(F)(ii)][/us/pl/100/647/s1014/g/4/F/ii], as amended by [Pub. L. 101–508, § 11704(a)(36)][/us/pl/101/508/s11704/a/36], substituted “Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
+    Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(F)(ii), as amended by [Pub. L. 101–508][/us/pl/101/508], § 11704(a)(36), substituted “Allocations to inter vivos transfers” for “Inter vivos allocations” in heading.
 
-    [Pub. L. 100–647, § 1014(g)(4)(F)(i)][/us/pl/100/647/s1014/g/4/F/i], substituted “to any property not transferred as a result of the death of the transferor is” for “to any property is made during the life of the transferor but is”.
+    [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(F)(i), substituted “to any property not transferred as a result of the death of the transferor is” for “to any property is made during the life of the transferor but is”.
 
-    Subsec. (c). [Pub. L. 100–647, § 1014(g)(17)(A)][/us/pl/100/647/s1014/g/17/A], inserted “direct skips which are” in heading and amended text generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(17)(A), inserted “direct skips which are” in heading and amended text generally. Prior to amendment, text read as follows:
 
     “(1) Direct skips.—In the case of any direct skip which is a nontaxable gift, the inclusion ratio shall be zero.
 
@@ -333,25 +333,25 @@
 
     “(B) section 2503(e).”
 
-    Subsec. (d)(1). [Pub. L. 100–647, § 1014(g)(17)(B)][/us/pl/100/647/s1014/g/17/B], struck out “(other than a nontaxable gift)” after “transfer of property”.
+    Subsec. (d)(1). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(17)(B), struck out “(other than a nontaxable gift)” after “transfer of property”.
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 100–647, § 1014(g)(18)][/us/pl/100/647/s1014/g/18], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(18), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the value of the property involved in such transfer, reduced by any charitable deduction allowed under section 2055 or 2522 with respect to such property, and”.
 
-    Subsec. (e). [Pub. L. 100–647, § 1014(g)(3)(A)][/us/pl/100/647/s1014/g/3/A], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(3)(A), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 100–647, § 1014(g)(4)(A)][/us/pl/100/647/s1014/g/4/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(4)(A), added subsec. (f).
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–16, title V, § 562(b)][/us/pl/107/16/s562/b], June 7, 2001, [115 Stat. 90][/us/stat/115/90], provided that: 
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 562(b), June 7, 2001, [115 Stat. 90][/us/stat/115/90], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to severances after December 31, 2000.”
 
-[Pub. L. 107–16, title V, § 563(c)][/us/pl/107/16/s563/c], June 7, 2001, [115 Stat. 91][/us/stat/115/91], provided that: 
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 563(c), June 7, 2001, [115 Stat. 91][/us/stat/115/91], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000.”
 
-[Pub. L. 107–16, title V, § 564(b)][/us/pl/107/16/s564/b], June 7, 2001, [115 Stat. 91][/us/stat/115/91], provided that:
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 564(b), June 7, 2001, [115 Stat. 91][/us/stat/115/91], provided that:
 
 >     “(1)  __Relief from late elections__  __.—__ 
 
@@ -363,7 +363,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11703(c)(4)][/us/pl/101/508/s11703/c/4], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11703(c)(4), Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to transfers after March 31, 1988.”
 
@@ -373,11 +373,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1014(g)(3)(B)][/us/pl/100/647/s1014/g/3/B], Nov. 10, 1988, [102 Stat. 3563][/us/stat/102/3563], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(3)(B), Nov. 10, 1988, [102 Stat. 3563][/us/stat/102/3563], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply for purposes of determining the inclusion ratio with respect to property transferred after October 13, 1987.”
 
-[Pub. L. 100–647, title I, § 1014(g)(17)(C)][/us/pl/100/647/s1014/g/17/C], Nov. 10, 1988, [102 Stat. 3567][/us/stat/102/3567], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(17)(C), Nov. 10, 1988, [102 Stat. 3567][/us/stat/102/3567], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall apply to transfers after March 31, 1988.”
 
@@ -394,53 +394,53 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2722
-[/us/pl/100/647/s1014/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F3%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3563
-[/us/pl/101/239/s7811/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fj%2F4
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2411
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-517
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/89-91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F89-91
-[/us/pl/107/16/s562/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs562%2Fa
-[/us/pl/107/16/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs563%2Fa
-[/us/pl/107/16/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs563%2Fb
-[/us/pl/107/16/s564/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs564%2Fa
-[/us/pl/101/508/s11704/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F36
-[/us/pl/100/647/s1014/g/4/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FF%2Fii
-[/us/pl/101/508/s11703/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fc%2F2
-[/us/pl/101/508/s11703/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fc%2F1
-[/us/pl/101/508/s11704/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F17
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1014/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FB
-[/us/pl/100/647/s1014/g/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FD
-[/us/pl/100/647/s1014/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FC
-[/us/pl/100/647/s1014/g/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FE
-[/us/pl/100/647/s1014/g/4/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FF%2Fii
-[/us/pl/101/508/s11704/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F36
-[/us/pl/100/647/s1014/g/4/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FF%2Fi
-[/us/pl/100/647/s1014/g/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F17%2FA
-[/us/pl/100/647/s1014/g/17/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F17%2FB
-[/us/pl/100/647/s1014/g/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F18
-[/us/pl/100/647/s1014/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F3%2FA
-[/us/pl/100/647/s1014/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F4%2FA
-[/us/pl/107/16/s562/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs562%2Fb
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F90
-[/us/pl/107/16/s563/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs563%2Fc
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F91
-[/us/pl/107/16/s564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs564%2Fb
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F91
-[/us/pl/101/508/s11703/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fc%2F4
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-517
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s1014/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F3%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3563
-[/us/pl/100/647/s1014/g/17/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F17%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3567
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

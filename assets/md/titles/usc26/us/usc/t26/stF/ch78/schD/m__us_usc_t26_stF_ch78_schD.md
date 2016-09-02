@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XII, § 1276(b)][/us/pl/99/514/s1276/b], Oct. 22, 1986, [100 Stat. 2600][/us/stat/100/2600], substituted “certain possession” for “Guam” in item 7654.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1276(b), Oct. 22, 1986, [100 Stat. 2600][/us/stat/100/2600], substituted “certain possession” for “Guam” in item 7654.
 
-    1972—[Pub. L. 92–606, § 1(f)(6)][/us/pl/92/606/s1/f/6], Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497], substituted “Coordination of United States and Guam individual income taxes” for “Payment to Guam and American Samoa of proceeds of tax on coconut and palm oil” in item 7654.
+    1972—[Pub. L. 92–606][/us/pl/92/606], § 1(f)(6), Oct. 31, 1972, [86 Stat. 1497][/us/stat/86/1497], substituted “Coordination of United States and Guam individual income taxes” for “Payment to Guam and American Samoa of proceeds of tax on coconut and palm oil” in item 7654.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1276/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1276%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2600
-[/us/pl/92/606/s1/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606%2Fs1%2Ff%2F6
+[/us/pl/92/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F606
 [/us/stat/86/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1497
 
 

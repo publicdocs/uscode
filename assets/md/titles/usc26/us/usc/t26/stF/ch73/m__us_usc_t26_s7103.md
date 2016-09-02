@@ -43,7 +43,7 @@
 
         (2) For bonds relating to alcohol and tobacco taxes, see generally subtitle E.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 847][/us/stat/68A/847]; [Pub. L. 89–44, title VIII, § 802(b)(3)][/us/pl/89/44/s802/b/3], June 21, 1965, [79 Stat. 159][/us/stat/79/159]; [Pub. L. 91–513, title III, § 1102(e)][/us/pl/91/513/s1102/e], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 92–310, title II, § 230(c)][/us/pl/92/310/s230/c], June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 93–490, § 3(b)(7)][/us/pl/93/490/s3/b/7], Oct. 26, 1974, [88 Stat. 1467][/us/stat/88/1467]; [Pub. L. 94–455, title XII, § 1204(c)(10)][/us/pl/94/455/s1204/c/10], title XIX, § 1906(a)(40), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], 1830, 1834; [Pub. L. 95–628, § 9(b)(2)][/us/pl/95/628/s9/b/2], Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 99–514, title XV, § 1566(c)][/us/pl/99/514/s1566/c], Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 847][/us/stat/68A/847]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 802(b)(3), June 21, 1965, [79 Stat. 159][/us/stat/79/159]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(e), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 92–310, title II][/us/pl/92/310/tII], § 230(c), June 6, 1972, [86 Stat. 209][/us/stat/86/209]; [Pub. L. 93–490][/us/pl/93/490], § 3(b)(7), Oct. 26, 1974, [88 Stat. 1467][/us/stat/88/1467]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(c)(10), title XIX, § 1906(a)(40), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], 1830, 1834; [Pub. L. 95–628][/us/pl/95/628], § 9(b)(2), Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1566(c), Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 
     1978—Subsec. (a)(4). [Pub. L. 95–628][/us/pl/95/628] added par. (4).
 
-    1976—Subsec. (a)(4). [Pub. L. 94–455, § 1204(c)(10)][/us/pl/94/455/s1204/c/10], struck out par. (4) which made reference to section 6851(e) as covering the furnishing of bond where a taxable years is closed by the Secretary or his delegate.
+    1976—Subsec. (a)(4). [Pub. L. 94–455][/us/pl/94/455], § 1204(c)(10), struck out par. (4) which made reference to section 6851(e) as covering the furnishing of bond where a taxable years is closed by the Secretary or his delegate.
 
-    Subsec. (b)(1). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b)(1). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(a)(40)][/us/pl/94/455/s1906/a/40], struck out subsec. (d) which made cross references to provisions covering bonds required with respect to articles taxable under chapter B of chapter 37 processed for exportation without payment of tax, oleomargarine removed from the place of manufacture for exportation to a foreign country, and the manufacture of oleomargarine, process, renovated, or adulterated butter, and white phosphorus matches.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(40), struck out subsec. (d) which made cross references to provisions covering bonds required with respect to articles taxable under chapter B of chapter 37 processed for exportation without payment of tax, oleomargarine removed from the place of manufacture for exportation to a foreign country, and the manufacture of oleomargarine, process, renovated, or adulterated butter, and white phosphorus matches.
 
     1974—Subsec. (d)(3)(C). [Pub. L. 93–490][/us/pl/93/490] struck out subpar. (C) relating to manufacturers of filled cheese and which made reference to section 4833(c).
 
@@ -102,25 +102,25 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F847
-[/us/pl/89/44/s802/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs802%2Fb%2F3
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F159
-[/us/pl/91/513/s1102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fe
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/92/310/s230/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2Fs230%2Fc
+[/us/pl/92/310/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310%2FtII
 [/us/stat/86/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F209
-[/us/pl/93/490/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490%2Fs3%2Fb%2F7
+[/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/stat/88/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1467
-[/us/pl/94/455/s1204/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F10
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1699
-[/us/pl/95/628/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628%2Fs9%2Fb%2F2
+[/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
 [/us/stat/92/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3633
-[/us/pl/99/514/s1566/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1566%2Fc
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2763
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
-[/us/pl/94/455/s1204/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F10
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F40
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/pl/92/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F310
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

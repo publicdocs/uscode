@@ -17,11 +17,11 @@
 
     Except as otherwise provided in this subchapter, the tax treatment of any partnership item (and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item) shall be determined at the partnership level.
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 648][/us/stat/96/648]; amended [Pub. L. 105–34, title XII, § 1238(a)][/us/pl/105/34/s1238/a], Aug. 5, 1997, [111 Stat. 1026][/us/stat/111/1026].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 648][/us/stat/96/648]; amended [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1238(a), Aug. 5, 1997, [111 Stat. 1026][/us/stat/111/1026].)
 
  __Enactment of Part and Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part I heading “In General” and analysis consisting of items 6221 to 6223 are enacted, this section is repealed, and a new section 6221 following the Part I analysis is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part I heading “In General” and analysis consisting of items 6221 to 6223 are enacted, this section is repealed, and a new section 6221 following the Part I analysis is enacted to read as follows:
 
 >     § 6221. Determination at partnership level
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–74, title XI, § 1101(g)][/us/pl/114/74/s1101/g], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -93,13 +93,13 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1238(c)][/us/pl/105/34/s1238/c], Aug. 5, 1997, [111 Stat. 1027][/us/stat/111/1027], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1238(c), Aug. 5, 1997, [111 Stat. 1027][/us/stat/111/1027], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6226 and 6230 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title IV, § 407(a)][/us/pl/97/248/s407/a], Sept. 3, 1982, [96 Stat. 670][/us/stat/96/670], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 407(a), Sept. 3, 1982, [96 Stat. 670][/us/stat/96/670], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by sections 402, 403, and 404 \[enacting this subchapter and [section 1508 of Title 28][/us/usc/t28/s1508], Judiciary and Judicial Procedure, amending sections 702, 6031, 6213, 6216, 6422, 6501, 6504, 6511, 6512, 6515, 7422, 7451, 7456, 7459, 7482, and 7485 of this title and [section 1346 of Title 28][/us/usc/t28/s1346], and enacting provisions set out as a note under [section 6031 of this title][/us/usc/t26/s6031]\] shall apply to partnership taxable years beginning after the date of the enactment of this Act \[Sept. 3, 1982\].
 
@@ -118,20 +118,20 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F648
-[/us/pl/105/34/s1238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1026
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
-[/us/pl/105/34/s1238/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1238%2Fc
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1027
-[/us/pl/97/248/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs407%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F670
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t28/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1508
 [/us/usc/t28/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346

@@ -25,7 +25,7 @@
 
         (2) For provisions requiring notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1355][/us/stat/72/1355]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 98–369, div. A, title IV, § 451(b)(1)][/us/pl/98/369/s451/b/1], July 18, 1984, [98 Stat. 819][/us/stat/98/819].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1355][/us/stat/72/1355]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823], 1834; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 451(b)(1), July 18, 1984, [98 Stat. 819][/us/stat/98/819].)
 
  __Prior Provisions__ 
 
@@ -37,9 +37,9 @@
 
     1984—Subsec. (b)(2). [Pub. L. 98–369][/us/pl/98/369] substituted “notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)” for “permit to set up a still, boiler or other vessel for distilling, see section 5105”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(1). [Pub. L. 94–455, § 1905(b)(6)(C)][/us/pl/94/455/s1905/b/6/C], struck out “, 5601(b)(1),” after “5601(a)(1)”.
+    Subsec. (b)(1). [Pub. L. 94–455][/us/pl/94/455], § 1905(b)(6)(C), struck out “, 5601(b)(1),” after “5601(a)(1)”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1355
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/98/369/s451/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs451%2Fb%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F819
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F631
@@ -69,8 +69,8 @@
 [/us/stat/68A/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F630
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1905/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F6%2FC
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s456/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs456%2Fa
 [/us/usc/t26/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5101

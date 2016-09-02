@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title VI, § 6301(e)(2)(B)(i)][/us/pl/111/148/s6301/e/2/B/i], Mar. 23, 2010, [124 Stat. 746][/us/stat/124/746], added subchapter heading.
+    2010—[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(e)(2)(B)(i), Mar. 23, 2010, [124 Stat. 746][/us/stat/124/746], added subchapter heading.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s6301/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fe%2F2%2FB%2Fi
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F746
 
 

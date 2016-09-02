@@ -37,7 +37,7 @@
 
         Any term used in this section which is used in section 101(j) shall have the same meaning given such term by section 101(j).
 
-(Added [Pub. L. 109–280, title VIII, § 863(b)][/us/pl/109/280/s863/b], Aug. 17, 2006, [120 Stat. 1023][/us/stat/120/1023].)
+(Added [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 863(b), Aug. 17, 2006, [120 Stat. 1023][/us/stat/120/1023].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs863%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1023
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1035

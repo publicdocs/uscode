@@ -95,7 +95,7 @@
 
             No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 489][/us/stat/68A/489]; [Pub. L. 89–44, title II, § 205(a)][/us/pl/89/44/s205/a], June 21, 1965, [79 Stat. 140][/us/stat/79/140]; [Pub. L. 92–558, title II, § 201(a)][/us/pl/92/558/s201/a], Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369], §§ 1015(a), 1017(a), (b), July 18, 1984, [98 Stat. 1017][/us/stat/98/1017], 1021; [Pub. L. 99–514, title XVIII, § 1899A(48)][/us/pl/99/514/s1899A/48], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 105–34, title XIV, § 1433(a)][/us/pl/105/34/s1433/a], Aug. 5, 1997, [111 Stat. 1051][/us/stat/111/1051]; [Pub. L. 108–357, title III][/us/pl/108/357], §§ 332(a)–(c), 333(a), Oct. 22, 2004, [118 Stat. 1477][/us/stat/118/1477], 1478; [Pub. L. 108–493, § 1(a)][/us/pl/108/493/s1/a]–(c), Dec. 23, 2004, [118 Stat. 3984][/us/stat/118/3984]; [Pub. L. 109–59, title XI, § 11117(a)][/us/pl/109/59/s11117/a], (b), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951]; [Pub. L. 109–135, title IV, § 412(uu)][/us/pl/109/135/s412/uu], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–343, div. C, title V, § 503(a)][/us/pl/110/343/s503/a], Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 489][/us/stat/68A/489]; [Pub. L. 89–44, title II][/us/pl/89/44/tII], § 205(a), June 21, 1965, [79 Stat. 140][/us/stat/79/140]; [Pub. L. 92–558, title II][/us/pl/92/558/tII], § 201(a), Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], §§ 1015(a), 1017(a), (b), July 18, 1984, [98 Stat. 1017][/us/stat/98/1017], 1021; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(48), Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1433(a), Aug. 5, 1997, [111 Stat. 1051][/us/stat/111/1051]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], §§ 332(a)–(c), 333(a), Oct. 22, 2004, [118 Stat. 1477][/us/stat/118/1477], 1478; [Pub. L. 108–493][/us/pl/108/493], § 1(a)–(c), Dec. 23, 2004, [118 Stat. 3984][/us/stat/118/3984]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11117(a), (b), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(uu), Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 503(a), Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -105,7 +105,7 @@
 
     2008—Subsec. (b)(2)(B), (C). [Pub. L. 110–343][/us/pl/110/343] added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    2005—Subsec. (a)(1). [Pub. L. 109–59, § 11117(a)][/us/pl/109/59/s11117/a], reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
+    2005—Subsec. (a)(1). [Pub. L. 109–59][/us/pl/109/59], § 11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
 
     Subsec. (a)(2). [Pub. L. 109–135][/us/pl/109/135] amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
 
@@ -113,69 +113,69 @@
 
     “(B) $30 limitation on tax imposed on sonar devices suitable for finding fish.—The tax imposed by paragraph (1)(A) on any sonar device suitable for finding fish shall not exceed $30.”
 
-    [Pub. L. 109–59, § 11117(b)][/us/pl/109/59/s11117/b], substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
+    [Pub. L. 109–59][/us/pl/109/59], § 11117(b), substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
 
-    2004—Subsec. (a)(3), (4). [Pub. L. 108–357, § 333(a)][/us/pl/108/357/s333/a], added par. (3) and redesignated former par. (3) as (4).
+    2004—Subsec. (a)(3), (4). [Pub. L. 108–357][/us/pl/108/357], § 333(a), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b)(1). [Pub. L. 108–357, § 332(a)][/us/pl/108/357/s332/a], reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
+    Subsec. (b)(1). [Pub. L. 108–357][/us/pl/108/357], § 332(a), reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
 
-    Subsec. (b)(1)(B)(ii). [Pub. L. 108–493, § 1(c)][/us/pl/108/493/s1/c], substituted “quiver, broadhead, or point” for “quiver or broadhead”.
+    Subsec. (b)(1)(B)(ii). [Pub. L. 108–493][/us/pl/108/493], § 1(c), substituted “quiver, broadhead, or point” for “quiver or broadhead”.
 
-    Subsec. (b)(2). [Pub. L. 108–493, § 1(b)][/us/pl/108/493/s1/b], amended heading and text of par. (2) generally, substituting provisions relating to arrows for provisions relating to arrow components.
+    Subsec. (b)(2). [Pub. L. 108–493][/us/pl/108/493], § 1(b), amended heading and text of par. (2) generally, substituting provisions relating to arrows for provisions relating to arrow components.
 
-    [Pub. L. 108–357, § 332(c)][/us/pl/108/357/s332/c], substituted “Arrow components” for “Arrows” in heading and inserted “(other than broadheads)” after “point” in introductory provisions.
+    [Pub. L. 108–357][/us/pl/108/357], § 332(c), substituted “Arrow components” for “Arrows” in heading and inserted “(other than broadheads)” after “point” in introductory provisions.
 
-    Subsec. (b)(3), (4). [Pub. L. 108–493, § 1(a)][/us/pl/108/493/s1/a], repealed [Pub. L. 108–357, § 332(b)][/us/pl/108/357/s332/b]. See note below.
+    Subsec. (b)(3), (4). [Pub. L. 108–493][/us/pl/108/493], § 1(a), repealed [Pub. L. 108–357][/us/pl/108/357], § 332(b). See note below.
 
-    [Pub. L. 108–357, § 332(b)][/us/pl/108/357/s332/b], which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by [Pub. L. 108–493, § 1(a)][/us/pl/108/493/s1/a]. See Construction of 2004 Amendment note below.
+    [Pub. L. 108–357][/us/pl/108/357], § 332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by [Pub. L. 108–493][/us/pl/108/493], § 1(a). See Construction of 2004 Amendment note below.
 
     1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
     1986—Subsec. (b)(1)(B)(ii). [Pub. L. 99–514][/us/pl/99/514] substituted a comma for the period at end.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 1015(a)][/us/pl/98/369/s1015/a], in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted “any article of sport fishing equipment by the manufacturer, producer, or importer” for “fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer”, and added pars. (2) and (3).
 
-    Subsec. (b)(1)(B). [Pub. L. 98–369, § 1017(a)][/us/pl/98/369/s1017/a], designated existing provisions as cl. (i) and added cl. (ii).
+    Subsec. (b)(1)(B). [Pub. L. 98–369][/us/pl/98/369], § 1017(a), designated existing provisions as cl. (i) and added cl. (ii).
 
-    Subsec. (b)(2)(A). [Pub. L. 98–369, § 1017(b)(2)][/us/pl/98/369/s1017/b/2], struck out “(other than a fishing reel)” after “part or accessory”.
+    Subsec. (b)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 1017(b)(2), struck out “(other than a fishing reel)” after “part or accessory”.
 
-    Subsec. (b)(3). [Pub. L. 98–369, § 1017(b)(1)][/us/pl/98/369/s1017/b/1], added par. (3).
+    Subsec. (b)(3). [Pub. L. 98–369][/us/pl/98/369], § 1017(b)(1), added par. (3).
 
-    1972—Subsec. (a). [Pub. L. 92–558, § 201(a)(1)][/us/pl/92/558/s201/a/1], designated existing provisions as subsec. (a) and inserted catchline.
+    1972—Subsec. (a). [Pub. L. 92–558][/us/pl/92/558], § 201(a)(1), designated existing provisions as subsec. (a) and inserted catchline.
 
-    Subsec. (b). [Pub. L. 92–558, § 201(a)(2)][/us/pl/92/558/s201/a/2], added subsec. (b).
+    Subsec. (b). [Pub. L. 92–558][/us/pl/92/558], § 201(a)(2), added subsec. (b).
 
     1965—[Pub. L. 89–44][/us/pl/89/44] removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title V, § 503(b)][/us/pl/110/343/s503/b], Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877], provided that: 
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 503(b), Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to shafts first sold after the date of enactment of this Act \[Oct. 3, 2008\].”
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title XI, § 11117(c)][/us/pl/109/59/s11117/c], Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], provided that: 
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11117(c), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.”
 
  __Effective Date of 2004 Amendments__ 
 
-[Pub. L. 108–493, § 1(d)][/us/pl/108/493/s1/d], Dec. 23, 2004, [118 Stat. 3985][/us/stat/118/3985], provided that: 
+[Pub. L. 108–493][/us/pl/108/493], § 1(d), Dec. 23, 2004, [118 Stat. 3985][/us/stat/118/3985], provided that: 
 
 > “The amendments made by subsections (b) and (c) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after March 31, 2005.”
 
-[Pub. L. 108–357, title III, § 332(d)][/us/pl/108/357/s332/d], Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 332(d), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after the date which is 30 days after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
-[Pub. L. 108–357, title III, § 333(b)][/us/pl/108/357/s333/b], Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 333(b), Oct. 22, 2004, [118 Stat. 1478][/us/stat/118/1478], provided that: 
 
 > “The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1433(b)][/us/pl/105/34/s1433/b], Aug. 5, 1997, [111 Stat. 1052][/us/stat/111/1052], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1433(b), Aug. 5, 1997, [111 Stat. 1052][/us/stat/111/1052], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 1997.”
 
@@ -183,19 +183,19 @@
 
     Amendment by [section 1015(a) of Pub. L. 98–369][/us/pl/98/369/s1015/a] applicable with respect to articles sold by the manufacturer, producer, or importer after Sept. 30, 1984, see [section 1015(e) of Pub. L. 98–369][/us/pl/98/369/s1015/e], set out as an Effective Date note under [section 4162 of this title][/us/usc/t26/s4162].
 
-[Pub. L. 98–369, div. A, title X, § 1017(c)][/us/pl/98/369/s1017/c], July 18, 1984, [98 Stat. 1021][/us/stat/98/1021], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1017(c), July 18, 1984, [98 Stat. 1021][/us/stat/98/1021], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after September 30, 1984.”
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–558, title II, § 201(b)][/us/pl/92/558/s201/b], Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173], as amended by [Pub. L. 93–313][/us/pl/93/313], June 8, 1974, [88 Stat. 238][/us/stat/88/238], provided that: 
+[Pub. L. 92–558, title II][/us/pl/92/558/tII], § 201(b), Oct. 25, 1972, [86 Stat. 1173][/us/stat/86/1173], as amended by [Pub. L. 93–313][/us/pl/93/313], June 8, 1974, [88 Stat. 238][/us/stat/88/238], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer thereof on or after January 1, 1975.”
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–44, title VII, § 701(a)][/us/pl/89/44/s701/a], June 21, 1965, [79 Stat. 155][/us/stat/79/155], provided that:
+[Pub. L. 89–44, title VII][/us/pl/89/44/tVII], § 701(a), June 21, 1965, [79 Stat. 155][/us/stat/79/155], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -225,7 +225,7 @@
 
  __Construction of 2004 Amendment__ 
 
-[Pub. L. 108–493, § 1(a)][/us/pl/108/493/s1/a], Dec. 23, 2004, [118 Stat. 3984][/us/stat/118/3984], provided that: 
+[Pub. L. 108–493][/us/pl/108/493], § 1(a), Dec. 23, 2004, [118 Stat. 3984][/us/stat/118/3984], provided that: 
 
 > “Subsection (b) of section 332 of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\], and the amendments made by such subsection \[amending this section\], are hereby repealed; and the Internal Revenue Code of 1986 shall be applied as if such subsection and amendments had never been enacted.”
 
@@ -238,71 +238,71 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F489
-[/us/pl/89/44/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs205%2Fa
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F140
-[/us/pl/92/558/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs201%2Fa
+[/us/pl/92/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2FtII
 [/us/stat/86/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1173
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1017
-[/us/pl/99/514/s1899A/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F48
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2961
-[/us/pl/105/34/s1433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1433%2Fa
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1051
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1477
-[/us/pl/108/493/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fa
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
 [/us/stat/118/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3984
-[/us/pl/109/59/s11117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11117%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1951
-[/us/pl/109/135/s412/uu]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fuu
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
-[/us/pl/110/343/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs503%2Fa
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3877
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/109/59/s11117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11117%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/109/59/s11117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11117%2Fb
-[/us/pl/108/357/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs333%2Fa
-[/us/pl/108/357/s332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs332%2Fa
-[/us/pl/108/493/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fc
-[/us/pl/108/493/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fb
-[/us/pl/108/357/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs332%2Fc
-[/us/pl/108/493/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fa
-[/us/pl/108/357/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs332%2Fb
-[/us/pl/108/357/s332/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs332%2Fb
-[/us/pl/108/493/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fa
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fa
-[/us/pl/98/369/s1017/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1017%2Fa
-[/us/pl/98/369/s1017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1017%2Fb%2F2
-[/us/pl/98/369/s1017/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1017%2Fb%2F1
-[/us/pl/92/558/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs201%2Fa%2F1
-[/us/pl/92/558/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs201%2Fa%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/92/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558
+[/us/pl/92/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
-[/us/pl/110/343/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs503%2Fb
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3877
-[/us/pl/109/59/s11117/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11117%2Fc
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1951
-[/us/pl/108/493/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fd
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
 [/us/stat/118/3985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3985
-[/us/pl/108/357/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs332%2Fd
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1478
-[/us/pl/108/357/s333/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs333%2Fb
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1478
-[/us/pl/105/34/s1433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1433%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1052
 [/us/pl/98/369/s1015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fa
 [/us/pl/98/369/s1015/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fe
 [/us/usc/t26/s4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4162
-[/us/pl/98/369/s1017/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1017%2Fc
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1021
-[/us/pl/92/558/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2Fs201%2Fb
+[/us/pl/92/558/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F558%2FtII
 [/us/stat/86/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1173
 [/us/pl/93/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F313
 [/us/stat/88/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F238
-[/us/pl/89/44/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs701%2Fa
+[/us/pl/89/44/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVII
 [/us/stat/79/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F155
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
 [/us/usc/t26/s4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4061
@@ -310,7 +310,7 @@
 [/us/usc/t26/s6424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6424
 [/us/usc/t26/s6412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6412
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
-[/us/pl/108/493/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493%2Fs1%2Fa
+[/us/pl/108/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F493
 [/us/stat/118/3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3984
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 

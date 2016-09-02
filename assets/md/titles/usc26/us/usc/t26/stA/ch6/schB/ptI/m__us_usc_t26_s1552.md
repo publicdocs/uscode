@@ -31,7 +31,7 @@
 
         If no election is made in such first return, the tax liability shall be allocated among the several members of the group pursuant to the method prescribed in subsection (a)(1).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 371][/us/stat/68A/371]; [Pub. L. 88–272, title II, § 234(b)(8)][/us/pl/88/272/s234/b/8], Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1790][/us/stat/90/1790], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 371][/us/stat/68A/371]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 234(b)(8), Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1790][/us/stat/90/1790], 1834.)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F371
-[/us/pl/88/272/s234/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs234%2Fb%2F8
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F116
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1790
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272

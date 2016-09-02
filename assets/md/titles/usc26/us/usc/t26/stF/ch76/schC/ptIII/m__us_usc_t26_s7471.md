@@ -93,7 +93,7 @@
 
         For compensation and travel and subsistence allowances of special trial judges of the Tax Court, see subsections (d) and (e) of section 7443A.
 
-([Aug. 6, 1954, ch. 736][/us/act/1954-08-06/ch736], [68A Stat. 888][/us/stat/68A/888]; [Pub. L. 91–172, title IX, § 960(g)][/us/pl/91/172/s960/g], Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734]; [Pub. L. 94–455, title XIX, § 1906(a)(47)][/us/pl/94/455/s1906/a/47], Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831]; [Pub. L. 98–369, div. A, title IV, § 464(d)][/us/pl/98/369/s464/d], July 18, 1984, [98 Stat. 825][/us/stat/98/825]; [Pub. L. 99–514, title XV, § 1556(b)(2)][/us/pl/99/514/s1556/b/2], Oct. 22, 1986, [100 Stat. 2755][/us/stat/100/2755]; [Pub. L. 111–366, § 1(a)][/us/pl/111/366/s1/a], Jan. 4, 2011, [124 Stat. 4063][/us/stat/124/4063].)
+([Aug. 6, 1954, ch. 736][/us/act/1954-08-06/ch736], [68A Stat. 888][/us/stat/68A/888]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 960(g), Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(47), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 464(d), July 18, 1984, [98 Stat. 825][/us/stat/98/825]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1556(b)(2), Oct. 22, 1986, [100 Stat. 2755][/us/stat/100/2755]; [Pub. L. 111–366][/us/pl/111/366], § 1(a), Jan. 4, 2011, [124 Stat. 4063][/us/stat/124/4063].)
 
  __References in Text__ 
 
@@ -107,15 +107,15 @@
 
     1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369] substituted references to special trial judges for references to commissioners in the subsection heading and text.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(a)(47)(A)][/us/pl/94/455/s1906/a/47/A], among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(a)(47)(B)][/us/pl/94/455/s1906/a/47/B], substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 ([63 Stat. 166][/us/stat/63/166]; 5 U.S.C. chapter 16)”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 ([63 Stat. 166][/us/stat/63/166]; 5 U.S.C. chapter 16)”.
 
     1969—Subsec. (c). [Pub. L. 91–172][/us/pl/91/172] inserted reference to the compensation of commissioners.
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 111–366, § 1(b)][/us/pl/111/366/s1/b], Jan. 4, 2011, [124 Stat. 4065][/us/stat/124/4065], provided that: 
+[Pub. L. 111–366][/us/pl/111/366], § 1(b), Jan. 4, 2011, [124 Stat. 4065][/us/stat/124/4065], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\].”
 
@@ -150,25 +150,25 @@
 [/us/usc/t5/s2302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2302%2Fb
 [/us/act/1954-08-06/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-06%2Fch736
 [/us/stat/68A/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F888
-[/us/pl/91/172/s960/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fg
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F734
-[/us/pl/94/455/s1906/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F47
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1831
-[/us/pl/98/369/s464/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs464%2Fd
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F825
-[/us/pl/99/514/s1556/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1556%2Fb%2F2
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2755
-[/us/pl/111/366/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366%2Fs1%2Fa
+[/us/pl/111/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366
 [/us/stat/124/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4063
 [/us/pl/111/366/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366%2Fs1%2Fa
 [/us/pl/111/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1906/a/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F47%2FA
-[/us/pl/94/455/s1906/a/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F47%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/63/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F166
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/111/366/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366%2Fs1%2Fb
+[/us/pl/111/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F366
 [/us/stat/124/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4065
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1556/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1556%2Fc

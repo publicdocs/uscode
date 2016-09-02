@@ -139,7 +139,7 @@
 
  __Repeal and Reenactment of Analysis__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is repealed and a new analysis for subchapter C is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is repealed and a new analysis for subchapter C is enacted to read as follows:
 
 > 
 
@@ -233,13 +233,13 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XII, § 1231(c)][/us/pl/105/34/s1231/c], Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], added item 6234.
+    1997—[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1231(c), Aug. 5, 1997, [111 Stat. 1023][/us/stat/111/1023], added item 6234.
 
-    1988—[Pub. L. 100–418, title I, § 1941(b)(3)(D)][/us/pl/100/418/s1941/b/3/D], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324], struck out item 6232 “Extension of subchapter to windfall profit tax”.
+    1988—[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(3)(D), Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324], struck out item 6232 “Extension of subchapter to windfall profit tax”.
 
-    1984—[Pub. L. 98–369, div. A, title VII, § 714(p)(2)(E)][/us/pl/98/369/s714/p/2/E], July 18, 1984, [98 Stat. 965][/us/stat/98/965], added item 6233.
+    1984—[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(p)(2)(E), July 18, 1984, [98 Stat. 965][/us/stat/98/965], added item 6233.
 
-    1982—[Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 648][/us/stat/96/648], added subchapter C heading and items 6221 to 6232.
+    1982—[Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 648][/us/stat/96/648], added subchapter C heading and items 6221 to 6232.
 
 ----------
 
@@ -248,17 +248,17 @@
 ----------
 ----------
 
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/105/34/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1231%2Fc
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1023
-[/us/pl/100/418/s1941/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F3%2FD
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1324
-[/us/pl/98/369/s714/p/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fp%2F2%2FE
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F965
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F648
 
 

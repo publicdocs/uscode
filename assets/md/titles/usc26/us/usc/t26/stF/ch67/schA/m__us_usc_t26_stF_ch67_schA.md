@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 842(b)][/us/pl/108/357/s842/b], Oct. 22, 2004, [118 Stat. 1599][/us/stat/118/1599], added item 6603.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 842(b), Oct. 22, 2004, [118 Stat. 1599][/us/stat/118/1599], added item 6603.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s842/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs842%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1599
 
 

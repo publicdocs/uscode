@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title IV, § 474(r)(29)(B)][/us/pl/98/369/s474/r/29/B], (C), July 18, 1984, [98 Stat. 844][/us/stat/98/844], struck out “AND TAX-FREE COVENANT BONDS” after “FOREIGN CORPORATIONS” in heading of chapter 3, and struck out item for subchapter B “Tax-free covenant bonds” and redesignated the item for subchapter C as B.
+    1984—[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(29)(B), (C), July 18, 1984, [98 Stat. 844][/us/stat/98/844], struck out “AND TAX-FREE COVENANT BONDS” after “FOREIGN CORPORATIONS” in heading of chapter 3, and struck out item for subchapter B “Tax-free covenant bonds” and redesignated the item for subchapter C as B.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s474/r/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F29%2FB
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F844
 
 

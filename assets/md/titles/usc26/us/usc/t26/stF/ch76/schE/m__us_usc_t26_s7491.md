@@ -45,15 +45,15 @@
 
         Notwithstanding any other provision of this title, the Secretary shall have the burden of production in any court proceeding with respect to the liability of any individual for any penalty, addition to tax, or additional amount imposed by this title.
 
-(Added [Pub. L. 105–206, title III, § 3001(a)][/us/pl/105/206/s3001/a], July 22, 1998, [112 Stat. 726][/us/stat/112/726]; amended [Pub. L. 105–277, div. J, title IV, § 4002(b)][/us/pl/105/277/s4002/b], Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3001(a), July 22, 1998, [112 Stat. 726][/us/stat/112/726]; amended [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4002(b), Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906].)
 
  __Prior Provisions__ 
 
-    A prior section 7491, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], placed the burden of proof in establishing the applicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by [Pub. L. 91–513, title III][/us/pl/91/513], §§ 1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292], 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
+    A prior section 7491, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], placed the burden of proof in establishing the applicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by [Pub. L. 91–513, title III][/us/pl/91/513/tIII], §§ 1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292], 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
 
-    A prior section 7492, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], related to the enforceability of cotton futures contracts, prior to repeal by [Pub. L. 94–455, title XIX, § 1952(n)(4)(A)][/us/pl/94/455/s1952/n/4/A], (o), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], effective on the 90th day after Oct. 4, 1976.
+    A prior section 7492, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], related to the enforceability of cotton futures contracts, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1952(n)(4)(A), (o), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846], effective on the 90th day after Oct. 4, 1976.
 
-    A prior section 7493, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], provided that no person whose evidence is deemed material by the officer prosecuting on behalf of the United States in any case brought under any provision of subchapter D of chapter 39 of this title withhold his testimony because of complicity by him in any violation of subchapter D of chapter 39 of this title or of any regulation made pursuant to such chapter, but that such person called by such officer who testifies in the case be exempt from prosecution for any offense to which his testimony relates, prior to repeal by [Pub. L. 91–452, title II][/us/pl/91/452], §§ 232, 260, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], 931, effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual was entitled under by reason of any testimony given before 60th day following Oct. 15, 1970. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
+    A prior section 7493, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 893][/us/stat/68A/893], provided that no person whose evidence is deemed material by the officer prosecuting on behalf of the United States in any case brought under any provision of subchapter D of chapter 39 of this title withhold his testimony because of complicity by him in any violation of subchapter D of chapter 39 of this title or of any regulation made pursuant to such chapter, but that such person called by such officer who testifies in the case be exempt from prosecution for any offense to which his testimony relates, prior to repeal by [Pub. L. 91–452, title II][/us/pl/91/452/tII], §§ 232, 260, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930], 931, effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual was entitled under by reason of any testimony given before 60th day following Oct. 15, 1970. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3001(c)][/us/pl/105/206/s3001/c], July 22, 1998, [112 Stat. 727][/us/stat/112/727], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3001(c), July 22, 1998, [112 Stat. 727][/us/stat/112/727], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -82,28 +82,28 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3001%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F726
-[/us/pl/105/277/s4002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fb
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-906
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F893
-[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F893
-[/us/pl/94/455/s1952/n/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1952%2Fn%2F4%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1846
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F893
-[/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277/s4002/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fk
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/206/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3001%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F727
 
 

@@ -45,15 +45,15 @@
 
         Any income taxable under this section shall not be taxable under section 871, 881, or 882.
 
-(Added [Pub. L. 99–514, title XII, § 1212(b)(1)][/us/pl/99/514/s1212/b/1], Oct. 22, 1986, [100 Stat. 2537][/us/stat/100/2537]; amended [Pub. L. 100–647, title I, § 1012(e)(6)][/us/pl/100/647/s1012/e/6], Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII, § 7811(i)(8)(A)][/us/pl/101/239/s7811/i/8/A], (B), (9), Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410], 2411.)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1212(b)(1), Oct. 22, 1986, [100 Stat. 2537][/us/stat/100/2537]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(e)(6), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(8)(A), (B), (9), Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410], 2411.)
 
  __Amendments__ 
 
-    1989—Subsec. (b)(1). [Pub. L. 101–239, § 7811(i)(8)(B)][/us/pl/101/239/s7811/i/8/B], substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+    1989—Subsec. (b)(1). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(8)(B), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-    Subsec. (b)(3). [Pub. L. 101–239, § 7811(i)(8)(A)][/us/pl/101/239/s7811/i/8/A], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(8)(A), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(4). [Pub. L. 101–239, § 7811(i)(8)(A)][/us/pl/101/239/s7811/i/8/A], (9), redesignated former par. (3) as (4) and substituted “United States source gross transportation income” for “transportation income” in introductory provisions and in subpar. (A).
+    Subsec. (b)(4). [Pub. L. 101–239][/us/pl/101/239], § 7811(i)(8)(A), (9), redesignated former par. (3) as (4) and substituted “United States source gross transportation income” for “transportation income” in introductory provisions and in subpar. (A).
 
     1988—Subsec. (b)(1). [Pub. L. 100–647][/us/pl/100/647] substituted “under section 863(c)(2)” for “under section 863(c)” and inserted at end “To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.”
 
@@ -80,15 +80,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fb%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2537
-[/us/pl/100/647/s1012/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fe%2F6
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3500
-[/us/pl/101/239/s7811/i/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F8%2FA
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2410
-[/us/pl/101/239/s7811/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F8%2FB
-[/us/pl/101/239/s7811/i/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F8%2FA
-[/us/pl/101/239/s7811/i/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F8%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

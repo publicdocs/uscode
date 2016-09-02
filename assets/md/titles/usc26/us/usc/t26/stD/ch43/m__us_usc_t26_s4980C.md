@@ -103,11 +103,11 @@
 
         If a State imposes any requirement which is more stringent than the analogous requirement imposed by this section or section 7702B(g), the requirement imposed by this section or section 7702B(g) shall be treated as met if the more stringent State requirement is met.
 
-(Added [Pub. L. 104–191, title III, § 326(a)][/us/pl/104/191/s326/a], Aug. 21, 1996, [110 Stat. 2065][/us/stat/110/2065].)
+(Added [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 326(a), Aug. 21, 1996, [110 Stat. 2065][/us/stat/110/2065].)
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title III, § 327][/us/pl/104/191/s327], Aug. 21, 1996, [110 Stat. 2066][/us/stat/110/2066], provided that:
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 327, Aug. 21, 1996, [110 Stat. 2066][/us/stat/110/2066], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -124,9 +124,9 @@
 ----------
 ----------
 
-[/us/pl/104/191/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs326%2Fa
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2065
-[/us/pl/104/191/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs327
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2066
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t26/s7702B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7702B

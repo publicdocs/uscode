@@ -53,7 +53,7 @@
 
         For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 17][/us/stat/68A/17]; [Pub. L. 98–369, div. A, title V, § 531(c)][/us/pl/98/369/s531/c], July 18, 1984, [98 Stat. 884][/us/stat/98/884].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 17][/us/stat/68A/17]; [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 531(c), July 18, 1984, [98 Stat. 884][/us/stat/98/884].)
 
  __Amendments__ 
 
@@ -65,13 +65,13 @@
 
  __Termination Date of 1978 Amendment__ 
 
-[Pub. L. 95–615, § 210(a)][/us/pl/95/615/s210/a], Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that: 
+[Pub. L. 95–615][/us/pl/95/615], § 210(a), Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that: 
 
 > “Title I of this Act \[probably means sections 1 to 8 of [Pub. L. 95–615][/us/pl/95/615], see Short Title of 1978 Amendment note under [section 1 of this title][/us/usc/t26/s1]\] (other than sections 4 and 5 thereof) \[amending [section 167 of this title][/us/usc/t26/s167], enacting provisions set out as notes under this section and sections 61 and 62 of this title, and amending provisions set out as notes under sections 117, 167, and 382 of this title\] shall cease to have effect on the day after the date of the enactment of this Act \[Nov. 8, 1978\].”
 
  __Regulations__ 
 
-[Pub. L. 95–427, § 1][/us/pl/95/427/s1], Oct. 7, 1978, [92 Stat. 996][/us/stat/92/996], as amended by [Pub. L. 96–167, § 1][/us/pl/96/167/s1], Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 97–34, title VIII, § 801][/us/pl/97/34/s801], Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 95–427][/us/pl/95/427], § 1, Oct. 7, 1978, [92 Stat. 996][/us/stat/92/996], as amended by [Pub. L. 96–167][/us/pl/96/167], § 1, Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 97–34, title VIII][/us/pl/97/34/tVIII], § 801, Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,11 +85,11 @@
 
 >     For purposes of subsection (a), the term ‘fringe benefit regulation’ means a regulation providing for the inclusion of any fringe benefit in gross income by reason of section 61 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
 
-    [Pub. L. 95–615, § 3][/us/pl/95/615/s3], Nov. 8, 1978, [92 Stat. 3097][/us/stat/92/3097], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that no regulations be issued in final form on or after Oct. 1, 1977, and before July 1, 1978, providing for inclusion of any fringe benefit in gross income by reason of section 61 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], ceased to have effect on the day after Nov. 8, 1978, pursuant to section 210(a) of that Act.
+    [Pub. L. 95–615][/us/pl/95/615], § 3, Nov. 8, 1978, [92 Stat. 3097][/us/stat/92/3097], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that no regulations be issued in final form on or after Oct. 1, 1977, and before July 1, 1978, providing for inclusion of any fringe benefit in gross income by reason of section 61 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], ceased to have effect on the day after Nov. 8, 1978, pursuant to section 210(a) of that Act.
 
  __No Gain Recognized From Net Gifts Made Before__  __March 4, 1981__ 
 
-[Pub. L. 98–369, div. A, title X, § 1026][/us/pl/98/369/s1026], July 18, 1984, [98 Stat. 1031][/us/stat/98/1031], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1026, July 18, 1984, [98 Stat. 1031][/us/stat/98/1031], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -109,7 +109,7 @@
 
  __Payment-in-Kind Tax Treatment Act of 1983__ 
 
-[Pub. L. 98–4][/us/pl/98/4], Mar. 11, 1983, [97 Stat. 7][/us/stat/97/7], as amended by [Pub. L. 98–369, div. A, title X, § 1061(a)][/us/pl/98/369/s1061/a], July 18, 1984, [98 Stat. 1046][/us/stat/98/1046]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI, § 6252(a)(1)][/us/pl/100/647/s6252/a/1], Nov. 10, 1988, [102 Stat. 3752][/us/stat/102/3752], provided that:
+[Pub. L. 98–4][/us/pl/98/4], Mar. 11, 1983, [97 Stat. 7][/us/stat/97/7], as amended by [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1061(a), July 18, 1984, [98 Stat. 1046][/us/stat/98/1046]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6252(a)(1), Nov. 10, 1988, [102 Stat. 3752][/us/stat/102/3752], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -245,7 +245,7 @@
 
 >     The Secretary of the Treasury or his delegate (after consultation with the Secretary of Agriculture) shall prescribe such regulations as may be necessary to carry out the purposes of this Act, including (but not limited to) such regulations as may be necessary to carry out the purposes of this Act where the commodity is received by a cooperative on behalf of the qualified taxpayer.”
 
-\[[Pub. L. 98–369, div. A, title X, § 1061(b)][/us/pl/98/369/s1061/b], July 18, 1984, [98 Stat. 1047][/us/stat/98/1047], provided that: 
+\[[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1061(b), July 18, 1984, [98 Stat. 1047][/us/stat/98/1047], provided that: 
 
 > “The amendments made by this section \[amending [Pub. L. 98–4][/us/pl/98/4] set out above\] shall apply with respect to commodities received for the 1984 crop year (as defined in section 5(a)(2) of the Payment-in-Kind Tax Treatment Act of 1983 \[[Pub. L. 98–4][/us/pl/98/4], set out above\] as amended by subsection (a)).”
 
@@ -253,11 +253,11 @@
 
  __Cancellation of Certain Student Loans__ 
 
-    [Pub. L. 94–455, title XXI, § 2117][/us/pl/94/455/s2117], Oct. 4, 1976, [90 Stat. 1911][/us/stat/90/1911], as amended by [Pub. L. 95–600, title I, § 162][/us/pl/95/600/s162], Nov. 6, 1978, [92 Stat. 2810][/us/stat/92/2810]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that no amount be included in gross income of an individual for purposes of [26 U.S.C. 61][/us/usc/t26/s61] by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a student loan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
+    [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2117, Oct. 4, 1976, [90 Stat. 1911][/us/stat/90/1911], as amended by [Pub. L. 95–600, title I][/us/pl/95/600/tI], § 162, Nov. 6, 1978, [92 Stat. 2810][/us/stat/92/2810]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that no amount be included in gross income of an individual for purposes of [26 U.S.C. 61][/us/usc/t26/s61] by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a student loan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
 
  __Regulations Relating to Tax Treatment of Certain Prepublication Expenditures of Publishers__ 
 
-[Pub. L. 94–455, title XXI, § 2119][/us/pl/94/455/s2119], Oct. 4, 1976, [90 Stat. 1912][/us/stat/90/1912], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2119, Oct. 4, 1976, [90 Stat. 1912][/us/stat/90/1912], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -277,7 +277,7 @@
 
  __Reimbursement of Moving Expenses of Employees of Certain Corporations Excluded From Gross Income; Claim for Refund or Credit; Limitations; Interest__ 
 
-    [Pub. L. 86–780, § 5][/us/pl/86/780/s5], Sept. 14, 1960, [74 Stat. 1013][/us/stat/74/1013], provided for the exclusion from gross income of any amount received after Dec. 31, 1949, and before Oct. 1, 1955, by employees of certain corporations as reimbursement for moving expenses, and the refund or credit of any overpayments.
+    [Pub. L. 86–780][/us/pl/86/780], § 5, Sept. 14, 1960, [74 Stat. 1013][/us/stat/74/1013], provided for the exclusion from gross income of any amount received after Dec. 31, 1949, and before Oct. 1, 1955, by employees of certain corporations as reimbursement for moving expenses, and the refund or credit of any overpayments.
 
 ----------
 
@@ -288,60 +288,60 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F17
-[/us/pl/98/369/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs531%2Fc
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F884
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s531/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs531%2Fh
 [/us/usc/t26/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs132
-[/us/pl/95/615/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs210%2Fa
+[/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/stat/92/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3109
 [/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs167
-[/us/pl/95/427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F427%2Fs1
+[/us/pl/95/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F427
 [/us/stat/92/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F996
-[/us/pl/96/167/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs1
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1275
-[/us/pl/97/34/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs801
+[/us/pl/97/34/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVIII
 [/us/stat/95/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F349
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/95/615/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615%2Fs3
+[/us/pl/95/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F615
 [/us/stat/92/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3097
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/98/369/s1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1026
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1031
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2501
 [/us/pl/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F4
 [/us/stat/97/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F7
-[/us/pl/98/369/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1061%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1046
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/647/s6252/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6252%2Fa%2F1
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3752
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/98/369/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1061%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1047
 [/us/pl/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F4
 [/us/pl/98/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F4
-[/us/pl/94/455/s2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2117
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1911
-[/us/pl/95/600/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs162
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2810
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs61
-[/us/pl/94/455/s2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2119
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1912
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/86/780/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs5
+[/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/stat/74/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1013
 
 

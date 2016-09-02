@@ -69,7 +69,7 @@
 
         For purposes of this section, subsections (c), (d) (other than paragraph (3)(B) thereof), (e), and (g) of section 6330 shall apply.
 
-(Added [Pub. L. 105–206, title III, § 3401(a)][/us/pl/105/206/s3401/a], July 22, 1998, [112 Stat. 746][/us/stat/112/746]; amended [Pub. L. 109–432, div. A, title IV, § 407(c)][/us/pl/109/432/s407/c], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 114–94, div. C, title XXXII, § 32101(b)(1)][/us/pl/114/94/s32101/b/1], Dec. 4, 2015, [129 Stat. 1731][/us/stat/129/1731]; [Pub. L. 114–113, div. Q, title IV, § 424(c)][/us/pl/114/113/s424/c], Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3401(a), July 22, 1998, [112 Stat. 746][/us/stat/112/746]; amended [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 407(c), Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32101(b)(1), Dec. 4, 2015, [129 Stat. 1731][/us/stat/129/1731]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 424(c), Dec. 18, 2015, [129 Stat. 3125][/us/stat/129/3125].)
 
  __References in Text__ 
 
@@ -81,19 +81,19 @@
 
     Subsec. (c). [Pub. L. 114–113][/us/pl/114/113] substituted “(3)(B)” for “(2)(B)”.
 
-    2006—Subsec. (b)(1). [Pub. L. 109–432, § 407(c)(1)][/us/pl/109/432/s407/c/1], substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
+    2006—Subsec. (b)(1). [Pub. L. 109–432][/us/pl/109/432], § 407(c)(1), substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
 
-    Subsec. (c). [Pub. L. 109–432, § 407(c)(2)][/us/pl/109/432/s407/c/2], substituted “(e), and (g)” for “and (e)”.
+    Subsec. (c). [Pub. L. 109–432][/us/pl/109/432], § 407(c)(2), substituted “(e), and (g)” for “and (e)”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 407(f)][/us/pl/109/432/s407/f], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 407(f), Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6330, 6702, and 7122 of this title\] shall apply to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of the Internal Revenue Code of 1986, as amended by subsection (a) \[list prescribed Mar. 16, 2007, see I.R.S. Notice 2007–30, 2007–14, I.R.B. 883\].”
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3401(d)][/us/pl/105/206/s3401/d], July 22, 1998, [112 Stat. 750][/us/stat/112/750], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3401(d), July 22, 1998, [112 Stat. 750][/us/stat/112/750], provided that: 
 
 > “The amendments made by this section \[enacting this section and [section 6330 of this title][/us/usc/t26/s6330] and amending [section 7443A of this title][/us/usc/t26/s7443A]\] shall apply to collection actions initiated after the date which is 180 days after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -104,24 +104,24 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3401%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F746
-[/us/pl/109/432/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2962
-[/us/pl/114/94/s32101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fb%2F1
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1731
-[/us/pl/114/113/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fc
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3125
 [/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
 [/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
 [/us/usc/t22/s2714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2714a
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/109/432/s407/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc%2F1
-[/us/pl/109/432/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc%2F2
-[/us/pl/109/432/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Ff
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2962
-[/us/pl/105/206/s3401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3401%2Fd
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F750
 [/us/usc/t26/s6330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6330
 [/us/usc/t26/s7443A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7443A

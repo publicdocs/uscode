@@ -91,7 +91,7 @@
 
         For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 93–406, title II, § 1031(a)][/us/pl/93/406/s1031/a], Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. B][/us/pl/98/369]. title VI, § 2663(j)(5)(D), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 98–397, title II, § 206][/us/pl/98/397/s206], Aug. 23, 1984, [98 Stat. 1449][/us/stat/98/1449]; [Pub. L. 99–514, title XV, § 1501(d)(1)(F)][/us/pl/99/514/s1501/d/1/F], Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 103–296, title I, § 108(h)(5)][/us/pl/103/296/s108/h/5], Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
+(Added [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1031(a), Sept. 2, 1974, [88 Stat. 943][/us/stat/88/943]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. B][/us/pl/98/369/dB]. title VI, § 2663(j)(5)(D), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 98–397, title II][/us/pl/98/397/tII], § 206, Aug. 23, 1984, [98 Stat. 1449][/us/stat/98/1449]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(d)(1)(F), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 103–296, title I][/us/pl/103/296/tI], § 108(h)(5), Aug. 15, 1994, [108 Stat. 1487][/us/stat/108/1487].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–406, title X, § 1034][/us/pl/93/406/s1034], Sept. 2, 1974, [88 Stat. 948][/us/stat/88/948], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 93–406, title X][/us/pl/93/406/tX], § 1034, Sept. 2, 1974, [88 Stat. 948][/us/stat/88/948], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “This part \[part 3 (§§ 1031–1034) of subtitle A of title II of [Pub. L. 93–406][/us/pl/93/406], enacting this section, sections 6058, 6059, 6690, and 6692 of this title and [section 1320b–1 of Title 42][/us/usc/t42/s1320b–1], The Public Health and Welfare, and amending sections 6033, 6047, and 6652 of this title\] shall take effect upon the date of the enactment of this Act \[Sept. 2, 1974\]; except that—
 
@@ -146,17 +146,17 @@
 ----------
 ----------
 
-[/us/pl/93/406/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1031%2Fa
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F943
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
-[/us/pl/98/397/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs206
+[/us/pl/98/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtII
 [/us/stat/98/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1449
-[/us/pl/99/514/s1501/d/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fd%2F1%2FF
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
-[/us/pl/103/296/s108/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs108%2Fh%2F5
+[/us/pl/103/296/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2FtI
 [/us/stat/108/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1487
 [/us/usc/t29/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053
 [/us/usc/t29/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1204
@@ -178,9 +178,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/93/406/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1034
+[/us/pl/93/406/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtX
 [/us/stat/88/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F948
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t42/s1320b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%931

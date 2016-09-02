@@ -27,7 +27,7 @@
 
         Whenever in this chapter any record is required to be made and preserved by any person, the Secretary may by regulations authorize such person to record, copy, or reproduce by any photographic, photostatic, microfilm, microcard, miniature photographic, or other process, which accurately reproduces or forms a durable medium for so reproducing the original of such record and to retain such reproduction in lieu of the original. Every person who is authorized to retain such reproduction in lieu of the original shall, under such regulations as the Secretary may prescribe, preserve such reproduction in conveniently accessible files and make provision for examining, viewing, and using such reproduction the same as if it were the original. Such reproduction shall be treated and considered for all purposes as though it were the original record and all provisions of law applicable to the original shall be applicable to such reproduction. Such reproduction, or enlargement or facsimile thereof, shall be admissible in evidence in the same manner and under the same conditions as provided for the admission of reproductions, enlargements, or facsimiles of records made in the regular course of business under [section 1732(b) of title 28][/us/usc/t28/s1732/b] of the United States Code.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1395][/us/stat/72/1395]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV, § 454(c)(10)][/us/pl/98/369/s454/c/10], July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1395][/us/stat/72/1395]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(10), July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
 
  __Prior Provisions__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t28/s1732/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1732%2Fb
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1395
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s454/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F10
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F821
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F681

@@ -41,17 +41,17 @@
 
         For purposes of this section, the term “covered offense” means any criminal offense under Federal or State law, and includes any criminal offense arising from the same course of conduct as that criminal offense.
 
-(Added [Pub. L. 114–113, div. Q, title III, § 304(a)][/us/pl/114/113/s304/a], Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087].)
+(Added [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 304(a), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087].)
 
  __Effective Date__ 
 
-[Pub. L. 114–113, div. Q, title III, § 304(c)][/us/pl/114/113/s304/c], Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 304(c), Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Waiver of Limitations__ 
 
-[Pub. L. 114–113, div. Q, title III, § 304(d)][/us/pl/114/113/s304/d], Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 304(d), Dec. 18, 2015, [129 Stat. 3088][/us/stat/129/3088], provided that: 
 
 > “If the credit or refund of any overpayment of tax resulting from the application of this Act \[probably means this section, enacting this section and provisions set out as a note above\] to a period before the date of enactment of this Act \[Dec. 18, 2015\] is prevented as of such date by the operation of any law or rule of law (including res judicata), such credit or refund may nevertheless be allowed or made if the claim therefor is filed before the close of the 1-year period beginning on the date of the enactment of this Act.”
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/114/113/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
-[/us/pl/114/113/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fc
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3088
-[/us/pl/114/113/s304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fd
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3088
 
 

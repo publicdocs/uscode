@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–203, title X, § 10206(a)(2)][/us/pl/100/203/s10206/a/2], Dec. 22, 1987, [101 Stat. 1330–398][/us/stat/101/1330-398], added item 444.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10206(a)(2), Dec. 22, 1987, [101 Stat. 1330–398][/us/stat/101/1330-398], added item 444.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10206%2Fa%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-398
 
 

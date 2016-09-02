@@ -297,25 +297,25 @@
 
         In the case of an estate to which this section applies, subsection (a) shall not apply in determining the credit under section 2010.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 401][/us/stat/68A/401]; [Pub. L. 93–597, § 6(b)(1)][/us/pl/93/597/s6/b/1], (2), Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953]; [Pub. L. 94–455, title XIX, § 1902(a)(7)(A)][/us/pl/94/455/s1902/a/7/A], Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805]; [Pub. L. 107–16, title V, § 532(c)(9)][/us/pl/107/16/s532/c/9], June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 107–134, title I, § 103(a)][/us/pl/107/134/s103/a], (b)(3), Jan. 23, 2002, [115 Stat. 2430][/us/stat/115/2430], 2431; [Pub. L. 108–121, title I, § 110(c)(1)][/us/pl/108/121/s110/c/1], (2)(A), Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 401][/us/stat/68A/401]; [Pub. L. 93–597][/us/pl/93/597], § 6(b)(1), (2), Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1902(a)(7)(A), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(9), June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 103(a), (b)(3), Jan. 23, 2002, [115 Stat. 2430][/us/stat/115/2430], 2431; [Pub. L. 108–121, title I][/us/pl/108/121/tI], § 110(c)(1), (2)(A), Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–121, § 110(c)(2)(A)][/us/pl/108/121/s110/c/2/A], inserted “, deaths of astronauts,” after “Forces” in section catchline.
+    2003—[Pub. L. 108–121][/us/pl/108/121], § 110(c)(2)(A), inserted “, deaths of astronauts,” after “Forces” in section catchline.
 
-    Subsec. (b)(3). [Pub. L. 108–121, § 110(c)(1)][/us/pl/108/121/s110/c/1], added par. (3).
+    Subsec. (b)(3). [Pub. L. 108–121][/us/pl/108/121], § 110(c)(1), added par. (3).
 
     2002—[Pub. L. 107–134][/us/pl/107/134] amended section catchline and text of section generally, substituting present provisions for provisions which had stated that the additional estate tax as defined in former section 2011(d) should not apply to the transfer of the taxable estate of a citizen or resident of the United States dying while in active service as a member of the Armed Forces of the United States, if such decedent was killed in action while serving in a combat zone, as determined under section 112(c), or died as a result of wounds, disease, or injury suffered, while serving in a combat zone (as determined under section 112(c)), and while in line of duty, by reason of a hazard to which he was subjected as an incident of such service.
 
-    2001—[Pub. L. 107–16, § 532(c)(9)(B)][/us/pl/107/16/s532/c/9/B], which added concluding provisions which read as follows: “For purposes of this section, the additional estate tax is the difference between the tax imposed by section 2001 or 2101 and the amount equal to 125 percent of the maximum credit provided by section 2011(b), as in effect before its repeal by the Economic Growth and Tax Relief Reconciliation Act of 2001.”, was repealed by [Pub. L. 107–134, § 103(b)(3)][/us/pl/107/134/s103/b/3]. See Effective Date of 2002 Amendment note below.
+    2001—[Pub. L. 107–16][/us/pl/107/16], § 532(c)(9)(B), which added concluding provisions which read as follows: “For purposes of this section, the additional estate tax is the difference between the tax imposed by section 2001 or 2101 and the amount equal to 125 percent of the maximum credit provided by section 2011(b), as in effect before its repeal by the Economic Growth and Tax Relief Reconciliation Act of 2001.”, was repealed by [Pub. L. 107–134][/us/pl/107/134], § 103(b)(3). See Effective Date of 2002 Amendment note below.
 
-    [Pub. L. 107–16, § 532(c)(9)(A)][/us/pl/107/16/s532/c/9/A], which struck out “as defined in section 2011(d)” after “The additional estate tax” in introductory provisions, was repealed by [Pub. L. 107–134, § 103(b)(3)][/us/pl/107/134/s103/b/3]. See Effective Date of 2002 Amendment note below.
+    [Pub. L. 107–16][/us/pl/107/16], § 532(c)(9)(A), which struck out “as defined in section 2011(d)” after “The additional estate tax” in introductory provisions, was repealed by [Pub. L. 107–134][/us/pl/107/134], § 103(b)(3). See Effective Date of 2002 Amendment note below.
 
-    1975—[Pub. L. 93–597][/us/pl/93/597], as amended by [Pub. L. 94–455, § 1902(a)(7)(A)][/us/pl/94/455/s1902/a/7/A], struck out “during an induction period (as defined in section 112(c)(5))” after “resident of the United States dying”, and substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period” in section catchline.
+    1975—[Pub. L. 93–597][/us/pl/93/597], as amended by [Pub. L. 94–455][/us/pl/94/455], § 1902(a)(7)(A), struck out “during an induction period (as defined in section 112(c)(5))” after “resident of the United States dying”, and substituted “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” for “Members of the Armed Forces dying during an induction period” in section catchline.
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–121, title I, § 110(c)(3)][/us/pl/108/121/s110/c/3], Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343], provided that: 
+[Pub. L. 108–121, title I][/us/pl/108/121/tI], § 110(c)(3), Nov. 11, 2003, [117 Stat. 1343][/us/stat/117/1343], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to estates of decedents dying after December 31, 2002.”
 
@@ -329,13 +329,13 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XIX, § 1902(a)(7)(B)][/us/pl/94/455/s1902/a/7/B], Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], provided that: 
+[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1902(a)(7)(B), Oct. 4, 1976, [90 Stat. 1805][/us/stat/90/1805], provided that: 
 
 > “The amendment made by subsection (A) \[amending [section 6(b)(1) of Pub. L. 93–597][/us/pl/93/597/s6/b/1]\] is effective July 1, 1973.”
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–597, § 6(c)][/us/pl/93/597/s6/c], Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953], provided that: 
+[Pub. L. 93–597][/us/pl/93/597], § 6(c), Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1034 of this title][/us/usc/t26/s1034]\] shall take effect on July 1, 1973.”
 
@@ -348,26 +348,26 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F401
-[/us/pl/93/597/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs6%2Fb%2F1
-[/us/stat/88/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1953
-[/us/pl/94/455/s1902/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F7%2FA
-[/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
-[/us/pl/107/16/s532/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F9
-[/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
-[/us/pl/107/134/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fa
-[/us/stat/115/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2430
-[/us/pl/108/121/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fc%2F1
-[/us/stat/117/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1342
-[/us/pl/108/121/s110/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fc%2F2%2FA
-[/us/pl/108/121/s110/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fc%2F1
-[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
-[/us/pl/107/16/s532/c/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F9%2FB
-[/us/pl/107/134/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fb%2F3
-[/us/pl/107/16/s532/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F9%2FA
-[/us/pl/107/134/s103/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fb%2F3
 [/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
-[/us/pl/94/455/s1902/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F7%2FA
-[/us/pl/108/121/s110/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fc%2F3
+[/us/stat/88/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1953
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
+[/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
+[/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
+[/us/stat/115/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2430
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
+[/us/stat/117/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1342
+[/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
+[/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1343
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fd
@@ -375,10 +375,10 @@
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
-[/us/pl/94/455/s1902/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F7%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
 [/us/pl/93/597/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs6%2Fb%2F1
-[/us/pl/93/597/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs6%2Fc
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1953
 [/us/usc/t26/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1034
 

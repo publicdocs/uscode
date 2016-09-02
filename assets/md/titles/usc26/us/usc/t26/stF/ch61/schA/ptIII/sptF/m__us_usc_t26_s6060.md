@@ -27,15 +27,15 @@
 
         For purposes of subsection (a), the term “return period” means the 12-month period beginning on July 1 of each year.
 
-(Added [Pub. L. 94–455, title XII, § 1203(e)][/us/pl/94/455/s1203/e], Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691]; amended [Pub. L. 110–28, title VIII, § 8246(a)(2)(A)(i)][/us/pl/110/28/s8246/a/2/A/i], (ii), May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 113–295, div. A, title II, § 221(a)(109)][/us/pl/113/295/s221/a/109], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(e), Oct. 4, 1976, [90 Stat. 1691][/us/stat/90/1691]; amended [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(A)(i), (ii), May 25, 2007, [121 Stat. 201][/us/stat/121/201]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(109), Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Amendments__ 
 
     2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295], which directed substitution of “year.” for “ ‘year’ ” and all that followed, was executed by substituting “year.” for “year, except that the first return period shall be the 6-month period beginning on January 1, 1977, and ending on June 30, 1977.”, to reflect the probable intent of Congress.
 
-    2007—[Pub. L. 110–28, § 8246(a)(2)(A)(i)][/us/pl/110/28/s8246/a/2/A/i], substituted “tax return preparers” for “income tax return preparers” in section catchline.
+    2007—[Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(A)(i), substituted “tax return preparers” for “income tax return preparers” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–28, § 8246(a)(2)(A)(ii)][/us/pl/110/28/s8246/a/2/A/ii], substituted “a tax return preparer” for “an income tax return preparer” in two places, “each tax return preparer” for “each income tax return preparer”, and “another tax return preparer” for “another income tax return preparer”.
+    Subsec. (a). [Pub. L. 110–28][/us/pl/110/28], § 8246(a)(2)(A)(ii), substituted “a tax return preparer” for “an income tax return preparer” in two places, “each tax return preparer” for “each income tax return preparer”, and “another tax return preparer” for “another income tax return preparer”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8246(c)][/us/pl/110/28/s8246/c], May 25, 2007, [121 Stat. 203][/us/stat/121/203], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(c), May 25, 2007, [121 Stat. 203][/us/stat/121/203], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6103, 6107, 6109, 6503, 6694 to 6696, 7407, 7427, and 7701 of this title\] shall apply to returns prepared after the date of the enactment of this Act \[May 25, 2007\].”
 
@@ -58,19 +58,19 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fe
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1691
-[/us/pl/110/28/s8246/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FA%2Fi
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F201
-[/us/pl/113/295/s221/a/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F109
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/110/28/s8246/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FA%2Fi
-[/us/pl/110/28/s8246/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FA%2Fii
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/110/28/s8246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fc
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F203
 [/us/pl/94/455/s1203/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fj
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701

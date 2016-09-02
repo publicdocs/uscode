@@ -17,7 +17,7 @@
 
     A decedent who was a citizen of the United States and a resident of a possession thereof at the time of his death shall, for purposes of the tax imposed by this chapter, be considered a “nonresident not a citizen of the United States” within the meaning of that term wherever used in this title, but only if such person acquired his United States citizenship solely by reason of (1) his being a citizen of such possession of the United States, or (2) his birth or residence within such possession of the United States.
 
-(Added [Pub. L. 86–779, § 4(b)(1)][/us/pl/86/779/s4/b/1], Sept. 14, 1960, [74 Stat. 999][/us/stat/74/999].)
+(Added [Pub. L. 86–779][/us/pl/86/779], § 4(b)(1), Sept. 14, 1960, [74 Stat. 999][/us/stat/74/999].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/779/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs4%2Fb%2F1
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F999
 [/us/pl/86/779/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs4%2Fe%2F2
 [/us/usc/t26/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2106

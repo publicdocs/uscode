@@ -231,49 +231,49 @@
 
  __Amendments__ 
 
-    2011—[Pub. L. 111–347, title III, § 301(a)(2)][/us/pl/111/347/s301/a/2], Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], added item for chapter 50.
+    2011—[Pub. L. 111–347, title III][/us/pl/111/347/tIII], § 301(a)(2), Jan. 2, 2011, [124 Stat. 3666][/us/stat/124/3666], added item for chapter 50.
 
-    2010—[Pub. L. 111–148, title X, § 10907(c)][/us/pl/111/148/s10907/c], Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], added item for chapter 49.
+    2010—[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10907(c), Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], added item for chapter 49.
 
-    [Pub. L. 111–148, title IX, § 9017(b)][/us/pl/111/148/s9017/b], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], which directed amendment of analysis by adding item for chapter 49, was not executed in view of [Pub. L. 111–148, title X, § 10907(a)][/us/pl/111/148/s10907/a], Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], which provided that the amendments made by [section 9017 of Pub. L. 111–148][/us/pl/111/148/s9017] were deemed null, void, and of no effect.
+    [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9017(b), Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], which directed amendment of analysis by adding item for chapter 49, was not executed in view of [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10907(a), Mar. 23, 2010, [124 Stat. 1020][/us/stat/124/1020], which provided that the amendments made by [section 9017 of Pub. L. 111–148][/us/pl/111/148/s9017] were deemed null, void, and of no effect.
 
-    [Pub. L. 111–148, title I, § 1501(c)][/us/pl/111/148/s1501/c], title VI, § 6301(e)(2)(B)(ii), Mar. 23, 2010, [124 Stat. 249][/us/stat/124/249], 747, added items for chapters 34 and 48 and struck out former item for chapter 34 “Documentary stamp taxes”.
+    [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1501(c), title VI, § 6301(e)(2)(B)(ii), Mar. 23, 2010, [124 Stat. 249][/us/stat/124/249], 747, added items for chapters 34 and 48 and struck out former item for chapter 34 “Documentary stamp taxes”.
 
-    2004—[Pub. L. 108–357, title VIII, § 802(c)(2)][/us/pl/108/357/s802/c/2], Oct. 22, 2004, [118 Stat. 1568][/us/stat/118/1568], added item for chapter 45.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 802(c)(2), Oct. 22, 2004, [118 Stat. 1568][/us/stat/118/1568], added item for chapter 45.
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(17)][/us/pl/101/508/s11801/b/17], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for chapter 37 “Sugar, coconut and palm oil”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(17), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for chapter 37 “Sugar, coconut and palm oil”.
 
-    1989—[Pub. L. 101–239, title VI, § 6202(b)(4)(B)][/us/pl/101/239/s6202/b/4/B], title VII, § 7841(d)(4), Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], 2428, substituted semicolon for comma in item for chapter 42 and struck out “large” after “Certain” in item for chapter 47.
+    1989—[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6202(b)(4)(B), title VII, § 7841(d)(4), Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], 2428, substituted semicolon for comma in item for chapter 42 and struck out “large” after “Certain” in item for chapter 47.
 
-    1988—[Pub. L. 100–418, title I, § 1941(b)(3)(A)][/us/pl/100/418/s1941/b/3/A], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324], struck out item for chapter 45 “Windfall profit tax on domestic crude oil”.
+    1988—[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(3)(A), Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324], struck out item for chapter 45 “Windfall profit tax on domestic crude oil”.
 
-    1987—[Pub. L. 100–203, title X, § 10712(c)(8)][/us/pl/100/203/s10712/c/8], Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467], substituted “and certain other tax-exempt organizations” for “black lung benefit trusts” in item for chapter 42.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10712(c)(8), Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467], substituted “and certain other tax-exempt organizations” for “black lung benefit trusts” in item for chapter 42.
 
-    1986—[Pub. L. 99–509, title IX, § 9319(d)(2)][/us/pl/99/509/s9319/d/2], Oct. 21, 1986, [100 Stat. 2012][/us/stat/100/2012], added item for chapter 47.
+    1986—[Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9319(d)(2), Oct. 21, 1986, [100 Stat. 2012][/us/stat/100/2012], added item for chapter 47.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 67(d)(2)][/us/pl/98/369/s67/d/2], July 18, 1984, [98 Stat. 587][/us/stat/98/587], added item for chapter 46.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 67(d)(2), July 18, 1984, [98 Stat. 587][/us/stat/98/587], added item for chapter 46.
 
-    1983—[Pub. L. 97–424, title V, § 512(b)(2)(B)][/us/pl/97/424/s512/b/2/B], Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], substituted “Retail excise taxes” for “Special fuels” in item for chapter 31.
+    1983—[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 512(b)(2)(B), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], substituted “Retail excise taxes” for “Special fuels” in item for chapter 31.
 
-    1982—[Pub. L. 97–248, title III, § 310(b)(4)(B)][/us/pl/97/248/s310/b/4/B], Sept. 3, 1982, [96 Stat. 598][/us/stat/96/598], added item for chapter 39.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 310(b)(4)(B), Sept. 3, 1982, [96 Stat. 598][/us/stat/96/598], added item for chapter 39.
 
-    1980—[Pub. L. 96–510, title II, § 211(b)][/us/pl/96/510/s211/b], Dec. 11, 1980, [94 Stat. 2801][/us/stat/94/2801], added item for chapter 38.
+    1980—[Pub. L. 96–510, title II][/us/pl/96/510/tII], § 211(b), Dec. 11, 1980, [94 Stat. 2801][/us/stat/94/2801], added item for chapter 38.
 
-    [Pub. L. 96–223, § 101(a)(2)][/us/pl/96/223/s101/a/2], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250], added item for chapter 45.
+    [Pub. L. 96–223][/us/pl/96/223], § 101(a)(2), Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250], added item for chapter 45.
 
-    1978—[Pub. L. 95–227, § 4(c)(2)(C)][/us/pl/95/227/s4/c/2/C], Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22], inserted “, black lung benefit trusts” after “foundations” in item for chapter 42.
+    1978—[Pub. L. 95–227][/us/pl/95/227], § 4(c)(2)(C), Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22], inserted “, black lung benefit trusts” after “foundations” in item for chapter 42.
 
-    1976—[Pub. L. 94–455, title XIII, § 1307(d)(3)(A)][/us/pl/94/455/s1307/d/3/A], title XVI, § 1605(c), title XIX, §§ 1904(b)(7)(E), (10)(G), 1952(n)(6), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1815, 1818, 1846, substituted “41. Public charities” for “41. Interest equalization tax” added item for chapter 44 and struck out items for chapters “38. Import taxes” and “39. Regulatory taxes”.
+    1976—[Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(d)(3)(A), title XVI, § 1605(c), title XIX, §§ 1904(b)(7)(E), (10)(G), 1952(n)(6), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], 1755, 1815, 1818, 1846, substituted “41. Public charities” for “41. Interest equalization tax” added item for chapter 44 and struck out items for chapters “38. Import taxes” and “39. Regulatory taxes”.
 
-    1974—[Pub. L. 93–406, title II, § 1016(b)(2)][/us/pl/93/406/s1016/b/2], Sept. 2, 1974, [88 Stat. 932][/us/stat/88/932], added item for chapter 43.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(b)(2), Sept. 2, 1974, [88 Stat. 932][/us/stat/88/932], added item for chapter 43.
 
-    1969—[Pub. L. 91–172, title I, § 101(j)(59)][/us/pl/91/172/s101/j/59], Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], added item for chapter 42.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(59), Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], added item for chapter 42.
 
-    1964—[Pub. L. 88–563, § 2(b)][/us/pl/88/563/s2/b], Sept. 2, 1964, [78 Stat. 841][/us/stat/78/841], added item for chapter 41.
+    1964—[Pub. L. 88–563][/us/pl/88/563], § 2(b), Sept. 2, 1964, [78 Stat. 841][/us/stat/78/841], added item for chapter 41.
 
  __Imposition of Annual Fee on Branded Prescription Pharmaceutical Manufacturers and Importers__ 
 
-[Pub. L. 111–148, title IX, § 9008][/us/pl/111/148/s9008], Mar. 23, 2010, [124 Stat. 859][/us/stat/124/859], as amended by [Pub. L. 111–152, title I, § 1404(a)][/us/pl/111/152/s1404/a], Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064], provided that:
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9008, Mar. 23, 2010, [124 Stat. 859][/us/stat/124/859], as amended by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1404(a), Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064], provided that:
 
 >     “(a) __Imposition of Fee.—__ 
 
@@ -685,7 +685,7 @@
 
 >     \[Amended [section 1395t of Title 42][/us/usc/t42/s1395t], The Public Health and Welfare.\]”
 
-\[[Pub. L. 111–152, title I, § 1404(b)][/us/pl/111/152/s1404/b], Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064], provided that: 
+\[[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1404(b), Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064], provided that: 
 
 > “The amendments made by this section \[amending [section 9008 of Pub. L. 111–148][/us/pl/111/148/s9008], set out above\] shall take effect as if included in section 9008 of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\].”
 
@@ -693,13 +693,13 @@
 
  __Imposition of Annual Fee on Medical Device Manufacturers and Importers__ 
 
-    [Pub. L. 111–148, title IX, § 9009][/us/pl/111/148/s9009], Mar. 23, 2010, [124 Stat. 862][/us/stat/124/862], as amended by [Pub. L. 111–148, title X, § 10904(a)][/us/pl/111/148/s10904/a], Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by [Pub. L. 111–152, title I, § 1405(d)][/us/pl/111/152/s1405/d], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065].
+    [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9009, Mar. 23, 2010, [124 Stat. 862][/us/stat/124/862], as amended by [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10904(a), Mar. 23, 2010, [124 Stat. 1016][/us/stat/124/1016], provided for the imposition of an annual fee on medical device manufacturers and importers in calendar years beginning after 2010, prior to repeal by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1405(d), Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065].
 
-    \[[Pub. L. 111–152, title I, § 1405(d)][/us/pl/111/152/s1405/d], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], provided that the repeal of [section 9009 of Pub. L. 111–148][/us/pl/111/148/s9009], formerly set out above, is effective as of Mar. 23, 2010.\]
+    \[[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1405(d), Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], provided that the repeal of [section 9009 of Pub. L. 111–148][/us/pl/111/148/s9009], formerly set out above, is effective as of Mar. 23, 2010.\]
 
  __Imposition of Annual Fee on Health Insurance Providers__ 
 
-[Pub. L. 111–148, title IX, § 9010][/us/pl/111/148/s9010], title X, § 10905(a)–(f), Mar. 23, 2010, [124 Stat. 865][/us/stat/124/865], 1017–1019, as amended by [Pub. L. 111–152, title I, § 1406(a)][/us/pl/111/152/s1406/a], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065]; [Pub. L. 114–113, div. P, title II, § 201][/us/pl/114/113/s201], Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that:
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9010, title X, § 10905(a)–(f), Mar. 23, 2010, [124 Stat. 865][/us/stat/124/865], 1017–1019, as amended by [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1406(a), Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065]; [Pub. L. 114–113, div. P, title II][/us/pl/114/113/dP/tII], § 201, Dec. 18, 2015, [129 Stat. 3037][/us/stat/129/3037], provided that:
 
 >     “(a) __Imposition of Fee.—__ 
 
@@ -1053,15 +1053,15 @@
 
 >         “(2) beginning after December 31, 2017.”
 
-    \[[Pub. L. 111–152, title I, § 1406(a)(3)(C)][/us/pl/111/152/s1406/a/3/C], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], which directed amendment of [section 9010(c) of Pub. L. 111–148][/us/pl/111/148/s9010/c], set out above, by substituting “subparagraph (C) or (D)” for “subparagraph (C)(i)(I), (D)(i)(I), or (E)(i)” in par. (3)(A), was executed by making the substitution in concluding provisions of par. (3), to reflect the probable intent of Congress.\]
+    \[[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1406(a)(3)(C), Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065], which directed amendment of [section 9010(c) of Pub. L. 111–148][/us/pl/111/148/s9010/c], set out above, by substituting “subparagraph (C) or (D)” for “subparagraph (C)(i)(I), (D)(i)(I), or (E)(i)” in par. (3)(A), was executed by making the substitution in concluding provisions of par. (3), to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 111–152, title I, § 1406(b)][/us/pl/111/152/s1406/b], Mar. 30, 2010, [124 Stat. 1067][/us/stat/124/1067], provided that: 
+\[[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1406(b), Mar. 30, 2010, [124 Stat. 1067][/us/stat/124/1067], provided that: 
 
 > “The amendments made by this section \[amending [section 9010 of Pub. L. 111–148][/us/pl/111/148/s9010], set out above\] shall take effect as if included in section 9010 of the Patient Protection and Affordable Care Act \[[Pub. L. 111–148][/us/pl/111/148]\].”
 
 \]
 
-\[[Pub. L. 111–148, title X, § 10905(g)][/us/pl/111/148/s10905/g], Mar. 23, 2010, [124 Stat. 1019][/us/stat/124/1019], provided that: 
+\[[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10905(g), Mar. 23, 2010, [124 Stat. 1019][/us/stat/124/1019], provided that: 
 
 > “The amendments made by this section \[amending [section 9010 of Pub. L. 111–148][/us/pl/111/148/s9010], set out above\] shall take effect as if included in the enactment of section 9010.”
 
@@ -1074,52 +1074,52 @@
 ----------
 ----------
 
-[/us/pl/111/347/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs301%2Fa%2F2
+[/us/pl/111/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2FtIII
 [/us/stat/124/3666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3666
-[/us/pl/111/148/s10907/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10907%2Fc
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1020
-[/us/pl/111/148/s9017/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9017%2Fb
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
-[/us/pl/111/148/s10907/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10907%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1020
 [/us/pl/111/148/s9017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9017
-[/us/pl/111/148/s1501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1501%2Fc
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F249
-[/us/pl/108/357/s802/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs802%2Fc%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1568
-[/us/pl/101/508/s11801/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F17
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/101/239/s6202/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6202%2Fb%2F4%2FB
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2233
-[/us/pl/100/418/s1941/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F3%2FA
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1324
-[/us/pl/100/203/s10712/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10712%2Fc%2F8
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-467
-[/us/pl/99/509/s9319/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9319%2Fd%2F2
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2012
-[/us/pl/98/369/s67/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs67%2Fd%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F587
-[/us/pl/97/424/s512/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs512%2Fb%2F2%2FB
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2177
-[/us/pl/97/248/s310/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs310%2Fb%2F4%2FB
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F598
-[/us/pl/96/510/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs211%2Fb
+[/us/pl/96/510/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2FtII
 [/us/stat/94/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2801
-[/us/pl/96/223/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs101%2Fa%2F2
+[/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/stat/94/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F250
-[/us/pl/95/227/s4/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F2%2FC
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F22
-[/us/pl/94/455/s1307/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F3%2FA
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1728
-[/us/pl/93/406/s1016/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fb%2F2
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F932
-[/us/pl/91/172/s101/j/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F59
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F532
-[/us/pl/88/563/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F563%2Fs2%2Fb
+[/us/pl/88/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F563
 [/us/stat/78/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F841
-[/us/pl/111/148/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9008
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F859
-[/us/pl/111/152/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1404%2Fa
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1064
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/usc/t21/s355/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355%2Fb
@@ -1133,35 +1133,35 @@
 [/us/usc/t42/s1395w–3a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%933a%2Fc
 [/us/usc/t42/s1396r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%938
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
-[/us/pl/111/152/s1404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1404%2Fb
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1064
 [/us/pl/111/148/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9008
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9009
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F862
-[/us/pl/111/148/s10904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10904%2Fa
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1016
-[/us/pl/111/152/s1405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1405%2Fd
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
-[/us/pl/111/152/s1405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1405%2Fd
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
 [/us/pl/111/148/s9009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9009
-[/us/pl/111/148/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9010
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F865
-[/us/pl/111/152/s1406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1406%2Fa
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
-[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/pl/114/113/dP/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtII
 [/us/stat/129/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3037
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t42/s1395ss/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ss%2Fg%2F1
-[/us/pl/111/152/s1406/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1406%2Fa%2F3%2FC
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1065
 [/us/pl/111/148/s9010/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9010%2Fc
-[/us/pl/111/152/s1406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1406%2Fb
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1067
 [/us/pl/111/148/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9010
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/111/148/s10905/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10905%2Fg
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1019
 [/us/pl/111/148/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9010
 

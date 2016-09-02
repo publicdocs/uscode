@@ -15,11 +15,11 @@
 
 # Title 26—INTERNAL REVENUE CODE
 
-Current through 114-115not95
+Current through 114-115
 
  __[__  __Act Aug. 16, 1954, ch. 736__  __][/us/act/1954-08-16/ch736]__  __,__  __[__  __68A Stat. 3__  __][/us/stat/68A/3]__ 
 
-    The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
+    The following tables have been prepared as aids in comparing provisions of the Internal Revenue Code of 1954 (redesignated the Internal Revenue Code of 1986 by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]) with provisions of the Internal Revenue Code of 1939. No inferences, implications, or presumptions of legislative construction or intent are to be drawn or made by reason of such tables.
 
     Citations to “R.A.” refer to the sections of earlier Revenue Acts.
 
@@ -46613,7 +46613,7 @@ See 26 U.S.C. 4(a), 5, 7  </td>
 
     The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \* \*.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 3][/us/stat/68A/3]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 3][/us/stat/68A/3]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -46621,7 +46621,7 @@ See 26 U.S.C. 4(a), 5, 7  </td>
 
  __Redesignation of Internal Revenue Code of 1954; References__ 
 
-[Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __Redesignation of__  __1954__  __Code__  __.—__ 
 
@@ -46743,17 +46743,17 @@ INTERNAL REVENUE TITLE  </td>
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title XV, § 1531(b)(3)][/us/pl/105/34/s1531/b/3], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
+    1997—[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(b)(3), Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085], added subtitle K heading “Group health plan requirements” and struck out former subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-    1996—[Pub. L. 104–191, title IV, § 401(b)][/us/pl/104/191/s401/b], Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082], added subtitle K heading “Group health plan portability, access, and renewability requirements”.
+    1996—[Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(b), Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082], added subtitle K heading “Group health plan portability, access, and renewability requirements”.
 
-    1982—[Pub. L. 97–248, title III][/us/pl/97/248], §§ 307(b)(2), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 307(b)(2), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subtitle C heading is amended to read “Employment taxes and collection of income tax at source”. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67/tI], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-    1981—[Pub. L. 97–119, title I, § 103(c)(2)][/us/pl/97/119/s103/c/2], Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638], added subtitle I heading “Trust Fund Code”.
+    1981—[Pub. L. 97–119, title I][/us/pl/97/119/tI], § 103(c)(2), Dec. 29, 1981, [95 Stat. 1638][/us/stat/95/1638], added subtitle I heading “Trust Fund Code”.
 
-    1976—[Pub. L. 94–455, title XIX, § 1907(b)(2)][/us/pl/94/455/s1907/b/2], Oct. 4, 1976, [90 Stat. 1836][/us/stat/90/1836], substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1907(b)(2), Oct. 4, 1976, [90 Stat. 1836][/us/stat/90/1836], substituted in subtitle G heading “The Joint Committee on Taxation” for “The Joint Committee on Internal Revenue Taxation”.
 
-    1974—[Pub. L. 93–443, title IV, § 408(a)][/us/pl/93/443/s408/a], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297], added subtitle H heading “Financing of Presidential election campaigns”.
+    1974—[Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(a), Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297], added subtitle H heading “Financing of Presidential election campaigns”.
 
  __Table of Contents__ 
 
@@ -47570,29 +47570,29 @@ Subtitle K—Group Health Plan Requirements  </td>
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F3
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F3
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/105/34/s1531/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F3
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
-[/us/pl/104/191/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fb
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2082
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F590
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/119/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs103%2Fc%2F2
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1638
-[/us/pl/94/455/s1907/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1907%2Fb%2F2
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1836
-[/us/pl/93/443/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fa
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
 
 

@@ -17,7 +17,7 @@
 
     Under such regulations as the Secretary may prescribe, and on the filing of such bonds and applications as he may require, pilot brewing plants may, at the discretion of the Secretary be established and operated off the brewery premises for research, analytical, experimental, or development purposes with regard to beer or brewery operations. Nothing in this section shall be construed as authority to waive the filing of any bond or the payment of any tax provided for in this chapter.
 
-(Added [Pub. L. 91–673, § 4(a)][/us/pl/91/673/s4/a], Jan. 12, 1971, [84 Stat. 2057][/us/stat/84/2057]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 91–673][/us/pl/91/673], § 4(a), Jan. 12, 1971, [84 Stat. 2057][/us/stat/84/2057]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/673/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs4%2Fa
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2057
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/673/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs5

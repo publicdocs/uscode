@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIV/m__us_usc_t26_stA_ch1_schO_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptIV/m__us_usc_t26_s1052.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1051)
 
-## \[§ 1051. Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(78)][/us/pl/113/295/s221/a/78], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049]\]
+## \[§ 1051. Repealed. [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(78), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049]\]
 
-    Section, [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 310][/us/stat/68A/310]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(131), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1834, related to property acquired by a corporation during affiliation.
+    Section, [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 310][/us/stat/68A/310]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(131), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1786][/us/stat/90/1786], 1834, related to property acquired by a corporation during affiliation.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F78
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F310
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1786
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

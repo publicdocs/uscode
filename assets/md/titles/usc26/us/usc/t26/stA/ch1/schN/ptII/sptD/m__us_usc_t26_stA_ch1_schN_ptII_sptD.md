@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–239, title VII, § 7401(c)][/us/pl/101/239/s7401/c], Dec. 19, 1989, [103 Stat. 2357][/us/stat/103/2357], added item 898.
+    1989—[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7401(c), Dec. 19, 1989, [103 Stat. 2357][/us/stat/103/2357], added item 898.
 
-    1986—[Pub. L. 99–514, title XII, § 1212(b)(1)][/us/pl/99/514/s1212/b/1], Oct. 22, 1986, [100 Stat. 2537][/us/stat/100/2537], redesignated former subpart (C) as (D).
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1212(b)(1), Oct. 22, 1986, [100 Stat. 2537][/us/stat/100/2537], redesignated former subpart (C) as (D).
 
-    1980—[Pub. L. 96–499, title XI, § 1122(b)][/us/pl/96/499/s1122/b], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687], added item 897.
+    1980—[Pub. L. 96–499, title XI][/us/pl/96/499/tXI], § 1122(b), Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687], added item 897.
 
-    1966—[Pub. L. 89–809, title I][/us/pl/89/809], §§ 102(a)(4)(B), 105(c), Nov. 13, 1966, [80 Stat. 1543][/us/stat/80/1543], 1565, substituted “affected by treaty” for “exempt under treaty” in item 894, inserted “or from bank deposits” in item 895, and added item 896.
+    1966—[Pub. L. 89–809, title I][/us/pl/89/809/tI], §§ 102(a)(4)(B), 105(c), Nov. 13, 1966, [80 Stat. 1543][/us/stat/80/1543], 1565, substituted “affected by treaty” for “exempt under treaty” in item 894, inserted “or from bank deposits” in item 895, and added item 896.
 
-    1961—[Pub. L. 87–29, § 1(b)][/us/pl/87/29/s1/b], May 4, 1961, [75 Stat. 64][/us/stat/75/64], added item 895.
+    1961—[Pub. L. 87–29][/us/pl/87/29], § 1(b), May 4, 1961, [75 Stat. 64][/us/stat/75/64], added item 895.
 
 ----------
 
@@ -108,15 +108,15 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7401%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2357
-[/us/pl/99/514/s1212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fb%2F1
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2537
-[/us/pl/96/499/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1122%2Fb
+[/us/pl/96/499/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtXI
 [/us/stat/94/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2687
-[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1543
-[/us/pl/87/29/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F29%2Fs1%2Fb
+[/us/pl/87/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F29
 [/us/stat/75/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F64
 
 

@@ -183,7 +183,7 @@
 
         This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner’s successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 102–486, title XIX, § 1937(b)(2)][/us/pl/102/486/s1937/b/2], Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033]; [Pub. L. 103–465, title VII, § 741(a)][/us/pl/103/465/s741/a], Dec. 8, 1994, [108 Stat. 5006][/us/stat/108/5006]; [Pub. L. 105–34, title X, § 1062(b)(3)][/us/pl/105/34/s1062/b/3], Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1937(b)(2), Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 741(a), Dec. 8, 1994, [108 Stat. 5006][/us/stat/108/5006]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1062(b)(3), Aug. 5, 1997, [111 Stat. 947][/us/stat/111/947].)
 
  __References in Text__ 
 
@@ -203,7 +203,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 741(c)][/us/pl/103/465/s741/c], Dec. 8, 1994, [108 Stat. 5009][/us/stat/108/5009], provided that:
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 741(c), Dec. 8, 1994, [108 Stat. 5009][/us/stat/108/5009], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -266,11 +266,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F245
-[/us/pl/102/486/s1937/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1937%2Fb%2F2
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3033
-[/us/pl/103/465/s741/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs741%2Fa
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5006
-[/us/pl/105/34/s1062/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fb%2F3
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F947
 [/us/usc/t15/s80a–2/a/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa%2F32
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -279,7 +279,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fc
 [/us/usc/t26/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs724
-[/us/pl/103/465/s741/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs741%2Fc
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5009
 [/us/usc/t26/s737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs737
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

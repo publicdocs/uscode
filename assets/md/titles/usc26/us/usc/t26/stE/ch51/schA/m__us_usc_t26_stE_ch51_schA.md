@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11125(b)(1)(B)][/us/pl/109/59/s11125/b/1/B], Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], substituted “Miscellaneous provisions” for “Occupational tax” in item for part II.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(1)(B), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], substituted “Miscellaneous provisions” for “Occupational tax” in item for part II.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/59/s11125/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F1%2FB
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 
 

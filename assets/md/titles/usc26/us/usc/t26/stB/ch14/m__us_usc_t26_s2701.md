@@ -345,53 +345,53 @@
 
             The Secretary may by regulation provide that any applicable retained interest shall be treated as 2 or more separate interests for purposes of this section.
 
-(Added [Pub. L. 101–508, title XI, § 11602(a)][/us/pl/101/508/s11602/a], Nov. 5, 1990, [104 Stat. 1388–491][/us/stat/104/1388-491]; amended [Pub. L. 104–188, title I, § 1702(f)(1)][/us/pl/104/188/s1702/f/1]–(3)(B), (4)–(5)(B), (6)–(10), Aug. 20, 1996, [110 Stat. 1870–1872][/us/stat/110/1870-1872].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11602(a), Nov. 5, 1990, [104 Stat. 1388–491][/us/stat/104/1388-491]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1702(f)(1)–(3)(B), (4)–(5)(B), (6)–(10), Aug. 20, 1996, [110 Stat. 1870–1872][/us/stat/110/1870-1872].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(3)(B). [Pub. L. 104–188, § 1702(f)(1)(B)][/us/pl/104/188/s1702/f/1/B], inserted “certain” before “qualified” in heading.
+    1996—Subsec. (a)(3)(B). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(1)(B), inserted “certain” before “qualified” in heading.
 
-    Subsec. (a)(3)(C). [Pub. L. 104–188, § 1702(f)(1)(A)][/us/pl/104/188/s1702/f/1/A], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(1)(A), added subpar. (C).
 
-    Subsec. (a)(4)(B)(i). [Pub. L. 104–188, § 1702(f)(2)][/us/pl/104/188/s1702/f/2], inserted “(or, to the extent provided in regulations, the rights as to either income or capital)” after “income and capital”.
+    Subsec. (a)(4)(B)(i). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(2), inserted “(or, to the extent provided in regulations, the rights as to either income or capital)” after “income and capital”.
 
-    Subsec. (b)(2)(C). [Pub. L. 104–188, § 1702(f)(3)(A)][/us/pl/104/188/s1702/f/3/A], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(3)(A), added subpar. (C).
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 104–188, § 1702(f)(4)][/us/pl/104/188/s1702/f/4], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a right to distributions with respect to any junior equity interest (as defined in subsection (a)(4)(B)(i)),”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a right to distributions with respect to any junior equity interest (as defined in subsection (a)(4)(B)(i)),”.
 
-    Subsec. (c)(3)(C)(i). [Pub. L. 104–188, § 1702(f)(5)(A)][/us/pl/104/188/s1702/f/5/A], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows:
+    Subsec. (c)(3)(C)(i). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(5)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows:
 
     “(i) Waiver of qualified payment treatment.—A transferor or applicable family member may elect with respect to payments under any interest specified in such election to treat such payments as payments which are not qualified payments.”
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 104–188, § 1702(f)(5)(B)][/us/pl/104/188/s1702/f/5/B], amended first sentence generally. Prior to amendment, first sentence read as follows: “A transferor or any applicable family member may elect to treat any distribution right as a qualified payment, to be paid in the amounts and at the times specified in such election.”
+    Subsec. (c)(3)(C)(ii). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(5)(B), amended first sentence generally. Prior to amendment, first sentence read as follows: “A transferor or any applicable family member may elect to treat any distribution right as a qualified payment, to be paid in the amounts and at the times specified in such election.”
 
-    Subsec. (d)(1). [Pub. L. 104–188, § 1702(f)(1)(C)][/us/pl/104/188/s1702/f/1/C], substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
+    Subsec. (d)(1). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(1)(C), substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
 
-    Subsec. (d)(3)(A)(iii). [Pub. L. 104–188, § 1702(f)(6)][/us/pl/104/188/s1702/f/6], struck out “the period ending on the date of” after “with respect to”.
+    Subsec. (d)(3)(A)(iii). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(6), struck out “the period ending on the date of” after “with respect to”.
 
-    Subsec. (d)(3)(B)(ii)(I). [Pub. L. 104–188, § 1702(f)(7)][/us/pl/104/188/s1702/f/7], inserted “or the exclusion under section 2503(b),” after “section 2523,”.
+    Subsec. (d)(3)(B)(ii)(I). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(7), inserted “or the exclusion under section 2503(b),” after “section 2523,”.
 
-    Subsec. (d)(4)(A). [Pub. L. 104–188, § 1702(f)(1)(C)][/us/pl/104/188/s1702/f/1/C], substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
+    Subsec. (d)(4)(A). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(1)(C), substituted “subsection (a)(3)(B) or (C)” for “subsection (a)(3)(B)”.
 
-    Subsec. (d)(4)(C). [Pub. L. 104–188, § 1702(f)(9)][/us/pl/104/188/s1702/f/9], added subpar. (C).
+    Subsec. (d)(4)(C). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(9), added subpar. (C).
 
-    Subsec. (e)(3). [Pub. L. 104–188, § 1702(f)(3)(B)][/us/pl/104/188/s1702/f/3/B], substituted “Attribution of indirect holdings and transfers” for “Attribution rules” in par. heading, struck out subpar. (A) designation and heading which read “Indirect holdings and transfers”, and struck out subpar. (B) which read as follows:
+    Subsec. (e)(3). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(3)(B), substituted “Attribution of indirect holdings and transfers” for “Attribution rules” in par. heading, struck out subpar. (A) designation and heading which read “Indirect holdings and transfers”, and struck out subpar. (B) which read as follows:
 
     “(B) Control.—For purposes of subsections (b)(1), an individual shall be treated as holding any interest held by the individual’s brothers, sisters, or lineal descendants.”
 
-    Subsec. (e)(5)(A). [Pub. L. 104–188, § 1702(f)(8)(A)][/us/pl/104/188/s1702/f/8/A], substituted “such transaction” for “such contribution to capital or such redemption, recapitalization, or other change”.
+    Subsec. (e)(5)(A). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(8)(A), substituted “such transaction” for “such contribution to capital or such redemption, recapitalization, or other change”.
 
-    Subsec. (e)(5)(B). [Pub. L. 104–188, § 1702(f)(8)(B)][/us/pl/104/188/s1702/f/8/B], substituted “such transaction” for “the transfer”.
+    Subsec. (e)(5)(B). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(8)(B), substituted “such transaction” for “the transfer”.
 
-    Subsec. (e)(6). [Pub. L. 104–188, § 1702(f)(10)][/us/pl/104/188/s1702/f/10], inserted “or to reflect the application of subsection (d)” before period at end.
+    Subsec. (e)(6). [Pub. L. 104–188][/us/pl/104/188], § 1702(f)(10), inserted “or to reflect the application of subsection (d)” before period at end.
 
  __Effective Date of 1996 Amendment__ 
 
-    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
+    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title XI, § 11602(e)(1)][/us/pl/101/508/s11602/e/1], Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], provided that:
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11602(e)(1), Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -423,13 +423,13 @@
 
  __Time for Election Under Subsection (c)(3)(C)(i)__ 
 
-[Pub. L. 104–188, title I, § 1702(f)(5)(C)][/us/pl/104/188/s1702/f/5/C], Aug. 20, 1996, [110 Stat. 1871][/us/stat/110/1871], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1702(f)(5)(C), Aug. 20, 1996, [110 Stat. 1871][/us/stat/110/1871], provided that: 
 
 > “The time for making an election under the second sentence of section 2701(c)(3)(C)(i) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) shall not expire before the due date (including extensions) for filing the transferor’s return of the tax imposed by section 2501 of such Code for the first calendar year ending after the date of enactment \[probably means the date of enactment of [Pub. L. 104–188][/us/pl/104/188], Oct. 20, 1996\].”
 
  __Study of Methods Used To Distort Valuation of Property for Purposes of Estate and Gift Tax__ 
 
-[Pub. L. 101–508, title XI, § 11602(d)][/us/pl/101/508/s11602/d], Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11602(d), Nov. 5, 1990, [104 Stat. 1388–500][/us/stat/104/1388-500], provided that: 
 
 > “The Secretary of the Treasury shall conduct a study of—
 
@@ -446,36 +446,36 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11602%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-491
-[/us/pl/104/188/s1702/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F1
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1870-1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1870-1872
-[/us/pl/104/188/s1702/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F1%2FB
-[/us/pl/104/188/s1702/f/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F1%2FA
-[/us/pl/104/188/s1702/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F2
-[/us/pl/104/188/s1702/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F3%2FA
-[/us/pl/104/188/s1702/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F4
-[/us/pl/104/188/s1702/f/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F5%2FA
-[/us/pl/104/188/s1702/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F5%2FB
-[/us/pl/104/188/s1702/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F1%2FC
-[/us/pl/104/188/s1702/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F6
-[/us/pl/104/188/s1702/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F7
-[/us/pl/104/188/s1702/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F1%2FC
-[/us/pl/104/188/s1702/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F9
-[/us/pl/104/188/s1702/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F3%2FB
-[/us/pl/104/188/s1702/f/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F8%2FA
-[/us/pl/104/188/s1702/f/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F8%2FB
-[/us/pl/104/188/s1702/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F10
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/pl/104/188/s1702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fi
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
-[/us/pl/101/508/s11602/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11602%2Fe%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-500
-[/us/pl/104/188/s1702/f/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Ff%2F5%2FC
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1871
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508/s11602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11602%2Fd
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-500
 
 

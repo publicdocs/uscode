@@ -89,11 +89,11 @@
 
         Any insulation that has an R value of not less than R35 per inch.
 
-(Added [Pub. L. 97–424, title V, § 512(b)(1)][/us/pl/97/424/s512/b/1], Jan. 6, 1983, [96 Stat. 2176][/us/stat/96/2176]; amended [Pub. L. 98–369, div. A, title VII, § 735(b)(1)][/us/pl/98/369/s735/b/1], July 18, 1984, [98 Stat. 981][/us/stat/98/981]; [Pub. L. 108–357, title VIII, § 851(a)(1)][/us/pl/108/357/s851/a/1], Oct. 22, 2004, [118 Stat. 1607][/us/stat/118/1607]; [Pub. L. 110–343, div. B, title II, § 206(a)][/us/pl/110/343/s206/a], Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839].)
+(Added [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 512(b)(1), Jan. 6, 1983, [96 Stat. 2176][/us/stat/96/2176]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(b)(1), July 18, 1984, [98 Stat. 981][/us/stat/98/981]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 851(a)(1), Oct. 22, 2004, [118 Stat. 1607][/us/stat/118/1607]; [Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 206(a), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839].)
 
  __Prior Provisions__ 
 
-    A prior section 4053, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 104][/us/pl/85/859/s104], [72 Stat. 1276][/us/stat/72/1276], made provision for the imposition of the retailers tax on installment sales, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(a)(1)(D)][/us/pl/94/455/s1904/a/1/D], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
+    A prior section 4053, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479]; Sept. 2, 1958, [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 104, [72 Stat. 1276][/us/stat/72/1276], made provision for the imposition of the retailers tax on installment sales, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(1)(D), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
 
     For provisions of prior sections 4054 to 4058 of this title, see Prior Provisions note set out preceding [section 4041 of this title][/us/usc/t26/s4041].
 
@@ -107,13 +107,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title II, § 206(b)][/us/pl/110/343/s206/b], Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839], provided that: 
+[Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 206(b), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to sales or installations after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 851(a)(2)][/us/pl/108/357/s851/a/2], Oct. 22, 2004, [118 Stat. 1607][/us/stat/118/1607], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 851(a)(2), Oct. 22, 2004, [118 Stat. 1607][/us/stat/118/1607], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -128,27 +128,27 @@
 ----------
 ----------
 
-[/us/pl/97/424/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs512%2Fb%2F1
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2176
-[/us/pl/98/369/s735/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fb%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F981
-[/us/pl/108/357/s851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs851%2Fa%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1607
-[/us/pl/110/343/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs206%2Fa
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3839
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
-[/us/pl/85/859/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs104
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1276
-[/us/pl/94/455/s1904/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FD
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/110/343/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs206%2Fb
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3839
-[/us/pl/108/357/s851/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs851%2Fa%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1607
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424

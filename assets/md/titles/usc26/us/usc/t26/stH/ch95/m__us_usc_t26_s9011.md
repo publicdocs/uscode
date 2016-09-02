@@ -25,15 +25,15 @@
 
         (2) The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this subsection and shall exercise the same without regard to whether a person asserting rights under provisions of this subsection shall have exhausted any administrative or other remedies that may be provided at law. Such proceedings shall be heard and determined by a court of three judges in accordance with the provisions of [section 2284 of title 28][/us/usc/t28/s2284], United States Code, and any appeal shall lie to the Supreme Court.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 570][/us/stat/85/570]; amended [Pub. L. 93–443, title IV, § 404(c)(19)][/us/pl/93/443/s404/c/19]–(21), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293]; [Pub. L. 98–620, title IV, § 402(28)(F)][/us/pl/98/620/s402/28/F], Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 570][/us/stat/85/570]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 404(c)(19)–(21), Oct. 15, 1974, [88 Stat. 1293][/us/stat/88/1293]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(28)(F), Nov. 8, 1984, [98 Stat. 3359][/us/stat/98/3359].)
 
  __Amendments__ 
 
     1984—Subsec. (b)(2). [Pub. L. 98–620][/us/pl/98/620] struck out provision requiring the judges designated to hear the case to assign the case for hearing at the earliest practicable date, to participate in the hearing and determination thereof, and to cause the case to be in every way expedited.
 
-    1974—Subsec. (a). [Pub. L. 93–443, § 404(c)(19)][/us/pl/93/443/s404/c/19], (20), substituted “Commission” for “Comptroller General” in heading and wherever appearing in text.
+    1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(19), (20), substituted “Commission” for “Comptroller General” in heading and wherever appearing in text.
 
-    Subsec. (b). [Pub. L. 93–443, § 404(c)(21)][/us/pl/93/443/s404/c/21], substituted “Commission” for “Comptroller General”.
+    Subsec. (b). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(21), substituted “Commission” for “Comptroller General”.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -51,15 +51,15 @@
 ----------
 
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F570
-[/us/pl/93/443/s404/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F19
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1293
-[/us/pl/98/620/s402/28/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F28%2FF
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3359
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/93/443/s404/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F19
-[/us/pl/93/443/s404/c/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F21
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

@@ -95,7 +95,7 @@
 
         The penalty imposed by this section shall be in addition to any other penalty imposed by this title.
 
-(Added [Pub. L. 108–357, title VIII, § 811(a)][/us/pl/108/357/s811/a], Oct. 22, 2004, [118 Stat. 1575][/us/stat/118/1575]; amended [Pub. L. 110–172, § 11(a)(41)][/us/pl/110/172/s11/a/41], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 111–240, title II, § 2041(a)][/us/pl/111/240/s2041/a], Sept. 27, 2010, [124 Stat. 2560][/us/stat/124/2560].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 811(a), Oct. 22, 2004, [118 Stat. 1575][/us/stat/118/1575]; amended [Pub. L. 110–172][/us/pl/110/172], § 11(a)(41), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2041(a), Sept. 27, 2010, [124 Stat. 2560][/us/stat/124/2560].)
 
  __References in Text__ 
 
@@ -109,19 +109,19 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–240, title II, § 2041(b)][/us/pl/111/240/s2041/b], Sept. 27, 2010, [124 Stat. 2560][/us/stat/124/2560], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2041(b), Sept. 27, 2010, [124 Stat. 2560][/us/stat/124/2560], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to penalties assessed after December 31, 2006.”
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 811(c)][/us/pl/108/357/s811/c], Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577], as amended by [Pub. L. 109–135, title IV, § 403(w)][/us/pl/109/135/s403/w], Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 811(c), Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577], as amended by [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(w), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to returns and statements the due date for which is after the date of the enactment of this Act \[Oct. 22, 2004\] and which were not filed before such date.”
 
  __Report__ 
 
-[Pub. L. 108–357, title VIII, § 811(d)][/us/pl/108/357/s811/d], Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 811(d), Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577], provided that: 
 
 > “The Commissioner of Internal Revenue shall annually report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
@@ -136,21 +136,21 @@
 ----------
 ----------
 
-[/us/pl/108/357/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs811%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1575
-[/us/pl/110/172/s11/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F41
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
-[/us/pl/111/240/s2041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2041%2Fa
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2560
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/111/240/s2041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2041%2Fb
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2560
-[/us/pl/108/357/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs811%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1577
-[/us/pl/109/135/s403/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fw
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2629
-[/us/pl/108/357/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs811%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1577
 
 

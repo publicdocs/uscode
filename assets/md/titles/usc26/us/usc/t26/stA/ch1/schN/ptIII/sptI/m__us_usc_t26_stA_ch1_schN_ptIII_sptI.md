@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title III, § 337(a)][/us/pl/97/248/s337/a], Sept. 3, 1982, [96 Stat. 629][/us/stat/96/629], added subpart I and item 982.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 337(a), Sept. 3, 1982, [96 Stat. 629][/us/stat/96/629], added subpart I and item 982.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/97/248/s337/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs337%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F629
 
 

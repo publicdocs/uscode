@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 863(d)(2)][/us/pl/108/357/s863/d/2], Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620], added item 6725.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 863(d)(2), Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620], added item 6725.
 
-    1989—[Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388], substituted “COMPLY WITH CERTAIN INFORMATION REPORTING REQUIREMENTS” for “FILE CERTAIN INFORMATION RETURNS OR STATEMENTS” in part heading and substituted “correct” for “certain” in items 6721 and 6722 and “comply with other information reporting requirements” for “include correct information” in item 6723.
+    1989—[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7711(a), Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388], substituted “COMPLY WITH CERTAIN INFORMATION REPORTING REQUIREMENTS” for “FILE CERTAIN INFORMATION RETURNS OR STATEMENTS” in part heading and substituted “correct” for “certain” in items 6721 and 6722 and “comply with other information reporting requirements” for “include correct information” in item 6723.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s863/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs863%2Fd%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1620
-[/us/pl/101/239/s7711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7711%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2388
 
 

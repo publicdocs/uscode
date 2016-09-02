@@ -283,7 +283,7 @@
 
                     In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2073][/us/stat/110/2073]; amended [Pub. L. 105–34, title XV, § 1531(b)(1)(A)][/us/pl/105/34/s1531/b/1/A], Aug. 5, 1997, [111 Stat. 1084][/us/stat/111/1084]; [Pub. L. 111–3, title III, § 311(a)][/us/pl/111/3/s311/a], Feb. 4, 2009, [123 Stat. 64][/us/stat/123/64]; [Pub. L. 111–5, div. B, title I, § 1899D(a)][/us/pl/111/5/s1899D/a], Feb. 17, 2009, [123 Stat. 425][/us/stat/123/425]; [Pub. L. 111–344, title I, § 114(a)][/us/pl/111/344/s114/a], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II, § 242(a)(1)][/us/pl/112/40/s242/a/1], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2073][/us/stat/110/2073]; amended [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(b)(1)(A), Aug. 5, 1997, [111 Stat. 1084][/us/stat/111/1084]; [Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(a), Feb. 4, 2009, [123 Stat. 64][/us/stat/123/64]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1899D(a), Feb. 17, 2009, [123 Stat. 425][/us/stat/123/425]; [Pub. L. 111–344, title I][/us/pl/111/344/tI], § 114(a), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 242(a)(1), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
 
  __References in Text__ 
 
@@ -305,7 +305,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–40, title II, § 242(b)][/us/pl/112/40/s242/b], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], provided that:
+[Pub. L. 112–40, title II][/us/pl/112/40/tII], § 242(b), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -327,7 +327,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–344, title I, § 114(d)][/us/pl/111/344/s114/d], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], provided that: 
+[Pub. L. 111–344, title I][/us/pl/111/344/tI], § 114(d), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 1181 of Title 29][/us/usc/t29/s1181], Labor, and [section 300gg of Title 42][/us/usc/t42/s300gg], The Public Health and Welfare\] shall apply to plan years beginning after December 31, 2010.”
 
@@ -335,7 +335,7 @@
 
     Except as otherwise provided and subject to certain applicability provisions, amendment by [Pub. L. 111–5][/us/pl/111/5] effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see [section 1891 of Pub. L. 111–5][/us/pl/111/5/s1891], set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of Title 19][/us/usc/t19/s2271], Customs Duties.
 
-[Pub. L. 111–5, div. B, title I, § 1899D(d)][/us/pl/111/5/s1899D/d], Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1899D(d), Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 1181 of Title 29][/us/usc/t29/s1181], Labor, and [section 300gg of Title 42][/us/usc/t42/s300gg], The Public Health and Welfare\] shall apply to plan years beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -347,7 +347,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title IV, § 401(c)][/us/pl/104/191/s401/c], Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082], provided that:
+[Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(c), Aug. 21, 1996, [110 Stat. 2082][/us/stat/110/2082], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -415,17 +415,17 @@
 [/us/usc/t22/s2504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2504%2Fe
 [/us/usc/t29/s1181/f/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff%2F3%2FB%2Fi%2FII
 [/us/usc/t29/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1024
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2073
-[/us/pl/105/34/s1531/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fb%2F1%2FA
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1084
-[/us/pl/111/3/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fa
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F64
-[/us/pl/111/5/s1899D/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899D%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F425
-[/us/pl/111/344/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs114%2Fa
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
-[/us/pl/112/40/s242/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F1
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -437,19 +437,19 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/112/40/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fb
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t29/s1181/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Fc%2F2%2FC
 [/us/usc/t42/s300gg–3/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933%2Fc%2F2%2FC
-[/us/pl/111/344/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs114%2Fd
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1891
 [/us/usc/t19/s2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2271
-[/us/pl/111/5/s1899D/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899D%2Fd
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F426
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
@@ -459,7 +459,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fc
 [/us/usc/t26/s4980D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980D
-[/us/pl/104/191/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fc
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2082
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392
 

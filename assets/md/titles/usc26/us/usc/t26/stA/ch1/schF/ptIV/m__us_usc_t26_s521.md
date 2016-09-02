@@ -49,7 +49,7 @@
 
             For treatment of value-added processing involving animals, see section 1388(k).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 176][/us/stat/68A/176]; [Pub. L. 87–834, § 17(b)(1)][/us/pl/87/834/s17/b/1], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051]; [Pub. L. 99–272, title XIII, § 13210(b)][/us/pl/99/272/s13210/b], Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324]; [Pub. L. 108–357, title III, § 316(b)][/us/pl/108/357/s316/b], Oct. 22, 2004, [118 Stat. 1469][/us/stat/118/1469].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 176][/us/stat/68A/176]; [Pub. L. 87–834][/us/pl/87/834], § 17(b)(1), Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051]; [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13210(b), Apr. 7, 1986, [100 Stat. 324][/us/stat/100/324]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 316(b), Oct. 22, 2004, [118 Stat. 1469][/us/stat/118/1469].)
 
  __Amendments__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title III, § 316(c)][/us/pl/108/357/s316/c], Oct. 22, 2004, [118 Stat. 1469][/us/stat/118/1469], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 316(c), Oct. 22, 2004, [118 Stat. 1469][/us/stat/118/1469], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1388 of this title][/us/usc/t26/s1388]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -82,16 +82,16 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F176
-[/us/pl/87/834/s17/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fb%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1051
-[/us/pl/99/272/s13210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13210%2Fb
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F324
-[/us/pl/108/357/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs316%2Fb
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1469
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
-[/us/pl/108/357/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs316%2Fc
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1469
 [/us/usc/t26/s1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1388
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

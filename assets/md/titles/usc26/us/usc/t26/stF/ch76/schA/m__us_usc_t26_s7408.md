@@ -41,7 +41,7 @@
 
         If any citizen or resident of the United States does not reside in, and does not have his principal place of business in, any United States judicial district, such citizen or resident shall be treated for purposes of this section as residing in the District of Columbia.
 
-(Added [Pub. L. 97–248, title III, § 321(a)][/us/pl/97/248/s321/a], Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612]; amended [Pub. L. 98–369, div. A, title I, § 143(b)][/us/pl/98/369/s143/b], July 18, 1984, [98 Stat. 682][/us/stat/98/682]; [Pub. L. 108–357, title VIII, § 820(a)][/us/pl/108/357/s820/a], (b)(1), Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 321(a), Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 143(b), July 18, 1984, [98 Stat. 682][/us/stat/98/682]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 820(a), (b)(1), Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585].)
 
  __Prior Provisions__ 
 
@@ -49,17 +49,17 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, § 820(b)(1)][/us/pl/108/357/s820/b/1], amended section catchline generally, substituting “Actions to enjoin specified conduct related to tax shelters and reportable transactions” for “Action to enjoin promoters of abusive tax shelters, etc.”
+    2004—[Pub. L. 108–357][/us/pl/108/357], § 820(b)(1), amended section catchline generally, substituting “Actions to enjoin specified conduct related to tax shelters and reportable transactions” for “Action to enjoin promoters of abusive tax shelters, etc.”
 
-    Subsecs. (a) to (d). [Pub. L. 108–357, § 820(a)][/us/pl/108/357/s820/a], added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b), which authorized a civil action to enjoin any person from further engaging in conduct subject to penalty under section 6700 or 6701 of this title and authorized the court, if it found that the person had engaged in such conduct and that injunctive relief was appropriate, to enjoin such person from engaging in such conduct or in any other activity subject to penalty under section 6700 or 6701.
+    Subsecs. (a) to (d). [Pub. L. 108–357][/us/pl/108/357], § 820(a), added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b), which authorized a civil action to enjoin any person from further engaging in conduct subject to penalty under section 6700 or 6701 of this title and authorized the court, if it found that the person had engaged in such conduct and that injunctive relief was appropriate, to enjoin such person from engaging in such conduct or in any other activity subject to penalty under section 6700 or 6701.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 143(b)(1)][/us/pl/98/369/s143/b/1], (2), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability)” and inserted reference to section 6701 at end of second sentence.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 143(b)(1), (2), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability)” and inserted reference to section 6701 at end of second sentence.
 
-    Subsec. (b). [Pub. L. 98–369, § 143(b)(1)][/us/pl/98/369/s143/b/1], (3), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability),” in par. (1) and inserted reference to section 6701 at end.
+    Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 143(b)(1), (3), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability),” in par. (1) and inserted reference to section 6701 at end.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 820(c)][/us/pl/108/357/s820/c], Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 820(c), Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 321(c)][/us/pl/97/248/s321/c], Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 321(c), Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -81,23 +81,23 @@
 ----------
 
 [/us/usc/t31/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs330
-[/us/pl/97/248/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs321%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F612
-[/us/pl/98/369/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F682
-[/us/pl/108/357/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs820%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1585
 [/us/usc/t26/s7410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7410
-[/us/pl/108/357/s820/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs820%2Fb%2F1
-[/us/pl/108/357/s820/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs820%2Fa
-[/us/pl/98/369/s143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fb%2F1
-[/us/pl/98/369/s143/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fb%2F1
-[/us/pl/108/357/s820/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs820%2Fc
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1585
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s143/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs143%2Fc
 [/us/usc/t26/s6700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6700
-[/us/pl/97/248/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs321%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F612
 
 

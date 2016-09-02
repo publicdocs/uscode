@@ -115,17 +115,17 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(41)(A)][/us/pl/113/295/s221/a/41/A], Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], struck out item 244 “Dividends received on certain preferred stock” and item 247 “Dividends paid on certain preferred stock of public utilities”.
+    2014—[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(A), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], struck out item 244 “Dividends received on certain preferred stock” and item 247 “Dividends paid on certain preferred stock of public utilities”.
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(4)][/us/pl/101/508/s11801/b/4], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item 250 “Certain payments to the National Railroad Passenger Corporation”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(4), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item 250 “Certain payments to the National Railroad Passenger Corporation”.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 51(b)][/us/pl/98/369/s51/b], July 18, 1984, [98 Stat. 564][/us/stat/98/564], added item 246A.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 51(b), July 18, 1984, [98 Stat. 564][/us/stat/98/564], added item 246A.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(1)(AA)][/us/pl/94/455/s1901/b/1/AA], Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], struck out item 242 “Partially tax-exempt interest”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(1)(AA), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], struck out item 242 “Partially tax-exempt interest”.
 
-    1970—[Pub. L. 91–518, title IX, § 901(b)][/us/pl/91/518/s901/b], Oct. 30, 1970, [84 Stat. 1342][/us/stat/84/1342], added item 250.
+    1970—[Pub. L. 91–518, title IX][/us/pl/91/518/tIX], § 901(b), Oct. 30, 1970, [84 Stat. 1342][/us/stat/84/1342], added item 250.
 
-    1969—[Pub. L. 91–172, title IV, § 414(b)][/us/pl/91/172/s414/b], Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613], added item 249.
+    1969—[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 414(b), Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613], added item 249.
 
 ----------
 
@@ -134,17 +134,17 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/41/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
-[/us/pl/101/508/s11801/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F4
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/98/369/s51/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs51%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F564
-[/us/pl/94/455/s1901/b/1/AA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F1%2FAA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1792
-[/us/pl/91/518/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F518%2Fs901%2Fb
+[/us/pl/91/518/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F518%2FtIX
 [/us/stat/84/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1342
-[/us/pl/91/172/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs414%2Fb
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F613
 
 

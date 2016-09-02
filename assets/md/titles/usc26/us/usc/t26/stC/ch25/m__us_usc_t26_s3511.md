@@ -101,7 +101,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 113–295, div. B, title II, § 206(a)][/us/pl/113/295/s206/a], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
+(Added [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(a), Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
 
  __Effective Date__ 
 
@@ -114,7 +114,7 @@
 ----------
 ----------
 
-[/us/pl/113/295/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fa
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302

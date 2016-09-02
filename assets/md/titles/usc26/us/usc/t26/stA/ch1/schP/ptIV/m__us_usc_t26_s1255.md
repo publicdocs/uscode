@@ -49,23 +49,23 @@
 
         (2) for purposes of sections 170(e), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and 751(c), amounts treated as ordinary income under this section shall be treated in the same manner as amounts treated as ordinary income under section 1245.
 
-(Added [Pub. L. 95–600, title V, § 543(c)(1)][/us/pl/95/600/s543/c/1], Nov. 6, 1978, [92 Stat. 2890][/us/stat/92/2890]; amended [Pub. L. 96–222, title I, § 105(a)(7)(B)][/us/pl/96/222/s105/a/7/B], (D), Apr. 1, 1980, [94 Stat. 221][/us/stat/94/221]; [Pub. L. 96–471, § 2(b)(6)][/us/pl/96/471/s2/b/6], Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254]; [Pub. L. 99–514, title V, § 511(d)(2)(A)][/us/pl/99/514/s511/d/2/A], title VI, § 631(e)(14), Oct. 22, 1986, [100 Stat. 2248][/us/stat/100/2248], 2275; [Pub. L. 100–647, title I, § 1005(c)(10)][/us/pl/100/647/s1005/c/10], Nov. 10, 1988, [102 Stat. 3392][/us/stat/102/3392]; [Pub. L. 108–27, title III, § 302(e)(4)(B)(ii)][/us/pl/108/27/s302/e/4/B/ii], May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
+(Added [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 543(c)(1), Nov. 6, 1978, [92 Stat. 2890][/us/stat/92/2890]; amended [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 105(a)(7)(B), (D), Apr. 1, 1980, [94 Stat. 221][/us/stat/94/221]; [Pub. L. 96–471][/us/pl/96/471], § 2(b)(6), Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254]; [Pub. L. 99–514, title V][/us/pl/99/514/tV], § 511(d)(2)(A), title VI, § 631(e)(14), Oct. 22, 1986, [100 Stat. 2248][/us/stat/100/2248], 2275; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1005(c)(10), Nov. 10, 1988, [102 Stat. 3392][/us/stat/102/3392]; [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 302(e)(4)(B)(ii), May 28, 2003, [117 Stat. 764][/us/stat/117/764].)
 
  __Amendments__ 
 
     2003—Subsec. (b)(2). [Pub. L. 108–27][/us/pl/108/27] struck out “, 341(e)(12),” after “170(e)”.
 
-    1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647] amended [Pub. L. 99–514, § 511(d)(2)(A)][/us/pl/99/514/s511/d/2/A], see 1986 Amendment note below.
+    1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647] amended [Pub. L. 99–514][/us/pl/99/514], § 511(d)(2)(A), see 1986 Amendment note below.
 
-    1986—Subsec. (b)(2). [Pub. L. 99–514, § 511(d)(2)(A)][/us/pl/99/514/s511/d/2/A], as amended by [Pub. L. 100–647][/us/pl/100/647], struck out “163(d),” after “sections”.
+    1986—Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 511(d)(2)(A), as amended by [Pub. L. 100–647][/us/pl/100/647], struck out “163(d),” after “sections”.
 
-    [Pub. L. 99–514, § 631(e)(14)][/us/pl/99/514/s631/e/14], struck out “453B(d)(2)” after “341(e)(12),”.
+    [Pub. L. 99–514][/us/pl/99/514], § 631(e)(14), struck out “453B(d)(2)” after “341(e)(12),”.
 
-    1980—Subsec. (a)(1)(B). [Pub. L. 96–222, § 105(a)(7)(B)][/us/pl/96/222/s105/a/7/B], inserted following cl. (ii) provisions requiring that such gain be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
+    1980—Subsec. (a)(1)(B). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(B), inserted following cl. (ii) provisions requiring that such gain be recognized notwithstanding any other provision of this subtitle, except that this section shall not apply to the extent such gain is recognized as ordinary income under any other provision of this part.
 
     Subsec. (b)(2). [Pub. L. 96–471][/us/pl/96/471] substituted “453B(d)(2)” for “453(d)(4)(B)”.
 
-    [Pub. L. 96–222, § 105(a)(7)(D)][/us/pl/96/222/s105/a/7/D], inserted “for purposes of sections 163(d), 170(e), 341(e)(12), 453(d)(4)(B), and 751(c)” before “amounts treated as”.
+    [Pub. L. 96–222][/us/pl/96/222], § 105(a)(7)(D), inserted “for purposes of sections 163(d), 170(e), 341(e)(12), 453(d)(4)(B), and 751(c)” before “amounts treated as”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -98,27 +98,27 @@
 ----------
 ----------
 
-[/us/pl/95/600/s543/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs543%2Fc%2F1
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2890
-[/us/pl/96/222/s105/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FB
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F221
-[/us/pl/96/471/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs2%2Fb%2F6
+[/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/stat/94/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2254
-[/us/pl/99/514/s511/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F2%2FA
+[/us/pl/99/514/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtV
 [/us/stat/100/2248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2248
-[/us/pl/100/647/s1005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fc%2F10
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3392
-[/us/pl/108/27/s302/e/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F4%2FB%2Fii
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F764
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s511/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F2%2FA
-[/us/pl/99/514/s511/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs511%2Fd%2F2%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s631/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F14
-[/us/pl/96/222/s105/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FB
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
-[/us/pl/96/222/s105/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FD
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/108/27/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Ff
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

@@ -295,7 +295,7 @@
 
                 For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan’s qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added [Pub. L. 98–397, title II, § 203(b)][/us/pl/98/397/s203/b], Aug. 23, 1984, [98 Stat. 1441][/us/stat/98/1441]; amended [Pub. L. 99–514, title XI, § 1139(b)][/us/pl/99/514/s1139/b], title XVIII, § 1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, [100 Stat. 2487][/us/stat/100/2487], 2944, 2945, 2947–2951; [Pub. L. 100–647, title I, § 1018(u)(9)][/us/pl/100/647/s1018/u/9], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 101–239, title VII, § 7862(d)(1)(A)][/us/pl/101/239/s7862/d/1/A], Dec. 19, 1989, [103 Stat. 2433][/us/stat/103/2433]; [Pub. L. 103–465, title VII, § 767(a)(2)][/us/pl/103/465/s767/a/2], Dec. 8, 1994, [108 Stat. 5038][/us/stat/108/5038]; [Pub. L. 104–188, title I, § 1451(a)][/us/pl/104/188/s1451/a], Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X, § 1071(a)(2)][/us/pl/105/34/s1071/a/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–147, title IV, § 411(r)(1)][/us/pl/107/147/s411/r/1], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III, § 302(b)][/us/pl/109/280/s302/b], title X, § 1004(a), title XI, § 1102(a)(1)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1053, 1056; [Pub. L. 110–458, title I, § 103(b)(2)(A)][/us/pl/110/458/s103/b/2/A], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II, § 40211(a)(2)(C)][/us/pl/112/141/s40211/a/2/C], July 6, 2012, [126 Stat. 847][/us/stat/126/847]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(i)][/us/pl/113/295/s221/a/57/B/i], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
+(Added [Pub. L. 98–397, title II][/us/pl/98/397/tII], § 203(b), Aug. 23, 1984, [98 Stat. 1441][/us/stat/98/1441]; amended [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1139(b), title XVIII, § 1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, [100 Stat. 2487][/us/stat/100/2487], 2944, 2945, 2947–2951; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(9), Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7862(d)(1)(A), Dec. 19, 1989, [103 Stat. 2433][/us/stat/103/2433]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 767(a)(2), Dec. 8, 1994, [108 Stat. 5038][/us/stat/108/5038]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1451(a), Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1071(a)(2), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(r)(1), Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III][/us/pl/109/280/tIII], § 302(b), title X, § 1004(a), title XI, § 1102(a)(1)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1053, 1056; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 103(b)(2)(A), Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40211(a)(2)(C), July 6, 2012, [126 Stat. 847][/us/stat/126/847]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(57)(B)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __Amendments__ 
 
@@ -309,19 +309,19 @@
 
     2008—Subsec. (e)(3)(D)(i). [Pub. L. 110–458][/us/pl/110/458] substituted “subparagraph (C)” for “clause (ii)”.
 
-    2006—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 109–280, § 1004(a)(1)][/us/pl/109/280/s1004/a/1], added cl. (ii) and redesignated former cl. (ii) as (iii).
+    2006—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 109–280][/us/pl/109/280], § 1004(a)(1), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 109–280, § 1004(a)(3)][/us/pl/109/280/s1004/a/3], inserted “and of the qualified optional survivor annuity” before comma at end.
+    Subsec. (a)(3)(A)(i). [Pub. L. 109–280][/us/pl/109/280], § 1004(a)(3), inserted “and of the qualified optional survivor annuity” before comma at end.
 
-    Subsec. (a)(6)(A). [Pub. L. 109–280, § 1102(a)(1)(A)][/us/pl/109/280/s1102/a/1/A], substituted “180-day” for “90-day”.
+    Subsec. (a)(6)(A). [Pub. L. 109–280][/us/pl/109/280], § 1102(a)(1)(A), substituted “180-day” for “90-day”.
 
-    Subsec. (e)(3). [Pub. L. 109–280, § 302(b)][/us/pl/109/280/s302/b], reenacted heading without change and amended text of par. (3) generally, substituting provisions relating to determination of present value by using the applicable mortality table and the applicable interest rate, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions relating to determination of the adjusted first, second, and third segment rates, for provisions relating to determination of present value, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions stating exception for a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994.
+    Subsec. (e)(3). [Pub. L. 109–280][/us/pl/109/280], § 302(b), reenacted heading without change and amended text of par. (3) generally, substituting provisions relating to determination of present value by using the applicable mortality table and the applicable interest rate, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions relating to determination of the adjusted first, second, and third segment rates, for provisions relating to determination of present value, provisions defining “applicable mortality table” and “applicable interest rate”, and provisions stating exception for a distribution from a plan that was adopted and in effect before the date of the enactment of the Retirement Protection Act of 1994.
 
-    Subsec. (g). [Pub. L. 109–280, § 1004(a)(2)][/us/pl/109/280/s1004/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–280][/us/pl/109/280], § 1004(a)(2), added subsec. (g).
 
-    2002—Subsec. (e)(1). [Pub. L. 107–147, § 411(r)(1)(A)][/us/pl/107/147/s411/r/1/A], substituted “exceed the amount that can be distributed without the participant’s consent under section 411(a)(11)” for “exceed the dollar limit under section 411(a)(11)(A)”.
+    2002—Subsec. (e)(1). [Pub. L. 107–147][/us/pl/107/147], § 411(r)(1)(A), substituted “exceed the amount that can be distributed without the participant’s consent under section 411(a)(11)” for “exceed the dollar limit under section 411(a)(11)(A)”.
 
-    Subsec. (e)(2)(A). [Pub. L. 107–147, § 411(r)(1)(B)][/us/pl/107/147/s411/r/1/B], substituted “exceeds the amount that can be distributed without the participant’s consent under section 411(a)(11)” for “exceeds the dollar limit under section 411(a)(11)(A)”.
+    Subsec. (e)(2)(A). [Pub. L. 107–147][/us/pl/107/147], § 411(r)(1)(B), substituted “exceeds the amount that can be distributed without the participant’s consent under section 411(a)(11)” for “exceeds the dollar limit under section 411(a)(11)(A)”.
 
     1997—Subsec. (e)(1), (2). [Pub. L. 105–34][/us/pl/105/34] substituted “dollar limit” for “$3,500” in headings of pars. (1) and (2) and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in text of pars. (1) and (2)(A).
 
@@ -333,37 +333,37 @@
 
     1988—Subsec. (e)(3)(A). [Pub. L. 100–647][/us/pl/100/647] substituted “clause (ii)” for “subclause (II)” in last sentence.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–514, § 1898(b)(15)(A)][/us/pl/99/514/s1898/b/15/A], substituted “section 401(a)(11)” for “section 401(a)(ii)”.
+    1986—Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(15)(A), substituted “section 401(a)(11)” for “section 401(a)(ii)”.
 
-    Subsec. (a)(1)(B). [Pub. L. 99–514, § 1898(b)(4)(A)(i)][/us/pl/99/514/s1898/b/4/A/i], substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+    Subsec. (a)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(4)(A)(i), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-    Subsec. (a)(2)(A). [Pub. L. 99–514, § 1898(b)(6)(A)][/us/pl/99/514/s1898/b/6/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the spouse of the participant consents in writing to such election, and the spouse’s consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or”.
+    Subsec. (a)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(6)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the spouse of the participant consents in writing to such election, and the spouse’s consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or”.
 
-    Subsec. (a)(3)(B). [Pub. L. 99–514, § 1898(b)(5)(A)][/us/pl/99/514/s1898/b/5/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
+    Subsec. (a)(3)(B). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(5)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A).”
 
-    Subsec. (a)(4). [Pub. L. 99–514, § 1898(b)(4)(A)(ii)][/us/pl/99/514/s1898/b/4/A/ii], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(4)(A)(ii), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (a)(5), (6). [Pub. L. 99–514, § 1898(b)(4)(A)(ii)][/us/pl/99/514/s1898/b/4/A/ii], (11)(A), redesignated former par. (4) as (5) and inserted in subpar. (A) “if such benefit may not be waived (or another beneficiary selected) and” before “if the plan”. Former par. (5) redesignated (6).
+    Subsec. (a)(5), (6). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(4)(A)(ii), (11)(A), redesignated former par. (4) as (5) and inserted in subpar. (A) “if such benefit may not be waived (or another beneficiary selected) and” before “if the plan”. Former par. (5) redesignated (6).
 
-    Subsec. (c)(1). [Pub. L. 99–514, § 1898(b)(15)(B)][/us/pl/99/514/s1898/b/15/B], substituted “survivor annuity for the life of” for “survivor annuity or the life of”.
+    Subsec. (c)(1). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(15)(B), substituted “survivor annuity for the life of” for “survivor annuity or the life of”.
 
-    [Pub. L. 99–514, § 1898(b)(1)(A)][/us/pl/99/514/s1898/b/1/A], inserted “In the case of an individual who separated from service before the date of such individual’s death, subparagraph (A)(ii)(I) shall not apply.”
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(1)(A), inserted “In the case of an individual who separated from service before the date of such individual’s death, subparagraph (A)(ii)(I) shall not apply.”
 
-    Subsec. (c)(2). [Pub. L. 99–514, § 1898(b)(9)(A)(i)][/us/pl/99/514/s1898/b/9/A/i], substituted “the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 411(a))” for “the account balance of the participant as of the date of death”.
+    Subsec. (c)(2). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(9)(A)(i), substituted “the portion of the account balance of the participant (as of the date of death) to which the participant had a nonforfeitable right (within the meaning of section 411(a))” for “the account balance of the participant as of the date of death”.
 
-    Subsec. (c)(3). [Pub. L. 99–514, § 1898(b)(9)(A)(ii)][/us/pl/99/514/s1898/b/9/A/ii], added par. (3).
+    Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(9)(A)(ii), added par. (3).
 
-    Subsec. (e)(3). [Pub. L. 99–514, § 1139(b)][/us/pl/99/514/s1139/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and by using an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
+    Subsec. (e)(3). [Pub. L. 99–514][/us/pl/99/514], § 1139(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of paragraphs (1) and (2), the present value of a qualified joint and survivor annuity or a qualified preretirement survivor annuity shall be determined as of the date of the distribution and by using an interest rate not greater than the interest rate which would be used (as of the date of the distribution) by the Pension Benefit Guaranty Corporation for purposes of determining the present value of a lump sum distribution on plan termination.”
 
-    Subsec. (f)(1). [Pub. L. 99–514, § 1898(b)(8)(A)][/us/pl/99/514/s1898/b/8/A], substituted “such participant’s accrued benefit” for “the accrued benefit derived from employer contributions”.
+    Subsec. (f)(1). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(8)(A), substituted “such participant’s accrued benefit” for “the accrued benefit derived from employer contributions”.
 
-    Subsec. (f)(2). [Pub. L. 99–514, § 1898(b)(12)(A)][/us/pl/99/514/s1898/b/12/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘annuity starting date’ means the first day of the first period for which an amount is received as an annuity (whether by reason of retirement or disability).”
+    Subsec. (f)(2). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(12)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘annuity starting date’ means the first day of the first period for which an amount is received as an annuity (whether by reason of retirement or disability).”
 
-    Subsec. (f)(5). [Pub. L. 99–514, § 1898(b)(4)(A)(iii)][/us/pl/99/514/s1898/b/4/A/iii], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (f)(5). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(4)(A)(iii), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (f)(6), (7). [Pub. L. 99–514, § 1898(b)(10)(A)][/us/pl/99/514/s1898/b/10/A], added par. (6) and redesignated former par. (6) as (7).
+    Subsec. (f)(6), (7). [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(10)(A), added par. (6) and redesignated former par. (6) as (7).
 
-    [Pub. L. 99–514, § 1898(b)(4)(A)(iii)][/us/pl/99/514/s1898/b/4/A/iii], redesignated former par. (5) as (6).
+    [Pub. L. 99–514][/us/pl/99/514], § 1898(b)(4)(A)(iii), redesignated former par. (5) as (6).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -379,11 +379,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title III, § 302(c)][/us/pl/109/280/s302/c], Aug. 17, 2006, [120 Stat. 921][/us/stat/120/921], provided that: 
+[Pub. L. 109–280, title III][/us/pl/109/280/tIII], § 302(c), Aug. 17, 2006, [120 Stat. 921][/us/stat/120/921], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply with respect to plan years beginning after December 31, 2007.”
 
-[Pub. L. 109–280, title X, § 1004(c)][/us/pl/109/280/s1004/c], Aug. 17, 2006, [120 Stat. 1055][/us/stat/120/1055], provided that:
+[Pub. L. 109–280, title X][/us/pl/109/280/tX], § 1004(c), Aug. 17, 2006, [120 Stat. 1055][/us/stat/120/1055], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -403,7 +403,7 @@
 
 >         “(B) January 1, 2009.”
 
-[Pub. L. 109–280, title XI, § 1102(a)(3)][/us/pl/109/280/s1102/a/3], Aug. 17, 2006, [120 Stat. 1056][/us/stat/120/1056], provided that: 
+[Pub. L. 109–280, title XI][/us/pl/109/280/tXI], § 1102(a)(3), Aug. 17, 2006, [120 Stat. 1056][/us/stat/120/1056], provided that: 
 
 > “The amendments and modifications made or required by this subsection \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to years beginning after December 31, 2006.”
 
@@ -417,7 +417,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1451(c)][/us/pl/104/188/s1451/c], Aug. 20, 1996, [110 Stat. 1816][/us/stat/110/1816], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1451(c), Aug. 20, 1996, [110 Stat. 1816][/us/stat/110/1816], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to plan years beginning after December 31, 1996.”
 
@@ -437,7 +437,7 @@
 
     Amendment by [section 1139(b) of Pub. L. 99–514][/us/pl/99/514/s1139/b] applicable to distributions in plan years beginning after Dec. 31, 1984, except that such amendments shall not apply to any distributions in plan years beginning after Dec. 31, 1984, and before Jan. 1, 1987, if such distributions were made in accordance with the requirements of the regulations issued under the Retirement Equity Act of 1984, [Pub. L. 98–397][/us/pl/98/397], with additional provisions relating to reductions in accrued benefits, see [section 1139(d) of Pub. L. 99–514][/us/pl/99/514/s1139/d], set out as a note under [section 411 of this title][/us/usc/t26/s411].
 
-[Pub. L. 99–514, title XVIII, § 1898(b)(4)(C)][/us/pl/99/514/s1898/b/4/C], Oct. 22, 1986, [100 Stat. 2946][/us/stat/100/2946], provided that:
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1898(b)(4)(C), Oct. 22, 1986, [100 Stat. 2946][/us/stat/100/2946], provided that:
 
 >     “(i) The amendments made by this paragraph \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply with respect to loans made after August 18, 1985.
 
@@ -445,7 +445,7 @@
 
 >     “(iii) For purposes of this subparagraph, any loan which is revised, extended, renewed, or renegotiated after August 18, 1985, shall be treated as made after August 18, 1985.    [Section 1898(b)(6)(C) of Pub. L. 99–514][/us/pl/99/514/s1898/b/6/C] provided that: “The amendments made by this paragraph \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
->         [Section 1898(b)(8)(C) of Pub. L. 99–514][/us/pl/99/514/s1898/b/8/C], as added by [Pub. L. 101–239, title VII, § 7862(d)(2)][/us/pl/101/239/s7862/d/2], Dec. 19, 1989, [103 Stat. 2434][/us/stat/103/2434], provided that: “The amendments made by this paragraph \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+>         [Section 1898(b)(8)(C) of Pub. L. 99–514][/us/pl/99/514/s1898/b/8/C], as added by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7862(d)(2), Dec. 19, 1989, [103 Stat. 2434][/us/stat/103/2434], provided that: “The amendments made by this paragraph \[amending this section and [section 1055 of Title 29][/us/usc/t29/s1055], Labor\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 >         Amendment by section 1898(b)(1)(A), (5)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B) of [Pub. L. 99–514][/us/pl/99/514] effective as if included in the provision of the Retirement Equity Act of 1984, [Pub. L. 98–397][/us/pl/98/397], to which such amendment relates, except as otherwise provided, see [section 1898(j) of Pub. L. 99–514][/us/pl/99/514/s1898/j], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
@@ -468,62 +468,62 @@
 ----------
 ----------
 
-[/us/pl/98/397/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs203%2Fb
+[/us/pl/98/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtII
 [/us/stat/98/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1441
-[/us/pl/99/514/s1139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1139%2Fb
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2487
-[/us/pl/100/647/s1018/u/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F9
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3590
-[/us/pl/101/239/s7862/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7862%2Fd%2F1%2FA
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2433
-[/us/pl/103/465/s767/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs767%2Fa%2F2
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5038
-[/us/pl/104/188/s1451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1451%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1815
-[/us/pl/105/34/s1071/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1071%2Fa%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F948
-[/us/pl/107/147/s411/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fr%2F1
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F51
-[/us/pl/109/280/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs302%2Fb
+[/us/pl/109/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIII
 [/us/stat/120/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F920
-[/us/pl/110/458/s103/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs103%2Fb%2F2%2FA
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5103
-[/us/pl/112/141/s40211/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FC
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
-[/us/pl/113/295/s221/a/57/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FB%2Fi
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s430/h/2/G/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430%2Fh%2F2%2FG%2Fi%2FII
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
-[/us/pl/109/280/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1004%2Fa%2F1
-[/us/pl/109/280/s1004/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1004%2Fa%2F3
-[/us/pl/109/280/s1102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1102%2Fa%2F1%2FA
-[/us/pl/109/280/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs302%2Fb
-[/us/pl/109/280/s1004/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1004%2Fa%2F2
-[/us/pl/107/147/s411/r/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fr%2F1%2FA
-[/us/pl/107/147/s411/r/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fr%2F1%2FB
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1898/b/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F15%2FA
-[/us/pl/99/514/s1898/b/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fi
-[/us/pl/99/514/s1898/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F6%2FA
-[/us/pl/99/514/s1898/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F5%2FA
-[/us/pl/99/514/s1898/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fii
-[/us/pl/99/514/s1898/b/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fii
-[/us/pl/99/514/s1898/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F15%2FB
-[/us/pl/99/514/s1898/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F1%2FA
-[/us/pl/99/514/s1898/b/9/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F9%2FA%2Fi
-[/us/pl/99/514/s1898/b/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F9%2FA%2Fii
-[/us/pl/99/514/s1139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1139%2Fb
-[/us/pl/99/514/s1898/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F8%2FA
-[/us/pl/99/514/s1898/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F12%2FA
-[/us/pl/99/514/s1898/b/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fiii
-[/us/pl/99/514/s1898/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F10%2FA
-[/us/pl/99/514/s1898/b/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fiii
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -534,13 +534,13 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs302%2Fc
+[/us/pl/109/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIII
 [/us/stat/120/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F921
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
-[/us/pl/109/280/s1004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1004%2Fc
+[/us/pl/109/280/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtX
 [/us/stat/120/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1055
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
-[/us/pl/109/280/s1102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1102%2Fa%2F3
+[/us/pl/109/280/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXI
 [/us/stat/120/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1056
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
@@ -550,7 +550,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1071/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1071%2Fc
 [/us/usc/t26/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411
-[/us/pl/104/188/s1451/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1451%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1816
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
@@ -568,7 +568,7 @@
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/99/514/s1139/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1139%2Fd
 [/us/usc/t26/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411
-[/us/pl/99/514/s1898/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FC
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2946
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
@@ -577,7 +577,7 @@
 [/us/pl/99/514/s1898/b/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F6%2FC
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/pl/99/514/s1898/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F8%2FC
-[/us/pl/101/239/s7862/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7862%2Fd%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2434
 [/us/usc/t29/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

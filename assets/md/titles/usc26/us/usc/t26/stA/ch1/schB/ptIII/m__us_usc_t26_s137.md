@@ -75,7 +75,7 @@
 
         If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
-(Added [Pub. L. 104–188, title I, § 1807(b)][/us/pl/104/188/s1807/b], Aug. 20, 1996, [110 Stat. 1901][/us/stat/110/1901]; amended [Pub. L. 105–34, title XVI, § 1601(h)(2)(C)][/us/pl/105/34/s1601/h/2/C], Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092]; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(C)][/us/pl/105/277/s4003/a/2/C], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title II, § 202(a)(2)][/us/pl/107/16/s202/a/2], (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, § 431(c)(1), June 7, 2001, [115 Stat. 47][/us/stat/115/47], 48, 68; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 411(c)(2), 418(a)(2), Mar. 9, 2002, [116 Stat. 45][/us/stat/116/45], 57; [Pub. L. 108–311, title IV, § 403(e)][/us/pl/108/311/s403/e], Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188]; [Pub. L. 108–357, title I, § 102(d)(1)][/us/pl/108/357/s102/d/1], Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 111–148, title X, § 10909(a)(2)][/us/pl/111/148/s10909/a/2], (b)(2)(J), (c), Mar. 23, 2010, [124 Stat. 1022][/us/stat/124/1022], 1023; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298].)
+(Added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1807(b), Aug. 20, 1996, [110 Stat. 1901][/us/stat/110/1901]; amended [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(h)(2)(C), Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(a)(2)(C), Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title II][/us/pl/107/16/tII], § 202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, § 431(c)(1), June 7, 2001, [115 Stat. 47][/us/stat/115/47], 48, 68; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], §§ 411(c)(2), 418(a)(2), Mar. 9, 2002, [116 Stat. 45][/us/stat/116/45], 57; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 403(e), Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188]; [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 102(d)(1), Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, [124 Stat. 1022][/us/stat/124/1022], 1023; [Pub. L. 111–312, title I][/us/pl/111/312/tI], § 101(b)(1), Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -83,7 +83,7 @@
 
  __References in Text__ 
 
-    [Section 514 of title 14][/us/usc/t14/s514], referred to in subsec. (c), was renumbered [section 541 of title 14][/us/usc/t14/s541] by [Pub. L. 113–281, title II, § 214(b)(1)(A)][/us/pl/113/281/s214/b/1/A], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033].
+    [Section 514 of title 14][/us/usc/t14/s514], referred to in subsec. (c), was renumbered [section 541 of title 14][/us/usc/t14/s541] by [Pub. L. 113–281, title II][/us/pl/113/281/tII], § 214(b)(1)(A), Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033].
 
  __Prior Provisions__ 
 
@@ -91,15 +91,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(2). [Pub. L. 111–148, § 10909(a)(2)(B)][/us/pl/111/148/s10909/a/2/B], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “$13,170” for “$10,000” in heading and text. See Effective and Termination Dates of 2010 Amendment note below.
+    2010—Subsec. (a)(2). [Pub. L. 111–148][/us/pl/111/148], § 10909(a)(2)(B), (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “$13,170” for “$10,000” in heading and text. See Effective and Termination Dates of 2010 Amendment note below.
 
-    Subsec. (b)(1). [Pub. L. 111–148, § 10909(a)(2)(A)][/us/pl/111/148/s10909/a/2/A], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “$13,170” for “$10,000”. See Effective and Termination Dates of 2010 Amendment note below.
+    Subsec. (b)(1). [Pub. L. 111–148][/us/pl/111/148], § 10909(a)(2)(A), (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “$13,170” for “$10,000”. See Effective and Termination Dates of 2010 Amendment note below.
 
-    Subsec. (d). [Pub. L. 111–148, § 10909(b)(2)(J)(i)][/us/pl/111/148/s10909/b/2/J/i], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 36C(d)” for “section 23(d)”. See Effective and Termination Dates of 2010 Amendment note below.
+    Subsec. (d). [Pub. L. 111–148][/us/pl/111/148], § 10909(b)(2)(J)(i), (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 36C(d)” for “section 23(d)”. See Effective and Termination Dates of 2010 Amendment note below.
 
-    Subsec. (e). [Pub. L. 111–148, § 10909(b)(2)(J)(ii)][/us/pl/111/148/s10909/b/2/J/ii], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 36C” for “section 23”. See Effective and Termination Dates of 2010 Amendment note below.
+    Subsec. (e). [Pub. L. 111–148][/us/pl/111/148], § 10909(b)(2)(J)(ii), (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 36C” for “section 23”. See Effective and Termination Dates of 2010 Amendment note below.
 
-    Subsec. (f). [Pub. L. 111–148, § 10909(a)(2)(C)][/us/pl/111/148/s10909/a/2/C], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily amended subsec. (f) generally. See Effective and Termination Dates of 2010 Amendment note below. Prior to amendment subsec. (f) read as follows: “Adjustments for inflation.—In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 10909(a)(2)(C), (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily amended subsec. (f) generally. See Effective and Termination Dates of 2010 Amendment note below. Prior to amendment subsec. (f) read as follows: “Adjustments for inflation.—In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(2) and paragraphs (1) and (2)(A) of subsection (b) shall be increased by an amount equal to—
 
     “(1) such dollar amount, multiplied by
 
@@ -107,29 +107,29 @@
 
     If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
 
-    2004—Subsec. (b)(1). [Pub. L. 108–311][/us/pl/108/311] amended directory language of [Pub. L. 107–147, § 411(c)(2)(B)][/us/pl/107/147/s411/c/2/B]. See 2002 Amendment note below.
+    2004—Subsec. (b)(1). [Pub. L. 108–311][/us/pl/108/311] amended directory language of [Pub. L. 107–147][/us/pl/107/147], § 411(c)(2)(B). See 2002 Amendment note below.
 
     Subsec. (b)(3)(A). [Pub. L. 108–357][/us/pl/108/357] inserted “199,” before “221”.
 
-    2002—Subsec. (a). [Pub. L. 107–147, § 411(c)(2)(A)][/us/pl/107/147/s411/c/2/A], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program. The amount of the exclusion shall be—
+    2002—Subsec. (a). [Pub. L. 107–147][/us/pl/107/147], § 411(c)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program. The amount of the exclusion shall be—
 
     “(1) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
 
     “(2) in the case of an adoption of a child with special needs, $10,000.”
 
-    Subsec. (b)(1). [Pub. L. 107–147, § 411(c)(2)(B)][/us/pl/107/147/s411/c/2/B], as amended by [Pub. L. 108–311][/us/pl/108/311], substituted “subsection (a)” for “subsection (a)(1)”.
+    Subsec. (b)(1). [Pub. L. 107–147][/us/pl/107/147], § 411(c)(2)(B), as amended by [Pub. L. 108–311][/us/pl/108/311], substituted “subsection (a)” for “subsection (a)(1)”.
 
-    Subsec. (f). [Pub. L. 107–147, § 418(a)(2)][/us/pl/107/147/s418/a/2], inserted at end “If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
+    Subsec. (f). [Pub. L. 107–147][/us/pl/107/147], § 418(a)(2), inserted at end “If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
 
-    2001—Subsec. (a). [Pub. L. 107–16, § 202(a)(2)][/us/pl/107/16/s202/a/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.”
+    2001—Subsec. (a). [Pub. L. 107–16][/us/pl/107/16], § 202(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.”
 
-    Subsec. (b)(1). [Pub. L. 107–16, § 202(b)(1)(B)][/us/pl/107/16/s202/b/1/B], substituted “subsection (a)(1)” for “subsection (a)” and “$10,000” for “$5,000 ($6,000, in the case of a child with special needs)”.
+    Subsec. (b)(1). [Pub. L. 107–16][/us/pl/107/16], § 202(b)(1)(B), substituted “subsection (a)(1)” for “subsection (a)” and “$10,000” for “$5,000 ($6,000, in the case of a child with special needs)”.
 
-    Subsec. (b)(2)(A). [Pub. L. 107–16, § 202(b)(2)(B)][/us/pl/107/16/s202/b/2/B], substituted “$150,000” for “$75,000”.
+    Subsec. (b)(2)(A). [Pub. L. 107–16][/us/pl/107/16], § 202(b)(2)(B), substituted “$150,000” for “$75,000”.
 
-    Subsec. (b)(3)(A). [Pub. L. 107–16, § 431(c)(1)][/us/pl/107/16/s431/c/1], inserted “222,” after “221,”.
+    Subsec. (b)(3)(A). [Pub. L. 107–16][/us/pl/107/16], § 431(c)(1), inserted “222,” after “221,”.
 
-    Subsec. (f). [Pub. L. 107–16, § 202(d)(2)][/us/pl/107/16/s202/d/2], (e)(2), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not apply to amounts paid or expenses incurred after December 31, 2001.”
+    Subsec. (f). [Pub. L. 107–16][/us/pl/107/16], § 202(d)(2), (e)(2), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “This section shall not apply to amounts paid or expenses incurred after December 31, 2001.”
 
     1998—Subsec. (b)(3)(A). [Pub. L. 105–277][/us/pl/105/277] inserted “221,” after “and sections”.
 
@@ -185,52 +185,52 @@
 ----------
 
 [/us/usc/t10/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1052
-[/us/pl/104/188/s1807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1807%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1901
-[/us/pl/105/34/s1601/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F2%2FC
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1092
-[/us/pl/105/277/s4003/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F2%2FC
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-908
-[/us/pl/107/16/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs202%2Fa%2F2
+[/us/pl/107/16/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtII
 [/us/stat/115/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F47
-[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F45
-[/us/pl/108/311/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs403%2Fe
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1188
-[/us/pl/108/357/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F1
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1428
-[/us/pl/111/148/s10909/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fa%2F2
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1022
-[/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1
+[/us/pl/111/312/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtI
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t14/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs514
 [/us/usc/t14/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs541
-[/us/pl/113/281/s214/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F1%2FA
+[/us/pl/113/281/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2FtII
 [/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/111/148/s10909/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fa%2F2%2FB
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/148/s10909/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fa%2F2%2FA
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/148/s10909/b/2/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FJ%2Fi
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/148/s10909/b/2/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FJ%2Fii
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/148/s10909/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fa%2F2%2FC
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/107/147/s411/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fc%2F2%2FB
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/107/147/s411/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fc%2F2%2FA
-[/us/pl/107/147/s411/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fc%2F2%2FB
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/107/147/s418/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs418%2Fa%2F2
-[/us/pl/107/16/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs202%2Fa%2F2
-[/us/pl/107/16/s202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs202%2Fb%2F1%2FB
-[/us/pl/107/16/s202/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs202%2Fb%2F2%2FB
-[/us/pl/107/16/s431/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs431%2Fc%2F1
-[/us/pl/107/16/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs202%2Fd%2F2
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

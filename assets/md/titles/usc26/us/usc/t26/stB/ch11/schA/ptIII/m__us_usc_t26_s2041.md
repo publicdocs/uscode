@@ -83,7 +83,7 @@
 
             For purposes of this section, a power of appointment created by a will executed on or before October 21, 1942, shall be considered a power created on or before such date if the person executing such will dies before July 1, 1949, without having republished such will, by codicil or otherwise, after October 21, 1942.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 385][/us/stat/68A/385]; [Pub. L. 87–834, § 18(a)(2)(H)][/us/pl/87/834/s18/a/2/H], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX, § 2009(b)(4)(A)][/us/pl/94/455/s2009/b/4/A], Oct. 4, 1976, [90 Stat. 1894][/us/stat/90/1894].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 385][/us/stat/68A/385]; [Pub. L. 87–834][/us/pl/87/834], § 18(a)(2)(H), Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2009(b)(4)(A), Oct. 4, 1976, [90 Stat. 1894][/us/stat/90/1894].)
 
  __Amendments__ 
 
@@ -108,9 +108,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F385
-[/us/pl/87/834/s18/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F2%2FH
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1052
-[/us/pl/94/455/s2009/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F4%2FA
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1894
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834

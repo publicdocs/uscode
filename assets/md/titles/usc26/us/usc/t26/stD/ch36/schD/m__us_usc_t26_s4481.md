@@ -97,15 +97,15 @@
 
         The tax imposed by this section shall apply only to use before October 1, 2017.
 
-(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 390][/us/stat/70/390]; amended [Pub. L. 87–61, title II, § 203(a)][/us/pl/87/61/s203/a], (b)(1), (2)(A), (B), June 29, 1961, [75 Stat. 124][/us/stat/75/124]; [Pub. L. 91–605, title III, § 303(a)(7)][/us/pl/91/605/s303/a/7], (8), Dec. 31, 1970, [84 Stat. 1744][/us/stat/84/1744]; [Pub. L. 94–280, title III, § 303(a)(7)][/us/pl/94/280/s303/a/7], (8), May 5, 1976, [90 Stat. 456][/us/stat/90/456]; [Pub. L. 95–599, title V, § 502(a)(6)][/us/pl/95/599/s502/a/6], (7), Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756]; [Pub. L. 97–424, title V][/us/pl/97/424], §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], 2179, 2182; [Pub. L. 98–369, div. A, title VII, § 734(f)][/us/pl/98/369/s734/f], title IX, § 901(a), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1003; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 502(a)(5), 507(a), Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], 260; [Pub. L. 101–508, title XI, § 11211(c)(5)][/us/pl/101/508/s11211/c/5], Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII, § 8002(a)(5)][/us/pl/102/240/s8002/a/5], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 104–188, title I, § 1704(t)(57)][/us/pl/104/188/s1704/t/57], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–178, title IX, § 9002(a)(1)(G)][/us/pl/105/178/s9002/a/1/G], June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 108–357, title VIII, § 867(a)][/us/pl/108/357/s867/a], (c), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622]; [Pub. L. 109–14, § 9(c)(1)][/us/pl/109/14/s9/c/1], May 31, 2005, [119 Stat. 336][/us/stat/119/336]; [Pub. L. 109–59, title XI, § 11101(a)(2)(A)][/us/pl/109/59/s11101/a/2/A], Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 112–30, title I, § 142(b)(1)][/us/pl/112/30/s142/b/1], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(b)(1)][/us/pl/112/102/s402/b/1], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–141, div. D, title I, § 40102(b)(1)(A)][/us/pl/112/141/s40102/b/1/A], July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1)][/us/pl/114/94/s31102/b/1], Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727].)
+(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 390][/us/stat/70/390]; amended [Pub. L. 87–61, title II][/us/pl/87/61/tII], § 203(a), (b)(1), (2)(A), (B), June 29, 1961, [75 Stat. 124][/us/stat/75/124]; [Pub. L. 91–605, title III][/us/pl/91/605/tIII], § 303(a)(7), (8), Dec. 31, 1970, [84 Stat. 1744][/us/stat/84/1744]; [Pub. L. 94–280, title III][/us/pl/94/280/tIII], § 303(a)(7), (8), May 5, 1976, [90 Stat. 456][/us/stat/90/456]; [Pub. L. 95–599, title V][/us/pl/95/599/tV], § 502(a)(6), (7), Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756]; [Pub. L. 97–424, title V][/us/pl/97/424/tV], §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], 2179, 2182; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 734(f), title IX, § 901(a), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1003; [Pub. L. 100–17, title V][/us/pl/100/17/tV], §§ 502(a)(5), 507(a), Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], 260; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11211(c)(5), Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII][/us/pl/102/240/tVIII], § 8002(a)(5), Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(57), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–178, title IX][/us/pl/105/178/tIX], § 9002(a)(1)(G), June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 867(a), (c), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622]; [Pub. L. 109–14][/us/pl/109/14], § 9(c)(1), May 31, 2005, [119 Stat. 336][/us/stat/119/336]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11101(a)(2)(A), Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 112–30, title I][/us/pl/112/30/tI], § 142(b)(1), Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV][/us/pl/112/102/tIV], § 402(b)(1), Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–141, div. D, title I][/us/pl/112/141/dD/tI], § 40102(b)(1)(A), July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94/dC/tXXXI], § 31102(b)(1), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727].)
 
  __Amendment of Subsection (f)__ 
 
-    [Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1)][/us/pl/114/94/s31102/b/1], (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (f) of this section is amended by striking “2017” and inserting “2023”. See 2015 Amendment note below.
+    [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94/dC/tXXXI], § 31102(b)(1), (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (f) of this section is amended by striking “2017” and inserting “2023”. See 2015 Amendment note below.
 
  __References in Text__ 
 
-    Section 6156, referred to in subsec. (d)(2), was repealed by [Pub. L. 108–357, title VIII, § 867(b)(1)][/us/pl/108/357/s867/b/1], Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622].
+    Section 6156, referred to in subsec. (d)(2), was repealed by [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 867(b)(1), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622].
 
  __Amendments__ 
 
@@ -121,11 +121,11 @@
 
     [Pub. L. 109–14][/us/pl/109/14] substituted “2006” for “2005”.
 
-    2004—Subsec. (c)(2). [Pub. L. 108–357, § 867(a)(2)][/us/pl/108/357/s867/a/2], substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
+    2004—Subsec. (c)(2). [Pub. L. 108–357][/us/pl/108/357], § 867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 108–357, § 867(a)(1)][/us/pl/108/357/s867/a/1], substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
+    Subsec. (c)(2)(A). [Pub. L. 108–357][/us/pl/108/357], § 867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
 
-    Subsecs. (e), (f). [Pub. L. 108–357, § 867(c)][/us/pl/108/357/s867/c], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 108–357][/us/pl/108/357], § 867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
     1998—Subsec. (e). [Pub. L. 105–178][/us/pl/105/178] substituted “2005” for “1999”.
 
@@ -135,11 +135,11 @@
 
     1990—Subsec. (e). [Pub. L. 101–508][/us/pl/101/508] substituted “1995” for “1993”.
 
-    1987—Subsec. (b). [Pub. L. 100–17, § 507(a)][/us/pl/100/17/s507/a], inserted “or contiguous foreign country” after “State”.
+    1987—Subsec. (b). [Pub. L. 100–17][/us/pl/100/17], § 507(a), inserted “or contiguous foreign country” after “State”.
 
-    Subsec. (e). [Pub. L. 100–17, § 502(a)(5)][/us/pl/100/17/s502/a/5], substituted “1993” for “1988”.
+    Subsec. (e). [Pub. L. 100–17][/us/pl/100/17], § 502(a)(5), substituted “1993” for “1988”.
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 901(a)][/us/pl/98/369/s901/a], in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
 
 <table>
 
@@ -219,33 +219,33 @@ The maximum tax a year.  </td>
 
     and struck out par. (2) which provided applicable rates and maximum taxes for taxable periods beginning July 1, 1984 through 1988 or thereafter.
 
-    [Pub. L. 98–369, § 734(f)][/us/pl/98/369/s734/f], struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by [section 513(a) of Pub. L. 97–424][/us/pl/97/424/s513/a]: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
+    [Pub. L. 98–369][/us/pl/98/369], § 734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by [section 513(a) of Pub. L. 97–424][/us/pl/97/424/s513/a]: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
 
-    1983—Subsec. (a). [Pub. L. 97–424, § 513(a)][/us/pl/97/424/s513/a], substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
+    1983—Subsec. (a). [Pub. L. 97–424][/us/pl/97/424], § 513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
 
-    Subsec. (c). [Pub. L. 97–424, § 513(d)][/us/pl/97/424/s513/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 97–424][/us/pl/97/424], § 513(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 97–424, § 516(a)(4)][/us/pl/97/424/s516/a/4], substituted “1988” for “1984” after “October 1,”.
+    Subsec. (e). [Pub. L. 97–424][/us/pl/97/424], § 516(a)(4), substituted “1988” for “1984” after “October 1,”.
 
-    1978—Subsec. (a). [Pub. L. 95–599, § 502(a)(6)][/us/pl/95/599/s502/a/6], substituted “1984” for “1979” in two places.
+    1978—Subsec. (a). [Pub. L. 95–599][/us/pl/95/599], § 502(a)(6), substituted “1984” for “1979” in two places.
 
-    Subsec. (e). [Pub. L. 95–599, § 502(a)(7)][/us/pl/95/599/s502/a/7], substituted “1984” for “1979”.
+    Subsec. (e). [Pub. L. 95–599][/us/pl/95/599], § 502(a)(7), substituted “1984” for “1979”.
 
-    1976—Subsec. (a). [Pub. L. 94–280, § 303(a)(7)][/us/pl/94/280/s303/a/7], substituted “1979” for “1977” in two places.
+    1976—Subsec. (a). [Pub. L. 94–280][/us/pl/94/280], § 303(a)(7), substituted “1979” for “1977” in two places.
 
-    Subsec. (e). [Pub. L. 94–280, § 303(a)(8)][/us/pl/94/280/s303/a/8], substituted “1979” for “1977”.
+    Subsec. (e). [Pub. L. 94–280][/us/pl/94/280], § 303(a)(8), substituted “1979” for “1977”.
 
-    1970—Subsec. (a). [Pub. L. 91–605, § 303(a)(7)][/us/pl/91/605/s303/a/7], substituted “1977” for “1972” in two places.
+    1970—Subsec. (a). [Pub. L. 91–605][/us/pl/91/605], § 303(a)(7), substituted “1977” for “1972” in two places.
 
-    Subsec. (e). [Pub. L. 91–605, § 303(a)(8)][/us/pl/91/605/s303/a/8], substituted “1977” for “1972”.
+    Subsec. (e). [Pub. L. 91–605][/us/pl/91/605], § 303(a)(8), substituted “1977” for “1972”.
 
-    1961—Subsec. (a). [Pub. L. 87–61, § 203(a)][/us/pl/87/61/s203/a], (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
+    1961—Subsec. (a). [Pub. L. 87–61][/us/pl/87/61], § 203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
-    Subsec. (c). [Pub. L. 87–61, § 203(b)(2)(B)][/us/pl/87/61/s203/b/2/B], substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
+    Subsec. (c). [Pub. L. 87–61][/us/pl/87/61], § 203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
 
-    Subsec. (d). [Pub. L. 87–61, § 203(b)(2)(B)][/us/pl/87/61/s203/b/2/B], made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
+    Subsec. (d). [Pub. L. 87–61][/us/pl/87/61], § 203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
-    Subsec. (e). [Pub. L. 87–61, § 203(b)(1)][/us/pl/87/61/s203/b/1], substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+    Subsec. (e). [Pub. L. 87–61][/us/pl/87/61], § 203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -263,19 +263,19 @@ The maximum tax a year.  </td>
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–14, § 9(d)][/us/pl/109/14/s9/d], May 31, 2005, [119 Stat. 336][/us/stat/119/336], provided that: 
+[Pub. L. 109–14][/us/pl/109/14], § 9(d), May 31, 2005, [119 Stat. 336][/us/stat/119/336], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 867(e)][/us/pl/108/357/s867/e], Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 867(e), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 4483 of this title][/us/usc/t26/s4483] and repealing [section 6156 of this title][/us/usc/t26/s6156]\] shall apply to taxable periods beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–17, title V, § 507(d)][/us/pl/100/17/s507/d], Apr. 2, 1987, [101 Stat. 260][/us/stat/101/260], provided that: 
+[Pub. L. 100–17, title V][/us/pl/100/17/tV], § 507(d), Apr. 2, 1987, [101 Stat. 260][/us/stat/101/260], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 4483 of this title][/us/usc/t26/s4483]\] shall take effect on July 1, 1987.”
 
@@ -283,13 +283,13 @@ The maximum tax a year.  </td>
 
     Amendment by [section 734(f) of Pub. L. 98–369][/us/pl/98/369/s734/f] effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of [Pub. L. 97–424][/us/pl/97/424], to which such amendment relates, see [section 736 of Pub. L. 98–369][/us/pl/98/369/s736], set out as a note under [section 4051 of this title][/us/usc/t26/s4051].
 
-[Pub. L. 98–369, div. A, title IX, § 901(c)][/us/pl/98/369/s901/c], July 18, 1984, [98 Stat. 1004][/us/stat/98/1004], provided that: 
+[Pub. L. 98–369, div. A, title IX][/us/pl/98/369/dA/tIX], § 901(c), July 18, 1984, [98 Stat. 1004][/us/stat/98/1004], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–424, title V, § 513(f)][/us/pl/97/424/s513/f], Jan. 6, 1983, [96 Stat. 2179][/us/stat/96/2179], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 513(f), Jan. 6, 1983, [96 Stat. 2179][/us/stat/96/2179], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -335,13 +335,13 @@ The maximum tax a year.  </td>
 
  __Regulations__ 
 
-[Pub. L. 100–17, title V, § 507(c)][/us/pl/100/17/s507/c], Apr. 2, 1987, [101 Stat. 260][/us/stat/101/260], provided that: 
+[Pub. L. 100–17, title V][/us/pl/100/17/tV], § 507(c), Apr. 2, 1987, [101 Stat. 260][/us/stat/101/260], provided that: 
 
 > “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section \[Apr. 2, 1987\] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
 
  __Special Rules in the Case of Certain Owner-Operators__ 
 
-[Pub. L. 98–369, div. A, title IX, § 901(b)][/us/pl/98/369/s901/b], July 18, 1984, [98 Stat. 1003][/us/stat/98/1003], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title IX][/us/pl/98/369/dA/tIX], § 901(b), July 18, 1984, [98 Stat. 1003][/us/stat/98/1003], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __Special rule for taxable period beginning on __  __july 1, 1984__  __.—__ 
 
@@ -365,7 +365,7 @@ The maximum tax a year.  </td>
 
  __Studies Relating to Heavy Vehicle Use Tax__ 
 
-[Pub. L. 98–369, div. A, title IX][/us/pl/98/369], subtitle D, part I, July 18, 1984, [98 Stat. 1010][/us/stat/98/1010], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title IX][/us/pl/98/369/dA/tIX], subtitle D, part I, July 18, 1984, [98 Stat. 1010][/us/stat/98/1010], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 > “SEC. 931. __WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.__ 
 
@@ -391,7 +391,7 @@ The maximum tax a year.  </td>
 
  __Study of Alternatives to Tax on Use of Heavy Trucks__ 
 
-    [Pub. L. 97–424, title V, § 513(g)][/us/pl/97/424/s513/g], Jan. 6, 1983, [96 Stat. 2180][/us/stat/96/2180], provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
+    [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 513(g), Jan. 6, 1983, [96 Stat. 2180][/us/stat/96/2180], provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
 
 ----------
 
@@ -402,45 +402,45 @@ The maximum tax a year.  </td>
 
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F390
-[/us/pl/87/61/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fa
+[/us/pl/87/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtII
 [/us/stat/75/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F124
-[/us/pl/91/605/s303/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs303%2Fa%2F7
+[/us/pl/91/605/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2FtIII
 [/us/stat/84/1744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1744
-[/us/pl/94/280/s303/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs303%2Fa%2F7
+[/us/pl/94/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2FtIII
 [/us/stat/90/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F456
-[/us/pl/95/599/s502/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs502%2Fa%2F6
+[/us/pl/95/599/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtV
 [/us/stat/92/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2756
-[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2177
-[/us/pl/98/369/s734/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs734%2Ff
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F980
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F256
-[/us/pl/101/508/s11211/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11211%2Fc%2F5
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-426
-[/us/pl/102/240/s8002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs8002%2Fa%2F5
+[/us/pl/102/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVIII
 [/us/stat/105/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2203
-[/us/pl/104/188/s1704/t/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F57
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
-[/us/pl/105/178/s9002/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs9002%2Fa%2F1%2FG
+[/us/pl/105/178/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIX
 [/us/stat/112/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F499
-[/us/pl/108/357/s867/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1622
-[/us/pl/109/14/s9/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs9%2Fc%2F1
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F336
-[/us/pl/109/59/s11101/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11101%2Fa%2F2%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1944
-[/us/pl/112/30/s142/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs142%2Fb%2F1
+[/us/pl/112/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2FtI
 [/us/stat/125/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F356
-[/us/pl/112/102/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2Fs402%2Fb%2F1
+[/us/pl/112/102/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102%2FtIV
 [/us/stat/126/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F282
-[/us/pl/112/141/s40102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Fb%2F1%2FA
+[/us/pl/112/141/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtI
 [/us/stat/126/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F844
-[/us/pl/114/94/s31102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fb%2F1
+[/us/pl/114/94/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXI
 [/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
-[/us/pl/114/94/s31102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fb%2F1
+[/us/pl/114/94/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXI
 [/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
-[/us/pl/108/357/s867/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fb%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1622
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
@@ -448,32 +448,32 @@ The maximum tax a year.  </td>
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
-[/us/pl/108/357/s867/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fa%2F2
-[/us/pl/108/357/s867/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fa%2F1
-[/us/pl/108/357/s867/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fc
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/102/240/s8002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs8002%2Fa%2F5
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/17/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs507%2Fa
-[/us/pl/100/17/s502/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs502%2Fa%2F5
-[/us/pl/98/369/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs901%2Fa
-[/us/pl/98/369/s734/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs734%2Ff
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Fa
-[/us/pl/97/424/s513/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Fa
-[/us/pl/97/424/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Fd
-[/us/pl/97/424/s516/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs516%2Fa%2F4
-[/us/pl/95/599/s502/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs502%2Fa%2F6
-[/us/pl/95/599/s502/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs502%2Fa%2F7
-[/us/pl/94/280/s303/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs303%2Fa%2F7
-[/us/pl/94/280/s303/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280%2Fs303%2Fa%2F8
-[/us/pl/91/605/s303/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs303%2Fa%2F7
-[/us/pl/91/605/s303/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs303%2Fa%2F8
-[/us/pl/87/61/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fa
-[/us/pl/87/61/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F2%2FB
-[/us/pl/87/61/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F2%2FB
-[/us/pl/87/61/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F1
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/95/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F280
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/91/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605
+[/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
+[/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
+[/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
+[/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/94/s31102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Ff
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
@@ -486,41 +486,41 @@ The maximum tax a year.  </td>
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
 [/us/pl/112/30/s142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs142%2Ff
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/109/14/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14%2Fs9%2Fd
+[/us/pl/109/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F14
 [/us/stat/119/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F336
-[/us/pl/108/357/s867/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fe
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1622
 [/us/usc/t26/s4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4483
 [/us/usc/t26/s6156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6156
-[/us/pl/100/17/s507/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs507%2Fd
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F260
 [/us/usc/t26/s4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4483
 [/us/pl/98/369/s734/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs734%2Ff
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/98/369/s736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs736
 [/us/usc/t26/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4051
-[/us/pl/98/369/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs901%2Fc
+[/us/pl/98/369/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIX
 [/us/stat/98/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1004
-[/us/pl/97/424/s513/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Ff
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2179
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
 [/us/pl/87/61/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs208
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/100/17/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs507%2Fc
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F260
-[/us/pl/98/369/s901/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs901%2Fb
+[/us/pl/98/369/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIX
 [/us/stat/98/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1003
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/97/424/s513/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Ff%2F2
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIX
 [/us/stat/98/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1010
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/97/424/s513/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs513%2Fg
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2180
 
 

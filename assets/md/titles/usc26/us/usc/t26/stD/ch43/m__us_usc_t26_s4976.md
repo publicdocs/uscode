@@ -55,27 +55,27 @@
 
         For purposes of this section, the terms used in this section shall have the same respective meanings as when used in subpart D of part I of subchapter D of chapter 1.
 
-(Added [Pub. L. 98–369, div. A, title V, § 511(c)(1)][/us/pl/98/369/s511/c/1], July 18, 1984, [98 Stat. 861][/us/stat/98/861]; amended [Pub. L. 99–514, title XVIII, § 1851(a)(11)][/us/pl/99/514/s1851/a/11], Oct. 22, 1986, [100 Stat. 2861][/us/stat/100/2861]; [Pub. L. 100–647, title I, § 1011B(a)(27)(A)][/us/pl/100/647/s1011B/a/27/A], (B), title III, § 3021(a)(1)(C), Nov. 10, 1988, [102 Stat. 3487][/us/stat/102/3487], 3626; [Pub. L. 101–140, title II, § 203(a)(2)][/us/pl/101/140/s203/a/2], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830].)
+(Added [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 511(c)(1), July 18, 1984, [98 Stat. 861][/us/stat/98/861]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1851(a)(11), Oct. 22, 1986, [100 Stat. 2861][/us/stat/100/2861]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011B(a)(27)(A), (B), title III, § 3021(a)(1)(C), Nov. 10, 1988, [102 Stat. 3487][/us/stat/102/3487], 3626; [Pub. L. 101–140, title II][/us/pl/101/140/tII], § 203(a)(2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830].)
 
  __Codification__ 
 
-    [Pub. L. 101–140][/us/pl/101/140] amended this section to read as if the amendments made by [section 1011B(a)(27) of Pub. L. 100–647][/us/pl/100/647/s1011B/a/27] (enacting subsec. (c)) had not been enacted. Subsequent to enactment by [Pub. L. 100–647][/us/pl/100/647], subsec. (c) was amended by [Pub. L. 100–647, § 3021(a)(1)(C)][/us/pl/100/647/s3021/a/1/C]. See 1988 Amendment note below.
+    [Pub. L. 101–140][/us/pl/101/140] amended this section to read as if the amendments made by [section 1011B(a)(27) of Pub. L. 100–647][/us/pl/100/647/s1011B/a/27] (enacting subsec. (c)) had not been enacted. Subsequent to enactment by [Pub. L. 100–647][/us/pl/100/647], subsec. (c) was amended by [Pub. L. 100–647][/us/pl/100/647], § 3021(a)(1)(C). See 1988 Amendment note below.
 
  __Amendments__ 
 
-    1989—Subsec. (b)(5). [Pub. L. 101–140][/us/pl/101/140] amended subsec. (b) to read as if amendments by [Pub. L. 100–647, § 1011B(a)(27)(B)][/us/pl/100/647/s1011B/a/27/B], had not been enacted, see 1988 Amendment note below.
+    1989—Subsec. (b)(5). [Pub. L. 101–140][/us/pl/101/140] amended subsec. (b) to read as if amendments by [Pub. L. 100–647][/us/pl/100/647], § 1011B(a)(27)(B), had not been enacted, see 1988 Amendment note below.
 
-    Subsecs. (c), (d). [Pub. L. 101–140][/us/pl/101/140] amended this section to read as if amendments by [Pub. L. 100–647, § 1011B(a)(27)(A)][/us/pl/100/647/s1011B/a/27/A], had not been enacted, see 1988 Amendment note below.
+    Subsecs. (c), (d). [Pub. L. 101–140][/us/pl/101/140] amended this section to read as if amendments by [Pub. L. 100–647][/us/pl/100/647], § 1011B(a)(27)(A), had not been enacted, see 1988 Amendment note below.
 
-    1988—Subsec. (b)(5). [Pub. L. 100–647, § 1011B(a)(27)(B)][/us/pl/100/647/s1011B/a/27/B], added par. (5) relating to limitation in case of benefits to which section 89 applies.
+    1988—Subsec. (b)(5). [Pub. L. 100–647][/us/pl/100/647], § 1011B(a)(27)(B), added par. (5) relating to limitation in case of benefits to which section 89 applies.
 
-    Subsec. (c). [Pub. L. 100–647, § 1011B(a)(27)(A)][/us/pl/100/647/s1011B/a/27/A], added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], § 1011B(a)(27)(A), added subsec. (c) relating to tax on funded welfare benefit funds which include discriminatory employee benefit plan. Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(1)(B). [Pub. L. 100–647, § 3021(a)(1)(C)(i)][/us/pl/100/647/s3021/a/1/C/i], substituted “any testing year (as defined in section 89(j)(13))” for “any plan year”, see Codification note above.
+    Subsec. (c)(1)(B). [Pub. L. 100–647][/us/pl/100/647], § 3021(a)(1)(C)(i), substituted “any testing year (as defined in section 89(j)(13))” for “any plan year”, see Codification note above.
 
-    Subsec. (c)(2)(A). [Pub. L. 100–647, § 3021(a)(1)(C)(ii)][/us/pl/100/647/s3021/a/1/C/ii], substituted “testing” for “plan” in cls. (i) and (ii), see Codification note above.
+    Subsec. (c)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 3021(a)(1)(C)(ii), substituted “testing” for “plan” in cls. (i) and (ii), see Codification note above.
 
-    Subsec. (d). [Pub. L. 100–647, § 1011B(a)(27)(A)][/us/pl/100/647/s1011B/a/27/A], redesignated former subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1011B(a)(27)(A), redesignated former subsec. (c) as (d).
 
     1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For purposes of subsection (a), the term ‘disqualified benefit’ means—
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -114,27 +114,27 @@
 ----------
 ----------
 
-[/us/pl/98/369/s511/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fc%2F1
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F861
-[/us/pl/99/514/s1851/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fa%2F11
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2861
-[/us/pl/100/647/s1011B/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3487
-[/us/pl/101/140/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F2
+[/us/pl/101/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2FtII
 [/us/stat/103/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F830
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
 [/us/pl/100/647/s1011B/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/647/s3021/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3021%2Fa%2F1%2FC
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
-[/us/pl/100/647/s1011B/a/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FB
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
-[/us/pl/100/647/s1011B/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FA
-[/us/pl/100/647/s1011B/a/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FB
-[/us/pl/100/647/s1011B/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FA
-[/us/pl/100/647/s3021/a/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3021%2Fa%2F1%2FC%2Fi
-[/us/pl/100/647/s3021/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3021%2Fa%2F1%2FC%2Fii
-[/us/pl/100/647/s1011B/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F27%2FA
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140
 [/us/pl/99/514/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151
@@ -149,7 +149,7 @@
 [/us/pl/100/647/s3021/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3021%2Fd%2F1
 [/us/usc/t26/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs129
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s511/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fe%2F7

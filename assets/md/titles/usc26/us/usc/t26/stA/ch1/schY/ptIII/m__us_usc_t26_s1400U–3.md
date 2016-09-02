@@ -65,7 +65,7 @@
 
         Sections 146 (relating to volume cap) and 147(d) (relating to acquisition of existing property not permitted) shall not apply to any recovery zone facility bond.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1401(a)][/us/pl/111/5/s1401/a], Feb. 17, 2009, [123 Stat. 350][/us/stat/123/350].)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1401(a), Feb. 17, 2009, [123 Stat. 350][/us/stat/123/350].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1401%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F350
 
 

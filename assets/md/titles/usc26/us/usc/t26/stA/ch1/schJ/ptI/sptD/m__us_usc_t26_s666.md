@@ -35,7 +35,7 @@
 
         No refund or credit shall be allowed to a trust or a beneficiary of such trust for any preceding taxable year by reason of a distribution deemed to have been made by such trust in such year under this section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 224][/us/stat/68A/224]; [Pub. L. 87–834, § 7(c)][/us/pl/87/834/s7/c], Oct. 16, 1962, [76 Stat. 986][/us/stat/76/986]; [Pub. L. 91–172, title III, § 331(a)][/us/pl/91/172/s331/a], Dec. 30, 1969, [83 Stat. 593][/us/stat/83/593]; [Pub. L. 94–455, title VII, § 701(a)(2)][/us/pl/94/455/s701/a/2], Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577]; [Pub. L. 95–600, title IV, § 421(d)][/us/pl/95/600/s421/d], Nov. 6, 1978, [92 Stat. 2875][/us/stat/92/2875]; [Pub. L. 96–222, title I, § 104(a)(4)(H)(vi)][/us/pl/96/222/s104/a/4/H/vi], Apr. 1, 1980, [94 Stat. 218][/us/stat/94/218].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 224][/us/stat/68A/224]; [Pub. L. 87–834][/us/pl/87/834], § 7(c), Oct. 16, 1962, [76 Stat. 986][/us/stat/76/986]; [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 331(a), Dec. 30, 1969, [83 Stat. 593][/us/stat/83/593]; [Pub. L. 94–455, title VII][/us/pl/94/455/tVII], § 701(a)(2), Oct. 4, 1976, [90 Stat. 1577][/us/stat/90/1577]; [Pub. L. 95–600, title IV][/us/pl/95/600/tIV], § 421(d), Nov. 6, 1978, [92 Stat. 2875][/us/stat/92/2875]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 104(a)(4)(H)(vi), Apr. 1, 1980, [94 Stat. 218][/us/stat/94/218].)
 
  __Amendments__ 
 
@@ -84,15 +84,15 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F224
-[/us/pl/87/834/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs7%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F986
-[/us/pl/91/172/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs331%2Fa
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F593
-[/us/pl/94/455/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs701%2Fa%2F2
+[/us/pl/94/455/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVII
 [/us/stat/90/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1577
-[/us/pl/95/600/s421/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs421%2Fd
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2875
-[/us/pl/96/222/s104/a/4/H/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs104%2Fa%2F4%2FH%2Fvi
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F218
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

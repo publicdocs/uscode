@@ -35,7 +35,7 @@
 
         Property acquired by a taxpayer described in subsection (a), in a transaction described in that subsection, shall have the same basis as the property transferred by that taxpayer.
 
-(Added [Pub. L. 95–345, § 2(d)(1)][/us/pl/95/345/s2/d/1], Aug. 15, 1978, [92 Stat. 482][/us/stat/92/482].)
+(Added [Pub. L. 95–345][/us/pl/95/345], § 2(d)(1), Aug. 15, 1978, [92 Stat. 482][/us/stat/92/482].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/345/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fd%2F1
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/stat/92/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F482
 [/us/usc/t26/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1061
 [/us/usc/t26/s512/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs512%2Fa%2F5

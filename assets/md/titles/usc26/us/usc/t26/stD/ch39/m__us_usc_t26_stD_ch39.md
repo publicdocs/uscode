@@ -51,21 +51,21 @@
 
     Prior sections 4701 to 4897 were based on [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 549–592][/us/stat/68A/549-592], as amended.
 
-    Sections 4701–4776 were repealed by [Pub. L. 91–513, title III, § 1101(b)(3)(A)][/us/pl/91/513/s1101/b/3/A], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]. See section 801 et seq. of Title 21, Food and Drugs.
+    Sections 4701–4776 were repealed by [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1101(b)(3)(A), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]. See section 801 et seq. of Title 21, Food and Drugs.
 
-    Sections 4801–4826, 4851–4873, and 4875–4886 were repealed by [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(a)(16)–(18), 1952(b), Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814], 1841.
+    Sections 4801–4826, 4851–4873, and 4875–4886 were repealed by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1904(a)(16)–(18), 1952(b), Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814], 1841.
 
-    Sections 4831–4834 and 4836–4846 were repealed by [Pub. L. 93–490, § 3(a)(1)][/us/pl/93/490/s3/a/1], Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466].
+    Sections 4831–4834 and 4836–4846 were repealed by [Pub. L. 93–490][/us/pl/93/490], § 3(a)(1), Oct. 26, 1974, [88 Stat. 1466][/us/stat/88/1466].
 
-    Section 4835 was repealed by [Pub. L. 85–881, § 1(b)(1)][/us/pl/85/881/s1/b/1], Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704].
+    Section 4835 was repealed by [Pub. L. 85–881][/us/pl/85/881], § 1(b)(1), Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704].
 
-    Section 4874 was repealed by [Pub. L. 91–452, title II, § 231(a)][/us/pl/91/452/s231/a], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930].
+    Section 4874 was repealed by [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 231(a), Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930].
 
-    Sections 4891–4897 were repealed by [Pub. L. 88–36, title II, § 201(a)][/us/pl/88/36/s201/a], June 4, 1963, [77 Stat. 54][/us/stat/77/54].
+    Sections 4891–4897 were repealed by [Pub. L. 88–36, title II][/us/pl/88/36/tII], § 201(a), June 4, 1963, [77 Stat. 54][/us/stat/77/54].
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title III, § 310(b)(4)(A)][/us/pl/97/248/s310/b/4/A], Sept. 3, 1982, [96 Stat. 597][/us/stat/96/597], added chapter heading and section analysis.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 310(b)(4)(A), Sept. 3, 1982, [96 Stat. 597][/us/stat/96/597], added chapter heading and section analysis.
 
 ----------
 
@@ -76,19 +76,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/549-592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F549-592
-[/us/pl/91/513/s1101/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1101%2Fb%2F3%2FA
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1814
-[/us/pl/93/490/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490%2Fs3%2Fa%2F1
+[/us/pl/93/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F490
 [/us/stat/88/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1466
-[/us/pl/85/881/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F881%2Fs1%2Fb%2F1
+[/us/pl/85/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F881
 [/us/stat/72/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1704
-[/us/pl/91/452/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs231%2Fa
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/88/36/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2Fs201%2Fa
+[/us/pl/88/36/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F36%2FtII
 [/us/stat/77/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F54
-[/us/pl/97/248/s310/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs310%2Fb%2F4%2FA
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F597
 
 

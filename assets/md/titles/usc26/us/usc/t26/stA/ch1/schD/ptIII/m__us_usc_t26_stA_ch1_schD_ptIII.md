@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–280, title I, § 113(a)(1)(A)][/us/pl/109/280/s113/a/1/A], Aug. 17, 2006, [120 Stat. 846][/us/stat/120/846], substituted “RULES RELATING TO MINIMUM FUNDING STANDARDS AND BENEFIT LIMITATIONS” for “MINIMUM FUNDING STANDARDS FOR SINGLE-EMPLOYER DEFINED BENEFIT PENSION PLANS” in part heading and added subpart analysis.
+    2006—[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 113(a)(1)(A), Aug. 17, 2006, [120 Stat. 846][/us/stat/120/846], substituted “RULES RELATING TO MINIMUM FUNDING STANDARDS AND BENEFIT LIMITATIONS” for “MINIMUM FUNDING STANDARDS FOR SINGLE-EMPLOYER DEFINED BENEFIT PENSION PLANS” in part heading and added subpart analysis.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s113/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs113%2Fa%2F1%2FA
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F846
 
 

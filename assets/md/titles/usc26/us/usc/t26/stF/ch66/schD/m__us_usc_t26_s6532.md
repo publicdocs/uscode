@@ -51,7 +51,7 @@
 
             If a request is made for the return of property described in section 6343(b), the 9-month period prescribed in paragraph (1) shall be extended for a period of 12 months from the date of filing of such request or for a period of 6 months from the date of mailing by registered or certified mail by the Secretary to the person making such request of a notice of disallowance of the part of the request to which the action relates, whichever is shorter.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 816][/us/stat/68A/816]; [Pub. L. 85–866, title I, § 89(b)][/us/pl/85/866/s89/b], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 89–719, title I, § 110(b)][/us/pl/89/719/s110/b], Nov. 2, 1966, [80 Stat. 1144][/us/stat/80/1144]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 6(d)(4)][/us/pl/96/589/s6/d/4], Dec. 24, 1980, [94 Stat. 3408][/us/stat/94/3408].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 816][/us/stat/68A/816]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(b), Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 110(b), Nov. 2, 1966, [80 Stat. 1144][/us/stat/80/1144]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589][/us/pl/96/589], § 6(d)(4), Dec. 24, 1980, [94 Stat. 3408][/us/stat/94/3408].)
 
  __Amendments__ 
 
@@ -85,13 +85,13 @@
 [/us/usc/t11/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs505%2Fa%2F2
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F816
-[/us/pl/85/866/s89/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
-[/us/pl/89/719/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs110%2Fb
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1144
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/589/s6/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fd%2F4
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3408
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

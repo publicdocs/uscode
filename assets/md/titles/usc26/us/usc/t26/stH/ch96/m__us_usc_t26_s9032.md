@@ -63,7 +63,7 @@
 
     (10) The term “State” means each State of the United States and the District of Columbia.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]; amended [Pub. L. 94–283, title I, § 115(c)(2)][/us/pl/94/283/s115/c/2], title III, § 306(b)(1), May 11, 1976, [90 Stat. 495][/us/stat/90/495], 500; [Pub. L. 110–172, § 11(a)(42)(C)][/us/pl/110/172/s11/a/42/C], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]; amended [Pub. L. 94–283, title I][/us/pl/94/283/tI], § 115(c)(2), title III, § 306(b)(1), May 11, 1976, [90 Stat. 495][/us/stat/90/495], 500; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(42)(C), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
     2007—Par. (3). [Pub. L. 110–172][/us/pl/110/172] substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
-    1976—Par. (2). [Pub. L. 94–283, § 306(b)(1)][/us/pl/94/283/s306/b/1], inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
+    1976—Par. (2). [Pub. L. 94–283][/us/pl/94/283], § 306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
-    Par. (3). [Pub. L. 94–283, § 115(c)(2)][/us/pl/94/283/s115/c/2], substituted “309(a)(1)” for “310(a)(1)”.
+    Par. (3). [Pub. L. 94–283][/us/pl/94/283], § 115(c)(2), substituted “309(a)(1)” for “310(a)(1)”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -92,16 +92,16 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
-[/us/pl/94/283/s115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fc%2F2
+[/us/pl/94/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtI
 [/us/stat/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F495
-[/us/pl/110/172/s11/a/42/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FC
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
 [/us/usc/t52/s30106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30106%2Fa%2F1
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/94/283/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F1
-[/us/pl/94/283/s115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fc%2F2
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F1
 [/us/pl/94/283/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fc
 [/us/usc/t26/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002

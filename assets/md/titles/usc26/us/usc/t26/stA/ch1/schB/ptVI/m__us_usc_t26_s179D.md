@@ -173,19 +173,19 @@
 
         This section shall not apply with respect to property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1331(a)][/us/pl/109/58/s1331/a], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; amended [Pub. L. 109–432, div. A, title II, § 204][/us/pl/109/432/s204], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title III, § 303][/us/pl/110/343/s303], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 113–295, div. A, title I, § 158(a)][/us/pl/113/295/s158/a], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022]; [Pub. L. 114–113, div. Q, title I, § 190(a)][/us/pl/114/113/s190/a], title III, § 341(a), (b), Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], 3113.)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1331(a), Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; amended [Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 204, Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title III][/us/pl/110/343/dB/tIII], § 303, Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 158(a), Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 190(a), title III, § 341(a), (b), Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], 3113.)
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1)(B)(ii), (D). [Pub. L. 114–113, § 341(a)][/us/pl/114/113/s341/a], substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
+    2015—Subsec. (c)(1)(B)(ii), (D). [Pub. L. 114–113][/us/pl/114/113], § 341(a), substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
 
-    Subsec. (c)(2). [Pub. L. 114–113, § 341(b)(1)][/us/pl/114/113/s341/b/1], amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2001’ means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).”
+    Subsec. (c)(2). [Pub. L. 114–113][/us/pl/114/113], § 341(b)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2001’ means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).”
 
-    Subsec. (f)(1). [Pub. L. 114–113, § 341(b)(2)][/us/pl/114/113/s341/b/2], (3), substituted “Table 9.5.1” for “Table 9.3.1.1”, “Table 9.6.1” for “Table 9.3.1.2”, and “Standard 90.1–2007” for “Standard 90.1–2001”.
+    Subsec. (f)(1). [Pub. L. 114–113][/us/pl/114/113], § 341(b)(2), (3), substituted “Table 9.5.1” for “Table 9.3.1.1”, “Table 9.6.1” for “Table 9.3.1.2”, and “Standard 90.1–2007” for “Standard 90.1–2001”.
 
-    Subsec. (f)(2)(C)(i). [Pub. L. 114–113, § 341(b)(2)][/us/pl/114/113/s341/b/2], substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
+    Subsec. (f)(2)(C)(i). [Pub. L. 114–113][/us/pl/114/113], § 341(b)(2), substituted “Standard 90.1–2007” for “Standard 90.1–2001”.
 
-    Subsec. (h). [Pub. L. 114–113, § 190(a)][/us/pl/114/113/s190/a], substituted “December 31, 2016” for “December 31, 2014”.
+    Subsec. (h). [Pub. L. 114–113][/us/pl/114/113], § 190(a), substituted “December 31, 2016” for “December 31, 2014”.
 
     2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -195,23 +195,23 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 190(b)][/us/pl/114/113/s190/b], Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 190(b), Dec. 18, 2015, [129 Stat. 3075][/us/stat/129/3075], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2014.”
 
-[Pub. L. 114–113, div. Q, title III, § 341(c)][/us/pl/114/113/s341/c], Dec. 18, 2015, [129 Stat. 3113][/us/stat/129/3113], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 341(c), Dec. 18, 2015, [129 Stat. 3113][/us/stat/129/3113], provided that: 
 
 > “The amendments made by this subsection \[probably means this section, amending this section\] shall apply to property placed in service after December 31, 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 158(b)][/us/pl/113/295/s158/b], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 158(b), Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
 
  __Effective Date__ 
 
-[Pub. L. 109–58, title XIII, § 1331(d)][/us/pl/109/58/s1331/d], Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1331(d), Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title\] shall apply to property placed in service after December 31, 2005.”
 
@@ -222,31 +222,31 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1331%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1020
-[/us/pl/109/432/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs204
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2945
-[/us/pl/110/343/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs303
+[/us/pl/110/343/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIII
 [/us/stat/122/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3845
-[/us/pl/113/295/s158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs158%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
-[/us/pl/114/113/s190/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
-[/us/pl/114/113/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fa
-[/us/pl/114/113/s341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F1
-[/us/pl/114/113/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F2
-[/us/pl/114/113/s341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fb%2F2
-[/us/pl/114/113/s190/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/114/113/s190/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs190%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3075
-[/us/pl/114/113/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs341%2Fc
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3113
-[/us/pl/113/295/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs158%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
-[/us/pl/109/58/s1331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1331%2Fd
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1024
 
 

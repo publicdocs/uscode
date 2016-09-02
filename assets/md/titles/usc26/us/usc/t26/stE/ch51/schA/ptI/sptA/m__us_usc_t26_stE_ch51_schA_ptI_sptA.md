@@ -115,15 +115,15 @@
 
  __Prior Provisions__ 
 
-    A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled spirits, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859], 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled spirits, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11126(c)][/us/pl/109/59/s11126/c], Aug. 10, 2005, [119 Stat. 1958][/us/stat/119/1958], added item 5011.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11126(c), Aug. 10, 2005, [119 Stat. 1958][/us/stat/119/1958], added item 5011.
 
-    1980—[Pub. L. 96–598, § 6(b)][/us/pl/96/598/s6/b], Dec. 24, 1980, [94 Stat. 3489][/us/stat/94/3489], added item 5010.
+    1980—[Pub. L. 96–598][/us/pl/96/598], § 6(b), Dec. 24, 1980, [94 Stat. 3489][/us/stat/94/3489], added item 5010.
 
-    1979—[Pub. L. 96–39, title VIII, § 807(b)(2)][/us/pl/96/39/s807/b/2], July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item 5009 “Drawback”.
+    1979—[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(b)(2), July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item 5009 “Drawback”.
 
 ----------
 
@@ -132,13 +132,13 @@
 ----------
 ----------
 
-[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/109/59/s11126/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11126%2Fc
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1958
-[/us/pl/96/598/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598%2Fs6%2Fb
+[/us/pl/96/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F598
 [/us/stat/94/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3489
-[/us/pl/96/39/s807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fb%2F2
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F290
 
 

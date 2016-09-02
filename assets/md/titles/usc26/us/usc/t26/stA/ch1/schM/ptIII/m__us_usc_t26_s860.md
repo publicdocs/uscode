@@ -139,7 +139,7 @@
 
         No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “willful”. </sup></sup>  failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
-(Added [Pub. L. 95–600, title III, § 362(a)][/us/pl/95/600/s362/a], Nov. 6, 1978, [92 Stat. 2848][/us/stat/92/2848]; amended [Pub. L. 96–222, title I, § 103(a)(11)(B)][/us/pl/96/222/s103/a/11/B], (C), Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 99–514, title VI, § 667(b)(1)][/us/pl/99/514/s667/b/1], Oct. 22, 1986, [100 Stat. 2306][/us/stat/100/2306]; [Pub. L. 108–357, title II, § 243(f)(5)][/us/pl/108/357/s243/f/5], Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; [Pub. L. 111–325, title III, § 301(a)(2)][/us/pl/111/325/s301/a/2], title V, § 501(b), Dec. 22, 2010, [124 Stat. 3542][/us/stat/124/3542], 3554.)
+(Added [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(a), Nov. 6, 1978, [92 Stat. 2848][/us/stat/92/2848]; amended [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(11)(B), (C), Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 667(b)(1), Oct. 22, 1986, [100 Stat. 2306][/us/stat/100/2306]; [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 243(f)(5), Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; [Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 301(a)(2), title V, § 501(b), Dec. 22, 2010, [124 Stat. 3542][/us/stat/124/3542], 3554.)
 
  __Prior Provisions__ 
 
@@ -147,9 +147,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f)(2)(B). [Pub. L. 111–325, § 301(a)(2)][/us/pl/111/325/s301/a/2], inserted “or reported (as the case may be)” after “designated”.
+    2010—Subsec. (f)(2)(B). [Pub. L. 111–325][/us/pl/111/325], § 301(a)(2), inserted “or reported (as the case may be)” after “designated”.
 
-    Subsec. (j). [Pub. L. 111–325, § 501(b)][/us/pl/111/325/s501/b], struck out subsec. (j). Text read as follows: “For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.”
+    Subsec. (j). [Pub. L. 111–325][/us/pl/111/325], § 501(b), struck out subsec. (j). Text read as follows: “For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.”
 
     2004—Subsec. (e)(4). [Pub. L. 108–357][/us/pl/108/357] added par. (4).
 
@@ -161,7 +161,7 @@
 
     Amendment by [section 301(a)(2) of Pub. L. 111–325][/us/pl/111/325/s301/a/2] applicable to taxable years beginning after Dec. 22, 2010, see [section 301(h) of Pub. L. 111–325][/us/pl/111/325/s301/h], set out as a note under [section 852 of this title][/us/usc/t26/s852].
 
-[Pub. L. 111–325, title V, § 501(c)][/us/pl/111/325/s501/c], Dec. 22, 2010, [124 Stat. 3554][/us/stat/124/3554], provided that: 
+[Pub. L. 111–325, title V][/us/pl/111/325/tV], § 501(c), Dec. 22, 2010, [124 Stat. 3554][/us/stat/124/3554], provided that: 
 
 > “The amendments made by this section \[amending this section and repealing [section 6697 of this title][/us/usc/t26/s6697]\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
@@ -175,7 +175,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–600, title III, § 362(e)][/us/pl/95/600/s362/e], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], as amended by [Pub. L. 96–222, title I, § 103(a)(11)(A)][/us/pl/96/222/s103/a/11/A], Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(e), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], as amended by [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(11)(A), Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing [section 859 of this title][/us/usc/t26/s859], and redesignating prior section 860 as 859 of this title\] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
@@ -186,26 +186,26 @@
 ----------
 ----------
 
-[/us/pl/95/600/s362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2848
-[/us/pl/96/222/s103/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F11%2FB
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F213
-[/us/pl/99/514/s667/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs667%2Fb%2F1
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2306
-[/us/pl/108/357/s243/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs243%2Ff%2F5
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1445
-[/us/pl/111/325/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fa%2F2
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3542
 [/us/usc/t26/s859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs859
-[/us/pl/111/325/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fa%2F2
-[/us/pl/111/325/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs501%2Fb
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/111/325/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fa%2F2
 [/us/pl/111/325/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fh
 [/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
-[/us/pl/111/325/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs501%2Fc
+[/us/pl/111/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtV
 [/us/stat/124/3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3554
 [/us/usc/t26/s6697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6697
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -214,11 +214,11 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs669
 [/us/usc/t26/s856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs856
-[/us/pl/95/600/s362/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fe
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2852
-[/us/pl/96/222/s103/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F11%2FA
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F212
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs859
 

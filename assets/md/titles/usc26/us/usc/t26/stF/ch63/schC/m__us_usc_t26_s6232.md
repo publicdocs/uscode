@@ -51,7 +51,7 @@
 
         If no proceeding under section 6234 is begun with respect to any notice of a final partnership adjustment during the 90-day period described in subsection (b) thereof, the amount for which the partnership is liable under section 6225 shall not exceed the amount determined in accordance with such notice.
 
-(Added [Pub. L. 114–74, title XI, § 1101(c)(1)][/us/pl/114/74/s1101/c/1], Nov. 2, 2015, [129 Stat. 632][/us/stat/129/632].)
+(Added [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(c)(1), Nov. 2, 2015, [129 Stat. 632][/us/stat/129/632].)
 
  __Delayed Applicability of Section__ 
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6232, added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 666][/us/stat/96/666], related to extension of subchapter provisions, respecting tax treatment of partnership items, to windfall profit tax, prior to repeal by [Pub. L. 100–418, title I, § 1941(b)(1)][/us/pl/100/418/s1941/b/1], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323].
+    A prior section 6232, added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 666][/us/stat/96/666], related to extension of subchapter provisions, respecting tax treatment of partnership items, to windfall profit tax, prior to repeal by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(1), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323].
 
  __Effective Date__ 
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/114/74/s1101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fc%2F1
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F632
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F666
-[/us/pl/100/418/s1941/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1323
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

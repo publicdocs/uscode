@@ -37,7 +37,7 @@
 
         For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 554][/us/stat/107/554], § 1397C; renumbered § 1397D, [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602.)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 554][/us/stat/107/554], § 1397C; renumbered § 1397D, [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 116(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602.)
 
  __Prior Provisions__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F554
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t26/s1397F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397F
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

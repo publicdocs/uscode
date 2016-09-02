@@ -41,13 +41,13 @@
 
         (2) If a lien imposed by subsection (a) or (b) is not valid as against a lien or security interest, the priority of such lien or security interest shall extend to any item described in section 6323(e) (relating to priority of interest and expenses) to the extent that, under local law, such item has the same priority as the lien or security interest to which it relates.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 780][/us/stat/68A/780]; [Pub. L. 88–272, title II, § 236(b)][/us/pl/88/272/s236/b], (c)(2), Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127], 128; [Pub. L. 89–719, title I, § 102][/us/pl/89/719/s102], Nov. 2, 1966, [80 Stat. 1132][/us/stat/80/1132]; [Pub. L. 91–614, title I][/us/pl/91/614], §§ 101(d)(2), 102(d)(7), Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837], 1842.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 780][/us/stat/68A/780]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 236(b), (c)(2), Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127], 128; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 102, Nov. 2, 1966, [80 Stat. 1132][/us/stat/80/1132]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], §§ 101(d)(2), 102(d)(7), Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837], 1842.)
 
  __Amendments__ 
 
-    1970—Subsec. (a)(3). [Pub. L. 91–614, § 101(d)(2)][/us/pl/91/614/s101/d/2], substituted “fiduciary” for “executor” in heading and text.
+    1970—Subsec. (a)(3). [Pub. L. 91–614][/us/pl/91/614], § 101(d)(2), substituted “fiduciary” for “executor” in heading and text.
 
-    Subsec. (b). [Pub. L. 91–614, § 102(d)(7)][/us/pl/91/614/s102/d/7], substituted “period for which the return was filed” for “calendar year”.
+    Subsec. (b). [Pub. L. 91–614][/us/pl/91/614], § 102(d)(7), substituted “period for which the return was filed” for “calendar year”.
 
     1966—Subsec. (a)(1). [Pub. L. 89–719][/us/pl/89/719] inserted “, or becomes unenforceable by reason of lapse of time,” after “sooner paid in full” and substituted “10 years from the date of death” for “10 years upon the gross estate of the decedent”.
 
@@ -61,9 +61,9 @@
 
     Subsec. (d). [Pub. L. 89–719][/us/pl/89/719] struck out subsec. (d) dealing with exceptions in the case of motor vehicles. See subsec. (c) above and reference therein to section 6323(b).
 
-    1964—Subsecs. (a), (b). [Pub. L. 88–272, § 236(c)(2)][/us/pl/88/272/s236/c/2], inserted “and subsection (d) (relating to purchases of motor vehicles)”.
+    1964—Subsecs. (a), (b). [Pub. L. 88–272][/us/pl/88/272], § 236(c)(2), inserted “and subsection (d) (relating to purchases of motor vehicles)”.
 
-    Subsec. (d). [Pub. L. 88–272, § 236(b)][/us/pl/88/272/s236/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 88–272][/us/pl/88/272], § 236(b), added subsec. (d).
 
  __Effective Date of 1970 Amendment__ 
 
@@ -88,22 +88,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F780
-[/us/pl/88/272/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs236%2Fb
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F127
-[/us/pl/89/719/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs102
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1132
-[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1837
-[/us/pl/91/614/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F2
-[/us/pl/91/614/s102/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F7
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
-[/us/pl/88/272/s236/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs236%2Fc%2F2
-[/us/pl/88/272/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs236%2Fb
+[/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/91/614/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F2
 [/us/pl/91/614/s101/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fj
 [/us/usc/t26/s2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2032

@@ -17,7 +17,7 @@
 
     In the case of any taxpayer who is required to include the amount of any nuclear decommissioning costs in the taxpayer’s cost of service for ratemaking purposes, there shall be includible in the gross income of such taxpayer the amount so included for any taxable year.
 
-(Added [Pub. L. 98–369, div. A, title I, § 91(f)(1)][/us/pl/98/369/s91/f/1], July 18, 1984, [98 Stat. 607][/us/stat/98/607]; amended [Pub. L. 99–514, title XVIII, § 1807(a)(4)(E)(vii)][/us/pl/99/514/s1807/a/4/E/vii], Oct. 22, 1986, [100 Stat. 2813][/us/stat/100/2813].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 91(f)(1), July 18, 1984, [98 Stat. 607][/us/stat/98/607]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1807(a)(4)(E)(vii), Oct. 22, 1986, [100 Stat. 2813][/us/stat/100/2813].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/98/369/s91/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Ff%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F607
-[/us/pl/99/514/s1807/a/4/E/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1807%2Fa%2F4%2FE%2Fvii
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2813
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s91/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs91%2Fg%2F5

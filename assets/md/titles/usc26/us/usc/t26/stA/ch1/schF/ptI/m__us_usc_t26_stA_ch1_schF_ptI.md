@@ -75,15 +75,15 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, div. Q, title IV, § 405(d)][/us/pl/114/113/s405/d], Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119], added item 506.
+    2015—[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 405(d), Dec. 18, 2015, [129 Stat. 3119][/us/stat/129/3119], added item 506.
 
-    1987—[Pub. L. 100–203, title X, § 10711(b)(2)(B)][/us/pl/100/203/s10711/b/2/B], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464], substituted “substantial lobbying or because of political activities” for “substantial lobbying” in item 504.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10711(b)(2)(B), Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464], substituted “substantial lobbying or because of political activities” for “substantial lobbying” in item 504.
 
-    1984—[Pub. L. 98–369, div. A, title V, § 513(b)][/us/pl/98/369/s513/b], July 18, 1984, [98 Stat. 865][/us/stat/98/865], added item 505.
+    1984—[Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 513(b), July 18, 1984, [98 Stat. 865][/us/stat/98/865], added item 505.
 
-    1976—[Pub. L. 94–455, title XIII, § 1307(d)(3)(B)][/us/pl/94/455/s1307/d/3/B], Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], added item 504.
+    1976—[Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(d)(3)(B), Oct. 4, 1976, [90 Stat. 1728][/us/stat/90/1728], added item 504.
 
-    1969—[Pub. L. 91–172, title I, § 101(j)(61)][/us/pl/91/172/s101/j/61], Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], struck out item 504 “Denial of exemption”.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(61), Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], struck out item 504 “Denial of exemption”.
 
 ----------
 
@@ -92,15 +92,15 @@
 ----------
 ----------
 
-[/us/pl/114/113/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs405%2Fd
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3119
-[/us/pl/100/203/s10711/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10711%2Fb%2F2%2FB
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-464
-[/us/pl/98/369/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs513%2Fb
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F865
-[/us/pl/94/455/s1307/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F3%2FB
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1728
-[/us/pl/91/172/s101/j/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F61
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F532
 
 

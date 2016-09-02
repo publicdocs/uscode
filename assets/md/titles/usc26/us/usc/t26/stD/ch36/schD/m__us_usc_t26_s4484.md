@@ -19,7 +19,7 @@
 
     (2) For exemption for uses by Indian tribal governments (or their subdivisions), see section 7871.
 
-(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 391][/us/stat/70/391]; amended [Pub. L. 97–473, title II, § 202(b)(10)][/us/pl/97/473/s202/b/10], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610].)
+(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 391][/us/stat/70/391]; amended [Pub. L. 97–473, title II][/us/pl/97/473/tII], § 202(b)(10), Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F391
-[/us/pl/97/473/s202/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs202%2Fb%2F10
+[/us/pl/97/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtII
 [/us/stat/96/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2610
 [/us/pl/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473
 [/us/pl/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473

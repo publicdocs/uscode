@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t26/stF/ch75/schB/m__us_usc_t26_s7273.md) | [Next](./../../../../../..//us/usc/t26/stF/ch75/schB/m__us_usc_t26_s7275.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7274)
 
-## \[§ 7274. Repealed. [Pub. L. 94–455, title XIX, § 1904(b)(8)(E)(i)][/us/pl/94/455/s1904/b/8/E/i], Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816]\]
+## \[§ 7274. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(8)(E)(i), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 866][/us/stat/68A/866], provided penalties for offenses relating to white phosphorus matches.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1904/b/8/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F8%2FE%2Fi
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1816
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F866

@@ -175,11 +175,11 @@
 
             A Federal contractor levy is any levy if the person whose property is subject to the levy (or any predecessor thereof) is a Federal contractor.
 
-(Added [Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII, § 855(a)][/us/pl/109/280/s855/a], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV, § 407(b)][/us/pl/109/432/s407/b], Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII, § 8243(a)][/us/pl/110/28/s8243/a], (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II, § 2104(a)][/us/pl/111/240/s2104/a]–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565]; [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637]; [Pub. L. 114–113, div. Q, title IV, § 424(b)(1)][/us/pl/114/113/s424/b/1], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3401(b), July 22, 1998, [112 Stat. 747][/us/stat/112/747]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(b)(2)(A), (d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–643; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 855(a), Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 407(b), Dec. 20, 2006, [120 Stat. 2961][/us/stat/120/2961]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8243(a), (b), May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2104(a)–(c), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565]; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(d), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 424(b)(1), Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124].)
 
  __Amendment of Subsection (c)(4)__ 
 
-    [Pub. L. 114–74, title XI, § 1101(d)][/us/pl/114/74/s1101/d], (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking “or” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; or”, and by inserting after subparagraph (B) the following new subparagraph:
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(d), (g), Nov. 2, 2015, [129 Stat. 637][/us/stat/129/637], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (c)(4) of this section is amended by striking “or” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; or”, and by inserting after subparagraph (B) the following new subparagraph:
 
     “(C) a final determination has been made with respect to such issue in a proceeding brought under subchapter C of chapter 63.”
 
@@ -189,25 +189,25 @@
 
     2015—Subsec. (c)(4)(C). [Pub. L. 114–74][/us/pl/114/74] added subpar. (C).
 
-    Subsec. (d)(1). [Pub. L. 114–113, § 424(b)(1)(A)][/us/pl/114/113/s424/b/1/A], (B), substituted “Petition for review by Tax Court” for “Judicial review of determination” in heading and “petition the Tax Court for review of such determination” for “appeal such determination to the Tax Court” in text.
+    Subsec. (d)(1). [Pub. L. 114–113][/us/pl/114/113], § 424(b)(1)(A), (B), substituted “Petition for review by Tax Court” for “Judicial review of determination” in heading and “petition the Tax Court for review of such determination” for “appeal such determination to the Tax Court” in text.
 
-    Subsec. (d)(2), (3). [Pub. L. 114–113, § 424(b)(1)(C)][/us/pl/114/113/s424/b/1/C], (D), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (d)(2), (3). [Pub. L. 114–113][/us/pl/114/113], § 424(b)(1)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
-    2010—Subsec. (f). [Pub. L. 111–240, § 2104(c)][/us/pl/111/240/s2104/c], substituted “Exceptions” for “Jeopardy and State refund collection” in heading.
+    2010—Subsec. (f). [Pub. L. 111–240][/us/pl/111/240], § 2104(c), substituted “Exceptions” for “Jeopardy and State refund collection” in heading.
 
-    Subsec. (f)(4). [Pub. L. 111–240, § 2104(a)][/us/pl/111/240/s2104/a], added par. (4).
+    Subsec. (f)(4). [Pub. L. 111–240][/us/pl/111/240], § 2104(a), added par. (4).
 
-    Subsec. (h). [Pub. L. 111–240, § 2104(b)][/us/pl/111/240/s2104/b], substituted “Definitions related to exceptions” for “Disqualified employment tax levy” in heading, inserted introductory provisions and par. (1) designation and heading, substituted “A disqualified employment tax levy is” for “For purposes of subsection (f), a disqualified employment tax levy is”, and added par. (2).
+    Subsec. (h). [Pub. L. 111–240][/us/pl/111/240], § 2104(b), substituted “Definitions related to exceptions” for “Disqualified employment tax levy” in heading, inserted introductory provisions and par. (1) designation and heading, substituted “A disqualified employment tax levy is” for “For purposes of subsection (f), a disqualified employment tax levy is”, and added par. (2).
 
-    2007—Subsec. (f)(3). [Pub. L. 110–28, § 8243(a)][/us/pl/110/28/s8243/a], added par. (3).
+    2007—Subsec. (f)(3). [Pub. L. 110–28][/us/pl/110/28], § 8243(a), added par. (3).
 
-    Subsec. (h). [Pub. L. 110–28, § 8243(b)][/us/pl/110/28/s8243/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–28][/us/pl/110/28], § 8243(b), added subsec. (h).
 
-    2006—Subsec. (b)(1). [Pub. L. 109–432, § 407(b)(3)][/us/pl/109/432/s407/b/3], substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
+    2006—Subsec. (b)(1). [Pub. L. 109–432][/us/pl/109/432], § 407(b)(3), substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
 
-    Subsec. (c)(4)(A), (B). [Pub. L. 109–432, § 407(b)(2)][/us/pl/109/432/s407/b/2], redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii) substituted “; or” for period at end, and added subpar. (B).
+    Subsec. (c)(4)(A), (B). [Pub. L. 109–432][/us/pl/109/432], § 407(b)(2), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), in cl. (ii) substituted “; or” for period at end, and added subpar. (B).
 
-    Subsec. (d)(1). [Pub. L. 109–280, § 855(a)][/us/pl/109/280/s855/a], reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The person may, within 30 days of a determination under this section, appeal such determination—
+    Subsec. (d)(1). [Pub. L. 109–280][/us/pl/109/280], § 855(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The person may, within 30 days of a determination under this section, appeal such determination—
 
     “(A) to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter); or
 
@@ -215,15 +215,15 @@
 
     If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court.”
 
-    Subsec. (g). [Pub. L. 109–432, § 407(b)(1)][/us/pl/109/432/s407/b/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–432][/us/pl/109/432], § 407(b)(1), added subsec. (g).
 
-    2000—Subsec. (d)(1)(A). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(d)\], substituted “with respect to” for “to hear”.
+    2000—Subsec. (d)(1)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(d)\], substituted “with respect to” for “to hear”.
 
-    Subsec. (e)(1). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
+    Subsec. (e)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 424(b)(2)][/us/pl/114/113/s424/b/2], Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 424(b)(2), Dec. 18, 2015, [129 Stat. 3124][/us/stat/129/3124], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to petitions filed under section 6330 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -231,13 +231,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–240, title II, § 2104(d)][/us/pl/111/240/s2104/d], Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], provided that: 
+[Pub. L. 111–240, title II][/us/pl/111/240/tII], § 2104(d), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to levies issued after the date of the enactment of this Act \[Sept. 27, 2010\].”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8243(c)][/us/pl/110/28/s8243/c], May 25, 2007, [121 Stat. 200][/us/stat/121/200], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8243(c), May 25, 2007, [121 Stat. 200][/us/stat/121/200], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to levies served on or after the date that is 120 days after the date of the enactment of this Act \[May 25, 2007\].”
 
@@ -245,7 +245,7 @@
 
     Amendment by [Pub. L. 109–432][/us/pl/109/432] applicable to submissions made and issues raised after the date on which the Secretary first prescribes a list under [section 6702(c) of this title][/us/usc/t26/s6702/c], see [section 407(f) of Pub. L. 109–432][/us/pl/109/432/s407/f], set out as a note under [section 6320 of this title][/us/usc/t26/s6320].
 
-[Pub. L. 109–280, title VIII, § 855(b)][/us/pl/109/280/s855/b], Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 855(b), Aug. 17, 2006, [120 Stat. 1019][/us/stat/120/1019], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to determinations made after the date which is 60 days after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -264,52 +264,52 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3401%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F747
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/280/s855/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs855%2Fa
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1019
-[/us/pl/109/432/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2961
-[/us/pl/110/28/s8243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8243%2Fa
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
-[/us/pl/111/240/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fa
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
-[/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
-[/us/pl/114/113/s424/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
-[/us/pl/114/74/s1101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fd
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/114/113/s424/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1%2FA
-[/us/pl/114/113/s424/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F1%2FC
-[/us/pl/111/240/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fc
-[/us/pl/111/240/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fa
-[/us/pl/111/240/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fb
-[/us/pl/110/28/s8243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8243%2Fa
-[/us/pl/110/28/s8243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8243%2Fb
-[/us/pl/109/432/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb%2F3
-[/us/pl/109/432/s407/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb%2F2
-[/us/pl/109/280/s855/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs855%2Fa
-[/us/pl/109/432/s407/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fb%2F1
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/114/113/s424/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs424%2Fb%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3124
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
-[/us/pl/111/240/s2104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2104%2Fd
+[/us/pl/111/240/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtII
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
-[/us/pl/110/28/s8243/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8243%2Fc
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t26/s6702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6702%2Fc
 [/us/pl/109/432/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Ff
 [/us/usc/t26/s6320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6320
-[/us/pl/109/280/s855/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs855%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1019
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

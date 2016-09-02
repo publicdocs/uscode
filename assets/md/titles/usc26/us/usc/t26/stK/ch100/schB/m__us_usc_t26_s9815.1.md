@@ -27,7 +27,7 @@
 
         Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this subchapter shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
 
-(Added [Pub. L. 111–148, title I, § 1563(f)][/us/pl/111/148/s1563/f], formerly § 1562(f), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 270][/us/stat/124/270], 911.)
+(Added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1563(f), formerly § 1562(f), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 270][/us/stat/124/270], 911.)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1563/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1563%2Ff
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F270
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

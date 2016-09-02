@@ -121,11 +121,11 @@
 
         (2) a trust all of the unexpired interests in which are devoted to one or more of the purposes described in section 170(c)(2)(B).
 
-(Added [Pub. L. 111–152, title I, § 1402(a)(1)][/us/pl/111/152/s1402/a/1], Mar. 30, 2010, [124 Stat. 1061][/us/stat/124/1061].)
+(Added [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1402(a)(1), Mar. 30, 2010, [124 Stat. 1061][/us/stat/124/1061].)
 
  __Effective Date__ 
 
-[Pub. L. 111–152, title I, § 1402(a)(4)][/us/pl/111/152/s1402/a/4], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063], provided that: 
+[Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1402(a)(4), Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063], provided that: 
 
 > “The amendments made by this subsection \[enacting this chapter and amending [section 6654 of this title][/us/usc/t26/s6654]\] shall apply to taxable years beginning after December 31, 2012.”
 
@@ -136,9 +136,9 @@
 ----------
 ----------
 
-[/us/pl/111/152/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fa%2F1
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1061
-[/us/pl/111/152/s1402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fa%2F4
+[/us/pl/111/152/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtI
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
 [/us/usc/t26/s6654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6654
 

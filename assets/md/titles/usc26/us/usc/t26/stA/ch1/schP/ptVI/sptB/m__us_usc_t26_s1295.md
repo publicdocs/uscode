@@ -39,11 +39,11 @@
 
             An election under this subsection may be made for any taxable year at any time on or before the due date (determined with regard to extensions) for filing the return of the tax imposed by this chapter for such taxable year. To the extent provided in regulations, such an election may be made later than as required in the preceding sentence where the taxpayer fails to make a timely election because the taxpayer reasonably believed that the company was not a passive foreign investment company.
 
-(Added [Pub. L. 99–514, title XII, § 1235(a)][/us/pl/99/514/s1235/a], Oct. 22, 1986, [100 Stat. 2571][/us/stat/100/2571]; amended [Pub. L. 100–647, title I, § 1012(p)(37)(A)][/us/pl/100/647/s1012/p/37/A], title VI, § 6127(a), Nov. 10, 1988, [102 Stat. 3522][/us/stat/102/3522], 3715.)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(a), Oct. 22, 1986, [100 Stat. 2571][/us/stat/100/2571]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(p)(37)(A), title VI, § 6127(a), Nov. 10, 1988, [102 Stat. 3522][/us/stat/102/3522], 3715.)
 
  __Amendments__ 
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 6127(a)][/us/pl/100/647/s6127/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this part, the term ‘qualified electing fund’ means any passive foreign investment company if—
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this part, the term ‘qualified electing fund’ means any passive foreign investment company if—
 
     “(1) an election under subsection (b) applies to such company for the taxable year, and
 
@@ -55,19 +55,19 @@
 
     “(C) otherwise carrying out the purposes of this subpart.”
 
-    Subsec. (b). [Pub. L. 100–647, § 6127(a)][/us/pl/100/647/s6127/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 6127(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
     “(1) In general.—A passive foreign investment company may make an election under this subsection for any taxable year. Such an election, once made, shall apply to all subsequent taxable years of such company for which such company is a passive foreign investment company unless revoked with the consent of the Secretary.
 
     “(2) When made.—An election under this subsection may be made for any taxable year at any time before the 15th day of the 3rd month of the following taxable year. To the extent provided in regulations, such an election may be made later than as required by the preceding sentence in cases where the company failed to make a timely election because it reasonably believed it was not a passive foreign investment company.”
 
-    [Pub. L. 100–647, § 1012(p)(37)(A)][/us/pl/100/647/s1012/p/37/A], inserted sentence at end of par. (2) permitting a later election when a company reasonably believed it was not a passive foreign investment company.
+    [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(37)(A), inserted sentence at end of par. (2) permitting a later election when a company reasonably believed it was not a passive foreign investment company.
 
  __Effective Date of 1988 Amendment__ 
 
     Amendment by [section 1012(p)(37)(A) of Pub. L. 100–647][/us/pl/100/647/s1012/p/37/A] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6127(c)][/us/pl/100/647/s6127/c], Nov. 10, 1988, [102 Stat. 3715][/us/stat/102/3715], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6127(c), Nov. 10, 1988, [102 Stat. 3715][/us/stat/102/3715], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -83,7 +83,7 @@
 
  __Expiration of Subsection (b) Election Period__ 
 
-[Pub. L. 100–647, title I, § 1012(p)(37)(B)][/us/pl/100/647/s1012/p/37/B], Nov. 10, 1988, [102 Stat. 3522][/us/stat/102/3522], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(p)(37)(B), Nov. 10, 1988, [102 Stat. 3522][/us/stat/102/3522], provided that: 
 
 > “The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\].”
 
@@ -94,24 +94,24 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2571
-[/us/pl/100/647/s1012/p/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F37%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3522
-[/us/pl/100/647/s6127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6127%2Fa
-[/us/pl/100/647/s6127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6127%2Fa
-[/us/pl/100/647/s1012/p/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F37%2FA
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s1012/p/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F37%2FA
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6127%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3715
 [/us/usc/t26/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1291
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1235/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fh
 [/us/usc/t26/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1291
-[/us/pl/100/647/s1012/p/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F37%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3522
 
 

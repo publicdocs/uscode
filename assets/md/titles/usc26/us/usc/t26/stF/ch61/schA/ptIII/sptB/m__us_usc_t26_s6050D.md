@@ -23,11 +23,11 @@
 
         For purposes of this section, the term “person” means the officer or employee having control of the program, or the person appropriately designated for purposes of this section.
 
-(Added [Pub. L. 96–223, title II, § 203(b)(1)][/us/pl/96/223/s203/b/1], Apr. 2, 1980, [94 Stat. 259][/us/stat/94/259].)
+(Added [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 203(b)(1), Apr. 2, 1980, [94 Stat. 259][/us/stat/94/259].)
 
  __Effective Date__ 
 
-[Pub. L. 96–223, title II, § 203(c)][/us/pl/96/223/s203/c], Apr. 2, 1980, [94 Stat. 259][/us/stat/94/259], provided that: 
+[Pub. L. 96–223, title II][/us/pl/96/223/tII], § 203(c), Apr. 2, 1980, [94 Stat. 259][/us/stat/94/259], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 23 of this title][/us/usc/t26/s23]\] shall apply to taxable years beginning after December 31, 1980, but only with respect to financing or grants made after such date.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/96/223/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs203%2Fb%2F1
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F259
-[/us/pl/96/223/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs203%2Fc
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F259
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
 

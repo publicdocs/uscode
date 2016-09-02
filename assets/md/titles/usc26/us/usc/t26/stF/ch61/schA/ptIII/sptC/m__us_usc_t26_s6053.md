@@ -111,23 +111,23 @@
 
             For purposes of any report required by this subsection, in the case of a certified professional employer organization that is treated under section 3511 as the employer of a work site employee, the customer with respect to whom a work site employee performs services shall be the employer for purposes of reporting under this section and the certified professional employer organization shall furnish to the customer and the Secretary any information the Secretary prescribes as necessary to complete such reporting no later than such time as the Secretary shall prescribe.
 
-(Added [Pub. L. 89–97, title III, § 313(e)(2)(A)][/us/pl/89/97/s313/e/2/A], July 30, 1965, [79 Stat. 384][/us/stat/79/384]; amended [Pub. L. 89–212, § 2(d)][/us/pl/89/212/s2/d], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 314(a)][/us/pl/97/248/s314/a], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; [Pub. L. 98–369, div. A, title X, § 1072(a)][/us/pl/98/369/s1072/a], (c)(1), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052]; [Pub. L. 113–295, div. B, title II, § 206(c)(3)][/us/pl/113/295/s206/c/3], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
+(Added [Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 313(e)(2)(A), July 30, 1965, [79 Stat. 384][/us/stat/79/384]; amended [Pub. L. 89–212][/us/pl/89/212], § 2(d), Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 314(a), Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1072(a), (c)(1), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(c)(3), Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
 
  __Amendments__ 
 
     2014—Subsec. (c)(8). [Pub. L. 113–295][/us/pl/113/295] added par. (8).
 
-    1984—Subsec. (c)(3)(C). [Pub. L. 98–369, § 1072(a)][/us/pl/98/369/s1072/a], substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
+    1984—Subsec. (c)(3)(C). [Pub. L. 98–369][/us/pl/98/369], § 1072(a), substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
 
-    Subsec. (c)(4). [Pub. L. 98–369, § 1072(c)(1)][/us/pl/98/369/s1072/c/1], inserted provision that an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
+    Subsec. (c)(4). [Pub. L. 98–369][/us/pl/98/369], § 1072(c)(1), inserted provision that an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
 
     1982—Subsec. (c). [Pub. L. 97–248][/us/pl/97/248] added subsec. (c).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1965—Subsec. (a). [Pub. L. 89–212, § 2(d)(1)][/us/pl/89/212/s2/d/1], inserted “or which are compensation (as defined in section 3231(e)”.
+    1965—Subsec. (a). [Pub. L. 89–212][/us/pl/89/212], § 2(d)(1), inserted “or which are compensation (as defined in section 3231(e)”.
 
-    Subsec. (b). [Pub. L. 89–212, § 2(d)(2)][/us/pl/89/212/s2/d/2], inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
+    Subsec. (b). [Pub. L. 89–212][/us/pl/89/212], § 2(d)(2), inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -135,13 +135,13 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title X, § 1072(c)(2)][/us/pl/98/369/s1072/c/2], July 18, 1984, [98 Stat. 1052][/us/stat/98/1052], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1072(c)(2), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982.”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title III, § 314(e)][/us/pl/97/248/s314/e], Sept. 3, 1982, [96 Stat. 605][/us/stat/96/605], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 314(e), Sept. 3, 1982, [96 Stat. 605][/us/stat/96/605], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -161,31 +161,31 @@
 
  __Effective Date__ 
 
-[Pub. L. 89–97, title III, § 313(f)][/us/pl/89/97/s313/f], July 30, 1965, [79 Stat. 385][/us/stat/79/385], provided that: 
+[Pub. L. 89–97, title III][/us/pl/89/97/tIII], § 313(f), July 30, 1965, [79 Stat. 385][/us/stat/79/385], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 451, 3102, 3121, 3401, 3402, 6051, 6652, and 6674 of this title and [section 409 of Title 42][/us/usc/t42/s409], The Public Health and Welfare\] shall apply only with respect to tips received by employees after 1965.”
 
  __Regulations__ 
 
-[Pub. L. 98–369, div. A, title X, § 1072(b)][/us/pl/98/369/s1072/b], July 18, 1984, [98 Stat. 1052][/us/stat/98/1052], provided that: 
+[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1072(b), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052], provided that: 
 
 > “The Secretary of the Treasury shall prescribe by regulations within 1 year after the date of the enactment of this Act \[July 18, 1984\] the applicable recordkeeping requirements for tipped employees.”
 
  __Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements__ 
 
-[Pub. L. 105–206, title III, § 3414][/us/pl/105/206/s3414], July 22, 1998, [112 Stat. 755][/us/stat/112/755], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3414, July 22, 1998, [112 Stat. 755][/us/stat/112/755], provided that: 
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
 
  __Modification of Tips Allocation Method__ 
 
-[Pub. L. 99–514, title XV, § 1571][/us/pl/99/514/s1571], Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1571, Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
 
 > “Effective for any payroll period beginning after December 31, 1986, an establishment may utilize the optional method of tips allocation described in the last sentence of section 31.6053–3(f)(1)(iv) of the Internal Revenue Regulations only if such establishment employs less than the equivalent of 25 full-time employees during such payroll period.”
 
  __Study of Tip Compliance__ 
 
-    [Pub. L. 97–248, title III, § 314(c)][/us/pl/97/248/s314/c], Sept. 3, 1982, [96 Stat. 605][/us/stat/96/605], directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
+    [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 314(c), Sept. 3, 1982, [96 Stat. 605][/us/stat/96/605], directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
 
 ----------
 
@@ -194,47 +194,47 @@
 ----------
 ----------
 
-[/us/pl/89/97/s313/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Fe%2F2%2FA
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F384
-[/us/pl/89/212/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fd
+[/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/stat/79/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F859
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs314%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F603
-[/us/pl/98/369/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1052
-[/us/pl/113/295/s206/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F3
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/98/369/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fa
-[/us/pl/98/369/s1072/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fc%2F1
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/89/212/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fd%2F1
-[/us/pl/89/212/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fd%2F2
+[/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
+[/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/pl/98/369/s1072/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fc%2F2
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1052
-[/us/pl/97/248/s314/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs314%2Fe
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F605
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/pl/89/212/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs6
 [/us/usc/t26/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3201
-[/us/pl/89/97/s313/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs313%2Ff
+[/us/pl/89/97/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtIII
 [/us/stat/79/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F385
 [/us/usc/t42/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409
-[/us/pl/98/369/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1052
-[/us/pl/105/206/s3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3414
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F755
-[/us/pl/99/514/s1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1571
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2765
-[/us/pl/97/248/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs314%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F605
 
 

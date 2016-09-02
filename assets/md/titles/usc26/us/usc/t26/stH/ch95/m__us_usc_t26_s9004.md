@@ -53,7 +53,7 @@
 
         For purposes of subsection (d), the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 565][/us/stat/85/565]; amended [Pub. L. 93–443, title IV, § 404(a)][/us/pl/93/443/s404/a], (b), Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291]; [Pub. L. 94–283, title III][/us/pl/94/283], §§ 301(a), 307(d), May 11, 1976, [90 Stat. 497][/us/stat/90/497], 501; [Pub. L. 110–172, § 11(a)(42)(B)][/us/pl/110/172/s11/a/42/B], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 565][/us/stat/85/565]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 404(a), (b), Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291]; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], §§ 301(a), 307(d), May 11, 1976, [90 Stat. 497][/us/stat/90/497], 501; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(42)(B), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
 
  __References in Text__ 
 
@@ -63,19 +63,19 @@
 
     2007—Subsec. (a)(1). [Pub. L. 110–172][/us/pl/110/172] substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
 
-    1976—Subsec. (a)(1). [Pub. L. 94–283, § 307(d)][/us/pl/94/283/s307/d], substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “[section 608(c)(1)(B) of title 18][/us/usc/t18/s608/c/1/B], United States Code”.
+    1976—Subsec. (a)(1). [Pub. L. 94–283][/us/pl/94/283], § 307(d), substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “[section 608(c)(1)(B) of title 18][/us/usc/t18/s608/c/1/B], United States Code”.
 
-    Subsecs. (d), (e). [Pub. L. 94–283, § 301(a)][/us/pl/94/283/s301/a], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 94–283][/us/pl/94/283], § 301(a), added subsecs. (d) and (e).
 
-    1974—Subsec. (a)(1). [Pub. L. 93–443, § 404(a)][/us/pl/93/443/s404/a], substituted provision which limited aggregate amount of payments to eligible candidates to an amount not exceeding the expenditure limitations applicable to such candidates under [section 608(c)(1)(B) of title 18][/us/usc/t18/s608/c/1/B] for prior provision which determined the amount by multiplying 15 cents by the total number of residents within the United States who attained the age of 18, determined by the Bureau of the Census, as of the first day of June of the year preceding the year of the presidential election.
+    1974—Subsec. (a)(1). [Pub. L. 93–443][/us/pl/93/443], § 404(a), substituted provision which limited aggregate amount of payments to eligible candidates to an amount not exceeding the expenditure limitations applicable to such candidates under [section 608(c)(1)(B) of title 18][/us/usc/t18/s608/c/1/B] for prior provision which determined the amount by multiplying 15 cents by the total number of residents within the United States who attained the age of 18, determined by the Bureau of the Census, as of the first day of June of the year preceding the year of the presidential election.
 
-    Subsec. (a)(2)(A). [Pub. L. 93–443, § 404(b)(1)][/us/pl/93/443/s404/b/1], substituted “allowed” for “computed”.
+    Subsec. (a)(2)(A). [Pub. L. 93–443][/us/pl/93/443], § 404(b)(1), substituted “allowed” for “computed”.
 
-    Subsec. (a)(3). [Pub. L. 93–443, § 404(b)(2)][/us/pl/93/443/s404/b/2], substituted “allowed” for “computed” in first sentence.
+    Subsec. (a)(3). [Pub. L. 93–443][/us/pl/93/443], § 404(b)(2), substituted “allowed” for “computed” in first sentence.
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–283, title III, § 301(b)][/us/pl/94/283/s301/b], May 11, 1976, [90 Stat. 498][/us/stat/90/498], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 301(b), May 11, 1976, [90 Stat. 498][/us/stat/90/498], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
 
@@ -90,26 +90,26 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F565
-[/us/pl/93/443/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fa
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1291
-[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F497
-[/us/pl/110/172/s11/a/42/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FB
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
 [/us/usc/t52/s30116/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fb%2F1%2FB
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/94/283/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Fd
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FB
-[/us/pl/94/283/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs301%2Fa
-[/us/pl/93/443/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fa
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/usc/t18/s608/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FB
-[/us/pl/93/443/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fb%2F1
-[/us/pl/93/443/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fb%2F2
-[/us/pl/94/283/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs301%2Fb
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F498
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1

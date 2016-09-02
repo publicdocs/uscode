@@ -93,7 +93,7 @@
 
         Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1398][/us/stat/72/1398]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834; [Pub. L. 96–39, title VIII, § 807(a)(52)][/us/pl/96/39/s807/a/52], July 26, 1979, [93 Stat. 288][/us/stat/93/288]; [Pub. L. 96–223, title II, § 232(e)(2)(A)][/us/pl/96/223/s232/e/2/A], Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1398][/us/stat/72/1398]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(52), July 26, 1979, [93 Stat. 288][/us/stat/93/288]; [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(e)(2)(A), Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280].)
 
  __Prior Provisions__ 
 
@@ -309,23 +309,23 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 
     1980—Subsec. (a)(15). [Pub. L. 96–223][/us/pl/96/223] added par. (15).
 
-    1979—Subsec. (a)(2). [Pub. L. 96–39, § 807(a)(52)(A)][/us/pl/96/39/s807/a/52/A], struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
+    1979—Subsec. (a)(2). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
 
-    Subsec. (a)(3). [Pub. L. 96–39, § 807(a)(52)(B)][/us/pl/96/39/s807/a/52/B], substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+    Subsec. (a)(3). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
 
-    Subsec. (a)(4). [Pub. L. 96–39, § 807(a)(52)(C)][/us/pl/96/39/s807/a/52/C], substituted “warehouseman, or processor” for “or rectifier” in heading and in text.
+    Subsec. (a)(4). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(C), substituted “warehouseman, or processor” for “or rectifier” in heading and in text.
 
-    Subsec. (a)(5). [Pub. L. 96–39, § 807(a)(52)(B)][/us/pl/96/39/s807/a/52/B], substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+    Subsec. (a)(5). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
 
-    Subsec. (a)(10). [Pub. L. 96–39, § 807(a)(52)(D)][/us/pl/96/39/s807/a/52/D], substituted “processing” for “rectifying or bottling” in par. (10) heading, “processor” for “rectifier, or a bottler of distilled spirits” in text preceding subpar. (A), and “processed” for “rectified or bottled” in subpar. (A).
+    Subsec. (a)(10). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(D), substituted “processing” for “rectifying or bottling” in par. (10) heading, “processor” for “rectifier, or a bottler of distilled spirits” in text preceding subpar. (A), and “processed” for “rectified or bottled” in subpar. (A).
 
-    Subsec. (a)(11). [Pub. L. 96–39, § 807(a)(52)(E)][/us/pl/96/39/s807/a/52/E], substituted “or processing” for “rectification, or bottling” in heading and “or processes” for “rectifies, or bottles” in text.
+    Subsec. (a)(11). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(E), substituted “or processing” for “rectification, or bottling” in heading and “or processes” for “rectifies, or bottles” in text.
 
-    Subsec. (b). [Pub. L. 96–39, § 807(a)(52)(F)][/us/pl/96/39/s807/a/52/F], substituted “processor” for “rectifier”.
+    Subsec. (b). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(52)(F), substituted “processor” for “rectifier”.
 
-    1976—Subsec. (a)(7). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(7). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b). [Pub. L. 94–455, § 1905(a)(22)][/us/pl/94/455/s1905/a/22], struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -345,7 +345,7 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 
  __Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision__ 
 
-[Pub. L. 85–859, title II, § 210(c)][/us/pl/85/859/s210/c], Sept. 2, 1958, [72 Stat. 1435][/us/stat/72/1435], provided that: 
+[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 210(c), Sept. 2, 1958, [72 Stat. 1435][/us/stat/72/1435], provided that: 
 
 > “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
 
@@ -356,13 +356,13 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1398
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
-[/us/pl/96/39/s807/a/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F288
-[/us/pl/96/223/s232/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fe%2F2%2FA
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F280
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F683
@@ -372,15 +372,15 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F627
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
-[/us/pl/96/39/s807/a/52/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FA
-[/us/pl/96/39/s807/a/52/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FB
-[/us/pl/96/39/s807/a/52/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FC
-[/us/pl/96/39/s807/a/52/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FB
-[/us/pl/96/39/s807/a/52/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FD
-[/us/pl/96/39/s807/a/52/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FE
-[/us/pl/96/39/s807/a/52/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F52%2FF
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1905/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F22
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
 [/us/pl/96/223/s232/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fh%2F3
 [/us/usc/t26/s5181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5181
@@ -392,7 +392,7 @@ Provisions similar to those comprising subsecs. (a)(2) to (8), (9)(A), (10) to (
 [/us/usc/t26/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5005
 [/us/pl/85/859/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fa%2F1
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/85/859/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fc
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1435
 
 

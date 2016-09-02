@@ -117,31 +117,31 @@
 
         (2) appropriate adjustments shall be made to the basis of any property to reflect gain recognized under subsection (a).
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 543][/us/stat/98/543]; amended [Pub. L. 99–514, title VI, § 631(e)(15)][/us/pl/99/514/s631/e/15], title XVIII, §§ 1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2793, 2796, 2960; [Pub. L. 100–647, title I, § 1018(u)(46)][/us/pl/100/647/s1018/u/46], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 103–66, title XIII, § 13206(b)(1)(A)][/us/pl/103/66/s13206/b/1/A], (2)(B)(i), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 543][/us/stat/98/543]; amended [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(e)(15), title XVIII, §§ 1803(a)(5), (13)(A), 1899A(28), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2793, 2796, 2960; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(46), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(b)(1)(A), (2)(B)(i), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(4). [Pub. L. 103–66, § 13206(b)(2)(B)(i)][/us/pl/103/66/s13206/b/2/B/i], substituted “sections 103, 871(a),” for “sections 871(a)”.
+    1993—Subsec. (a)(4). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(2)(B)(i), substituted “sections 103, 871(a),” for “sections 871(a)”.
 
-    Subsec. (e). [Pub. L. 103–66, § 13206(b)(1)(A)][/us/pl/103/66/s13206/b/1/A], struck out heading and text of subsec. (e). Text read as follows: “This section shall not apply to any market discount bond issued on or before July 18, 1984.”
+    Subsec. (e). [Pub. L. 103–66][/us/pl/103/66], § 13206(b)(1)(A), struck out heading and text of subsec. (e). Text read as follows: “This section shall not apply to any market discount bond issued on or before July 18, 1984.”
 
     1988—Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647] designated paragraph relating to special rule where there are partial principal payments as par. (3) and inserted period at end.
 
-    1986—Subsec. (a)(3). [Pub. L. 99–514, § 1803(a)(13)(A)(i)][/us/pl/99/514/s1803/a/13/A/i], added par. (3). Former par. (3) redesignated (4).
+    1986—Subsec. (a)(3). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(13)(A)(i), added par. (3). Former par. (3) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 99–514, § 1803(a)(13)(A)(i)][/us/pl/99/514/s1803/a/13/A/i], (ii), redesignated par. (3) as (4) and substituted “under paragraph (1) or (3)” for “under paragraph (1)”.
+    Subsec. (a)(4). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(13)(A)(i), (ii), redesignated par. (3) as (4) and substituted “under paragraph (1) or (3)” for “under paragraph (1)”.
 
-    Subsec. (b). [Pub. L. 99–514, § 1803(a)(13)(A)(iii)][/us/pl/99/514/s1803/a/13/A/iii], added undesignated par. at end relating to special rule where partial principal payments.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(13)(A)(iii), added undesignated par. at end relating to special rule where partial principal payments.
 
-    Subsec. (c)(3). [Pub. L. 99–514, § 631(e)(15)][/us/pl/99/514/s631/e/15], struck out reference to section 334(c).
+    Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514], § 631(e)(15), struck out reference to section 334(c).
 
-    Subsec. (d)(1)(C). [Pub. L. 99–514, § 1803(a)(5)][/us/pl/99/514/s1803/a/5], added subpar. (C).
+    Subsec. (d)(1)(C). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(5), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 99–514, § 1899A(28)][/us/pl/99/514/s1899A/28], substituted “July 18, 1984” for “the date of the enactment of this section”.
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1899A(28), substituted “July 18, 1984” for “the date of the enactment of this section”.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13206(b)(3)][/us/pl/103/66/s13206/b/3], Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(b)(3), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465], provided that: 
 
 > “The amendments made by this section \[probably should be “subsection”, which amended this section and sections 1277 and 1278 of this title\] shall apply to obligations purchased (within the meaning of section 1272(d)(1) of the Internal Revenue Code of 1986) after April 30, 1993.”
 
@@ -153,9 +153,9 @@
 
     Amendment by [section 631(e)(15) of Pub. L. 99–514][/us/pl/99/514/s631/e/15] applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in [section 338 of this title][/us/usc/t26/s338] for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see [section 633 of Pub. L. 99–514][/us/pl/99/514/s633], set out as an Effective Date note under [section 336 of this title][/us/usc/t26/s336].
 
-    Amendment by [section 1803(a)(5) of Pub. L. 99–514][/us/pl/99/514/s1803/a/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1803(a)(5) of Pub. L. 99–514][/us/pl/99/514/s1803/a/5] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
-[Pub. L. 99–514, title XVIII, § 1803(a)(13)(C)][/us/pl/99/514/s1803/a/13/C], Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1803(a)(13)(C), Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797], provided that: 
 
 > “The amendments made by this paragraph \[amending this section and [section 1286 of this title][/us/usc/t26/s1286]\] shall apply to obligations acquired after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -174,24 +174,24 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F543
-[/us/pl/99/514/s631/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F15
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2275
-[/us/pl/100/647/s1018/u/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F46
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
-[/us/pl/103/66/s13206/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F1%2FA
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F465
-[/us/pl/103/66/s13206/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F2%2FB%2Fi
-[/us/pl/103/66/s13206/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F1%2FA
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1803/a/13/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FA%2Fi
-[/us/pl/99/514/s1803/a/13/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FA%2Fi
-[/us/pl/99/514/s1803/a/13/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FA%2Fiii
-[/us/pl/99/514/s631/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F15
-[/us/pl/99/514/s1803/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F5
-[/us/pl/99/514/s1899A/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F28
-[/us/pl/103/66/s13206/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F3
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F465
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -202,10 +202,10 @@
 [/us/pl/99/514/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs633
 [/us/usc/t26/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs336
 [/us/pl/99/514/s1803/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F5
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/514/s1803/a/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F13%2FC
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2797
 [/us/usc/t26/s1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1286
 [/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44

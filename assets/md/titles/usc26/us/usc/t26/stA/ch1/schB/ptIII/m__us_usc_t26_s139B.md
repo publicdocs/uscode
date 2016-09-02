@@ -61,11 +61,11 @@
 
         This section shall not apply with respect to taxable years beginning after December 31, 2010.
 
-(Added [Pub. L. 110–142, § 5(a)][/us/pl/110/142/s5/a], Dec. 20, 2007, [121 Stat. 1805][/us/stat/121/1805].)
+(Added [Pub. L. 110–142][/us/pl/110/142], § 5(a), Dec. 20, 2007, [121 Stat. 1805][/us/stat/121/1805].)
 
  __Effective Date__ 
 
-[Pub. L. 110–142, § 5(c)][/us/pl/110/142/s5/c], Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806], provided that: 
+[Pub. L. 110–142][/us/pl/110/142], § 5(c), Dec. 20, 2007, [121 Stat. 1806][/us/stat/121/1806], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2007.”
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/110/142/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs5%2Fa
+[/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/stat/121/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1805
-[/us/pl/110/142/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs5%2Fc
+[/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/stat/121/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1806
 
 

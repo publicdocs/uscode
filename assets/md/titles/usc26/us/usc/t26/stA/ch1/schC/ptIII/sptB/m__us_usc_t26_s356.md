@@ -103,7 +103,7 @@
 
         (2) has the effect of the payment of compensation, see section 61(a)(1).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 115][/us/stat/68A/115]; [Pub. L. 94–253, § 1(c)][/us/pl/94/253/s1/c], Mar. 31, 1976, [90 Stat. 296][/us/stat/90/296]; [Pub. L. 97–248, title II, § 227(b)][/us/pl/97/248/s227/b], Sept. 3, 1982, [96 Stat. 492][/us/stat/96/492]; [Pub. L. 101–508, title XI, § 11801(c)(8)(E)][/us/pl/101/508/s11801/c/8/E], Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524]; [Pub. L. 105–34, title X, § 1014(d)][/us/pl/105/34/s1014/d], Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 115][/us/stat/68A/115]; [Pub. L. 94–253][/us/pl/94/253], § 1(c), Mar. 31, 1976, [90 Stat. 296][/us/stat/90/296]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 227(b), Sept. 3, 1982, [96 Stat. 492][/us/stat/96/492]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(8)(E), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1014(d), Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921].)
 
  __Amendments__ 
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title II, § 227(c)(2)][/us/pl/97/248/s227/c/2], Sept. 3, 1982, [96 Stat. 492][/us/stat/96/492], provided that: 
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 227(c)(2), Sept. 3, 1982, [96 Stat. 492][/us/stat/96/492], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after August 31, 1982, in taxable years ending after such date.”
 
@@ -142,13 +142,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F115
-[/us/pl/94/253/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F253%2Fs1%2Fc
+[/us/pl/94/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F253
 [/us/stat/90/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F296
-[/us/pl/97/248/s227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs227%2Fb
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F492
-[/us/pl/101/508/s11801/c/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F8%2FE
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-524
-[/us/pl/105/34/s1014/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1014%2Fd
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F921
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
@@ -157,7 +157,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1014/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1014%2Ff
 [/us/usc/t26/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs351
-[/us/pl/97/248/s227/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs227%2Fc%2F2
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F492
 [/us/pl/94/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F253
 [/us/pl/94/253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F253%2Fs2

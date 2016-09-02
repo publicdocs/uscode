@@ -133,7 +133,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 113–295, div. B, title II, § 206(b)][/us/pl/113/295/s206/b], Dec. 19, 2014, [128 Stat. 4067][/us/stat/128/4067].)
+(Added [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(b), Dec. 19, 2014, [128 Stat. 4067][/us/stat/128/4067].)
 
  __Effective Date__ 
 
@@ -141,7 +141,7 @@
 
  __Certified Professional Employer Organization Certification Program__ 
 
-[Pub. L. 113–295, div. B, title II, § 206(g)(2)][/us/pl/113/295/s206/g/2], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], provided that: 
+[Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 206(g)(2), Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], provided that: 
 
 > “The Secretary of the Treasury shall establish the certification program described in section 7705(b) of the Internal Revenue Code of 1986, as added by subsection (b), not later than 6 months before the effective date determined under paragraph (1) \[see [section 206(g)(1) of Pub. L. 113–295][/us/pl/113/295/s206/g/1], set out as an Effective Date of 2014 Amendment note under [section 3302 of this title][/us/usc/t26/s3302]\].”
 
@@ -152,11 +152,11 @@
 ----------
 ----------
 
-[/us/pl/113/295/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fb
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4067
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/pl/113/295/s206/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F2
+[/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302

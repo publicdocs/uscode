@@ -49,11 +49,11 @@
 
         For purposes of this subpart, rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 551][/us/stat/107/551].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 551][/us/stat/107/551].)
 
  __Prior Provisions__ 
 
-    A prior section 1397, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895], related to special rules applicable to an electing general stock ownership corporation, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
+    A prior section 1397, added [Pub. L. 95–600, title VI][/us/pl/95/600/tVI], § 601(a), Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895], related to special rules applicable to an electing general stock ownership corporation, prior to repeal by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(a), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
 ----------
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F551
-[/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
+[/us/pl/95/600/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVI
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
-[/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
 
 

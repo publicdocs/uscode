@@ -97,21 +97,21 @@
 
             The Secretary shall prescribe regulations with respect to the treatment of distributions of previously taxed earnings and profits through tiers of foreign corporations.
 
-(Added [Pub. L. 99–514, title XII, § 1261(a)][/us/pl/99/514/s1261/a], Oct. 22, 1986, [100 Stat. 2586][/us/stat/100/2586]; amended [Pub. L. 100–647, title I, § 1012(v)(1)(A)][/us/pl/100/647/s1012/v/1/A], Nov. 10, 1988, [102 Stat. 3528][/us/stat/102/3528]; [Pub. L. 105–34, title XI, § 1102(a)(1)][/us/pl/105/34/s1102/a/1], (b)(1), Aug. 5, 1997, [111 Stat. 963][/us/stat/111/963], 965; [Pub. L. 108–357, title IV, § 408(a)][/us/pl/108/357/s408/a], (b), Oct. 22, 2004, [118 Stat. 1499][/us/stat/118/1499].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(a), Oct. 22, 1986, [100 Stat. 2586][/us/stat/100/2586]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(v)(1)(A), Nov. 10, 1988, [102 Stat. 3528][/us/stat/102/3528]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1102(a)(1), (b)(1), Aug. 5, 1997, [111 Stat. 963][/us/stat/111/963], 965; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 408(a), (b), Oct. 22, 2004, [118 Stat. 1499][/us/stat/118/1499].)
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1)(D). [Pub. L. 108–357, § 408(a)][/us/pl/108/357/s408/a], added subpar. (D). Former subpar. (D) redesignated (E).
+    2004—Subsec. (a)(1)(D). [Pub. L. 108–357][/us/pl/108/357], § 408(a), added subpar. (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (a)(1)(E). [Pub. L. 108–357, § 408(b)(1)][/us/pl/108/357/s408/b/1], added subpar. (E). Former subpar. (E) redesignated (F).
+    Subsec. (a)(1)(E). [Pub. L. 108–357][/us/pl/108/357], § 408(b)(1), added subpar. (E). Former subpar. (E) redesignated (F).
 
-    [Pub. L. 108–357, § 408(a)][/us/pl/108/357/s408/a], redesignated subpar. (D) as (E).
+    [Pub. L. 108–357][/us/pl/108/357], § 408(a), redesignated subpar. (D) as (E).
 
-    Subsec. (a)(1)(F). [Pub. L. 108–357, § 408(b)(1)][/us/pl/108/357/s408/b/1], redesignated subpar. (E) as (F).
+    Subsec. (a)(1)(F). [Pub. L. 108–357][/us/pl/108/357], § 408(b)(1), redesignated subpar. (E) as (F).
 
-    Subsec. (a)(2). [Pub. L. 108–357, § 408(b)(2)][/us/pl/108/357/s408/b/2], inserted “or (E)” after “subparagraph (A)” in introductory provisions.
+    Subsec. (a)(2). [Pub. L. 108–357][/us/pl/108/357], § 408(b)(2), inserted “or (E)” after “subparagraph (A)” in introductory provisions.
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1102(a)(1)][/us/pl/105/34/s1102/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(a) Foreign Taxes.—
 
@@ -127,19 +127,19 @@
 
     “(2) Foreign income taxes.—For purposes of paragraph (1), ‘foreign income taxes’ means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States.”
 
-    Subsec. (a)(3), (4). [Pub. L. 105–34, § 1102(b)(1)][/us/pl/105/34/s1102/b/1], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 105–34][/us/pl/105/34], § 1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
     1988—[Pub. L. 100–647][/us/pl/100/647] substituted “foreign taxes and foreign corporation’s earnings and profits” for “foreign corporation’s earnings and profits and foreign taxes” in heading, and revised and restructured the provisions of subsecs. (a) and (b).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title IV, § 408(c)][/us/pl/108/357/s408/c], Oct. 22, 2004, [118 Stat. 1500][/us/stat/118/1500], provided that: 
+[Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 408(c), Oct. 22, 2004, [118 Stat. 1500][/us/stat/118/1500], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1102(c)(1)][/us/pl/105/34/s1102/c/1], Aug. 5, 1997, [111 Stat. 966][/us/stat/111/966], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1102(c)(1), Aug. 5, 1997, [111 Stat. 966][/us/stat/111/966], provided that: 
 
 > “The amendments made by subsections (a)(1) and (b) \[amending this section and [section 989 of this title][/us/usc/t26/s989]\] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997.”
 
@@ -158,25 +158,25 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2586
-[/us/pl/100/647/s1012/v/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fv%2F1%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3528
-[/us/pl/105/34/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fa%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F963
-[/us/pl/108/357/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fa
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1499
-[/us/pl/108/357/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fa
-[/us/pl/108/357/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fb%2F1
-[/us/pl/108/357/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fa
-[/us/pl/108/357/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fb%2F1
-[/us/pl/108/357/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fb%2F2
-[/us/pl/105/34/s1102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fa%2F1
-[/us/pl/105/34/s1102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fb%2F1
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/108/357/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs408%2Fc
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1500
-[/us/pl/105/34/s1102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1102%2Fc%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F966
 [/us/usc/t26/s989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs989
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

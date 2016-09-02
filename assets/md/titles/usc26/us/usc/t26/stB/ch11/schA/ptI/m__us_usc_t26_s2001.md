@@ -261,25 +261,25 @@
 
             (B) the sum of the amounts allowed as a credit for all preceding periods under section 2505(a)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 373][/us/stat/68A/373]; [Pub. L. 94–455, title XX, § 2001(a)(1)][/us/pl/94/455/s2001/a/1], Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846]; [Pub. L. 95–600, title VII, § 702(h)(1)][/us/pl/95/600/s702/h/1], Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV, § 402(a)][/us/pl/97/34/s402/a]–(c), Aug. 13, 1981, [95 Stat. 300][/us/stat/95/300]; [Pub. L. 98–369, div. A, title I, § 21(a)][/us/pl/98/369/s21/a], July 18, 1984, [98 Stat. 506][/us/stat/98/506]; [Pub. L. 100–203, title X, § 10401(a)][/us/pl/100/203/s10401/a]–(b)(2)(A), Dec. 22, 1987, [101 Stat. 1330–430][/us/stat/101/1330-430], 1330–431; [Pub. L. 103–66, title XIII, § 13208(a)][/us/pl/103/66/s13208/a]–(b)(2), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469]; [Pub. L. 105–34, title V][/us/pl/105/34], §§ 501(a)(1)(D), 506(a), Aug. 5, 1997, [111 Stat. 845][/us/stat/111/845], 855; [Pub. L. 105–206, title VI, § 6007(e)(2)(B)][/us/pl/105/206/s6007/e/2/B], July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 105–277, div. J, title IV, § 4003(c)][/us/pl/105/277/s4003/c], Oct. 21, 1998, [112 Stat. 2681–909][/us/stat/112/2681-909]; [Pub. L. 107–16, title V, § 511(a)][/us/pl/107/16/s511/a]–(c), June 7, 2001, [115 Stat. 70][/us/stat/115/70]; [Pub. L. 111–312, title III, § 302(a)(2)][/us/pl/111/312/s302/a/2], (d)(1), Dec. 17, 2010, [124 Stat. 3301][/us/stat/124/3301], 3302; [Pub. L. 112–240, title I, § 101(c)(1)][/us/pl/112/240/s101/c/1], Jan. 2, 2013, [126 Stat. 2317][/us/stat/126/2317].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 373][/us/stat/68A/373]; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(a)(1), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846]; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(h)(1), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 402(a)–(c), Aug. 13, 1981, [95 Stat. 300][/us/stat/95/300]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 21(a), July 18, 1984, [98 Stat. 506][/us/stat/98/506]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10401(a)–(b)(2)(A), Dec. 22, 1987, [101 Stat. 1330–430][/us/stat/101/1330-430], 1330–431; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13208(a)–(b)(2), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469]; [Pub. L. 105–34, title V][/us/pl/105/34/tV], §§ 501(a)(1)(D), 506(a), Aug. 5, 1997, [111 Stat. 845][/us/stat/111/845], 855; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(e)(2)(B), July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(c), Oct. 21, 1998, [112 Stat. 2681–909][/us/stat/112/2681-909]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 511(a)–(c), June 7, 2001, [115 Stat. 70][/us/stat/115/70]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 302(a)(2), (d)(1), Dec. 17, 2010, [124 Stat. 3301][/us/stat/124/3301], 3302; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 101(c)(1), Jan. 2, 2013, [126 Stat. 2317][/us/stat/126/2317].)
 
  __Amendments__ 
 
     2013—Subsec. (c). [Pub. L. 112–240][/us/pl/112/240] substituted in table separate tentative tax rates for amounts over $500,000 but not over $750,000, over $750,000 but not over $1,000,000, and over $1,000,000, respectively, for single tentative tax rate for amounts over $500,000.
 
-    2010—Subsec. (b)(2). [Pub. L. 111–312, § 302(d)(1)(A)][/us/pl/111/312/s302/d/1/A], substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent’s death)”.
+    2010—Subsec. (b)(2). [Pub. L. 111–312][/us/pl/111/312], § 302(d)(1)(A), substituted “if the modifications described in subsection (g)” for “if the provisions of subsection (c) (as in effect at the decedent’s death)”.
 
-    Subsec. (c). [Pub. L. 111–312, § 302(a)(2)][/us/pl/111/312/s302/a/2], struck out par. (1) designation and heading preceding table, substituted in table a single tentative tax rate for any amount over $500,000 for separate tentative tax rates for amounts ranging from over $500,000 to over $2,500,000, and struck out par. (2) which related to phasedown of maximum rate of tax.
+    Subsec. (c). [Pub. L. 111–312][/us/pl/111/312], § 302(a)(2), struck out par. (1) designation and heading preceding table, substituted in table a single tentative tax rate for any amount over $500,000 for separate tentative tax rates for amounts ranging from over $500,000 to over $2,500,000, and struck out par. (2) which related to phasedown of maximum rate of tax.
 
-    Subsec. (g). [Pub. L. 111–312, § 302(d)(1)(B)][/us/pl/111/312/s302/d/1/B], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–312][/us/pl/111/312], § 302(d)(1)(B), added subsec. (g).
 
-    2001—Subsec. (c)(1). [Pub. L. 107–16, § 511(a)][/us/pl/107/16/s511/a], substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000.
+    2001—Subsec. (c)(1). [Pub. L. 107–16][/us/pl/107/16], § 511(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000.
 
-    Subsec. (c)(2). [Pub. L. 107–16, § 511(c)][/us/pl/107/16/s511/c], added par. (2).
+    Subsec. (c)(2). [Pub. L. 107–16][/us/pl/107/16], § 511(c), added par. (2).
 
-    [Pub. L. 107–16, § 511(b)][/us/pl/107/16/s511/b], struck out heading and text of par. (2). Text read as follows: “The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.”
+    [Pub. L. 107–16][/us/pl/107/16], § 511(b), struck out heading and text of par. (2). Text read as follows: “The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.”
 
-    1998—Subsec. (f). [Pub. L. 105–206, § 6007(e)(2)(B)][/us/pl/105/206/s6007/e/2/B], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If—
+    1998—Subsec. (f). [Pub. L. 105–206][/us/pl/105/206], § 6007(e)(2)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If—
 
     “(1) the time has expired within which a tax may be assessed under chapter 12 (or under corresponding provisions of prior laws) on the transfer of property by gift made during a preceding calendar period (as defined in section 2502(b)), and
 
@@ -289,29 +289,29 @@
 
     Subsec. (f)(2). [Pub. L. 105–277][/us/pl/105/277] inserted concluding provisions.
 
-    1997—Subsec. (c)(2). [Pub. L. 105–34, § 501(a)(1)(D)][/us/pl/105/34/s501/a/1/D], substituted “the amount at which the average tax rate under this section is 55 percent” for “$21,040,000”.
+    1997—Subsec. (c)(2). [Pub. L. 105–34][/us/pl/105/34], § 501(a)(1)(D), substituted “the amount at which the average tax rate under this section is 55 percent” for “$21,040,000”.
 
-    Subsec. (f). [Pub. L. 105–34, § 506(a)][/us/pl/105/34/s506/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 506(a), added subsec. (f).
 
-    1993—Subsec. (c)(1). [Pub. L. 103–66, § 13208(a)][/us/pl/103/66/s13208/a], substituted in table provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000 and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000 for provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000.
+    1993—Subsec. (c)(1). [Pub. L. 103–66][/us/pl/103/66], § 13208(a), substituted in table provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000 and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000 for provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000.
 
-    Subsec. (c)(2), (3). [Pub. L. 103–66, § 13208(b)(1)][/us/pl/103/66/s13208/b/1], (2), redesignated par. (3) as (2), struck out “($18,340,000 in the case of decedents dying, and gifts made, after 1992)” after “exceed $21,040,000”, and struck out former par. (2) which related to the rates of tax on estates under this section for the years 1982 to 1992.
+    Subsec. (c)(2), (3). [Pub. L. 103–66][/us/pl/103/66], § 13208(b)(1), (2), redesignated par. (3) as (2), struck out “($18,340,000 in the case of decedents dying, and gifts made, after 1992)” after “exceed $21,040,000”, and struck out former par. (2) which related to the rates of tax on estates under this section for the years 1982 to 1992.
 
-    1987—Subsec. (b)(1). [Pub. L. 100–203, § 10401(b)(2)(A)(i)][/us/pl/100/203/s10401/b/2/A/i], substituted “under subsection (c)” for “in accordance with the rate schedule set forth in subsection (c)”.
+    1987—Subsec. (b)(1). [Pub. L. 100–203][/us/pl/100/203], § 10401(b)(2)(A)(i), substituted “under subsection (c)” for “in accordance with the rate schedule set forth in subsection (c)”.
 
-    Subsec. (b)(2). [Pub. L. 100–203, § 10401(b)(2)(A)(ii)][/us/pl/100/203/s10401/b/2/A/ii], substituted “the provisions of subsec. (c)” for “the rate schedule set forth in subsection (c)”.
+    Subsec. (b)(2). [Pub. L. 100–203][/us/pl/100/203], § 10401(b)(2)(A)(ii), substituted “the provisions of subsec. (c)” for “the rate schedule set forth in subsection (c)”.
 
-    Subsec. (c)(2)(A). [Pub. L. 100–203, § 10401(a)(1)][/us/pl/100/203/s10401/a/1], substituted “1993” for “1988”.
+    Subsec. (c)(2)(A). [Pub. L. 100–203][/us/pl/100/203], § 10401(a)(1), substituted “1993” for “1988”.
 
-    Subsec. (c)(2)(D). [Pub. L. 100–203, § 10401(a)(2)][/us/pl/100/203/s10401/a/2], (3), substituted in heading “After 1983 and before 1993” for “For 1984, 1985, 1986, or 1987”, and in text “after 1983 and before 1993” for “in 1984, 1985, 1986, or 1987”.
+    Subsec. (c)(2)(D). [Pub. L. 100–203][/us/pl/100/203], § 10401(a)(2), (3), substituted in heading “After 1983 and before 1993” for “For 1984, 1985, 1986, or 1987”, and in text “after 1983 and before 1993” for “in 1984, 1985, 1986, or 1987”.
 
-    Subsec. (c)(3). [Pub. L. 100–203, § 10401(b)(1)][/us/pl/100/203/s10401/b/1], added par. (3).
+    Subsec. (c)(3). [Pub. L. 100–203][/us/pl/100/203], § 10401(b)(1), added par. (3).
 
     1984—Subsec. (c)(2)(A), (D). [Pub. L. 98–369][/us/pl/98/369] substituted “1988” for “1985” in subpar. (A) and substituted “1984, 1985, 1986, or 1987” for “1984” in heading and text of subpar. (D).
 
-    1981—Subsec. (b)(2). [Pub. L. 97–34, § 402(c)][/us/pl/97/34/s402/c], inserted “which would have been” before “payable” and “, if the rate schedule set forth in subsection (c) (as in effect at the decedent’s death) had been applicable at the time of such gifts” after “December 31, 1976,”.
+    1981—Subsec. (b)(2). [Pub. L. 97–34][/us/pl/97/34], § 402(c), inserted “which would have been” before “payable” and “, if the rate schedule set forth in subsection (c) (as in effect at the decedent’s death) had been applicable at the time of such gifts” after “December 31, 1976,”.
 
-    Subsec. (c). [Pub. L. 97–34, § 402(a)][/us/pl/97/34/s402/a], (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
+    Subsec. (c). [Pub. L. 97–34][/us/pl/97/34], § 402(a), (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
 
     1978—Subsec. (e). [Pub. L. 95–600][/us/pl/95/600] added subsec. (e).
 
@@ -319,7 +319,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title I, § 101(c)(3)][/us/pl/112/240/s101/c/3], Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318], provided that:
+[Pub. L. 112–240, title I][/us/pl/112/240/tI], § 101(c)(3), Jan. 2, 2013, [126 Stat. 2318][/us/stat/126/2318], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -331,13 +331,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title III, § 302(f)][/us/pl/111/312/s302/f], Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], as amended by [Pub. L. 113–295, div. A, title II, § 206(b)(2)][/us/pl/113/295/s206/b/2], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], provided that: 
+[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 302(f), Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], as amended by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 206(b)(2), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], provided that: 
 
 > “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–16, title V, § 511(f)(1)][/us/pl/107/16/s511/f/1], (2), June 7, 2001, [115 Stat. 71][/us/stat/115/71], provided that:
+[Pub. L. 107–16, title V][/us/pl/107/16/tV], § 511(f)(1), (2), June 7, 2001, [115 Stat. 71][/us/stat/115/71], provided that:
 
 >     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
@@ -355,65 +355,65 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title V, § 501(f)][/us/pl/105/34/s501/f], Aug. 5, 1997, [111 Stat. 847][/us/stat/111/847], as amended by [Pub. L. 105–206, title VI, § 6007(a)(2)][/us/pl/105/206/s6007/a/2], July 22, 1998, [112 Stat. 807][/us/stat/112/807], provided that: 
+[Pub. L. 105–34, title V][/us/pl/105/34/tV], § 501(f), Aug. 5, 1997, [111 Stat. 847][/us/stat/111/847], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(a)(2), July 22, 1998, [112 Stat. 807][/us/stat/112/807], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending [section 2631 of this title][/us/usc/t26/s2631]\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997.”
 
-[Pub. L. 105–34, title V, § 506(e)(1)][/us/pl/105/34/s506/e/1], Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856], as amended by [Pub. L. 105–206, title VI, § 6007(e)(1)][/us/pl/105/206/s6007/e/1], July 22, 1998, [112 Stat. 809][/us/stat/112/809], provided that: 
+[Pub. L. 105–34, title V][/us/pl/105/34/tV], § 506(e)(1), Aug. 5, 1997, [111 Stat. 856][/us/stat/111/856], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(e)(1), July 22, 1998, [112 Stat. 809][/us/stat/112/809], provided that: 
 
 > “The amendments made by subsections (a), (c), and (d) \[enacting [section 7477 of this title][/us/usc/t26/s7477] and amending this section and [section 2504 of this title][/us/usc/t26/s2504]\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title XIII, § 13208(c)][/us/pl/103/66/s13208/c], Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469], provided that: 
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13208(c), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2101 of this title][/us/usc/t26/s2101]\] shall apply in the case of decedents dying and gifts made after December 31, 1992.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title X, § 10401(c)][/us/pl/100/203/s10401/c], Dec. 22, 1987, [101 Stat. 1330–431][/us/stat/101/1330-431], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10401(c), Dec. 22, 1987, [101 Stat. 1330–431][/us/stat/101/1330-431], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 2502 of this title][/us/usc/t26/s2502]\] shall apply in the case of decedents dying, and gifts made, after December 31, 1987.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 21(b)][/us/pl/98/369/s21/b], July 18, 1984, [98 Stat. 506][/us/stat/98/506], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 21(b), July 18, 1984, [98 Stat. 506][/us/stat/98/506], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after, and gifts made after, December 31, 1983.”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title IV, § 402(d)][/us/pl/97/34/s402/d], Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], provided that: 
+[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 402(d), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after, and gifts made after, December 31, 1981.”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(h)(3)][/us/pl/95/600/s702/h/3], Nov. 6, 1978, [92 Stat. 2931][/us/stat/92/2931], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(h)(3), Nov. 6, 1978, [92 Stat. 2931][/us/stat/92/2931], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 2602 of this title][/us/usc/t26/s2602]\] shall apply with respect to the estates of decedents dying after December 31, 1976, except that such amendments shall not apply to transfers made before January 1, 1977.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XX, § 2001(d)(1)][/us/pl/94/455/s2001/d/1], Oct. 4, 1976, [90 Stat. 1854][/us/stat/90/1854], provided that: 
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(d)(1), Oct. 4, 1976, [90 Stat. 1854][/us/stat/90/1854], provided that: 
 
 > “The amendments made by subsections (a) \[enacting section 2010, amending this section and sections 2012 and 2035, and repealing [section 2052 of this title][/us/usc/t26/s2052]\] and (c)(1) \[amending sections 2011, 2012, 2013, 2014, 2038, 2044, 2101, 2102, 2104, 2106, 2107, 2206, 2207, and 6018 of this title\] shall apply to the estates of decedents dying after December 31, 1976; except that the amendments made by subsection (a)(5) \[amending [section 2035 of this title][/us/usc/t26/s2035]\] and subparagraphs (K) and (L) of subsection (c)(1) \[amending sections 2038 and 2104 of this title\] shall not apply to transfers made before January 1, 1977.”
 
  __Short Title__ 
 
-[Pub. L. 91–614, § 1(a)][/us/pl/91/614/s1/a], Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836], provided that: 
+[Pub. L. 91–614][/us/pl/91/614], § 1(a), Dec. 31, 1970, [84 Stat. 1836][/us/stat/84/1836], provided that: 
 
 > “This Act \[enacting [section 6905 of this title][/us/usc/t26/s6905], [section 1232a of Title 15][/us/usc/t15/s1232a], Commerce and Trade, and section 1033 of former Title 31, Money and Finance, amending sections 56, 1015, 1223, 2012, 2032, 2055, 2204, 2501, 2502, 2503, 2504, 2512, 2513, 2515, 2521, 2522, 2523, 4061, 4063, 4216, 4251, 4491, 6019, 6040, 6075, 6091, 6161, 6212, 6214, 6324, 6412, 6416, 6501, 6504, and 6512 of this title, and enacting provisions set out as notes under sections 56, 2032, 2204, 2501, 4063, 4216, 4251, 4491, and 6905 of this title\] may be cited as the ‘Excise, Estate, and Gift Tax Adjustment Act of 1970’.”
 
  __Special Election With Respect to Estates of Decedents Dying in 2010__ 
 
-[Pub. L. 111–312, title III, § 301(c)][/us/pl/111/312/s301/c], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], provided that: 
+[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(c), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], provided that: 
 
 > “Notwithstanding subsection (a) \[amending sections 121, 170, 684, 1014, 1040, 1221, 1246, 1291, 1296, 4947, 6018, 6019, 6075, and 7701 of this title and repealing sections 1022, 2210, 2664, and 6716 of this title\], in the case of an estate of a decedent dying after December 31, 2009, and before January 1, 2011, the executor (within the meaning of section 2203 of the Internal Revenue Code of 1986) may elect to apply such Code as though the amendments made by subsection (a) do not apply with respect to chapter 11 of such Code and with respect to property acquired or passing from such decedent (within the meaning of section 1014(b) of such Code). Such election shall be made at such time and in such manner as the Secretary of the Treasury or the Secretary’s delegate shall provide. Such an election once made shall be revocable only with the consent of the Secretary of the Treasury or the Secretary’s delegate. For purposes of section 2652(a)(1) of such Code, the determination of whether any property is subject to the tax imposed by such chapter 11 shall be made without regard to any election made under this subsection.”
 
  __Clarification of Treatment of Certain Exemptions for Purposes of Federal Estate and Gift Taxes__ 
 
-[Pub. L. 98–369, div. A, title VI, § 641][/us/pl/98/369/s641], July 18, 1984, [98 Stat. 939][/us/stat/98/939], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title VI][/us/pl/98/369/dA/tVI], § 641, July 18, 1984, [98 Stat. 939][/us/stat/98/939], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -435,7 +435,7 @@
 
  __Reports With Transfers of Public Housing Bonds__ 
 
-[Pub. L. 98–369, div. A, title VI, § 642][/us/pl/98/369/s642], July 18, 1984, [98 Stat. 939][/us/stat/98/939], provided that:
+[Pub. L. 98–369, div. A, title VI][/us/pl/98/369/dA/tVI], § 642, July 18, 1984, [98 Stat. 939][/us/stat/98/939], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -454,63 +454,63 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F373
-[/us/pl/94/455/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fa%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1846
-[/us/pl/95/600/s702/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fh%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
-[/us/pl/97/34/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs402%2Fa
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F300
-[/us/pl/98/369/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs21%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F506
-[/us/pl/100/203/s10401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-430
-[/us/pl/103/66/s13208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13208%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F469
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F845
-[/us/pl/105/206/s6007/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fe%2F2%2FB
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F810
-[/us/pl/105/277/s4003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fc
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-909
-[/us/pl/107/16/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Fa
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F70
-[/us/pl/111/312/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fa%2F2
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3301
-[/us/pl/112/240/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fc%2F1
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2317
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/111/312/s302/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fd%2F1%2FA
-[/us/pl/111/312/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fa%2F2
-[/us/pl/111/312/s302/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Fd%2F1%2FB
-[/us/pl/107/16/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Fa
-[/us/pl/107/16/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Fc
-[/us/pl/107/16/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Fb
-[/us/pl/105/206/s6007/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fe%2F2%2FB
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/34/s501/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Fa%2F1%2FD
-[/us/pl/105/34/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs506%2Fa
-[/us/pl/103/66/s13208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13208%2Fa
-[/us/pl/103/66/s13208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13208%2Fb%2F1
-[/us/pl/100/203/s10401/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fb%2F2%2FA%2Fi
-[/us/pl/100/203/s10401/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fb%2F2%2FA%2Fii
-[/us/pl/100/203/s10401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fa%2F1
-[/us/pl/100/203/s10401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fa%2F2
-[/us/pl/100/203/s10401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fb%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/34/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs402%2Fc
-[/us/pl/97/34/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs402%2Fa
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/112/240/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fc%2F3
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2318
 [/us/usc/t26/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2010
 [/us/usc/t26/s2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2010
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/312/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Ff
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3302
-[/us/pl/113/295/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fb%2F2
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
-[/us/pl/107/16/s511/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Ff%2F1
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F71
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -520,45 +520,45 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Ff
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F847
-[/us/pl/105/206/s6007/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fa%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F807
 [/us/usc/t26/s2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2631
-[/us/pl/105/34/s506/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs506%2Fe%2F1
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F856
-[/us/pl/105/206/s6007/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fe%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F809
 [/us/usc/t26/s7477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7477
 [/us/usc/t26/s2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2504
-[/us/pl/103/66/s13208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13208%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F469
 [/us/usc/t26/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2101
-[/us/pl/100/203/s10401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10401%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-431
 [/us/usc/t26/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2502
-[/us/pl/98/369/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs21%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F506
-[/us/pl/97/34/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs402%2Fd
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F301
-[/us/pl/95/600/s702/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fh%2F3
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2931
 [/us/usc/t26/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2602
-[/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1854
 [/us/usc/t26/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2052
 [/us/usc/t26/s2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2035
-[/us/pl/91/614/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs1%2Fa
+[/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/stat/84/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1836
 [/us/usc/t26/s6905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6905
 [/us/usc/t15/s1232a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232a
-[/us/pl/111/312/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fc
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
-[/us/pl/98/369/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs641
+[/us/pl/98/369/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVI
 [/us/stat/98/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F939
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/98/369/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs642
+[/us/pl/98/369/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVI
 [/us/stat/98/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F939
 
 

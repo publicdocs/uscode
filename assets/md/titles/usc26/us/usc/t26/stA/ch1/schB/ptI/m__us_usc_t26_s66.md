@@ -69,7 +69,7 @@
 
             The term “community property laws” means the community property laws of a State, a foreign country, or a possession of the United States.
 
-(Added [Pub. L. 96–605, title I, § 101(a)][/us/pl/96/605/s101/a], Dec. 28, 1980, [94 Stat. 3521][/us/stat/94/3521]; amended [Pub. L. 98–369, div. A, title IV, § 424(b)(1)][/us/pl/98/369/s424/b/1]–(2)(B), July 18, 1984, [98 Stat. 802][/us/stat/98/802], 803; [Pub. L. 101–239, title VII, § 7841(d)(8)][/us/pl/101/239/s7841/d/8], Dec. 19, 1989, [103 Stat. 2428][/us/stat/103/2428]; [Pub. L. 105–206, title III, § 3201(b)][/us/pl/105/206/s3201/b], July 22, 1998, [112 Stat. 739][/us/stat/112/739].)
+(Added [Pub. L. 96–605, title I][/us/pl/96/605/tI], § 101(a), Dec. 28, 1980, [94 Stat. 3521][/us/stat/94/3521]; amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 424(b)(1)–(2)(B), July 18, 1984, [98 Stat. 802][/us/stat/98/802], 803; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7841(d)(8), Dec. 19, 1989, [103 Stat. 2428][/us/stat/103/2428]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(b), July 22, 1998, [112 Stat. 739][/us/stat/112/739].)
 
  __Amendments__ 
 
@@ -77,11 +77,11 @@
 
     1989—Subsec. (d)(1). [Pub. L. 101–239][/us/pl/101/239] substituted “section 911(d)(2)” for “section 911(b)”.
 
-    1984—[Pub. L. 98–369, § 424(b)(2)(A)][/us/pl/98/369/s424/b/2/A], struck out “where spouses live apart” in section catchline.
+    1984—[Pub. L. 98–369][/us/pl/98/369], § 424(b)(2)(A), struck out “where spouses live apart” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–369, § 424(b)(2)(B)][/us/pl/98/369/s424/b/2/B], substituted “Treatment of community income where spouses live apart” for “General rule” in heading.
+    Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 424(b)(2)(B), substituted “Treatment of community income where spouses live apart” for “General rule” in heading.
 
-    Subsecs. (b) to (d). [Pub. L. 98–369, § 424(b)(1)][/us/pl/98/369/s424/b/1], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+    Subsecs. (b) to (d). [Pub. L. 98–369][/us/pl/98/369], § 424(b)(1), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–605, title I, § 101(c)][/us/pl/96/605/s101/c], Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522], provided that: 
+[Pub. L. 96–605, title I][/us/pl/96/605/tI], § 101(c), Dec. 28, 1980, [94 Stat. 3522][/us/stat/94/3522], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to calendar years beginning after December 31, 1980.”
 
@@ -104,26 +104,26 @@
 ----------
 ----------
 
-[/us/pl/96/605/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs101%2Fa
+[/us/pl/96/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtI
 [/us/stat/94/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3521
-[/us/pl/98/369/s424/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs424%2Fb%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F802
-[/us/pl/101/239/s7841/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7841%2Fd%2F8
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2428
-[/us/pl/105/206/s3201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F739
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/98/369/s424/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs424%2Fb%2F2%2FA
-[/us/pl/98/369/s424/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs424%2Fb%2F2%2FB
-[/us/pl/98/369/s424/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs424%2Fb%2F1
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3201/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fg%2F1
 [/us/usc/t26/s6015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6015
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s424/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs424%2Fc
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
-[/us/pl/96/605/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs101%2Fc
+[/us/pl/96/605/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2FtI
 [/us/stat/94/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3522
 
 

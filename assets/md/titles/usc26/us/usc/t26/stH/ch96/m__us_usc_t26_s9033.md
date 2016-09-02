@@ -61,13 +61,13 @@
 
             (B) Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1299][/us/stat/88/1299]; amended [Pub. L. 94–283, title III][/us/pl/94/283], §§ 305(c), 306(b)(2), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 500.)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1299][/us/stat/88/1299]; amended [Pub. L. 94–283, title III][/us/pl/94/283/tIII], §§ 305(c), 306(b)(2), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 500.)
 
  __Amendments__ 
 
-    1976—Subsec. (b)(1). [Pub. L. 94–283, § 305(c)][/us/pl/94/283/s305/c], substituted “limitations” for “limitation”.
+    1976—Subsec. (b)(1). [Pub. L. 94–283][/us/pl/94/283], § 305(c), substituted “limitations” for “limitation”.
 
-    Subsec. (c). [Pub. L. 94–283, § 306(b)(2)][/us/pl/94/283/s306/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–283][/us/pl/94/283], § 306(b)(2), added subsec. (c).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -84,12 +84,12 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1299
-[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
-[/us/pl/94/283/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fc
-[/us/pl/94/283/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F2
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fb%2F2
 [/us/pl/94/283/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fc
 [/us/usc/t26/s9002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9002

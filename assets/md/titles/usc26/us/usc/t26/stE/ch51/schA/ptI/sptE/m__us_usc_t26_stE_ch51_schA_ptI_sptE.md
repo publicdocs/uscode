@@ -83,15 +83,15 @@
 
  __Prior Provisions__ 
 
-    A prior subpart E, comprising sections 5061 to 5065, related to general provisions, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior subpart E, comprising sections 5061 to 5065, related to general provisions, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–423, § 1(b)][/us/pl/95/423/s1/b], Oct. 6, 1978, [92 Stat. 936][/us/stat/92/936], substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in item 5064.
+    1978—[Pub. L. 95–423][/us/pl/95/423], § 1(b), Oct. 6, 1978, [92 Stat. 936][/us/stat/92/936], substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in item 5064.
 
-    1971—[Pub. L. 91–659, § 3(b)][/us/pl/91/659/s3/b], Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966], added item 5066 and redesignated former item 5066 as 5067.
+    1971—[Pub. L. 91–659][/us/pl/91/659], § 3(b), Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966], added item 5066 and redesignated former item 5066 as 5067.
 
-    1965—[Pub. L. 89–44, title V, § 501(e)][/us/pl/89/44/s501/e], June 21, 1965, [79 Stat. 150][/us/stat/79/150], struck out item 5063 “Floor stocks tax refunds on distilled spirits, wines, cordials, and beer”.
+    1965—[Pub. L. 89–44, title V][/us/pl/89/44/tV], § 501(e), June 21, 1965, [79 Stat. 150][/us/stat/79/150], struck out item 5063 “Floor stocks tax refunds on distilled spirits, wines, cordials, and beer”.
 
 ----------
 
@@ -100,13 +100,13 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/95/423/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423%2Fs1%2Fb
+[/us/pl/95/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F423
 [/us/stat/92/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F936
-[/us/pl/91/659/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs3%2Fb
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/stat/84/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1966
-[/us/pl/89/44/s501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs501%2Fe
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F150
 
 

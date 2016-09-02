@@ -105,11 +105,11 @@
 
             This subsection shall not apply to any policyholder dividend paid or accrued with respect to a group policy issued in connection with a plan to provide welfare benefits to employees (within the meaning of section 419(e)(2)).
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 732][/us/stat/98/732]; amended [Pub. L. 99–514, title XVIII, § 1821(b)][/us/pl/99/514/s1821/b], (c), Oct. 22, 1986, [100 Stat. 2838][/us/stat/100/2838]; [Pub. L. 108–218, title II, § 205(b)(3)][/us/pl/108/218/s205/b/3], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(a), July 18, 1984, [98 Stat. 732][/us/stat/98/732]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1821(b), (c), Oct. 22, 1986, [100 Stat. 2838][/us/stat/100/2838]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(b)(3), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
 
  __References in Text__ 
 
-    The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(4), is the date of enactment of [Pub. L. 98–369, div. A][/us/pl/98/369], which was approved July 18, 1984.
+    The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(4), is the date of enactment of [Pub. L. 98–369, div. A][/us/pl/98/369/dA], which was approved July 18, 1984.
 
  __Amendments__ 
 
@@ -119,9 +119,9 @@
 
     “(2) Reduction in case of mutual companies.—In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809.”
 
-    1986—Subsec. (d)(1)(B). [Pub. L. 99–514, § 1821(b)][/us/pl/99/514/s1821/b], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
+    1986—Subsec. (d)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
 
-    Subsec. (f). [Pub. L. 99–514, § 1821(c)][/us/pl/99/514/s1821/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1821(c), added subsec. (f).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -129,7 +129,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -146,21 +146,21 @@
 ----------
 ----------
 
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F732
-[/us/pl/99/514/s1821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fb
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2838
-[/us/pl/108/218/s205/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F3
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
-[/us/pl/99/514/s1821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fb
-[/us/pl/99/514/s1821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fc
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/218/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fc
 [/us/usc/t26/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs215

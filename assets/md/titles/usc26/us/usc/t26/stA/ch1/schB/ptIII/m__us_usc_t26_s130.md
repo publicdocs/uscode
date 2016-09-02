@@ -59,7 +59,7 @@
 
         (4) such annuity contract or obligation is purchased by the taxpayer not more than 60 days before the date of the qualified assignment and not later than 60 days after the date of such assignment.
 
-(Added [Pub. L. 97–473, title I, § 101(b)(1)][/us/pl/97/473/s101/b/1], Jan. 14, 1983, [96 Stat. 2605][/us/stat/96/2605]; amended [Pub. L. 99–514, title X, § 1002(a)][/us/pl/99/514/s1002/a], Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388]; [Pub. L. 100–647, title VI, § 6079(b)(1)][/us/pl/100/647/s6079/b/1], Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709]; [Pub. L. 105–34, title IX, § 962(a)][/us/pl/105/34/s962/a], Aug. 5, 1997, [111 Stat. 891][/us/stat/111/891].)
+(Added [Pub. L. 97–473, title I][/us/pl/97/473/tI], § 101(b)(1), Jan. 14, 1983, [96 Stat. 2605][/us/stat/96/2605]; amended [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1002(a), Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6079(b)(1), Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 962(a), Aug. 5, 1997, [111 Stat. 891][/us/stat/111/891].)
 
  __Prior Provisions__ 
 
@@ -67,11 +67,11 @@
 
  __Amendments__ 
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 962(a)(1)][/us/pl/105/34/s962/a/1], inserted “, or as compensation under any workmen’s compensation act,” after “(whether by suit or agreement)” in introductory provisions.
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 962(a)(1), inserted “, or as compensation under any workmen’s compensation act,” after “(whether by suit or agreement)” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–34, § 962(a)(2)][/us/pl/105/34/s962/a/2], inserted “or the workmen’s compensation claim,” after “agreement,”.
+    Subsec. (c)(1). [Pub. L. 105–34][/us/pl/105/34], § 962(a)(2), inserted “or the workmen’s compensation claim,” after “agreement,”.
 
-    Subsec. (c)(2)(D). [Pub. L. 105–34, § 962(a)(3)][/us/pl/105/34/s962/a/3], substituted “paragraph (1) or (2) of section 104(a)” for “section 104(a)(2)”.
+    Subsec. (c)(2)(D). [Pub. L. 105–34][/us/pl/105/34], § 962(a)(3), substituted “paragraph (1) or (2) of section 104(a)” for “section 104(a)(2)”.
 
     1988—Subsec. (c). [Pub. L. 100–647][/us/pl/100/647], in par. (2), redesignated subpars. (D) and (E) as (C) and (D), respectively, struck out former subpar. (C) which provided that the assignee does not provide to the recipient of such payments rights against the assignee which are greater than those of a general creditor, and as concluding provisions, inserted at end “The determination for purposes of this chapter of when the recipient is treated as having received any payment with respect to which there has been a qualified assignment shall be made without regard to any provision of such assignment which grants the recipient rights as a creditor greater than those of a general creditor.”
 
@@ -79,25 +79,25 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title IX, § 962(b)][/us/pl/105/34/s962/b], Aug. 5, 1997, [111 Stat. 892][/us/stat/111/892], provided that: 
+[Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 962(b), Aug. 5, 1997, [111 Stat. 892][/us/stat/111/892], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to claims under workmen’s compensation acts filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6079(b)(2)][/us/pl/100/647/s6079/b/2], Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6079(b)(2), Nov. 10, 1988, [102 Stat. 3710][/us/stat/102/3710], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to assignments after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title X, § 1002(b)][/us/pl/99/514/s1002/b], Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388], provided that: 
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1002(b), Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to assignments entered into after December 31, 1986, in taxable years ending after such date.”
 
  __Effective Date__ 
 
-[Pub. L. 97–473, title I, § 101(c)][/us/pl/97/473/s101/c], Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606], provided that: 
+[Pub. L. 97–473, title I][/us/pl/97/473/tI], § 101(c), Jan. 14, 1983, [96 Stat. 2606][/us/stat/96/2606], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 104 of this title][/us/usc/t26/s104]\] shall apply to taxable years ending after December 31, 1982.”
 
@@ -108,27 +108,27 @@
 ----------
 ----------
 
-[/us/pl/97/473/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs101%2Fb%2F1
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
 [/us/stat/96/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2605
-[/us/pl/99/514/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1002%2Fa
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2388
-[/us/pl/100/647/s6079/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6079%2Fb%2F1
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3709
-[/us/pl/105/34/s962/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs962%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F891
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/105/34/s962/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs962%2Fa%2F1
-[/us/pl/105/34/s962/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs962%2Fa%2F2
-[/us/pl/105/34/s962/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs962%2Fa%2F3
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/105/34/s962/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs962%2Fb
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F892
-[/us/pl/100/647/s6079/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6079%2Fb%2F2
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3710
-[/us/pl/99/514/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1002%2Fb
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2388
-[/us/pl/97/473/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs101%2Fc
+[/us/pl/97/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtI
 [/us/stat/96/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2606
 [/us/usc/t26/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs104
 

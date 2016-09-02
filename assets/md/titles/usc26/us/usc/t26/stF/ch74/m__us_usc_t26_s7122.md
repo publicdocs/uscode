@@ -117,27 +117,27 @@
 
         Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 849][/us/stat/68A/849]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title V, § 503(a)][/us/pl/104/168/s503/a], July 30, 1996, [110 Stat. 1461][/us/stat/110/1461]; [Pub. L. 105–206, title III, § 3462(a)][/us/pl/105/206/s3462/a], (c)(1), July 22, 1998, [112 Stat. 764][/us/stat/112/764], 766; [Pub. L. 109–222, title V, § 509(a)][/us/pl/109/222/s509/a], (b), May 17, 2006, [120 Stat. 362][/us/stat/120/362], 363; [Pub. L. 109–432, div. A, title IV, § 407(d)][/us/pl/109/432/s407/d], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 113–295, div. A, title II, § 220(y)][/us/pl/113/295/s220/y], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 849][/us/stat/68A/849]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title V][/us/pl/104/168/tV], § 503(a), July 30, 1996, [110 Stat. 1461][/us/stat/110/1461]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3462(a), (c)(1), July 22, 1998, [112 Stat. 764][/us/stat/112/764], 766; [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 509(a), (b), May 17, 2006, [120 Stat. 362][/us/stat/120/362], 363; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 407(d), Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(y), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Amendments__ 
 
     2014—Subsecs. (f), (g). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (f) relating to frivolous submissions as (g).
 
-    2006—Subsec. (c). [Pub. L. 109–222, § 509(a)][/us/pl/109/222/s509/a], added subsec. (c). Former subsec. (c) redesignated (d).
+    2006—Subsec. (c). [Pub. L. 109–222][/us/pl/109/222], § 509(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 109–222, § 509(a)][/us/pl/109/222/s509/a], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 109–222][/us/pl/109/222], § 509(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(3)(C). [Pub. L. 109–222, § 509(b)(1)][/us/pl/109/222/s509/b/1], added subpar. (C).
+    Subsec. (d)(3)(C). [Pub. L. 109–222][/us/pl/109/222], § 509(b)(1), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 109–222, § 509(a)][/us/pl/109/222/s509/a], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 109–222][/us/pl/109/222], § 509(a), redesignated subsec. (d) as (e).
 
     Subsec. (f). [Pub. L. 109–432][/us/pl/109/432] added subsec. (f) relating to frivolous submissions.
 
-    [Pub. L. 109–222, § 509(b)(2)][/us/pl/109/222/s509/b/2], added subsec. (f) relating to deemed acceptance of offer not rejected within certain period.
+    [Pub. L. 109–222][/us/pl/109/222], § 509(b)(2), added subsec. (f) relating to deemed acceptance of offer not rejected within certain period.
 
-    1998—Subsec. (c). [Pub. L. 105–206, § 3462(a)][/us/pl/105/206/s3462/a], added subsec. (c).
+    1998—Subsec. (c). [Pub. L. 105–206][/us/pl/105/206], § 3462(a), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 105–206, § 3462(c)(1)][/us/pl/105/206/s3462/c/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–206][/us/pl/105/206], § 3462(c)(1), added subsec. (d).
 
     1996—Subsec. (b). [Pub. L. 104–168][/us/pl/104/168] substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
 
@@ -155,13 +155,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title V, § 503(b)][/us/pl/104/168/s503/b], July 30, 1996, [110 Stat. 1461][/us/stat/110/1461], provided that: 
+[Pub. L. 104–168, title V][/us/pl/104/168/tV], § 503(b), July 30, 1996, [110 Stat. 1461][/us/stat/110/1461], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
  __Preparation of Statement Relating to Offers-in-Compromise__ 
 
-[Pub. L. 105–206, title III, § 3462(d)][/us/pl/105/206/s3462/d], July 22, 1998, [112 Stat. 766][/us/stat/112/766], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3462(d), July 22, 1998, [112 Stat. 766][/us/stat/112/766], provided that: 
 
 > “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
 
@@ -180,27 +180,27 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F849
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/104/168/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs503%2Fa
+[/us/pl/104/168/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtV
 [/us/stat/110/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1461
-[/us/pl/105/206/s3462/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3462%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F764
-[/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F362
-[/us/pl/109/432/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fd
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2962
-[/us/pl/113/295/s220/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fy
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
-[/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
-[/us/pl/109/222/s509/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fb%2F1
-[/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/222/s509/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fb%2F2
-[/us/pl/105/206/s3462/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3462%2Fa
-[/us/pl/105/206/s3462/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3462%2Fc%2F1
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
@@ -213,9 +213,9 @@
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3462/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3462%2Fe%2F1
 [/us/usc/t26/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6331
-[/us/pl/104/168/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs503%2Fb
+[/us/pl/104/168/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtV
 [/us/stat/110/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1461
-[/us/pl/105/206/s3462/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3462%2Fd
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F766
 
 

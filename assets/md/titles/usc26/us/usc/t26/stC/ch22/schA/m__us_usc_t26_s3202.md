@@ -67,23 +67,23 @@
 
             (B) such payment is for coverage for periods during which an employment relationship no longer exists between the employee and the employer.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 431][/us/stat/68A/431]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(b), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II, § 202][/us/pl/88/133/s202], Oct. 5, 1963,[77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–212][/us/pl/89/212], §§ 2(a), 4, Sept. 29, 1965, [79 Stat. 858][/us/stat/79/858], 861; [Pub. L. 89–700, title III, § 301(iii)][/us/pl/89/700/s301/iii], (v), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088]; [Pub. L. 93–69, title I, § 102(b)][/us/pl/93/69/s102/b], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(7), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807], 1834; [Pub. L. 98–76, title II, § 225(a)(2)][/us/pl/98/76/s225/a/2], (c)(1)(A), (B), (2)–(5), Aug. 12, 1983, [97 Stat. 425][/us/stat/97/425]; [Pub. L. 101–508, title V, § 5124(b)][/us/pl/101/508/s5124/b], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 431][/us/stat/68A/431]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(b), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II][/us/pl/88/133/tII], § 202, Oct. 5, 1963,[77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–212][/us/pl/89/212], §§ 2(a), 4, Sept. 29, 1965, [79 Stat. 858][/us/stat/79/858], 861; [Pub. L. 89–700, title III][/us/pl/89/700/tIII], § 301(iii), (v), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088]; [Pub. L. 93–69, title I][/us/pl/93/69/tI], § 102(b), July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1903(a)(7), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807], 1834; [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 225(a)(2), (c)(1)(A), (B), (2)–(5), Aug. 12, 1983, [97 Stat. 425][/us/stat/97/425]; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5124(b), Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285].)
 
  __Amendments__ 
 
     1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] added subsec. (d).
 
-    1983—Subsec. (a). [Pub. L. 98–76, § 225(a)(2)][/us/pl/98/76/s225/a/2], (c)(1)(A), (2), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, substituted “the amount of the taxes” for “the amount of the tax”, and “such taxes” for “such tax”, and struck out provisions that if an employee was paid compensation by more than one employer for services rendered during any calendar month and the aggregate of such compensation was in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, the tax to be deducted by each employer other than a subordinate unit of a national railway-labor-organization employer from the compensation paid by him to the employee with respect to such month would be that proportion of the tax with respect to such compensation paid by all such employers which the compensation paid by him to the employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month; and that in the event that the compensation so paid by such employers to the employee for services rendered during such month was less than an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, each subordinate unit of a national railway-labor-organization employer would deduct such proportion of any additional tax as the compensation paid by such employer to such employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month.
+    1983—Subsec. (a). [Pub. L. 98–76][/us/pl/98/76], § 225(a)(2), (c)(1)(A), (2), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, substituted “the amount of the taxes” for “the amount of the tax”, and “such taxes” for “such tax”, and struck out provisions that if an employee was paid compensation by more than one employer for services rendered during any calendar month and the aggregate of such compensation was in excess of an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, the tax to be deducted by each employer other than a subordinate unit of a national railway-labor-organization employer from the compensation paid by him to the employee with respect to such month would be that proportion of the tax with respect to such compensation paid by all such employers which the compensation paid by him to the employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month; and that in the event that the compensation so paid by such employers to the employee for services rendered during such month was less than an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 for any month, each subordinate unit of a national railway-labor-organization employer would deduct such proportion of any additional tax as the compensation paid by such employer to such employee for services rendered during such month bears to the total compensation paid by all such employers to such employee for services rendered during such month.
 
-    Subsec. (c)(2). [Pub. L. 98–76, § 225(c)(1)(B)][/us/pl/98/76/s225/c/1/B], (3), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “the taxes under paragraph (1)” for “the tax under paragraph (1)”, and “exceed” for “exceeds”.
+    Subsec. (c)(2). [Pub. L. 98–76][/us/pl/98/76], § 225(c)(1)(B), (3), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “the taxes under paragraph (1)” for “the tax under paragraph (1)”, and “exceed” for “exceeds”.
 
-    Subsec. (c)(4). [Pub. L. 98–76, § 225(c)(1)(B)][/us/pl/98/76/s225/c/1/B], (4), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “such taxes” for “such tax”, and “exceed” for “exceeds”.
+    Subsec. (c)(4). [Pub. L. 98–76][/us/pl/98/76], § 225(c)(1)(B), (4), (5), substituted “taxes imposed by section 3201” for “tax imposed by section 3201”, “such taxes” for “such tax”, and “exceed” for “exceeds”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1903(a)(7)(A)][/us/pl/94/455/s1903/a/7/A], struck out provisions relating to the September 30, 1973, qualification on the applicability of provisions of this subsection and “of the Internal Revenue Code of 1954” before “for any month” wherever appearing.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1903(a)(7)(A), struck out provisions relating to the September 30, 1973, qualification on the applicability of provisions of this subsection and “of the Internal Revenue Code of 1954” before “for any month” wherever appearing.
 
-    Subsec. (b). [Pub. L. 94–455, § 1903(a)(7)(B)][/us/pl/94/455/s1903/a/7/B], struck out “made” after “to deduct the tax shall be”.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1903(a)(7)(B), struck out “made” after “to deduct the tax shall be”.
 
-    Subsec. (c)(3). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(3). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1973—Subsec. (a). [Pub. L. 93–69][/us/pl/93/69], in second sentence reading “If an employee . . .”, substituted “1973” for “1965” wherever appearing, struck out “(i) $450, or (ii)” before “an amount equal to” in two places, and struck out “, whichever is greater,” after “Internal Revenue Code of 1954” in two places.
 
@@ -91,7 +91,7 @@
 
     1965—Subsec. (a). [Pub. L. 89–212][/us/pl/89/212], §§ 2(a)(1), 4, inserted sentence permitting an employer who is furnished by an employee a written statement of tips pursuant to section 6053(a) to which par. (3) of section 3231(e) is applicable to deduct an amount equivalent to such tax with respect to such tips from any compensation of the employee under his control, even though at the time such statement is furnished the total amount of the tips included in statements furnished to the employer as having been received by the employee in such calendar month in the course of his employment by such employer is less than $20, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended” in two places.
 
-    Subsec. (c). [Pub. L. 89–212, § 2(a)(2)][/us/pl/89/212/s2/a/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 89–212][/us/pl/89/212], § 2(a)(2), added subsec. (c).
 
     1963—Subsec. (a). [Pub. L. 88–133][/us/pl/88/133] limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
@@ -140,31 +140,31 @@
 [/us/stat/68/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1040
 [/us/pl/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28
 [/us/stat/73/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F29
-[/us/pl/88/133/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133%2Fs202
+[/us/pl/88/133/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133%2FtII
 [/us/stat/77/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F221
 [/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/stat/79/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F858
-[/us/pl/89/700/s301/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700%2Fs301%2Fiii
+[/us/pl/89/700/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700%2FtIII
 [/us/stat/80/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1088
-[/us/pl/93/69/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69%2Fs102%2Fb
+[/us/pl/93/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69%2FtI
 [/us/stat/87/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F162
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1807
-[/us/pl/98/76/s225/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs225%2Fa%2F2
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F425
-[/us/pl/101/508/s5124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5124%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-285
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/98/76/s225/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs225%2Fa%2F2
-[/us/pl/98/76/s225/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs225%2Fc%2F1%2FB
-[/us/pl/98/76/s225/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs225%2Fc%2F1%2FB
-[/us/pl/94/455/s1903/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F7%2FA
-[/us/pl/94/455/s1903/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F7%2FB
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69
 [/us/pl/89/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700
 [/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
-[/us/pl/89/212/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fa%2F2
+[/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/pl/88/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133
 [/us/pl/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

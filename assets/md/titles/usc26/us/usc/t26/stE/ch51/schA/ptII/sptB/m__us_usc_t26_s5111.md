@@ -17,21 +17,21 @@
 
     Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the time when such distilled spirits are used in the manufacture of such products as provided for in this subpart.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1345][/us/stat/72/1345], § 5131; amended [Pub. L. 94–455, title XIX, § 1905(a)(11)][/us/pl/94/455/s1905/a/11], Oct. 4, 1976, [90 Stat. 1819][/us/stat/90/1819]; [Pub. L. 100–203, title X, § 10512(d)][/us/pl/100/203/s10512/d], Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448]; [Pub. L. 103–465, title I, § 136(b)][/us/pl/103/465/s136/b], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; renumbered § 5111 and amended [Pub. L. 109–59, title XI, § 11125(a)(2)][/us/pl/109/59/s11125/a/2], (b)(3)(A), (C), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1954.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1345][/us/stat/72/1345], § 5131; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(a)(11), Oct. 4, 1976, [90 Stat. 1819][/us/stat/90/1819]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(d), Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448]; [Pub. L. 103–465, title I][/us/pl/103/465/tI], § 136(b), Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; renumbered § 5111 and amended [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1954.)
 
  __Prior Provisions__ 
 
-    A prior section 5111, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1340][/us/stat/72/1340]; amended [Pub. L. 94–455, title XIX, § 1905(b)(3)(B)][/us/pl/94/455/s1905/b/3/B], Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822]; [Pub. L. 100–203, title X, § 10512(b)][/us/pl/100/203/s10512/b], Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448], related to tax on wholesale dealers in liquors or beer, prior to repeal by [Pub. L. 109–59, title XI, § 11125(a)(1)(C)][/us/pl/109/59/s11125/a/1/C], (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+    A prior section 5111, added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1340][/us/stat/72/1340]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(3)(B), Oct. 4, 1976, [90 Stat. 1822][/us/stat/90/1822]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(b), Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448], related to tax on wholesale dealers in liquors or beer, prior to repeal by [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(1)(C), (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
     Another prior section 5111, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 618][/us/stat/68A/618], related to tax on wholesale and retail dealers in liquors or beer, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, § 11125(b)(3)(C)][/us/pl/109/59/s11125/b/3/C], struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
+    2005—[Pub. L. 109–59][/us/pl/109/59], § 11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
 
-    [Pub. L. 109–59, § 11125(b)(3)(A)][/us/pl/109/59/s11125/b/3/A], renumbered [section 5131 of this title][/us/usc/t26/s5131] as this section.
+    [Pub. L. 109–59][/us/pl/109/59], § 11125(b)(3)(A), renumbered [section 5131 of this title][/us/usc/t26/s5131] as this section.
 
-    Subsec. (a). [Pub. L. 109–59, § 11125(a)(2)][/us/pl/109/59/s11125/a/2], struck out “, on payment of a special tax per annum,” after “beverage purposes”.
+    Subsec. (a). [Pub. L. 109–59][/us/pl/109/59], § 11125(a)(2), struck out “, on payment of a special tax per annum,” after “beverage purposes”.
 
     1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465] substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title X, § 10512(h)][/us/pl/100/203/s10512/h], Dec. 22, 1987, [101 Stat. 1330–450][/us/stat/101/1330-450], provided that:
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(h), Dec. 22, 1987, [101 Stat. 1330–450][/us/stat/101/1330-450], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -92,31 +92,31 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1345
-[/us/pl/94/455/s1905/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F11
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1819
-[/us/pl/100/203/s10512/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Fd
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-448
-[/us/pl/103/465/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fb
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4841
-[/us/pl/109/59/s11125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F2
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1340
-[/us/pl/94/455/s1905/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F3%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1822
-[/us/pl/100/203/s10512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Fb
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-448
-[/us/pl/109/59/s11125/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F1%2FC
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F618
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/109/59/s11125/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F3%2FC
-[/us/pl/109/59/s11125/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F3%2FA
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/usc/t26/s5131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5131
-[/us/pl/109/59/s11125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F2
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -126,7 +126,7 @@
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/465/s136/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fd
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/100/203/s10512/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Fh
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-450
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fd

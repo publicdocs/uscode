@@ -71,7 +71,7 @@
 
             (B) in the case of any other cash equivalent, at its fair market value.
 
-(Added [Pub. L. 97–248, title III, § 330(a)][/us/pl/97/248/s330/a], Sept. 3, 1982, [96 Stat. 619][/us/stat/96/619]; amended [Pub. L. 100–647, title I, § 1001(a)(1)][/us/pl/100/647/s1001/a/1], Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 330(a), Sept. 3, 1982, [96 Stat. 619][/us/stat/96/619]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1001(a)(1), Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349].)
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 330(c)][/us/pl/97/248/s330/c], Sept. 3, 1982, [96 Stat. 620][/us/stat/96/620], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 330(c), Sept. 3, 1982, [96 Stat. 620][/us/stat/96/620], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
@@ -94,16 +94,16 @@
 ----------
 ----------
 
-[/us/pl/97/248/s330/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs330%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F619
-[/us/pl/100/647/s1001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Fa%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3349
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/248/s330/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs330%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F620
 
 

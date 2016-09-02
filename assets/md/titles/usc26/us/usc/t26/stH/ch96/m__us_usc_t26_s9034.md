@@ -23,7 +23,7 @@
 
         The total amount of payments to which a candidate is entitled under subsection (a) shall not exceed 50 percent of the expenditure limitation applicable under section 315(b)(1)(A) of the Federal Election Campaign Act of 1971.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1299][/us/stat/88/1299]; amended [Pub. L. 94–283, title III, § 307(b)][/us/pl/94/283/s307/b], May 11, 1976, [90 Stat. 501][/us/stat/90/501]; [Pub. L. 110–172, § 11(a)(42)(D)][/us/pl/110/172/s11/a/42/D], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1299][/us/stat/88/1299]; amended [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 307(b), May 11, 1976, [90 Stat. 501][/us/stat/90/501]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(42)(D), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
 
  __References in Text__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1299
-[/us/pl/94/283/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Fb
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F501
-[/us/pl/110/172/s11/a/42/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FD
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
 [/us/usc/t52/s30116/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116%2Fb%2F1%2FA
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172

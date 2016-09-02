@@ -21,7 +21,7 @@
 
     (2) the rental allowance paid to him as part of his compensation, to the extent used by him to rent or provide a home and to the extent such allowance does not exceed the fair rental value of the home, including furnishings and appurtenances such as a garage, plus the cost of utilities.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 32][/us/stat/68A/32]; [Pub. L. 107–181, § 2(a)][/us/pl/107/181/s2/a], May 20, 2002, [116 Stat. 583][/us/stat/116/583].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 32][/us/stat/68A/32]; [Pub. L. 107–181][/us/pl/107/181], § 2(a), May 20, 2002, [116 Stat. 583][/us/stat/116/583].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–181, § 2(b)][/us/pl/107/181/s2/b], May 20, 2002, [116 Stat. 583][/us/stat/116/583], provided that:
+[Pub. L. 107–181][/us/pl/107/181], § 2(b), May 20, 2002, [116 Stat. 583][/us/stat/116/583], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -56,10 +56,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F32
-[/us/pl/107/181/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F181%2Fs2%2Fa
+[/us/pl/107/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F181
 [/us/stat/116/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F583
 [/us/pl/107/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F181
-[/us/pl/107/181/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F181%2Fs2%2Fb
+[/us/pl/107/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F181
 [/us/stat/116/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F583
 
 

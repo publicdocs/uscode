@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–239, title VI, § 6202(b)(4)(A)][/us/pl/101/239/s6202/b/4/A], Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], struck out “LARGE” after “CERTAIN” in chapter heading and “large” after “Certain” in item 5000.
+    1989—[Pub. L. 101–239, title VI][/us/pl/101/239/tVI], § 6202(b)(4)(A), Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233], struck out “LARGE” after “CERTAIN” in chapter heading and “large” after “Certain” in item 5000.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/239/s6202/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6202%2Fb%2F4%2FA
+[/us/pl/101/239/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVI
 [/us/stat/103/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2233
 
 

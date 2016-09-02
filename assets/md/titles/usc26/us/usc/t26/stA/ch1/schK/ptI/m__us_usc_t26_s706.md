@@ -149,29 +149,29 @@
 
             For purposes of this subsection, the taxable year of a partnership shall be determined without regard to subsection (c)(2)(A).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 242][/us/stat/68A/242]; [Pub. L. 94–455, title II, § 213(c)(1)][/us/pl/94/455/s213/c/1], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1834; [Pub. L. 98–369, div. A, title I, § 72(a)][/us/pl/98/369/s72/a], (b), July 18, 1984, [98 Stat. 589][/us/stat/98/589], 591; [Pub. L. 99–514, title VIII, § 806(a)][/us/pl/99/514/s806/a], title XVIII, § 1805(a), Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362], 2810; [Pub. L. 100–647, title I, § 1008(e)(1)][/us/pl/100/647/s1008/e/1]–(3), Nov. 10, 1988, [102 Stat. 3439][/us/stat/102/3439], 3440; [Pub. L. 105–34, title V, § 507(b)(2)][/us/pl/105/34/s507/b/2], title XII, § 1246(a), (b), Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], 1030.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 242][/us/stat/68A/242]; [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(c)(1), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1834; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 72(a), (b), July 18, 1984, [98 Stat. 589][/us/stat/98/589], 591; [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 806(a), title XVIII, § 1805(a), Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362], 2810; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(e)(1)–(3), Nov. 10, 1988, [102 Stat. 3439][/us/stat/102/3439], 3440; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 507(b)(2), title XII, § 1246(a), (b), Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857], 1030.)
 
  __References in Text__ 
 
-    Section 584(h), referred to in subsec. (b)(5), was redesignated section 584(i) by [Pub. L. 104–188, title I, § 1805(a)][/us/pl/104/188/s1805/a], [110 Stat. 1894][/us/stat/110/1894].
+    Section 584(h), referred to in subsec. (b)(5), was redesignated section 584(i) by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1805(a), [110 Stat. 1894][/us/stat/110/1894].
 
  __Amendments__ 
 
-    1997—Subsec. (b)(5). [Pub. L. 105–34, § 507(b)(2)][/us/pl/105/34/s507/b/2], substituted “section 644” for “section 645”.
+    1997—Subsec. (b)(5). [Pub. L. 105–34][/us/pl/105/34], § 507(b)(2), substituted “section 644” for “section 645”.
 
-    Subsec. (c)(2). [Pub. L. 105–34, § 1246(b)][/us/pl/105/34/s1246/b], substituted “Treatment of dispositions” for “Partner who retires or sells interest in partnership” as heading.
+    Subsec. (c)(2). [Pub. L. 105–34][/us/pl/105/34], § 1246(b), substituted “Treatment of dispositions” for “Partner who retires or sells interest in partnership” as heading.
 
-    Subsec. (c)(2)(A). [Pub. L. 105–34, § 1246(a)][/us/pl/105/34/s1246/a], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The taxable year of a partnership shall close—
+    Subsec. (c)(2)(A). [Pub. L. 105–34][/us/pl/105/34], § 1246(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The taxable year of a partnership shall close—
 
     “(i) with respect to a partner who sells or exchanges his entire interest in a partnership, and
 
     “(ii) with respect to a partner whose interest is liquidated, except that the taxable year of a partnership with respect to a partner who dies shall not close prior to the end of the partnership’s taxable year.”
 
-    1988—Subsec. (b)(1)(B)(i). [Pub. L. 100–647, § 1008(e)(1)(A)][/us/pl/100/647/s1008/e/1/A], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
+    1988—Subsec. (b)(1)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1008(e)(1)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent,”.
 
-    Subsec. (b)(1)(B)(iii). [Pub. L. 100–647, § 1008(e)(2)][/us/pl/100/647/s1008/e/2], substituted “unless the Secretary by regulations prescribes another period” for “or such other period as the Secretary may prescribe in regulations”.
+    Subsec. (b)(1)(B)(iii). [Pub. L. 100–647][/us/pl/100/647], § 1008(e)(2), substituted “unless the Secretary by regulations prescribes another period” for “or such other period as the Secretary may prescribe in regulations”.
 
-    Subsec. (b)(4). [Pub. L. 100–647, § 1008(e)(1)(B)][/us/pl/100/647/s1008/e/1/B], substituted “Majority interest taxable year; limitation on required changes” for “Application of majority interest rule” in heading and amended text generally. Prior to amendment, text read as follows: “Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
+    Subsec. (b)(4). [Pub. L. 100–647][/us/pl/100/647], § 1008(e)(1)(B), substituted “Majority interest taxable year; limitation on required changes” for “Application of majority interest rule” in heading and amended text generally. Prior to amendment, text read as follows: “Clause (i) of paragraph (1)(B) shall not apply to any taxable year of a partnership unless the period which constitutes the taxable year of 1 or more of its partners who have an aggregate interest in partnership profits and capital of greater than 50 percent has been the same for—
 
     “(A) the 3-taxable year period of such partner or partners ending on or before the beginning of such taxable year of the partnership, or
 
@@ -179,27 +179,27 @@
 
     This paragraph shall apply without regard to whether the same partners or interests are taken into account in determining the 50 percent interest during any period.”
 
-    Subsec. (b)(5). [Pub. L. 100–647, § 1008(e)(3)][/us/pl/100/647/s1008/e/3], added par. (5).
+    Subsec. (b)(5). [Pub. L. 100–647][/us/pl/100/647], § 1008(e)(3), added par. (5).
 
-    1986—Subsec. (b). [Pub. L. 99–514, § 806(a)(3)][/us/pl/99/514/s806/a/3], struck out “Adoption of” before “taxable year” in heading.
+    1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 806(a)(3), struck out “Adoption of” before “taxable year” in heading.
 
-    Subsec. (b)(1). [Pub. L. 99–514, § 806(a)(1)][/us/pl/99/514/s806/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor.”
+    Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 806(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The taxable year of a partnership shall be determined as though the partnership were a taxpayer. A partnership may not change to, or adopt, a taxable year other than that of all its principal partners unless it establishes, to the satisfaction of the Secretary, a business purpose therefor.”
 
-    Subsec. (b)(4). [Pub. L. 99–514, § 806(a)(2)][/us/pl/99/514/s806/a/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 99–514][/us/pl/99/514], § 806(a)(2), added par. (4).
 
-    Subsec. (d)(2)(A)(i). [Pub. L. 99–514, § 1805(a)(1)(A)][/us/pl/99/514/s1805/a/1/A], substituted “such item” for “each such item”.
+    Subsec. (d)(2)(A)(i). [Pub. L. 99–514][/us/pl/99/514], § 1805(a)(1)(A), substituted “such item” for “each such item”.
 
-    Subsec. (d)(2)(B). [Pub. L. 99–514, § 1805(a)(1)(B)][/us/pl/99/514/s1805/a/1/B], in introductory provisions, struck out “which are described in paragraph (1) and” after “the following items”.
+    Subsec. (d)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 1805(a)(1)(B), in introductory provisions, struck out “which are described in paragraph (1) and” after “the following items”.
 
-    Subsec. (d)(2)(C)(i). [Pub. L. 99–514, § 1805(a)(2)][/us/pl/99/514/s1805/a/2], substituted “the first day of the taxable year” for “the first day of such taxable year”.
+    Subsec. (d)(2)(C)(i). [Pub. L. 99–514][/us/pl/99/514], § 1805(a)(2), substituted “the first day of the taxable year” for “the first day of such taxable year”.
 
-    1984—Subsec. (c)(2)(A). [Pub. L. 98–369, § 72(b)(1)][/us/pl/98/369/s72/b/1], struck out last sentence providing that such partner’s distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
+    1984—Subsec. (c)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 72(b)(1), struck out last sentence providing that such partner’s distributive share of item described in section 702(a) for such year shall be determined, under regulations prescribed by the Secretary, for the period ending with such sale, exchange, or liquidation.
 
-    Subsec. (c)(2)(B). [Pub. L. 98–369, § 72(b)(2)][/us/pl/98/369/s72/b/2], struck out “, but such partner’s distributive share of items described in section 702(a) shall be determined by taking into account his varying interests in the partnership during the taxable year” after “otherwise)”.
+    Subsec. (c)(2)(B). [Pub. L. 98–369][/us/pl/98/369], § 72(b)(2), struck out “, but such partner’s distributive share of items described in section 702(a) shall be determined by taking into account his varying interests in the partnership during the taxable year” after “otherwise)”.
 
-    Subsec. (d). [Pub. L. 98–369, § 72(a)][/us/pl/98/369/s72/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 72(a), added subsec. (d).
 
-    1976—Subsec. (b)(1), (2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b)(1), (2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (c)(2). [Pub. L. 94–455][/us/pl/94/455], §§ 213(c)(1), 1906(b)(13)(A), substituted “or with respect to a partner whose interest is reduced (whether by entry of a new partner, partial liquidation of a partner’s interest, gift, or otherwise)” for “or with respect to a partner whose interest is reduced”, in par. (B), and struck out “or his delegate” after “Secretary” in par. (A).
 
@@ -207,7 +207,7 @@
 
     Amendment by [section 507(b)(2) of Pub. L. 105–34][/us/pl/105/34/s507/b/2] applicable to sales or exchanges after Aug. 5, 1997, see [section 507(c)(2) of Pub. L. 105–34][/us/pl/105/34/s507/c/2], set out as a note under [section 644 of this title][/us/usc/t26/s644].
 
-[Pub. L. 105–34, title XII, § 1246(c)][/us/pl/105/34/s1246/c], Aug. 5, 1997, [111 Stat. 1030][/us/stat/111/1030], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1246(c), Aug. 5, 1997, [111 Stat. 1030][/us/stat/111/1030], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to partnership taxable years beginning after December 31, 1997.”
 
@@ -219,11 +219,11 @@
 
     Amendment by [section 806(a) of Pub. L. 99–514][/us/pl/99/514/s806/a] applicable to taxable years beginning after Dec. 31, 1986, with special provisions applicable to taxpayers who are required to change their accounting periods, see [section 806(e) of Pub. L. 99–514][/us/pl/99/514/s806/e], set out as a note under [section 1378 of this title][/us/usc/t26/s1378].
 
-    Amendment by [section 1805(a) of Pub. L. 99–514][/us/pl/99/514/s1805/a] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1805(a) of Pub. L. 99–514][/us/pl/99/514/s1805/a] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 72(c)][/us/pl/98/369/s72/c], July 18, 1984, [98 Stat. 591][/us/stat/98/591], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 72(c), July 18, 1984, [98 Stat. 591][/us/stat/98/591], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply—
 
@@ -252,40 +252,40 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F242
-[/us/pl/94/455/s213/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F1
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1547
-[/us/pl/98/369/s72/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs72%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F589
-[/us/pl/99/514/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2362
-[/us/pl/100/647/s1008/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3439
-[/us/pl/105/34/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fb%2F2
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F857
-[/us/pl/104/188/s1805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1805%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1894
-[/us/pl/105/34/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fb%2F2
-[/us/pl/105/34/s1246/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1246%2Fb
-[/us/pl/105/34/s1246/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1246%2Fa
-[/us/pl/100/647/s1008/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F1%2FA
-[/us/pl/100/647/s1008/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F2
-[/us/pl/100/647/s1008/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F1%2FB
-[/us/pl/100/647/s1008/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F3
-[/us/pl/99/514/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fa%2F3
-[/us/pl/99/514/s806/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fa%2F1
-[/us/pl/99/514/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fa%2F2
-[/us/pl/99/514/s1805/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fa%2F1%2FA
-[/us/pl/99/514/s1805/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fa%2F1%2FB
-[/us/pl/99/514/s1805/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fa%2F2
-[/us/pl/98/369/s72/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs72%2Fb%2F1
-[/us/pl/98/369/s72/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs72%2Fb%2F2
-[/us/pl/98/369/s72/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs72%2Fa
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/105/34/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fb%2F2
 [/us/pl/105/34/s507/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs507%2Fc%2F2
 [/us/usc/t26/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs644
-[/us/pl/105/34/s1246/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1246%2Fc
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1030
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -295,12 +295,12 @@
 [/us/pl/99/514/s806/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fe
 [/us/usc/t26/s1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1378
 [/us/pl/99/514/s1805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fa
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s72/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs72%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F591
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/455/s213/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F1
 [/us/pl/94/455/s213/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Ff

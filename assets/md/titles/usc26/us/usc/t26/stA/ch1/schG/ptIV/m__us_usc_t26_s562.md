@@ -65,7 +65,7 @@
 
             (B) such failure is of a type of failure which the Secretary has identified for purposes of this paragraph as being described in subparagraph (A).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 88–272, title II, § 225(f)(3)][/us/pl/88/272/s225/f/3], Feb. 26, 1964, [78 Stat. 88][/us/stat/78/88]; [Pub. L. 97–248, title II, § 222(e)(7)][/us/pl/97/248/s222/e/7], Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 97–448, title I, § 102(c)(2)][/us/pl/97/448/s102/c/2], Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 99–514, title VI, § 657(a)][/us/pl/99/514/s657/a], title XVIII, § 1804(d)(1), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2800; [Pub. L. 108–357, title IV, § 413(c)(9)][/us/pl/108/357/s413/c/9], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 111–325, title III, § 307(a)][/us/pl/111/325/s307/a], (b), Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113], §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], 3097.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 198][/us/stat/68A/198]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 225(f)(3), Feb. 26, 1964, [78 Stat. 88][/us/stat/78/88]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 222(e)(7), Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 102(c)(2), Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 657(a), title XVIII, § 1804(d)(1), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], 2800; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(9), Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 307(a), (b), Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], §§ 314(a), (b), 315(a), 320(b), Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], 3097.)
 
  __References in Text__ 
 
@@ -73,19 +73,19 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c). [Pub. L. 114–113, § 314(a)][/us/pl/114/113/s314/a], (b), designated existing provisions as par. (1), inserted heading and “or a publicly offered REIT” after “a publicly offered regulated investment company (as defined in section 67(c)(2)(B))” in text, and added par. (2).
+    2015—Subsec. (c). [Pub. L. 114–113][/us/pl/114/113], § 314(a), (b), designated existing provisions as par. (1), inserted heading and “or a publicly offered REIT” after “a publicly offered regulated investment company (as defined in section 67(c)(2)(B))” in text, and added par. (2).
 
-    Subsec. (e). [Pub. L. 114–113, § 315(a)][/us/pl/114/113/s315/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (e). [Pub. L. 114–113][/us/pl/114/113], § 315(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (e)(1). [Pub. L. 114–113, § 320(b)][/us/pl/114/113/s320/b], substituted “deduction—” for “deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.” in introductory provisions and added subpars. (A) and (B).
+    Subsec. (e)(1). [Pub. L. 114–113][/us/pl/114/113], § 320(b), substituted “deduction—” for “deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.” in introductory provisions and added subpars. (A) and (B).
 
     2010—Subsec. (c). [Pub. L. 111–325][/us/pl/111/325] substituted “Except in the case of a publicly offered regulated investment company (as defined in section 67(c)(2)(B)), the amount” for “The amount” in first sentence and inserted “(other than a publicly offered regulated investment company (as so defined))” after “regulated investment company” in second sentence.
 
     2004—Subsec. (b)(1). [Pub. L. 108–357][/us/pl/108/357] struck out “or a foreign personal holding company described in section 552” after “section 542” in introductory provisions.
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1804(d)(1)][/us/pl/99/514/s1804/d/1], inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
 
-    Subsec. (c). [Pub. L. 99–514, § 657(a)][/us/pl/99/514/s657/a], inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 657(a), inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
 
     1983—Subsec. (e). [Pub. L. 97–448][/us/pl/97/448] added subsec. (e).
 
@@ -95,21 +95,21 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title III, § 314(c)][/us/pl/114/113/s314/c], Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 314(c), Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2014.”
 
-[Pub. L. 114–113, div. Q, title III, § 315(b)][/us/pl/114/113/s315/b], Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 315(b), Dec. 18, 2015, [129 Stat. 3093][/us/stat/129/3093], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2015.”
 
-[Pub. L. 114–113, div. Q, title III, § 320(c)][/us/pl/114/113/s320/c], Dec. 18, 2015, [129 Stat. 3097][/us/stat/129/3097], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 320(c), Dec. 18, 2015, [129 Stat. 3097][/us/stat/129/3097], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 857 of this title][/us/usc/t26/s857]\] shall apply to taxable years beginning after December 31, 2015.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–325, title III, § 307(c)][/us/pl/111/325/s307/c], Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550], provided that: 
+[Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 307(c), Dec. 22, 2010, [124 Stat. 3550][/us/stat/124/3550], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
@@ -119,11 +119,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VI, § 657(b)][/us/pl/99/514/s657/b], Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], provided that: 
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 657(b), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-[Pub. L. 99–514, title XVIII, § 1804(d)(2)][/us/pl/99/514/s1804/d/2], Oct. 22, 1986, [100 Stat. 2800][/us/stat/100/2800], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(d)(2), Oct. 22, 1986, [100 Stat. 2800][/us/stat/100/2800], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after September 27, 1985.”
 
@@ -152,48 +152,48 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F198
-[/us/pl/88/272/s225/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs225%2Ff%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F88
-[/us/pl/97/248/s222/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222%2Fe%2F7
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F480
-[/us/pl/97/448/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs102%2Fc%2F2
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2370
-[/us/pl/99/514/s657/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs657%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2299
-[/us/pl/108/357/s413/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F9
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
-[/us/pl/111/325/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs307%2Fa
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3550
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/114/113/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs314%2Fa
-[/us/pl/114/113/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs315%2Fa
-[/us/pl/114/113/s320/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs320%2Fb
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/99/514/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fd%2F1
-[/us/pl/99/514/s657/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs657%2Fa
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/114/113/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs314%2Fc
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
-[/us/pl/114/113/s315/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs315%2Fb
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3093
-[/us/pl/114/113/s320/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs320%2Fc
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3097
 [/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
-[/us/pl/111/325/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs307%2Fc
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3550
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s657/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs657%2Fb
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2299
-[/us/pl/99/514/s1804/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fd%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2800
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34

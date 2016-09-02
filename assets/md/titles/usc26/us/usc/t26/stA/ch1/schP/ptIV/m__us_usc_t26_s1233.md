@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1231.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232...1232B.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
 
 ## § 1233. Gains and losses from short sales
 
@@ -119,7 +119,7 @@
 
             (B) such deficiency may be assessed before the date applicable under subparagraph (A) notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 327][/us/stat/68A/327]; [Aug. 12, 1955, ch. 871, § 1][/us/act/1955-08-12/ch871/s1], [69 Stat. 717][/us/stat/69/717]; [Pub. L. 85–866, title I, § 52(a)][/us/pl/85/866/s52/a], (b), Sept. 2, 1958, [72 Stat. 1643][/us/stat/72/1643], 1644; [Pub. L. 94–455, title XIV, § 1402(b)(1)(T)][/us/pl/94/455/s1402/b/1/T], (2), title XIX, § 1901(a)(137), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1787; [Pub. L. 97–34, title V, § 501(c)][/us/pl/97/34/s501/c], Aug. 13, 1981, [95 Stat. 326][/us/stat/95/326]; [Pub. L. 98–369, div. A, title X, § 1001(b)(17)][/us/pl/98/369/s1001/b/17], (e), July 18, 1984, [98 Stat. 1012][/us/stat/98/1012]; [Pub. L. 105–34, title X, § 1003(b)(1)][/us/pl/105/34/s1003/b/1], Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–649; [Pub. L. 107–147, title IV, § 412(d)(3)(A)][/us/pl/107/147/s412/d/3/A], Mar. 9, 2002, [116 Stat. 54][/us/stat/116/54].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 327][/us/stat/68A/327]; [Aug. 12, 1955, ch. 871][/us/act/1955-08-12/ch871], § 1, [69 Stat. 717][/us/stat/69/717]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 52(a), (b), Sept. 2, 1958, [72 Stat. 1643][/us/stat/72/1643], 1644; [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1)(T), (2), title XIX, § 1901(a)(137), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], 1787; [Pub. L. 97–34, title V][/us/pl/97/34/tV], § 501(c), Aug. 13, 1981, [95 Stat. 326][/us/stat/95/326]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1001(b)(17), (e), July 18, 1984, [98 Stat. 1012][/us/stat/98/1012]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1003(b)(1), Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title IV, § 401(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–649; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 412(d)(3)(A), Mar. 9, 2002, [116 Stat. 54][/us/stat/116/54].)
 
  __Amendments__ 
 
@@ -133,21 +133,21 @@
 
     1981—Subsec. (e)(2)(A). [Pub. L. 97–34][/us/pl/97/34] inserted “, but does not include any position to which section 1092(b) applies” after “taxpayer”.
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], provided that “9 months” would be changed to “1 year”.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-    [Pub. L. 94–455, § 1402(b)(1)(T)][/us/pl/94/455/s1402/b/1/T], (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(1)(T), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-    Subsec. (c). [Pub. L. 94–455, § 1901(a)(137)][/us/pl/94/455/s1901/a/137], substituted “August 16, 1954” for “the date of enactment of this title”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(137), substituted “August 16, 1954” for “the date of enactment of this title”.
 
-    Subsecs. (d), (e)(4)(A)(i). [Pub. L. 94–455, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], provided that “9 months” would be changed to “1 year”.
+    Subsecs. (d), (e)(4)(A)(i). [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-    [Pub. L. 94–455, § 1402(b)(1)(T)][/us/pl/94/455/s1402/b/1/T], provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(b)(1)(T), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-    1958—Subsec. (a). [Pub. L. 85–866, § 52(b)][/us/pl/85/866/s52/b], struck out “, other than a hedging transaction in commodity futures,” after “sale of property”.
+    1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866], § 52(b), struck out “, other than a hedging transaction in commodity futures,” after “sale of property”.
 
-    Subsec. (e)(4). [Pub. L. 85–866, § 52(a)][/us/pl/85/866/s52/a], added par. (4).
+    Subsec. (e)(4). [Pub. L. 85–866][/us/pl/85/866], § 52(a), added par. (4).
 
-    Subsec. (g). [Pub. L. 85–866, § 52(b)][/us/pl/85/866/s52/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 85–866][/us/pl/85/866], § 52(b), added subsec. (g).
 
     1955—Subsec. (f). Act Aug. 12, 1955, added subsec. (f).
 
@@ -157,7 +157,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1003(b)(2)][/us/pl/105/34/s1003/b/2], Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1003(b)(2), Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to property which becomes substantially worthless after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -171,9 +171,9 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(1)][/us/pl/94/455/s1402/b/1], Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(1), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-    [Pub. L. 94–455, title XIV, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(b)(2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
     Amendment by [section 1901(a)(137) of Pub. L. 94–455][/us/pl/94/455/s1901/a/137] applicable with respect to taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
@@ -181,59 +181,59 @@
 
     Amendment by [section 52(b) of Pub. L. 85–866][/us/pl/85/866/s52/b] applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see [section 1(c)(1) of Pub. L. 85–866][/us/pl/85/866/s1/c/1], set out as a note under [section 165 of this title][/us/usc/t26/s165].
 
-[Pub. L. 85–866, title I, § 52(c)][/us/pl/85/866/s52/c], Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 52(c), Sept. 2, 1958, [72 Stat. 1644][/us/stat/72/1644], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to short sales made after December 31, 1957.”
 
  __Effective Date of 1955 Amendment__ 
 
-[Act Aug. 12, 1955, ch. 871, § 2][/us/act/1955-08-12/ch871/s2], [69 Stat. 718][/us/stat/69/718], provided that: 
+[Act Aug. 12, 1955, ch. 871][/us/act/1955-08-12/ch871], § 2, [69 Stat. 718][/us/stat/69/718], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date.”
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1231.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232...1232B.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
 
 ----------
 ----------
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F327
-[/us/act/1955-08-12/ch871/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch871%2Fs1
+[/us/act/1955-08-12/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch871
 [/us/stat/69/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F717
-[/us/pl/85/866/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1643
-[/us/pl/94/455/s1402/b/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FT
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
-[/us/pl/97/34/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs501%2Fc
+[/us/pl/97/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtV
 [/us/stat/95/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F326
-[/us/pl/98/369/s1001/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F17
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1012
-[/us/pl/105/34/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1003%2Fb%2F1
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F910
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s412/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fd%2F3%2FA
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F54
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
-[/us/pl/94/455/s1402/b/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FT
-[/us/pl/94/455/s1901/a/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F137
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
-[/us/pl/94/455/s1402/b/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FT
-[/us/pl/85/866/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fb
-[/us/pl/85/866/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fa
-[/us/pl/85/866/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/107/147/s412/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs412%2Fe
 [/us/usc/t26/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs151
-[/us/pl/105/34/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1003%2Fb%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F910
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s1001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fe
@@ -241,9 +241,9 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs508
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
-[/us/pl/94/455/s1402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
-[/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1732
 [/us/pl/94/455/s1901/a/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F137
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -251,9 +251,9 @@
 [/us/pl/85/866/s52/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fb
 [/us/pl/85/866/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc%2F1
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
-[/us/pl/85/866/s52/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs52%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1644
-[/us/act/1955-08-12/ch871/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch871%2Fs2
+[/us/act/1955-08-12/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch871
 [/us/stat/69/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F718
 
 

@@ -63,7 +63,7 @@
 
         (4) For provisions relating to the unauthorized use of distilled spirits in any manufacturing process, see section 5601(a)(9).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 91–659, § 5][/us/pl/91/659/s5], Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 2(b)][/us/pl/95/176/s2/b], Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364]; [Pub. L. 96–39, title VIII][/us/pl/96/39], §§ 805(b)(1), 807(a)(18), July 26, 1979, [93 Stat. 275][/us/stat/93/275], 283.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1353][/us/stat/72/1353]; amended [Pub. L. 91–659][/us/pl/91/659], § 5, Jan. 8, 1971, [84 Stat. 1966][/us/stat/84/1966]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 2(b), Nov. 14, 1977, [91 Stat. 1364][/us/stat/91/1364]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], §§ 805(b)(1), 807(a)(18), July 26, 1979, [93 Stat. 275][/us/stat/93/275], 283.)
 
  __Prior Provisions__ 
 
@@ -277,15 +277,15 @@ Provisions similar to those comprising subsecs. (a)(1)(A), (B), (2)(A) to (C), (
 
  __Amendments__ 
 
-    1979—Subsec. (a)(1)(A). [Pub. L. 96–39, § 807(a)(18)][/us/pl/96/39/s807/a/18], substituted “section 5171(c)” for “section 5171(a)”.
+    1979—Subsec. (a)(1)(A). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(18), substituted “section 5171(c)” for “section 5171(a)”.
 
-    Subsec. (a)(2). [Pub. L. 96–39, § 805(b)(1)][/us/pl/96/39/s805/b/1], substituted in heading “operations” for “facilities” and in subpar. (A) “produce” for “provided facilities which may be used for the production of” and struck out in subpar. (B) “closed at all points where potable or readily recoverable spirits are present and the distilling apparatus” after “shall be continuous and”.
+    Subsec. (a)(2). [Pub. L. 96–39][/us/pl/96/39], § 805(b)(1), substituted in heading “operations” for “facilities” and in subpar. (A) “produce” for “provided facilities which may be used for the production of” and struck out in subpar. (B) “closed at all points where potable or readily recoverable spirits are present and the distilling apparatus” after “shall be continuous and”.
 
-    Subsec. (a)(3). [Pub. L. 96–39, § 805(b)(1)][/us/pl/96/39/s805/b/1], substituted in heading “Warehousing operations” for “Bonded warehousing facilities” and in subpar. (A) “the application” for “his application” and “warehouse bulk distilled spirits” for “establish warehousing facilities” and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
+    Subsec. (a)(3). [Pub. L. 96–39][/us/pl/96/39], § 805(b)(1), substituted in heading “Warehousing operations” for “Bonded warehousing facilities” and in subpar. (A) “the application” for “his application” and “warehouse bulk distilled spirits” for “establish warehousing facilities” and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
 
-    Subsec. (a)(4). [Pub. L. 96–39, § 805(b)(1)][/us/pl/96/39/s805/b/1], substituted provisions relating to processing operations for provisions relating to bottling facilities.
+    Subsec. (a)(4). [Pub. L. 96–39][/us/pl/96/39], § 805(b)(1), substituted provisions relating to processing operations for provisions relating to bottling facilities.
 
-    Subsec. (a)(5). [Pub. L. 96–39, § 805(b)(1)][/us/pl/96/39/s805/b/1], struck out par. (5) which related to arrangement and segregation of denaturing facilities by regulation of the Secretary.
+    Subsec. (a)(5). [Pub. L. 96–39][/us/pl/96/39], § 805(b)(1), struck out par. (5) which related to arrangement and segregation of denaturing facilities by regulation of the Secretary.
 
     1977—Subsec. (a)(3)(D). [Pub. L. 95–176][/us/pl/95/176] added subpar. (D).
 
@@ -312,15 +312,15 @@ Provisions similar to those comprising subsecs. (a)(1)(A), (B), (2)(A) to (C), (
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1353
-[/us/pl/91/659/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs5
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/stat/84/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1966
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs2%2Fb
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1364
-[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F275
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F631
@@ -328,11 +328,11 @@ Provisions similar to those comprising subsecs. (a)(1)(A), (B), (2)(A) to (C), (
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F627
-[/us/pl/96/39/s807/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F18
-[/us/pl/96/39/s805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fb%2F1
-[/us/pl/96/39/s805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fb%2F1
-[/us/pl/96/39/s805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fb%2F1
-[/us/pl/96/39/s805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs805%2Fb%2F1
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659

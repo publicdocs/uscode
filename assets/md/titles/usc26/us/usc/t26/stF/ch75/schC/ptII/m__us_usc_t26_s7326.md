@@ -23,17 +23,17 @@
 
         For provisions relating to disposal of forfeited firearms, see section 5872(b).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871]; [Pub. L. 85–859, title II, § 204(13)][/us/pl/85/859/s204/13], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 89–44, title VI, § 601(j)][/us/pl/89/44/s601/j], June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 91–513, title III, § 1102(f)][/us/pl/91/513/s1102/f], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1830][/us/stat/90/1830], 1834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 871][/us/stat/68A/871]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(13), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429]; [Pub. L. 89–44, title VI][/us/pl/89/44/tVI], § 601(j), June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(f), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1906(a)(43), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1830][/us/stat/90/1830], 1834.)
 
  __References in Text__ 
 
-    Sections 4461 and 4462, referred to in subsec. (a), were repealed by [Pub. L. 95–600, title V, § 521(b)][/us/pl/95/600/s521/b], Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].
+    Sections 4461 and 4462, referred to in subsec. (a), were repealed by [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 521(b), Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsecs. (b), (c). [Pub. L. 94–455, § 1906(a)(43)][/us/pl/94/455/s1906/a/43], redesignated subsec. (c) as (b) and in subsec. (b) as so redesignated substituted “section 5872(b)” for “section 5862(b)”. Former subsec. (b), relating to narcotic drugs, was repealed. See 1970 Amendment note below.
+    Subsecs. (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(43), redesignated subsec. (c) as (b) and in subsec. (b) as so redesignated substituted “section 5872(b)” for “section 5862(b)”. Former subsec. (b), relating to narcotic drugs, was repealed. See 1970 Amendment note below.
 
     1970—Subsec. (b). [Pub. L. 91–513][/us/pl/91/513] struck out subsec. (b) which related to narcotic drugs and which made reference to sections 4714, 4733, and 4745(d) of this title.
 
@@ -72,18 +72,18 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F871
-[/us/pl/85/859/s204/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F13
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1429
-[/us/pl/89/44/s601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs601%2Fj
+[/us/pl/89/44/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVI
 [/us/stat/79/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F155
-[/us/pl/91/513/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Ff
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1830
-[/us/pl/95/600/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs521%2Fb
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2884
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F43
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859

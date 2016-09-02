@@ -23,7 +23,7 @@
 
         Subsection (a) shall not apply to any transfer to a pooled income fund (within the meaning of section 642(c)(5)).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 235][/us/stat/68A/235]; [Pub. L. 94–455, title XXI, § 2131(e)(1)][/us/pl/94/455/s2131/e/1], Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 235][/us/stat/68A/235]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2131(e)(1), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F235
-[/us/pl/94/455/s2131/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2131%2Fe%2F1
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1924
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

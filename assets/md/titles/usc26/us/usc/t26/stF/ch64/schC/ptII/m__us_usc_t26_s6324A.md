@@ -111,25 +111,25 @@
 
             In the case of a deficiency, a separate deferred amount, required interest amount, and deferral period shall be determined as of the due date of the first installment after the deficiency is prorated to installments under section 6166.
 
-(Added [Pub. L. 94–455, title XX, § 2004(d)(1)][/us/pl/94/455/s2004/d/1], Oct. 4, 1976, [90 Stat. 1868][/us/stat/90/1868]; amended [Pub. L. 95–600, title VII, § 702(e)(1)][/us/pl/95/600/s702/e/1], Nov. 6, 1978, [92 Stat. 2929][/us/stat/92/2929]; [Pub. L. 97–34, title IV, § 422(e)(6)(A)][/us/pl/97/34/s422/e/6/A]–(C), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2004(d)(1), Oct. 4, 1976, [90 Stat. 1868][/us/stat/90/1868]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(e)(1), Nov. 6, 1978, [92 Stat. 2929][/us/stat/92/2929]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(6)(A)–(C), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316].)
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–34, § 422(e)(6)(C)][/us/pl/97/34/s422/e/6/C], struck out “or 6166A” after “section 6166” in section catchline.
+    1981—[Pub. L. 97–34][/us/pl/97/34], § 422(e)(6)(C), struck out “or 6166A” after “section 6166” in section catchline.
 
-    Subsecs. (a), (c)(2). [Pub. L. 97–34, § 422(e)(6)(A)][/us/pl/97/34/s422/e/6/A], struck out “or 6166A” after “section 6166”.
+    Subsecs. (a), (c)(2). [Pub. L. 97–34][/us/pl/97/34], § 422(e)(6)(A), struck out “or 6166A” after “section 6166”.
 
-    Subsec. (d)(3), (5). [Pub. L. 97–34, § 422(e)(6)(B)][/us/pl/97/34/s422/e/6/B], struck out “or 6166A(h)” after “section 6166(g)”.
+    Subsec. (d)(3), (5). [Pub. L. 97–34][/us/pl/97/34], § 422(e)(6)(B), struck out “or 6166A(h)” after “section 6166(g)”.
 
-    Subsec. (e)(1), (3), (4). [Pub. L. 97–34, § 422(e)(6)(A)][/us/pl/97/34/s422/e/6/A], struck out “or 6166A” after “section 6166”.
+    Subsec. (e)(1), (3), (4). [Pub. L. 97–34][/us/pl/97/34], § 422(e)(6)(A), struck out “or 6166A” after “section 6166”.
 
-    1978—Subsec. (b)(2)(B). [Pub. L. 95–600, § 702(e)(1)(B)][/us/pl/95/600/s702/e/1/B], substituted “required interest amount” for “aggregate interest amount”.
+    1978—Subsec. (b)(2)(B). [Pub. L. 95–600][/us/pl/95/600], § 702(e)(1)(B), substituted “required interest amount” for “aggregate interest amount”.
 
-    Subsec. (d)(5). [Pub. L. 95–600, § 702(e)(1)(C)][/us/pl/95/600/s702/e/1/C], substituted “required interest amount” for “aggregate interest amount”.
+    Subsec. (d)(5). [Pub. L. 95–600][/us/pl/95/600], § 702(e)(1)(C), substituted “required interest amount” for “aggregate interest amount”.
 
-    Subsec. (e)(2). [Pub. L. 95–600, § 702(e)(1)(A)][/us/pl/95/600/s702/e/1/A], substituted “Required interest amount” for “Aggregate interest amount” in heading and in text “required interest amount”, “over the first 4 years of the deferral period” and “for the payment” for “aggregate interest amount”, “over the deferral period” and “for payment”, respectively.
+    Subsec. (e)(2). [Pub. L. 95–600][/us/pl/95/600], § 702(e)(1)(A), substituted “Required interest amount” for “Aggregate interest amount” in heading and in text “required interest amount”, “over the first 4 years of the deferral period” and “for the payment” for “aggregate interest amount”, “over the deferral period” and “for payment”, respectively.
 
-    Subsec. (e)(4). [Pub. L. 95–600, § 702(e)(1)(D)][/us/pl/95/600/s702/e/1/D], substituted “required interest amount” for “aggregate interest amount”.
+    Subsec. (e)(4). [Pub. L. 95–600][/us/pl/95/600], § 702(e)(1)(D), substituted “required interest amount” for “aggregate interest amount”.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -137,7 +137,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title VII, § 702(e)(2)][/us/pl/95/600/s702/e/2], Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
+[Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(e)(2), Nov. 6, 1978, [92 Stat. 2930][/us/stat/92/2930], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
 
@@ -148,24 +148,24 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2004/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2004%2Fd%2F1
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1868
-[/us/pl/95/600/s702/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2929
-[/us/pl/97/34/s422/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F6%2FA
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
-[/us/pl/97/34/s422/e/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F6%2FC
-[/us/pl/97/34/s422/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F6%2FA
-[/us/pl/97/34/s422/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F6%2FB
-[/us/pl/97/34/s422/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F6%2FA
-[/us/pl/95/600/s702/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F1%2FB
-[/us/pl/95/600/s702/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F1%2FC
-[/us/pl/95/600/s702/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F1%2FA
-[/us/pl/95/600/s702/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F1%2FD
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s422/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Ff%2F1
 [/us/usc/t26/s6166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6166
-[/us/pl/95/600/s702/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fe%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2930
 
 

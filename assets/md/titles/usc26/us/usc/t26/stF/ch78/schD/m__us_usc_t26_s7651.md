@@ -43,7 +43,7 @@
 
         (B) For purposes of this title, section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section 28(a) had been enacted before the enactment of this title and such section 28(a) shall have no effect on the amount of income tax liability required to be paid by any person to the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 906][/us/stat/68A/906]; [Pub. L. 91–513, title III, § 1102(j)][/us/pl/91/513/s1102/j], Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 130(c)][/us/pl/98/369/s130/c], title VIII, § 801(d)(9), July 18, 1984, [98 Stat. 661][/us/stat/98/661], 997; [Pub. L. 99–514, title XII, § 1275(b)][/us/pl/99/514/s1275/b], Oct. 22, 1986, [100 Stat. 2598][/us/stat/100/2598]; [Pub. L. 110–172, § 11(a)(34)(B)][/us/pl/110/172/s11/a/34/B], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 906][/us/stat/68A/906]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(j), Oct. 27, 1970, [84 Stat. 1293][/us/stat/84/1293]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 130(c), title VIII, § 801(d)(9), July 18, 1984, [98 Stat. 661][/us/stat/98/661], 997; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1275(b), Oct. 22, 1986, [100 Stat. 2598][/us/stat/100/2598]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(34)(B), Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
     1986—Par. (5)(B). [Pub. L. 99–514][/us/pl/99/514] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For purposes of this title (other than section 881(b)(1) or subpart C of part III of subchapter N of chapter 1), section 28(a) of the Revised Organic Act of the Virgin Islands shall be effective as if such section had been enacted subsequent to the enactment of this title.”
 
-    1984—Par. (5)(B). [Pub. L. 98–369, § 801(d)(9)][/us/pl/98/369/s801/d/9], inserted “or subpart C of part III of subchapter N of chapter 1”.
+    1984—Par. (5)(B). [Pub. L. 98–369][/us/pl/98/369], § 801(d)(9), inserted “or subpart C of part III of subchapter N of chapter 1”.
 
-    [Pub. L. 98–369, § 130(c)][/us/pl/98/369/s130/c], inserted “(other than section 881(b)(1))”.
+    [Pub. L. 98–369][/us/pl/98/369], § 130(c), inserted “(other than section 881(b)(1))”.
 
     1976—Par. (2)(A). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -85,13 +85,13 @@
 
  __Compensation to Guam and Virgin Islands for Unexpected Revenue Losses Occasioned by Tax Reduction Act of 1975 and Tax Reform Act of 1976__ 
 
-[Pub. L. 95–134, title IV, § 402][/us/pl/95/134/s402], Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163], provided that: 
+[Pub. L. 95–134, title IV][/us/pl/95/134/tIV], § 402, Oct. 15, 1977, [91 Stat. 1163][/us/stat/91/1163], provided that: 
 
 > “In order to compensate the territories of Guam and the Virgin Islands for unexpected revenue losses occasioned by the Tax Reduction Act of 1975 \[[Pub. L. 94–12][/us/pl/94/12], Mar. 29, 1975, [89 Stat. 26][/us/stat/89/26], see Tables\] and the Tax Reform Act of 1976 \[[Pub. L. 94–455][/us/pl/94/455], Oct. 4, 1976, [90 Stat. 1525][/us/stat/90/1525], see Tables\] there is hereby authorized to be appropriated to the Secretary for grants to the government of Guam not to exceed $15,000,000 and after October 1, 1977, for grants to the government of the Virgin Islands not to exceed $14,000,000, such sums being in addition to those previously authorized for such purposes.”
 
  __Payments to Government of American Samoa, Guam, and the Virgin Islands__ 
 
-[Pub. L. 95–30, title IV, § 407][/us/pl/95/30/s407], May 23, 1977, [91 Stat. 156][/us/stat/91/156], provided that:
+[Pub. L. 95–30, title IV][/us/pl/95/30/tIV], § 407, May 23, 1977, [91 Stat. 156][/us/stat/91/156], provided that:
 
 >     “(a) The Secretary of the Treasury is authorized to make separate payments to the government of American Samoa, the government of Guam, and the government of the Virgin Islands. The payment to the government of a particular possession shall be in an amount equal to the loss to that possession with respect to tax returns for the first taxable year beginning after December 31, 1976, by reason of sections 101 and 102 of this Act \[amending sections 1, 3, 21, 42, 57, 63, 143, 161, 172, 211, 402, 441, 443, 511, 584, 613A, 641, 642, 667, 703, 861, 862, 873, 904, 911, 931, 1034, 1211, 1302, 6014, 6212, 6504, and 6654 of this title and repealing sections 36, 141, 142, 144 and 145 of this title\]. Such amount shall be determined by the Secretary of the Treasury upon certification to the Secretary by the United States Government Comptrollers for Guam and the Virgin Islands.
 
@@ -106,22 +106,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F906
-[/us/pl/91/513/s1102/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fj
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1293
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s130/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs130%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F661
-[/us/pl/99/514/s1275/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1275%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2598
-[/us/pl/110/172/s11/a/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F34%2FB
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
 [/us/usc/t48/s1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1642
 [/us/usc/t48/s1421h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1421h
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s801/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F9
-[/us/pl/98/369/s130/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs130%2Fc
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -138,13 +138,13 @@
 [/us/usc/t21/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs951
 [/us/pl/91/513/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102
 [/us/pl/91/513/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1103
-[/us/pl/95/134/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs402
+[/us/pl/95/134/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2FtIV
 [/us/stat/91/1163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1163
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/stat/89/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F26
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/90/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1525
-[/us/pl/95/30/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs407
+[/us/pl/95/30/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtIV
 [/us/stat/91/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F156
 
 

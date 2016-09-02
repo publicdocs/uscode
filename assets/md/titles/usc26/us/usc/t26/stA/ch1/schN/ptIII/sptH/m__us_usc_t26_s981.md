@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptH/m__us_usc_t26_stA_ch1_schN_ptIII_sptH.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptI/m__us_usc_t26_stA_ch1_schN_ptIII_sptI.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs981)
 
-## \[§ 981. Repealed. [Pub. L. 94–455, title X, § 1012(b)(2)][/us/pl/94/455/s1012/b/2], Oct. 4, 1976, [90 Stat. 1614][/us/stat/90/1614]\]
+## \[§ 981. Repealed. [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1012(b)(2), Oct. 4, 1976, [90 Stat. 1614][/us/stat/90/1614]\]
 
-    Section, [Pub. L. 89–809, title I, § 105(e)(1)][/us/pl/89/809/s105/e/1], Nov. 13, 1966, [80 Stat. 1565][/us/stat/80/1565], related to income of certain nonresident United States citizens subject to foreign community property laws.
+    Section, [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 105(e)(1), Nov. 13, 1966, [80 Stat. 1565][/us/stat/80/1565], related to income of certain nonresident United States citizens subject to foreign community property laws.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1012/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1012%2Fb%2F2
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1614
-[/us/pl/89/809/s105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs105%2Fe%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1565
 
 

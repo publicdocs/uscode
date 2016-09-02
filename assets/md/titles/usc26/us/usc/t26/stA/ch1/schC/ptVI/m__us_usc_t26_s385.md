@@ -47,7 +47,7 @@
 
             The Secretary is authorized to require such information as the Secretary determines to be necessary to carry out the provisions of this subsection.
 
-(Added [Pub. L. 91–172, title IV, § 415(a)][/us/pl/91/172/s415/a], Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–239, title VII, § 7208(a)(1)][/us/pl/101/239/s7208/a/1], Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337]; [Pub. L. 102–486, title XIX, § 1936(a)][/us/pl/102/486/s1936/a], Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032].)
+(Added [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 415(a), Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7208(a)(1), Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1936(a), Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032].)
 
  __Amendments__ 
 
@@ -59,13 +59,13 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XIX, § 1936(b)][/us/pl/102/486/s1936/b], Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1936(b), Oct. 24, 1992, [106 Stat. 3032][/us/stat/106/3032], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to instruments issued after the date of the enactment of this Act \[Oct. 24, 1992\].”
 
  __Regulations Not To Be Applied Retroactively__ 
 
-[Pub. L. 101–239, title VII, § 7208(a)(2)][/us/pl/101/239/s7208/a/2], Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7208(a)(2), Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that: 
 
 > “Any regulations issued pursuant to the authority granted by the amendment made by paragraph (1) \[amending this section\] shall only apply with respect to instruments issued after the date on which the Secretary of the Treasury or his delegate provides public guidance as to the characterization of such instruments whether by regulation, ruling, or otherwise.”
 
@@ -76,20 +76,20 @@
 ----------
 ----------
 
-[/us/pl/91/172/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs415%2Fa
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F613
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/101/239/s7208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2337
-[/us/pl/102/486/s1936/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1936%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3032
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/102/486/s1936/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1936%2Fb
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3032
-[/us/pl/101/239/s7208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7208%2Fa%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2337
 
 

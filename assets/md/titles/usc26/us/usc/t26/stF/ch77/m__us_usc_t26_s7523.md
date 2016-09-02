@@ -71,7 +71,7 @@
 
             The graphs required under subsection (a) shall be based on data for the most recent fiscal year for which complete data is available as of the completion of the preparation of the instructions by the Secretary.
 
-(Added [Pub. L. 101–508, title XI, § 11622(a)][/us/pl/101/508/s11622/a], Nov. 5, 1990, [104 Stat. 1388–504][/us/stat/104/1388-504]; amended [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](l)(4), formerly § 110(l)(8), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173], renumbered [Pub. L. 105–33, title V, § 5514(a)(2)][/us/pl/105/33/s5514/a/2], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV, § 4002(b)(1)(E)][/us/pl/110/234/s4002/b/1/E], (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(E), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11622(a), Nov. 5, 1990, [104 Stat. 1388–504][/us/stat/104/1388-504]; amended [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(l)(4), formerly § 110(l)(8), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173], renumbered [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(a)(2), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(E), (2)(O), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(E), (2)(O), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
  __References in Text__ 
 
@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3)(C). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    2008—Subsec. (b)(3)(C). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-    1996—Subsec. (b)(3)(C). [Pub. L. 104–193, § 110][/us/pl/104/193/s110](l)(4), formerly § 110(l)(8), as renumbered by [Pub. L. 105–33][/us/pl/105/33], substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+    1996—Subsec. (b)(3)(C). [Pub. L. 104–193][/us/pl/104/193], § 110(l)(4), formerly § 110(l)(8), as renumbered by [Pub. L. 105–33][/us/pl/105/33], substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -99,7 +99,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title XI, § 11622(c)][/us/pl/101/508/s11622/c], Nov. 5, 1990, [104 Stat. 1388–505][/us/stat/104/1388-505], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11622(c), Nov. 5, 1990, [104 Stat. 1388–505][/us/stat/104/1388-505], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990.”
 
@@ -110,15 +110,15 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11622%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-504
-[/us/pl/104/193/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2173
-[/us/pl/105/33/s5514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fa%2F2
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
-[/us/pl/110/234/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -127,8 +127,8 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
-[/us/pl/104/193/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -141,7 +141,7 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/pl/101/508/s11622/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11622%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-505
 
 

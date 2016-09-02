@@ -17,7 +17,7 @@
 
     For purposes of the taxes imposed by this subtitle upon a DISC (as defined in section 992(a)), a DISC shall not be subject to the taxes imposed by this subtitle.
 
-(Added [Pub. L. 92–178, title V, § 501][/us/pl/92/178/s501], Dec. 10, 1971, [85 Stat. 535][/us/stat/85/535]; amended [Pub. L. 105–206, title VI, § 6011(e)(1)][/us/pl/105/206/s6011/e/1], July 22, 1998, [112 Stat. 818][/us/stat/112/818].)
+(Added [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 501, Dec. 10, 1971, [85 Stat. 535][/us/stat/85/535]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6011(e)(1), July 22, 1998, [112 Stat. 818][/us/stat/112/818].)
 
  __Amendments__ 
 
@@ -29,13 +29,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–178, title V, § 507][/us/pl/92/178/s507], Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 92–178, title V][/us/pl/92/178/tV], § 507, Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Except as provided in [section 505 of this title][/us/usc/t26/s505] \[amending [section 971 of this title][/us/usc/t26/s971] and enacting provisions set out as a note under [section 970 of this title][/us/usc/t26/s970]\], the amendments made by sections 501 through 504 of this title \[enacting this section and sections 992 to 994, 995 to 997, and 6686 of this title and amending sections 246, 861, 901, 904, 922, 931, 1014, 1504, 6011, 6072, and 6501 of this title\] shall apply with respect to taxable years ending after December 31, 1971, except that a corporation may not be a DISC (as defined in section 992(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], added by [section 501 of this title][/us/usc/t26/s501]) for any taxable year beginning before January 1, 1972.”
 
  __Transition Rules for DISC’s__ 
 
-[Pub. L. 98–369, div. A, title VIII, § 805(b)][/us/pl/98/369/s805/b], July 18, 1984, [98 Stat. 1001][/us/stat/98/1001], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1876(h), (n), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2900, 2901, provided that:
+[Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 805(b), July 18, 1984, [98 Stat. 1001][/us/stat/98/1001], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, title XVIII, § 1876(h), (n), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2900, 2901, provided that:
 
 >     “(1) __Close of 1984 taxable years of disc’s.—__ 
 
@@ -101,7 +101,7 @@
 
  __Special Rule for Export Trade Corporations__ 
 
-[Pub. L. 98–369, div. A, title VIII, § 805(c)][/us/pl/98/369/s805/c], July 18, 1984, [98 Stat. 1002][/us/stat/98/1002], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 805(c), July 18, 1984, [98 Stat. 1002][/us/stat/98/1002], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -129,7 +129,7 @@
 
  __Submission of Annual Reports to Congress__ 
 
-    [Pub. L. 92–178, title V, § 506][/us/pl/92/178/s506], Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553], which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§ 501–507, of [Pub. L. 92–178][/us/pl/92/178], was probably intended by Congress to be repealed by [Pub. L. 98–369, div. A, title VIII, § 804(b)(1)][/us/pl/98/369/s804/b/1], July 18, 1984, [98 Stat. 1000][/us/stat/98/1000], which directed that [section 806 of Pub. L. 98–178][/us/pl/98/178/s806] relating to submission of annual reports to Congress be repealed. [Section 804(b)(2) of Pub. L. 98–369][/us/pl/98/369/s804/b/2] provided that the repeal is applicable to reports for calendar years after 1984.
+    [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 506, Dec. 10, 1971, [85 Stat. 553][/us/stat/85/553], which directed, that commencing with calendar year 1972, the Secretary of the Treasury submit annual reports to Congress on the effect and operation of title V, §§ 501–507, of [Pub. L. 92–178][/us/pl/92/178], was probably intended by Congress to be repealed by [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 804(b)(1), July 18, 1984, [98 Stat. 1000][/us/stat/98/1000], which directed that [section 806 of Pub. L. 98–178][/us/pl/98/178/s806] relating to submission of annual reports to Congress be repealed. [Section 804(b)(2) of Pub. L. 98–369][/us/pl/98/369/s804/b/2] provided that the repeal is applicable to reports for calendar years after 1984.
 
 ----------
 
@@ -138,9 +138,9 @@
 ----------
 ----------
 
-[/us/pl/92/178/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs501
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F535
-[/us/pl/105/206/s6011/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6011%2Fe%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F818
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -148,31 +148,31 @@
 [/us/pl/105/34/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fa
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/92/178/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs507
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F553
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs505
 [/us/usc/t26/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs971
 [/us/usc/t26/s970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs970
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
-[/us/pl/98/369/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs805%2Fb
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1001
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs245
-[/us/pl/98/369/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs805%2Fc
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1002
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/usc/t26/s970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs970
-[/us/pl/92/178/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs506
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F553
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
-[/us/pl/98/369/s804/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs804%2Fb%2F1
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1000
 [/us/pl/98/178/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F178%2Fs806
 [/us/pl/98/369/s804/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs804%2Fb%2F2

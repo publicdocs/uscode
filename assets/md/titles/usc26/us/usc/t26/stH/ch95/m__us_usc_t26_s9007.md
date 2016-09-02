@@ -47,7 +47,7 @@
 
         All payments received by the Secretary of the Treasury under subsection (b) shall be deposited by him in the general fund of the Treasury.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 568][/us/stat/85/568]; amended [Pub. L. 93–53, § 6(c)][/us/pl/93/53/s6/c], July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV, § 404(c)(9)][/us/pl/93/443/s404/c/9]–(11), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292]; [Pub. L. 94–283, title III, § 307(e)][/us/pl/94/283/s307/e], May 11, 1976, [90 Stat. 502][/us/stat/90/502]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], (C), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 568][/us/stat/85/568]; amended [Pub. L. 93–53][/us/pl/93/53], § 6(c), July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 404(c)(9)–(11), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292]; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 307(e), May 11, 1976, [90 Stat. 502][/us/stat/90/502]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(B), (C), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 
     Subsec. (d). [Pub. L. 94–455][/us/pl/94/455] substituted “Secretary of the Treasury” for “Secretary”.
 
-    1974—Subsec. (a). [Pub. L. 93–443, § 404(c)(9)][/us/pl/93/443/s404/c/9], substituted “Commission” for “Comptroller General”.
+    1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(9), substituted “Commission” for “Comptroller General”.
 
-    Subsec. (b). [Pub. L. 93–443, § 404(c)(10)][/us/pl/93/443/s404/c/10], substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing.
+    Subsec. (b). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(10), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing.
 
-    Subsec. (c). [Pub. L. 93–443, § 404(c)(11)][/us/pl/93/443/s404/c/11], substituted “Commission” for “Comptroller General”.
+    Subsec. (c). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(11), substituted “Commission” for “Comptroller General”.
 
     1973—Subsec. (b)(3). [Pub. L. 93–53][/us/pl/93/53] substituted section “9006(d)” for “9006(c)”.
 
@@ -80,22 +80,22 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F568
-[/us/pl/93/53/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs6%2Fc
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F139
-[/us/pl/93/443/s404/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F9
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1292
-[/us/pl/94/283/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs307%2Fe
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F502
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/443/s404/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F9
-[/us/pl/93/443/s404/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F10
-[/us/pl/93/443/s404/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F11
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1

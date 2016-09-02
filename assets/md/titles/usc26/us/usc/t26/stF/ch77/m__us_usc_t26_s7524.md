@@ -17,11 +17,11 @@
 
     Not less often than annually, the Secretary shall send a written notice to each taxpayer who has a tax delinquent account of the amount of the tax delinquency as of the date of the notice.
 
-(Added [Pub. L. 104–168, title XII, § 1204(a)][/us/pl/104/168/s1204/a], July 30, 1996, [110 Stat. 1471][/us/stat/110/1471].)
+(Added [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1204(a), July 30, 1996, [110 Stat. 1471][/us/stat/110/1471].)
 
  __Effective Date__ 
 
-[Pub. L. 104–168, title XII, § 1204(c)][/us/pl/104/168/s1204/c], July 30, 1996, [110 Stat. 1471][/us/stat/110/1471], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1204(c), July 30, 1996, [110 Stat. 1471][/us/stat/110/1471], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to calendar years after 1996.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/104/168/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1204%2Fa
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1471
-[/us/pl/104/168/s1204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1204%2Fc
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1471
 
 

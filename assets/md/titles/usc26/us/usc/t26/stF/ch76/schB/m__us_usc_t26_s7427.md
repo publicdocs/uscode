@@ -17,7 +17,7 @@
 
     In any proceeding involving the issue of whether or not a tax return preparer has willfully attempted in any manner to understate the liability for tax (within the meaning of section 6694(b)), the burden of proof in respect to such issue shall be upon the Secretary.
 
-(Added [Pub. L. 94–455, title XII, § 1203(b)(2)(A)][/us/pl/94/455/s1203/b/2/A], Oct. 4, 1976, [90 Stat. 1690][/us/stat/90/1690]; amended [Pub. L. 110–28, title VIII, § 8246(a)(2)(J)(i)][/us/pl/110/28/s8246/a/2/J/i], May 25, 2007, [121 Stat. 202][/us/stat/121/202].)
+(Added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(b)(2)(A), Oct. 4, 1976, [90 Stat. 1690][/us/stat/90/1690]; amended [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(J)(i), May 25, 2007, [121 Stat. 202][/us/stat/121/202].)
 
  __Prior Provisions__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1203/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fb%2F2%2FA
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1690
-[/us/pl/110/28/s8246/a/2/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FJ%2Fi
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F202
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28

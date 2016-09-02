@@ -47,15 +47,15 @@
 
             The determination of marital status shall be made under section 7703(a).
 
-(Added [Pub. L. 94–455, title X, § 1012(b)(1)][/us/pl/94/455/s1012/b/1], Oct. 4, 1976, [90 Stat. 1613][/us/stat/90/1613]; amended [Pub. L. 97–34, title I, § 111(b)(4)][/us/pl/97/34/s111/b/4], Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194]; [Pub. L. 98–369, div. A, title I, § 139(a)][/us/pl/98/369/s139/a], (b)(1), July 18, 1984, [98 Stat. 677][/us/stat/98/677]; [Pub. L. 99–514, title XIII, § 1301(j)(9)][/us/pl/99/514/s1301/j/9], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].)
+(Added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1012(b)(1), Oct. 4, 1976, [90 Stat. 1613][/us/stat/90/1613]; amended [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 111(b)(4), Aug. 13, 1981, [95 Stat. 194][/us/stat/95/194]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 139(a), (b)(1), July 18, 1984, [98 Stat. 677][/us/stat/98/677]; [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(9), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].)
 
  __Amendments__ 
 
     1986—Subsec. (c)(3). [Pub. L. 99–514][/us/pl/99/514] substituted “section 7703(a)” for “section 143(a)”.
 
-    1984—[Pub. L. 98–369, § 139(b)(1)][/us/pl/98/369/s139/b/1], substituted “nonresident alien individuals” for “a resident or citizen of the United States who is married to a nonresident alien individual” in section catchline.
+    1984—[Pub. L. 98–369][/us/pl/98/369], § 139(b)(1), substituted “nonresident alien individuals” for “a resident or citizen of the United States who is married to a nonresident alien individual” in section catchline.
 
-    Subsec. (a). [Pub. L. 98–369, § 139(a)][/us/pl/98/369/s139/a], substituted in provision preceding par. (1) “married couple 1 or both of whom are nonresident alien individuals” for “citizen or resident of the United States who is married to a nonresident alien individual”.
+    Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 139(a), substituted in provision preceding par. (1) “married couple 1 or both of whom are nonresident alien individuals” for “citizen or resident of the United States who is married to a nonresident alien individual”.
 
     1981—Subsec. (a)(1). [Pub. L. 97–34][/us/pl/97/34] substituted “section 911(d)(2)” for “section 911(b)”.
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 139(c)][/us/pl/98/369/s139/c], July 18, 1984, [98 Stat. 677][/us/stat/98/677], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 139(c), July 18, 1984, [98 Stat. 677][/us/stat/98/677], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984.”
 
@@ -84,22 +84,22 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1012%2Fb%2F1
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1613
-[/us/pl/97/34/s111/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs111%2Fb%2F4
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F194
-[/us/pl/98/369/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs139%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F677
-[/us/pl/99/514/s1301/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F9
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s139/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs139%2Fb%2F1
-[/us/pl/98/369/s139/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs139%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs141
-[/us/pl/98/369/s139/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs139%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F677
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs115

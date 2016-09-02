@@ -43,7 +43,7 @@
 
             If, for any of an individual’s 3 taxable years ending before the individual’s first taxable year ending after the date of the enactment of this subsection, the individual took a position described in paragraph (1), the individual shall file with the Secretary, at such time and in such manner as the Secretary may prescribe, notice of such position.
 
-(Added [Pub. L. 108–357, title VIII, § 908(a)][/us/pl/108/357/s908/a], Oct. 22, 2004, [118 Stat. 1655][/us/stat/118/1655].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 908(a), Oct. 22, 2004, [118 Stat. 1655][/us/stat/118/1655].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 908(d)][/us/pl/108/357/s908/d], Oct. 22, 2004, [118 Stat. 1657][/us/stat/118/1657], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 908(d), Oct. 22, 2004, [118 Stat. 1657][/us/stat/118/1657], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -72,10 +72,10 @@
 ----------
 ----------
 
-[/us/pl/108/357/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1655
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s908/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs908%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1657
 
 

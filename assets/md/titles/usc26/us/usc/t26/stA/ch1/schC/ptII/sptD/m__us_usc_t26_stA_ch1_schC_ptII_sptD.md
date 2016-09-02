@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title II, § 222(e)(8)(A)][/us/pl/97/248/s222/e/8/A], Sept. 3, 1982, [96 Stat. 481][/us/stat/96/481], inserted “and Special Rule” in subpart heading, and substituted “Definition and special rule” for “Partial liquidation defined” in item 346.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 222(e)(8)(A), Sept. 3, 1982, [96 Stat. 481][/us/stat/96/481], inserted “and Special Rule” in subpart heading, and substituted “Definition and special rule” for “Partial liquidation defined” in item 346.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/97/248/s222/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222%2Fe%2F8%2FA
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F481
 
 

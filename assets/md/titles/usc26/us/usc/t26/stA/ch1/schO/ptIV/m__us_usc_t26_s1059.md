@@ -273,11 +273,11 @@
 
         (2) providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
 
-(Added [Pub. L. 98–369, div. A, title I, § 53(a)][/us/pl/98/369/s53/a], July 18, 1984, [98 Stat. 565][/us/stat/98/565]; amended [Pub. L. 99–514, title VI, § 614(a)][/us/pl/99/514/s614/a]–(e), Oct. 22, 1986, [100 Stat. 2251–2253][/us/stat/100/2251-2253]; [Pub. L. 100–647, title I, § 1006(c)][/us/pl/100/647/s1006/c], Nov. 10, 1988, [102 Stat. 3393][/us/stat/102/3393]; [Pub. L. 101–239, title VII, § 7206(a)][/us/pl/101/239/s7206/a], Dec. 19, 1989, [103 Stat. 2336][/us/stat/103/2336]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1011(a)–(c), 1013(b), title XVI, § 1604(d)(1), Aug. 5, 1997, [111 Stat. 912][/us/stat/111/912], 913, 918, 1098; [Pub. L. 105–206, title VI, § 6010(b)][/us/pl/105/206/s6010/b], July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 53(a), July 18, 1984, [98 Stat. 565][/us/stat/98/565]; amended [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 614(a)–(e), Oct. 22, 1986, [100 Stat. 2251–2253][/us/stat/100/2251-2253]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(c), Nov. 10, 1988, [102 Stat. 3393][/us/stat/102/3393]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7206(a), Dec. 19, 1989, [103 Stat. 2336][/us/stat/103/2336]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], §§ 1011(a)–(c), 1013(b), title XVI, § 1604(d)(1), Aug. 5, 1997, [111 Stat. 912][/us/stat/111/912], 913, 918, 1098; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(b), July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(G), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
-    [Section 246(c)(3) of this title][/us/usc/t26/s246/c/3], referred to in subsec. (d)(3), was amended by [Pub. L. 105–34, title X, § 1015(b)(2)][/us/pl/105/34/s1015/b/2], Aug. 5, 1997, [111 Stat. 922][/us/stat/111/922], by striking out subpar. (B) and redesignating subpar. (C) as (B).
+    [Section 246(c)(3) of this title][/us/usc/t26/s246/c/3], referred to in subsec. (d)(3), was amended by [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1015(b)(2), Aug. 5, 1997, [111 Stat. 922][/us/stat/111/922], by striking out subpar. (B) and redesignating subpar. (C) as (B).
 
  __Prior Provisions__ 
 
@@ -289,17 +289,17 @@
 
     1998—Subsec. (g)(1). [Pub. L. 105–206][/us/pl/105/206] substituted “, in the case of stock held by pass-thru entities, and in the case of consolidated groups” for “and in the case of stock held by pass-thru entities”.
 
-    1997—Subsec. (a)(2). [Pub. L. 105–34, § 1011(a)][/us/pl/105/34/s1011/a], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In addition to any gain recognized under this chapter, there shall be treated as gain from the sale or exchange of any stock for the taxable year in which the sale or disposition of such stock occurs an amount equal to the aggregate nontaxed portions of any extraordinary dividends with respect to such stock which did not reduce the basis of such stock by reason of the limitation on reducing basis below zero.”
+    1997—Subsec. (a)(2). [Pub. L. 105–34][/us/pl/105/34], § 1011(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In addition to any gain recognized under this chapter, there shall be treated as gain from the sale or exchange of any stock for the taxable year in which the sale or disposition of such stock occurs an amount equal to the aggregate nontaxed portions of any extraordinary dividends with respect to such stock which did not reduce the basis of such stock by reason of the limitation on reducing basis below zero.”
 
-    Subsec. (d)(1). [Pub. L. 105–34, § 1011(c)][/us/pl/105/34/s1011/c], amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
+    Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34], § 1011(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows:
 
     “(A) In general.—Except as provided in subparagraph (B), any reduction in basis under subsection (a)(1) shall occur immediately before any sale or disposition of the stock.
 
     “(B) Special rule for computing extraordinary dividend.—In determining a taxpayer’s adjusted basis for purposes of subsection (c)(1), any reduction in basis under subsection (a)(1) by reason of a prior distribution which was an extraordinary dividend shall be treated as occurring at the beginning of the ex-dividend date for such distribution.”
 
-    Subsec. (d)(3). [Pub. L. 105–34, § 1604(d)(1)][/us/pl/105/34/s1604/d/1], substituted “subsection (a)” for “subsection (a)(2)”.
+    Subsec. (d)(3). [Pub. L. 105–34][/us/pl/105/34], § 1604(d)(1), substituted “subsection (a)” for “subsection (a)(2)”.
 
-    Subsec. (e)(1). [Pub. L. 105–34, § 1011(b)][/us/pl/105/34/s1011/b], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Except as otherwise provided in regulations, in the case of any redemption of stock which is—
+    Subsec. (e)(1). [Pub. L. 105–34][/us/pl/105/34], § 1011(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Except as otherwise provided in regulations, in the case of any redemption of stock which is—
 
     “(A) part of a partial liquidation (within the meaning of section 302(e)) of the redeeming corporation, or
 
@@ -307,15 +307,15 @@
 
     any amount treated as a dividend under section 301 with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock.”
 
-    Subsec. (e)(1)(A)(iii). [Pub. L. 105–34, § 1013(b)][/us/pl/105/34/s1013/b], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “which would not have been treated (in whole or in part) as a dividend if any options had not been taken into account under section 318(a)(4).”
+    Subsec. (e)(1)(A)(iii). [Pub. L. 105–34][/us/pl/105/34], § 1013(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “which would not have been treated (in whole or in part) as a dividend if any options had not been taken into account under section 318(a)(4).”
 
     1989—Subsecs. (f), (g). [Pub. L. 101–239][/us/pl/101/239] added subsecs. (f) and (g) and struck out former subsec. (f) which read as follows: “Regulations.—The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of stock dividends, stock splits, reorganizations, and other similar transactions and in the case of stock held by pass-thru entities.”
 
-    1988—Subsec. (d)(5). [Pub. L. 100–647, § 1006(c)(2)][/us/pl/100/647/s1006/c/2], inserted “amount or” after “agrees to the”.
+    1988—Subsec. (d)(5). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(2), inserted “amount or” after “agrees to the”.
 
-    [Pub. L. 100–647, § 1006(c)(1)][/us/pl/100/647/s1006/c/1], redesignated par. (6) as (5) and struck out former par. (5) which related to extension to certain property distributions.
+    [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(1), redesignated par. (6) as (5) and struck out former par. (5) which related to extension to certain property distributions.
 
-    Subsec. (d)(6). [Pub. L. 100–647, § 1006(c)(3)][/us/pl/100/647/s1006/c/3], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Subsection (a) shall not apply to any extraordinary dividend with respect to any share of stock of a corporation if—
+    Subsec. (d)(6). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Subsection (a) shall not apply to any extraordinary dividend with respect to any share of stock of a corporation if—
 
     “(A) such stock was held by the taxpayer during the entire period such corporation (and any precedessor \[sic\] corporation) was in existence,
 
@@ -323,29 +323,29 @@
 
     “(C) the application of this paragraph to such dividend is not inconsistent with the purposes of this section.”
 
-    [Pub. L. 100–647, § 1006(c)(1)][/us/pl/100/647/s1006/c/1], redesignated par. (7) as (6). Former par. (6) redesignated (5).
+    [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-    Subsec. (d)(7). [Pub. L. 100–647, § 1006(c)(1)][/us/pl/100/647/s1006/c/1], redesignated par. (7) as (6).
+    Subsec. (d)(7). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(1), redesignated par. (7) as (6).
 
-    Subsec. (e)(1). [Pub. L. 100–647, § 1006(c)(4)][/us/pl/100/647/s1006/c/4], substituted “to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock” for “for purposes of this section (without regard to the holding period of the stock)”.
+    Subsec. (e)(1). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(4), substituted “to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock” for “for purposes of this section (without regard to the holding period of the stock)”.
 
-    Subsec. (e)(2). [Pub. L. 100–647, § 1006(c)(5)][/us/pl/100/647/s1006/c/5], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in regulations, the term ‘extraordinary dividend’ shall not include any qualifying dividend (within the meaning of section 243(b)(1)).”
+    Subsec. (e)(2). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except as provided in regulations, the term ‘extraordinary dividend’ shall not include any qualifying dividend (within the meaning of section 243(b)(1)).”
 
-    Subsec. (e)(3)(A). [Pub. L. 100–647, § 1006(c)(6)][/us/pl/100/647/s1006/c/6], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A qualified preferred dividend shall be treated as an extraordinary dividend—
+    Subsec. (e)(3)(A). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(6), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A qualified preferred dividend shall be treated as an extraordinary dividend—
 
     “(i) only if the actual rate of return of the taxpayer on the stock with respect to which such dividend was paid exceeds 15 percent, or
 
     “(ii) if clause (i) does not apply, and the taxpayer disposes of such stock before the taxpayer has held such stock for more than 5 years, only to the extent the actual rate of return exceeds the stated rate of return.”
 
-    Subsec. (e)(3)(B). [Pub. L. 100–647, § 1006(c)(8)(A)][/us/pl/100/647/s1006/c/8/A], which directed the amendment of subpar. (B) “by striking out ‘subparagraph (A)’ and the material preceding clause (i) and inserting in lieu thereof ‘this paragraph’ ”, was executed by striking out “subparagraph (A)” in the material preceding clause (i) and inserting in lieu thereof “this paragraph”, to reflect the probable intent of Congress.
+    Subsec. (e)(3)(B). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(8)(A), which directed the amendment of subpar. (B) “by striking out ‘subparagraph (A)’ and the material preceding clause (i) and inserting in lieu thereof ‘this paragraph’ ”, was executed by striking out “subparagraph (A)” in the material preceding clause (i) and inserting in lieu thereof “this paragraph”, to reflect the probable intent of Congress.
 
-    Subsec. (e)(3)(B)(ii). [Pub. L. 100–647, § 1006(c)(8)(B)][/us/pl/100/647/s1006/c/8/B], substituted “clause (i)(II)” for “subparagraph (B)(i)(II)”.
+    Subsec. (e)(3)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(8)(B), substituted “clause (i)(II)” for “subparagraph (B)(i)(II)”.
 
-    Subsec. (e)(3)(C)(i). [Pub. L. 100–647, § 1006(c)(7)][/us/pl/100/647/s1006/c/7], inserted “fixed” before “dividend payable” in introductory provisions and inserted at end “Such term shall not include any dividend payable with respect to any share of stock if the actual rate of return on such stock exceeds 15 percent.”
+    Subsec. (e)(3)(C)(i). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(7), inserted “fixed” before “dividend payable” in introductory provisions and inserted at end “Such term shall not include any dividend payable with respect to any share of stock if the actual rate of return on such stock exceeds 15 percent.”
 
-    Subsec. (f). [Pub. L. 100–647, § 1006(c)(9)][/us/pl/100/647/s1006/c/9], inserted “and in the case of stock held by pass-thru entities” after “other similar transactions”.
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1006(c)(9), inserted “and in the case of stock held by pass-thru entities” after “other similar transactions”.
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 614(a)(1)][/us/pl/99/514/s614/a/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any corporation—
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 614(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If any corporation—
 
     “(1) receives an extraordinary dividend with respect to any share of stock, and
 
@@ -353,19 +353,19 @@
 
     the basis of such corporation in such stock shall be reduced by the nontaxed portion of such dividend. If the nontaxed portion of such dividend exceeds such basis, such excess shall be treated as gain from the sale or exchange of such stock.”
 
-    Subsec. (c)(1). [Pub. L. 99–514, § 614(c)(2)][/us/pl/99/514/s614/c/2], struck out “(determined without regard to this section)” after “such share of stock”.
+    Subsec. (c)(1). [Pub. L. 99–514][/us/pl/99/514], § 614(c)(2), struck out “(determined without regard to this section)” after “such share of stock”.
 
-    Subsec. (c)(4). [Pub. L. 99–514, § 614(b)][/us/pl/99/514/s614/b], added par. (4).
+    Subsec. (c)(4). [Pub. L. 99–514][/us/pl/99/514], § 614(b), added par. (4).
 
-    Subsec. (d)(1). [Pub. L. 99–514, § 614(c)(1)][/us/pl/99/514/s614/c/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any reduction in basis under subsection (a) by reason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution.”
+    Subsec. (d)(1). [Pub. L. 99–514][/us/pl/99/514], § 614(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any reduction in basis under subsection (a) by reason of any distribution which is an extraordinary dividend shall occur at the beginning of the ex-dividend date for such distribution.”
 
-    Subsec. (d)(3). [Pub. L. 99–514, § 614(a)(3)][/us/pl/99/514/s614/a/3], substituted “2 years” for “1 year”.
+    Subsec. (d)(3). [Pub. L. 99–514][/us/pl/99/514], § 614(a)(3), substituted “2 years” for “1 year”.
 
-    Subsec. (d)(6). [Pub. L. 99–514, § 614(a)(2)][/us/pl/99/514/s614/a/2], added par. (6).
+    Subsec. (d)(6). [Pub. L. 99–514][/us/pl/99/514], § 614(a)(2), added par. (6).
 
-    Subsec. (d)(7). [Pub. L. 99–514, § 614(d)][/us/pl/99/514/s614/d], added par. (7).
+    Subsec. (d)(7). [Pub. L. 99–514][/us/pl/99/514], § 614(d), added par. (7).
 
-    Subsecs. (e), (f). [Pub. L. 99–514, § 614(e)][/us/pl/99/514/s614/e], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 99–514][/us/pl/99/514], § 614(e), added subsec. (e) and redesignated former subsec. (e) as (f).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -379,7 +379,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1011(d)][/us/pl/105/34/s1011/d], Aug. 5, 1997, [111 Stat. 913][/us/stat/111/913], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1011(d), Aug. 5, 1997, [111 Stat. 913][/us/stat/111/913], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -401,7 +401,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7206(b)][/us/pl/101/239/s7206/b], Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that:
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7206(b), Dec. 19, 1989, [103 Stat. 2337][/us/stat/103/2337], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -417,7 +417,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VI, § 614(f)][/us/pl/99/514/s614/f], Oct. 22, 1986, [100 Stat. 2254][/us/stat/100/2254], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 614(f), Oct. 22, 1986, [100 Stat. 2254][/us/stat/100/2254], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -433,7 +433,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 53(e)][/us/pl/98/369/s53/e], July 18, 1984, [98 Stat. 568][/us/stat/98/568], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1804(b)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2798, provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 53(e), July 18, 1984, [98 Stat. 568][/us/stat/98/568], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, title XVIII, § 1804(b)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2798, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -472,52 +472,52 @@
 ----------
 ----------
 
-[/us/pl/98/369/s53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs53%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F565
-[/us/pl/99/514/s614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2251-2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2251-2253
-[/us/pl/100/647/s1006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3393
-[/us/pl/101/239/s7206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7206%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2336
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F912
-[/us/pl/105/206/s6010/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fb
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F813
-[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/usc/t26/s246/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs246%2Fc%2F3
-[/us/pl/105/34/s1015/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1015%2Fb%2F2
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F922
 [/us/usc/t26/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1061
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1011%2Fa
-[/us/pl/105/34/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1011%2Fc
-[/us/pl/105/34/s1604/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F1
-[/us/pl/105/34/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1011%2Fb
-[/us/pl/105/34/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1013%2Fb
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1006/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F2
-[/us/pl/100/647/s1006/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F1
-[/us/pl/100/647/s1006/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F3
-[/us/pl/100/647/s1006/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F1
-[/us/pl/100/647/s1006/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F1
-[/us/pl/100/647/s1006/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F4
-[/us/pl/100/647/s1006/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F5
-[/us/pl/100/647/s1006/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F6
-[/us/pl/100/647/s1006/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F8%2FA
-[/us/pl/100/647/s1006/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F8%2FB
-[/us/pl/100/647/s1006/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F7
-[/us/pl/100/647/s1006/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fc%2F9
-[/us/pl/99/514/s614/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fa%2F1
-[/us/pl/99/514/s614/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fc%2F2
-[/us/pl/99/514/s614/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fb
-[/us/pl/99/514/s614/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fc%2F1
-[/us/pl/99/514/s614/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fa%2F3
-[/us/pl/99/514/s614/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fa%2F2
-[/us/pl/99/514/s614/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fd
-[/us/pl/99/514/s614/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Fe
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -531,22 +531,22 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1011/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1011%2Fd
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F913
 [/us/pl/105/34/s1013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1013%2Fb
 [/us/pl/105/34/s1013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1013%2Fd
 [/us/usc/t26/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs304
-[/us/pl/101/239/s7206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7206%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2337
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s614/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs614%2Ff
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2254
-[/us/pl/98/369/s53/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs53%2Fe
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F568
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs246
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701

@@ -21,7 +21,7 @@
 
     (2) in the case of a generation-skipping transfer occurring at the same time as and as a result of the death of an individual, all provisions of subtitle F (including penalties) applicable to the estate tax, to chapter 11, or to section 2001 are hereby made applicable in respect of the generation-skipping transfer tax, this chapter, or section 2601 (as the case may be).
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2728][/us/stat/100/2728].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2728][/us/stat/100/2728].)
 
  __Effective Date__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2728
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433

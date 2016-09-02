@@ -57,11 +57,11 @@
 
         For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.
 
-(Added [Pub. L. 93–406, title II, § 1031(a)][/us/pl/93/406/s1031/a], Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title I, § 157(k)(1)][/us/pl/95/600/s157/k/1], Nov. 6, 1978, [92 Stat. 2809][/us/stat/92/2809]; [Pub. L. 98–369, div. A, title IV, § 491(d)(48)][/us/pl/98/369/s491/d/48], July 18, 1984, [98 Stat. 852][/us/stat/98/852]; [Pub. L. 99–514, title XV, § 1501(d)(1)(D)][/us/pl/99/514/s1501/d/1/D], Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740].)
+(Added [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1031(a), Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title I][/us/pl/95/600/tI], § 157(k)(1), Nov. 6, 1978, [92 Stat. 2809][/us/stat/92/2809]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(d)(48), July 18, 1984, [98 Stat. 852][/us/stat/98/852]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(d)(1)(D), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740].)
 
  __References in Text__ 
 
-    Section 408(f), referred to in subsec. (e)(1), was repealed by [Pub. L. 99–514, title XI, § 1123(d)(2)][/us/pl/99/514/s1123/d/2], Oct. 22, 1986, [100 Stat. 2475][/us/stat/100/2475].
+    Section 408(f), referred to in subsec. (e)(1), was repealed by [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1123(d)(2), Oct. 22, 1986, [100 Stat. 2475][/us/stat/100/2475].
 
     Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to [section 1204 of Title 29][/us/usc/t29/s1204], Labor.
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title I, § 157(k)(3)][/us/pl/95/600/s157/k/3], Nov. 6, 1978, [92 Stat. 2809][/us/stat/92/2809], provided that: 
+[Pub. L. 95–600, title I][/us/pl/95/600/tI], § 157(k)(3), Nov. 6, 1978, [92 Stat. 2809][/us/stat/92/2809], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply to returns for taxable years beginning after December 31, 1977. The amendment made by paragraph (2) \[amending [section 7701 of this title][/us/usc/t26/s7701]\] shall apply to taxable years beginning after December 31, 1974.”
 
@@ -97,7 +97,7 @@
 
  __Reporting Simplification__ 
 
-[Pub. L. 109–280, title XI, § 1103][/us/pl/109/280/s1103], Aug. 17, 2006, [120 Stat. 1057][/us/stat/120/1057], provided that:
+[Pub. L. 109–280, title XI][/us/pl/109/280/tXI], § 1103, Aug. 17, 2006, [120 Stat. 1057][/us/stat/120/1057], provided that:
 
 >     “(a) __Simplified Annual Filing Requirement for Owners and Their Spouses.—__ 
 
@@ -146,17 +146,17 @@
 ----------
 ----------
 
-[/us/pl/93/406/s1031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1031%2Fa
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F945
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s157/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs157%2Fk%2F1
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2809
-[/us/pl/98/369/s491/d/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fd%2F48
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F852
-[/us/pl/99/514/s1501/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fd%2F1%2FD
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
-[/us/pl/99/514/s1123/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1123%2Fd%2F2
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2475
 [/us/usc/t29/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1204
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -170,12 +170,12 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s491/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Ff%2F1
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/95/600/s157/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs157%2Fk%2F3
+[/us/pl/95/600/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtI
 [/us/stat/92/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2809
 [/us/usc/t26/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701
 [/us/pl/93/406/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1034
 [/us/usc/t26/s6057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6057
-[/us/pl/109/280/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1103
+[/us/pl/109/280/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXI
 [/us/stat/120/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1057
 
 

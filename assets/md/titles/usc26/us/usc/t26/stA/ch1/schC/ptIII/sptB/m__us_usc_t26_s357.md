@@ -99,7 +99,7 @@
 
             The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 116][/us/stat/68A/116]; [June 29, 1956, ch. 463, § 2][/us/act/1956-06-29/ch463/s2], [70 Stat. 403][/us/stat/70/403]; [Pub. L. 95–600, title III, § 365(a)][/us/pl/95/600/s365/a], Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854]; [Pub. L. 96–222, title I, § 103(a)(12)][/us/pl/96/222/s103/a/12], Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 96–589, § 4(h)(2)][/us/pl/96/589/s4/h/2], Dec. 24, 1980, [94 Stat. 3405][/us/stat/94/3405]; [Pub. L. 101–508, title XI, § 11801(c)(8)(F)][/us/pl/101/508/s11801/c/8/F], Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524]; [Pub. L. 106–36, title III, § 3001(a)(1)][/us/pl/106/36/s3001/a/1], (b)(1), (d)(2)–(5), June 25, 1999, [113 Stat. 181–184][/us/stat/113/181-184]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 309(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–638; [Pub. L. 108–357, title VIII, § 898(b)][/us/pl/108/357/s898/b], Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV, § 403(jj)(2)][/us/pl/109/135/s403/jj/2], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 116][/us/stat/68A/116]; [June 29, 1956, ch. 463][/us/act/1956-06-29/ch463], § 2, [70 Stat. 403][/us/stat/70/403]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 365(a), Nov. 6, 1978, [92 Stat. 2854][/us/stat/92/2854]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(12), Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 96–589][/us/pl/96/589], § 4(h)(2), Dec. 24, 1980, [94 Stat. 3405][/us/stat/94/3405]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(8)(F), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524]; [Pub. L. 106–36, title III][/us/pl/106/36/tIII], § 3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, [113 Stat. 181–184][/us/stat/113/181-184]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 309(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–638; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 898(b), Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(jj)(2), Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
 
  __Amendments__ 
 
@@ -109,21 +109,21 @@
 
     2000—Subsec. (d)(1). [Pub. L. 106–554][/us/pl/106/554] inserted “section 358(h),” after “section 358(d),” in introductory provisions.
 
-    1999—Subsec. (a). [Pub. L. 106–36, § 3001(d)(2)][/us/pl/106/36/s3001/d/2], struck out “or acquisition” after “assumption” in concluding provisions.
+    1999—Subsec. (a). [Pub. L. 106–36][/us/pl/106/36], § 3001(d)(2), struck out “or acquisition” after “assumption” in concluding provisions.
 
-    Subsec. (a)(2). [Pub. L. 106–36, § 3001(a)(1)][/us/pl/106/36/s3001/a/1], struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
+    Subsec. (a)(2). [Pub. L. 106–36][/us/pl/106/36], § 3001(a)(1), struck out “, or acquires from the taxpayer property subject to a liability” before comma at end.
 
-    Subsec. (b). [Pub. L. 106–36, § 3001(d)(2)][/us/pl/106/36/s3001/d/2], (3), struck out “or acquisition” after “assumption” wherever appearing and struck out “or acquired” after “liability assumed” in concluding provisions of par. (1).
+    Subsec. (b). [Pub. L. 106–36][/us/pl/106/36], § 3001(d)(2), (3), struck out “or acquisition” after “assumption” wherever appearing and struck out “or acquired” after “liability assumed” in concluding provisions of par. (1).
 
-    Subsec. (c)(1). [Pub. L. 106–36, § 3001(d)(4)][/us/pl/106/36/s3001/d/4], struck out “, plus the amount of the liabilities to which the property is subject,” after “liabilities assumed” in concluding provisions.
+    Subsec. (c)(1). [Pub. L. 106–36][/us/pl/106/36], § 3001(d)(4), struck out “, plus the amount of the liabilities to which the property is subject,” after “liabilities assumed” in concluding provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 106–36, § 3001(d)(5)][/us/pl/106/36/s3001/d/5], struck out “or to which the property transferred is subject” after “liabilities assumed” in concluding provisions.
+    Subsec. (c)(3)(A). [Pub. L. 106–36][/us/pl/106/36], § 3001(d)(5), struck out “or to which the property transferred is subject” after “liabilities assumed” in concluding provisions.
 
-    Subsec. (d). [Pub. L. 106–36, § 3001(b)(1)][/us/pl/106/36/s3001/b/1], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–36][/us/pl/106/36], § 3001(b)(1), added subsec. (d).
 
-    1990—Subsecs. (a), (b)(1). [Pub. L. 101–508, § 11801(c)(8)(F)(i)][/us/pl/101/508/s11801/c/8/F/i], substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
+    1990—Subsecs. (a), (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(8)(F)(i), substituted “351 or 361” for “351, 361, 371, or 374” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 101–508, § 11801(c)(8)(F)(ii)][/us/pl/101/508/s11801/c/8/F/ii], inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “to which section 371 or 374 applies, or”.
+    Subsec. (c)(2). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(8)(F)(ii), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “to which section 371 or 374 applies, or”.
 
     1980—Subsec. (c)(2)(C). [Pub. L. 96–589][/us/pl/96/589] added subpar. (C).
 
@@ -143,7 +143,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 898(c)][/us/pl/108/357/s898/c], Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 898(c), Oct. 22, 2004, [118 Stat. 1649][/us/stat/118/1649], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 361 of this title][/us/usc/t26/s361]\] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title III, § 365(c)][/us/pl/95/600/s365/c], Nov. 6, 1978, [92 Stat. 2855][/us/stat/92/2855], provided that: 
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 365(c), Nov. 6, 1978, [92 Stat. 2855][/us/stat/92/2855], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 358 of this title][/us/usc/t26/s358]\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
@@ -180,35 +180,35 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F116
-[/us/act/1956-06-29/ch463/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch463%2Fs2
+[/us/act/1956-06-29/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch463
 [/us/stat/70/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F403
-[/us/pl/95/600/s365/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs365%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2854
-[/us/pl/96/222/s103/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F12
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F213
-[/us/pl/96/589/s4/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs4%2Fh%2F2
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3405
-[/us/pl/101/508/s11801/c/8/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F8%2FF
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-524
-[/us/pl/106/36/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fa%2F1
+[/us/pl/106/36/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2FtIII
 [/us/stat/113/181-184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F181-184
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/357/s898/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs898%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1649
-[/us/pl/109/135/s403/jj/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fjj%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/36/s3001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fd%2F2
-[/us/pl/106/36/s3001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fa%2F1
-[/us/pl/106/36/s3001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fd%2F2
-[/us/pl/106/36/s3001/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fd%2F4
-[/us/pl/106/36/s3001/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fd%2F5
-[/us/pl/106/36/s3001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36%2Fs3001%2Fb%2F1
-[/us/pl/101/508/s11801/c/8/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F8%2FF%2Fi
-[/us/pl/101/508/s11801/c/8/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F8%2FF%2Fii
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
@@ -216,7 +216,7 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s898/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs898%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1649
 [/us/usc/t26/s361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs361
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
@@ -232,7 +232,7 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/95/600/s365/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs365%2Fc
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2855
 [/us/usc/t26/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs358
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

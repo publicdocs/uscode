@@ -265,7 +265,7 @@
 
         This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added [Pub. L. 89–809, title I, § 103(f)(1)][/us/pl/89/809/s103/f/1], Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551]; amended [Pub. L. 93–406, title II, § 2005(c)(8)][/us/pl/93/406/s2005/c/8], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV, § 421(e)(5)][/us/pl/95/600/s421/e/5], Nov. 6, 1978, [92 Stat. 2876][/us/stat/92/2876]; [Pub. L. 96–222, title I, § 104(a)(1)][/us/pl/96/222/s104/a/1], (4)(H)(v), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 217; [Pub. L. 99–514, title XII, § 1243(a)][/us/pl/99/514/s1243/a], Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580]; [Pub. L. 102–318, title V, § 521(b)(31)][/us/pl/102/318/s521/b/31], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I, § 1401(b)(11)][/us/pl/104/188/s1401/b/11], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]; [Pub. L. 104–191, title V, § 511(a)][/us/pl/104/191/s511/a]–(d), (f)(1), Aug. 21, 1996, [110 Stat. 2093–2098][/us/stat/110/2093-2098]; [Pub. L. 105–34, title XVI, § 1602(g)(1)][/us/pl/105/34/s1602/g/1]–(4), (h)(3), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], 1096; [Pub. L. 108–357, title VIII, § 804(a)(1)][/us/pl/108/357/s804/a/1], (2), (c), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], 1570; [Pub. L. 109–135, title IV, § 403(v)(1)][/us/pl/109/135/s403/v/1], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 110–245, title III, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], (d), June 17, 2008, [122 Stat. 1646][/us/stat/122/1646]; [Pub. L. 113–295, div. A, title II, § 213(c)(2)][/us/pl/113/295/s213/c/2], Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034].)
+(Added [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 103(f)(1), Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551]; amended [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 2005(c)(8), Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV][/us/pl/95/600/tIV], § 421(e)(5), Nov. 6, 1978, [92 Stat. 2876][/us/stat/92/2876]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 104(a)(1), (4)(H)(v), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 217; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1243(a), Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580]; [Pub. L. 102–318, title V][/us/pl/102/318/tV], § 521(b)(31), July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1401(b)(11), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]; [Pub. L. 104–191, title V][/us/pl/104/191/tV], § 511(a)–(d), (f)(1), Aug. 21, 1996, [110 Stat. 2093–2098][/us/stat/110/2093-2098]; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(g)(1)–(4), (h)(3), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], 1096; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 804(a)(1), (2), (c), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], 1570; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(v)(1), Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 301(c)(2)(A), (d), June 17, 2008, [122 Stat. 1646][/us/stat/122/1646]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 213(c)(2), Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -283,7 +283,7 @@
 
     2014—Subsec. (e)(2). [Pub. L. 113–295][/us/pl/113/295] struck out “subparagraph (A) or (B) of” after “event described in”.
 
-    2008—Subsec. (e)(1). [Pub. L. 110–245, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
+    2008—Subsec. (e)(1). [Pub. L. 110–245][/us/pl/110/245], § 301(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
 
     “(A) ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)), or
 
@@ -291,45 +291,45 @@
 
     shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.”
 
-    Subsec. (h). [Pub. L. 110–245, § 301(d)][/us/pl/110/245/s301/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–245][/us/pl/110/245], § 301(d), added subsec. (h).
 
     2005—Subsec. (g)(2)(C). [Pub. L. 109–135][/us/pl/109/135] substituted “section 7701(b)(3)(D)” for “section 7701(b)(3)(D)(ii)”.
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 804(a)(1)][/us/pl/108/357/s804/a/1], reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) stated general rule on taxation of nonresident alien individuals who lost United States citizenship and provided that an individual would be treated as having a tax avoidance purpose if the average annual net income tax was greater than $100,000 or the net worth of the individual was $500,000 or more.
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 804(a)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) stated general rule on taxation of nonresident alien individuals who lost United States citizenship and provided that an individual would be treated as having a tax avoidance purpose if the average annual net income tax was greater than $100,000 or the net worth of the individual was $500,000 or more.
 
-    Subsec. (c). [Pub. L. 108–357, § 804(a)(2)][/us/pl/108/357/s804/a/2], amended heading and text of subsec. (c) generally, substituting provisions setting forth exceptions for dual citizens and certain minors for provisions relating to inapplicability of presumption of tax avoidance to dual citizens, long-term foreign residents, minors who renounced citizenship upon reaching age of majority, and individuals specified in regulations.
+    Subsec. (c). [Pub. L. 108–357][/us/pl/108/357], § 804(a)(2), amended heading and text of subsec. (c) generally, substituting provisions setting forth exceptions for dual citizens and certain minors for provisions relating to inapplicability of presumption of tax avoidance to dual citizens, long-term foreign residents, minors who renounced citizenship upon reaching age of majority, and individuals specified in regulations.
 
-    Subsec. (g). [Pub. L. 108–357, § 804(c)][/us/pl/108/357/s804/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–357][/us/pl/108/357], § 804(c), added subsec. (g).
 
-    1997—Subsec. (d)(2)(B). [Pub. L. 105–34, § 1602(g)(1)][/us/pl/105/34/s1602/g/1], substituted “the 10-year period beginning on the date the individual loses United States citizenship” for “the 10-year period described in subsection (a)” in introductory provisions.
+    1997—Subsec. (d)(2)(B). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(1), substituted “the 10-year period beginning on the date the individual loses United States citizenship” for “the 10-year period described in subsection (a)” in introductory provisions.
 
-    Subsec. (d)(2)(D). [Pub. L. 105–34, § 1602(g)(2)][/us/pl/105/34/s1602/g/2], inserted at end “In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.”
+    Subsec. (d)(2)(D). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(2), inserted at end “In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.”
 
-    Subsec. (d)(3). [Pub. L. 105–34, § 1602(g)(3)][/us/pl/105/34/s1602/g/3], inserted “and the period applicable under paragraph (2)” after “subsection (a)” in introductory provisions.
+    Subsec. (d)(3). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(3), inserted “and the period applicable under paragraph (2)” after “subsection (a)” in introductory provisions.
 
-    Subsec. (d)(4)(A). [Pub. L. 105–34, § 1602(g)(4)(C)][/us/pl/105/34/s1602/g/4/C], struck out “during the 10-year period referred to in subsection (a),” before “any income or gain” in concluding provisions.
+    Subsec. (d)(4)(A). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(4)(C), struck out “during the 10-year period referred to in subsection (a),” before “any income or gain” in concluding provisions.
 
-    Subsec. (d)(4)(A)(i). [Pub. L. 105–34, § 1602(g)(4)(A)][/us/pl/105/34/s1602/g/4/A], inserted “during the 10-year period beginning on the date the individual loses United States citizenship” after “contributes property”.
+    Subsec. (d)(4)(A)(i). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(4)(A), inserted “during the 10-year period beginning on the date the individual loses United States citizenship” after “contributes property”.
 
-    Subsec. (d)(4)(A)(ii). [Pub. L. 105–34, § 1602(g)(4)(B)][/us/pl/105/34/s1602/g/4/B], inserted “immediately before such contribution” after “from such property”.
+    Subsec. (d)(4)(A)(ii). [Pub. L. 105–34][/us/pl/105/34], § 1602(g)(4)(B), inserted “immediately before such contribution” after “from such property”.
 
-    Subsec. (e)(1). [Pub. L. 105–34, § 1602(h)(3)][/us/pl/105/34/s1602/h/3], substituted “6039G” for “6039F” in concluding provisions.
+    Subsec. (e)(1). [Pub. L. 105–34][/us/pl/105/34], § 1602(h)(3), substituted “6039G” for “6039F” in concluding provisions.
 
-    1996—Subsec. (a). [Pub. L. 104–191, § 511(a)][/us/pl/104/191/s511/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+    1996—Subsec. (a). [Pub. L. 104–191][/us/pl/104/191], § 511(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
     “(a) In General.—Every nonresident alien individual who at any time after March 8, 1965, and within the 10-year period immediately preceding the close of the taxable year lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B, shall be taxable for such taxable year in the manner provided in subsection (b) if the tax imposed pursuant to such subsection exceeds the tax which, without regard to this section, is imposed pursuant to section 871.”
 
-    Subsec. (a)(1). [Pub. L. 104–191, § 511(d)(2)][/us/pl/104/191/s511/d/2], inserted “(after any reduction in such tax under the last sentence of such subsection)” after “such subsection”.
+    Subsec. (a)(1). [Pub. L. 104–191][/us/pl/104/191], § 511(d)(2), inserted “(after any reduction in such tax under the last sentence of such subsection)” after “such subsection”.
 
-    Subsec. (b). [Pub. L. 104–191, § 511(d)(1)][/us/pl/104/191/s511/d/1], inserted at end “The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.”
+    Subsec. (b). [Pub. L. 104–191][/us/pl/104/191], § 511(d)(1), inserted at end “The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.”
 
     [Pub. L. 104–188][/us/pl/104/188] substituted “section 1 or 55” for “section 1, 55, or 402(d)(1)”.
 
-    Subsec. (b)(1). [Pub. L. 104–191, § 511(b)(2)][/us/pl/104/191/s511/b/2], substituted “subsection (d)” for “subsection (c)”.
+    Subsec. (b)(1). [Pub. L. 104–191][/us/pl/104/191], § 511(b)(2), substituted “subsection (d)” for “subsection (c)”.
 
-    Subsec. (c). [Pub. L. 104–191, § 511(b)(1)][/us/pl/104/191/s511/b/1], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 104–191][/us/pl/104/191], § 511(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 104–191, § 511(c)][/us/pl/104/191/s511/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    Subsec. (d). [Pub. L. 104–191][/us/pl/104/191], § 511(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(d) Special Rules of Source.—For purposes of subsection (b), the following items of gross income shall be treated as income from sources within the United States:
 
@@ -339,11 +339,11 @@
 
     For purposes of this section, gain on the sale or exchange of property which has a basis determined in whole or in part by reference to property described in paragraph (1) or (2) shall be treated as gain described in paragraph (1) or (2).”
 
-    [Pub. L. 104–191, § 511(b)(1)][/us/pl/104/191/s511/b/1], redesignated subsec. (c) as (d) and struck out former subsec. (d) which read as follows:
+    [Pub. L. 104–191][/us/pl/104/191], § 511(b)(1), redesignated subsec. (c) as (d) and struck out former subsec. (d) which read as follows:
 
     “(d) Exception for Loss of Citizenship for Certain Causes.—Subsection (a) shall not apply to a nonresident alien individual whose loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended ([8 U.S.C. 1401(b)][/us/usc/t8/s1401/b], 1482, or 1487).”
 
-    Subsecs. (e), (f). [Pub. L. 104–191, § 511(f)(1)][/us/pl/104/191/s511/f/1], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 104–191][/us/pl/104/191], § 511(f)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
     1992—Subsec. (b). [Pub. L. 102–318][/us/pl/102/318] substituted “402(d)(1)” for “402(e)(1)”.
 
@@ -371,7 +371,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 804(f)][/us/pl/108/357/s804/f], Oct. 22, 2004, [118 Stat. 1573][/us/stat/118/1573], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 804(f), Oct. 22, 2004, [118 Stat. 1573][/us/stat/118/1573], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2107, 2501, 6039G, and 7701 of this title\] shall apply to individuals who expatriate after June 3, 2004.”
 
@@ -381,7 +381,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–191, title V, § 511(g)][/us/pl/104/191/s511/g], Aug. 21, 1996, [110 Stat. 2100][/us/stat/110/2100], provided that:
+[Pub. L. 104–191, title V][/us/pl/104/191/tV], § 511(g), Aug. 21, 1996, [110 Stat. 2100][/us/stat/110/2100], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -413,7 +413,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XII, § 1243(b)][/us/pl/99/514/s1243/b], Oct. 22, 1986, [100 Stat. 2581][/us/stat/100/2581], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1243(b), Oct. 22, 1986, [100 Stat. 2581][/us/stat/100/2581], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges of property received in exchanges after September 25, 1985.”
 
@@ -448,61 +448,61 @@
 ----------
 ----------
 
-[/us/pl/89/809/s103/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs103%2Ff%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1551
-[/us/pl/93/406/s2005/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2005%2Fc%2F8
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F992
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s421/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs421%2Fe%2F5
+[/us/pl/95/600/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIV
 [/us/stat/92/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2876
-[/us/pl/96/222/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs104%2Fa%2F1
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F214
-[/us/pl/99/514/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1243%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2580
-[/us/pl/102/318/s521/b/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fb%2F31
+[/us/pl/102/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtV
 [/us/stat/106/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F312
-[/us/pl/104/188/s1401/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1401%2Fb%2F11
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1789
-[/us/pl/104/191/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fa
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2093-2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2093-2098
-[/us/pl/105/34/s1602/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F1
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1095
-[/us/pl/108/357/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fa%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1569
-[/us/pl/109/135/s403/v/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fv%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2628
-[/us/pl/110/245/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fc%2F2%2FA
+[/us/pl/110/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIII
 [/us/stat/122/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1646
-[/us/pl/113/295/s213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fc%2F2
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4034
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/usc/t26/s878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs878
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/110/245/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fc%2F2%2FA
-[/us/pl/110/245/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fd
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/108/357/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fa%2F1
-[/us/pl/108/357/s804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fa%2F2
-[/us/pl/108/357/s804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Fc
-[/us/pl/105/34/s1602/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F1
-[/us/pl/105/34/s1602/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F2
-[/us/pl/105/34/s1602/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F3
-[/us/pl/105/34/s1602/g/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F4%2FC
-[/us/pl/105/34/s1602/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F4%2FA
-[/us/pl/105/34/s1602/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fg%2F4%2FB
-[/us/pl/105/34/s1602/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fh%2F3
-[/us/pl/104/191/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fa
-[/us/pl/104/191/s511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fd%2F2
-[/us/pl/104/191/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fd%2F1
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/104/191/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fb%2F2
-[/us/pl/104/191/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fb%2F1
-[/us/pl/104/191/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fc
-[/us/pl/104/191/s511/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fb%2F1
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t8/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1401%2Fb
-[/us/pl/104/191/s511/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Ff%2F1
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
@@ -520,13 +520,13 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s804/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs804%2Ff
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1573
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/105/34/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fi
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/104/191/s511/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs511%2Fg
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2100
 [/us/usc/t8/s1481/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1481%2Fa%2F1
 [/us/usc/t26/s6039F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6039F
@@ -536,7 +536,7 @@
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
 [/us/pl/102/318/s521/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs521%2Fe
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402
-[/us/pl/99/514/s1243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1243%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2581
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

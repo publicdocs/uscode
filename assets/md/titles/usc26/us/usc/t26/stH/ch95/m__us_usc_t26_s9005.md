@@ -23,17 +23,17 @@
 
         Initial certifications by the Commission under subsection (a), and all determinations made by it under this chapter, shall be final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9007 and judicial review under section 9011.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 566][/us/stat/85/566]; amended [Pub. L. 93–443, title IV][/us/pl/93/443], §§ 404(c)(6), (7), 405(a), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1293; [Pub. L. 94–455, title XIX, § 1906(b)(13)(C)][/us/pl/94/455/s1906/b/13/C], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 566][/us/stat/85/566]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], §§ 404(c)(6), (7), 405(a), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1293; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] substituted “Secretary of the Treasury” for “Secretary”.
 
-    1974—[Pub. L. 93–443, § 404(c)(6)][/us/pl/93/443/s404/c/6], substituted “Commission” for “Comptroller General” in section catchline.
+    1974—[Pub. L. 93–443][/us/pl/93/443], § 404(c)(6), substituted “Commission” for “Comptroller General” in section catchline.
 
-    Subsec. (a). [Pub. L. 93–443, § 405(a)][/us/pl/93/443/s405/a], substituted provision for certification by the Commission not later than 10 days after the candidates of a political party for President and Vice President have met all applicable conditions for eligibility to receive payments under this chapter set forth in [section 9003 of this title][/us/usc/t26/s9003] for prior provision for certification by the Comptroller General on the basis of the evidence, books, records, and information furnished by the eligible candidates of a political party and prior to examination and audit under [section 9007 of this title][/us/usc/t26/s9007].
+    Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], § 405(a), substituted provision for certification by the Commission not later than 10 days after the candidates of a political party for President and Vice President have met all applicable conditions for eligibility to receive payments under this chapter set forth in [section 9003 of this title][/us/usc/t26/s9003] for prior provision for certification by the Comptroller General on the basis of the evidence, books, records, and information furnished by the eligible candidates of a political party and prior to examination and audit under [section 9007 of this title][/us/usc/t26/s9007].
 
-    Subsec. (b). [Pub. L. 93–443, § 404(c)(7)][/us/pl/93/443/s404/c/7], substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
+    Subsec. (b). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(7), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -46,18 +46,18 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F566
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1292
-[/us/pl/94/455/s1906/b/13/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/93/443/s404/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F6
-[/us/pl/93/443/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs405%2Fa
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/usc/t26/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9003
 [/us/usc/t26/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9007
-[/us/pl/93/443/s404/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F7
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

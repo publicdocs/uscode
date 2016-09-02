@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s465.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s467.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs466)
 
-## \[§ 466. Repealed. [Pub. L. 99–514, title VIII, § 823(a)][/us/pl/99/514/s823/a], Oct. 22, 1986, [100 Stat. 2373][/us/stat/100/2373]\]
+## \[§ 466. Repealed. [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 823(a), Oct. 22, 1986, [100 Stat. 2373][/us/stat/100/2373]\]
 
-    Section, added [Pub. L. 95–600, title III, § 373(a)][/us/pl/95/600/s373/a], Nov. 6, 1978, [92 Stat. 2863][/us/stat/92/2863]; amended [Pub. L. 96–222, title I, § 103(a)(16)][/us/pl/96/222/s103/a/16], Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], related to qualified discount coupons redeemed after close of taxable year.
+    Section, added [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 373(a), Nov. 6, 1978, [92 Stat. 2863][/us/stat/92/2863]; amended [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(16), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], related to qualified discount coupons redeemed after close of taxable year.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 99–514, title VIII, § 823(c)][/us/pl/99/514/s823/c], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], provided:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 823(c), Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374], provided:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/99/514/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs823%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2373
-[/us/pl/95/600/s373/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs373%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2863
-[/us/pl/96/222/s103/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F16
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F214
-[/us/pl/99/514/s823/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs823%2Fc
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2374
 [/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
 

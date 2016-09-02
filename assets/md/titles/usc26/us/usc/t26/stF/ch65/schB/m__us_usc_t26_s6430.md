@@ -23,11 +23,11 @@
 
     (3) with respect to which the rate increase under section 4081(a)(2)(B) is zero by reason of section 4082(e)(2).
 
-(Added [Pub. L. 109–58, title XIII, § 1362(b)(3)(A)][/us/pl/109/58/s1362/b/3/A], Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; amended [Pub. L. 110–172, § 6(d)(2)(D)][/us/pl/110/172/s6/d/2/D], Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1362(b)(3)(A), Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; amended [Pub. L. 110–172][/us/pl/110/172], § 6(d)(2)(D), Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481].)
 
  __Prior Provisions__ 
 
-    A prior section 6430, added [Pub. L. 97–448, title I, § 106(a)(4)(A)][/us/pl/97/448/s106/a/4/A], Jan. 12, 1983, [96 Stat. 2388][/us/stat/96/2388], related to credit or refund of windfall profit taxes to certain trust beneficiaries, prior to repeal by [Pub. L. 100–418, title I, § 1941(b)(1)][/us/pl/100/418/s1941/b/1], (c), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323], 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+    A prior section 6430, added [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 106(a)(4)(A), Jan. 12, 1983, [96 Stat. 2388][/us/stat/96/2388], related to credit or refund of windfall profit taxes to certain trust beneficiaries, prior to repeal by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(b)(1), (c), Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323], 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Refund Authorized for Certain Taxes__ 
 
-[Pub. L. 110–172, § 6(d)(1)(C)][/us/pl/110/172/s6/d/1/C], Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480], provided that: 
+[Pub. L. 110–172][/us/pl/110/172], § 6(d)(1)(C), Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480], provided that: 
 
 > “Notwithstanding section 6430 of the Internal Revenue Code of 1986, a refund, credit, or payment may be made under subchapter B of chapter 65 of such Code for taxes imposed with respect to any liquid after September 30, 2005, and before the date of the enactment of this Act \[Dec. 29, 2007\] under section 4041(d)(1) or 4042 of such Code at the Leaking Underground Storage Tank Trust Fund financing rate to the extent that tax was imposed with respect to such liquid under section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate.”
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1362/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1362%2Fb%2F3%2FA
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1059
-[/us/pl/110/172/s6/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fd%2F2%2FD
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2481
-[/us/pl/97/448/s106/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs106%2Fa%2F4%2FA
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2388
-[/us/pl/100/418/s1941/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fb%2F1
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1323
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
@@ -69,7 +69,7 @@
 [/us/usc/t26/s30C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30C
 [/us/pl/109/58/s1362/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1362%2Fd
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/110/172/s6/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fd%2F1%2FC
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2480
 
 

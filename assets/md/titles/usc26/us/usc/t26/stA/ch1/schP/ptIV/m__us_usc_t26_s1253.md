@@ -81,7 +81,7 @@
 
             For purposes of determining the term of a transfer agreement under this section, there shall be taken into account all renewal options (and any other period for which the parties reasonably expect the agreement to be renewed).
 
-(Added [Pub. L. 91–172, title V, § 516(c)(1)][/us/pl/91/172/s516/c/1], Dec. 30, 1969, [83 Stat. 647][/us/stat/83/647]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–239, title VII, § 7622(a)][/us/pl/101/239/s7622/a]–(c), Dec. 19, 1989, [103 Stat. 2377][/us/stat/103/2377]; [Pub. L. 101–508, title XI, § 11701(i)][/us/pl/101/508/s11701/i], Nov. 5, 1990, [104 Stat. 1388–508][/us/stat/104/1388-508]; [Pub. L. 103–66, title XIII, § 13261(c)][/us/pl/103/66/s13261/c], Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–188, title I, § 1704(t)(47)][/us/pl/104/188/s1704/t/47], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title VIII, § 886(b)(3)][/us/pl/108/357/s886/b/3], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641].)
+(Added [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 516(c)(1), Dec. 30, 1969, [83 Stat. 647][/us/stat/83/647]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7622(a)–(c), Dec. 19, 1989, [103 Stat. 2377][/us/stat/103/2377]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11701(i), Nov. 5, 1990, [104 Stat. 1388–508][/us/stat/104/1388-508]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13261(c), Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(47), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 886(b)(3), Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641].)
 
  __Amendments__ 
 
@@ -91,13 +91,13 @@
 
     1993—Subsec. (d)(2) to (5). [Pub. L. 103–66][/us/pl/103/66] added pars. (2) and (3) and struck out former pars. (2) relating to deduction of certain payments for transfer of a franchise, trademark, or trade name not treated as sale or exchange of capital asset, (3) relating to treatment of amounts paid or incurred on account of transfer, sale, or other disposition of a franchise, trademark, or trade name to which pars. (1) and (2) did not apply, (4) relating to renewals for purposes of determining term of transfer agreement under this section or period of amortization under this subtitle, and (5) relating to rules applicable to this subsection.
 
-    1990—Subsec. (d)(4). [Pub. L. 101–508, § 11701(i)][/us/pl/101/508/s11701/i], which directed the substitution of “under this section or any period of amortization under this subtitle for any payment described in this section” for “or any period of amortization under this section”, was executed by making the substitution for “or any period of amortization under this subsection”. See 1996 Amendment note above.
+    1990—Subsec. (d)(4). [Pub. L. 101–508][/us/pl/101/508], § 11701(i), which directed the substitution of “under this section or any period of amortization under this subtitle for any payment described in this section” for “or any period of amortization under this section”, was executed by making the substitution for “or any period of amortization under this subsection”. See 1996 Amendment note above.
 
-    1989—Subsec. (d)(1). [Pub. L. 101–239, § 7622(a)][/us/pl/101/239/s7622/a], substituted “serial payments” for “payments” in heading and amended text generally. Prior to amendment, text read as follows: “Amounts paid or incurred during the taxable year on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be allowed as a deduction under section 162(a) (relating to trade or business expenses).”
+    1989—Subsec. (d)(1). [Pub. L. 101–239][/us/pl/101/239], § 7622(a), substituted “serial payments” for “payments” in heading and amended text generally. Prior to amendment, text read as follows: “Amounts paid or incurred during the taxable year on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be allowed as a deduction under section 162(a) (relating to trade or business expenses).”
 
-    Subsec. (d)(2). [Pub. L. 101–239, § 7622(b)][/us/pl/101/239/s7622/b], designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
+    Subsec. (d)(2). [Pub. L. 101–239][/us/pl/101/239], § 7622(b), designated existing provisions as subpar. (A), inserted subpar. heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
 
-    Subsec. (d)(3) to (5). [Pub. L. 101–239, § 7622(c)][/us/pl/101/239/s7622/c], added pars. (3) to (5).
+    Subsec. (d)(3) to (5). [Pub. L. 101–239][/us/pl/101/239], § 7622(c), added pars. (3) to (5).
 
     1976—Subsec. (d)(2)(C). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
+    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], to which such amendment relates, see [section 11701(n) of Pub. L. 101–508][/us/pl/101/508/s11701/n], set out as a note under [section 42 of this title][/us/usc/t26/s42].
 
  __Effective Date of 1989 Amendment__ 
 
@@ -128,28 +128,28 @@
 ----------
 ----------
 
-[/us/pl/91/172/s516/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs516%2Fc%2F1
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F647
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/101/239/s7622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7622%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2377
-[/us/pl/101/508/s11701/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fi
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-508
-[/us/pl/103/66/s13261/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fc
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F539
-[/us/pl/104/188/s1704/t/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F47
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
-[/us/pl/108/357/s886/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fb%2F3
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1641
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/508/s11701/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fi
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/101/508/s11701/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fi
-[/us/pl/101/239/s7622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7622%2Fa
-[/us/pl/101/239/s7622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7622%2Fb
-[/us/pl/101/239/s7622/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7622%2Fc
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s886/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fc%2F1
@@ -158,7 +158,7 @@
 [/us/pl/103/66/s13261/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fg
 [/us/usc/t26/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs197
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/pl/101/508/s11701/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fn
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

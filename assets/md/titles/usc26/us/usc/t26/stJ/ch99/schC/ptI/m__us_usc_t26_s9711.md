@@ -101,7 +101,7 @@
 
             If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3051][/us/stat/106/3051]; amended [Pub. L. 109–432, div. C, title II, § 211(b)][/us/pl/109/432/s211/b], Dec. 20, 2006, [120 Stat. 3022][/us/stat/120/3022].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3051][/us/stat/106/3051]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 211(b), Dec. 20, 2006, [120 Stat. 3022][/us/stat/120/3022].)
 
  __Amendments__ 
 
@@ -114,9 +114,9 @@
 ----------
 ----------
 
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3051
-[/us/pl/109/432/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs211%2Fb
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3022
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 

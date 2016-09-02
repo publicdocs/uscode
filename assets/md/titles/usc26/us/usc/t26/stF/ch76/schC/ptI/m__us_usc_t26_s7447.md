@@ -303,7 +303,7 @@
 
                 Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 880][/us/stat/68A/880]; [Pub. L. 89–354, § 1][/us/pl/89/354/s1], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; [Pub. L. 91–172, title IX][/us/pl/91/172], §§ 954, 960(c), (d), Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730], 734; [Pub. L. 92–41, § 4(a)][/us/pl/92/41/s4/a], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–472, § 1][/us/pl/95/472/s1], Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332]; [Pub. L. 97–362, title I, § 106(d)][/us/pl/97/362/s106/d], Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 99–514, title XV, § 1557(a)][/us/pl/99/514/s1557/a], (b), (d), Oct. 22, 1986, [100 Stat. 2756][/us/stat/100/2756], 2757; [Pub. L. 100–647, title I, § 1015(k)(1)][/us/pl/100/647/s1015/k/1], Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571]; [Pub. L. 109–280, title VIII, § 853(a)][/us/pl/109/280/s853/a], Aug. 17, 2006, [120 Stat. 1016][/us/stat/120/1016]; [Pub. L. 113–295, div. A, title II, § 221(a)(115)][/us/pl/113/295/s221/a/115], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 880][/us/stat/68A/880]; [Pub. L. 89–354][/us/pl/89/354], § 1, Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], §§ 954, 960(c), (d), Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730], 734; [Pub. L. 92–41][/us/pl/92/41], § 4(a), July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–472][/us/pl/95/472], § 1, Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332]; [Pub. L. 97–362, title I][/us/pl/97/362/tI], § 106(d), Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1557(a), (b), (d), Oct. 22, 1986, [100 Stat. 2756][/us/stat/100/2756], 2757; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(k)(1), Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 853(a), Aug. 17, 2006, [120 Stat. 1016][/us/stat/120/1016]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(115), Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __Amendments__ 
 
@@ -313,13 +313,13 @@
 
     1988—Subsec. (d). [Pub. L. 100–647][/us/pl/100/647] inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
 
-    1986—Subsec. (a)(2), (3), (5). [Pub. L. 99–514, § 1557(d)(1)][/us/pl/99/514/s1557/d/1], redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
+    1986—Subsec. (a)(2), (3), (5). [Pub. L. 99–514][/us/pl/99/514], § 1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
 
-    Subsec. (b)(2). [Pub. L. 99–514, § 1557(a)][/us/pl/99/514/s1557/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
+    Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 1557(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
 
-    Subsec. (e). [Pub. L. 99–514, § 1557(d)(2)][/us/pl/99/514/s1557/d/2], substituted “Office of Personnel Management” for “Civil Service Commission” in par. (4) and in last sentence.
+    Subsec. (e). [Pub. L. 99–514][/us/pl/99/514], § 1557(d)(2), substituted “Office of Personnel Management” for “Civil Service Commission” in par. (4) and in last sentence.
 
-    Subsec. (f). [Pub. L. 99–514, § 1557(b)][/us/pl/99/514/s1557/b], amended subsec. (f) generally. Prior to amendment, subsec. (f), individuals receiving retired pay to be available for recall, read as follows: “Any individual who has elected to receive retired pay under subsection (d) who thereafter—
+    Subsec. (f). [Pub. L. 99–514][/us/pl/99/514], § 1557(b), amended subsec. (f) generally. Prior to amendment, subsec. (f), individuals receiving retired pay to be available for recall, read as follows: “Any individual who has elected to receive retired pay under subsection (d) who thereafter—
 
     “(1) accepts civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (c)); or
 
@@ -327,7 +327,7 @@
 
     shall forfeit all rights to retired pay under subsection (d) for all periods beginning on or after the first day on which he accepts such office or employment or engages in any activity described in paragraph (2). Any individual who has elected to receive retired pay under subsection (d) who thereafter during any calendar year fails to perform judicial duties required of him by subsection (c) shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the first day on which he so fails to perform such duties.”
 
-    Subsec. (g)(2)(C). [Pub. L. 99–514, § 1557(d)(3)][/us/pl/99/514/s1557/d/3], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (g)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1557(d)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
     1982—Subsec. (b). [Pub. L. 97–362][/us/pl/97/362] inserted provision that any judge who retires shall be designated “senior judge”.
 
@@ -335,25 +335,25 @@
 
     1971—Subsec. (c). [Pub. L. 92–41][/us/pl/92/41] substituted “At or after his retirement, any individual who has elected to receive” for “Any individual who is receiving”.
 
-    1969—Subsec. (a)(4). [Pub. L. 91–172, § 954(e)(1)][/us/pl/91/172/s954/e/1], struck out par. (4) which defined the term “Civil Service Retirement Act”.
+    1969—Subsec. (a)(4). [Pub. L. 91–172][/us/pl/91/172], § 954(e)(1), struck out par. (4) which defined the term “Civil Service Retirement Act”.
 
-    Subsec. (a)(1). [Pub. L. 91–172, § 960(c)][/us/pl/91/172/s960/c], substituted “United States Tax Court” for “Tax Court of the United States”.
+    Subsec. (a)(1). [Pub. L. 91–172][/us/pl/91/172], § 960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
 
-    Subsec. (a)(5). [Pub. L. 91–172, § 960(d)][/us/pl/91/172/s960/d], inserted reference to service as a judge of the Tax Court of the United States.
+    Subsec. (a)(5). [Pub. L. 91–172][/us/pl/91/172], § 960(d), inserted reference to service as a judge of the Tax Court of the United States.
 
-    Subsec. (b). [Pub. L. 91–172, § 954(a)][/us/pl/91/172/s954/a], substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering [section 8335(a) of title 5][/us/usc/t5/s8335/a] not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
+    Subsec. (b). [Pub. L. 91–172][/us/pl/91/172], § 954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering [section 8335(a) of title 5][/us/usc/t5/s8335/a] not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
 
-    Subsec. (d). [Pub. L. 91–172, § 954(b)][/us/pl/91/172/s954/b], substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
+    Subsec. (d). [Pub. L. 91–172][/us/pl/91/172], § 954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
 
-    Subsec. (g)(1). [Pub. L. 91–172, § 954(e)(2)][/us/pl/91/172/s954/e/2], substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
+    Subsec. (g)(1). [Pub. L. 91–172][/us/pl/91/172], § 954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
 
-    Subsec. (g)(2). [Pub. L. 91–172, § 954(c)][/us/pl/91/172/s954/c], substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under [section 8331(8) of Title 5][/us/usc/t5/s8331/8] is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
+    Subsec. (g)(2). [Pub. L. 91–172][/us/pl/91/172], § 954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under [section 8331(8) of Title 5][/us/usc/t5/s8331/8] is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
-    Subsec. (g)(3). [Pub. L. 91–172, § 954(c)][/us/pl/91/172/s954/c], struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
+    Subsec. (g)(3). [Pub. L. 91–172][/us/pl/91/172], § 954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
 
-    Subsec. (g)(4). [Pub. L. 91–172, § 954(c)][/us/pl/91/172/s954/c], struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
+    Subsec. (g)(4). [Pub. L. 91–172][/us/pl/91/172], § 954(c), struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
 
-    Subsec. (h). [Pub. L. 91–172, § 954(d)][/us/pl/91/172/s954/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 91–172][/us/pl/91/172], § 954(d), added subsec. (h).
 
     1966—Subsec. (d). [Pub. L. 89–354][/us/pl/89/354] substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
 
@@ -363,19 +363,19 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title VIII, § 853(b)][/us/pl/109/280/s853/b], Aug. 17, 2006, [120 Stat. 1017][/us/stat/120/1017], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 853(b), Aug. 17, 2006, [120 Stat. 1017][/us/stat/120/1017], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 17, 2006\], except that United States Tax Court judges may only begin to participate in the Thrift Savings Plan at the next open season beginning after such date.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1015(k)(2)][/us/pl/100/647/s1015/k/2], Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(k)(2), Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act \[Nov. 10, 1988\] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1557(e)][/us/pl/99/514/s1557/e], Oct. 22, 1986, [100 Stat. 2757][/us/stat/100/2757], provided that:
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1557(e), Oct. 22, 1986, [100 Stat. 2757][/us/stat/100/2757], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -387,13 +387,13 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–472, § 2(a)][/us/pl/95/472/s2/a], Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332], provided that: 
+[Pub. L. 95–472][/us/pl/95/472], § 2(a), Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to revocations made after the date of the enactment of this Act \[Oct. 17, 1978\].”
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–41, § 4(c)(1)][/us/pl/92/41/s4/c/1], July 1, 1971, [85 Stat. 99][/us/stat/85/99], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 92–41][/us/pl/92/41], § 4(c)(1), July 1, 1971, [85 Stat. 99][/us/stat/85/99], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date of its enactment \[July 1, 1971\]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 \[section 1106(c)\] effective on and after August 7, 1953.”
 
@@ -401,7 +401,7 @@
 
     Amendment by sections 954(c), (e) and 960(c), (d) of [Pub. L. 91–172][/us/pl/91/172] effective Dec. 30, 1969, see [section 962(a) of Pub. L. 91–172][/us/pl/91/172/s962/a], set out as a note under [section 7441 of this title][/us/usc/t26/s7441].
 
-[Pub. L. 91–172, title IX, § 962(d)][/us/pl/91/172/s962/d], Dec. 30, 1969, [83 Stat. 736][/us/stat/83/736], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 962(d), Dec. 30, 1969, [83 Stat. 736][/us/stat/83/736], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsections (a), (b), and (d) of section 954 \[amending this section\] shall apply to—
 
@@ -413,7 +413,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–354, § 2][/us/pl/89/354/s2], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 89–354][/us/pl/89/354], § 2, Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section and section 1106 of I.R.C. 1939\] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on or after the first day of the first calendar month which begins after the date of enactment of this Act \[Feb. 2, 1966\].”
 
@@ -423,7 +423,7 @@
 
  __Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service__ 
 
-[Pub. L. 95–472, § 2(b)][/us/pl/95/472/s2/b], Oct. 17, 1978, [92 Stat. 1333][/us/stat/92/1333], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–472][/us/pl/95/472], § 2(b), Oct. 17, 1978, [92 Stat. 1333][/us/stat/92/1333], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] within one year after the date of enactment of this Act \[Oct. 17, 1978\] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
 
@@ -446,81 +446,81 @@
 [/us/usc/t5/s8351/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351%2Fb%2F5
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F880
-[/us/pl/89/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354%2Fs1
+[/us/pl/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354
 [/us/stat/80/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F5
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F730
-[/us/pl/92/41/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41%2Fs4%2Fa
+[/us/pl/92/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41
 [/us/stat/85/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F99
-[/us/pl/95/472/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472%2Fs1
+[/us/pl/95/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472
 [/us/stat/92/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1332
-[/us/pl/97/362/s106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2Fs106%2Fd
+[/us/pl/97/362/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362%2FtI
 [/us/stat/96/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1730
-[/us/pl/99/514/s1557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2756
-[/us/pl/100/647/s1015/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fk%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3571
-[/us/pl/109/280/s853/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs853%2Fa
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1016
-[/us/pl/113/295/s221/a/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F115
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1557/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fd%2F1
-[/us/pl/99/514/s1557/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fa
-[/us/pl/99/514/s1557/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fd%2F2
-[/us/pl/99/514/s1557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fb
-[/us/pl/99/514/s1557/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fd%2F3
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F362
 [/us/pl/95/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472
 [/us/pl/92/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41
-[/us/pl/91/172/s954/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fe%2F1
-[/us/pl/91/172/s960/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fc
-[/us/pl/91/172/s960/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fd
-[/us/pl/91/172/s954/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fa
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t5/s8335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8335%2Fa
-[/us/pl/91/172/s954/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fb
-[/us/pl/91/172/s954/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fe%2F2
-[/us/pl/91/172/s954/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fc
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t5/s8331/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331%2F8
-[/us/pl/91/172/s954/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fc
-[/us/pl/91/172/s954/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fc
-[/us/pl/91/172/s954/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fd
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/109/280/s853/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs853%2Fb
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1017
-[/us/pl/100/647/s1015/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fk%2F2
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3571
-[/us/pl/99/514/s1557/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fe
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2757
 [/us/usc/t26/s7448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7448
-[/us/pl/95/472/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472%2Fs2%2Fa
+[/us/pl/95/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472
 [/us/stat/92/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1332
-[/us/pl/92/41/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41%2Fs4%2Fc%2F1
+[/us/pl/92/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41
 [/us/stat/85/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F99
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s962/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs962%2Fa
 [/us/usc/t26/s7441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7441
-[/us/pl/91/172/s962/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs962%2Fd
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F736
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/89/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354%2Fs2
+[/us/pl/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354
 [/us/stat/80/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F5
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
-[/us/pl/95/472/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472%2Fs2%2Fb
+[/us/pl/95/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F472
 [/us/stat/92/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1333
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

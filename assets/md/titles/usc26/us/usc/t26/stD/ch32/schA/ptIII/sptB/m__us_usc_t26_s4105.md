@@ -31,7 +31,7 @@
 
         (4) The transaction is the subject of a written contract.
 
-(Added [Pub. L. 108–357, title VIII, § 866(a)][/us/pl/108/357/s866/a], Oct. 22, 2004, [118 Stat. 1621][/us/stat/118/1621].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 866(a), Oct. 22, 2004, [118 Stat. 1621][/us/stat/118/1621].)
 
  __Prior Provisions__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 866(c)][/us/pl/108/357/s866/c], Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 866(c), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622], provided that: 
 
 > “The amendment made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -50,10 +50,10 @@
 ----------
 ----------
 
-[/us/pl/108/357/s866/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs866%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1621
 [/us/usc/t26/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4121
-[/us/pl/108/357/s866/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs866%2Fc
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1622
 
 

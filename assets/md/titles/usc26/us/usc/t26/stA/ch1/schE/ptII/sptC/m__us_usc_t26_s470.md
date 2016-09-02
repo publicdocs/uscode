@@ -231,11 +231,11 @@
 
         (2) provide for the determination of the allocation of interest expense for purposes of this section.
 
-(Added [Pub. L. 108–357, title VIII, § 848(a)][/us/pl/108/357/s848/a], Oct. 22, 2004, [118 Stat. 1602][/us/stat/118/1602]; amended [Pub. L. 110–172, § 7(c)][/us/pl/110/172/s7/c], Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 848(a), Oct. 22, 2004, [118 Stat. 1602][/us/stat/118/1602]; amended [Pub. L. 110–172][/us/pl/110/172], § 7(c), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482].)
 
  __Amendments__ 
 
-    2007—Subsec. (c)(2). [Pub. L. 110–172, § 7(c)(1)][/us/pl/110/172/s7/c/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
+    2007—Subsec. (c)(2). [Pub. L. 110–172][/us/pl/110/172], § 7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
 
     “(A) without regard to paragraphs (1)(C) and (3) thereof, and
 
@@ -251,7 +251,7 @@
 
     Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property.”
 
-    Subsec. (d)(1)(A). [Pub. L. 110–172, § 7(c)(2)][/us/pl/110/172/s7/c/2], in introductory provisions, substituted “(at all times during the lease term)” for “(at any time during the lease term)”.
+    Subsec. (d)(1)(A). [Pub. L. 110–172][/us/pl/110/172], § 7(c)(2), in introductory provisions, substituted “(at all times during the lease term)” for “(at any time during the lease term)”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -259,7 +259,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 849][/us/pl/108/357/s849], Oct. 22, 2004, [118 Stat. 1606][/us/stat/118/1606], as amended by [Pub. L. 109–135, title IV, § 403(ff)][/us/pl/109/135/s403/ff], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that:
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 849, Oct. 22, 2004, [118 Stat. 1606][/us/stat/118/1606], as amended by [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(ff), Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -296,19 +296,19 @@
 ----------
 ----------
 
-[/us/pl/108/357/s848/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs848%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1602
-[/us/pl/110/172/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fc
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2482
-[/us/pl/110/172/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fc%2F1
-[/us/pl/110/172/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fc%2F2
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/110/172/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fe
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
-[/us/pl/108/357/s849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs849
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1606
-[/us/pl/109/135/s403/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fff
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 

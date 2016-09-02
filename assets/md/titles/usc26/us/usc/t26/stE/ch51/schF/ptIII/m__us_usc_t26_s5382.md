@@ -87,7 +87,7 @@
 
         (2) in the case of natural fruit wine (other than grape or berry wine) of the winemaker’s own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind of fruit.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1383][/us/stat/72/1383]; amended [Pub. L. 88–653][/us/pl/88/653], §§ 1, 2, Oct. 13, 1964, [78 Stat. 1085][/us/stat/78/1085]; [Pub. L. 89–44, title VIII, § 806(c)(1)][/us/pl/89/44/s806/c/1], June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 90–619, § 2][/us/pl/90/619/s2], Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 108–429, title II, § 2002(a)][/us/pl/108/429/s2002/a], Dec. 3, 2004, [118 Stat. 2588][/us/stat/118/2588]; [Pub. L. 109–432, div. D, title III, § 3007][/us/pl/109/432/s3007], Dec. 20, 2006, [120 Stat. 3176][/us/stat/120/3176].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1383][/us/stat/72/1383]; amended [Pub. L. 88–653][/us/pl/88/653], §§ 1, 2, Oct. 13, 1964, [78 Stat. 1085][/us/stat/78/1085]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 806(c)(1), June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 90–619][/us/pl/90/619], § 2, Oct. 22, 1968, [82 Stat. 1237][/us/stat/82/1237]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2002(a), Dec. 3, 2004, [118 Stat. 2588][/us/stat/118/2588]; [Pub. L. 109–432, div. D, title III][/us/pl/109/432/dD/tIII], § 3007, Dec. 20, 2006, [120 Stat. 3176][/us/stat/120/3176].)
 
  __Prior Provisions__ 
 
@@ -105,13 +105,13 @@
 
     1965—Subsec. (b)(2). [Pub. L. 89–44][/us/pl/89/44] struck out “made without added sugar or reserved as provided in sections 5383(b) and 5384(b)” after “winemaker’s own production”.
 
-    1964—Subsec. (b)(9). [Pub. L. 88–653, § 1][/us/pl/88/653/s1], added par. (9).
+    1964—Subsec. (b)(9). [Pub. L. 88–653][/us/pl/88/653], § 1, added par. (9).
 
-    Subsec. (d). [Pub. L. 88–653, § 2][/us/pl/88/653/s2], added subsec. (d).
+    Subsec. (d). [Pub. L. 88–653][/us/pl/88/653], § 2, added subsec. (d).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–429, title II, § 2002(b)][/us/pl/108/429/s2002/b], Dec. 3, 2004, [118 Stat. 2589][/us/stat/118/2589], provided that: 
+[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2002(b), Dec. 3, 2004, [118 Stat. 2589][/us/stat/118/2589], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 1, 2005.”
 
@@ -125,7 +125,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–653, § 4][/us/pl/88/653/s4], Oct. 13, 1964, [78 Stat. 1085][/us/stat/78/1085], provided that: 
+[Pub. L. 88–653][/us/pl/88/653], § 4, Oct. 13, 1964, [78 Stat. 1085][/us/stat/78/1085], provided that: 
 
 > “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and [section 5511 of this title][/us/usc/t26/s5511]\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
 
@@ -137,19 +137,19 @@
 ----------
 
 [/us/usc/t27/s211/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211%2Fa%2F4
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1383
 [/us/pl/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653
 [/us/stat/78/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1085
-[/us/pl/89/44/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fc%2F1
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F164
-[/us/pl/90/619/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs2
+[/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/stat/82/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1237
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/108/429/s2002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2002%2Fa
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2588
-[/us/pl/109/432/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs3007
+[/us/pl/109/432/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdD%2FtIII
 [/us/stat/120/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3176
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F668
@@ -159,9 +159,9 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
-[/us/pl/88/653/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653%2Fs1
-[/us/pl/88/653/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653%2Fs2
-[/us/pl/108/429/s2002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2002%2Fb
+[/us/pl/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653
+[/us/pl/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2589
 [/us/pl/90/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619
 [/us/pl/90/619/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F619%2Fs6
@@ -169,7 +169,7 @@
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/89/44/s806/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fd%2F2
 [/us/usc/t26/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5383
-[/us/pl/88/653/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653%2Fs4
+[/us/pl/88/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F653
 [/us/stat/78/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1085
 [/us/usc/t26/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5511
 

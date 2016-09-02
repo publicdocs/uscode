@@ -71,13 +71,13 @@
 
         If the corporation seeking an extension of time under this section made or was required to make a consolidated return, either for the taxable year within which the net operating loss arises or for the preceding taxable year affected by such loss, the provisions of such section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 764][/us/stat/68A/764]; [Pub. L. 85–866, title I, § 89(b)][/us/pl/85/866/s89/b], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title II, § 234(b)(2)(C)][/us/pl/97/248/s234/b/2/C], Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 764][/us/stat/68A/764]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(b), Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 234(b)(2)(C), Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503].)
 
  __Amendments__ 
 
-    1982—Subsec. (c). [Pub. L. 97–248, § 234(b)(2)(C)(i)][/us/pl/97/248/s234/b/2/C/i], substituted “shall be the date on which payment would have been required if such remainder had been the tax” for “shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152” in last sentence.
+    1982—Subsec. (c). [Pub. L. 97–248][/us/pl/97/248], § 234(b)(2)(C)(i), substituted “shall be the date on which payment would have been required if such remainder had been the tax” for “shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152” in last sentence.
 
-    Subsec. (g)(2). [Pub. L. 97–248, § 234(b)(2)(C)(ii)][/us/pl/97/248/s234/b/2/C/ii], substituted “date on which payment would have been required if there had been no extension with respect to such amount” for “dates on which payments would have been required if there had been no extension with respect to such amount and the taxpayer had elected to pay the tax in installments as provided in section 6152”.
+    Subsec. (g)(2). [Pub. L. 97–248][/us/pl/97/248], § 234(b)(2)(C)(ii), substituted “date on which payment would have been required if there had been no extension with respect to such amount” for “dates on which payments would have been required if there had been no extension with respect to such amount and the taxpayer had elected to pay the tax in installments as provided in section 6152”.
 
     1976—Subsecs. (a), (b), (d), (f), (h), (i). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -100,14 +100,14 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F764
-[/us/pl/85/866/s89/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248/s234/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs234%2Fb%2F2%2FC
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F503
-[/us/pl/97/248/s234/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs234%2Fb%2F2%2FC%2Fi
-[/us/pl/97/248/s234/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs234%2Fb%2F2%2FC%2Fii
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

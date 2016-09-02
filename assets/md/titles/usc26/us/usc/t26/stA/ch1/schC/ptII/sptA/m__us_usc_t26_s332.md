@@ -73,7 +73,7 @@
 
             The Secretary shall provide such regulations as appropriate to prevent the abuse of this subsection, including regulations which provide, for the purposes of clause (iv) of paragraph (2)(A), that a corporation is not in existence for any period unless it is engaged in the active conduct of a trade or business or owns a significant ownership interest in another corporation so engaged.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 102][/us/stat/68A/102]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI, § 631(e)(2)][/us/pl/99/514/s631/e/2], title XVIII, § 1804(e)(6)(A), Oct. 22, 1986, [100 Stat. 2273][/us/stat/100/2273], 2803; [Pub. L. 105–277, div. J, title III, § 3001(a)][/us/pl/105/277/s3001/a], (b)(1), Oct. 21, 1998, [112 Stat. 2681–904][/us/stat/112/2681-904]; [Pub. L. 108–357, title VIII, § 893(a)][/us/pl/108/357/s893/a], Oct. 22, 2004, [118 Stat. 1646][/us/stat/118/1646]; [Pub. L. 109–135, title IV, § 412(v)][/us/pl/109/135/s412/v], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 102][/us/stat/68A/102]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(e)(2), title XVIII, § 1804(e)(6)(A), Oct. 22, 1986, [100 Stat. 2273][/us/stat/100/2273], 2803; [Pub. L. 105–277, div. J, title III][/us/pl/105/277/dJ/tIII], § 3001(a), (b)(1), Oct. 21, 1998, [112 Stat. 2681–904][/us/stat/112/2681-904]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 893(a), Oct. 22, 2004, [118 Stat. 1646][/us/stat/118/1646]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(v), Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638].)
 
  __Amendments__ 
 
@@ -81,25 +81,25 @@
 
     2004—Subsec. (d). [Pub. L. 108–357][/us/pl/108/357] added subsec. (d).
 
-    1998—Subsec. (b). [Pub. L. 105–277, § 3001(b)(1)][/us/pl/105/277/s3001/b/1], substituted “this section” for “subsection (a)” in introductory provisions.
+    1998—Subsec. (b). [Pub. L. 105–277][/us/pl/105/277], § 3001(b)(1), substituted “this section” for “subsection (a)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 105–277, § 3001(a)][/us/pl/105/277/s3001/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–277][/us/pl/105/277], § 3001(a), added subsec. (c).
 
-    1986—Subsec. (b)(1). [Pub. L. 99–514, § 1804(e)(6)(A)][/us/pl/99/514/s1804/e/6/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
+    1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either”.
 
-    Subsec. (c). [Pub. L. 99–514, § 631(e)(2)][/us/pl/99/514/s631/e/2], struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 893(b)][/us/pl/108/357/s893/b], Oct. 22, 2004, [118 Stat. 1647][/us/stat/118/1647], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 893(b), Oct. 22, 2004, [118 Stat. 1647][/us/stat/118/1647], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to distributions in complete liquidation occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. J, title III, § 3001(c)][/us/pl/105/277/s3001/c], Oct. 21, 1998, [112 Stat. 2681–904][/us/stat/112/2681-904], provided that: 
+[Pub. L. 105–277, div. J, title III][/us/pl/105/277/dJ/tIII], § 3001(c), Oct. 21, 1998, [112 Stat. 2681–904][/us/stat/112/2681-904], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 334 of this title][/us/usc/t26/s334]\] shall apply to distributions after May 21, 1998.”
 
@@ -107,7 +107,7 @@
 
     Amendment by [section 631(e)(2) of Pub. L. 99–514][/us/pl/99/514/s631/e/2] applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in [section 338 of this title][/us/usc/t26/s338] for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see [section 633 of Pub. L. 99–514][/us/pl/99/514/s633], set out as an Effective Date note under [section 336 of this title][/us/usc/t26/s336].
 
-[Pub. L. 99–514, title XVIII, § 1804(e)(6)(B)][/us/pl/99/514/s1804/e/6/B], Oct. 22, 1986, [100 Stat. 2803][/us/stat/100/2803], provided that:
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(e)(6)(B), Oct. 22, 1986, [100 Stat. 2803][/us/stat/100/2803], provided that:
 
 >     “(i)  __In general__  __.—__ 
 
@@ -134,33 +134,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F102
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s631/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F2
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2273
-[/us/pl/105/277/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3001%2Fa
+[/us/pl/105/277/dJ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIII
 [/us/stat/112/2681-904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-904
-[/us/pl/108/357/s893/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs893%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1646
-[/us/pl/109/135/s412/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fv
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2638
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/105/277/s3001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3001%2Fb%2F1
-[/us/pl/105/277/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3001%2Fa
-[/us/pl/99/514/s1804/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F6%2FA
-[/us/pl/99/514/s631/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/108/357/s893/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs893%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1647
-[/us/pl/105/277/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs3001%2Fc
+[/us/pl/105/277/dJ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIII
 [/us/stat/112/2681-904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-904
 [/us/usc/t26/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs334
 [/us/pl/99/514/s631/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F2
 [/us/usc/t26/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs338
 [/us/pl/99/514/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs633
 [/us/usc/t26/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs336
-[/us/pl/99/514/s1804/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F6%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2803
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1504

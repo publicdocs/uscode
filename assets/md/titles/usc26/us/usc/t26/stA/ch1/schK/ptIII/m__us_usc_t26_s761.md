@@ -77,7 +77,7 @@
 
         For rules in the case of the sale, exchange, liquidation, or reduction of a partner’s interest, see sections 704(b) and 706(c)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 252][/us/stat/68A/252]; [Pub. L. 94–455, title II, § 213(c)(3)(B)][/us/pl/94/455/s213/c/3/B], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 96–222, title I, § 102(a)(2)(C)][/us/pl/96/222/s102/a/2/C], Apr. 1, 1980, [94 Stat. 208][/us/stat/94/208]; [Pub. L. 98–369, div. A, title I, § 75(b)][/us/pl/98/369/s75/b], July 18, 1984, [98 Stat. 594][/us/stat/98/594]; [Pub. L. 99–514, title XVIII, § 1805(c)(2)][/us/pl/99/514/s1805/c/2], Oct. 22, 1986, [100 Stat. 2810][/us/stat/100/2810]; [Pub. L. 110–28, title VIII, § 8215(a)][/us/pl/110/28/s8215/a], May 25, 2007, [121 Stat. 193][/us/stat/121/193]; [Pub. L. 114–74, title XI, § 1102(a)][/us/pl/114/74/s1102/a], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 252][/us/stat/68A/252]; [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(c)(3)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1548][/us/stat/90/1548], 1834; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 102(a)(2)(C), Apr. 1, 1980, [94 Stat. 208][/us/stat/94/208]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 75(b), July 18, 1984, [98 Stat. 594][/us/stat/98/594]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1805(c)(2), Oct. 22, 1986, [100 Stat. 2810][/us/stat/100/2810]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8215(a), May 25, 2007, [121 Stat. 193][/us/stat/121/193]; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1102(a), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
 
  __Amendments__ 
 
@@ -91,9 +91,9 @@
 
     1980—Subsec. (a)(3). [Pub. L. 96–222][/us/pl/96/222] added par. (3).
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e). [Pub. L. 94–455, § 213(c)(3)(B)][/us/pl/94/455/s213/c/3/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 213(c)(3)(B), added subsec. (e).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -101,13 +101,13 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8215(c)][/us/pl/110/28/s8215/c], May 25, 2007, [121 Stat. 194][/us/stat/121/194], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8215(c), May 25, 2007, [121 Stat. 194][/us/stat/121/194], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 1402 of this title][/us/usc/t26/s1402], and [section 411 of Title 42][/us/usc/t42/s411], The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2006.”
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -134,34 +134,34 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F252
-[/us/pl/94/455/s213/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F3%2FB
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1548
-[/us/pl/96/222/s102/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs102%2Fa%2F2%2FC
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F208
-[/us/pl/98/369/s75/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs75%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F594
-[/us/pl/99/514/s1805/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fc%2F2
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2810
-[/us/pl/110/28/s8215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8215%2Fa
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F193
-[/us/pl/114/74/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s213/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fc%2F3%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/114/74/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1102%2Fc
 [/us/usc/t26/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs704
-[/us/pl/110/28/s8215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8215%2Fc
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F194
 [/us/usc/t26/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1402
 [/us/usc/t42/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs411
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

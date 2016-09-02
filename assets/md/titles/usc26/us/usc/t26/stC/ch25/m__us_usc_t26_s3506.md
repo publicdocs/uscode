@@ -27,17 +27,17 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-(Added [Pub. L. 95–171, § 10(a)][/us/pl/95/171/s10/a], Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356].)
+(Added [Pub. L. 95–171][/us/pl/95/171], § 10(a), Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356].)
 
  __Effective Date__ 
 
-[Pub. L. 95–171, § 10(c)][/us/pl/95/171/s10/c], Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356], provided that: 
+[Pub. L. 95–171][/us/pl/95/171], § 10(c), Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to remuneration received after December 31, 1974.”
 
  __Unemployment Compensation or Social Security Benefits Based on Services Performed Before__  __November 12, 1977__  __, Unaffected__ 
 
-[Pub. L. 95–171, § 10(d)][/us/pl/95/171/s10/d], Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356], provided that: 
+[Pub. L. 95–171][/us/pl/95/171], § 10(d), Nov. 12, 1977, [91 Stat. 1356][/us/stat/91/1356], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall not be construed as affecting (1) any individual’s right to receive unemployment compensation based on services performed before the date of the enactment of this Act \[Nov. 12, 1977\], or (2) any individual’s eligibility for social security benefits to the extent based on services performed before that date.”
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/95/171/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs10%2Fa
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1356
-[/us/pl/95/171/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs10%2Fc
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1356
-[/us/pl/95/171/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs10%2Fd
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1356
 
 

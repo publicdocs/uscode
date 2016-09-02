@@ -45,7 +45,7 @@
 
         Notwithstanding sections 6511 and 6512, refund based on the deduction may be made if the claim for refund is filed within the period provided in the preceding sentence. Any such refund shall be made without interest.
 
-(Added [Pub. L. 107–16, title V, § 532(b)][/us/pl/107/16/s532/b], June 7, 2001, [115 Stat. 73][/us/stat/115/73].)
+(Added [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(b), June 7, 2001, [115 Stat. 73][/us/stat/115/73].)
 
  __Effective Date__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/107/16/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fb
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F73
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
 [/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012

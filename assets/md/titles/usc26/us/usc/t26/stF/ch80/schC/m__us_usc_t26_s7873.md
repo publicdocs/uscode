@@ -79,11 +79,11 @@
 
             then the entire amount shall be entitled to the benefits of such paragraph.
 
-(Added [Pub. L. 100–647, title III, § 3041(a)][/us/pl/100/647/s3041/a], Nov. 10, 1988, [102 Stat. 3640][/us/stat/102/3640].)
+(Added [Pub. L. 100–647, title III][/us/pl/100/647/tIII], § 3041(a), Nov. 10, 1988, [102 Stat. 3640][/us/stat/102/3640].)
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title III, § 3044][/us/pl/100/647/s3044], Nov. 10, 1988, [102 Stat. 3642][/us/stat/102/3642], provided that:
+[Pub. L. 100–647, title III][/us/pl/100/647/tIII], § 3044, Nov. 10, 1988, [102 Stat. 3642][/us/stat/102/3642], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -100,9 +100,9 @@
 ----------
 ----------
 
-[/us/pl/100/647/s3041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3041%2Fa
+[/us/pl/100/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIII
 [/us/stat/102/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3640
-[/us/pl/100/647/s3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs3044
+[/us/pl/100/647/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIII
 [/us/stat/102/3642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3642
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t25/s71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs71

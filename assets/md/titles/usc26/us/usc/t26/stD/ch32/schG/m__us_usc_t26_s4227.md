@@ -17,7 +17,7 @@
 
     For exception for a sale to an Indian tribal government (or its subdivision) for the exclusive use of an Indian tribal government (or its subdivision), see section 7871.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 496][/us/stat/68A/496], § 4226; renumbered § 4227, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 207(a), [70 Stat. 391][/us/stat/70/391]; amended [Pub. L. 89–44, title II, § 208(f)][/us/pl/89/44/s208/f], June 21, 1965, [79 Stat. 141][/us/stat/79/141]; [Pub. L. 94–455, title XIX, § 1904(a)(5)][/us/pl/94/455/s1904/a/5], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811]; [Pub. L. 97–473, title II, § 202(b)(8)][/us/pl/97/473/s202/b/8], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 98–369, div. A, title VII, § 735(c)(11)][/us/pl/98/369/s735/c/11], July 18, 1984, [98 Stat. 983][/us/stat/98/983]; [Pub. L. 99–514, title XVIII, § 1899A(49)][/us/pl/99/514/s1899A/49], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 496][/us/stat/68A/496], § 4226; renumbered § 4227, [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 207(a), [70 Stat. 391][/us/stat/70/391]; amended [Pub. L. 89–44, title II][/us/pl/89/44/tII], § 208(f), June 21, 1965, [79 Stat. 141][/us/stat/79/141]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(5), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811]; [Pub. L. 97–473, title II][/us/pl/97/473/tII], § 202(b)(8), Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(11), July 18, 1984, [98 Stat. 983][/us/stat/98/983]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(49), Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961].)
 
  __Amendments__ 
 
@@ -58,15 +58,15 @@
 [/us/stat/68A/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F496
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F391
-[/us/pl/89/44/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs208%2Ff
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F141
-[/us/pl/94/455/s1904/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F5
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
-[/us/pl/97/473/s202/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs202%2Fb%2F8
+[/us/pl/97/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtII
 [/us/stat/96/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2610
-[/us/pl/98/369/s735/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F11
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F983
-[/us/pl/99/514/s1899A/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F49
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2961
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

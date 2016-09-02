@@ -61,7 +61,7 @@
 
         The term “net capital gain” means the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 322][/us/stat/68A/322]; [Pub. L. 88–272, title II, § 230(b)][/us/pl/88/272/s230/b], Feb. 26, 1964, [78 Stat. 100][/us/stat/78/100]; [Pub. L. 91–172, title V][/us/pl/91/172], §§ 511(a), 513(c), Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635], 643; [Pub. L. 94–455, title XIV, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], (2), (d), title XIX, § 1901(a)(136), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], 1733, 1787; [Pub. L. 98–369, div. A, title X, § 1001(a)][/us/pl/98/369/s1001/a], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 111–325, title I, § 101(b)(2)][/us/pl/111/325/s101/b/2], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538]; [Pub. L. 113–295, div. A, title II, § 221(a)(79)][/us/pl/113/295/s221/a/79], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 322][/us/stat/68A/322]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 230(b), Feb. 26, 1964, [78 Stat. 100][/us/stat/78/100]; [Pub. L. 91–172, title V][/us/pl/91/172/tV], §§ 511(a), 513(c), Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635], 643; [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(a)(1), (2), (d), title XIX, § 1901(a)(136), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], 1733, 1787; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1001(a), (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 111–325, title I][/us/pl/111/325/tI], § 101(b)(2), Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(79), Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
 
@@ -71,19 +71,19 @@
 
     1984—Pars. (1) to (4). [Pub. L. 98–369][/us/pl/98/369] substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-    1976—Pars. (1) to (4). [Pub. L. 94–455, § 1402(a)(2)][/us/pl/94/455/s1402/a/2], provided that “9 months” would be changed to “1 year”.
+    1976—Pars. (1) to (4). [Pub. L. 94–455][/us/pl/94/455], § 1402(a)(2), provided that “9 months” would be changed to “1 year”.
 
-    [Pub. L. 94–455, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(a)(1), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-    Par. (9). [Pub. L. 94–455, § 1901(a)(136)(A)][/us/pl/94/455/s1901/a/136/A], substituted “Capital gain net income” and “capital gain net income” for “Net capital gain” and “net capital gain” in heading and text.
+    Par. (9). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(136)(A), substituted “Capital gain net income” and “capital gain net income” for “Net capital gain” and “net capital gain” in heading and text.
 
-    Par. (11). [Pub. L. 94–455, § 1901(a)(136)(B)][/us/pl/94/455/s1901/a/136/B], substituted “Net capital gain” and “net capital gain” for “Net section 1201 gain” and “net section 1201 gain” in heading and text.
+    Par. (11). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(136)(B), substituted “Net capital gain” and “net capital gain” for “Net section 1201 gain” and “net section 1201 gain” in heading and text.
 
-    [Pub. L. 94–455, § 1402(d)][/us/pl/94/455/s1402/d], inserted sentence at end relating to length of holding period in case of futures transactions in commodities.
+    [Pub. L. 94–455][/us/pl/94/455], § 1402(d), inserted sentence at end relating to length of holding period in case of futures transactions in commodities.
 
-    1969—Par. (9). [Pub. L. 91–172, § 513(c)][/us/pl/91/172/s513/c], substituted “The” for “In the case of a corporation, the”.
+    1969—Par. (9). [Pub. L. 91–172][/us/pl/91/172], § 513(c), substituted “The” for “In the case of a corporation, the”.
 
-    Par. (11). [Pub. L. 91–172, § 511(a)][/us/pl/91/172/s511/a], added par. (11).
+    Par. (11). [Pub. L. 91–172][/us/pl/91/172], § 511(a), added par. (11).
 
     1964—Pars. (9), (10). [Pub. L. 88–272][/us/pl/88/272] struck out provisions from par. (9) relating to taxpayers other than corporations, and inserted “In the case of a corporation” in par. (10).
 
@@ -101,9 +101,9 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–455, title XIV, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(a)(1), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-    [Pub. L. 94–455, title XIV, § 1402(a)(2)][/us/pl/94/455/s1402/a/2], Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+    [Pub. L. 94–455, title XIV][/us/pl/94/455/tXIV], § 1402(a)(2), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
     Amendment by [section 1901(a)(136) of Pub. L. 94–455][/us/pl/94/455/s1901/a/136] applicable with respect to taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
@@ -124,28 +124,28 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F322
-[/us/pl/88/272/s230/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs230%2Fb
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F100
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F635
-[/us/pl/94/455/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F1
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
-[/us/pl/98/369/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fa
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1011
-[/us/pl/111/325/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fb%2F2
+[/us/pl/111/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtI
 [/us/stat/124/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3538
-[/us/pl/113/295/s221/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F79
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F2
-[/us/pl/94/455/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F1
-[/us/pl/94/455/s1901/a/136/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F136%2FA
-[/us/pl/94/455/s1901/a/136/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F136%2FB
-[/us/pl/94/455/s1402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fd
-[/us/pl/91/172/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs513%2Fc
-[/us/pl/91/172/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs511%2Fa
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
@@ -156,9 +156,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s1001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fe
 [/us/usc/t26/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs166
-[/us/pl/94/455/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F1
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
-[/us/pl/94/455/s1402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F2
+[/us/pl/94/455/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIV
 [/us/stat/90/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1731
 [/us/pl/94/455/s1901/a/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F136
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

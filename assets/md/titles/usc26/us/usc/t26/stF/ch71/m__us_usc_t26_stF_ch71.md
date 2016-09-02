@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–614, title I, § 101(e)(2)][/us/pl/91/614/s101/e/2], Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837], added item 6905.
+    1970—[Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(e)(2), Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837], added item 6905.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/91/614/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fe%2F2
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1837
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptB/m__us_usc_t26_s453B.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptB/m__us_usc_t26_s454.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs453C)
 
-## \[§ 453C. Repealed. [Pub. L. 100–203, title X, § 10202(a)(1)][/us/pl/100/203/s10202/a/1], Dec. 22, 1987, [101 Stat. 1330–388][/us/stat/101/1330-388]\]
+## \[§ 453C. Repealed. [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10202(a)(1), Dec. 22, 1987, [101 Stat. 1330–388][/us/stat/101/1330-388]\]
 
-    Section, added [Pub. L. 99–514, title VIII, § 811(a)][/us/pl/99/514/s811/a], Oct. 22, 1986, [100 Stat. 2365][/us/stat/100/2365]; amended [Pub. L. 100–647, title I, § 1008(f)(1)][/us/pl/100/647/s1008/f/1]–(5), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], 3442, related to treatment of certain indebtedness as payment on installment obligations.
+    Section, added [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 811(a), Oct. 22, 1986, [100 Stat. 2365][/us/stat/100/2365]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(f)(1)–(5), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], 3442, related to treatment of certain indebtedness as payment on installment obligations.
 
  __Effective Date of Repeal__ 
 
@@ -23,19 +23,19 @@
 
  __Applicability of Amendments by__  __[__  __Pub. L. 100–203__  __][/us/pl/100/203]__  __and__  __[__  __Pub. L. 100–647__  __][/us/pl/100/647]__ 
 
-[Pub. L. 100–647, title I, § 1008(f)(9)][/us/pl/100/647/s1008/f/9], Nov. 10, 1988, [102 Stat. 3442][/us/stat/102/3442], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(f)(9), Nov. 10, 1988, [102 Stat. 3442][/us/stat/102/3442], provided that: 
 
 > “For purposes of applying the amendments made by this subsection \[amending this section and provisions set out below\] and the amendments made by section 10202 of the Revenue Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], amending sections 56, 381, 453, 453A, and 691 of this title and repealing this section\], the provisions of this subsection shall be treated as having been enacted immediately before the enactment of the Revenue Act of 1987 \[Dec. 22, 1987\].”
 
  __Effective Date; Allocation of Indebtedness as Payment on Installment Obligation__ 
 
-[Pub. L. 99–514, title VIII, § 811(c)][/us/pl/99/514/s811/c], Oct. 22, 1986, [100 Stat. 2368][/us/stat/100/2368], as amended by [Pub. L. 100–647, title I, § 1008(f)(6)][/us/pl/100/647/s1008/f/6]–(8), Nov. 10, 1988, [102 Stat. 3442][/us/stat/102/3442]; [Pub. L. 105–34, title X, § 1088(a)][/us/pl/105/34/s1088/a], Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 811(c), Oct. 22, 1986, [100 Stat. 2368][/us/stat/100/2368], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(f)(6)–(8), Nov. 10, 1988, [102 Stat. 3442][/us/stat/102/3442]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1088(a), Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
 >     Except as otherwise provided in this section, the amendments made by this section \[enacting this section\] shall apply to taxable years ending after December 31, 1986, with respect to dispositions after February 28, 1986.
 
->     “\[(2) Repealed. [Pub. L. 105–34, title X, § 1088(a)][/us/pl/105/34/s1088/a], Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959].\]
+>     “\[(2) Repealed. [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1088(a), Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959].\]
 
 >     “(3)  __Exception for certain obligations__  __.—__ 
 
@@ -113,7 +113,7 @@
 
 >         In the case of a taxpayer’s 1st taxable year ending after December 31, 1986, dispositions after February 28, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day.”
 
-\[[Pub. L. 105–34, title X, § 1088(b)][/us/pl/105/34/s1088/b], Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959], as amended by [Pub. L. 105–206, title VI, § 6010(q)][/us/pl/105/206/s6010/q], July 22, 1998, [112 Stat. 817][/us/stat/112/817], provided that:
+\[[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1088(b), Aug. 5, 1997, [111 Stat. 959][/us/stat/111/959], as amended by [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(q), July 22, 1998, [112 Stat. 817][/us/stat/112/817], provided that:
 
     \[“(1) In general.—The amendment made by this section \[amending [section 811(c) of Pub. L. 99–514][/us/pl/99/514/s811/c], set out above\] shall apply to taxable years beginning more than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
 
@@ -132,31 +132,31 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10202%2Fa%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-388
-[/us/pl/99/514/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs811%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2365
-[/us/pl/100/647/s1008/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Ff%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3441
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t26/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs453
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/647/s1008/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Ff%2F9
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3442
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/99/514/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs811%2Fc
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2368
-[/us/pl/100/647/s1008/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Ff%2F6
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3442
-[/us/pl/105/34/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1088%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F959
-[/us/pl/105/34/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1088%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F959
 [/us/pl/99/514/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs311
-[/us/pl/105/34/s1088/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1088%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F959
-[/us/pl/105/206/s6010/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fq
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F817
 [/us/pl/99/514/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs811%2Fc
 

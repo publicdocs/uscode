@@ -27,7 +27,7 @@
 
         For purposes of this chapter, if any of the tax imposed by this chapter with respect to any taxable distribution is paid out of the trust, an amount equal to the portion so paid shall be treated as a taxable distribution.
 
-(Added [Pub. L. 94–455, title XX, § 2006(a)][/us/pl/94/455/s2006/a], Oct. 4, 1976, [90 Stat. 1887][/us/stat/90/1887]; amended [Pub. L. 97–34, title IV, § 422(e)(4)][/us/pl/97/34/s422/e/4], Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316]; [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(a), Oct. 4, 1976, [90 Stat. 1887][/us/stat/90/1887]; amended [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(4), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2720][/us/stat/100/2720].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fa
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1887
-[/us/pl/97/34/s422/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F4
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2720
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2661

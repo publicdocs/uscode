@@ -23,7 +23,7 @@
 
         For purposes of this section, the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–283, title III][/us/pl/94/283], §§ 305(a), 307(c), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 501; [Pub. L. 113–295, div. A, title II, § 220(z)][/us/pl/113/295/s220/z], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
+(Added [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–283, title III][/us/pl/94/283/tIII], §§ 305(a), 307(c), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 501; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(z), Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–283, title III, § 305(d)][/us/pl/94/283/s305/d], May 11, 1976, [90 Stat. 499][/us/stat/90/499], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 305(d), May 11, 1976, [90 Stat. 499][/us/stat/90/499], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
 
@@ -52,19 +52,19 @@
 ----------
 ----------
 
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1300
-[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
-[/us/pl/113/295/s220/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fz
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FA
-[/us/pl/94/283/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fd
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

@@ -301,7 +301,7 @@
 
         (2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added [Pub. L. 105–34, title III, § 302(a)][/us/pl/105/34/s302/a], Aug. 5, 1997, [111 Stat. 825][/us/stat/111/825]; amended [Pub. L. 105–206, title VI, § 6005(b)(1)][/us/pl/105/206/s6005/b/1]–(7), (9), title VII, § 7004(a), July 22, 1998, [112 Stat. 796–800][/us/stat/112/796-800], 833; [Pub. L. 105–277, div. J, title IV, § 4002(j)][/us/pl/105/277/s4002/j], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title VI, § 617(e)(1)][/us/pl/107/16/s617/e/1], June 7, 2001, [115 Stat. 106][/us/stat/115/106]; [Pub. L. 109–222, title V, § 512(a)][/us/pl/109/222/s512/a], (b), May 17, 2006, [120 Stat. 365][/us/stat/120/365]; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 824(a), (b), 833(c), Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], 1004; [Pub. L. 110–245, title I, § 109(a)][/us/pl/110/245/s109/a], (b), June 17, 2008, [122 Stat. 1631][/us/stat/122/1631], 1632; [Pub. L. 110–458, title I, § 108(d)][/us/pl/110/458/s108/d], (h), Dec. 23, 2008, [122 Stat. 5109][/us/stat/122/5109].)
+(Added [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 302(a), Aug. 5, 1997, [111 Stat. 825][/us/stat/111/825]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6005(b)(1)–(7), (9), title VII, § 7004(a), July 22, 1998, [112 Stat. 796–800][/us/stat/112/796-800], 833; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4002(j), Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 617(e)(1), June 7, 2001, [115 Stat. 106][/us/stat/115/106]; [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 512(a), (b), May 17, 2006, [120 Stat. 365][/us/stat/120/365]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], §§ 824(a), (b), 833(c), Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], 1004; [Pub. L. 110–245, title I][/us/pl/110/245/tI], § 109(a), (b), June 17, 2008, [122 Stat. 1631][/us/stat/122/1631], 1632; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 108(d), (h), Dec. 23, 2008, [122 Stat. 5109][/us/stat/122/5109].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -309,13 +309,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(3)(B). [Pub. L. 110–458, § 108(d)(1)][/us/pl/110/458/s108/d/1], in introductory provisions, struck out second “an” before “eligible” and “other than a Roth IRA” before “during any taxable year”, and inserted as concluding provisions “This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).”
+    2008—Subsec. (c)(3)(B). [Pub. L. 110–458][/us/pl/110/458], § 108(d)(1), in introductory provisions, struck out second “an” before “eligible” and “other than a Roth IRA” before “during any taxable year”, and inserted as concluding provisions “This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).”
 
-    Subsec. (c)(3)(C), (E). [Pub. L. 110–458, § 108(h)(1)][/us/pl/110/458/s108/h/1], redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
+    Subsec. (c)(3)(C), (E). [Pub. L. 110–458][/us/pl/110/458], § 108(h)(1), redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
 
-    Subsec. (d)(3)(B). [Pub. L. 110–458, § 108(d)(2)][/us/pl/110/458/s108/d/2], struck out “(other than a Roth IRA)” after “section 402(c)(8)(B))” and inserted at end “This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)”.
+    Subsec. (d)(3)(B). [Pub. L. 110–458][/us/pl/110/458], § 108(d)(2), struck out “(other than a Roth IRA)” after “section 402(c)(8)(B))” and inserted at end “This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)”.
 
-    Subsec. (e). [Pub. L. 110–245, § 109(b)][/us/pl/110/245/s109/b], amended subsec. (e), as in effect after amendment by [section 824(a) of Pub. L. 109–280][/us/pl/109/280/s824/a], by amending text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution—
+    Subsec. (e). [Pub. L. 110–245][/us/pl/110/245], § 109(b), amended subsec. (e), as in effect after amendment by [section 824(a) of Pub. L. 109–280][/us/pl/109/280/s824/a], by amending text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution—
 
     “(1) to a Roth IRA from another such account,
 
@@ -327,7 +327,7 @@
 
     For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.”
 
-    [Pub. L. 110–245, § 109(a)][/us/pl/110/245/s109/a], amended subsec. (e), as in effect before amendment by [section 824(a) of Pub. L. 109–280][/us/pl/109/280/s824/a], by reenacting heading without change and amending text to read as follows: “For purposes of this section—
+    [Pub. L. 110–245][/us/pl/110/245], § 109(a), amended subsec. (e), as in effect before amendment by [section 824(a) of Pub. L. 109–280][/us/pl/109/280/s824/a], by reenacting heading without change and amending text to read as follows: “For purposes of this section—
 
     “(1) In general.—The term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). Such term includes a rollover contribution described in section 402A(c)(3)(A). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
 
@@ -343,7 +343,7 @@
 
     “(C) Application of section 72.—For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.” See 2006 Amendment note below.
 
-    2006—Subsec. (c)(3)(B). [Pub. L. 109–222, § 512(a)(1)][/us/pl/109/222/s512/a/1], redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+    2006—Subsec. (c)(3)(B). [Pub. L. 109–222][/us/pl/109/222], § 512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
     “(i) the taxpayer’s adjusted gross income exceeds $100,000, or
 
@@ -351,99 +351,99 @@
 
     This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).” See Effective Date of 2006 Amendment note below.
 
-    [Pub. L. 109–280, § 824(b)(1)][/us/pl/109/280/s824/b/1], substituted “eligible retirement plan” for “IRA” in heading and “an eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan” in introductory provisions. See Effective Date of 2006 Amendment note below.
+    [Pub. L. 109–280][/us/pl/109/280], § 824(b)(1), substituted “eligible retirement plan” for “IRA” in heading and “an eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan” in introductory provisions. See Effective Date of 2006 Amendment note below.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 109–222, § 512(a)(2)][/us/pl/109/222/s512/a/2], substituted “except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and” for “except that—
+    Subsec. (c)(3)(B)(i). [Pub. L. 109–222][/us/pl/109/222], § 512(a)(2), substituted “except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and” for “except that—
 
     “(I) any amount included in gross income under subsection (d)(3) shall not be taken into account; and
 
     “(II) any amount included in gross income by reason of a required distribution under a provision described in paragraph (5) shall not be taken into account for purposes of subparagraph (B)(i), and”.
 
-    Subsec. (c)(3)(C). [Pub. L. 109–222, § 512(a)(1)][/us/pl/109/222/s512/a/1], redesignated subpar. (D), relating to marital status, as (C). Former subpar. (C) redesignated (B). See Effective Date of 2006 Amendment note below.
+    Subsec. (c)(3)(C). [Pub. L. 109–222][/us/pl/109/222], § 512(a)(1), redesignated subpar. (D), relating to marital status, as (C). Former subpar. (C) redesignated (B). See Effective Date of 2006 Amendment note below.
 
-    [Pub. L. 109–280, § 833(c)][/us/pl/109/280/s833/c], added subpar. (C) relating to inflation adjustment.
+    [Pub. L. 109–280][/us/pl/109/280], § 833(c), added subpar. (C) relating to inflation adjustment.
 
-    Subsec. (c)(3)(D), (E). [Pub. L. 110–458, § 108(h)(2)][/us/pl/110/458/s108/h/2], redesignated subpar. (E) as (D) and substituted “subparagraph (B)(ii)” for “subparagraph (C)(ii)”.
+    Subsec. (c)(3)(D), (E). [Pub. L. 110–458][/us/pl/110/458], § 108(h)(2), redesignated subpar. (E) as (D) and substituted “subparagraph (B)(ii)” for “subparagraph (C)(ii)”.
 
-    Subsec. (d)(3). [Pub. L. 109–280, § 824(b)(2)(E)][/us/pl/109/280/s824/b/2/E], substituted “an eligible retirement plan” for “an IRA” in heading.
+    Subsec. (d)(3). [Pub. L. 109–280][/us/pl/109/280], § 824(b)(2)(E), substituted “an eligible retirement plan” for “an IRA” in heading.
 
-    Subsec. (d)(3)(A). [Pub. L. 109–280, § 824(b)(2)(A)][/us/pl/109/280/s824/b/2/A], substituted “sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)” for “section 408(d)(3)” in introductory provisions.
+    Subsec. (d)(3)(A). [Pub. L. 109–280][/us/pl/109/280], § 824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)” for “section 408(d)(3)” in introductory provisions.
 
-    Subsec. (d)(3)(A)(iii). [Pub. L. 109–222, § 512(b)(1)][/us/pl/109/222/s512/b/1], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.”
+    Subsec. (d)(3)(A)(iii). [Pub. L. 109–222][/us/pl/109/222], § 512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.”
 
-    Subsec. (d)(3)(B). [Pub. L. 109–280, § 824(b)(2)(B)][/us/pl/109/280/s824/b/2/B], substituted “eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan”.
+    Subsec. (d)(3)(B). [Pub. L. 109–280][/us/pl/109/280], § 824(b)(2)(B), substituted “eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan”.
 
-    Subsec. (d)(3)(D). [Pub. L. 109–280, § 824(b)(2)(C)][/us/pl/109/280/s824/b/2/C], (D), substituted “persons subject to section 6047(d)(1), or all of the foregoing persons” for “or both” and inserted “or 6047” after “408(i)”.
+    Subsec. (d)(3)(D). [Pub. L. 109–280][/us/pl/109/280], § 824(b)(2)(C), (D), substituted “persons subject to section 6047(d)(1), or all of the foregoing persons” for “or both” and inserted “or 6047” after “408(i)”.
 
-    Subsec. (d)(3)(E). [Pub. L. 109–222, § 512(b)(2)(B)][/us/pl/109/222/s512/b/2/B], substituted “2-year” for “4-year” in heading.
+    Subsec. (d)(3)(E). [Pub. L. 109–222][/us/pl/109/222], § 512(b)(2)(B), substituted “2-year” for “4-year” in heading.
 
-    Subsec. (d)(3)(E)(i). [Pub. L. 109–222, § 512(b)(2)(A)][/us/pl/109/222/s512/b/2/A], amended cl. (i) generally. Prior to amendment, text read as follows:
+    Subsec. (d)(3)(E)(i). [Pub. L. 109–222][/us/pl/109/222], § 512(b)(2)(A), amended cl. (i) generally. Prior to amendment, text read as follows:
 
     “(I) In general.—The amount required to be included in gross income for each of the first 3 taxable years in the 4-year period under subparagraph (A)(iii) shall be increased by the aggregate distributions from Roth IRAs for such taxable year which are allocable under paragraph (4) to the portion of such qualified rollover contribution required to be included in gross income under subparagraph (A)(i).
 
     “(II) Limitation on aggregate amount included.—The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.”
 
-    Subsec. (e). [Pub. L. 109–280, § 824(a)][/us/pl/109/280/s824/a], reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by [Pub. L. 109–280, § 824(a)][/us/pl/109/280/s824/a], and [Pub. L. 110–245, § 109(a)][/us/pl/110/245/s109/a], text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.” See 2008 Amendment note above.
+    Subsec. (e). [Pub. L. 109–280][/us/pl/109/280], § 824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by [Pub. L. 109–280][/us/pl/109/280], § 824(a), and [Pub. L. 110–245][/us/pl/110/245], § 109(a), text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.” See 2008 Amendment note above.
 
     2001—Subsec. (e). [Pub. L. 107–16][/us/pl/107/16] inserted “Such term includes a rollover contribution described in section 402A(c)(3)(A).” after first sentence.
 
-    1998—Subsec. (c)(3)(A). [Pub. L. 105–206, § 6005(b)(1)][/us/pl/105/206/s6005/b/1], substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
+    1998—Subsec. (c)(3)(A). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(1), substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 105–206, § 6005(b)(2)(A)][/us/pl/105/206/s6005/b/2/A], inserted “or a married individual filing a separate return” after “joint return”.
+    Subsec. (c)(3)(A)(ii). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(2)(A), inserted “or a married individual filing a separate return” after “joint return”.
 
-    Subsec. (c)(3)(B). [Pub. L. 105–206, § 6005(b)(2)(B)(i)][/us/pl/105/206/s6005/b/2/B/i], inserted “, for the taxable year of the distribution to which such contribution relates” after “if” in introductory provisions.
+    Subsec. (c)(3)(B). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(2)(B)(i), inserted “, for the taxable year of the distribution to which such contribution relates” after “if” in introductory provisions.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 105–206, § 6005(b)(2)(B)(ii)][/us/pl/105/206/s6005/b/2/B/ii], struck out “for such taxable year” after “gross income”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(2)(B)(ii), struck out “for such taxable year” after “gross income”.
 
-    Subsec. (c)(3)(C)(i). [Pub. L. 105–206, § 7004(a)][/us/pl/105/206/s7004/a], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “adjusted gross income shall be determined in the same manner as under section 219(g)(3), except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and”.
+    Subsec. (c)(3)(C)(i). [Pub. L. 105–206][/us/pl/105/206], § 7004(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “adjusted gross income shall be determined in the same manner as under section 219(g)(3), except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and”.
 
-    [Pub. L. 105–206, § 6005(b)(2)(C)][/us/pl/105/206/s6005/b/2/C], struck out “and the deduction under section 219 shall be taken into account” after “taken into account”.
+    [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(2)(C), struck out “and the deduction under section 219 shall be taken into account” after “taken into account”.
 
     Subsec. (c)(3)(C)(i)(II). [Pub. L. 105–277][/us/pl/105/277] substituted “, and” for period at end.
 
-    Subsec. (d)(1). [Pub. L. 105–206, § 6005(b)(5)(B)][/us/pl/105/206/s6005/b/5/B], substituted “Exclusion” for “General rules” in heading and amended text generally. Prior to amendment, text read as follows:
+    Subsec. (d)(1). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(5)(B), substituted “Exclusion” for “General rules” in heading and amended text generally. Prior to amendment, text read as follows:
 
     “(A) Exclusions from gross income.—Any qualified distribution from a Roth IRA shall not be includible in gross income.
 
     “(B) Nonqualified distributions.—In applying section 72 to any distribution from a Roth IRA which is not a qualified distribution, such distribution shall be treated as made from contributions to the Roth IRA to the extent that such distribution, when added to all previous distributions from the Roth IRA, does not exceed the aggregate amount of contributions to the Roth IRA.”
 
-    Subsec. (d)(2)(B). [Pub. L. 105–206, § 6005(b)(3)(A)][/us/pl/105/206/s6005/b/3/A], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A payment or distribution shall not be treated as a qualified distribution under subparagraph (A) if—
+    Subsec. (d)(2)(B). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(3)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A payment or distribution shall not be treated as a qualified distribution under subparagraph (A) if—
 
     “(i) it is made within the 5-taxable year period beginning with the 1st taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse made a contribution to a Roth IRA) established for such individual, or
 
     “(ii) in the case of a payment or distribution properly allocable (as determined in the manner prescribed by the Secretary) to a qualified rollover contribution from an individual retirement plan other than a Roth IRA (or income allocable thereto), it is made within the 5-taxable year period beginning with the taxable year in which the rollover contribution was made.”
 
-    Subsec. (d)(2)(C). [Pub. L. 105–206, § 6005(b)(3)(B)][/us/pl/105/206/s6005/b/3/B], added subpar. (C).
+    Subsec. (d)(2)(C). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(3)(B), added subpar. (C).
 
-    Subsec. (d)(3)(A). [Pub. L. 105–206, § 6005(b)(4)(A)][/us/pl/105/206/s6005/b/4/A], added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: “in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made.”
+    Subsec. (d)(3)(A). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: “in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made.”
 
-    Subsec. (d)(3)(D). [Pub. L. 105–206, § 6005(b)(6)(B)][/us/pl/105/206/s6005/b/6/B], redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
+    Subsec. (d)(3)(D). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
 
-    Subsec. (d)(3)(E). [Pub. L. 105–206, § 6005(b)(6)(B)][/us/pl/105/206/s6005/b/6/B], redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+    Subsec. (d)(3)(E). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-    Subsec. (d)(3)(F). [Pub. L. 105–206, § 6005(b)(6)(B)][/us/pl/105/206/s6005/b/6/B], redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+    Subsec. (d)(3)(F). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(6)(B), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-    [Pub. L. 105–206, § 6005(b)(4)(B)][/us/pl/105/206/s6005/b/4/B], added subpar. (F).
+    [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(4)(B), added subpar. (F).
 
-    Subsec. (d)(3)(G). [Pub. L. 105–206, § 6005(b)(6)(B)][/us/pl/105/206/s6005/b/6/B], redesignated subpar. (G) as (F).
+    Subsec. (d)(3)(G). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(6)(B), redesignated subpar. (G) as (F).
 
-    [Pub. L. 105–206, § 6005(b)(4)(B)][/us/pl/105/206/s6005/b/4/B], added subpar. (G).
+    [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(4)(B), added subpar. (G).
 
-    Subsec. (d)(4). [Pub. L. 105–206, § 6005(b)(5)(A)][/us/pl/105/206/s6005/b/5/A], substituted “Aggregation and ordering rules” for “Coordination with individual retirement accounts” in heading and amended text generally. Prior to amendment, text read as follows: “Section 408(d)(2) shall be applied separately with respect to Roth IRAs and other individual retirement plans.”
+    Subsec. (d)(4). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(5)(A), substituted “Aggregation and ordering rules” for “Coordination with individual retirement accounts” in heading and amended text generally. Prior to amendment, text read as follows: “Section 408(d)(2) shall be applied separately with respect to Roth IRAs and other individual retirement plans.”
 
-    Subsec. (d)(6). [Pub. L. 105–206, § 6005(b)(6)(A)][/us/pl/105/206/s6005/b/6/A], added par. (6).
+    Subsec. (d)(6). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(6)(A), added par. (6).
 
-    Subsec. (d)(7). [Pub. L. 105–206, § 6005(b)(7)][/us/pl/105/206/s6005/b/7], added par. (7).
+    Subsec. (d)(7). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(7), added par. (7).
 
-    Subsec. (f). [Pub. L. 105–206, § 6005(b)(9)][/us/pl/105/206/s6005/b/9], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–206][/us/pl/105/206], § 6005(b)(9), added subsec. (f).
 
  __Effective Date of 2008 Amendment__ 
 
-    [Pub. L. 110–458, title I, § 108(h)(2)][/us/pl/110/458/s108/h/2], Dec. 23, 2008, [122 Stat. 5109][/us/stat/122/5109], amended this section “\[i\]n the case of taxable years beginning after December 31, 2009”.
+    [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 108(h)(2), Dec. 23, 2008, [122 Stat. 5109][/us/stat/122/5109], amended this section “\[i\]n the case of taxable years beginning after December 31, 2009”.
 
     Amendment by [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 110–245, title I, § 109(d)][/us/pl/110/245/s109/d], June 17, 2008, [122 Stat. 1633][/us/stat/122/1633], provided that:
+[Pub. L. 110–245, title I][/us/pl/110/245/tI], § 109(d), June 17, 2008, [122 Stat. 1633][/us/stat/122/1633], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -459,15 +459,15 @@
 
  __Effective Date of 2006 Amendment__ 
 
-    [Pub. L. 109–280, title VIII, § 824(b)(1)][/us/pl/109/280/s824/b/1], Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], provided that the amendment made by section 824(b)(1) amends this section as in effect before the Tax Increase Prevention and Reconciliation Act of 2005, [Pub. L. 109–222][/us/pl/109/222]. See below.
+    [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 824(b)(1), Aug. 17, 2006, [120 Stat. 998][/us/stat/120/998], provided that the amendment made by section 824(b)(1) amends this section as in effect before the Tax Increase Prevention and Reconciliation Act of 2005, [Pub. L. 109–222][/us/pl/109/222]. See below.
 
-[Pub. L. 109–280, title VIII, § 824(c)][/us/pl/109/280/s824/c], Aug. 17, 2006, [120 Stat. 999][/us/stat/120/999], provided that: 
+[Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 824(c), Aug. 17, 2006, [120 Stat. 999][/us/stat/120/999], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to distributions after December 31, 2007.”
 
     Amendment by [section 833(c) of Pub. L. 109–280][/us/pl/109/280/s833/c] applicable to taxable years beginning after 2006, see [section 833(d) of Pub. L. 109–280][/us/pl/109/280/s833/d], set out as a note under [section 25B of this title][/us/usc/t26/s25B].
 
-[Pub. L. 109–222, title V, § 512(c)][/us/pl/109/222/s512/c], May 17, 2006, [120 Stat. 366][/us/stat/120/366], provided that: 
+[Pub. L. 109–222, title V][/us/pl/109/222/tV], § 512(c), May 17, 2006, [120 Stat. 366][/us/stat/120/366], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
@@ -481,7 +481,7 @@
 
     Amendment by section 6005(b)(1)–(7), (9) of [Pub. L. 105–206][/us/pl/105/206] effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which such amendment relates, see [section 6024 of Pub. L. 105–206][/us/pl/105/206/s6024], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 105–206, title VII, § 7004(b)][/us/pl/105/206/s7004/b], July 22, 1998, [112 Stat. 833][/us/stat/112/833], provided that: 
+[Pub. L. 105–206, title VII][/us/pl/105/206/tVII], § 7004(b), July 22, 1998, [112 Stat. 833][/us/stat/112/833], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
@@ -491,7 +491,7 @@
 
  __Rollover of Amounts Received in Airline Carrier Bankruptcy to Roth IRAs__ 
 
-[Pub. L. 110–458, title I, § 125][/us/pl/110/458/s125], Dec. 23, 2008, [122 Stat. 5115][/us/stat/122/5115], provided that:
+[Pub. L. 110–458, title I][/us/pl/110/458/tI], § 125, Dec. 23, 2008, [122 Stat. 5115][/us/stat/122/5115], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -548,91 +548,91 @@
 
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
-[/us/pl/105/34/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs302%2Fa
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F825
-[/us/pl/105/206/s6005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/796-800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F796-800
-[/us/pl/105/277/s4002/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fj
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-908
-[/us/pl/107/16/s617/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs617%2Fe%2F1
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F106
-[/us/pl/109/222/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fa
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F365
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F998
-[/us/pl/110/245/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fa
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1631
-[/us/pl/110/458/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fd
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5109
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/110/458/s108/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fd%2F1
-[/us/pl/110/458/s108/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fh%2F1
-[/us/pl/110/458/s108/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fd%2F2
-[/us/pl/110/245/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fb
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/280/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fa
-[/us/pl/110/245/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fa
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/280/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fa
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
-[/us/pl/109/222/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fa%2F1
-[/us/pl/109/280/s824/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F1
-[/us/pl/109/222/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fa%2F2
-[/us/pl/109/222/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fa%2F1
-[/us/pl/109/280/s833/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs833%2Fc
-[/us/pl/110/458/s108/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fh%2F2
-[/us/pl/109/280/s824/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F2%2FE
-[/us/pl/109/280/s824/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F2%2FA
-[/us/pl/109/222/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fb%2F1
-[/us/pl/109/280/s824/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F2%2FB
-[/us/pl/109/280/s824/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F2%2FC
-[/us/pl/109/222/s512/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fb%2F2%2FB
-[/us/pl/109/222/s512/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fb%2F2%2FA
-[/us/pl/109/280/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fa
-[/us/pl/109/280/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fa
-[/us/pl/110/245/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fa
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/105/206/s6005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F1
-[/us/pl/105/206/s6005/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F2%2FA
-[/us/pl/105/206/s6005/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F2%2FB%2Fi
-[/us/pl/105/206/s6005/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F2%2FB%2Fii
-[/us/pl/105/206/s7004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7004%2Fa
-[/us/pl/105/206/s6005/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F2%2FC
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/206/s6005/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F5%2FB
-[/us/pl/105/206/s6005/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F3%2FA
-[/us/pl/105/206/s6005/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F3%2FB
-[/us/pl/105/206/s6005/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F4%2FA
-[/us/pl/105/206/s6005/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F6%2FB
-[/us/pl/105/206/s6005/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F6%2FB
-[/us/pl/105/206/s6005/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F6%2FB
-[/us/pl/105/206/s6005/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F4%2FB
-[/us/pl/105/206/s6005/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F6%2FB
-[/us/pl/105/206/s6005/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F4%2FB
-[/us/pl/105/206/s6005/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F5%2FA
-[/us/pl/105/206/s6005/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F6%2FA
-[/us/pl/105/206/s6005/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F7
-[/us/pl/105/206/s6005/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6005%2Fb%2F9
-[/us/pl/110/458/s108/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108%2Fh%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5109
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/110/245/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fd
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1633
 [/us/usc/t26/s530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
-[/us/pl/109/280/s824/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fb%2F1
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F998
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/109/280/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs824%2Fc
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F999
 [/us/pl/109/280/s833/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs833%2Fc
 [/us/pl/109/280/s833/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs833%2Fd
 [/us/usc/t26/s25B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25B
-[/us/pl/109/222/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs512%2Fc
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s617/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs617%2Ff
@@ -645,11 +645,11 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/206/s7004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs7004%2Fb
+[/us/pl/105/206/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVII
 [/us/stat/112/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F833
 [/us/pl/105/34/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs302%2Ff
 [/us/usc/t26/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs219
-[/us/pl/110/458/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs125
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5115
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430

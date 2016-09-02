@@ -235,7 +235,7 @@
 
                 This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 77][/us/stat/68A/77]; [Pub. L. 88–272, title II, § 215(a)][/us/pl/88/272/s215/a], (b), Feb. 26, 1964, [78 Stat. 55][/us/stat/78/55]; [Pub. L. 99–514, title X, § 1003(a)][/us/pl/99/514/s1003/a], (b), Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388]; [Pub. L. 104–191, title V, § 501(a)][/us/pl/104/191/s501/a], (b), Aug. 21, 1996, [110 Stat. 2090][/us/stat/110/2090]; [Pub. L. 105–34, title X, § 1084(a)][/us/pl/105/34/s1084/a], (b)(1), (c), title XVI, § 1602(f)(1)–(3), Aug. 5, 1997, [111 Stat. 951][/us/stat/111/951], 952, 1094, 1095; [Pub. L. 105–206, title VI, § 6010][/us/pl/105/206/s6010](o)(1)–(3)(A), (4)(A), (5), July 22, 1998, [112 Stat. 816][/us/stat/112/816]; [Pub. L. 105–277, div. J, title IV, § 4003(i)][/us/pl/105/277/s4003/i], Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 77][/us/stat/68A/77]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 215(a), (b), Feb. 26, 1964, [78 Stat. 55][/us/stat/78/55]; [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1003(a), (b), Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388]; [Pub. L. 104–191, title V][/us/pl/104/191/tV], § 501(a), (b), Aug. 21, 1996, [110 Stat. 2090][/us/stat/110/2090]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1084(a), (b)(1), (c), title XVI, § 1602(f)(1)–(3), Aug. 5, 1997, [111 Stat. 951][/us/stat/111/951], 952, 1094, 1095; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, [112 Stat. 816][/us/stat/112/816]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(i), Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910].)
 
  __References in Text__ 
 
@@ -247,21 +247,21 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(3). [Pub. L. 105–206, § 6010][/us/pl/105/206/s6010](o)(1), substituted “subsection (d)” for “subsection (c)”.
+    1998—Subsec. (a)(3). [Pub. L. 105–206][/us/pl/105/206], § 6010(o)(1), substituted “subsection (d)” for “subsection (c)”.
 
-    Subsec. (a)(4). [Pub. L. 105–206, § 6010][/us/pl/105/206/s6010](o)(2), substituted “subsection (e)” for “subsection (d)”.
+    Subsec. (a)(4). [Pub. L. 105–206][/us/pl/105/206], § 6010(o)(2), substituted “subsection (e)” for “subsection (d)”.
 
     Subsec. (f)(3). [Pub. L. 105–277][/us/pl/105/277] inserted concluding provisions.
 
-    Subsec. (f)(4)(E). [Pub. L. 105–206, § 6010][/us/pl/105/206/s6010](o)(3)(A), added subpar. (E).
+    Subsec. (f)(4)(E). [Pub. L. 105–206][/us/pl/105/206], § 6010(o)(3)(A), added subpar. (E).
 
-    Subsec. (f)(5)(A)(iv). [Pub. L. 105–206, § 6010][/us/pl/105/206/s6010](o)(4)(A), struck out at end “Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1).”
+    Subsec. (f)(5)(A)(iv). [Pub. L. 105–206][/us/pl/105/206], § 6010(o)(4)(A), struck out at end “Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1).”
 
-    Subsec. (f)(8)(A). [Pub. L. 105–206, § 6010][/us/pl/105/206/s6010](o)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
+    Subsec. (f)(8)(A). [Pub. L. 105–206][/us/pl/105/206], § 6010(o)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–34, § 1084(a)(1)][/us/pl/105/34/s1084/a/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
+    1997—Subsec. (a)(1). [Pub. L. 105–34][/us/pl/105/34], § 1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
 
-    Subsec. (a)(4). [Pub. L. 105–34, § 1602(f)(1)][/us/pl/105/34/s1602/f/1], added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) and (B) and concluding provisions which read as follows:
+    Subsec. (a)(4). [Pub. L. 105–34][/us/pl/105/34], § 1602(f)(1), added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) and (B) and concluding provisions which read as follows:
 
     “(A) is an officer or employee of, or
 
@@ -269,7 +269,7 @@
 
     any trade or business carried on by the taxpayer.”
 
-    [Pub. L. 105–34, § 1084(b)(1)][/us/pl/105/34/s1084/b/1], substituted “individual.” for “individual, who—
+    [Pub. L. 105–34][/us/pl/105/34], § 1084(b)(1), substituted “individual.” for “individual, who—
 
     “(A) is or was an officer or employee, or
 
@@ -277,23 +277,23 @@
 
     any trade or business carried on (currently or formerly) by the taxpayer.”
 
-    Subsecs. (b), (c). [Pub. L. 105–34, § 1084(a)(2)][/us/pl/105/34/s1084/a/2], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 105–34][/us/pl/105/34], § 1084(a)(2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 105–34, § 1084(a)(2)][/us/pl/105/34/s1084/a/2], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–34][/us/pl/105/34], § 1084(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 105–34, § 1602(f)(2)][/us/pl/105/34/s1602/f/2], amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “For purposes of subclause (II), the taxpayer shall elect an applicable period for such contract on its return of tax imposed by this chapter for its first taxable year ending on or after October 13, 1995. Such applicable period shall be for any number of months (not greater than 12) specified in the election and may not be changed by the taxpayer without the consent of the Secretary.”
+    Subsec. (d)(2)(B)(ii). [Pub. L. 105–34][/us/pl/105/34], § 1602(f)(2), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “For purposes of subclause (II), the taxpayer shall elect an applicable period for such contract on its return of tax imposed by this chapter for its first taxable year ending on or after October 13, 1995. Such applicable period shall be for any number of months (not greater than 12) specified in the election and may not be changed by the taxpayer without the consent of the Secretary.”
 
-    Subsec. (d)(4)(B). [Pub. L. 105–34, § 1602(f)(3)][/us/pl/105/34/s1602/f/3], substituted “interest in the taxpayer” for “interest in the employer”.
+    Subsec. (d)(4)(B). [Pub. L. 105–34][/us/pl/105/34], § 1602(f)(3), substituted “interest in the taxpayer” for “interest in the employer”.
 
-    Subsec. (e). [Pub. L. 105–34, § 1084(a)(2)][/us/pl/105/34/s1084/a/2], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 105–34][/us/pl/105/34], § 1084(a)(2), redesignated subsec. (d) as (e).
 
-    Subsec. (f). [Pub. L. 105–34, § 1084(c)][/us/pl/105/34/s1084/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1084(c), added subsec. (f).
 
-    1996—Subsec. (a)(4). [Pub. L. 104–191, § 501(a)(1)][/us/pl/104/191/s501/a/1], (b)(1), in introductory provisions, substituted “Except as provided in subsection (d), any” for “Any” and inserted “, or any endowment or annuity contracts owned by the taxpayer covering any individual,” after “the life of any individual”.
+    1996—Subsec. (a)(4). [Pub. L. 104–191][/us/pl/104/191], § 501(a)(1), (b)(1), in introductory provisions, substituted “Except as provided in subsection (d), any” for “Any” and inserted “, or any endowment or annuity contracts owned by the taxpayer covering any individual,” after “the life of any individual”.
 
-    [Pub. L. 104–191, § 501(a)(2)][/us/pl/104/191/s501/a/2], struck out “to the extent that the aggregate amount of such indebtedness with respect to policies covering such individual exceeds $50,000” after “carried on by the taxpayer” in concluding provisions.
+    [Pub. L. 104–191][/us/pl/104/191], § 501(a)(2), struck out “to the extent that the aggregate amount of such indebtedness with respect to policies covering such individual exceeds $50,000” after “carried on by the taxpayer” in concluding provisions.
 
-    Subsec. (d). [Pub. L. 104–191, § 501(b)(2)][/us/pl/104/191/s501/b/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–191][/us/pl/104/191], § 501(b)(2), added subsec. (d).
 
     1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514] added par. (4) and last sentence providing that par. (4) shall apply with respect to contracts purchased after June 20, 1986.
 
@@ -315,7 +315,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–191, title V, § 501(c)][/us/pl/104/191/s501/c], Aug. 21, 1996, [110 Stat. 2091][/us/stat/110/2091], as amended by [Pub. L. 105–34, title XVI, § 1602(f)(4)][/us/pl/105/34/s1602/f/4], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
+[Pub. L. 104–191, title V][/us/pl/104/191/tV], § 501(c), Aug. 21, 1996, [110 Stat. 2091][/us/stat/110/2091], as amended by [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(f)(4), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -415,19 +415,19 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title X, § 1003(c)][/us/pl/99/514/s1003/c], Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388], provided that: 
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1003(c), Oct. 22, 1986, [100 Stat. 2388][/us/stat/100/2388], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date.”
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–272, title II, § 215(c)][/us/pl/88/272/s215/c], Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56], provided that: 
+[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 215(c), Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to amounts paid or accrued in taxable years beginning after December 31, 1963.”
 
  __Spread of Income Inclusion on Surrender, Etc. of Contracts__ 
 
-[Pub. L. 104–191, title V, § 501(d)][/us/pl/104/191/s501/d], Aug. 21, 1996, [110 Stat. 2092][/us/stat/110/2092], as amended by [Pub. L. 105–34, title XVI, § 1602(f)(5)][/us/pl/105/34/s1602/f/5], Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
+[Pub. L. 104–191, title V][/us/pl/104/191/tV], § 501(d), Aug. 21, 1996, [110 Stat. 2092][/us/stat/110/2092], as amended by [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1602(f)(5), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -466,40 +466,40 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F77
-[/us/pl/88/272/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs215%2Fa
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F55
-[/us/pl/99/514/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1003%2Fa
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2388
-[/us/pl/104/191/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fa
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2090
-[/us/pl/105/34/s1084/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F951
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F816
-[/us/pl/105/277/s4003/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fi
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-910
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb
 [/us/pl/105/34/s1084/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fc
 [/us/usc/t26/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs265
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
-[/us/pl/105/206/s6010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010
-[/us/pl/105/34/s1084/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fa%2F1
-[/us/pl/105/34/s1602/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Ff%2F1
-[/us/pl/105/34/s1084/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F1
-[/us/pl/105/34/s1084/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fa%2F2
-[/us/pl/105/34/s1084/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fa%2F2
-[/us/pl/105/34/s1602/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Ff%2F2
-[/us/pl/105/34/s1602/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Ff%2F3
-[/us/pl/105/34/s1084/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fa%2F2
-[/us/pl/105/34/s1084/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fc
-[/us/pl/104/191/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fa%2F1
-[/us/pl/104/191/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fa%2F2
-[/us/pl/104/191/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fb%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
@@ -518,17 +518,17 @@
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/105/34/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Fi
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/104/191/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fc
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2091
-[/us/pl/105/34/s1602/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Ff%2F4
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1095
-[/us/pl/99/514/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1003%2Fc
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2388
-[/us/pl/88/272/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs215%2Fc
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F56
-[/us/pl/104/191/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs501%2Fd
+[/us/pl/104/191/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtV
 [/us/stat/110/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2092
-[/us/pl/105/34/s1602/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1602%2Ff%2F5
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1095
 
 

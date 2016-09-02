@@ -99,11 +99,11 @@
 
             For provision providing for civil damages for violation of paragraph (1), see section 7431.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 777][/us/stat/68A/777]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV, § 448(a)][/us/pl/98/369/s448/a], July 18, 1984, [98 Stat. 817][/us/stat/98/817]; [Pub. L. 105–34, title XII, § 1205(a)][/us/pl/105/34/s1205/a], Aug. 5, 1997, [111 Stat. 995][/us/stat/111/995]; [Pub. L. 105–206, title VI, § 6012(b)(1)][/us/pl/105/206/s6012/b/1], July 22, 1998, [112 Stat. 819][/us/stat/112/819]; [Pub. L. 105–277, div. J, title IV, § 4003(k)][/us/pl/105/277/s4003/k], Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 777][/us/stat/68A/777]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 448(a), July 18, 1984, [98 Stat. 817][/us/stat/98/817]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1205(a), Aug. 5, 1997, [111 Stat. 995][/us/stat/111/995]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6012(b)(1), July 22, 1998, [112 Stat. 819][/us/stat/112/819]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(k), Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910].)
 
  __References in Text__ 
 
-    Section 103(f) of the Truth in Lending Act, referred to in subsec. (d)(3)(D), was redesignated section 103(g) of the Truth in Lending Act by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    Section 103(f) of the Truth in Lending Act, referred to in subsec. (d)(3)(D), was redesignated section 103(g) of the Truth in Lending Act by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -129,19 +129,19 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title IV, § 448(b)][/us/pl/98/369/s448/b], July 18, 1984, [98 Stat. 818][/us/stat/98/818], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 448(b), July 18, 1984, [98 Stat. 818][/us/stat/98/818], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
  __Regulations__ 
 
-[Pub. L. 105–206, title III, § 3703][/us/pl/105/206/s3703], July 22, 1998, [112 Stat. 777][/us/stat/112/777], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3703, July 22, 1998, [112 Stat. 777][/us/stat/112/777], provided that: 
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall establish such rules, regulations, and procedures as are necessary to allow payment of taxes by check or money order made payable to the United States Treasury.”
 
  __Required Notice of Certain Payments__ 
 
-[Pub. L. 104–168, title XII, § 1202][/us/pl/104/168/s1202], July 30, 1996, [110 Stat. 1470][/us/stat/110/1470], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1202, July 30, 1996, [110 Stat. 1470][/us/stat/110/1470], provided that: 
 
 > “If any payment is received by the Secretary of the Treasury or his delegate from any taxpayer and the Secretary cannot associate such payment with such taxpayer, the Secretary shall make reasonable efforts to notify the taxpayer of such inability within 60 days after the receipt of such payment.”
 
@@ -161,17 +161,17 @@
 [/us/usc/t15/s1693f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693f
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F777
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s448/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs448%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F817
-[/us/pl/105/34/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F995
-[/us/pl/105/206/s6012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6012%2Fb%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F819
-[/us/pl/105/277/s4003/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fk
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-910
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -189,11 +189,11 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1205%2Fd
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
-[/us/pl/98/369/s448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs448%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F818
-[/us/pl/105/206/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3703
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F777
-[/us/pl/104/168/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1202
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1470
 
 

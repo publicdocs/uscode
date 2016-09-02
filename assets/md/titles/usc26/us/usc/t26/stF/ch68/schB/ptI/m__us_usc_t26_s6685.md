@@ -17,7 +17,7 @@
 
     In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of subsection (d) of section 6104 and who fails to so comply with respect to any return or application, if such failure is willful, shall pay a penalty of $5,000 with respect to each such return or application.
 
-(Added [Pub. L. 91–172, title I, § 101(e)(4)][/us/pl/91/172/s101/e/4], Dec. 30, 1969, [83 Stat. 524][/us/stat/83/524]; amended [Pub. L. 96–603, § 1(d)(4)][/us/pl/96/603/s1/d/4], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 100–203, title X, § 10704(b)(1)][/us/pl/100/203/s10704/b/1], Dec. 22, 1987, [101 Stat. 1330–462][/us/stat/101/1330-462]; [Pub. L. 104–168, title XIII, § 1313(b)][/us/pl/104/168/s1313/b], July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(D)][/us/pl/105/277/s1004/b/2/D], Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(e)(4), Dec. 30, 1969, [83 Stat. 524][/us/stat/83/524]; amended [Pub. L. 96–603][/us/pl/96/603], § 1(d)(4), Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10704(b)(1), Dec. 22, 1987, [101 Stat. 1330–462][/us/stat/101/1330-462]; [Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1313(b), July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 105–277, div. J, title I][/us/pl/105/277/dJ/tI], § 1004(b)(2)(D), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890].)
 
  __Amendments__ 
 
@@ -56,15 +56,15 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fe%2F4
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F524
-[/us/pl/96/603/s1/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F4
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3504
-[/us/pl/100/203/s10704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10704%2Fb%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-462
-[/us/pl/104/168/s1313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1313%2Fb
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1480
-[/us/pl/105/277/s1004/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1004%2Fb%2F2%2FD
+[/us/pl/105/277/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtI
 [/us/stat/112/2681-890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-890
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168

@@ -23,7 +23,7 @@
 
         All distilled spirits found in any container which is required by this chapter to bear a closure or other device and which does not bear a closure or other device in compliance with this chapter shall be forfeited to the United States.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 21, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 98–369, div. A, title IV, § 454(c)(12)(A)][/us/pl/98/369/s454/c/12/A], (B), July 18, 1984, [98 Stat. 822][/us/stat/98/822].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 21, 1958, [72 Stat. 1404][/us/stat/72/1404]; amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(12)(A), (B), July 18, 1984, [98 Stat. 822][/us/stat/98/822].)
 
  __Prior Provisions__ 
 
@@ -33,9 +33,9 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, § 454(c)(12)(B)][/us/pl/98/369/s454/c/12/B], substituted “closed” for “stamped” in section catchline.
+    1984—[Pub. L. 98–369][/us/pl/98/369], § 454(c)(12)(B), substituted “closed” for “stamped” in section catchline.
 
-    Subsec. (b). [Pub. L. 98–369, § 454(c)(12)(A)][/us/pl/98/369/s454/c/12/A], amended subsec. (b) generally, substituting provisions relating to forfeitures of containers without closures for provisions relating to forfeitures of unstamped containers.
+    Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 454(c)(12)(A), amended subsec. (b) generally, substituting provisions relating to forfeitures of containers without closures for provisions relating to forfeitures of unstamped containers.
 
  __Effective Date of 1984 Amendment__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1404
-[/us/pl/98/369/s454/c/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F12%2FA
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F822
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F685
@@ -59,8 +59,8 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F691
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/98/369/s454/c/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F12%2FB
-[/us/pl/98/369/s454/c/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F12%2FA
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs456%2Fb
 [/us/usc/t26/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5101

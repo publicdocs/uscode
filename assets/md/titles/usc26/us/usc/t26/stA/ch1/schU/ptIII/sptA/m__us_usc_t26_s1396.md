@@ -95,7 +95,7 @@
 
                 (ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 549][/us/stat/107/549]; amended [Pub. L. 104–188, title I, § 1201(e)(4)][/us/pl/104/188/s1201/e/4], Aug. 20, 1996, [110 Stat. 1772][/us/stat/110/1772]; [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 951(b), 952(b), Aug. 5, 1997, [111 Stat. 885][/us/stat/111/885], 887; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 113(a), (b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601.)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 549][/us/stat/107/549]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1201(e)(4), Aug. 20, 1996, [110 Stat. 1772][/us/stat/110/1772]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], §§ 951(b), 952(b), Aug. 5, 1997, [111 Stat. 885][/us/stat/111/885], 887; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 113(a), (b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601.)
 
  __References in Text__ 
 
@@ -103,13 +103,13 @@
 
  __Prior Provisions__ 
 
-    A prior section 1396, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895]; amended [Pub. L. 96–595, § 3(a)(6)][/us/pl/96/595/s3/a/6], (9), (10), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to minimum distributions by an electing general stock ownership corporation, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
+    A prior section 1396, added [Pub. L. 95–600, title VI][/us/pl/95/600/tVI], § 601(a), Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895]; amended [Pub. L. 96–595][/us/pl/96/595], § 3(a)(6), (9), (10), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to minimum distributions by an electing general stock ownership corporation, prior to repeal by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(a), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
 
-    2000—Subsec. (b). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
+    2000—Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
 
     1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34] substituted “For purposes of this section—
 
@@ -117,13 +117,13 @@
 
     for “For purposes of this section, the term ‘applicable percentage’ means the percentage determined in accordance with the following table:” and added par. (2).
 
-    Subsec. (e). [Pub. L. 105–34, § 952(b)][/us/pl/105/34/s952/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–34][/us/pl/105/34], § 952(b), added subsec. (e).
 
     1996—Subsec. (c)(3). [Pub. L. 104–188][/us/pl/104/188] substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 113(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 113(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1400 of this title][/us/usc/t26/s1400]\] shall apply to wages paid or incurred after December 31, 2001.”
 
@@ -142,28 +142,28 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F549
-[/us/pl/104/188/s1201/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1201%2Fe%2F4
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1772
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F885
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/stat/111/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F788
-[/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
+[/us/pl/95/600/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVI
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
-[/us/pl/96/595/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595%2Fs3%2Fa%2F6
+[/us/pl/96/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595
 [/us/stat/94/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3465
-[/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/105/34/s952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs952%2Fb
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t26/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1400
 [/us/pl/105/34/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs951%2Fb

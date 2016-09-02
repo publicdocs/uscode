@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, div. Q, title IV, § 432(c)][/us/pl/114/113/s432/c], Dec. 18, 2015, [129 Stat. 3126][/us/stat/129/3126], added items 7470 and 7470A.
+    2015—[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 432(c), Dec. 18, 2015, [129 Stat. 3126][/us/stat/129/3126], added items 7470 and 7470A.
 
-    1988—[Pub. L. 100–647, title I, § 1018(u)(45)][/us/pl/100/647/s1018/u/45], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592], added item 7475.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(45), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592], added item 7475.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/114/113/s432/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs432%2Fc
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3126
-[/us/pl/100/647/s1018/u/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F45
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the tax imposed by section 5001 on distilled spirits shall not, except as provided in this subchapter, be assessed, levied, or collected from the proprietor of any bonded wine cellar with respect to his use of wine spirits in wine production, in such premises; except that, whenever wine or wine spirits are used in violation of this subchapter, the applicable tax imposed by section 5001 shall be collected unless the proprietor satisfactorily shows that such wine or wine spirits were not knowingly used in violation of law.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1387][/us/stat/72/1387]; amended [Pub. L. 96–39, title VIII, § 807(a)(49)][/us/pl/96/39/s807/a/49], July 26, 1979, [93 Stat. 288][/us/stat/93/288].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1387][/us/stat/72/1387]; amended [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(49), July 26, 1979, [93 Stat. 288][/us/stat/93/288].)
 
  __Prior Provisions__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1387
-[/us/pl/96/39/s807/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F49
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F288
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F672

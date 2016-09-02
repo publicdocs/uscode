@@ -57,7 +57,7 @@
 
             If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
-(Added [Pub. L. 108–357, title III, § 338(a)][/us/pl/108/357/s338/a], Oct. 22, 2004, [118 Stat. 1480][/us/stat/118/1480]; amended [Pub. L. 109–58, title XIII, § 1324(a)][/us/pl/109/58/s1324/a], Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015]; [Pub. L. 110–172, § 7(a)(3)(A)][/us/pl/110/172/s7/a/3/A], (C), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482].)
+(Added [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 338(a), Oct. 22, 2004, [118 Stat. 1480][/us/stat/118/1480]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1324(a), Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015]; [Pub. L. 110–172][/us/pl/110/172], § 7(a)(3)(A), (C), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482].)
 
  __Amendments__ 
 
@@ -71,13 +71,13 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title XIII, § 1324(b)][/us/pl/109/58/s1324/b], Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1324(b), Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 338(a) of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357], enacting this section\].”
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title III, § 338(c)][/us/pl/108/357/s338/c], Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 338(c), Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481], provided that: 
 
 > “The amendment made by this section \[enacting this section and amending sections 263, 263A, 312, 1016, and 1245 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date.”
 
@@ -88,11 +88,11 @@
 ----------
 ----------
 
-[/us/pl/108/357/s338/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs338%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1480
-[/us/pl/109/58/s1324/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1324%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1015
-[/us/pl/110/172/s7/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fa%2F3%2FA
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2482
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -100,10 +100,10 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/110/172/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs7%2Fe
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092
-[/us/pl/109/58/s1324/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1324%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1015
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s338/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs338%2Fc
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1481
 
 

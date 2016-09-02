@@ -27,15 +27,15 @@
 
         For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2721][/us/stat/100/2721]; amended [Pub. L. 105–34, title V, § 501(d)][/us/pl/105/34/s501/d], Aug. 5, 1997, [111 Stat. 846][/us/stat/111/846]; [Pub. L. 105–206, title VI, § 6007(a)(1)][/us/pl/105/206/s6007/a/1], July 22, 1998, [112 Stat. 806][/us/stat/112/806]; [Pub. L. 107–16, title V, § 521(c)][/us/pl/107/16/s521/c], June 7, 2001, [115 Stat. 72][/us/stat/115/72]; [Pub. L. 111–312, title III, § 303(b)(2)][/us/pl/111/312/s303/b/2], Dec. 17, 2010, [124 Stat. 3303][/us/stat/124/3303].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2721][/us/stat/100/2721]; amended [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 501(d), Aug. 5, 1997, [111 Stat. 846][/us/stat/111/846]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6007(a)(1), July 22, 1998, [112 Stat. 806][/us/stat/112/806]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 521(c), June 7, 2001, [115 Stat. 72][/us/stat/115/72]; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 303(b)(2), Dec. 17, 2010, [124 Stat. 3303][/us/stat/124/3303].)
 
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–312][/us/pl/111/312] substituted “the basic exclusion amount” for “the applicable exclusion amount”.
 
-    2001—Subsec. (a). [Pub. L. 107–16, § 521(c)(1)][/us/pl/107/16/s521/c/1], substituted “amount” for “of $1,000,000”.
+    2001—Subsec. (a). [Pub. L. 107–16][/us/pl/107/16], § 521(c)(1), substituted “amount” for “of $1,000,000”.
 
-    Subsec. (c). [Pub. L. 107–16, § 521(c)(2)][/us/pl/107/16/s521/c/2], amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year.
+    Subsec. (c). [Pub. L. 107–16][/us/pl/107/16], § 521(c)(2), amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year.
 
     1998—Subsec. (c). [Pub. L. 105–206][/us/pl/105/206] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual who dies in any calendar year after 1998, the $1,000,000 amount contained in subsection (a) shall be increased by an amount equal to—
 
@@ -70,19 +70,19 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2721
-[/us/pl/105/34/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs501%2Fd
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F846
-[/us/pl/105/206/s6007/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fa%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F806
-[/us/pl/107/16/s521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs521%2Fc
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F72
-[/us/pl/111/312/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs303%2Fb%2F2
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3303
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s521/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs521%2Fc%2F1
-[/us/pl/107/16/s521/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs521%2Fc%2F2
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312

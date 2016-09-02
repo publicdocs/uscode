@@ -219,15 +219,15 @@
 
         (4) any other class of persons identified by the Secretary for purposes of this subsection as posing a low risk of tax evasion.
 
-(Added [Pub. L. 111–147, title V, § 501(a)][/us/pl/111/147/s501/a], Mar. 18, 2010, [124 Stat. 97][/us/stat/124/97].)
+(Added [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(a), Mar. 18, 2010, [124 Stat. 97][/us/stat/124/97].)
 
  __Prior Provisions__ 
 
-    A prior section 1471, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 361][/us/stat/68A/361], related to recovery of excessive profits on government contracts, prior to repeal by [Pub. L. 94–455, title XIX, § 1901(b)(13)(A)][/us/pl/94/455/s1901/b/13/A], Oct. 4, 1976, [90 Stat. 1840][/us/stat/90/1840].
+    A prior section 1471, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 361][/us/stat/68A/361], related to recovery of excessive profits on government contracts, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(13)(A), Oct. 4, 1976, [90 Stat. 1840][/us/stat/90/1840].
 
  __Effective Date__ 
 
-[Pub. L. 111–147, title V, § 501(d)][/us/pl/111/147/s501/d], Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], provided that:
+[Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(d), Mar. 18, 2010, [124 Stat. 106][/us/stat/124/106], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -254,13 +254,13 @@
 ----------
 ----------
 
-[/us/pl/111/147/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F97
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F361
-[/us/pl/94/455/s1901/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1840
-[/us/pl/111/147/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fd
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F106
 [/us/usc/t26/s6611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6611
 

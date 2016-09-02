@@ -123,11 +123,11 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. [Section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
+    A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 572][/us/stat/85/572], providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 408(c), Oct. 15, 1974, [88 Stat. 1297][/us/stat/88/1297]. [Section 410(c)(1) of Pub. L. 93–443][/us/pl/93/443/s410/c/1], set out as an Effective Date of 1974 Amendment note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–283, title III, § 305(b)][/us/pl/94/283/s305/b], May 11, 1976, [90 Stat. 499][/us/stat/90/499], substituted “limitations” for “limitation” in item 9035.
+    1976—[Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 305(b), May 11, 1976, [90 Stat. 499][/us/stat/90/499], substituted “limitations” for “limitation” in item 9035.
 
 ----------
 
@@ -136,13 +136,13 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F572
-[/us/pl/93/443/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs408%2Fc
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1297
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
-[/us/pl/94/283/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fb
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
 
 

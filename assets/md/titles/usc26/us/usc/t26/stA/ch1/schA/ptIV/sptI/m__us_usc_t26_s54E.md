@@ -93,7 +93,7 @@
 
         (2) __Eligible local education agency__ 
 
-            For purposes of this section, the term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+            For purposes of this section, the term “eligible local education agency” means any local educational agency as defined in section 8101 of the Elementary and Secondary Education Act of 1965.
 
         (3) __Qualified purpose__ 
 
@@ -121,7 +121,7 @@
 
             (E) any other property or service specified by the eligible local education agency.
 
-(Added [Pub. L. 110–343, div. C, title III, § 313(a)][/us/pl/110/343/s313/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; amended [Pub. L. 111–5, div. B, title I, § 1522(a)][/us/pl/111/5/s1522/a], Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358]; [Pub. L. 111–312, title VII, § 758(a)][/us/pl/111/312/s758/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 310(a)][/us/pl/112/240/s310/a], Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330]; [Pub. L. 113–295, div. A, title I, § 120(a)][/us/pl/113/295/s120/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–113, div. Q, title I, § 164(a)][/us/pl/114/113/s164/a], Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
+(Added [Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 313(a), Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1522(a), Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 758(a), Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 310(a), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 120(a), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(uu)(1), Dec. 10, 2015, [129 Stat. 2183][/us/stat/129/2183]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 164(a), Dec. 18, 2015, [129 Stat. 3066][/us/stat/129/3066].)
 
  __References in Text__ 
 
@@ -129,11 +129,13 @@
 
     The National School Lunch Act, referred to in subsec. (d)(1)(D)(ii), probably means the Richard B. Russell National School Lunch Act, [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is classified to [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+    Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is classified to [section 7801 of Title 20][/us/usc/t20/s7801], Education.
 
  __Amendments__ 
 
     2015—Subsec. (c)(1). [Pub. L. 114–113][/us/pl/114/113] substituted “2014, 2015, and 2016” for “and 2014”.
+
+    Subsec. (d)(2). [Pub. L. 114–95][/us/pl/114/95] substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965”.
 
     2014—Subsec. (c)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “2013, and 2014” for “and 2013”.
 
@@ -145,37 +147,39 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 164(b)][/us/pl/114/113/s164/b], Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 164(b), Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2014.”
 
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 120(b)][/us/pl/113/295/s120/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 120(b), Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 310(b)][/us/pl/112/240/s310/b], Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 310(b), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to obligations issued after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 758(c)][/us/pl/111/312/s758/c], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 758(c), Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6431 of this title][/us/usc/t26/s6431]\] shall apply to obligations issued after December 31, 2010.”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1522(b)][/us/pl/111/5/s1522/b], Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1522(b), Feb. 17, 2009, [123 Stat. 358][/us/stat/123/358], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2008.”
 
  __Effective Date__ 
 
-    Section applicable to obligations issued after Oct. 3, 2008, see [section 313(c) of title III of div. C of Pub. L. 110–343][/us/pl/110/343/s313/c], set out as an Effective Date of 2008 Amendment note under [section 54A of this title][/us/usc/t26/s54A].
+    Section applicable to obligations issued after Oct. 3, 2008, see [section 313(c) of title III of div. C of Pub. L. 110–343][/us/pl/110/343/dC/tIII/s313/c], set out as an Effective Date of 2008 Amendment note under [section 54A of this title][/us/usc/t26/s54A].
 
 ----------
 
@@ -184,17 +188,19 @@
 ----------
 ----------
 
-[/us/pl/110/343/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fa
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3869
-[/us/pl/111/5/s1522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1522%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F358
-[/us/pl/111/312/s758/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3322
-[/us/pl/112/240/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs310%2Fa
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
-[/us/pl/113/295/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs120%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/114/113/s164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs164%2Fa
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2183
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3066
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
@@ -202,22 +208,26 @@
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/114/113/s164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs164%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3067
-[/us/pl/113/295/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs120%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
-[/us/pl/112/240/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs310%2Fb
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
-[/us/pl/111/312/s758/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fc
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3323
 [/us/usc/t26/s6431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6431
-[/us/pl/111/5/s1522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1522%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F358
-[/us/pl/110/343/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fc
+[/us/pl/110/343/dC/tIII/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII%2Fs313%2Fc
 [/us/usc/t26/s54A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54A
 
 

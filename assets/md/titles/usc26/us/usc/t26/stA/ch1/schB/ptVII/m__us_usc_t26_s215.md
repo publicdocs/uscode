@@ -35,7 +35,7 @@
 
         No deduction shall be allowed under this section with respect to any payment if, by reason of section 682 (relating to income of alimony trusts), the amount thereof is not includible in such individual’s gross income.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 71][/us/stat/68A/71]; [Pub. L. 98–369, div. A, title IV, § 422(b)][/us/pl/98/369/s422/b], July 18, 1984, [98 Stat. 797][/us/stat/98/797].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 71][/us/stat/68A/71]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 422(b), July 18, 1984, [98 Stat. 797][/us/stat/98/797].)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F71
-[/us/pl/98/369/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs422%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F797
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

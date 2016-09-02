@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, title I][/us/pl/100/647], §§ 1012(e)(3)(B), (h)(2)(C), 1018(u)(37), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500], 3502, 3592, substituted “SOURCE RULES AND OTHER GENERAL RULES RELATING TO FOREIGN INCOME” for “DETERMINATION OF SOURCES OF INCOME” as part I heading, substituted “Special rules for determining source” for “Items not specified in section 861 or 862” in item 863, and added item 865.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1012(e)(3)(B), (h)(2)(C), 1018(u)(37), Nov. 10, 1988, [102 Stat. 3500][/us/stat/102/3500], 3502, 3592, substituted “SOURCE RULES AND OTHER GENERAL RULES RELATING TO FOREIGN INCOME” for “DETERMINATION OF SOURCES OF INCOME” as part I heading, substituted “Special rules for determining source” for “Items not specified in section 861 or 862” in item 863, and added item 865.
 
-    1986—[Pub. L. 99–514, title XII, § 1215(b)(2)][/us/pl/99/514/s1215/b/2], Oct. 22, 1986, [100 Stat. 2545][/us/stat/100/2545], substituted “Definitions and special rules” for “Definitions” in item 864.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1215(b)(2), Oct. 22, 1986, [100 Stat. 2545][/us/stat/100/2545], substituted “Definitions and special rules” for “Definitions” in item 864.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3500
-[/us/pl/99/514/s1215/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1215%2Fb%2F2
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2545
 
 

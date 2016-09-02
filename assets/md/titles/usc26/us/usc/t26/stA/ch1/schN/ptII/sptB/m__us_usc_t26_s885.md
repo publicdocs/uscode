@@ -25,7 +25,7 @@
 
     (5) For withholding at source of tax on income of foreign corporations, see section 1442.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 283][/us/stat/68A/283], § 884; [Pub. L. 89–809, title I, § 104(m)(1)][/us/pl/89/809/s104/m/1], Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 91–172, title I, § 101(j)(21)][/us/pl/91/172/s101/j/21], Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528]; renumbered § 885, [Pub. L. 99–514, title XII, § 1241(a)][/us/pl/99/514/s1241/a], Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 283][/us/stat/68A/283], § 884; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(m)(1), Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(21), Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528]; renumbered § 885, [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1241(a), Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576].)
 
  __Amendments__ 
 
@@ -60,11 +60,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F283
-[/us/pl/89/809/s104/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fm%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1563
-[/us/pl/91/172/s101/j/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F21
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F528
-[/us/pl/99/514/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2576
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs884

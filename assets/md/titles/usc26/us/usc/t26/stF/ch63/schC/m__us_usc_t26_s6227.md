@@ -85,11 +85,11 @@
 
         In the case of that portion of any request for an administrative adjustment which relates to the deductibility by the partnership under section 166 of a debt as a debt which became worthless, or under section 165(g) of a loss from worthlessness of a security, the period prescribed in subsection (a)(1) shall be 7 years from the last day for filing the partnership return for the year with respect to which such request is made (determined without regard to extensions).
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 655][/us/stat/96/655]; amended [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1236(a), 1243(a), Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], 1029; [Pub. L. 107–147, title IV, § 417(19)(A)][/us/pl/107/147/s417/19/A], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 655][/us/stat/96/655]; amended [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1236(a), 1243(a), Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], 1029; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(19)(A), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 631, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6227 is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 631, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed and a new section 6227 is enacted to read as follows:
 
 >     § 6227. Administrative adjustment request by partnership
 
@@ -121,9 +121,9 @@
 
     2002—Subsec. (d). [Pub. L. 107–147][/us/pl/107/147] substituted “subsection (c)” for “subsection (b)” in introductory provisions.
 
-    1997—Subsecs. (b) to (d). [Pub. L. 105–34, § 1236(a)][/us/pl/105/34/s1236/a], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    1997—Subsecs. (b) to (d). [Pub. L. 105–34][/us/pl/105/34], § 1236(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-    Subsec. (e). [Pub. L. 105–34, § 1243(a)][/us/pl/105/34/s1243/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–34][/us/pl/105/34], § 1243(a), added subsec. (e).
 
  __Effective Date of Repeal and Reenactment__ 
 
@@ -131,11 +131,11 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1236(b)][/us/pl/105/34/s1236/b], Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1236(b), Aug. 5, 1997, [111 Stat. 1025][/us/stat/111/1025], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[Pub. L. 97–248][/us/pl/97/248]\].”
 
-[Pub. L. 105–34, title XII, § 1243(b)][/us/pl/105/34/s1243/b], Aug. 5, 1997, [111 Stat. 1029][/us/stat/111/1029], provided that:
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1243(b), Aug. 5, 1997, [111 Stat. 1029][/us/stat/111/1029], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -158,23 +158,23 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F655
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025
-[/us/pl/107/147/s417/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FA
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/105/34/s1236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1236%2Fa
-[/us/pl/105/34/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1243%2Fa
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
-[/us/pl/105/34/s1236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1236%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1025
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/105/34/s1243/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1243%2Fb
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1029
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 

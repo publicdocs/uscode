@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptII/m__us_usc_t26_s80.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptII/m__us_usc_t26_s82.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs81)
 
-## \[§ 81. Repealed. [Pub. L. 100–203, title X, § 10201(b)(1)][/us/pl/100/203/s10201/b/1], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]\]
+## \[§ 81. Repealed. [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10201(b)(1), Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]\]
 
-    Section, added [Pub. L. 89–722, § 1(b)(1)][/us/pl/89/722/s1/b/1], Nov. 2, 1966, [80 Stat. 1152][/us/stat/80/1152]; amended [Pub. L. 93–625, § 4(c)(1)][/us/pl/93/625/s4/c/1], Jan. 3, 1975, [88 Stat. 2111][/us/stat/88/2111]; [Pub. L. 94–455, title VI, § 605(b)][/us/pl/94/455/s605/b], Oct. 4, 1976, [90 Stat. 1575][/us/stat/90/1575]; [Pub. L. 99–514, title VIII, § 805(c)(1)(A)][/us/pl/99/514/s805/c/1/A], Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362], included increase in vacation pay suspense account in gross income.
+    Section, added [Pub. L. 89–722][/us/pl/89/722], § 1(b)(1), Nov. 2, 1966, [80 Stat. 1152][/us/stat/80/1152]; amended [Pub. L. 93–625][/us/pl/93/625], § 4(c)(1), Jan. 3, 1975, [88 Stat. 2111][/us/stat/88/2111]; [Pub. L. 94–455, title VI][/us/pl/94/455/tVI], § 605(b), Oct. 4, 1976, [90 Stat. 1575][/us/stat/90/1575]; [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 805(c)(1)(A), Oct. 22, 1986, [100 Stat. 2362][/us/stat/100/2362], included increase in vacation pay suspense account in gross income.
 
  __Effective Date of Repeal__ 
 
@@ -28,15 +28,15 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fb%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-387
-[/us/pl/89/722/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F722%2Fs1%2Fb%2F1
+[/us/pl/89/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F722
 [/us/stat/80/1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1152
-[/us/pl/93/625/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs4%2Fc%2F1
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2111
-[/us/pl/94/455/s605/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs605%2Fb
+[/us/pl/94/455/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVI
 [/us/stat/90/1575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1575
-[/us/pl/99/514/s805/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs805%2Fc%2F1%2FA
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2362
 [/us/pl/100/203/s10201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fc%2F1
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404

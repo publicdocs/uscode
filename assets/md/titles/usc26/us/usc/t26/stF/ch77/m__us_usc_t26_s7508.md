@@ -105,7 +105,7 @@
 
         Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597, § 5(a)][/us/pl/93/597/s5/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1906(a)(51)][/us/pl/94/455/s1906/a/51], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569, § 3(e)][/us/pl/94/569/s3/e], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589, § 6(i)(14)][/us/pl/96/589/s6/i/14], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III, § 307(d)][/us/pl/97/448/s307/d], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII, § 1708(a)(4)][/us/pl/99/514/s1708/a/4], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a]–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I, § 112(b)][/us/pl/107/134/s112/b], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I, § 104(a)][/us/pl/108/121/s104/a]–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV, § 403(a)][/us/pl/109/73/s403/a], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027]; [Pub. L. 114–94, div. C, title XXXII, § 32101(d)][/us/pl/114/94/s32101/d], Dec. 4, 2015, [129 Stat. 1732][/us/stat/129/1732]; [Pub. L. 114–113, div. Q, title III, § 309(a)][/us/pl/114/113/s309/a], Dec. 18, 2015, [129 Stat. 3089][/us/stat/129/3089].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597][/us/pl/93/597], § 5(a), Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(51), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569][/us/pl/94/569], § 3(e), Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589][/us/pl/96/589], § 6(i)(14), Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 307(d), Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1708(a)(4), Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2][/us/pl/102/2], § 1(a)–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 112(b), Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I][/us/pl/108/121/tI], § 104(a)–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV][/us/pl/109/73/tIV], § 403(a), Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027]; [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32101(d), Dec. 4, 2015, [129 Stat. 1732][/us/stat/129/1732]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 309(a), Dec. 18, 2015, [129 Stat. 3089][/us/stat/129/3089].)
 
  __Amendments__ 
 
@@ -119,21 +119,21 @@
 
     “(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
 
-    2003—[Pub. L. 108–121, § 104(b)(2)][/us/pl/108/121/s104/b/2], inserted “or contingency operation” after “combat zone” in section catchline.
+    2003—[Pub. L. 108–121][/us/pl/108/121], § 104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
 
-    Subsec. (a). [Pub. L. 108–121, § 104(a)][/us/pl/108/121/s104/a], in introductory provisions, inserted “, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
+    Subsec. (a). [Pub. L. 108–121][/us/pl/108/121], § 104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
 
-    Subsec. (d). [Pub. L. 108–121, § 104(b)(1)][/us/pl/108/121/s104/b/1], inserted “or contingency operation” after “area”.
+    Subsec. (d). [Pub. L. 108–121][/us/pl/108/121], § 104(b)(1), inserted “or contingency operation” after “area”.
 
     2002—Subsec. (a)(1)(K). [Pub. L. 107–134][/us/pl/107/134] struck out “in regulations prescribed under this section” before “by the Secretary”.
 
-    1991—Subsec. (a). [Pub. L. 102–2, § 1(c)(1)][/us/pl/102/2/s1/c/1], in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+    1991—Subsec. (a). [Pub. L. 102–2][/us/pl/102/2], § 1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
 
-    Subsec. (a)(2). [Pub. L. 102–2, § 1(b)(2)][/us/pl/102/2/s1/b/2], struck out “(including interest)” after “refund”.
+    Subsec. (a)(2). [Pub. L. 102–2][/us/pl/102/2], § 1(b)(2), struck out “(including interest)” after “refund”.
 
-    Subsecs. (b) to (e). [Pub. L. 102–2, § 1(b)(1)][/us/pl/102/2/s1/b/1], added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+    Subsecs. (b) to (e). [Pub. L. 102–2][/us/pl/102/2], § 1(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
-    Subsecs. (f), (g). [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a], (c)(2), added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 102–2][/us/pl/102/2], § 1(a), (c)(2), added subsecs. (f) and (g).
 
     1986—Subsec. (b). [Pub. L. 99–514][/us/pl/99/514] amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
 
@@ -145,31 +145,31 @@
 
     1980—Subsec. (d). [Pub. L. 96–589][/us/pl/96/589] substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
 
-    1976—[Pub. L. 94–455, § 1906(a)(51)(A)][/us/pl/94/455/s1906/a/51/A], substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
 
-    Subsec. (a). [Pub. L. 94–455, § 1906(a)(51)(B)][/us/pl/94/455/s1906/a/51/B], (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
+    Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
 
     Subsec. (b). [Pub. L. 94–569][/us/pl/94/569] substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
 
-    Subsec. (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
     1975—Subsecs. (b) to (d). [Pub. L. 93–597][/us/pl/93/597] added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title III, § 309(b)][/us/pl/114/113/s309/b], Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 309(b), Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxes assessed before, on, or after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–73, title IV, § 403(c)][/us/pl/109/73/s403/c], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027], provided that: 
+[Pub. L. 109–73, title IV][/us/pl/109/73/tIV], § 403(c), Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply for any period for performing an act which has not expired before August 25, 2005.”
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–121, title I, § 104(c)][/us/pl/108/121/s104/c], Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338], provided that: 
+[Pub. L. 108–121, title I][/us/pl/108/121/tI], § 104(c), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act \[Nov. 11, 2003\].”
 
@@ -179,7 +179,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–2, § 1(d)][/us/pl/102/2/s1/d], Jan. 30, 1991, [105 Stat. 6][/us/stat/105/6], provided that: 
+[Pub. L. 102–2][/us/pl/102/2], § 1(d), Jan. 30, 1991, [105 Stat. 6][/us/stat/105/6], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on August 2, 1990.”
 
@@ -197,13 +197,13 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–597, § 5(b)][/us/pl/93/597/s5/b], Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953], provided that: 
+[Pub. L. 93–597][/us/pl/93/597], § 5(b), Jan. 2, 1975, [88 Stat. 1953][/us/stat/88/1953], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
 
  __Transfer of Functions__ 
 
-    Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by [Pub. L. 91–375, § 4(a)][/us/pl/91/375/s4/a], Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service.
+    Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by [Pub. L. 91–375][/us/pl/91/375], § 4(a), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], set out as a note under [section 201 of Title 39][/us/usc/t39/s201], Postal Service.
 
  __Ex. Ord. No. 12750. Designation of Arabian Peninsula Areas, Airspace, and Adjacent Waters as Persian Gulf Desert Shield Area__ 
 
@@ -235,60 +235,60 @@
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F898
-[/us/pl/93/597/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs5%2Fa
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1952
-[/us/pl/94/455/s1906/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F51
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1831
-[/us/pl/94/569/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569%2Fs3%2Fe
+[/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/stat/90/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2700
-[/us/pl/96/589/s6/i/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fi%2F14
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3411
-[/us/pl/97/448/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs307%2Fd
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2407
-[/us/pl/99/514/s1708/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1708%2Fa%2F4
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2782
-[/us/pl/102/2/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fa
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
 [/us/stat/105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F5
-[/us/pl/107/134/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs112%2Fb
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2434
-[/us/pl/108/121/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fa
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1338
-[/us/pl/109/73/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2Fs403%2Fa
+[/us/pl/109/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2FtIV
 [/us/stat/119/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2027
-[/us/pl/114/94/s32101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fd
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1732
-[/us/pl/114/113/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309%2Fa
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3089
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73
-[/us/pl/108/121/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fb%2F2
-[/us/pl/108/121/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fa
+[/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
+[/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/108/121/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fb%2F1
+[/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
-[/us/pl/102/2/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fc%2F1
-[/us/pl/102/2/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fb%2F2
-[/us/pl/102/2/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fb%2F1
-[/us/pl/102/2/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fa
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
-[/us/pl/94/455/s1906/a/51/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F51%2FA
-[/us/pl/94/455/s1906/a/51/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F51%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
-[/us/pl/114/113/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309%2Fb
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3090
-[/us/pl/109/73/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2Fs403%2Fc
+[/us/pl/109/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2FtIV
 [/us/stat/119/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2027
-[/us/pl/108/121/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fc
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1338
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s112/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs112%2Ff
 [/us/usc/t26/s6081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6081
-[/us/pl/102/2/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2%2Fs1%2Fd
+[/us/pl/102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F2
 [/us/stat/105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F6
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1708/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1708%2Fb
@@ -299,9 +299,9 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fd%2F1
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
-[/us/pl/93/597/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs5%2Fb
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1953
-[/us/pl/91/375/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375%2Fs4%2Fa
+[/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/usc/t39/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs201
 [/us/usc/t26/s7508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7508

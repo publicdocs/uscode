@@ -59,17 +59,17 @@
 
             (B) the cost of securities and other property purchased during such year which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 25][/us/stat/68A/25]; [Pub. L. 85–866, title I, § 2(a)][/us/pl/85/866/s2/a], Sept. 2, 1958, [72 Stat. 1606][/us/stat/72/1606].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 25][/us/stat/68A/25]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 2(a), Sept. 2, 1958, [72 Stat. 1606][/us/stat/72/1606].)
 
  __Amendments__ 
 
-    1958—Subsec. (a). [Pub. L. 85–866, § 2(a)(2)][/us/pl/85/866/s2/a/2], (3), struck out “short-term” each place it appeared, and inserted sentence to provide that no reduction to cost of securities sold during taxable year shall be made in respect of subsec. (b)(1)(A)(ii) obligations held at close of year, and to permit reduction in cost of securities sold in taxable year sold if obligation is municipal bond.
+    1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866], § 2(a)(2), (3), struck out “short-term” each place it appeared, and inserted sentence to provide that no reduction to cost of securities sold during taxable year shall be made in respect of subsec. (b)(1)(A)(ii) obligations held at close of year, and to permit reduction in cost of securities sold in taxable year sold if obligation is municipal bond.
 
-    Subsec. (b)(1). [Pub. L. 85–866, § 2(a)(1)][/us/pl/85/866/s2/a/1], substituted “municipal bond” for “short-term municipal bond”, designated former subpars. (A) and (B) as (A)(i) and (ii), respectively, and added subpar. (B).
+    Subsec. (b)(1). [Pub. L. 85–866][/us/pl/85/866], § 2(a)(1), substituted “municipal bond” for “short-term municipal bond”, designated former subpars. (A) and (B) as (A)(i) and (ii), respectively, and added subpar. (B).
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, § 2(c)][/us/pl/85/866/s2/c], Sept. 2, 1958, [72 Stat. 1607][/us/stat/72/1607], provided that: 
+[Pub. L. 85–866][/us/pl/85/866], § 2(c), Sept. 2, 1958, [72 Stat. 1607][/us/stat/72/1607], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1016 of this title][/us/usc/t26/s1016]\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to obligations acquired after such date.”
 
@@ -82,11 +82,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F25
-[/us/pl/85/866/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs2%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1606
-[/us/pl/85/866/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs2%2Fa%2F2
-[/us/pl/85/866/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs2%2Fa%2F1
-[/us/pl/85/866/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs2%2Fc
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/stat/72/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1607
 [/us/usc/t26/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1016
 

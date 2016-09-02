@@ -39,7 +39,7 @@
 
             The Secretary shall publish guidance as appropriate to define and implement any waiver of the signature requirements or any method adopted under paragraph (1).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 748][/us/stat/68A/748]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–206, title II, § 2003(a)][/us/pl/105/206/s2003/a], July 22, 1998, [112 Stat. 724][/us/stat/112/724].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 748][/us/stat/68A/748]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–206, title II][/us/pl/105/206/tII], § 2003(a), July 22, 1998, [112 Stat. 724][/us/stat/112/724].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title II, § 2003(f)][/us/pl/105/206/s2003/f], July 22, 1998, [112 Stat. 725][/us/stat/112/725], provided that: 
+[Pub. L. 105–206, title II][/us/pl/105/206/tII], § 2003(f), July 22, 1998, [112 Stat. 725][/us/stat/112/725], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 7502 of this title][/us/usc/t26/s7502]\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -62,13 +62,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F748
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/206/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs2003%2Fa
+[/us/pl/105/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtII
 [/us/stat/112/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F724
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/105/206/s2003/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs2003%2Ff
+[/us/pl/105/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtII
 [/us/stat/112/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F725
 [/us/usc/t26/s7502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7502
 

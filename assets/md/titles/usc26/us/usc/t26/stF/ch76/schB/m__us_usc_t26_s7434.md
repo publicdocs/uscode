@@ -49,7 +49,7 @@
 
         For purposes of this section, the term “information return” means any statement described in section 6724(d)(1)(A).
 
-(Added [Pub. L. 104–168, title VI, § 601(a)][/us/pl/104/168/s601/a], July 30, 1996, [110 Stat. 1462][/us/stat/110/1462]; amended [Pub. L. 105–206, title VI, § 6023(29)][/us/pl/105/206/s6023/29], July 22, 1998, [112 Stat. 826][/us/stat/112/826].)
+(Added [Pub. L. 104–168, title VI][/us/pl/104/168/tVI], § 601(a), July 30, 1996, [110 Stat. 1462][/us/stat/110/1462]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6023(29), July 22, 1998, [112 Stat. 826][/us/stat/112/826].)
 
  __Prior Provisions__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–168, title VI, § 601(c)][/us/pl/104/168/s601/c], July 30, 1996, [110 Stat. 1462][/us/stat/110/1462], provided that: 
+[Pub. L. 104–168, title VI][/us/pl/104/168/tVI], § 601(c), July 30, 1996, [110 Stat. 1462][/us/stat/110/1462], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering former section 7434 as 7435 of this title\] shall apply to fraudulent information returns filed after the date of the enactment of this Act \[July 30, 1996\].”
 
@@ -72,12 +72,12 @@
 ----------
 ----------
 
-[/us/pl/104/168/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs601%2Fa
+[/us/pl/104/168/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVI
 [/us/stat/110/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1462
-[/us/pl/105/206/s6023/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F29
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F826
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/104/168/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs601%2Fc
+[/us/pl/104/168/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVI
 [/us/stat/110/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1462
 
 

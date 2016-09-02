@@ -43,11 +43,11 @@
 
         For purposes of this subchapter the term “liquid sugar” means a substantially colorless pure sugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1387][/us/stat/72/1387]; amended [Pub. L. 89–44, title VIII, § 806(b)(3)][/us/pl/89/44/s806/b/3], June 21, 1965, [79 Stat. 163][/us/stat/79/163]; [Pub. L. 94–455, title XIX, § 1905(a)(21)][/us/pl/94/455/s1905/a/21], Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1387][/us/stat/72/1387]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 806(b)(3), June 21, 1965, [79 Stat. 163][/us/stat/79/163]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(a)(21), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820].)
 
  __References in Text__ 
 
-    Section 17(a)(5) of the Federal Alcohol Administration Act, as amended ([27 U.S.C. 211][/us/usc/t27/s211]), referred to in subsec. (f), was renumbered section 117(a)(5) of the Federal Alcohol Administration Act by [Pub. L. 100–690, title VIII, § 8001(a)(2)][/us/pl/100/690/s8001/a/2], Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], and is classified to [section 211(a)(5) of Title 27][/us/usc/t27/s211/a/5], Intoxicating Liquors.
+    Section 17(a)(5) of the Federal Alcohol Administration Act, as amended ([27 U.S.C. 211][/us/usc/t27/s211]), referred to in subsec. (f), was renumbered section 117(a)(5) of the Federal Alcohol Administration Act by [Pub. L. 100–690, title VIII][/us/pl/100/690/tVIII], § 8001(a)(2), Nov. 18, 1988, [102 Stat. 4517][/us/stat/102/4517], and is classified to [section 211(a)(5) of Title 27][/us/usc/t27/s211/a/5], Intoxicating Liquors.
 
  __Prior Provisions__ 
 
@@ -57,9 +57,9 @@
 
     1976—Subsec. (f). [Pub. L. 94–455][/us/pl/94/455] struck out “[49 Stat. 990][/us/stat/49/990];” before “[27 U.S.C. 211][/us/usc/t27/s211]”.
 
-    1965—Subsec. (c). [Pub. L. 89–44, § 806(b)(3)(A)][/us/pl/89/44/s806/b/3/A], added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
+    1965—Subsec. (c). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
 
-    Subsec. (g). [Pub. L. 89–44, § 806(b)(3)(B)][/us/pl/89/44/s806/b/3/B], added subsec. (g).
+    Subsec. (g). [Pub. L. 89–44][/us/pl/89/44], § 806(b)(3)(B), added subsec. (g).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -77,14 +77,14 @@
 ----------
 
 [/us/usc/t27/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1387
-[/us/pl/89/44/s806/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F3
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F163
-[/us/pl/94/455/s1905/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F21
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
 [/us/usc/t27/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211
-[/us/pl/100/690/s8001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs8001%2Fa%2F2
+[/us/pl/100/690/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVIII
 [/us/stat/102/4517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4517
 [/us/usc/t27/s211/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211%2Fa%2F5
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
@@ -93,8 +93,8 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/49/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F990
 [/us/usc/t27/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211
-[/us/pl/89/44/s806/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F3%2FA
-[/us/pl/89/44/s806/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs806%2Fb%2F3%2FB
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1905/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fd
 [/us/usc/t26/s5005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5005

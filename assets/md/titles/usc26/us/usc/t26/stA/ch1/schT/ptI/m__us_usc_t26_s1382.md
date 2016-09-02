@@ -87,7 +87,7 @@
 
             For purposes of this subsection, the term “completed crop pool method of accounting” means a method of accounting under which gain or loss is computed separately for each crop year pool in the year in which the last of the products in the pool are disposed of.
 
-(Added [Pub. L. 87–834, § 17(a)][/us/pl/87/834/s17/a], Oct. 16, 1962, [76 Stat. 1046][/us/stat/76/1046]; amended [Pub. L. 89–809, title II, § 211(a)(1)][/us/pl/89/809/s211/a/1]–(4), Nov. 13, 1966, [80 Stat. 1580][/us/stat/80/1580], 1581; [Pub. L. 91–172, title IX, § 911(a)][/us/pl/91/172/s911/a], Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–345, § 3][/us/pl/95/345/s3], Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 17(a), Oct. 16, 1962, [76 Stat. 1046][/us/stat/76/1046]; amended [Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(a)(1)–(4), Nov. 13, 1966, [80 Stat. 1580][/us/stat/80/1580], 1581; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 911(a), Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–345][/us/pl/95/345], § 3, Aug. 15, 1978, [92 Stat. 483][/us/stat/92/483].)
 
  __Amendments__ 
 
@@ -97,23 +97,23 @@
 
     1969—Subsec. (b)(3). [Pub. L. 91–172][/us/pl/91/172] expanded the category of per-unit retain allocations that may not be taken into account in determining the taxable income of an organization, by including per-unit retain allocations paid for in money or other property (except nonqualified per-unit retain certificates as defined in section 1388(i) of this section).
 
-    1966—Subsec. (a). [Pub. L. 89–809, § 211(a)(1)][/us/pl/89/809/s211/a/1], inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
+    1966—Subsec. (a). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(1), inserted reference to amounts paid to patrons as a per-unit retain allocation as defined in section 1388(f).
 
-    Subsec. (b). [Pub. L. 89–809, § 211(a)(2)][/us/pl/89/809/s211/a/2], inserted “and per-unit retain allocations” in heading, added pars. (3) and (4), and, in text following par. (4), inserted provisions making existing text applicable only to amounts described in pars. (1) and (2) and inserted text covering the treatment of amounts described in pars. (3) and (4).
+    Subsec. (b). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(2), inserted “and per-unit retain allocations” in heading, added pars. (3) and (4), and, in text following par. (4), inserted provisions making existing text applicable only to amounts described in pars. (1) and (2) and inserted text covering the treatment of amounts described in pars. (3) and (4).
 
-    Subsec. (e). [Pub. L. 89–809, § 211(a)(3)][/us/pl/89/809/s211/a/3], inserted provision that the marketing of products shall be treated as occurring during any of the taxable years in which the pool is open.
+    Subsec. (e). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(3), inserted provision that the marketing of products shall be treated as occurring during any of the taxable years in which the pool is open.
 
-    Subsec. (f). [Pub. L. 89–809, § 211(a)(4)][/us/pl/89/809/s211/a/4], substituted “paragraphs (1) and (2) of subsection (b)” for “subsection (b)”.
+    Subsec. (f). [Pub. L. 89–809][/us/pl/89/809], § 211(a)(4), substituted “paragraphs (1) and (2) of subsection (b)” for “subsection (b)”.
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IX, § 911(c)][/us/pl/91/172/s911/c], Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 911(c), Dec. 30, 1969, [83 Stat. 722][/us/stat/83/722], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1388 of this title][/us/usc/t26/s1388]\] shall apply to per-unit retain allocations made after October 9, 1969.”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–809, title II, § 211(e)][/us/pl/89/809/s211/e], Nov. 13, 1966, [80 Stat. 1584][/us/stat/80/1584], provided that:
+[Pub. L. 89–809, title II][/us/pl/89/809/tII], § 211(e), Nov. 13, 1966, [80 Stat. 1584][/us/stat/80/1584], provided that:
 
 >     “(1) The amendments made by subsections (a), (b), and (c) \[amending this section and sections 1383, 1385, and 1388 of this title\] shall apply to per-unit retain allocations made during taxable years of an organization described in section 1381(a) (relating to organizations to which part I of subchapter T of chapter 1 applies) beginning after April 30, 1966, with respect to products delivered during such years.
 
@@ -130,27 +130,27 @@
 ----------
 ----------
 
-[/us/pl/87/834/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1046
-[/us/pl/89/809/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F1
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1580
-[/us/pl/91/172/s911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs911%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F722
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/345/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs3
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/stat/92/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F483
 [/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/89/809/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F1
-[/us/pl/89/809/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F2
-[/us/pl/89/809/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F3
-[/us/pl/89/809/s211/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fa%2F4
-[/us/pl/91/172/s911/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs911%2Fc
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F722
 [/us/usc/t26/s1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1388
-[/us/pl/89/809/s211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs211%2Fe
+[/us/pl/89/809/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtII
 [/us/stat/80/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1584
 [/us/usc/t26/s6044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6044
 [/us/usc/t26/s1381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1381%2Fa

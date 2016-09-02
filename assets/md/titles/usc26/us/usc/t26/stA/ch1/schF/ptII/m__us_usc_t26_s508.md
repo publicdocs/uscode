@@ -89,7 +89,7 @@
 
         A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide) whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.
 
-(Added [Pub. L. 91–172, title I, § 101(a)][/us/pl/91/172/s101/a], Dec. 30, 1969, [83 Stat. 494][/us/stat/83/494]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1794, 1834; [Pub. L. 108–357, title IV, § 413(c)(30)][/us/pl/108/357/s413/c/30], Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 109–280, title XII, § 1235(b)(1)][/us/pl/109/280/s1235/b/1], Aug. 17, 2006, [120 Stat. 1101][/us/stat/120/1101].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(a), Dec. 30, 1969, [83 Stat. 494][/us/stat/83/494]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1794, 1834; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(30), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1235(b)(1), Aug. 17, 2006, [120 Stat. 1101][/us/stat/120/1101].)
 
  __Amendments__ 
 
@@ -97,31 +97,31 @@
 
     2004—Subsec. (d)(1), (2). [Pub. L. 108–357][/us/pl/108/357] struck out “556(b)(2),” after “545(b)(2),”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1901(a)(71)(A)][/us/pl/94/455/s1901/a/71/A], struck out last sentence providing that for purposes of paragraph (2), the time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(71)(A), struck out last sentence providing that for purposes of paragraph (2), the time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final.
 
-    Subsec. (a)(1), (2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” in three places after “Secretary”.
+    Subsec. (a)(1), (2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” in three places after “Secretary”.
 
     Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(71)(A), 1906(b)(13)(A), struck out “or his delegate” in two places after “Secretary” and “The time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final” after “a private foundation”.
 
-    Subsec. (c)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c)(2)(A). [Pub. L. 94–455, § 1901(b)(8)(E)][/us/pl/94/455/s1901/b/8/E], substituted “(A) educational organizations described in section 170(b)(1)(A)(ii), and” for “(A) educational organizations which normally maintain a regular faculty and curriculum and normally have a regularly enrolled body of pupils or students in attendance at the place where their educational activities are regularly carried on; and” after “(b) or both—”.
+    Subsec. (c)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(8)(E), substituted “(A) educational organizations described in section 170(b)(1)(A)(ii), and” for “(A) educational organizations which normally maintain a regular faculty and curriculum and normally have a regularly enrolled body of pupils or students in attendance at the place where their educational activities are regularly carried on; and” after “(b) or both—”.
 
-    Subsec. (c)(2)(B). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(2)(B). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d)(2)(A). [Pub. L. 94–455, § 1901(a)(71)(C)][/us/pl/94/455/s1901/a/71/C], substituted “(e)(2)” for “(e)(2)(B) and (C)” after “regard to subsection”.
+    Subsec. (d)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(71)(C), substituted “(e)(2)” for “(e)(2)(B) and (C)” after “regard to subsection”.
 
-    Subsec. (d)(3). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (d)(3). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e)(2)(A). [Pub. L. 94–455, § 1901(a)(71)(B)][/us/pl/94/455/s1901/a/71/B], struck out subpar. (A) relating to taxable years beginning before 1972, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
+    Subsec. (e)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(71)(B), struck out subpar. (A) relating to taxable years beginning before 1972, and redesignated subpars. (B) and (C) as (A) and (B), respectively.
 
-    Subsec. (e)(2)(B). [Pub. L. 94–455, § 1901(a)(71)(B)][/us/pl/94/455/s1901/a/71/B], redesignated subpar. (C) as (B) and substituted “(A)” for “(B)” after “described in subparagraph”.
+    Subsec. (e)(2)(B). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(71)(B), redesignated subpar. (C) as (B) and substituted “(A)” for “(B)” after “described in subparagraph”.
 
-    Subsec. (e)(2)(C). [Pub. L. 94–455, § 1901(a)(71)(B)][/us/pl/94/455/s1901/a/71/B], redesignated subpar. (C) as (B).
+    Subsec. (e)(2)(C). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(71)(B), redesignated subpar. (C) as (B).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1235(b)(2)][/us/pl/109/280/s1235/b/2], Aug. 17, 2006, [120 Stat. 1102][/us/stat/120/1102], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1235(b)(2), Aug. 17, 2006, [120 Stat. 1102][/us/stat/120/1102], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to organizations applying for tax-exempt status after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -148,28 +148,28 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fa
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F494
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1776
-[/us/pl/108/357/s413/c/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F30
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
-[/us/pl/109/280/s1235/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1235%2Fb%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1101
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/94/455/s1901/a/71/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F71%2FA
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/8/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F8%2FE
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/71/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F71%2FC
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/71/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F71%2FB
-[/us/pl/94/455/s1901/a/71/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F71%2FB
-[/us/pl/94/455/s1901/a/71/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F71%2FB
-[/us/pl/109/280/s1235/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1235%2Fb%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1102
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1

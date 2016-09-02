@@ -57,11 +57,11 @@
 
         The written statement required under the preceding sentence shall be furnished to the shareholder on or before January 31 of the year following the calendar year during which the taxable acquisition occurred.
 
-(Added [Pub. L. 108–357, title VIII, § 805(a)][/us/pl/108/357/s805/a], Oct. 22, 2004, [118 Stat. 1573][/us/stat/118/1573].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 805(a), Oct. 22, 2004, [118 Stat. 1573][/us/stat/118/1573].)
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 805(d)][/us/pl/108/357/s805/d], Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 805(d), Oct. 22, 2004, [118 Stat. 1574][/us/stat/118/1574], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to acquisitions after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs805%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1573
-[/us/pl/108/357/s805/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs805%2Fd
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1574
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 

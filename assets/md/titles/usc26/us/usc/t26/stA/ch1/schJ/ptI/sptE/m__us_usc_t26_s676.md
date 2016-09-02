@@ -23,7 +23,7 @@
 
         Subsection (a) shall not apply to a power the exercise of which can only affect the beneficial enjoyment of the income for a period commencing after the occurrence of an event such that a grantor would not be treated as the owner under section 673 if the power were a reversionary interest. But the grantor may be treated as the owner after the occurrence of such event unless the power is relinquished.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 230][/us/stat/68A/230]; [Pub. L. 99–514, title XIV, § 1402(b)(2)][/us/pl/99/514/s1402/b/2], Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 230][/us/stat/68A/230]; [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1402(b)(2), Oct. 22, 1986, [100 Stat. 2712][/us/stat/100/2712].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F230
-[/us/pl/99/514/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1402%2Fb%2F2
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2712
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

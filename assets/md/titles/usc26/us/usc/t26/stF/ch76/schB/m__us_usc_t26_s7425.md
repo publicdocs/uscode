@@ -83,7 +83,7 @@
 
                 A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
 
-(Added [Pub. L. 89–719, title I, § 109][/us/pl/89/719/s109], Nov. 2, 1966, [80 Stat. 1141][/us/stat/80/1141]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV, § 1572(a)][/us/pl/99/514/s1572/a], Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765].)
+(Added [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 109, Nov. 2, 1966, [80 Stat. 1141][/us/stat/80/1141]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1572(a), Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765].)
 
  __Prior Provisions__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1572(b)][/us/pl/99/514/s1572/b], Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1572(b), Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to forfeitures after the 30th day after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
@@ -114,15 +114,15 @@
 
 [/us/usc/t28/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2410
 [/us/usc/t28/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2410
-[/us/pl/89/719/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs109
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1141
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1572/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1572%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2765
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/99/514/s1572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1572%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2765
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323

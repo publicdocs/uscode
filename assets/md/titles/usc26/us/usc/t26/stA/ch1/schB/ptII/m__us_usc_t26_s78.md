@@ -17,7 +17,7 @@
 
     If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under section 902(a) (relating to credit for corporate stockholder in foreign corporation) or under section 960(a)(1) (relating to taxes paid by foreign corporation) for such taxable year shall be treated for purposes of this title (other than section 245) as a dividend received by such domestic corporation from the foreign corporation.
 
-(Added [Pub. L. 87–834, § 9(b)][/us/pl/87/834/s9/b], Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001]; amended [Pub. L. 94–455, title X, § 1033(b)(1)][/us/pl/94/455/s1033/b/1], Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628].)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 9(b), Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001]; amended [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1033(b)(1), Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/87/834/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs9%2Fb
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1001
-[/us/pl/94/455/s1033/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1033%2Fb%2F1
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1628
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

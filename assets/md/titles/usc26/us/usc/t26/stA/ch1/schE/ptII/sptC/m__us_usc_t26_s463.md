@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s462.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s464.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs463)
 
-## \[§ 463. Repealed. [Pub. L. 100–203, title X, § 10201(a)][/us/pl/100/203/s10201/a], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]\]
+## \[§ 463. Repealed. [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10201(a), Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]\]
 
-    Section, added [Pub. L. 93–625, § 4(a)][/us/pl/93/625/s4/a], Jan. 3, 1974, [88 Stat. 2109][/us/stat/88/2109]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title V, § 561(a)][/us/pl/98/369/s561/a], July 18, 1984, [98 Stat. 901][/us/stat/98/901]; [Pub. L. 99–514, title XI, § 1165(a)][/us/pl/99/514/s1165/a], Oct. 22, 1986, [100 Stat. 2511][/us/stat/100/2511], related to deduction allowable for accrual basis taxpayers under [section 162(a) of this title][/us/usc/t26/s162/a] with respect to vacation pay.
+    Section, added [Pub. L. 93–625][/us/pl/93/625], § 4(a), Jan. 3, 1974, [88 Stat. 2109][/us/stat/88/2109]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 561(a), July 18, 1984, [98 Stat. 901][/us/stat/98/901]; [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1165(a), Oct. 22, 1986, [100 Stat. 2511][/us/stat/100/2511], related to deduction allowable for accrual basis taxpayers under [section 162(a) of this title][/us/usc/t26/s162/a] with respect to vacation pay.
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Change in Method of Accounting Required by Pub. L. 100–203__ 
 
-[Pub. L. 100–203, title X, § 10201(c)(2)][/us/pl/100/203/s10201/c/2], Dec. 22, 1987, [101 Stat. 1330–388][/us/stat/101/1330-388], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10201(c)(2), Dec. 22, 1987, [101 Stat. 1330–388][/us/stat/101/1330-388], provided that: 
 
 > “In the case of any taxpayer who elected to have section 463 of the Internal Revenue Code of 1986 apply for such taxpayer’s last taxable year beginning before January 1, 1988, and who is required to change his method of accounting by reason of the amendments made by this section \[amending sections 404, 419, and 461 of this title, repealing sections 81 and 463 of this title, and enacting provisions set out as a note under [section 404 of this title][/us/usc/t26/s404]\]—
 
@@ -124,20 +124,20 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-387
-[/us/pl/93/625/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs4%2Fa
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2109
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s561/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs561%2Fa
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F901
-[/us/pl/99/514/s1165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1165%2Fa
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2511
 [/us/usc/t26/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162%2Fa
 [/us/pl/100/203/s10201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fc%2F1
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
-[/us/pl/100/203/s10201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10201%2Fc%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-388
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
 

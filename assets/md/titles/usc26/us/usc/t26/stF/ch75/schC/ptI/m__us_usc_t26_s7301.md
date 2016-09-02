@@ -35,7 +35,7 @@
 
         Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or for the deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 867][/us/stat/68A/867]; [Pub. L. 85–859, title II, § 204(8)][/us/pl/85/859/s204/8], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 867][/us/stat/68A/867]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(8), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429].)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F867
-[/us/pl/85/859/s204/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F8
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1429
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859

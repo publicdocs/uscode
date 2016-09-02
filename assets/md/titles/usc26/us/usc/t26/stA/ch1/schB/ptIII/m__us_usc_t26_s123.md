@@ -27,7 +27,7 @@
 
         (2) the normal living expenses which would have been incurred for himself and members of his household during such period.
 
-(Added [Pub. L. 91–172, title IX, § 901(a)][/us/pl/91/172/s901/a], Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709].)
+(Added [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 901(a), Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title IX, § 901(c)][/us/pl/91/172/s901/c], Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 901(c), Dec. 30, 1969, [83 Stat. 709][/us/stat/83/709], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply with respect to amounts received on or after January 1, 1969.”
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/91/172/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs901%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F709
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/91/172/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs901%2Fc
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F709
 
 

@@ -57,7 +57,7 @@
 
             For purposes of subparagraph (B), the cost of management and supervision of special compliance personnel shall be taken into account as direct overhead costs to the extent such costs, when included in total program costs under this paragraph, do not represent more than 10 percent of such total costs.
 
-(Added [Pub. L. 114–94, div. C, title XXXII, § 32103(b)][/us/pl/114/94/s32103/b], Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736].)
+(Added [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32103(b), Dec. 4, 2015, [129 Stat. 1736][/us/stat/129/1736].)
 
 ----------
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s32103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32103%2Fb
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1736
 
 

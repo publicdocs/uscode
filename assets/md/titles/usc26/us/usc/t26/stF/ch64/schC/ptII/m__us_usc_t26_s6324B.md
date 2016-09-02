@@ -41,7 +41,7 @@
 
         To the extent provided in regulations prescribed by the Secretary, the furnishing of security may be substituted for the lien imposed by this section.
 
-(Added [Pub. L. 94–455, title XX, § 2003(b)][/us/pl/94/455/s2003/b], Oct. 4, 1976, [90 Stat. 1861][/us/stat/90/1861]; amended [Pub. L. 95–600, title VII, § 702(r)(4)][/us/pl/95/600/s702/r/4], Nov. 6, 1978, [92 Stat. 2939][/us/stat/92/2939]; [Pub. L. 96–222, title I, § 108(d)][/us/pl/96/222/s108/d], Apr. 1, 1980, [94 Stat. 228][/us/stat/94/228]; [Pub. L. 97–34, title IV, § 421(d)(2)(B)][/us/pl/97/34/s421/d/2/B], Aug. 13, 1981, [95 Stat. 309][/us/stat/95/309].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2003(b), Oct. 4, 1976, [90 Stat. 1861][/us/stat/90/1861]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(r)(4), Nov. 6, 1978, [92 Stat. 2939][/us/stat/92/2939]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 108(d), Apr. 1, 1980, [94 Stat. 228][/us/stat/94/228]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 421(d)(2)(B), Aug. 13, 1981, [95 Stat. 309][/us/stat/95/309].)
 
  __Amendments__ 
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2003%2Fb
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1861
-[/us/pl/95/600/s702/r/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fr%2F4
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2939
-[/us/pl/96/222/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs108%2Fd
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F228
-[/us/pl/97/34/s421/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs421%2Fd%2F2%2FB
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F309
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222

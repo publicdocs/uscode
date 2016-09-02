@@ -59,15 +59,15 @@
 
  __Prior Provisions__ 
 
-    A prior part II, consisting of subparts A to G, related to occupational tax, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part II, consisting of subparts A to G, related to occupational tax, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11125(b)(1)(A)][/us/pl/109/59/s11125/b/1/A], Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], amended part heading and table of subparts generally, substituting “MISCELLANEOUS PROVISIONS” for “OCCUPATIONAL TAX” in part heading, “Manufacturers of stills” for “Proprietors of distilled spirits plants, bonded wine cellars, etc.” in item for subpart A, “Nonbeverage domestic drawback claimants” for “Brewer” in item for subpart B, “Recordkeeping by dealers” for “Manufacturers of stills” in item for subpart C, and “Other provisions” for “Wholesale dealers” in item for subpart D and striking out items for subparts E “Retail dealers”, F “Nonbeverage domestic drawback claimants”, and G “General provisions”.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(1)(A), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], amended part heading and table of subparts generally, substituting “MISCELLANEOUS PROVISIONS” for “OCCUPATIONAL TAX” in part heading, “Manufacturers of stills” for “Proprietors of distilled spirits plants, bonded wine cellars, etc.” in item for subpart A, “Nonbeverage domestic drawback claimants” for “Brewer” in item for subpart B, “Recordkeeping by dealers” for “Manufacturers of stills” in item for subpart C, and “Other provisions” for “Wholesale dealers” in item for subpart D and striking out items for subparts E “Retail dealers”, F “Nonbeverage domestic drawback claimants”, and G “General provisions”.
 
-    1987—[Pub. L. 100–203, title X, § 10512(a)(1)(C)][/us/pl/100/203/s10512/a/1/C], Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448], added item for subpart A.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(a)(1)(C), Dec. 22, 1987, [101 Stat. 1330–448][/us/stat/101/1330-448], added item for subpart A.
 
-    1979—[Pub. L. 96–39, title VIII, § 807(b)(3)][/us/pl/96/39/s807/b/3], July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item for subpart A “Rectifier” in table of subparts comprising part II.
+    1979—[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(b)(3), July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item for subpart A “Rectifier” in table of subparts comprising part II.
 
 ----------
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/109/59/s11125/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F1%2FA
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
-[/us/pl/100/203/s10512/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Fa%2F1%2FC
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-448
-[/us/pl/96/39/s807/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fb%2F3
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F290
 
 

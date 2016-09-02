@@ -263,7 +263,7 @@
 
             This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 538][/us/stat/98/538]; amended [Pub. L. 99–121, title I][/us/pl/99/121], §§ 101(a)(1), (b), (c), 102(b), Oct. 11, 1985, [99 Stat. 505][/us/stat/99/505], 506, 508; [Pub. L. 99–514, title XVIII, § 1803(a)(14)(A)][/us/pl/99/514/s1803/a/14/A], Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797]; [Pub. L. 101–239, title VII, § 7721(c)(11)][/us/pl/101/239/s7721/c/11], Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400]; [Pub. L. 104–188, title I, § 1704(t)(78)][/us/pl/104/188/s1704/t/78], Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 538][/us/stat/98/538]; amended [Pub. L. 99–121, title I][/us/pl/99/121/tI], §§ 101(a)(1), (b), (c), 102(b), Oct. 11, 1985, [99 Stat. 505][/us/stat/99/505], 506, 508; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1803(a)(14)(A), Oct. 22, 1986, [100 Stat. 2797][/us/stat/100/2797]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(c)(11), Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(78), Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 312(d)(1), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839].)
 
  __References in Text__ 
 
@@ -277,23 +277,23 @@
 
     1989—Subsec. (b)(3)(B)(i). [Pub. L. 101–239][/us/pl/101/239] substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
 
-    1986—Subsec. (c)(3)(A). [Pub. L. 99–514][/us/pl/99/514] substituted “for $1,000,000 or less” for “for less than $1,000,000” in heading of subsec. (c)(4)(A) as so designated prior to its redesignation as subsec. (c)(3)(A) by [Pub. L. 99–121, § 101(a)(1)(D)][/us/pl/99/121/s101/a/1/D], see 1985 Amendment note below.
+    1986—Subsec. (c)(3)(A). [Pub. L. 99–514][/us/pl/99/514] substituted “for $1,000,000 or less” for “for less than $1,000,000” in heading of subsec. (c)(4)(A) as so designated prior to its redesignation as subsec. (c)(3)(A) by [Pub. L. 99–121][/us/pl/99/121], § 101(a)(1)(D), see 1985 Amendment note below.
 
-    1985—Subsec. (b)(2)(B). [Pub. L. 99–121, § 101(a)(1)(A)][/us/pl/99/121/s101/a/1/A], struck out “120 percent of” after “rate equal to”.
+    1985—Subsec. (b)(2)(B). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(1)(A), struck out “120 percent of” after “rate equal to”.
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 99–121, § 101(a)(1)(B)][/us/pl/99/121/s101/a/1/B], amended cl. (ii) generally, substituting “the imputed principal amount of such debt instrument determined under subsection (b)” for “the testing amount”.
+    Subsec. (c)(1)(A)(ii). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(1)(B), amended cl. (ii) generally, substituting “the imputed principal amount of such debt instrument determined under subsection (b)” for “the testing amount”.
 
-    Subsec. (c)(2). [Pub. L. 99–121, § 101(a)(1)(C)][/us/pl/99/121/s101/a/1/C], substituted “the imputed principal amount of such debt instrument determined under subsection (b)” for “the testing amount”.
+    Subsec. (c)(2). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(1)(C), substituted “the imputed principal amount of such debt instrument determined under subsection (b)” for “the testing amount”.
 
-    Subsec. (c)(3). [Pub. L. 99–121, § 101(a)(1)(D)][/us/pl/99/121/s101/a/1/D], redesignated par. (4) as (3). Former par. (3), defining “testing amount”, was struck out.
+    Subsec. (c)(3). [Pub. L. 99–121][/us/pl/99/121], § 101(a)(1)(D), redesignated par. (4) as (3). Former par. (3), defining “testing amount”, was struck out.
 
-    Subsec. (c)(4). [Pub. L. 99–121, § 102(b)][/us/pl/99/121/s102/b], added par. (4). Former par. (4) redesignated (3).
+    Subsec. (c)(4). [Pub. L. 99–121][/us/pl/99/121], § 102(b), added par. (4). Former par. (4) redesignated (3).
 
-    Subsec. (d)(1)(B) to (D). [Pub. L. 99–121, § 101(b)(1)][/us/pl/99/121/s101/b/1], amended subpars. (B) to (D) generally, in subpar. (B) substituting provisions setting a monthly schedule for the determination of Federal rates for provisions which had formerly set a semi-annual schedule for the determination of such rates, in subpar. (C) substituting provisions setting a monthly schedule for the determination of Federal short-term, mid-term, and long-term rates based on the average market yield during any 1-month period ending in the month in which the determination is made for former provisions which had directed that the Federal rate determined under subpar. (A) apply during the appropriate 6-month period, and in subpar. (D) substituting provisions allowing a lower rate in certain cases for provisions relating to the setting of the Federal rate for any 6-month period.
+    Subsec. (d)(1)(B) to (D). [Pub. L. 99–121][/us/pl/99/121], § 101(b)(1), amended subpars. (B) to (D) generally, in subpar. (B) substituting provisions setting a monthly schedule for the determination of Federal rates for provisions which had formerly set a semi-annual schedule for the determination of such rates, in subpar. (C) substituting provisions setting a monthly schedule for the determination of Federal short-term, mid-term, and long-term rates based on the average market yield during any 1-month period ending in the month in which the determination is made for former provisions which had directed that the Federal rate determined under subpar. (A) apply during the appropriate 6-month period, and in subpar. (D) substituting provisions allowing a lower rate in certain cases for provisions relating to the setting of the Federal rate for any 6-month period.
 
-    Subsec. (d)(2). [Pub. L. 99–121, § 101(b)(2)][/us/pl/99/121/s101/b/2], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of any sale or exchange, the determination of the applicable Federal rate shall be made as of the first day on which there is a binding contract in writing for the sale or exchange.”
+    Subsec. (d)(2). [Pub. L. 99–121][/us/pl/99/121], § 101(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of any sale or exchange, the determination of the applicable Federal rate shall be made as of the first day on which there is a binding contract in writing for the sale or exchange.”
 
-    Subsec. (e). [Pub. L. 99–121, § 101(c)][/us/pl/99/121/s101/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 99–121][/us/pl/99/121], § 101(c), added subsec. (e).
 
  __Effective Date of 1997 Amendment__ 
 
@@ -305,11 +305,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–121, title I, § 105(a)][/us/pl/99/121/s105/a], Oct. 11, 1985, [99 Stat. 510][/us/stat/99/510], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 99–121, title I][/us/pl/99/121/tI], § 105(a), Oct. 11, 1985, [99 Stat. 510][/us/stat/99/510], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -338,31 +338,31 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F538
-[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F505
-[/us/pl/99/514/s1803/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F14%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2797
-[/us/pl/101/239/s7721/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F11
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2400
-[/us/pl/104/188/s1704/t/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F78
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1891
-[/us/pl/105/34/s312/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F1
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F839
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/121/s101/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F1%2FD
-[/us/pl/99/121/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F1%2FA
-[/us/pl/99/121/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F1%2FB
-[/us/pl/99/121/s101/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F1%2FC
-[/us/pl/99/121/s101/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fa%2F1%2FD
-[/us/pl/99/121/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fb
-[/us/pl/99/121/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fb%2F1
-[/us/pl/99/121/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fb%2F2
-[/us/pl/99/121/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs101%2Fc
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
+[/us/pl/99/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
@@ -370,12 +370,12 @@
 [/us/pl/101/239/s7721/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fd
 [/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/121/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs105%2Fa
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F510
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/612/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F612%2Fs2
 [/us/pl/98/369/s44/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44%2Fb

@@ -63,17 +63,17 @@
 
             (C) if he has neither sold nor contracted to sell the commodities involved in such claim, he agrees that there will be no such relief or shifting, and furnishes such bond as the Secretary may require to insure faithful compliance with his agreement.
 
-(Added [Pub. L. 85–323, § 1][/us/pl/85/323/s1], Feb. 11, 1958, [72 Stat. 9][/us/stat/72/9]; amended [Pub. L. 94–455, title XIX, § 1906(a)(29)][/us/pl/94/455/s1906/a/29], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1828][/us/stat/90/1828], 1834.)
+(Added [Pub. L. 85–323][/us/pl/85/323], § 1, Feb. 11, 1958, [72 Stat. 9][/us/stat/72/9]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(29), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1828][/us/stat/90/1828], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(a)(29)(A)][/us/pl/94/455/s1906/a/29/A], among other changes, struck out provisions allowing any claimant who has on or before Apr. 30, 1958, filed a claim for any amount to which subsec. (a) applies, may file a superseding claim after Apr. 30, 1958, conforming to the requirements of this section and covering the amount claimed in such prior claim.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(29)(A), among other changes, struck out provisions allowing any claimant who has on or before Apr. 30, 1958, filed a claim for any amount to which subsec. (a) applies, may file a superseding claim after Apr. 30, 1958, conforming to the requirements of this section and covering the amount claimed in such prior claim.
 
-    Subsec. (c). [Pub. L. 94–455, § 1906(a)(29)(B)][/us/pl/94/455/s1906/a/29/B], (C), redesignated subsec. (d) as (c) and struck out par. (3) relating to any amount claimed with respect to a commodity which has been lost, where a suit or proceeding was instituted before June 15, 1957. Former subsec. (c), relating to disallowance of any suit or proceeding which was barred on Apr. 30, 1958, was struck out.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(29)(B), (C), redesignated subsec. (d) as (c) and struck out par. (3) relating to any amount claimed with respect to a commodity which has been lost, where a suit or proceeding was instituted before June 15, 1957. Former subsec. (c), relating to disallowance of any suit or proceeding which was barred on Apr. 30, 1958, was struck out.
 
-    Subsecs. (d), (e). [Pub. L. 94–455, § 1906(a)(29)(B)][/us/pl/94/455/s1906/a/29/B], (b)(13)(A), redesignated subsec. (e) as (d) and struck out “or his delegate” after “Secretary”. Former subsec. (d) redesignated (c).
+    Subsecs. (d), (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(29)(B), (b)(13)(A), redesignated subsec. (e) as (d) and struck out “or his delegate” after “Secretary”. Former subsec. (d) redesignated (c).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 85–323, § 3][/us/pl/85/323/s3], Feb. 11, 1958, [72 Stat. 10][/us/stat/72/10], provided that this section shall not apply to any credit or refund allowed or made before May 1, 1958.
+    [Pub. L. 85–323][/us/pl/85/323], § 3, Feb. 11, 1958, [72 Stat. 10][/us/stat/72/10], provided that this section shall not apply to any credit or refund allowed or made before May 1, 1958.
 
 ----------
 
@@ -90,18 +90,18 @@
 ----------
 ----------
 
-[/us/pl/85/323/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F323%2Fs1
+[/us/pl/85/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F323
 [/us/stat/72/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F9
-[/us/pl/94/455/s1906/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F29
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1828
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F29%2FA
-[/us/pl/94/455/s1906/a/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F29%2FB
-[/us/pl/94/455/s1906/a/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F29%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fd%2F1
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
-[/us/pl/85/323/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F323%2Fs3
+[/us/pl/85/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F323
 [/us/stat/72/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F10
 
 

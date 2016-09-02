@@ -37,13 +37,13 @@
 
         The written statement required under the preceding sentence shall be furnished to the individual on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added [Pub. L. 98–76, title II, § 224(b)(1)][/us/pl/98/76/s224/b/1], Aug. 12, 1983, [97 Stat. 422][/us/stat/97/422]; amended [Pub. L. 99–514, title XV, § 1501(c)(10)][/us/pl/99/514/s1501/c/10], Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739].)
+(Added [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 224(b)(1), Aug. 12, 1983, [97 Stat. 422][/us/stat/97/422]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(10), Oct. 22, 1986, [100 Stat. 2739][/us/stat/100/2739].)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
-    Section 72(d), referred to in subsec. (a)(2), was repealed by [Pub. L. 99–514, title XI, § 1122(c)(1)][/us/pl/99/514/s1122/c/1], Oct. 22, 1986, [100 Stat. 2467][/us/stat/100/2467]. A new section 72(d) was added by [Pub. L. 100–647, title I, § 1011A(b)(2)(A)][/us/pl/100/647/s1011A/b/2/A], Nov. 10, 1988, [102 Stat. 3472][/us/stat/102/3472], and subsequently amended generally by [Pub. L. 104–188, title I, § 1403(a)][/us/pl/104/188/s1403/a], Aug. 20, 1996, [110 Stat. 1790][/us/stat/110/1790].
+    Section 72(d), referred to in subsec. (a)(2), was repealed by [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1122(c)(1), Oct. 22, 1986, [100 Stat. 2467][/us/stat/100/2467]. A new section 72(d) was added by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011A(b)(2)(A), Nov. 10, 1988, [102 Stat. 3472][/us/stat/102/3472], and subsequently amended generally by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1403(a), Aug. 20, 1996, [110 Stat. 1790][/us/stat/110/1790].
 
  __Amendments__ 
 
@@ -64,20 +64,20 @@
 ----------
 ----------
 
-[/us/pl/98/76/s224/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs224%2Fb%2F1
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F422
-[/us/pl/99/514/s1501/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F10
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2739
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
-[/us/pl/99/514/s1122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1122%2Fc%2F1
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2467
-[/us/pl/100/647/s1011A/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011A%2Fb%2F2%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3472
-[/us/pl/104/188/s1403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1403%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1790
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

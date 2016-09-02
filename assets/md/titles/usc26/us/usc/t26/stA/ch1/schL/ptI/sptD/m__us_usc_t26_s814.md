@@ -99,7 +99,7 @@
 
         At the election of a domestic stock life insurance company which has a contiguous country life insurance branch described in subsection (b) (without regard to the mutual requirement in subsection (b)(3)), the assets of such branch may be transferred to a foreign corporation organized under the laws of the contiguous country without the application of section 367. Subsection (a) shall apply to the stock of such foreign corporation as if such domestic company were a mutual company and as if the stock were an item described in subsection (c). Subsection (e)(2) shall apply to amounts transferred or credited to such domestic company as if such domestic company and such foreign corporation constituted one domestic mutual life insurance company. The insurance contracts which may be transferred pursuant to this subsection shall include only those which are similar to the types of insurance contracts issued by a mutual life insurance company. Notwithstanding the first sentence of this subsection, if the aggregate fair market value of the invested assets and tangible property which are separately accounted for by the domestic life insurance company in the branch account exceeds the aggregate adjusted basis of such assets for purposes of determining gain, the domestic life insurance company shall be deemed to have sold all such assets on the first day of the taxable year for which the election under this subsection applies and the net gain shall be recognized to the domestic life insurance company on the deemed sale, but not in excess of the proportion of such net gain which equals the proportion which the aggregate fair market value of such assets which are transferred pursuant to this subsection is of the aggregate fair market value of all such assets.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 744][/us/stat/98/744]; amended [Pub. L. 105–34, title XI, § 1131(c)(1)][/us/pl/105/34/s1131/c/1], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(a), July 18, 1984, [98 Stat. 744][/us/stat/98/744]; amended [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(c)(1), Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980].)
 
  __Amendments__ 
 
@@ -107,7 +107,7 @@
 
  __New Section 814 Treated as Continuation of Section 819A__ 
 
-[Pub. L. 98–369, div. A, title II, § 217(a)][/us/pl/98/369/s217/a], July 18, 1984, [98 Stat. 762][/us/stat/98/762], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 217(a), July 18, 1984, [98 Stat. 762][/us/stat/98/762], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “For purposes of section 814 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to contiguous country branches of domestic life insurance companies)—
 
@@ -126,14 +126,14 @@
 ----------
 ----------
 
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F744
-[/us/pl/105/34/s1131/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F1
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F980
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/98/369/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs217%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F762
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/369/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs215
 [/us/usc/t26/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs801

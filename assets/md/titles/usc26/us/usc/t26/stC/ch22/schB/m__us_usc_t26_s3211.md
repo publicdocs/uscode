@@ -27,25 +27,25 @@
 
         For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 432][/us/stat/68A/432]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(c), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II, § 201][/us/pl/88/133/s201], Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97], §§ 105(b)(2), 111(c)(2), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(b), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III, § 301][/us/pl/89/699/s301] (b), (d), Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III, § 301(v)][/us/pl/89/700/s301/v], (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 91–215, § 4][/us/pl/91/215/s4], Mar. 17, 1970, [84 Stat. 70][/us/stat/84/70]; [Pub. L. 93–69, title I, § 102(c)][/us/pl/93/69/s102/c], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II, § 202][/us/pl/94/93/s202], Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX, § 1903(a)(8)][/us/pl/94/455/s1903/a/8], Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII, § 741(b)][/us/pl/97/34/s741/b], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(c), 223, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 421; [Pub. L. 101–508, title V, § 5125(b)][/us/pl/101/508/s5125/b], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II][/us/pl/107/90], §§ 203(a), 204(b), Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891]; [Pub. L. 113–295, div. A, title II, § 221(a)(100)(B)][/us/pl/113/295/s221/a/100/B], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 432][/us/stat/68A/432]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(c), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II][/us/pl/88/133/tII], § 201, Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97/tI], §§ 105(b)(2), 111(c)(2), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(b), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III][/us/pl/89/699/tIII], § 301 (b), (d), Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III][/us/pl/89/700/tIII], § 301(v), (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 91–215][/us/pl/91/215], § 4, Mar. 17, 1970, [84 Stat. 70][/us/stat/84/70]; [Pub. L. 93–69, title I][/us/pl/93/69/tI], § 102(c), July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II][/us/pl/94/93/tII], § 202, Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1903(a)(8), Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII][/us/pl/97/34/tVII], § 741(b), Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76/tII], §§ 211(c), 223, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 421; [Pub. L. 101–508, title V][/us/pl/101/508/tV], § 5125(b), Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II][/us/pl/107/90/tII], §§ 203(a), 204(b), Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(100)(B), Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].)
 
  __Amendments__ 
 
     2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
-    2001—Subsec. (a). [Pub. L. 107–90, § 204(b)][/us/pl/107/90/s204/b], added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
+    2001—Subsec. (a). [Pub. L. 107–90][/us/pl/107/90], § 204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
 
-    Subsec. (b). [Pub. L. 107–90, § 204(b)][/us/pl/107/90/s204/b], added subsec. (b).
+    Subsec. (b). [Pub. L. 107–90][/us/pl/107/90], § 204(b), added subsec. (b).
 
-    [Pub. L. 107–90, § 203(a)][/us/pl/107/90/s203/a], struck out subsec. (b) which read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.”
+    [Pub. L. 107–90][/us/pl/107/90], § 203(a), struck out subsec. (b) which read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.”
 
-    Subsec. (c). [Pub. L. 107–90, § 204(b)][/us/pl/107/90/s204/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–90][/us/pl/107/90], § 204(b), added subsec. (c).
 
     1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508] substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
-    1983—Subsec. (a). [Pub. L. 98–76, § 223][/us/pl/98/76/s223], substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wage” as defined in section 3121 for any month.
+    1983—Subsec. (a). [Pub. L. 98–76][/us/pl/98/76], § 223, substituted provisions imposing a two tiered tax on each employee representative equal to the percentage of the compensation received during any calendar year by such employee representative for services rendered as is set out in accompanying tables, for provisions that had imposed on each employee representative a tax equal to 12.75 percent plus the sum of the rates of tax imposed with respect to wages by sections 3101(a), 3101(b), 3111(a), and 3111(b) of so much of the compensation paid in any calendar month to such employee representative for services rendered by him as was not in excess of an amount equal to one-twelfth of the current maximum annual taxable “wage” as defined in section 3121 for any month.
 
-    [Pub. L. 98–76, § 211(c)][/us/pl/98/76/s211/c], substituted “12.75 percent” for “11.75 percent”.
+    [Pub. L. 98–76][/us/pl/98/76], § 211(c), substituted “12.75 percent” for “11.75 percent”.
 
     1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34] substituted “11.75” for “9.5”.
 
@@ -59,9 +59,9 @@
 
     1966—[Pub. L. 89–700][/us/pl/89/700] substituted “rendered after September 30, 1965” for “rendered after December 31, 1964”, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended”.
 
-    [Pub. L. 89–699, § 301(b)][/us/pl/89/699/s301/b], (d), designated existing provisions as subsec. (a), and substituted “14 percent” for “13½ percent” in subd. (3), “14½ percent” for “14 percent” in subd. (4), and “15 percent” for “14½ percent” in subd. (5).
+    [Pub. L. 89–699][/us/pl/89/699], § 301(b), (d), designated existing provisions as subsec. (a), and substituted “14 percent” for “13½ percent” in subd. (3), “14½ percent” for “14 percent” in subd. (4), and “15 percent” for “14½ percent” in subd. (5).
 
-    Subsec. (b). [Pub. L. 89–699, § 301(d)][/us/pl/89/699/s301/d], added subsec. (b).
+    Subsec. (b). [Pub. L. 89–699][/us/pl/89/699], § 301(d), added subsec. (b).
 
     1965—[Pub. L. 89–212][/us/pl/89/212] substituted pars. (1) to (5) for former pars. (1) and (2) which imposed a tax equal to 13½ percent of so much of the compensation paid to such employee representative for services rendered by him after the month in which this provision was amended in 1959, and before Jan. 1, 1962, and 14½ percent of so much of the compensation paid to such employee representative for services rendered by him after Dec. 31, 1961, and inserted “and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121, whichever is greater, for any month after the month in which this provision was so amended”.
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–90, title II, § 203(c)][/us/pl/107/90/s203/c], Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891], provided that: 
+[Pub. L. 107–90, title II][/us/pl/107/90/tII], § 203(c), Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 3221 of this title][/us/usc/t26/s3221]\] shall apply to calendar years beginning after December 31, 2001.”
 
@@ -109,7 +109,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–699, title III, § 301(f)][/us/pl/89/699/s301/f], Oct. 30, 1966, [80 Stat. 1079][/us/stat/80/1079], as amended by [Pub. L. 91–215, § 8][/us/pl/91/215/s8], Mar. 17, 1970, [84 Stat. 72][/us/stat/84/72], provided that: 
+[Pub. L. 89–699, title III][/us/pl/89/699/tIII], § 301(f), Oct. 30, 1966, [80 Stat. 1079][/us/stat/80/1079], as amended by [Pub. L. 91–215][/us/pl/91/215], § 8, Mar. 17, 1970, [84 Stat. 72][/us/stat/84/72], provided that: 
 
 > “The amendments made by subsections (d) and (e) of this section \[amending this section and [section 3221 of this title][/us/usc/t26/s3221]\] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act \[Oct. 30, 1966\], for which compensation is paid.”
 
@@ -131,7 +131,7 @@
 
  __Separability__ 
 
-[Pub. L. 91–215, § 9][/us/pl/91/215/s9], Mar. 17, 1970, [84 Stat. 72][/us/stat/84/72], provided that: 
+[Pub. L. 91–215][/us/pl/91/215], § 9, Mar. 17, 1970, [84 Stat. 72][/us/stat/84/72], provided that: 
 
 > “If any provision of this Act \[amending this section, [section 3221 of this title][/us/usc/t26/s3221], and sections 228c and 228o of Title 45, Railroads, enacting provisions set out as notes under [section 3221 of this title][/us/usc/t26/s3221] and sections 228c and 228o of Title 45, and amending provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the remainder of this Act, and the application of such provisions to other persons or circumstances, shall not be affected thereby.”
 
@@ -152,42 +152,42 @@
 [/us/stat/68/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1040
 [/us/pl/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28
 [/us/stat/73/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F29
-[/us/pl/88/133/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133%2Fs201
+[/us/pl/88/133/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133%2FtII
 [/us/stat/77/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F221
-[/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F335
 [/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/stat/79/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F861
-[/us/pl/89/699/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2Fs301
+[/us/pl/89/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2FtIII
 [/us/stat/80/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1078
-[/us/pl/89/700/s301/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700%2Fs301%2Fv
+[/us/pl/89/700/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700%2FtIII
 [/us/stat/80/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1088
-[/us/pl/91/215/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215%2Fs4
+[/us/pl/91/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215
 [/us/stat/84/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F70
-[/us/pl/93/69/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69%2Fs102%2Fc
+[/us/pl/93/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69%2FtI
 [/us/stat/87/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F162
-[/us/pl/94/93/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F93%2Fs202
+[/us/pl/94/93/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F93%2FtII
 [/us/stat/89/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F466
-[/us/pl/94/455/s1903/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F8
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1807
-[/us/pl/97/34/s741/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs741%2Fb
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F347
-[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F419
-[/us/pl/101/508/s5125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5125%2Fb
+[/us/pl/101/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtV
 [/us/stat/104/1388-285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-285
-[/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
+[/us/pl/107/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2FtII
 [/us/stat/115/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F891
-[/us/pl/113/295/s221/a/100/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F100%2FB
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
-[/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
-[/us/pl/107/90/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs203%2Fa
-[/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
+[/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
+[/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
+[/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
+[/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/98/76/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs223
-[/us/pl/98/76/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs211%2Fc
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
+[/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F93
@@ -195,8 +195,8 @@
 [/us/pl/91/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215
 [/us/usc/t26/s3221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221%2Fc
 [/us/pl/89/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F700
-[/us/pl/89/699/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2Fs301%2Fb
-[/us/pl/89/699/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2Fs301%2Fd
+[/us/pl/89/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699
+[/us/pl/89/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699
 [/us/pl/89/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
 [/us/pl/88/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133
@@ -205,7 +205,7 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/107/90/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs203%2Fc
+[/us/pl/107/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2FtII
 [/us/stat/115/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F891
 [/us/usc/t26/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221
 [/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
@@ -229,9 +229,9 @@
 [/us/pl/93/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69
 [/us/pl/93/69/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F69%2Fs109%2Fb
 [/us/usc/t26/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3201
-[/us/pl/89/699/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2Fs301%2Ff
+[/us/pl/89/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F699%2FtIII
 [/us/stat/80/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1079
-[/us/pl/91/215/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215%2Fs8
+[/us/pl/91/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215
 [/us/stat/84/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F72
 [/us/usc/t26/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221
 [/us/pl/89/212/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs4
@@ -249,7 +249,7 @@
 [/us/pl/86/28/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28%2Fs202
 [/us/usc/t26/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3201
 [/us/usc/t26/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3201
-[/us/pl/91/215/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215%2Fs9
+[/us/pl/91/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F215
 [/us/stat/84/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F72
 [/us/usc/t26/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221
 [/us/usc/t26/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221

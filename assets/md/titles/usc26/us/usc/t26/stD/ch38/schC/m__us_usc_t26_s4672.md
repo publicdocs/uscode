@@ -365,15 +365,15 @@
 
         The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
-(Added [Pub. L. 99–499, title V, § 515(a)][/us/pl/99/499/s515/a], Oct. 17, 1986, [100 Stat. 1768][/us/stat/100/1768]; amended [Pub. L. 100–647, title II, § 2001(b)][/us/pl/100/647/s2001/b], Nov. 10, 1988, [102 Stat. 3594][/us/stat/102/3594].)
+(Added [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(a), Oct. 17, 1986, [100 Stat. 1768][/us/stat/100/1768]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2001(b), Nov. 10, 1988, [102 Stat. 3594][/us/stat/102/3594].)
 
  __Amendments__ 
 
-    1988—Subsec. (a)(2). [Pub. L. 100–647, § 2001(b)(2)][/us/pl/100/647/s2001/b/2], inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
+    1988—Subsec. (a)(2). [Pub. L. 100–647][/us/pl/100/647], § 2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
 
-    Subsec. (a)(2)(B). [Pub. L. 100–647, § 2001(b)(1)][/us/pl/100/647/s2001/b/1], inserted “(or more than 50 percent of the value)” after “weight”.
+    Subsec. (a)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 2001(b)(1), inserted “(or more than 50 percent of the value)” after “weight”.
 
-    Subsec. (a)(4). [Pub. L. 100–647, § 2001(b)(3)][/us/pl/100/647/s2001/b/3], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (a)(4). [Pub. L. 100–647][/us/pl/100/647], § 2001(b)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(A) In general.—The Secretary may add substances to or remove substances from the list under paragraph (3) (including items listed by reason of paragraph (2)) as necessary to carry out the purposes of this subchapter.
 
@@ -381,7 +381,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Superfund Revenue Act of 1986, [Pub. L. 99–499, title V][/us/pl/99/499/tV], to which it relates, see [section 2001(e) of Pub. L. 100–647][/us/pl/100/647/s2001/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date__ 
 
@@ -398,15 +398,15 @@
 ----------
 ----------
 
-[/us/pl/99/499/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs515%2Fa
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1768
-[/us/pl/100/647/s2001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fb
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3594
-[/us/pl/100/647/s2001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fb%2F2
-[/us/pl/100/647/s2001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fb%2F1
-[/us/pl/100/647/s2001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fb%2F3
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/pl/100/647/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/99/499/s515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs515%2Fc

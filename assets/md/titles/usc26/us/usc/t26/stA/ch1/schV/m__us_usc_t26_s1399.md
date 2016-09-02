@@ -17,7 +17,7 @@
 
     Except in any case to which section 1398 applies, no separate taxable entity shall result from the commencement of a case under title 11 of the United States Code.
 
-(Added [Pub. L. 96–589, § 3(a)(1)][/us/pl/96/589/s3/a/1], Dec. 24, 1980, [94 Stat. 3400][/us/stat/94/3400].)
+(Added [Pub. L. 96–589][/us/pl/96/589], § 3(a)(1), Dec. 24, 1980, [94 Stat. 3400][/us/stat/94/3400].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/589/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs3%2Fa%2F1
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3400
 
 

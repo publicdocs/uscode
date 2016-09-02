@@ -103,7 +103,7 @@
 
         In the case of a shareholder who is a nonresident alien individual or a foreign corporation, trust, or estate, gains referred to in section 995(c) and all distributions out of accumulated DISC income including deemed distributions shall be treated as gains and distributions which are effectively connected with the conduct of a trade or business conducted through a permanent establishment of such shareholder within the United States and which are derived from sources within the United States.
 
-(Added [Pub. L. 92–178, title V, § 501][/us/pl/92/178/s501] Dec. 10, 1971, [85 Stat. 547][/us/stat/85/547]; amended [Pub. L. 94–455, title XI, § 1101(e)][/us/pl/94/455/s1101/e], title XIX, §§ 1901(b)(3)(I), Oct. 4, 1976, [90 Stat. 1659][/us/stat/90/1659], 1793; [Pub. L. 95–600, title VII, § 703(i)(3)][/us/pl/95/600/s703/i/3], Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(10)][/us/pl/98/369/s801/d/10], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 99–514, title XVIII, § 1876(k)][/us/pl/99/514/s1876/k], Oct. 22, 1986, [100 Stat. 2900][/us/stat/100/2900].)
+(Added [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 501 Dec. 10, 1971, [85 Stat. 547][/us/stat/85/547]; amended [Pub. L. 94–455, title XI][/us/pl/94/455/tXI], § 1101(e), title XIX, §§ 1901(b)(3)(I), Oct. 4, 1976, [90 Stat. 1659][/us/stat/90/1659], 1793; [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 703(i)(3), Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940]; [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 801(d)(10), July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1876(k), Oct. 22, 1986, [100 Stat. 2900][/us/stat/100/2900].)
 
  __Amendments__ 
 
@@ -113,13 +113,13 @@
 
     1978—Subsec. (a)(2). [Pub. L. 95–600][/us/pl/95/600] substituted “section (b)(1)(G)” for “section (b)(1)(E)”.
 
-    1976—Subsec. (a)(2). [Pub. L. 94–455, § 1101(e)][/us/pl/94/455/s1101/e], inserted at end “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+    1976—Subsec. (a)(2). [Pub. L. 94–455][/us/pl/94/455], § 1101(e), inserted at end “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
 
-    Subsec. (d). [Pub. L. 94–455, § 1901(b)(3)(I)][/us/pl/94/455/s1901/b/3/I], substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset” in par. (1)(A) after “dividend or as” and, in par. (2), after “treated as”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset” in par. (1)(A) after “dividend or as” and, in par. (2), after “treated as”.
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -146,23 +146,23 @@
 ----------
 ----------
 
-[/us/pl/92/178/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs501
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F547
-[/us/pl/94/455/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1101%2Fe
+[/us/pl/94/455/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXI
 [/us/stat/90/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1659
-[/us/pl/95/600/s703/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fi%2F3
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2940
-[/us/pl/98/369/s801/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F10
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F997
-[/us/pl/99/514/s1876/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fk
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2900
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1101%2Fe
-[/us/pl/94/455/s1901/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FI
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

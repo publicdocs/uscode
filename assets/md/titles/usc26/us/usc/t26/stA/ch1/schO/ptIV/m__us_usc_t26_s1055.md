@@ -51,7 +51,7 @@
 
         For treatment of rentals under redeemable ground rents as interest, see section 163(c).
 
-(Added [Pub. L. 88–9, § 1(b)][/us/pl/88/9/s1/b], Apr. 10, 1963, [77 Stat. 7][/us/stat/77/7].)
+(Added [Pub. L. 88–9][/us/pl/88/9], § 1(b), Apr. 10, 1963, [77 Stat. 7][/us/stat/77/7].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 88–9, § 2][/us/pl/88/9/s2], Apr. 10, 1963, [77 Stat. 8][/us/stat/77/8], provided that: 
+[Pub. L. 88–9][/us/pl/88/9], § 2, Apr. 10, 1963, [77 Stat. 8][/us/stat/77/8], provided that: 
 
 > “The amendments made by subsection (a) of the first section of this Act \[amending [section 163 of this title][/us/usc/t26/s163]\] shall take effect as of January 1, 1962, and shall apply with respect to taxable years ending on or after such date. The amendments made by subsection (b) of the first section of this Act \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Apr. 10, 1963\] and shall apply with respect to taxable years ending after such date of enactment.”
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/88/9/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9%2Fs1%2Fb
+[/us/pl/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9
 [/us/stat/77/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F7
 [/us/pl/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9
 [/us/usc/t26/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1061
-[/us/pl/88/9/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9%2Fs2
+[/us/pl/88/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9
 [/us/stat/77/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F8
 [/us/usc/t26/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs163
 

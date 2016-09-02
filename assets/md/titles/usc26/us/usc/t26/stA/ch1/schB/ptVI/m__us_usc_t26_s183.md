@@ -53,7 +53,7 @@
 
             If a taxpayer makes an election under paragraph (1) with respect to an activity, the statutory period for the assessment of any deficiency attributable to such activity shall not expire before the expiration of 2 years after the date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 for the last taxable year in the period of 5 taxable years (or 7 taxable years) to which the election relates. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such an assessment.
 
-(Added [Pub. L. 91–172, title II, § 213(a)][/us/pl/91/172/s213/a], Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571]; amended [Pub. L. 92–178, title III, § 311(a)][/us/pl/92/178/s311/a], Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 94–455, title II, § 214(a)][/us/pl/94/455/s214/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], 1834; [Pub. L. 97–354, § 5(a)(23)][/us/pl/97/354/s5/a/23], Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 99–514, title I, § 143(a)][/us/pl/99/514/s143/a], Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120]; [Pub. L. 100–647, title I, § 1001(h)(3)][/us/pl/100/647/s1001/h/3], Nov. 10, 1988, [102 Stat. 3352][/us/stat/102/3352]; [Pub. L. 113–295, div. A, title II, § 221(a)(36)][/us/pl/113/295/s221/a/36], Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042].)
+(Added [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 213(a), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571]; amended [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 311(a), Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 214(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], 1834; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(23), Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 143(a), Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1001(h)(3), Nov. 10, 1988, [102 Stat. 3352][/us/stat/102/3352]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(36), Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042].)
 
  __Amendments__ 
 
@@ -65,9 +65,9 @@
 
     1982—Subsec. (a). [Pub. L. 97–354][/us/pl/97/354] substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-    1976—Subsecs. (d), (e)(3). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (d), (e)(3). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e)(4). [Pub. L. 94–455, § 214(a)][/us/pl/94/455/s214/a], added par. (4).
+    Subsec. (e)(4). [Pub. L. 94–455][/us/pl/94/455], § 214(a), added par. (4).
 
     1971—Subsec. (e). [Pub. L. 92–178][/us/pl/92/178] added subsec. (e).
 
@@ -89,19 +89,19 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title II, § 214(c)][/us/pl/94/455/s214/c], Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], provided that: 
+[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 214(c), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6212 of this title][/us/usc/t26/s6212]\] shall apply with respect to taxable years beginning after December 31, 1969; except that such amendments shall not apply to any taxable year ending before the date of the enactment of this Act \[Oct. 4, 1976\] with respect to which the period for assessing a deficiency has expired before such date of enactment.”
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 92–178, title III, § 311(b)][/us/pl/92/178/s311/b], Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], provided that: 
+[Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 311(b), Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title II, § 213(d)][/us/pl/91/172/s213/d], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572], provided that: 
+[Pub. L. 91–172, title II][/us/pl/91/172/tII], § 213(d), Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572], provided that: 
 
 > “The amendments made by this section \[enacting this section, amending [section 6504 of this title][/us/usc/t26/s6504], and repealing [section 270 of this title][/us/usc/t26/s270]\] shall apply to taxable years beginning after December 31, 1969.”
 
@@ -112,26 +112,26 @@
 ----------
 ----------
 
-[/us/pl/91/172/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs213%2Fa
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F571
-[/us/pl/92/178/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs311%2Fa
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F525
-[/us/pl/94/455/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs214%2Fa
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1549
-[/us/pl/97/354/s5/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F23
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1694
-[/us/pl/99/514/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs143%2Fa
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2120
-[/us/pl/100/647/s1001/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Fh%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3352
-[/us/pl/113/295/s221/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F36
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs214%2Fa
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
@@ -146,12 +146,12 @@
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/94/455/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs214%2Fc
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1549
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
-[/us/pl/92/178/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs311%2Fb
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F526
-[/us/pl/91/172/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs213%2Fd
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F572
 [/us/usc/t26/s6504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6504
 [/us/usc/t26/s270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs270

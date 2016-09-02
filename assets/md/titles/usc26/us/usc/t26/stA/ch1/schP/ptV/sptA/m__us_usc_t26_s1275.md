@@ -135,7 +135,7 @@
 
         The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
 
-(Added and amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 41(a), 61(c)(2), July 18, 1984, [98 Stat. 540][/us/stat/98/540], 581; [Pub. L. 99–514, title XVIII, § 1804(f)(2)(A)][/us/pl/99/514/s1804/f/2/A], Oct. 22, 1986, [100 Stat. 2805][/us/stat/100/2805]; [Pub. L. 100–647, title I, § 1006(u)(4)][/us/pl/100/647/s1006/u/4], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427]; [Pub. L. 101–508, title XI, § 11325(a)(2)][/us/pl/101/508/s11325/a/2], Nov. 5, 1990, [104 Stat. 1388–466][/us/stat/104/1388-466]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(c)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645.)
+(Added and amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], §§ 41(a), 61(c)(2), July 18, 1984, [98 Stat. 540][/us/stat/98/540], 581; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(f)(2)(A), Oct. 22, 1986, [100 Stat. 2805][/us/stat/100/2805]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(u)(4), Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11325(a)(2), Nov. 5, 1990, [104 Stat. 1388–466][/us/stat/104/1388-466]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(c)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645.)
 
  __Amendments__ 
 
@@ -147,13 +147,13 @@
 
     1986—Subsec. (a)(4), (5). [Pub. L. 99–514][/us/pl/99/514] redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted “by corporations” for “to corporations” in heading.
 
-    1984—Subsec. (a)(4). [Pub. L. 98–369, § 61(c)(2)][/us/pl/98/369/s61/c/2], added par. (4) relating to treatment of obligations distributed to corporations.
+    1984—Subsec. (a)(4). [Pub. L. 98–369][/us/pl/98/369], § 61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(c)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(c)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
 
-> “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[[Pub. L. 98–369, div. A][/us/pl/98/369]\].”
+> “The amendment made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 41 of the Tax Reform Act of 1984 \[[Pub. L. 98–369, div. A][/us/pl/98/369/dA]\].”
 
  __Effective Date of 1990 Amendment__ 
 
@@ -165,7 +165,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -186,24 +186,24 @@
 ----------
 ----------
 
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F540
-[/us/pl/99/514/s1804/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Ff%2F2%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2805
-[/us/pl/100/647/s1006/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fu%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
-[/us/pl/101/508/s11325/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11325%2Fa%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-466
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s61/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs61%2Fc%2F2
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11325%2Fc
 [/us/usc/t26/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs108
@@ -212,7 +212,7 @@
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

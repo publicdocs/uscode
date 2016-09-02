@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stA/ch1/schC/ptVII/m__us_usc_t26_s386.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schD/ptI/m__us_usc_t26_stA_ch1_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD)
+[Previous](./../../../../../..//us/usc/t26/stA/ch1/schC/ptVII/m__us_usc_t26_s391...395.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schD/ptI/m__us_usc_t26_stA_ch1_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD)
 
 #### Subchapter D—Deferred Compensation, Etc.
 
@@ -51,20 +51,20 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–280, title I, § 113(a)(2)][/us/pl/109/280/s113/a/2], Aug. 17, 2006, [120 Stat. 852][/us/stat/120/852], added item for part III.
+    2006—[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 113(a)(2), Aug. 17, 2006, [120 Stat. 852][/us/stat/120/852], added item for part III.
 
-    1964—[Pub. L. 88–272, title II, § 221(d)(1)][/us/pl/88/272/s221/d/1], Feb. 26, 1964, [78 Stat. 75][/us/stat/78/75], substituted “Certain stock options” for “Miscellaneous provisions” in heading to part II.
-
-----------
-
-[Previous](./../../../../../..//us/usc/t26/stA/ch1/schC/ptVII/m__us_usc_t26_s386.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schD/ptI/m__us_usc_t26_stA_ch1_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD)
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 221(d)(1), Feb. 26, 1964, [78 Stat. 75][/us/stat/78/75], substituted “Certain stock options” for “Miscellaneous provisions” in heading to part II.
 
 ----------
+
+[Previous](./../../../../../..//us/usc/t26/stA/ch1/schC/ptVII/m__us_usc_t26_s391...395.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schD/ptI/m__us_usc_t26_stA_ch1_schD_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD)
+
+----------
 ----------
 
-[/us/pl/109/280/s113/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs113%2Fa%2F2
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F852
-[/us/pl/88/272/s221/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs221%2Fd%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F75
 
 

@@ -119,27 +119,27 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–148, title VI, § 6301(e)(1)(B)][/us/pl/111/148/s6301/e/1/B], Mar. 23, 2010, [124 Stat. 743][/us/stat/124/743], added item 9511.
+    2010—[Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6301(e)(1)(B), Mar. 23, 2010, [124 Stat. 743][/us/stat/124/743], added item 9511.
 
-    2005—[Pub. L. 109–59, title XI, § 11115(b)(2)(E)][/us/pl/109/59/s11115/b/2/E], Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950], substituted “Sport Fish Restoration and Boating” for “Aquatic Resources” in item 9504.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11115(b)(2)(E), Aug. 10, 2005, [119 Stat. 1950][/us/stat/119/1950], substituted “Sport Fish Restoration and Boating” for “Aquatic Resources” in item 9504.
 
-    1998—[Pub. L. 105–178, title IX, § 9011(b)(3)][/us/pl/105/178/s9011/b/3], June 9, 1998, [112 Stat. 508][/us/stat/112/508], struck out item 9511 “National Recreational Trails Trust Fund”.
+    1998—[Pub. L. 105–178, title IX][/us/pl/105/178/tIX], § 9011(b)(3), June 9, 1998, [112 Stat. 508][/us/stat/112/508], struck out item 9511 “National Recreational Trails Trust Fund”.
 
-    1991—[Pub. L. 102–240, title VIII, § 8003(c)][/us/pl/102/240/s8003/c], Dec. 18, 1991, [105 Stat. 2206][/us/stat/105/2206], added item 9511.
+    1991—[Pub. L. 102–240, title VIII][/us/pl/102/240/tVIII], § 8003(c), Dec. 18, 1991, [105 Stat. 2206][/us/stat/105/2206], added item 9511.
 
-    1987—[Pub. L. 100–203, title IX, § 9202(b)][/us/pl/100/203/s9202/b], Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], added item 9510.
+    1987—[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9202(b), Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], added item 9510.
 
-    1986—[Pub. L. 99–662, title XIV][/us/pl/99/662], §§ 1403(c), 1405(c), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], 4271, added items 9505 and 9506.
+    1986—[Pub. L. 99–662, title XIV][/us/pl/99/662/tXIV], §§ 1403(c), 1405(c), Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270], 4271, added items 9505 and 9506.
 
-    [Pub. L. 99–509, title VIII, § 8033(c)(2)(C)][/us/pl/99/509/s8033/c/2/C], Oct. 21, 1986, [100 Stat. 1962][/us/stat/100/1962], added item 9509.
+    [Pub. L. 99–509, title VIII][/us/pl/99/509/tVIII], § 8033(c)(2)(C), Oct. 21, 1986, [100 Stat. 1962][/us/stat/100/1962], added item 9509.
 
-    [Pub. L. 99–499, title V][/us/pl/99/499], §§ 517(d), 522(b), Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774], 1781, added items 9507 and 9508.
+    [Pub. L. 99–499, title V][/us/pl/99/499/tV], §§ 517(d), 522(b), Oct. 17, 1986, [100 Stat. 1774][/us/stat/100/1774], 1781, added items 9507 and 9508.
 
-    1984—[Pub. L. 98–369, div. A, title X, § 1016(d)][/us/pl/98/369/s1016/d], July 18, 1984, [98 Stat. 1020][/us/stat/98/1020], added item 9504.
+    1984—[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1016(d), July 18, 1984, [98 Stat. 1020][/us/stat/98/1020], added item 9504.
 
-    1983—[Pub. L. 97–424, title V, § 531(d)][/us/pl/97/424/s531/d], Jan. 6, 1983, [96 Stat. 2192][/us/stat/96/2192], added item 9503.
+    1983—[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 531(d), Jan. 6, 1983, [96 Stat. 2192][/us/stat/96/2192], added item 9503.
 
-    1982—[Pub. L. 97–248, title II, § 281(c)(1)][/us/pl/97/248/s281/c/1], Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], struck out “Establishment of” before “Black Lung” in item 9501 and added item 9502.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 281(c)(1), Sept. 3, 1982, [96 Stat. 566][/us/stat/96/566], struck out “Establishment of” before “Black Lung” in item 9501 and added item 9502.
 
 ----------
 
@@ -151,27 +151,27 @@
 [/us/pl/99/509/s8033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fb
 [/us/pl/99/509/s8033/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc%2F2%2FC
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
-[/us/pl/111/148/s6301/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6301%2Fe%2F1%2FB
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F743
-[/us/pl/109/59/s11115/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11115%2Fb%2F2%2FE
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1950
-[/us/pl/105/178/s9011/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs9011%2Fb%2F3
+[/us/pl/105/178/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtIX
 [/us/stat/112/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F508
-[/us/pl/102/240/s8003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs8003%2Fc
+[/us/pl/102/240/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVIII
 [/us/stat/105/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2206
-[/us/pl/100/203/s9202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9202%2Fb
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-331
-[/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/99/662/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2FtXIV
 [/us/stat/100/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4270
-[/us/pl/99/509/s8033/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8033%2Fc%2F2%2FC
+[/us/pl/99/509/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVIII
 [/us/stat/100/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1962
-[/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1774
-[/us/pl/98/369/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1016%2Fd
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1020
-[/us/pl/97/424/s531/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs531%2Fd
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2192
-[/us/pl/97/248/s281/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs281%2Fc%2F1
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F566
 
 

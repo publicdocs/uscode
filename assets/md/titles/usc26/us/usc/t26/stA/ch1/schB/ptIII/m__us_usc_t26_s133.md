@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s132.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s134.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs133)
 
-## \[§ 133. Repealed. [Pub. L. 104–188, title I, § 1602(a)][/us/pl/104/188/s1602/a], Aug. 20, 1996, [110 Stat. 1833][/us/stat/110/1833]\]
+## \[§ 133. Repealed. [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1602(a), Aug. 20, 1996, [110 Stat. 1833][/us/stat/110/1833]\]
 
-Section, added [Pub. L. 98–369, div. A, title V, § 543(a)][/us/pl/98/369/s543/a], July 18, 1984, [98 Stat. 891][/us/stat/98/891]; amended [Pub. L. 99–514, title XI, § 1173(b)(1)(A)][/us/pl/99/514/s1173/b/1/A], (2), title XVIII, § 1854(c)(2)(A), (C), (D), Oct. 22, 1986, [100 Stat. 2515][/us/stat/100/2515], 2879; [Pub. L. 100–647, title I, § 1011B(h)(1)][/us/pl/100/647/s1011B/h/1], (2), Nov. 10, 1988, [102 Stat. 3490][/us/stat/102/3490]; [Pub. L. 101–239, title VII, § 7301(a)][/us/pl/101/239/s7301/a]–(c), Dec. 19, 1989, [103 Stat. 2346][/us/stat/103/2346], 2347, prior to repeal, read as follows:
+Section, added [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 543(a), July 18, 1984, [98 Stat. 891][/us/stat/98/891]; amended [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1173(b)(1)(A), (2), title XVIII, § 1854(c)(2)(A), (C), (D), Oct. 22, 1986, [100 Stat. 2515][/us/stat/100/2515], 2879; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1011B(h)(1), (2), Nov. 10, 1988, [102 Stat. 3490][/us/stat/102/3490]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7301(a)–(c), Dec. 19, 1989, [103 Stat. 2346][/us/stat/103/2346], 2347, prior to repeal, read as follows:
 
     § 133. Interest on certain loans used to acquire employer securities
 
@@ -173,7 +173,7 @@ Section, added [Pub. L. 98–369, div. A, title V, § 543(a)][/us/pl/98/369/s5
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 104–188, title I, § 1602(c)][/us/pl/104/188/s1602/c], Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1602(c), Aug. 20, 1996, [110 Stat. 1834][/us/stat/110/1834], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -202,18 +202,18 @@ Section, added [Pub. L. 98–369, div. A, title V, § 543(a)][/us/pl/98/369/s5
 ----------
 ----------
 
-[/us/pl/104/188/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1602%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1833
-[/us/pl/98/369/s543/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs543%2Fa
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F891
-[/us/pl/99/514/s1173/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1173%2Fb%2F1%2FA
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2515
-[/us/pl/100/647/s1011B/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fh%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3490
-[/us/pl/101/239/s7301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7301%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2346
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/104/188/s1602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1602%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1834
 [/us/usc/t26/s4978B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4978B
 

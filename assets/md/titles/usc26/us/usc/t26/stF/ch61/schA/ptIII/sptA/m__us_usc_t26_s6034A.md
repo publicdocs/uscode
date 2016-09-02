@@ -89,21 +89,21 @@
 
             For addition to tax in the case of a beneficiary’s negligence in connection with, or disregard of, the requirements of this section, see part II of subchapter A of chapter 68.
 
-(Added [Pub. L. 98–369, div. A, title VII, § 714(q)(1)][/us/pl/98/369/s714/q/1], July 18, 1984, [98 Stat. 965][/us/stat/98/965]; amended [Pub. L. 99–514, title XV, § 1501(c)(15)][/us/pl/99/514/s1501/c/15], title XVIII, § 1875(d)(3)(A), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740], 2896; [Pub. L. 105–34, title X, § 1027(a)][/us/pl/105/34/s1027/a], Aug. 5, 1997, [111 Stat. 925][/us/stat/111/925].)
+(Added [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(q)(1), July 18, 1984, [98 Stat. 965][/us/stat/98/965]; amended [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(15), title XVIII, § 1875(d)(3)(A), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740], 2896; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1027(a), Aug. 5, 1997, [111 Stat. 925][/us/stat/111/925].)
 
  __Amendments__ 
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] added subsec. (c).
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1501(c)(15)][/us/pl/99/514/s1501/c/15], in introductory provisions, substituted “required to file a return” for “making the return required to be filed” and “was required to be filed” for “was filed”, and in concluding provisions, substituted “required to be shown on such return” for “shown on such return”.
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1501(c)(15), in introductory provisions, substituted “required to file a return” for “making the return required to be filed” and “was required to be filed” for “was filed”, and in concluding provisions, substituted “required to be shown on such return” for “shown on such return”.
 
-    [Pub. L. 99–514, § 1875(d)(3)(A)(i)][/us/pl/99/514/s1875/d/3/A/i], (ii), designated existing provisions as subsec. (a), inserted heading “General rule”, and substituted “each beneficiary (or nominee thereof)” for “each beneficiary” in text.
+    [Pub. L. 99–514][/us/pl/99/514], § 1875(d)(3)(A)(i), (ii), designated existing provisions as subsec. (a), inserted heading “General rule”, and substituted “each beneficiary (or nominee thereof)” for “each beneficiary” in text.
 
-    Subsec. (b). [Pub. L. 99–514, § 1875(d)(3)(A)(iii)][/us/pl/99/514/s1875/d/3/A/iii], added subsec. (b).
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1875(d)(3)(A)(iii), added subsec. (b).
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1027(c)][/us/pl/105/34/s1027/c], Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1027(c), Aug. 5, 1997, [111 Stat. 926][/us/stat/111/926], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6048 of this title][/us/usc/t26/s6048]\] shall apply to returns of beneficiaries and owners filed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -111,13 +111,13 @@
 
     Amendment by [section 1501(c)(15) of Pub. L. 99–514][/us/pl/99/514/s1501/c/15] applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see [section 1501(e) of Pub. L. 99–514][/us/pl/99/514/s1501/e], set out as an Effective Date note under [section 6721 of this title][/us/usc/t26/s6721].
 
-[Pub. L. 99–514, title XVIII, § 1875(d)(3)(B)][/us/pl/99/514/s1875/d/3/B], Oct. 22, 1986, [100 Stat. 2897][/us/stat/100/2897], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1875(d)(3)(B), Oct. 22, 1986, [100 Stat. 2897][/us/stat/100/2897], provided that: 
 
 > “The amendments made by this paragraph \[amending this section\] shall apply to taxable years of estates and trusts beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title VII, § 714(q)(5)][/us/pl/98/369/s714/q/5], July 18, 1984, [98 Stat. 966][/us/stat/98/966], provided that: 
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(q)(5), July 18, 1984, [98 Stat. 966][/us/stat/98/966], provided that: 
 
 > “The amendments made by this subsection \[enacting this section and amending sections 6037 and 6678 of this title\] shall apply to taxable years beginning after December 31, 1984.”
 
@@ -132,25 +132,25 @@
 ----------
 ----------
 
-[/us/pl/98/369/s714/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fq%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F965
-[/us/pl/99/514/s1501/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F15
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
-[/us/pl/105/34/s1027/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fa
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F925
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/99/514/s1501/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F15
-[/us/pl/99/514/s1875/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F3%2FA%2Fi
-[/us/pl/99/514/s1875/d/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F3%2FA%2Fiii
-[/us/pl/105/34/s1027/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1027%2Fc
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F926
 [/us/usc/t26/s6048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6048
 [/us/pl/99/514/s1501/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F15
 [/us/pl/99/514/s1501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fe
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
-[/us/pl/99/514/s1875/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1875%2Fd%2F3%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2897
-[/us/pl/98/369/s714/q/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fq%2F5
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F966
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

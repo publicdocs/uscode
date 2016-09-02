@@ -153,7 +153,7 @@
 
         A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, or 48B.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1302(b)][/us/pl/111/5/s1302/b], Feb. 17, 2009, [123 Stat. 345][/us/stat/123/345]; amended [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 209(g), 221(a)(2)(C), Dec. 19, 2014, [128 Stat. 4029][/us/stat/128/4029], 4037.)
+(Added [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1302(b), Feb. 17, 2009, [123 Stat. 345][/us/stat/123/345]; amended [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], §§ 209(g), 221(a)(2)(C), Dec. 19, 2014, [128 Stat. 4029][/us/stat/128/4029], 4037.)
 
  __References in Text__ 
 
@@ -163,13 +163,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3). [Pub. L. 113–295, § 209(g)][/us/pl/113/295/s209/g], inserted “as the qualified investment” after “The amount which is treated”.
+    2014—Subsec. (b)(3). [Pub. L. 113–295][/us/pl/113/295], § 209(g), inserted “as the qualified investment” after “The amount which is treated”.
 
-    Subsec. (c)(1)(A)(i)(VI). [Pub. L. 113–295, § 221(a)(2)(C)][/us/pl/113/295/s221/a/2/C], struck out “, qualified plug-in electric vehicles (as defined by section 30(d)),” before “or components”.
+    Subsec. (c)(1)(A)(i)(VI). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(2)(C), struck out “, qualified plug-in electric vehicles (as defined by section 30(d)),” before “or components”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 209(g) of Pub. L. 113–295][/us/pl/113/295/s209/g] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
+    Amendment by [section 209(g) of Pub. L. 113–295][/us/pl/113/295/s209/g] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
 
     Amendment by [section 221(a)(2)(C) of Pub. L. 113–295][/us/pl/113/295/s221/a/2/C] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
@@ -184,16 +184,16 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1302%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F345
-[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4029
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s209/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fg
-[/us/pl/113/295/s221/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F2%2FC
-[/us/pl/113/295/s209/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fg
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
 [/us/pl/113/295/s221/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F2%2FC

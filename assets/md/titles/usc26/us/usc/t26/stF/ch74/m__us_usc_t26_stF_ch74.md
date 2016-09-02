@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title III, § 3465(a)(2)][/us/pl/105/206/s3465/a/2], July 22, 1998, [112 Stat. 768][/us/stat/112/768], added items 7123 and 7124 and struck out former item 7123 “Cross references”.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3465(a)(2), July 22, 1998, [112 Stat. 768][/us/stat/112/768], added items 7123 and 7124 and struck out former item 7123 “Cross references”.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3465/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3465%2Fa%2F2
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F768
 
 

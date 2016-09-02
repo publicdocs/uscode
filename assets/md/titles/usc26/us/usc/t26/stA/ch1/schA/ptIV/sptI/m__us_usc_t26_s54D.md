@@ -139,7 +139,7 @@
 
         (2) any bond issued by an Indian tribal government shall be treated as a qualified energy conservation bond only if issued as part of an issue the available project proceeds of which are used for purposes for which such Indian tribal government could issue bonds to which section 103(a) applies.
 
-(Added [Pub. L. 110–343, div. B, title III, § 301(a)][/us/pl/110/343/s301/a], Oct. 3, 2008, [122 Stat. 3841][/us/stat/122/3841]; amended [Pub. L. 111–5, div. B, title I, § 1112][/us/pl/111/5/s1112], Feb. 17, 2009, [123 Stat. 322][/us/stat/123/322].)
+(Added [Pub. L. 110–343, div. B, title III][/us/pl/110/343/dB/tIII], § 301(a), Oct. 3, 2008, [122 Stat. 3841][/us/stat/122/3841]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1112, Feb. 17, 2009, [123 Stat. 322][/us/stat/123/322].)
 
  __References in Text__ 
 
@@ -147,15 +147,15 @@
 
  __Amendments__ 
 
-    2009—Subsec. (d). [Pub. L. 111–5, § 1112(a)][/us/pl/111/5/s1112/a], substituted “$3,200,000,000” for “$800,000,000”.
+    2009—Subsec. (d). [Pub. L. 111–5][/us/pl/111/5], § 1112(a), substituted “$3,200,000,000” for “$800,000,000”.
 
-    Subsec. (e)(4). [Pub. L. 111–5, § 1112(b)(2)][/us/pl/111/5/s1112/b/2], added par. (4).
+    Subsec. (e)(4). [Pub. L. 111–5][/us/pl/111/5], § 1112(b)(2), added par. (4).
 
-    Subsec. (f)(1)(A)(ii). [Pub. L. 111–5, § 1112(b)(1)][/us/pl/111/5/s1112/b/1], inserted “(including the use of loans, grants, or other repayment mechanisms to implement such programs)” after “green community programs”.
+    Subsec. (f)(1)(A)(ii). [Pub. L. 111–5][/us/pl/111/5], § 1112(b)(1), inserted “(including the use of loans, grants, or other repayment mechanisms to implement such programs)” after “green community programs”.
 
  __Effective Date__ 
 
-    Section applicable to obligations issued after Oct. 3, 2008, see [section 301(c) of title III of div. B of Pub. L. 110–343][/us/pl/110/343/s301/c], set out as an Effective Date of 2008 Amendment note under [section 54A of this title][/us/usc/t26/s54A].
+    Section applicable to obligations issued after Oct. 3, 2008, see [section 301(c) of title III of div. B of Pub. L. 110–343][/us/pl/110/343/dB/tIII/s301/c], set out as an Effective Date of 2008 Amendment note under [section 54A of this title][/us/usc/t26/s54A].
 
 ----------
 
@@ -164,15 +164,15 @@
 ----------
 ----------
 
-[/us/pl/110/343/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301%2Fa
+[/us/pl/110/343/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIII
 [/us/stat/122/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3841
-[/us/pl/111/5/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1112
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F322
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/111/5/s1112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1112%2Fa
-[/us/pl/111/5/s1112/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1112%2Fb%2F2
-[/us/pl/111/5/s1112/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1112%2Fb%2F1
-[/us/pl/110/343/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301%2Fc
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/110/343/dB/tIII/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIII%2Fs301%2Fc
 [/us/usc/t26/s54A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54A
 
 

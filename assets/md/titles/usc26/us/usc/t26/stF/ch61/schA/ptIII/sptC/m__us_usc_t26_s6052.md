@@ -23,7 +23,7 @@
 
         Every employer required to make a return under subsection (a) shall furnish to each employee whose name is required to be set forth in such return a written statement showing the cost of the group-term life insurance shown on such return. The written statement required under the preceding sentence shall be furnished to the employee on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added [Pub. L. 88–272, title II, § 204(c)(1)][/us/pl/88/272/s204/c/1], Feb. 26, 1964, [78 Stat. 37][/us/stat/78/37]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV, § 1501(c)(14)][/us/pl/99/514/s1501/c/14], Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740].)
+(Added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 204(c)(1), Feb. 26, 1964, [78 Stat. 37][/us/stat/78/37]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(c)(14), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740].)
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/88/272/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs204%2Fc%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F37
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1501/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F14
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

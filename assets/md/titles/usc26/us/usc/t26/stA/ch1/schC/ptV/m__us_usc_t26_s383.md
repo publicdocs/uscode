@@ -45,11 +45,11 @@
 
         Terms used in this section shall have the same respective meanings as when used in section 382, except that appropriate adjustments shall be made to take into account that the limitations of this section apply to credits and net capital losses.
 
-(Added [Pub. L. 92–178, title III, § 302(a)][/us/pl/92/178/s302/a], Dec. 10, 1971, [85 Stat. 521][/us/stat/85/521]; amended [Pub. L. 94–455, title VIII, § 806(f)(2)][/us/pl/94/455/s806/f/2], title X, § 1031(b)(5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1605][/us/stat/90/1605], 1623, 1834; [Pub. L. 95–30, title II, § 202(d)(3)(B)][/us/pl/95/30/s202/d/3/B], (C), May 23, 1977, [91 Stat. 148][/us/stat/91/148]; [Pub. L. 96–222, title I, § 103(a)(6)(G)(xiii)][/us/pl/96/222/s103/a/6/G/xiii], Apr. 1, 1980, [94 Stat. 211][/us/stat/94/211]; [Pub. L. 96–223, title II, § 232(b)(2)(C)][/us/pl/96/223/s232/b/2/C], (D), Apr. 2, 1980, [94 Stat. 276][/us/stat/94/276]; [Pub. L. 97–34, title II, § 221(b)(1)(C)][/us/pl/97/34/s221/b/1/C], (D), title III, § 331(d)(1)(C), (D), Aug. 13, 1981, [95 Stat. 246][/us/stat/95/246], 294; [Pub. L. 98–369, div. A, title IV, § 474(r)(12)(A)][/us/pl/98/369/s474/r/12/A], (B), July 18, 1984, [98 Stat. 841][/us/stat/98/841]; [Pub. L. 99–514, title VI, § 621(b)][/us/pl/99/514/s621/b], (e)(1), Oct. 22, 1986, [100 Stat. 2265][/us/stat/100/2265], 2266.)
+(Added [Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 302(a), Dec. 10, 1971, [85 Stat. 521][/us/stat/85/521]; amended [Pub. L. 94–455, title VIII][/us/pl/94/455/tVIII], § 806(f)(2), title X, § 1031(b)(5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1605][/us/stat/90/1605], 1623, 1834; [Pub. L. 95–30, title II][/us/pl/95/30/tII], § 202(d)(3)(B), (C), May 23, 1977, [91 Stat. 148][/us/stat/91/148]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 103(a)(6)(G)(xiii), Apr. 1, 1980, [94 Stat. 211][/us/stat/94/211]; [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(b)(2)(C), (D), Apr. 2, 1980, [94 Stat. 276][/us/stat/94/276]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 221(b)(1)(C), (D), title III, § 331(d)(1)(C), (D), Aug. 13, 1981, [95 Stat. 246][/us/stat/95/246], 294; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(12)(A), (B), July 18, 1984, [98 Stat. 841][/us/stat/98/841]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 621(b), (e)(1), Oct. 22, 1986, [100 Stat. 2265][/us/stat/100/2265], 2266.)
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, § 621(b)][/us/pl/99/514/s621/b], amended section generally. Prior to amendment, section read as follows: “If—
+    1986—[Pub. L. 99–514][/us/pl/99/514], § 621(b), amended section generally. Prior to amendment, section read as follows: “If—
 
     “(1) the ownership and business of a corporation are changed in the manner described in section 382(a)(1), or
 
@@ -57,45 +57,45 @@
 
     then the limitations provided in section 382 in such cases with respect to the carryover of net operating losses shall apply in the same manner, as provided under regulations prescribed by the Secretary, with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212.”
 
-    [Pub. L. 99–514, § 621(e)(1)][/us/pl/99/514/s621/e/1], repealed amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2]. See 1976 Amendment note below.
+    [Pub. L. 99–514][/us/pl/99/514], § 621(e)(1), repealed amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2). See 1976 Amendment note below.
 
-    1984—[Pub. L. 98–369, § 474(r)(12)(A)(ii)][/us/pl/98/369/s474/r/12/A/ii], in catchline of section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
+    1984—[Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(A)(ii), in catchline of section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “Special limitations on unused business credits, research credits, foreign taxes, and capital losses” for “Special limitations on carryovers of unused investment credits, work incentive program credits, new employee credits, alcohol fuel credits, research credits, employee stock ownership credits, foreign taxes, and capital losses”.
 
-    [Pub. L. 98–369, § 474(r)(12)(B)(ii)][/us/pl/98/369/s474/r/12/B/ii], in catchline of section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(b) of this title][/us/usc/t26/s382/b], substituted “business credits, research credits” for “investment credits, work incentive program credits”.
+    [Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(B)(ii), in catchline of section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(b) of this title][/us/usc/t26/s382/b], substituted “business credits, research credits” for “investment credits, work incentive program credits”.
 
-    [Pub. L. 98–369, § 474(r)(12)(B)(ii)][/us/pl/98/369/s474/r/12/B/ii], in catchline of section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “business credits” for “investment credits” and struck out references to work incentive program credits, new employee credits, alcohol fuel credits, and employee stock ownership credits.
+    [Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(B)(ii), in catchline of section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “business credits” for “investment credits” and struck out references to work incentive program credits, new employee credits, alcohol fuel credits, and employee stock ownership credits.
 
-    [Pub. L. 98–369, § 474(r)(12)(A)(i)][/us/pl/98/369/s474/r/12/A/i], in section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212” for “with respect to any unused investment credit of the corporation which can otherwise be carried forward under section 46(b), to any unused work incentive program credit of the corporation which can otherwise be carried forward under section 50A(b), to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(b), to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2), to any excess foreign taxes of the corporation which can otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212”.
+    [Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(A)(i), in section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “with respect to any unused business credit of the corporation which can otherwise be carried forward under section 39, to any unused credit of the corporation which could otherwise be carried forward under section 30(g)(2), to any excess foreign taxes of the corporation which could otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212” for “with respect to any unused investment credit of the corporation which can otherwise be carried forward under section 46(b), to any unused work incentive program credit of the corporation which can otherwise be carried forward under section 50A(b), to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(b), to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2), to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2), to any excess foreign taxes of the corporation which can otherwise be carried forward under section 904(c), and to any net capital loss of the corporation which can otherwise be carried forward under section 1212”.
 
-    [Pub. L. 98–369, § 474(r)(12)(B)(i)][/us/pl/98/369/s474/r/12/B/i], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(b) of this title][/us/usc/t26/s382/b], substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
+    [Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(B)(i), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(b) of this title][/us/usc/t26/s382/b], substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
 
-    [Pub. L. 98–369, § 474(r)(12)(B)(i)][/us/pl/98/369/s474/r/12/B/i], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any unused new employee credit of the corporation under section 53(b), to any unused credit of the corporation under section 44E(e)(2), to any unused credit of the corporation under section 44F(g)(2), to any unused credit of the corporation under section 44G(b)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
+    [Pub. L. 98–369][/us/pl/98/369], § 474(r)(12)(B)(i), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], substituted “with respect to any unused business credit of the corporation under section 39, to any unused credit of the corporation under section 30(g)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212” for “with respect to any unused investment credit of the corporation under section 46(b), to any unused work incentive program credit of the corporation under section 50A(b), to any unused new employee credit of the corporation under section 53(b), to any unused credit of the corporation under section 44E(e)(2), to any unused credit of the corporation under section 44F(g)(2), to any unused credit of the corporation under section 44G(b)(2), to any excess foreign taxes of the corporation under section 904(c), and to any net capital loss of the corporation under section 1212”.
 
-    1981—[Pub. L. 97–34, § 331(d)(1)(C)(ii)][/us/pl/97/34/s331/d/1/C/ii], (D)(ii), in catchlines of sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], inserted reference to employee stock ownership credits.
+    1981—[Pub. L. 97–34][/us/pl/97/34], § 331(d)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), inserted reference to employee stock ownership credits.
 
-    [Pub. L. 97–34, § 331(d)(1)(D)(i)][/us/pl/97/34/s331/d/1/D/i], in section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2),”.
+    [Pub. L. 97–34][/us/pl/97/34], § 331(d)(1)(D)(i), in section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44G(b)(2),”.
 
-    [Pub. L. 97–34, § 331(d)(1)(C)(i)][/us/pl/97/34/s331/d/1/C/i], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation under section 44G(b)(2),”.
+    [Pub. L. 97–34][/us/pl/97/34], § 331(d)(1)(C)(i), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation under section 44G(b)(2),”.
 
-    [Pub. L. 97–34, § 221(b)(1)(C)(ii)][/us/pl/97/34/s221/b/1/C/ii], (D)(ii), in catchlines of sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], inserted reference to research credits.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), inserted reference to research credits.
 
-    [Pub. L. 97–34, § 221(b)(1)(D)(i)][/us/pl/97/34/s221/b/1/D/i], in section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(1)(D)(i), in section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
 
-    [Pub. L. 97–34, § 221(b)(1)(C)(i)][/us/pl/97/34/s221/b/1/C/i], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation under section 44F(g)(2),” after “section 44E(e)(2),”.
+    [Pub. L. 97–34][/us/pl/97/34], § 221(b)(1)(C)(i), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused credit of the corporation under section 44F(g)(2),” after “section 44E(e)(2),”.
 
-    1980—[Pub. L. 96–223, § 232(b)(2)(D)][/us/pl/96/223/s232/b/2/D], in section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
+    1980—[Pub. L. 96–223][/us/pl/96/223], § 232(b)(2)(D), in section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation which could otherwise be carried forward under section 44E(e)(2) in text.
 
-    [Pub. L. 96–223, § 232(b)(2)(C)][/us/pl/96/223/s232/b/2/C], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation under section 44E(e)(2) in text.
+    [Pub. L. 96–223][/us/pl/96/223], § 232(b)(2)(C), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted reference to unused alcohol fuel credits in section catchline and reference to any unused credit of the corporation under section 44E(e)(2) in text.
 
-    [Pub. L. 96–222][/us/pl/96/222], in sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], substituted “section 53(b)” for “section 53(c)”.
+    [Pub. L. 96–222][/us/pl/96/222], in sections 383, as related to [section 382(a) of this title][/us/usc/t26/s382/a], before and after amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), substituted “section 53(b)” for “section 53(c)”.
 
-    1977—[Pub. L. 95–30, § 202(d)(3)(C)][/us/pl/95/30/s202/d/3/C], in section 383, as in effect prior to amendment by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(c)” in text and “new employee credits,” in catchline.
+    1977—[Pub. L. 95–30][/us/pl/95/30], § 202(d)(3)(C), in section 383, as in effect prior to amendment by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused new employee credit of the corporation which could otherwise be carried forward under section 53(c)” in text and “new employee credits,” in catchline.
 
-    [Pub. L. 95–30, § 202(d)(3)(B)][/us/pl/95/30/s202/d/3/B], in section 383, as amended by [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused new employee credit of the corporation under section 53(c)” in text and “new employee credits,” in section catchline.
+    [Pub. L. 95–30][/us/pl/95/30], § 202(d)(3)(B), in section 383, as amended by [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), as related to [section 382(a) of this title][/us/usc/t26/s382/a], inserted “to any unused new employee credit of the corporation under section 53(c)” in text and “new employee credits,” in section catchline.
 
     1976—[Pub. L. 94–455][/us/pl/94/455], §§ 1031(b)(5), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, and substituted “section 904(c)” for “section 904(d)”, respectively, in section 383 set out first.
 
-    [Pub. L. 94–455, § 806(f)(2)][/us/pl/94/455/s806/f/2], which substituted, in sections 383 as related to section 382(a) and (b) of this title, provisions that the net operating loss limitations in section 382 shall apply to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(b), to excess foreign taxes under section 904(d) and to net capital losses under section 1212 for provisions that the net operating loss carryover limitations in section 382 shall apply, in the case of ownership changes described in section 382(a)(1) or reorganizations specified in section 381(a)(2) resulting in ownership changes described in section 382(b)(1)(B), to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(B), to excess foreign taxes under section 904(c), and to net capital losses under section 1212, was repealed by [Pub. L. 99–514, § 621(e)(1)][/us/pl/99/514/s621/e/1]. See Effective Date of 1986 and 1976 Amendment notes below.
+    [Pub. L. 94–455][/us/pl/94/455], § 806(f)(2), which substituted, in sections 383 as related to section 382(a) and (b) of this title, provisions that the net operating loss limitations in section 382 shall apply to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(b), to excess foreign taxes under section 904(d) and to net capital losses under section 1212 for provisions that the net operating loss carryover limitations in section 382 shall apply, in the case of ownership changes described in section 382(a)(1) or reorganizations specified in section 381(a)(2) resulting in ownership changes described in section 382(b)(1)(B), to unused investment credits under section 46(b), to unused work incentive program credits under section 50A(B), to excess foreign taxes under section 904(c), and to net capital losses under section 1212, was repealed by [Pub. L. 99–514][/us/pl/99/514], § 621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–178, title III, § 302(c)][/us/pl/92/178/s302/c], Dec. 10, 1971, [85 Stat. 521][/us/stat/85/521], provided that: 
+[Pub. L. 92–178, title III][/us/pl/92/178/tIII], § 302(c), Dec. 10, 1971, [85 Stat. 521][/us/stat/85/521], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall be applicable only with respect to reorganizations and other changes in ownership occurring after the date of enactment of this Act \[Dec. 10, 1971\] pursuant to a plan of reorganization or contract entered into on or after September 29, 1971.”
 
@@ -142,79 +142,79 @@
 ----------
 ----------
 
-[/us/pl/92/178/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs302%2Fa
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F521
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/94/455/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVIII
 [/us/stat/90/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1605
-[/us/pl/95/30/s202/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F3%2FB
+[/us/pl/95/30/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtII
 [/us/stat/91/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F148
-[/us/pl/96/222/s103/a/6/G/xiii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs103%2Fa%2F6%2FG%2Fxiii
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F211
-[/us/pl/96/223/s232/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fb%2F2%2FC
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F276
-[/us/pl/97/34/s221/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F1%2FC
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F246
-[/us/pl/98/369/s474/r/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FA
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F841
-[/us/pl/99/514/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fb
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2265
-[/us/pl/99/514/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fb
-[/us/pl/99/514/s621/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fe%2F1
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
-[/us/pl/98/369/s474/r/12/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FA%2Fii
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/98/369/s474/r/12/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FB%2Fii
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fb
-[/us/pl/98/369/s474/r/12/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FB%2Fii
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/98/369/s474/r/12/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FA%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/98/369/s474/r/12/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FB%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fb
-[/us/pl/98/369/s474/r/12/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F12%2FB%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/97/34/s331/d/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F1%2FC%2Fii
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
-[/us/pl/97/34/s331/d/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F1%2FD%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/97/34/s331/d/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs331%2Fd%2F1%2FC%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/97/34/s221/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F1%2FC%2Fii
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
-[/us/pl/97/34/s221/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F1%2FD%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/97/34/s221/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs221%2Fb%2F1%2FC%2Fi
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/96/223/s232/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fb%2F2%2FD
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/96/223/s232/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fb%2F2%2FC
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
-[/us/pl/95/30/s202/d/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F3%2FC
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
-[/us/pl/95/30/s202/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fd%2F3%2FB
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s806/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs806%2Ff%2F2
-[/us/pl/99/514/s621/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fe%2F1
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fb
 [/us/pl/99/514/s621/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Ff
 [/us/usc/t26/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382
@@ -249,7 +249,7 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/usc/t26/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382
-[/us/pl/92/178/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs302%2Fc
+[/us/pl/92/178/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtIII
 [/us/stat/85/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F521
 [/us/pl/95/600/s368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs368
 [/us/usc/t26/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs382

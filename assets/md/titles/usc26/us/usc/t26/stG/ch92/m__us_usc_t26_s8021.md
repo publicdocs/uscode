@@ -63,7 +63,7 @@
 
             Before June 1 of each calendar year after 1998 and before 2005, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minority from each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 927][/us/stat/68A/927]; [Pub. L. 94–455, title XIX, § 1907(a)(3)][/us/pl/94/455/s1907/a/3], Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835]; [Pub. L. 100–647, title I, § 1018(s)(1)][/us/pl/100/647/s1018/s/1], Nov. 10, 1988, [102 Stat. 3586][/us/stat/102/3586]; [Pub. L. 105–206, title IV, § 4001(a)][/us/pl/105/206/s4001/a], July 22, 1998, [112 Stat. 783][/us/stat/112/783]; [Pub. L. 108–311, title III, § 321(a)][/us/pl/108/311/s321/a], Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182]; [Pub. L. 109–135, title IV, § 412(rr)(5)][/us/pl/109/135/s412/rr/5], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 927][/us/stat/68A/927]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1907(a)(3), Oct. 4, 1976, [90 Stat. 1835][/us/stat/90/1835]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(s)(1), Nov. 10, 1988, [102 Stat. 3586][/us/stat/102/3586]; [Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4001(a), July 22, 1998, [112 Stat. 783][/us/stat/112/783]; [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 321(a), Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(rr)(5), Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title IV, § 4001(b)][/us/pl/105/206/s4001/b], July 22, 1998, [112 Stat. 784][/us/stat/112/784], provided that:
+[Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4001(b), July 22, 1998, [112 Stat. 784][/us/stat/112/784], provided that:
 
 >     “(1) Subsection (e) of section 8021 of the Internal Revenue Code of 1986, as added by subsection (a) of this section \[amending this section\], shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].
 
@@ -101,7 +101,7 @@
 
  __Time for Joint Review__ 
 
-[Pub. L. 108–311, title III, § 321(c)][/us/pl/108/311/s321/c], Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182], provided that: 
+[Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 321(c), Oct. 4, 2004, [118 Stat. 1182][/us/stat/118/1182], provided that: 
 
 > “The joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 to be made before June 1, 2004, shall be treated as timely if made before June 1, 2005.”
 
@@ -114,22 +114,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F927
-[/us/pl/94/455/s1907/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1907%2Fa%2F3
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1835
-[/us/pl/100/647/s1018/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fs%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3586
-[/us/pl/105/206/s4001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4001%2Fa
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F783
-[/us/pl/108/311/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs321%2Fa
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1182
-[/us/pl/109/135/s412/rr/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Frr%2F5
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/105/206/s4001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4001%2Fb
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F784
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -138,7 +138,7 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1907/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1907%2Fc
 [/us/usc/t26/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs8001
-[/us/pl/108/311/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs321%2Fc
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1182
 
 

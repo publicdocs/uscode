@@ -79,7 +79,7 @@
 
         Every person making a return under subsection (a) or (b) shall furnish a copy of such return to the donor at such time and in such manner as the Secretary may by regulations prescribe.
 
-(Added [Pub. L. 98–369, div. A, title I, § 155(b)(1)][/us/pl/98/369/s155/b/1], July 18, 1984, [98 Stat. 692][/us/stat/98/692]; amended [Pub. L. 108–357, title VIII, § 882(c)(1)][/us/pl/108/357/s882/c/1], Oct. 22, 2004, [118 Stat. 1629][/us/stat/118/1629]; [Pub. L. 109–280, title XII, § 1215(b)][/us/pl/109/280/s1215/b], Aug. 17, 2006, [120 Stat. 1078][/us/stat/120/1078].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 155(b)(1), July 18, 1984, [98 Stat. 692][/us/stat/98/692]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 882(c)(1), Oct. 22, 2004, [118 Stat. 1629][/us/stat/118/1629]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1215(b), Aug. 17, 2006, [120 Stat. 1078][/us/stat/120/1078].)
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1215(d)(2)][/us/pl/109/280/s1215/d/2], Aug. 17, 2006, [120 Stat. 1079][/us/stat/120/1079], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1215(d)(2), Aug. 17, 2006, [120 Stat. 1079][/us/stat/120/1079], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to returns filed after September 1, 2006.”
 
@@ -99,7 +99,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title I, § 155(d)(1)][/us/pl/98/369/s155/d/1], July 18, 1984, [98 Stat. 695][/us/stat/98/695], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 155(d)(1), July 18, 1984, [98 Stat. 695][/us/stat/98/695], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under [section 170 of this title][/us/usc/t26/s170]\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date.”
 
@@ -110,20 +110,20 @@
 ----------
 ----------
 
-[/us/pl/98/369/s155/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs155%2Fb%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F692
-[/us/pl/108/357/s882/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs882%2Fc%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1629
-[/us/pl/109/280/s1215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1215%2Fb
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1078
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/109/280/s1215/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1215%2Fd%2F2
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1079
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s882/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs882%2Ff
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/98/369/s155/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs155%2Fd%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F695
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
 

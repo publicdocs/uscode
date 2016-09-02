@@ -81,7 +81,7 @@
 
             If at any time the Vaccine Injury Compensation Trust Fund has insufficient funds to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) be paid in full in the order in which they are finally determined.
 
-(Added [Pub. L. 100–203, title IX, § 9202(a)][/us/pl/100/203/s9202/a], Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330]; amended [Pub. L. 100–647, title II, § 2006(b)][/us/pl/100/647/s2006/b], Nov. 10, 1988, [102 Stat. 3613][/us/stat/102/3613]; [Pub. L. 101–239, title VII, § 7841(g)(1)][/us/pl/101/239/s7841/g/1], Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429]; [Pub. L. 103–66, title XIII, § 13421(b)][/us/pl/103/66/s13421/b], Aug. 10, 1993, [107 Stat. 566][/us/stat/107/566]; [Pub. L. 105–277, div. C, title XV, § 1504(a)][/us/pl/105/277/s1504/a], div. J, title IV, § 4003(d), Oct. 21, 1998, [112 Stat. 2681–741][/us/stat/112/2681-741], 2681–909; [Pub. L. 106–170, title V, § 523(b)(1)][/us/pl/106/170/s523/b/1], (2), Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
+(Added [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9202(a), Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2006(b), Nov. 10, 1988, [102 Stat. 3613][/us/stat/102/3613]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7841(g)(1), Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13421(b), Aug. 10, 1993, [107 Stat. 566][/us/stat/107/566]; [Pub. L. 105–277, div. C, title XV][/us/pl/105/277/dC/tXV], § 1504(a), div. J, title IV, § 4003(d), Oct. 21, 1998, [112 Stat. 2681–741][/us/stat/112/2681-741], 2681–909; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 523(b)(1), (2), Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646.)
 
  __References in Text__ 
 
@@ -93,19 +93,19 @@
 
     2000—Subsec. (c)(1)(A). [Pub. L. 106–554][/us/pl/106/554] substituted “October 18, 2000” for “December 31, 1999”.
 
-    1999—Subsec. (b)(3). [Pub. L. 106–170, § 523(b)(1)][/us/pl/106/170/s523/b/1], repealed [Pub. L. 105–277, § 1504(a)(2)][/us/pl/105/277/s1504/a/2]. See 1998 Amendment note below.
+    1999—Subsec. (b)(3). [Pub. L. 106–170][/us/pl/106/170], § 523(b)(1), repealed [Pub. L. 105–277][/us/pl/105/277], § 1504(a)(2). See 1998 Amendment note below.
 
-    Subsec. (c)(1). [Pub. L. 106–170, § 523(b)(1)][/us/pl/106/170/s523/b/1], repealed [Pub. L. 105–277, § 1504(a)(1)][/us/pl/105/277/s1504/a/1]. See 1998 Amendment note below.
+    Subsec. (c)(1). [Pub. L. 106–170][/us/pl/106/170], § 523(b)(1), repealed [Pub. L. 105–277][/us/pl/105/277], § 1504(a)(1). See 1998 Amendment note below.
 
-    Subsec. (c)(1)(A). [Pub. L. 106–170, § 523(b)(2)][/us/pl/106/170/s523/b/2], substituted “December 31, 1999” for “August 5, 1997”.
+    Subsec. (c)(1)(A). [Pub. L. 106–170][/us/pl/106/170], § 523(b)(2), substituted “December 31, 1999” for “August 5, 1997”.
 
-    1998—Subsec. (b)(3). [Pub. L. 105–277, § 4003(d)(2)][/us/pl/105/277/s4003/d/2], added par. (3).
+    1998—Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277], § 4003(d)(2), added par. (3).
 
-    [Pub. L. 105–277, § 1504(a)(2)][/us/pl/105/277/s1504/a/2], which directed amendment of subsec. (b) by adding a new par. (3) at the end, was repealed by [Pub. L. 106–170, § 523(b)(1)][/us/pl/106/170/s523/b/1].
+    [Pub. L. 105–277][/us/pl/105/277], § 1504(a)(2), which directed amendment of subsec. (b) by adding a new par. (3) at the end, was repealed by [Pub. L. 106–170][/us/pl/106/170], § 523(b)(1).
 
-    Subsec. (c)(1). [Pub. L. 105–277, § 4003(d)(1)][/us/pl/105/277/s4003/d/1], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
+    Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277], § 4003(d)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on the date of the enactment of this section) for vaccine-related injury or death with respect to vaccines administered after September 30, 1988, or for the payment of all expenses of administration (but not in excess of $6,000,000 for any fiscal year) incurred by the Federal Government in administering such subtitle.”
 
-    [Pub. L. 105–277, § 1504(a)(1)][/us/pl/105/277/s1504/a/1], which directed the general amendment of par. (1), was repealed by [Pub. L. 106–170, § 523(b)(1)][/us/pl/106/170/s523/b/1].
+    [Pub. L. 105–277][/us/pl/105/277], § 1504(a)(1), which directed the general amendment of par. (1), was repealed by [Pub. L. 106–170][/us/pl/106/170], § 523(b)(1).
 
     1993—Subsec. (c)(1). [Pub. L. 103–66][/us/pl/103/66] struck out “and before October 1, 1992,” after “September 30, 1988,”.
 
@@ -119,13 +119,13 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–277, div. C, title XV, § 1504(b)][/us/pl/105/277/s1504/b], Oct. 21, 1998, [112 Stat. 2681–742][/us/stat/112/2681-742], which provided that the amendments made to this section by [Pub. L. 105–277, § 1504][/us/pl/105/277/s1504], were to take effect as if included in the provisions of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which they related, was repealed by [Pub. L. 106–170, title V, § 523(b)(1)][/us/pl/106/170/s523/b/1], Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927].
+    [Pub. L. 105–277, div. C, title XV][/us/pl/105/277/dC/tXV], § 1504(b), Oct. 21, 1998, [112 Stat. 2681–742][/us/stat/112/2681-742], which provided that the amendments made to this section by [Pub. L. 105–277][/us/pl/105/277], § 1504, were to take effect as if included in the provisions of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which they related, was repealed by [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 523(b)(1), Dec. 17, 1999, [113 Stat. 1927][/us/stat/113/1927].
 
     Amendment by [section 4003(d) of Pub. L. 105–277][/us/pl/105/277/s4003/d] effective as if included in the provision of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which such amendment relates, see section 4003(l) of [Pub. L. 105–277][/us/pl/105/277], set out as a note under [section 86 of this title][/us/usc/t26/s86].
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7841(g)(2)][/us/pl/101/239/s7841/g/2], Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7841(g)(2), Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
 
@@ -135,7 +135,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title IX, § 9202(c)][/us/pl/100/203/s9202/c], Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9202(c), Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1988.”
 
@@ -146,19 +146,19 @@
 ----------
 ----------
 
-[/us/pl/100/203/s9202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9202%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-330
-[/us/pl/100/647/s2006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2006%2Fb
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3613
-[/us/pl/101/239/s7841/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7841%2Fg%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2429
-[/us/pl/103/66/s13421/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13421%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F566
-[/us/pl/105/277/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fa
+[/us/pl/105/277/dC/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXV
 [/us/stat/112/2681-741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-741
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1927
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
@@ -167,17 +167,17 @@
 [/us/stat/100/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3755
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
-[/us/pl/105/277/s1504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fa%2F2
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
-[/us/pl/105/277/s1504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fa%2F1
-[/us/pl/106/170/s523/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F2
-[/us/pl/105/277/s4003/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fd%2F2
-[/us/pl/105/277/s1504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fa%2F2
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
-[/us/pl/105/277/s4003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fd%2F1
-[/us/pl/105/277/s1504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fa%2F1
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -185,23 +185,23 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/106/170/s523/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F3
 [/us/usc/t26/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4132
-[/us/pl/105/277/s1504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504%2Fb
+[/us/pl/105/277/dC/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXV
 [/us/stat/112/2681-742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-742
-[/us/pl/105/277/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1504
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/106/170/s523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs523%2Fb%2F1
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1927
 [/us/pl/105/277/s4003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fd
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t26/s86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs86
-[/us/pl/101/239/s7841/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7841%2Fg%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2429
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/647/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2006%2Fc
 [/us/usc/t26/s4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4132
-[/us/pl/100/203/s9202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9202%2Fc
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-331
 
 

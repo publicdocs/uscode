@@ -29,7 +29,7 @@
 
         1 cent on each dollar, or fractional part thereof, of the premium paid on the policy of reinsurance covering any of the contracts taxable under paragraph (1) or (2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 521][/us/stat/68A/521]; [Mar. 13, 1956, ch. 83, § 5(9)][/us/act/1956-03-13/ch83/s5/9], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 85–859, title I, § 141(a)][/us/pl/85/859/s141/a], Sept. 2, 1958, [72 Stat. 1300][/us/stat/72/1300]; [Pub. L. 86–69, § 3(f)(3)][/us/pl/86/69/s3/f/3], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 89–44, title VIII, § 804(b)][/us/pl/89/44/s804/b], June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 94–455, title XIX, § 1904(a)(12)][/us/pl/94/455/s1904/a/12], Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812]; [Pub. L. 98–369, div. A, title II, § 211(b)(23)][/us/pl/98/369/s211/b/23], July 18, 1984, [98 Stat. 757][/us/stat/98/757]; [Pub. L. 100–203, title X, § 10242(c)(3)][/us/pl/100/203/s10242/c/3], Dec. 22, 1987, [101 Stat. 1330–423][/us/stat/101/1330-423]; [Pub. L. 101–239, title VII, § 7811(i)(11)][/us/pl/101/239/s7811/i/11], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 521][/us/stat/68A/521]; [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 5(9), [70 Stat. 49][/us/stat/70/49]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 141(a), Sept. 2, 1958, [72 Stat. 1300][/us/stat/72/1300]; [Pub. L. 86–69][/us/pl/86/69], § 3(f)(3), June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 804(b), June 21, 1965, [79 Stat. 160][/us/stat/79/160]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(12), Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812]; [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(b)(23), July 18, 1984, [98 Stat. 757][/us/stat/98/757]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10242(c)(3), Dec. 22, 1987, [101 Stat. 1330–423][/us/stat/101/1330-423]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(11), Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411].)
 
  __Constitutionality__ 
 
@@ -94,21 +94,21 @@ For information regarding constitutionality of section 4371 of act Aug. 16, 1954
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F521
-[/us/act/1956-03-13/ch83/s5/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs5%2F9
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F49
-[/us/pl/85/859/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs141%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1300
-[/us/pl/86/69/s3/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs3%2Ff%2F3
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F140
-[/us/pl/89/44/s804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs804%2Fb
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F160
-[/us/pl/94/455/s1904/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F12
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1812
-[/us/pl/98/369/s211/b/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F23
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F757
-[/us/pl/100/203/s10242/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10242%2Fc%2F3
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-423
-[/us/pl/101/239/s7811/i/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F11
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2411
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law (whether enacted before or after the enactment of this section) which grants to any instrumentality of the United States an exemption from taxation, such instrumentality shall not be exempt from the tax imposed by section 3301 unless such other provision of law grants a specific exemption, by reference to section 3301 (or the corresponding section of prior law), from the tax imposed by such section.
 
-(Added [Pub. L. 86–778, title V, § 531(d)(1)][/us/pl/86/778/s531/d/1], Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983].)
+(Added [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 531(d)(1), Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/86/778/s531/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fd%2F1
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F983
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t26/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3311

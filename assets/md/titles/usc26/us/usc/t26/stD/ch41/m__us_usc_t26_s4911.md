@@ -235,7 +235,7 @@
 
             (B) in the case of any organization to which subparagraph (A) does not apply, but which is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
 
-(Added [Pub. L. 94–455, title XIII, § 1307(b)][/us/pl/94/455/s1307/b], Oct. 4, 1976, [90 Stat. 1723][/us/stat/90/1723]; amended [Pub. L. 95–600, title VII, § 703(g)(1)][/us/pl/95/600/s703/g/1], Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940].)
+(Added [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1307(b), Oct. 4, 1976, [90 Stat. 1723][/us/stat/90/1723]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 703(g)(1), Nov. 6, 1978, [92 Stat. 2940][/us/stat/92/2940].)
 
  __Amendments__ 
 
@@ -252,9 +252,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fb
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1723
-[/us/pl/95/600/s703/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fg%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2940
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600

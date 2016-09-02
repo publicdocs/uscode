@@ -35,13 +35,13 @@
 
                 Nothing in this Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
 
-    \[(b) __Repealed.__  __[__  __Pub. L. 97–258, § 5(b)__  __][/us/pl/97/258/s5/b]__  __,__  __Sept. 13, 1982__  __,__  __[__  __96 Stat. 1068__  __][/us/stat/96/1068]__  __, 1078\]__ 
+    \[(b) __Repealed.__  __[__  __Pub. L. 97–258__  __][/us/pl/97/258]__  __, § 5(b),__  __Sept. 13, 1982__  __,__  __[__  __96 Stat. 1068__  __][/us/stat/96/1068]__  __, 1078\]__ 
 
     (c) __Functions of Department of Justice unaffected__ 
 
         Nothing in this section or [section 301(f) of title 31][/us/usc/t31/s301/f] shall be considered to affect the duties, powers, or functions imposed upon, or vested in, the Department of Justice, or any officer thereof, by law existing on May 10, 1934.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 86–368, § 1][/us/pl/86/368/s1], Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 88–426, title III, § 305(39)][/us/pl/88/426/s305/39], Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–258][/us/pl/97/258], §§ 2(f)(1), 5(b), Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059], 1068, 1078; [Pub. L. 107–296, title XI, § 1112(k)][/us/pl/107/296/s1112/k], Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 915][/us/stat/68A/915]; [Pub. L. 86–368][/us/pl/86/368], § 1, Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(39), Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–258][/us/pl/97/258], §§ 2(f)(1), 5(b), Sept. 13, 1982, [96 Stat. 1059][/us/stat/96/1059], 1068, 1078; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(k), Nov. 25, 2002, [116 Stat. 2277][/us/stat/116/2277].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
     2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296] designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    1982—Subsec. (b). [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See [section 301 of Title 31][/us/usc/t31/s301], Money and Finance.
+    1982—Subsec. (b). [Pub. L. 97–258][/us/pl/97/258], § 5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See [section 301 of Title 31][/us/usc/t31/s301], Money and Finance.
 
-    Subsec. (c). [Pub. L. 97–258, § 2(f)(1)][/us/pl/97/258/s2/f/1], inserted “or [section 301(f) of title 31][/us/usc/t31/s301/f]” after “Nothing in this section”.
+    Subsec. (c). [Pub. L. 97–258][/us/pl/97/258], § 2(f)(1), inserted “or [section 301(f) of title 31][/us/usc/t31/s301/f]” after “Nothing in this section”.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] substituted “Secretary of the Treasury” for “Secretary” in four places, in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–368, § 3][/us/pl/86/368/s3], Sept. 22, 1959, [73 Stat. 648][/us/stat/73/648], provided that:
+[Pub. L. 86–368][/us/pl/86/368], § 3, Sept. 22, 1959, [73 Stat. 648][/us/stat/73/648], provided that:
 
 >     “(a) Except as otherwise provided in this Act, the amendments made by this Act \[amending this section\] shall take effect on the date of the enactment of this Act \[Sept. 22, 1959\].
 
@@ -79,11 +79,11 @@
 
  __Repeals__ 
 
-    [Pub. L. 86–368, § 1][/us/pl/86/368/s1], Sept. 22, 1959, [73 Stat. 648][/us/stat/73/648]; [Pub. L. 88–426, title III, § 305(39)][/us/pl/88/426/s305/39], Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427]; and [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], cited as credits to this section, were repealed by [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1079][/us/stat/96/1079], 1080, 1082.
+    [Pub. L. 86–368][/us/pl/86/368], § 1, Sept. 22, 1959, [73 Stat. 648][/us/stat/73/648]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(39), Aug. 14, 1964, [78 Stat. 427][/us/stat/78/427]; and [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(B), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], cited as credits to this section, were repealed by [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1079][/us/stat/96/1079], 1080, 1082.
 
  __Savings Provision__ 
 
-    [Pub. L. 86–368, § 4][/us/pl/86/368/s4], Sept. 22, 1959, [73 Stat. 649][/us/stat/73/649], provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by [Pub. L. 86–368][/us/pl/86/368], took office, but that [Pub. L. 86–368][/us/pl/86/368] was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by [Pub. L. 86–368][/us/pl/86/368].
+    [Pub. L. 86–368][/us/pl/86/368], § 4, Sept. 22, 1959, [73 Stat. 649][/us/stat/73/649], provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by [Pub. L. 86–368][/us/pl/86/368], took office, but that [Pub. L. 86–368][/us/pl/86/368] was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by [Pub. L. 86–368][/us/pl/86/368].
 
  __Transfer of Functions__ 
 
@@ -95,43 +95,43 @@
 
  __IRS Employees Prohibited From Using Personal Email Accounts for Official Business__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 402][/us/pl/114/113/s402], Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 402, Dec. 18, 2015, [129 Stat. 3117][/us/stat/129/3117], provided that: 
 
 > “No officer or employee of the Internal Revenue Service may use a personal email account to conduct any official business of the Government.”
 
  __IRS Reports on Information Technology Investments__ 
 
-[Pub. L. 112–74, div. C, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 888][/us/stat/125/888], provided in part: 
+[Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], Dec. 23, 2011, [125 Stat. 888][/us/stat/125/888], provided in part: 
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter”.
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2428][/us/stat/129/2428].
+    [Pub. L. 114–113, div. E, title I][/us/pl/114/113/dE/tI], Dec. 18, 2015, [129 Stat. 2428][/us/stat/129/2428].
 
-    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235/dE/tI], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
-    [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
+    [Pub. L. 113–76, div. E, title I][/us/pl/113/76/dE/tI], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
 
-[Pub. L. 112–74, div. C, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 889][/us/stat/125/889], provided in part: 
+[Pub. L. 112–74, div. C, title I][/us/pl/112/74/dC/tI], Dec. 23, 2011, [125 Stat. 889][/us/stat/125/889], provided in part: 
 
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
 Similar provisions were contained in the following appropriation acts:
 
-    [Pub. L. 114–113, div. E, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2429][/us/stat/129/2429].
+    [Pub. L. 114–113, div. E, title I][/us/pl/114/113/dE/tI], Dec. 18, 2015, [129 Stat. 2429][/us/stat/129/2429].
 
-    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235/dE/tI], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
-    [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
+    [Pub. L. 113–76, div. E, title I][/us/pl/113/76/dE/tI], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
 
  __Elimination of User Fee for Requests to IRS Regarding Pension Plans__ 
 
-    [Pub. L. 107–16, title VI, § 620][/us/pl/107/16/s620], June 7, 2001, [115 Stat. 110][/us/stat/115/110], related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by [Pub. L. 108–89, title II, § 202(b)(3)][/us/pl/108/89/s202/b/3], Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133].
+    [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 620, June 7, 2001, [115 Stat. 110][/us/stat/115/110], related to elimination of user fees for certain requests to the Internal Revenue Service regarding pension plans, prior to repeal by [Pub. L. 108–89, title II][/us/pl/108/89/tII], § 202(b)(3), Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133].
 
  __Itemized Income Tax Receipt__ 
 
-[Pub. L. 106–58, title VI, § 650][/us/pl/106/58/s650], Sept. 29, 1999, [113 Stat. 479][/us/stat/113/479], as amended by [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(P), May 22, 2008, [110 Stat. 1096][/us/stat/110/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(P), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
+[Pub. L. 106–58, title VI][/us/pl/106/58/tVI], § 650, Sept. 29, 1999, [113 Stat. 479][/us/stat/113/479], as amended by [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(D), (2)(P), May 22, 2008, [110 Stat. 1096][/us/stat/110/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(D), (2)(P), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -233,11 +233,11 @@ Similar provisions were contained in the following appropriation acts:
 
 >     The Secretary of the Treasury may prescribe such regulations as may be necessary to carry out this section.”
 
-    \[[Pub. L. 110–234, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(P), and [Pub. L. 110–246, § 4002(b)(1)(D)][/us/pl/110/246/s4002/b/1/D], (2)(P), which directed identical amendment of [Pub. L. 106–58, § 650][/us/pl/106/58/s650], set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].\]
+    \[[Pub. L. 110–234][/us/pl/110/234], § 4002(b)(1)(D), (2)(P), and [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(D), (2)(P), which directed identical amendment of [Pub. L. 106–58][/us/pl/106/58], § 650, set out above, by substituting “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing, was executed by making the substitution for “Food stamp” in subsec. (d)(2)(B)(iv), to reflect the probable intent of Congress. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].\]
 
  __Reorganization of Internal Revenue Service__ 
 
-[Pub. L. 105–206, title I, § 1001][/us/pl/105/206/s1001], July 22, 1998, [112 Stat. 689][/us/stat/112/689], provided that:
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1001, July 22, 1998, [112 Stat. 689][/us/stat/112/689], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -289,13 +289,13 @@ Similar provisions were contained in the following appropriation acts:
 
  __Internal Revenue Service Mission To Focus on Taxpayers’ Needs__ 
 
-[Pub. L. 105–206, title I, § 1002][/us/pl/105/206/s1002], July 22, 1998, [112 Stat. 690][/us/stat/112/690], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1002, July 22, 1998, [112 Stat. 690][/us/stat/112/690], provided that: 
 
 > “The Internal Revenue Service shall review and restate its mission to place a greater emphasis on serving the public and meeting taxpayers’ needs.”
 
  __Explanation of Joint and Several Liability__ 
 
-[Pub. L. 105–206, title III, § 3501][/us/pl/105/206/s3501], July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3501, July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -307,7 +307,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Explanation of Taxpayers’ Rights in Interviews With Internal Revenue Service__ 
 
-[Pub. L. 105–206, title III, § 3502][/us/pl/105/206/s3502], July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3502, July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that: 
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], revise the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[[Pub. L. 100–647][/us/pl/100/647], set out below\] (Internal Revenue Service Publication No. 1) to more clearly inform taxpayers of their rights—
 
@@ -317,7 +317,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __Disclosure of Criteria for Examination Selection__ 
 
-[Pub. L. 105–206, title III, § 3503][/us/pl/105/206/s3503], July 22, 1998, [112 Stat. 771][/us/stat/112/771], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3503, July 22, 1998, [112 Stat. 771][/us/stat/112/771], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -329,13 +329,13 @@ Similar provisions were contained in the following appropriation acts:
 
  __Disclosure to Taxpayers__ 
 
-[Pub. L. 105–206, title III, § 3508][/us/pl/105/206/s3508], July 22, 1998, [112 Stat. 772][/us/stat/112/772], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3508, July 22, 1998, [112 Stat. 772][/us/stat/112/772], provided that: 
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall ensure that any instructions booklet accompanying an individual Federal income tax return form (including forms 1040, 1040A, 1040EZ, and any similar or successor forms) shall include, in clear language, in conspicuous print, and in a conspicuous place, a concise description of the conditions under which return information may be disclosed to any party outside the Internal Revenue Service, including disclosure to any State or agency, body, or commission (or legal representative) thereof.”
 
  __Internal Revenue Service Employee Contacts__ 
 
-[Pub. L. 105–206, title III, § 3705][/us/pl/105/206/s3705], July 22, 1998, [112 Stat. 777][/us/stat/112/777], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3705, July 22, 1998, [112 Stat. 777][/us/stat/112/777], provided that:
 
 >     “(a)  __Notice__  __.—__ 
 
@@ -379,19 +379,19 @@ Similar provisions were contained in the following appropriation acts:
 
  __Listing of Local Internal Revenue Service Telephone Numbers and Addresses__ 
 
-[Pub. L. 105–206, title III, § 3709][/us/pl/105/206/s3709], July 22, 1998, [112 Stat. 779][/us/stat/112/779], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3709, July 22, 1998, [112 Stat. 779][/us/stat/112/779], provided that: 
 
 > “The Secretary of the Treasury or the Secretary’s delegate shall, as soon as practicable, provide that the local telephone numbers and addresses of Internal Revenue Service offices located in any particular area be listed in a telephone book for that area.”
 
  __Study of Noncompliance With Internal Revenue Laws by Taxpayers__ 
 
-[Pub. L. 105–206, title III, § 3803][/us/pl/105/206/s3803], July 22, 1998, [112 Stat. 783][/us/stat/112/783], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3803, July 22, 1998, [112 Stat. 783][/us/stat/112/783], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury and the Commissioner of Internal Revenue shall jointly conduct a study, in consultation with the Joint Committee on Taxation, of the noncompliance with internal revenue laws by taxpayers (including willful noncompliance and noncompliance due to tax law complexity or other factors) and report the findings of such study to Congress.”
 
  __Tax Law Complexity Analysis; Commissioner Study__ 
 
-[Pub. L. 105–206, title IV, § 4022(a)][/us/pl/105/206/s4022/a], July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
+[Pub. L. 105–206, title IV][/us/pl/105/206/tIV], § 4022(a), July 22, 1998, [112 Stat. 785][/us/stat/112/785], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -421,7 +421,7 @@ Similar provisions were contained in the following appropriation acts:
 
  __National Commission on Restructuring Internal Revenue Service__ 
 
-[Pub. L. 104–52, title VI, § 637][/us/pl/104/52/s637], Nov. 19, 1995, [109 Stat. 509][/us/stat/109/509], as amended by [Pub. L. 104–134, title II, § 2904(a)][/us/pl/104/134/s2904/a], Apr. 26, 1996, [110 Stat. 1321–333][/us/stat/110/1321-333]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 643(a)–(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–365, provided that:
+[Pub. L. 104–52, title VI][/us/pl/104/52/tVI], § 637, Nov. 19, 1995, [109 Stat. 509][/us/stat/109/509], as amended by [Pub. L. 104–134, title II][/us/pl/104/134/tII], § 2904(a), Apr. 26, 1996, [110 Stat. 1321–333][/us/stat/110/1321-333]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 643(a)–(e)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–365, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -603,13 +603,13 @@ Similar provisions were contained in the following appropriation acts:
 
 >     Notwithstanding any other provision of this Act, $1,000,000 shall be available from fiscal year 1996 funds appropriated to the Internal Revenue Service, ‘Information systems’ account, for the activities of the Commission, to remain available until expended.”
 
-\[[Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 643(f)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, provided that: 
+\[[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 643(f)\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–366, provided that: 
 
 > “The amendments made by this section \[amending [section 637 of Pub. L. 104–52][/us/pl/104/52/s637], set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[[Pub. L. 104–52][/us/pl/104/52]\].”
 
 \]
 
-\[[Pub. L. 104–134, title II, § 2904(b)][/us/pl/104/134/s2904/b], Apr. 26, 1996, [110 Stat. 1321–333][/us/stat/110/1321-333], provided that: 
+\[[Pub. L. 104–134, title II][/us/pl/104/134/tII], § 2904(b), Apr. 26, 1996, [110 Stat. 1321–333][/us/stat/110/1321-333], provided that: 
 
 > “The amendments made by this section \[amending [section 637 of Pub. L. 104–52][/us/pl/104/52/s637], set out above\] shall take effect as if included in the provisions of the Treasury, Postal Service, and General Government Appropriations Act, 1996 \[[Pub. L. 104–52][/us/pl/104/52]\].”
 
@@ -617,13 +617,13 @@ Similar provisions were contained in the following appropriation acts:
 
  __Fees for Services Rendered__ 
 
-[Pub. L. 103–329, title I, § 3][/us/pl/103/329/s3], Sept. 30, 1994, [108 Stat. 2388][/us/stat/108/2388], as amended by [Pub. L. 104–19, title I][/us/pl/104/19], July 27, 1995, [109 Stat. 227][/us/stat/109/227]; [Pub. L. 109–115, div. A, title II, § 209][/us/pl/109/115/s209], Nov. 30, 2005, [119 Stat. 2439][/us/stat/119/2439], provided that: 
+[Pub. L. 103–329, title I][/us/pl/103/329/tI], § 3, Sept. 30, 1994, [108 Stat. 2388][/us/stat/108/2388], as amended by [Pub. L. 104–19, title I][/us/pl/104/19/tI], July 27, 1995, [109 Stat. 227][/us/stat/109/227]; [Pub. L. 109–115, div. A, title II][/us/pl/109/115/dA/tII], § 209, Nov. 30, 2005, [119 Stat. 2439][/us/stat/119/2439], provided that: 
 
 > “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: Provided, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: Provided further, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service.”
 
  __Disclosure of Rights of Taxpayers__ 
 
-[Pub. L. 100–647, title VI, § 6227][/us/pl/100/647/s6227], Nov. 10, 1988, [102 Stat. 3731][/us/stat/102/3731], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6227, Nov. 10, 1988, [102 Stat. 3731][/us/stat/102/3731], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -647,19 +647,19 @@ Similar provisions were contained in the following appropriation acts:
 
  __Fees for Requests for Ruling, Determination, and Similar Letters__ 
 
-    [Pub. L. 100–203, title X, § 10511][/us/pl/100/203/s10511], Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446], as amended by [Pub. L. 101–508, title XI, § 11319(a)][/us/pl/101/508/s11319/a], Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460]; [Pub. L. 103–465, title VII, § 743][/us/pl/103/465/s743], Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 104–117, § 2][/us/pl/104/117/s2], Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828], related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by [Pub. L. 108–89, title II, § 202(b)(2)][/us/pl/108/89/s202/b/2], Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133].
+    [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10511, Dec. 22, 1987, [101 Stat. 1330–446][/us/stat/101/1330-446], as amended by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11319(a), Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 743, Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 104–117][/us/pl/104/117], § 2, Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828], related to program requiring the payment of user fees for certain requests to the Internal Revenue Service, prior to repeal by [Pub. L. 108–89, title II][/us/pl/108/89/tII], § 202(b)(2), Oct. 1, 2003, [117 Stat. 1133][/us/stat/117/1133].
 
  __Study of Tax Incentives for Expenditures Required by Occupational Safety and Health Administration and Mining Health and Safety Administration__ 
 
-    [Pub. L. 95–600, title V, § 552][/us/pl/95/600/s552], Nov. 6, 1978, [92 Stat. 2891][/us/stat/92/2891], authorized the Secretary of the Treasury to conduct an investigation into the appropriateness of providing additional tax incentives for expenditures required by the Occupational Safety and Health Act, section 651 et seq. of Title 29, Labor, and the Mining Safety and Health Administration of the Department of Labor and to submit a report on such investigation to Congress before Apr. 1, 1979, together with any legislative recommendations.
+    [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 552, Nov. 6, 1978, [92 Stat. 2891][/us/stat/92/2891], authorized the Secretary of the Treasury to conduct an investigation into the appropriateness of providing additional tax incentives for expenditures required by the Occupational Safety and Health Act, section 651 et seq. of Title 29, Labor, and the Mining Safety and Health Administration of the Department of Labor and to submit a report on such investigation to Congress before Apr. 1, 1979, together with any legislative recommendations.
 
  __Study of Taxation of Nonresident Alien Real Estate Transactions in the United States__ 
 
-    [Pub. L. 95–600, title V, § 553][/us/pl/95/600/s553], Nov. 6, 1978, [92 Stat. 2891][/us/stat/92/2891], authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
+    [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 553, Nov. 6, 1978, [92 Stat. 2891][/us/stat/92/2891], authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
 
  __Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report__ 
 
-    [Pub. L. 94–568, § 4][/us/pl/94/568/s4], Oct. 20, 1976, [90 Stat. 2698][/us/stat/90/2698], provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
+    [Pub. L. 94–568][/us/pl/94/568], § 4, Oct. 20, 1976, [90 Stat. 2698][/us/stat/90/2698], provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
 
  __Ex. Ord. No. 13051. Internal Revenue Service Management Board__ 
 
@@ -740,27 +740,27 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
 [/us/usc/t31/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301%2Ff
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F915
-[/us/pl/86/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368%2Fs1
+[/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
 [/us/stat/73/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F647
-[/us/pl/88/426/s305/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F39
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F427
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1059
-[/us/pl/107/296/s1112/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fk
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2277
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
-[/us/pl/97/258/s2/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs2%2Ff%2F1
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301%2Ff
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
@@ -772,17 +772,17 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501
 [/us/stat/78/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F435
-[/us/pl/86/368/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368%2Fs3
+[/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
 [/us/stat/73/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F648
-[/us/pl/86/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368%2Fs1
+[/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
 [/us/stat/73/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F648
-[/us/pl/88/426/s305/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F39
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F427
-[/us/pl/94/455/s1906/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1079
-[/us/pl/86/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368%2Fs4
+[/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
 [/us/stat/73/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F649
 [/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
 [/us/pl/86/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F368
@@ -790,67 +790,67 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t6/s531/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs531%2Fc
 [/us/usc/t28/s599A/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599A%2Fc%2F1
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/114/113/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs402
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3117
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F888
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtI
 [/us/stat/129/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2428
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtI
 [/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtI
 [/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtI
 [/us/stat/125/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F889
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtI
 [/us/stat/129/2429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2429
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtI
 [/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtI
 [/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
-[/us/pl/107/16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs620
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F110
-[/us/pl/108/89/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fb%2F3
+[/us/pl/108/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2FtII
 [/us/stat/117/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1133
-[/us/pl/106/58/s650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs650
+[/us/pl/106/58/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2FtVI
 [/us/stat/113/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F479
-[/us/pl/110/234/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FD
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/110/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/234/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FD
-[/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
-[/us/pl/106/58/s650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58%2Fs650
+[/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/106/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F58
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/105/206/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1001
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F689
-[/us/pl/105/206/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1002
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F690
-[/us/pl/105/206/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3501
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F770
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/105/206/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3502
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F770
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/105/206/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3503
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F771
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/105/206/s3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3508
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F772
-[/us/pl/105/206/s3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3705
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F777
-[/us/pl/105/206/s3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3709
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F779
-[/us/pl/105/206/s3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3803
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F783
-[/us/pl/105/206/s4022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs4022%2Fa
+[/us/pl/105/206/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIV
 [/us/stat/112/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F785
-[/us/pl/104/52/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs637
+[/us/pl/104/52/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2FtVI
 [/us/stat/109/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F509
-[/us/pl/104/134/s2904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2904%2Fa
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-333
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/usc/t2/s192–194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs192%E2%80%93194
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
@@ -858,37 +858,37 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703%2Fb
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
 [/us/pl/104/52/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs637
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
-[/us/pl/104/134/s2904/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs2904%2Fb
+[/us/pl/104/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtII
 [/us/stat/110/1321-333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-333
 [/us/pl/104/52/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52%2Fs637
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
-[/us/pl/103/329/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2Fs3
+[/us/pl/103/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtI
 [/us/stat/108/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2388
-[/us/pl/104/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19
+[/us/pl/104/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F19%2FtI
 [/us/stat/109/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F227
-[/us/pl/109/115/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2Fs209
+[/us/pl/109/115/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F115%2FdA%2FtII
 [/us/stat/119/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2439
-[/us/pl/100/647/s6227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6227
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3731
-[/us/pl/100/203/s10511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10511
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-446
-[/us/pl/101/508/s11319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11319%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-460
-[/us/pl/103/465/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs743
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5011
-[/us/pl/104/117/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs2
+[/us/pl/104/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117
 [/us/stat/110/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F828
-[/us/pl/108/89/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fb%2F2
+[/us/pl/108/89/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2FtII
 [/us/stat/117/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1133
-[/us/pl/95/600/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs552
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2891
-[/us/pl/95/600/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs553
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2891
-[/us/pl/94/568/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568%2Fs4
+[/us/pl/94/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568
 [/us/stat/90/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2698
 [/us/usc/t31/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs301
 [/us/usc/t26/s7801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7801%2Fa

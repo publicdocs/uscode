@@ -307,7 +307,7 @@
 
         No later than December 1 of each calendar year, the Secretary shall publish a notice in the Federal Register of the rates of tax determined under this section which are applicable for the following calendar year.
 
-(Added [Pub. L. 107–90, title II, § 204(d)][/us/pl/107/90/s204/d], Dec. 21, 2001, [115 Stat. 892][/us/stat/115/892].)
+(Added [Pub. L. 107–90, title II][/us/pl/107/90/tII], § 204(d), Dec. 21, 2001, [115 Stat. 892][/us/stat/115/892].)
 
  __Effective Date__ 
 
@@ -320,7 +320,7 @@
 ----------
 ----------
 
-[/us/pl/107/90/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fd
+[/us/pl/107/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2FtII
 [/us/stat/115/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F892
 [/us/pl/107/90/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Ff
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24

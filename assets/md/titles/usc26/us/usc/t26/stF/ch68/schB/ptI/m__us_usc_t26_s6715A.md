@@ -55,7 +55,7 @@
 
             If a business entity described in paragraph (1) is part of an affiliated group (as defined in section 1504(a)), the parent corporation of such entity shall be jointly and severally liable with such entity for the penalty imposed under this section.
 
-(Added [Pub. L. 108–357, title VIII, § 854(c)(1)][/us/pl/108/357/s854/c/1], Oct. 22, 2004, [118 Stat. 1615][/us/stat/118/1615].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 854(c)(1), Oct. 22, 2004, [118 Stat. 1615][/us/stat/118/1615].)
 
  __Effective Date__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s854/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs854%2Fc%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1615
 [/us/pl/108/357/s854/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs854%2Fb
 [/us/pl/108/357/s854/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs854%2Fd

@@ -31,15 +31,15 @@
 
         The findings of fact in and the decision of the Secretary upon the merits of any claim presented under or authorized by this section shall, in the absence of fraud or mistake in mathematical calculation, be final and not subject to revision by any accounting officer.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 830][/us/stat/68A/830]; [Pub. L. 85–859, title I, § 165(b)][/us/pl/85/859/s165/b], (c), Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 830][/us/stat/68A/830]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 165(b), (c), Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1958—Subsec. (a). [Pub. L. 85–859, § 165(b)][/us/pl/85/859/s165/b], struck out provisions which authorized the Secretary to make allowances for or redeem stamps which through mistake may have been improperly or unnecessarily used, or where the rates or duties represented thereby have been excessive in amount, paid in error, or in any manner wrongfully collected.
+    1958—Subsec. (a). [Pub. L. 85–859][/us/pl/85/859], § 165(b), struck out provisions which authorized the Secretary to make allowances for or redeem stamps which through mistake may have been improperly or unnecessarily used, or where the rates or duties represented thereby have been excessive in amount, paid in error, or in any manner wrongfully collected.
 
-    Subsec. (c). [Pub. L. 85–859, § 165(c)][/us/pl/85/859/s165/c], inserted “under this section” after “shall be allowed”.
+    Subsec. (c). [Pub. L. 85–859][/us/pl/85/859], § 165(c), inserted “under this section” after “shall be allowed”.
 
  __Effective Date of 1958 Amendment__ 
 
@@ -54,13 +54,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F830
-[/us/pl/85/859/s165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs165%2Fb
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/85/859/s165/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs165%2Fb
-[/us/pl/85/859/s165/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs165%2Fc
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/85/859/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs1%2Fc
 [/us/stat/72/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1275

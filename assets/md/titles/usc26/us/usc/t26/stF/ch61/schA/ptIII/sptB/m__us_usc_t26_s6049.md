@@ -267,7 +267,7 @@
 
                 The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
 
-(Added [Pub. L. 87–834, § 19(c)][/us/pl/87/834/s19/c], Oct. 16, 1962, [76 Stat. 1055][/us/stat/76/1055]; amended [Pub. L. 91–172, title IV, § 413(c)][/us/pl/91/172/s413/c], (d), Dec. 30, 1969, [83 Stat. 611][/us/stat/83/611], 612; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 303(b), 308(a), 309(a), Sept. 3, 1982, [96 Stat. 587][/us/stat/96/587], 591; [Pub. L. 97–424, title V, § 547(b)(4)][/us/pl/97/424/s547/b/4], Jan. 6, 1983, [96 Stat. 2200][/us/stat/96/2200]; [Pub. L. 98–67, title I][/us/pl/98/67], §§ 102(a), (e), 108(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 370, 383; [Pub. L. 98–369, div. A, title I, § 42(a)(14)][/us/pl/98/369/s42/a/14], title IV, § 474(r)(29)(J), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 845; [Pub. L. 99–514, title VI, § 674][/us/pl/99/514/s674], title XII, § 1214(c)(4), title XV, § 1501(c)(5), title XVIII, § 1803(a)(14)(C), Oct. 22, 1986, [100 Stat. 2319][/us/stat/100/2319], 2543, 2737, 2797; [Pub. L. 100–647, title I, § 1006(t)(24)][/us/pl/100/647/s1006/t/24], (v), Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426], 3427; [Pub. L. 104–168, title XII, § 1201(a)(6)][/us/pl/104/168/s1201/a/6], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 109–58, title XIII, § 1303(b)][/us/pl/109/58/s1303/b], Aug. 8, 2005, [119 Stat. 996][/us/stat/119/996]; [Pub. L. 109–135, title I, § 101(b)(2)][/us/pl/109/135/s101/b/2], Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593]; [Pub. L. 109–222, title V, § 502(a)][/us/pl/109/222/s502/a], (b), May 17, 2006, [120 Stat. 354][/us/stat/120/354]; [Pub. L. 110–234, title XV, § 15316(b)][/us/pl/110/234/s15316/b], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273.)
+(Added [Pub. L. 87–834][/us/pl/87/834], § 19(c), Oct. 16, 1962, [76 Stat. 1055][/us/stat/76/1055]; amended [Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 413(c), (d), Dec. 30, 1969, [83 Stat. 611][/us/stat/83/611], 612; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 303(b), 308(a), 309(a), Sept. 3, 1982, [96 Stat. 587][/us/stat/96/587], 591; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 547(b)(4), Jan. 6, 1983, [96 Stat. 2200][/us/stat/96/2200]; [Pub. L. 98–67, title I][/us/pl/98/67/tI], §§ 102(a), (e), 108(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 370, 383; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(a)(14), title IV, § 474(r)(29)(J), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 845; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 674, title XII, § 1214(c)(4), title XV, § 1501(c)(5), title XVIII, § 1803(a)(14)(C), Oct. 22, 1986, [100 Stat. 2319][/us/stat/100/2319], 2543, 2737, 2797; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(24), (v), Nov. 10, 1988, [102 Stat. 3426][/us/stat/102/3426], 3427; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1201(a)(6), July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1303(b), Aug. 8, 2005, [119 Stat. 996][/us/stat/119/996]; [Pub. L. 109–135, title I][/us/pl/109/135/tI], § 101(b)(2), Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593]; [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 502(a), (b), May 17, 2006, [120 Stat. 354][/us/stat/120/354]; [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15316(b), May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15316(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273.)
 
  __References in Text__ 
 
@@ -279,13 +279,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (d)(9). [Pub. L. 110–246, § 15316(b)][/us/pl/110/246/s15316/b], added par. (9).
+    2008—Subsec. (d)(9). [Pub. L. 110–246][/us/pl/110/246], § 15316(b), added par. (9).
 
-    2006—Subsec. (b)(2)(B). [Pub. L. 109–222, § 502(a)][/us/pl/109/222/s502/a], redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “interest on any obligation if such interest is exempt from tax under section 103(a) or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,”.
+    2006—Subsec. (b)(2)(B). [Pub. L. 109–222][/us/pl/109/222], § 502(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “interest on any obligation if such interest is exempt from tax under section 103(a) or if such interest is exempt from tax (without regard to the identity of the holder) under any other provision of this title,”.
 
     Subsec. (b)(2)(C). [Pub. L. 109–222][/us/pl/109/222] redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”.
 
-    Subsec. (b)(2)(D). [Pub. L. 109–222, § 502(a)][/us/pl/109/222/s502/a], redesignated subpar. (D) as (C).
+    Subsec. (b)(2)(D). [Pub. L. 109–222][/us/pl/109/222], § 502(a), redesignated subpar. (D) as (C).
 
     2005—Subsec. (d)(8). [Pub. L. 109–58][/us/pl/109/58] added par. (8).
 
@@ -293,55 +293,55 @@
 
     1996—Subsec. (c)(1)(A). [Pub. L. 104–168][/us/pl/104/168] substituted “name, address, and phone number of the information contact” for “name and address”.
 
-    1988—Subsec. (d)(7)(A). [Pub. L. 100–647, § 1006(v)][/us/pl/100/647/s1006/v], inserted parenthetical phrase relating to amounts treated as paid when includible in gross income under section 860B(b).
+    1988—Subsec. (d)(7)(A). [Pub. L. 100–647][/us/pl/100/647], § 1006(v), inserted parenthetical phrase relating to amounts treated as paid when includible in gross income under section 860B(b).
 
-    Subsec. (d)(7)(C). [Pub. L. 100–647, § 1006(t)(24)][/us/pl/100/647/s1006/t/24], substituted “the adjusted issue price” for “the issue price”.
+    Subsec. (d)(7)(C). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(24), substituted “the adjusted issue price” for “the issue price”.
 
-    1986—Subsec. (b)(5)(B)(iii). [Pub. L. 99–514, § 1803(a)(14)(C)][/us/pl/99/514/s1803/a/14/C], substituted “section 1273(a)” for “section 1232(b)(1)”.
+    1986—Subsec. (b)(5)(B)(iii). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(14)(C), substituted “section 1273(a)” for “section 1232(b)(1)”.
 
-    Subsec. (b)(5)(B)(iv). [Pub. L. 99–514, § 1214(c)(4)][/us/pl/99/514/s1214/c/4], added cl. (iv).
+    Subsec. (b)(5)(B)(iv). [Pub. L. 99–514][/us/pl/99/514], § 1214(c)(4), added cl. (iv).
 
-    Subsec. (c). [Pub. L. 99–514, § 1501(c)(5)][/us/pl/99/514/s1501/c/5], in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in subsection heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provisions that no statement was required if the aggregate amount of payments to the person shown on the return was less than $10.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 1501(c)(5), in amending subsec. (c) generally, substituted “information is required” for “information is furnished” in subsection heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provisions that no statement was required if the aggregate amount of payments to the person shown on the return was less than $10.
 
-    Subsec. (d)(7). [Pub. L. 99–514, § 674][/us/pl/99/514/s674], added par. (7).
+    Subsec. (d)(7). [Pub. L. 99–514][/us/pl/99/514], § 674, added par. (7).
 
-    1984—Subsec. (b)(2)(E). [Pub. L. 98–369, § 474(r)(29)(J)][/us/pl/98/369/s474/r/29/J], struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
+    1984—Subsec. (b)(2)(E). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(29)(J), struck out subpar. (E) which related to amounts on which the person making payments was required to deduct and withhold a tax under section 1451 (relating to tax-free covenant bonds), or would have been so required but for section 1451(d) (relating to benefit of personal exemptions).
 
-    Subsec. (d)(6)(A). [Pub. L. 98–369, § 42(a)(14)(A)][/us/pl/98/369/s42/a/14/A], substituted “section 1272” for “section 1232A” in two places.
+    Subsec. (d)(6)(A). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(14)(A), substituted “section 1272” for “section 1232A” in two places.
 
-    Subsec. (d)(6)(B). [Pub. L. 98–369, § 42(a)(14)(B)][/us/pl/98/369/s42/a/14/B], substituted “section 1273(a)” for “section 1232(b)(1)”.
+    Subsec. (d)(6)(B). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(14)(B), substituted “section 1273(a)” for “section 1232(b)(1)”.
 
-    1983—Subsec. (a). [Pub. L. 98–67, § 102(e)(1)][/us/pl/98/67/s102/e/1], struck out par. (3) which related to persons required under subchapter B of chapter 24 to withhold tax on the payment of interest and, in provisions following par. (2), substituted “and the name and address of the person to whom paid” for “, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld”.
+    1983—Subsec. (a). [Pub. L. 98–67][/us/pl/98/67], § 102(e)(1), struck out par. (3) which related to persons required under subchapter B of chapter 24 to withhold tax on the payment of interest and, in provisions following par. (2), substituted “and the name and address of the person to whom paid” for “, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld”.
 
     Subsec. (b)(2)(B). [Pub. L. 97–424][/us/pl/97/424] substituted “this title” for “law”.
 
-    Subsec. (b)(2)(C). [Pub. L. 98–67, § 102(e)(2)][/us/pl/98/67/s102/e/2], amended subpar. (C) generally, substituting in cl. (i) “person described in paragraph (4), or” for “person referred to in paragraph (2) of section 3452(c) (other than subparagraphs (J) and (K) thereof), or” and in cl. (ii) “described in paragraph (5),” for “described in section 3454(a)(2)(D) or (E),”.
+    Subsec. (b)(2)(C). [Pub. L. 98–67][/us/pl/98/67], § 102(e)(2), amended subpar. (C) generally, substituting in cl. (i) “person described in paragraph (4), or” for “person referred to in paragraph (2) of section 3452(c) (other than subparagraphs (J) and (K) thereof), or” and in cl. (ii) “described in paragraph (5),” for “described in section 3454(a)(2)(D) or (E),”.
 
-    Subsec. (b)(4), (5). [Pub. L. 98–67, § 102(e)(2)(B)][/us/pl/98/67/s102/e/2/B], added pars. (4) and (5).
+    Subsec. (b)(4), (5). [Pub. L. 98–67][/us/pl/98/67], § 102(e)(2)(B), added pars. (4) and (5).
 
-    Subsec. (c)(1)(C). [Pub. L. 98–67, § 102(e)(3)][/us/pl/98/67/s102/e/3], struck out subpar. (C) which related to aggregate amount of tax deducted and withheld with respect to the person under subchapter B of chapter 24.
+    Subsec. (c)(1)(C). [Pub. L. 98–67][/us/pl/98/67], § 102(e)(3), struck out subpar. (C) which related to aggregate amount of tax deducted and withheld with respect to the person under subchapter B of chapter 24.
 
-    Subsec. (c)(2). [Pub. L. 98–67, § 108(a)][/us/pl/98/67/s108/a], amended par. (2) generally, inserting provision allowing the written statement to be furnished either in person or in a separate mailing by first-class mail and authorizing the Secretary to prescribe by regulation the form that the written statement must take.
+    Subsec. (c)(2). [Pub. L. 98–67][/us/pl/98/67], § 108(a), amended par. (2) generally, inserting provision allowing the written statement to be furnished either in person or in a separate mailing by first-class mail and authorizing the Secretary to prescribe by regulation the form that the written statement must take.
 
-    Subsec. (e). [Pub. L. 98–67, § 102(a)][/us/pl/98/67/s102/a], repealed amendments made by [Pub. L. 97–248][/us/pl/97/248]. See 1982 Amendment note below.
+    Subsec. (e). [Pub. L. 98–67][/us/pl/98/67], § 102(a), repealed amendments made by [Pub. L. 97–248][/us/pl/97/248]. See 1982 Amendment note below.
 
-    1982—Subsec. (a). [Pub. L. 97–248, § 309(a)][/us/pl/97/248/s309/a], redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, in par. (2) as so redesignated inserted “(as so defined)” after “payments of interest”, substituted par. (3) for former par. (1)(C) which described corporations with evidence of outstanding indebtedness in registered form for which during any calendar year there was at least $10 of original issue discount includible in the gross income of a holder under [section 1232(a)(3) of this title][/us/usc/t26/s1232/a/3] without regard to subpar. (B) thereof, substituted “of such payments, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld” for “of such payments and such aggregate amount includible in the gross income of any holder and the name and address of the person to whom paid or such holder” in provisions following par. (3), formerly following par. (1)(C), and struck out former par. (2), which directed persons making aggregate interest payments of less than $10 to another person during any calendar year to report such payments and the recipients when required by the Secretary, and former par. (3), which required all corporations making payments of any amount of interest other than as defined in subsec. (b) to report such payments and the recipients when required by the Secretary.
+    1982—Subsec. (a). [Pub. L. 97–248][/us/pl/97/248], § 309(a), redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, in par. (2) as so redesignated inserted “(as so defined)” after “payments of interest”, substituted par. (3) for former par. (1)(C) which described corporations with evidence of outstanding indebtedness in registered form for which during any calendar year there was at least $10 of original issue discount includible in the gross income of a holder under [section 1232(a)(3) of this title][/us/usc/t26/s1232/a/3] without regard to subpar. (B) thereof, substituted “of such payments, tax deducted and withheld, and the name and address of the person to whom paid or from whom withheld” for “of such payments and such aggregate amount includible in the gross income of any holder and the name and address of the person to whom paid or such holder” in provisions following par. (3), formerly following par. (1)(C), and struck out former par. (2), which directed persons making aggregate interest payments of less than $10 to another person during any calendar year to report such payments and the recipients when required by the Secretary, and former par. (3), which required all corporations making payments of any amount of interest other than as defined in subsec. (b) to report such payments and the recipients when required by the Secretary.
 
-    Subsec. (b). [Pub. L. 97–248, § 309(a)][/us/pl/97/248/s309/a], substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), in subpar. (A) substituted “any obligation (i) issued in registered form, or (ii) of a type offered to the public, other than any obligation with a maturity (at issue) of not more than 1 year which is held by a corporation” for “evidences of indebtedness (including bonds, debentures, notes, and certificates) issued by a corporation in registered form, and, to the extent provided in regulations prescribed by the Secretary, interest on other evidences of indebtedness issued by a corporation of a type offered by corporations to the public” in subpar. (C) inserted “industrial loan association or bank” to list of payors of interest, in subpar. (E) substituted “brokers (as defined in section 6045(c))” for “stockbrokers and dealers in securities”, added subpars. (F) and (G), in par. (2) substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), added subpar. (A), redesignated former subpar. (A) as (B), in subpar. (B) as so redesignated inserted reference to exemption under any provision of law, added subpar. (C), redesignated former subpar. (B) as (D), in subpar. (D) as so redesignated substituted provisions that the subpar. operates except to the extent otherwise provided in regulations or in subpar. (C) for provisions that the subpar. operates to the extent provided in regulations, added cls. (i) and (ii), designated existing provisions as cls. (iii) to (v), in cl. (iii) as so designated inserted specification of not being engaged in trade or business in the United States, in cl. (iv) as so designated inserted specification of exemption under subchapter A of chapter 3, redesignated former subpar. (C) as (E), and added par. (3).
+    Subsec. (b). [Pub. L. 97–248][/us/pl/97/248], § 309(a), substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), in subpar. (A) substituted “any obligation (i) issued in registered form, or (ii) of a type offered to the public, other than any obligation with a maturity (at issue) of not more than 1 year which is held by a corporation” for “evidences of indebtedness (including bonds, debentures, notes, and certificates) issued by a corporation in registered form, and, to the extent provided in regulations prescribed by the Secretary, interest on other evidences of indebtedness issued by a corporation of a type offered by corporations to the public” in subpar. (C) inserted “industrial loan association or bank” to list of payors of interest, in subpar. (E) substituted “brokers (as defined in section 6045(c))” for “stockbrokers and dealers in securities”, added subpars. (F) and (G), in par. (2) substituted “subsection (a)” for “subsections (a)(1) and (2)” in provisions preceding subpar. (A), added subpar. (A), redesignated former subpar. (A) as (B), in subpar. (B) as so redesignated inserted reference to exemption under any provision of law, added subpar. (C), redesignated former subpar. (B) as (D), in subpar. (D) as so redesignated substituted provisions that the subpar. operates except to the extent otherwise provided in regulations or in subpar. (C) for provisions that the subpar. operates to the extent provided in regulations, added cls. (i) and (ii), designated existing provisions as cls. (iii) to (v), in cl. (iii) as so designated inserted specification of not being engaged in trade or business in the United States, in cl. (iv) as so designated inserted specification of exemption under subchapter A of chapter 3, redesignated former subpar. (C) as (E), and added par. (3).
 
-    Subsec. (c). [Pub. L. 97–248, § 309(a)][/us/pl/97/248/s309/a], substituted “subsection (a)” for “subsection (a)(1)” wherever appearing, designated provision before former par. (1) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. (C), designated first sentence after former par. (2) as par. (2), designated second sentence after former par. (2) as par. (3), in par. (3) as so designated inserted “with respect to payments of interest to any person” after “No statement”, struck out “, or the aggregate amount includible in the gross income of,” after “payments to”, and substituted “paragraph (1) or (2)” for “subparagraph (A), (B), or (C)” after “with respect to”.
+    Subsec. (c). [Pub. L. 97–248][/us/pl/97/248], § 309(a), substituted “subsection (a)” for “subsection (a)(1)” wherever appearing, designated provision before former par. (1) as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. (C), designated first sentence after former par. (2) as par. (2), designated second sentence after former par. (2) as par. (3), in par. (3) as so designated inserted “with respect to payments of interest to any person” after “No statement”, struck out “, or the aggregate amount includible in the gross income of,” after “payments to”, and substituted “paragraph (1) or (2)” for “subparagraph (A), (B), or (C)” after “with respect to”.
 
-    Subsec. (d). [Pub. L. 97–248, § 309(a)][/us/pl/97/248/s309/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 97–248][/us/pl/97/248], § 309(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 97–248][/us/pl/97/248], §§ 303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+    Subsec. (e). [Pub. L. 97–248][/us/pl/97/248], §§ 303(b), 308(a), provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, a new subsec. (e) is added. Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67/tI], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
     Subsec. (b)(1), (2)(A), (B). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(6)(A), 1906(b)(13)(A), substituted “section 103(a)” for “section 103(a)(1) or (3)”, and struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1969—Subsec. (a)(1)(C). [Pub. L. 91–172, § 413(c)][/us/pl/91/172/s413/c], added subpar. (C).
+    1969—Subsec. (a)(1)(C). [Pub. L. 91–172][/us/pl/91/172], § 413(c), added subpar. (C).
 
-    Subsec. (c). [Pub. L. 91–172, § 413(d)][/us/pl/91/172/s413/d], further qualified requirement to furnish statement by reference to aggregate amount includible in gross income.
+    Subsec. (c). [Pub. L. 91–172][/us/pl/91/172], § 413(d), further qualified requirement to furnish statement by reference to aggregate amount includible in gross income.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -351,7 +351,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–222, title V, § 502(c)][/us/pl/109/222/s502/c], May 17, 2006, [120 Stat. 354][/us/stat/120/354], provided that: 
+[Pub. L. 109–222, title V][/us/pl/109/222/tV], § 502(c), May 17, 2006, [120 Stat. 354][/us/stat/120/354], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to interest paid after December 31, 2005.”
 
@@ -377,7 +377,7 @@
 
     Amendment by [section 1501(c)(5) of Pub. L. 99–514][/us/pl/99/514/s1501/c/5] applicable to returns the due date for which (determined without regard to extensions) is after Oct. 22, 1986, see [section 1501(e) of Pub. L. 99–514][/us/pl/99/514/s1501/e], set out as an Effective Date note under [section 6721 of this title][/us/usc/t26/s6721].
 
-    Amendment by [section 1803(a)(14)(C) of Pub. L. 99–514][/us/pl/99/514/s1803/a/14/C] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1803(a)(14)(C) of Pub. L. 99–514][/us/pl/99/514/s1803/a/14/C] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -393,13 +393,13 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title III, § 309(c)][/us/pl/97/248/s309/c], Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 309(c), Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6041, 6652, and 6678 of this title\] shall apply to amounts paid (or treated as paid) after December 31, 1982.”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IV, § 413(e)][/us/pl/91/172/s413/e], Dec. 30, 1969, [83 Stat. 612][/us/stat/83/612], provided that: 
+[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 413(e), Dec. 30, 1969, [83 Stat. 612][/us/stat/83/612], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1232 of this title][/us/usc/t26/s1232]\] shall apply with respect to bonds and other evidences of indebtedness issued after May 27, 1969 (other than evidences of indebtedness issued pursuant to a written commitment which was binding on May 27, 1969, and at all times thereafter).”
 
@@ -423,35 +423,35 @@
 ----------
 
 [/us/usc/t15/s80a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933
-[/us/pl/87/834/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs19%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1055
-[/us/pl/91/172/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs413%2Fc
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F611
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F587
-[/us/pl/97/424/s547/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs547%2Fb%2F4
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2200
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
-[/us/pl/98/369/s42/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F14
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
-[/us/pl/99/514/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs674
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2319
-[/us/pl/100/647/s1006/t/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F24
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3426
-[/us/pl/104/168/s1201/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1201%2Fa%2F6
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1469
-[/us/pl/109/58/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1303%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F996
-[/us/pl/109/135/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs101%2Fb%2F2
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2593
-[/us/pl/109/222/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs502%2Fa
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F354
-[/us/pl/110/234/s15316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15316%2Fb
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1511
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
@@ -460,43 +460,43 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s15316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fb
-[/us/pl/109/222/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs502%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
-[/us/pl/109/222/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs502%2Fa
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/100/647/s1006/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fv
-[/us/pl/100/647/s1006/t/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F24
-[/us/pl/99/514/s1803/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F14%2FC
-[/us/pl/99/514/s1214/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1214%2Fc%2F4
-[/us/pl/99/514/s1501/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fc%2F5
-[/us/pl/99/514/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs674
-[/us/pl/98/369/s474/r/29/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F29%2FJ
-[/us/pl/98/369/s42/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F14%2FA
-[/us/pl/98/369/s42/a/14/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F14%2FB
-[/us/pl/98/67/s102/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fe%2F1
-[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
-[/us/pl/98/67/s102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fe%2F2
-[/us/pl/98/67/s102/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fe%2F2%2FB
-[/us/pl/98/67/s102/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fe%2F3
-[/us/pl/98/67/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs108%2Fa
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/248/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs309%2Fa
-[/us/usc/t26/s1232/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1232%2Fa%2F3
-[/us/pl/97/248/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs309%2Fa
-[/us/pl/97/248/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs309%2Fa
-[/us/pl/97/248/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs309%2Fa
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/usc/t26/s1232/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1232%2Fa%2F3
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/172/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs413%2Fc
-[/us/pl/91/172/s413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs413%2Fd
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -505,7 +505,7 @@
 [/us/pl/110/246/s15316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fb
 [/us/pl/110/246/s15316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15316%2Fd
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/109/222/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs502%2Fc
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F354
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/135/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs101%2Fc%2F1
@@ -530,7 +530,7 @@
 [/us/pl/99/514/s1501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fe
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
 [/us/pl/99/514/s1803/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F14%2FC
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s42/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F14
@@ -545,9 +545,9 @@
 [/us/pl/98/67/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs108%2Fa
 [/us/pl/98/67/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs110%2Fa
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31
-[/us/pl/97/248/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs309%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F595
-[/us/pl/91/172/s413/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs413%2Fe
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F612
 [/us/usc/t26/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1232
 [/us/usc/t26/s6044/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6044%2Fb

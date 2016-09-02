@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t26/stB/ch12/schB/m__us_usc_t26_s2515.md) | [Next](./../../../../../..//us/usc/t26/stB/ch12/schB/m__us_usc_t26_s2516.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2515A)
 
-## \[§ 2515A. Repealed. [Pub. L. 97–34, title IV, § 403(c)(3)(B)][/us/pl/97/34/s403/c/3/B], Aug. 13, 1981, [95 Stat. 302][/us/stat/95/302]\]
+## \[§ 2515A. Repealed. [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(c)(3)(B), Aug. 13, 1981, [95 Stat. 302][/us/stat/95/302]\]
 
-    Section, added [Pub. L. 95–600, title VII, § 702(k)(1)(A)][/us/pl/95/600/s702/k/1/A], Nov. 6, 1978, [92 Stat. 2932][/us/stat/92/2932], related to tenancies by the entirety in personal property.
+    Section, added [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(k)(1)(A), Nov. 6, 1978, [92 Stat. 2932][/us/stat/92/2932], related to tenancies by the entirety in personal property.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/97/34/s403/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fc%2F3%2FB
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F302
-[/us/pl/95/600/s702/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fk%2F1%2FA
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2932
 [/us/pl/97/34/s403/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fe%2F2
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056

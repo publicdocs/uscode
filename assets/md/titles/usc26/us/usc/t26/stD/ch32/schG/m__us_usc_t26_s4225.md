@@ -17,11 +17,11 @@
 
     No tax shall be imposed under this chapter on any article of native Indian handicraft manufactured or produced by Indians on Indian reservations, or in Indian schools, or by Indians under the jurisdiction of the United States Government in Alaska.
 
-(Added [Pub. L. 85–859, title I, § 119(a)][/us/pl/85/859/s119/a], Sept. 2, 1958, [72 Stat. 1286][/us/stat/72/1286].)
+(Added [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 119(a), Sept. 2, 1958, [72 Stat. 1286][/us/stat/72/1286].)
 
  __Prior Provisions__ 
 
-    A prior section 4225, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 496][/us/stat/68A/496], related to exemption for exports, prior to repeal by [Pub. L. 85–859, § 119(a)][/us/pl/85/859/s119/a]. See [section 4221 of this title][/us/usc/t26/s4221].
+    A prior section 4225, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 496][/us/stat/68A/496], related to exemption for exports, prior to repeal by [Pub. L. 85–859][/us/pl/85/859], § 119(a). See [section 4221 of this title][/us/usc/t26/s4221].
 
  __Admission of Alaska as State__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/pl/85/859/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs119%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1286
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F496
-[/us/pl/85/859/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs119%2Fa
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/usc/t26/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4221
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

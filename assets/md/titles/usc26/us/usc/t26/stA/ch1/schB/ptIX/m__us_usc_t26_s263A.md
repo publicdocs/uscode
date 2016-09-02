@@ -361,7 +361,7 @@
 
         (2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added [Pub. L. 99–514, title VIII, § 803(a)][/us/pl/99/514/s803/a], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350]; amended [Pub. L. 100–647, title I, § 1008(b)(1)][/us/pl/100/647/s1008/b/1]–(4), title VI, § 6026(a)–(c), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], 3438, 3691–3693; [Pub. L. 101–239, title VII, § 7816(d)(1)][/us/pl/101/239/s7816/d/1], Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420]; [Pub. L. 106–170, title V, § 532(c)(2)(B)][/us/pl/106/170/s532/c/2/B], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title III, § 338(b)(2)][/us/pl/108/357/s338/b/2], Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; [Pub. L. 109–58, title XIII, § 1329(b)][/us/pl/109/58/s1329/b], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; [Pub. L. 114–113, div. Q, title I, § 143(b)(6)(H)][/us/pl/114/113/s143/b/6/H], Dec. 18, 2015, [129 Stat. 3064][/us/stat/129/3064].)
+(Added [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 803(a), Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(b)(1)–(4), title VI, § 6026(a)–(c), Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437], 3438, 3691–3693; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7816(d)(1), Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(2)(B), Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 338(b)(2), Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481]; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1329(b), Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 143(b)(6)(H), Dec. 18, 2015, [129 Stat. 3064][/us/stat/129/3064].)
 
  __Amendments__ 
 
@@ -381,33 +381,33 @@
 
     “(iii) Personal service corporation.—For purposes of this subparagraph, the term ‘personal service corporation’ means any personal service corporation (as defined in section 269A(b)).”
 
-    1988—Subsec. (a)(2). [Pub. L. 100–647, § 1008(b)(1)][/us/pl/100/647/s1008/b/1], inserted at end “Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph.”
+    1988—Subsec. (a)(2). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(1), inserted at end “Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph.”
 
-    Subsec. (c)(3). [Pub. L. 100–647, § 1008(b)(2)(A)][/us/pl/100/647/s1008/b/2/A], substituted “section 263(c), 263(i), 291(b)(2), 616, or 617” for “section 263(c), 616(a), or 617(a)”.
+    Subsec. (c)(3). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(2)(A), substituted “section 263(c), 263(i), 291(b)(2), 616, or 617” for “section 263(c), 616(a), or 617(a)”.
 
-    Subsec. (c)(6). [Pub. L. 100–647, § 1008(b)(2)(B)][/us/pl/100/647/s1008/b/2/B], added par. (6).
+    Subsec. (c)(6). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(2)(B), added par. (6).
 
-    Subsec. (d)(1). [Pub. L. 100–647, § 6026(b)(2)(A)][/us/pl/100/647/s6026/b/2/A], substituted “Section not to apply to certain property” for “Section to apply only if preproductive period is more than 2 years” in heading.
+    Subsec. (d)(1). [Pub. L. 100–647][/us/pl/100/647], § 6026(b)(2)(A), substituted “Section not to apply to certain property” for “Section to apply only if preproductive period is more than 2 years” in heading.
 
-    Subsec. (d)(1)(A). [Pub. L. 100–647, § 6026(b)(1)][/us/pl/100/647/s6026/b/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “This section shall not apply to any plant or animal which is produced by the taxpayer in a farming business and which has a preproductive period of 2 years or less.”
+    Subsec. (d)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 6026(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “This section shall not apply to any plant or animal which is produced by the taxpayer in a farming business and which has a preproductive period of 2 years or less.”
 
-    Subsec. (d)(2)(B)(i). [Pub. L. 100–647, § 1008(b)(3)(A)][/us/pl/100/647/s1008/b/3/A], substituted “the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard”.
+    Subsec. (d)(2)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(3)(A), substituted “the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard”.
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 100–647, § 1008(b)(3)(B)][/us/pl/100/647/s1008/b/3/B], substituted “the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard during the 4-taxable year period beginning with the taxable year in which the grove, orchard, or vineyard was lost or damaged”.
+    Subsec. (d)(2)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(3)(B), substituted “the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard during the 4-taxable year period beginning with the taxable year in which the grove, orchard, or vineyard was lost or damaged”.
 
-    Subsec. (d)(3)(A). [Pub. L. 100–647, § 6026(b)(2)(B)][/us/pl/100/647/s6026/b/2/B], struck out “or animal” after “plant”.
+    Subsec. (d)(3)(A). [Pub. L. 100–647][/us/pl/100/647], § 6026(b)(2)(B), struck out “or animal” after “plant”.
 
-    Subsec. (d)(3)(B). [Pub. L. 100–647, § 6026(c)][/us/pl/100/647/s6026/c], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No election may be made under this paragraph—
+    Subsec. (d)(3)(B). [Pub. L. 100–647][/us/pl/100/647], § 6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No election may be made under this paragraph—
 
     “(i) by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3), or
 
     “(ii) with respect to the planting, cultivation, maintenance, or development of pistachio trees.”
 
-    Subsec. (e). [Pub. L. 100–647, § 6026(b)(2)(B)][/us/pl/100/647/s6026/b/2/B], struck out “or animal” after “plant” wherever appearing in pars. (1), (3), and (5).
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 6026(b)(2)(B), struck out “or animal” after “plant” wherever appearing in pars. (1), (3), and (5).
 
-    Subsec. (f)(3). [Pub. L. 100–647, § 1008(b)(4)][/us/pl/100/647/s1008/b/4], substituted “allocable (as determined under paragraph (2)) to” for “incurred or continued in connection with” and inserted “(as so determined)” after “allocable”.
+    Subsec. (f)(3). [Pub. L. 100–647][/us/pl/100/647], § 1008(b)(4), substituted “allocable (as determined under paragraph (2)) to” for “incurred or continued in connection with” and inserted “(as so determined)” after “allocable”.
 
-    Subsecs. (h), (i). [Pub. L. 100–647, § 6026(a)][/us/pl/100/647/s6026/a], added subsec. (h) and redesignated former subsec. (h) as (i).
+    Subsecs. (h), (i). [Pub. L. 100–647][/us/pl/100/647], § 6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
  __Effective Date of 2015 Amendment__ 
 
@@ -433,7 +433,7 @@
 
     Amendment by section 1008(b)(1)–(4) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 100–647, title VI, § 6026(d)][/us/pl/100/647/s6026/d], Nov. 10, 1988, [102 Stat. 3693][/us/stat/102/3693], as amended by [Pub. L. 101–239, title VII, § 7816(d)(2)][/us/pl/101/239/s7816/d/2], Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], provided that:
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6026(d), Nov. 10, 1988, [102 Stat. 3693][/us/stat/102/3693], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7816(d)(2), Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -451,11 +451,11 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–239, title VII, § 7831(d)(2)][/us/pl/101/239/s7831/d/2], Dec. 19, 1989, [103 Stat. 2427][/us/stat/103/2427], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7831(d)(2), Dec. 19, 1989, [103 Stat. 2427][/us/stat/103/2427], provided that: 
 
 > “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[[section 803 of Pub. L. 99–514][/us/pl/99/514/s803], enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
 
-[Pub. L. 99–514, title VIII, § 803(d)][/us/pl/99/514/s803/d], Oct. 22, 1986, [100 Stat. 2356][/us/stat/100/2356], as amended by [Pub. L. 100–647, title I, § 1008(b)(7)][/us/pl/100/647/s1008/b/7], Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438]; [Pub. L. 101–239, title VII, § 7831(d)(1)][/us/pl/101/239/s7831/d/1], Dec. 19, 1989, [103 Stat. 2426][/us/stat/103/2426], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 803(d), Oct. 22, 1986, [100 Stat. 2356][/us/stat/100/2356], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(b)(7), Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7831(d)(1), Dec. 19, 1989, [103 Stat. 2426][/us/stat/103/2426], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -519,13 +519,13 @@
 
  __Allocation Ratio for Apportioning Storage Costs and Related Handling Costs__ 
 
-[Pub. L. 100–647, title I, § 1008(b)(8)][/us/pl/100/647/s1008/b/8], Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(b)(8), Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438], provided that: 
 
 > “The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986)).”
 
  __Amortization of Past Service Pension Costs__ 
 
-[Pub. L. 100–203, title X, § 10204][/us/pl/100/203/s10204], Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394], provided that:
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10204, Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -562,37 +562,37 @@
 ----------
 ----------
 
-[/us/pl/99/514/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs803%2Fa
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2350
-[/us/pl/100/647/s1008/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3437
-[/us/pl/101/239/s7816/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fd%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2420
-[/us/pl/106/170/s532/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F2%2FB
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
-[/us/pl/108/357/s338/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs338%2Fb%2F2
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1481
-[/us/pl/109/58/s1329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1329%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1020
-[/us/pl/114/113/s143/b/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F6%2FH
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3064
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s1008/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F1
-[/us/pl/100/647/s1008/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F2%2FA
-[/us/pl/100/647/s1008/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F2%2FB
-[/us/pl/100/647/s6026/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fb%2F2%2FA
-[/us/pl/100/647/s6026/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fb%2F1
-[/us/pl/100/647/s1008/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F3%2FA
-[/us/pl/100/647/s1008/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F3%2FB
-[/us/pl/100/647/s6026/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fb%2F2%2FB
-[/us/pl/100/647/s6026/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fc
-[/us/pl/100/647/s6026/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fb%2F2%2FB
-[/us/pl/100/647/s1008/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F4
-[/us/pl/100/647/s6026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fa
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113/s143/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs143%2Fb%2F7
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
@@ -613,19 +613,19 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6026/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6026%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3693
-[/us/pl/101/239/s7816/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fd%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2421
 [/us/pl/99/514/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs803
-[/us/pl/101/239/s7831/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7831%2Fd%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2427
 [/us/pl/99/514/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs803
-[/us/pl/99/514/s803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs803%2Fd
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2356
-[/us/pl/100/647/s1008/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F7
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3438
-[/us/pl/101/239/s7831/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7831%2Fd%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2426
 [/us/usc/t26/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs189
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
@@ -634,9 +634,9 @@
 [/us/pl/97/248/s207/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs207%2Fe%2F2%2FB
 [/us/usc/t26/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs189
 [/us/usc/t26/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs189
-[/us/pl/100/647/s1008/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fb%2F8
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3438
-[/us/pl/100/203/s10204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10204
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-394
 
 

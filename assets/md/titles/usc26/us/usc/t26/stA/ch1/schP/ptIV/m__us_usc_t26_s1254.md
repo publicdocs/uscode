@@ -75,7 +75,7 @@
 
         (2) in the case of the sale or exchange of stock in an S corporation, rules similar to the rules of section 751 shall be applied to that portion of the excess of the amount realized over the adjusted basis of the stock which is attributable to expenditures referred to in subsection (a)(1)(A) of this section.
 
-(Added [Pub. L. 94–455, title II, § 205(a)][/us/pl/94/455/s205/a], Oct. 4, 1976, [90 Stat. 1533][/us/stat/90/1533]; amended [Pub. L. 95–618, title IV, § 402(c)(1)][/us/pl/95/618/s402/c/1]–(3), Nov. 9, 1978, [92 Stat. 3202][/us/stat/92/3202]; [Pub. L. 97–354, § 5(a)(37)][/us/pl/97/354/s5/a/37], Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 99–514, title IV, § 413(a)][/us/pl/99/514/s413/a], Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227]; [Pub. L. 100–647, title I, § 1004(c)][/us/pl/100/647/s1004/c], Nov. 10, 1988, [102 Stat. 3387][/us/stat/102/3387].)
+(Added [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 205(a), Oct. 4, 1976, [90 Stat. 1533][/us/stat/90/1533]; amended [Pub. L. 95–618, title IV][/us/pl/95/618/tIV], § 402(c)(1)–(3), Nov. 9, 1978, [92 Stat. 3202][/us/stat/92/3202]; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(37), Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 413(a), Oct. 22, 1986, [100 Stat. 2227][/us/stat/100/2227]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1004(c), Nov. 10, 1988, [102 Stat. 3387][/us/stat/102/3387].)
 
  __Amendments__ 
 
@@ -85,11 +85,11 @@
 
     1982—Subsec. (b)(2). [Pub. L. 97–354][/us/pl/97/354] substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
-    1978—[Pub. L. 95–618, § 402(c)(3)][/us/pl/95/618/s402/c/3], substituted “oil, gas, or geothermal” for “oil or gas” in section catchline.
+    1978—[Pub. L. 95–618][/us/pl/95/618], § 402(c)(3), substituted “oil, gas, or geothermal” for “oil or gas” in section catchline.
 
-    Subsec. (a)(1), (2). [Pub. L. 95–618, § 402(c)(1)][/us/pl/95/618/s402/c/1], substituted “oil, gas, or geothermal property” for “oil or gas property” wherever appearing.
+    Subsec. (a)(1), (2). [Pub. L. 95–618][/us/pl/95/618], § 402(c)(1), substituted “oil, gas, or geothermal property” for “oil or gas property” wherever appearing.
 
-    Subsec. (a)(3). [Pub. L. 95–618, § 402(c)(2)][/us/pl/95/618/s402/c/2], substituted “Oil, gas, or geothermal” for “Oil or gas” in heading and in text substituted “The term ‘oil, gas, or geothermal property’ means” for “The term ‘oil or gas property’ means”.
+    Subsec. (a)(3). [Pub. L. 95–618][/us/pl/95/618], § 402(c)(2), substituted “Oil, gas, or geothermal” for “Oil or gas” in heading and in text substituted “The term ‘oil, gas, or geothermal property’ means” for “The term ‘oil or gas property’ means”.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title IV, § 413(c)][/us/pl/99/514/s413/c], Oct. 22, 1986, [100 Stat. 2229][/us/stat/100/2229], provided that:
+[Pub. L. 99–514, title IV][/us/pl/99/514/tIV], § 413(c), Oct. 22, 1986, [100 Stat. 2229][/us/stat/100/2229], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title II, § 205(e)][/us/pl/94/455/s205/e], Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], provided that: 
+[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 205(e), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975.”
 
@@ -128,27 +128,27 @@
 ----------
 ----------
 
-[/us/pl/94/455/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs205%2Fa
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1533
-[/us/pl/95/618/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs402%2Fc%2F1
+[/us/pl/95/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtIV
 [/us/stat/92/3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3202
-[/us/pl/97/354/s5/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F37
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1696
-[/us/pl/99/514/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs413%2Fa
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2227
-[/us/pl/100/647/s1004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1004%2Fc
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3387
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
-[/us/pl/95/618/s402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs402%2Fc%2F3
-[/us/pl/95/618/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs402%2Fc%2F1
-[/us/pl/95/618/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs402%2Fc%2F2
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s413/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs413%2Fc
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2229
 [/us/usc/t26/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs617
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
@@ -157,7 +157,7 @@
 [/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
 [/us/pl/95/618/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs402%2Fe
 [/us/usc/t26/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs263
-[/us/pl/94/455/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs205%2Fe
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1535
 
 

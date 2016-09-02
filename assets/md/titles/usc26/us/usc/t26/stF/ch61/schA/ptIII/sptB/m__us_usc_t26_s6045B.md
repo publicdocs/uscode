@@ -57,7 +57,7 @@
 
         (2) the information described in paragraphs (1), (2), and (3) of subsection (a).
 
-(Added [Pub. L. 110–343, div. B, title IV, § 403(d)(1)][/us/pl/110/343/s403/d/1], Oct. 3, 2008, [122 Stat. 3859][/us/stat/122/3859].)
+(Added [Pub. L. 110–343, div. B, title IV][/us/pl/110/343/dB/tIV], § 403(d)(1), Oct. 3, 2008, [122 Stat. 3859][/us/stat/122/3859].)
 
  __Effective Date__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/110/343/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fd%2F1
+[/us/pl/110/343/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIV
 [/us/stat/122/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3859
 [/us/pl/110/343/s403/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fe%2F1
 [/us/usc/t26/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1012

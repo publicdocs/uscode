@@ -269,7 +269,7 @@
 
         If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1672][/us/stat/96/1672]; amended [Pub. L. 98–369, div. A, title I, § 102(d)(2)][/us/pl/98/369/s102/d/2], title VII, § 721(g), (h), (l), (t), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 968, 969, 971; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, [102 Stat. 3406][/us/stat/102/3406], 3435; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, [110 Stat. 1779][/us/stat/110/1779], 1780, 1783, 1784; [Pub. L. 106–170, title V, § 532(c)(2)(T)][/us/pl/106/170/s532/c/2/T], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; [Pub. L. 108–357, title II][/us/pl/108/357], §§ 231(b), 237(a), 238(a), Oct. 22, 2004, [118 Stat. 1433][/us/stat/118/1433], 1436; [Pub. L. 109–135, title IV, § 413(b)][/us/pl/109/135/s413/b], Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641]; [Pub. L. 110–28, title VIII, § 8231(a)][/us/pl/110/28/s8231/a], May 25, 2007, [121 Stat. 196][/us/stat/121/196]; [Pub. L. 110–172, § 11(a)(25)][/us/pl/110/172/s11/a/25], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487]; [Pub. L. 113–295, div. A, title II, § 221(a)(88)][/us/pl/113/295/s221/a/88], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1672][/us/stat/96/1672]; amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 102(d)(2), title VII, § 721(g), (h), (l), (t), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 968, 969, 971; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, [102 Stat. 3406][/us/stat/102/3406], 3435; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, [110 Stat. 1779][/us/stat/110/1779], 1780, 1783, 1784; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(2)(T), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; [Pub. L. 108–357, title II][/us/pl/108/357/tII], §§ 231(b), 237(a), 238(a), Oct. 22, 2004, [118 Stat. 1433][/us/stat/118/1433], 1436; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 413(b), Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641]; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8231(a), May 25, 2007, [121 Stat. 196][/us/stat/121/196]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(25), Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(88), Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __Amendments__ 
 
@@ -285,39 +285,39 @@
 
     2005—Subsec. (d)(3)(F). [Pub. L. 109–135][/us/pl/109/135] substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(w)(1)][/us/usc/t12/s1813/w/1])” for “a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(a)][/us/usc/t12/s1841/a])), or a financial holding company (within the meaning of section 2(p) of such Act)”.
 
-    2004—Subsec. (d)(3)(F). [Pub. L. 108–357, § 237(a)][/us/pl/108/357/s237/a], added subpar. (F).
+    2004—Subsec. (d)(3)(F). [Pub. L. 108–357][/us/pl/108/357], § 237(a), added subpar. (F).
 
-    Subsec. (f). [Pub. L. 108–357, § 238(a)(5)][/us/pl/108/357/s238/a/5], inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
+    Subsec. (f). [Pub. L. 108–357][/us/pl/108/357], § 238(a)(5), inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
 
-    Subsec. (f)(1). [Pub. L. 108–357, § 238(a)(1)][/us/pl/108/357/s238/a/1], inserted “, section 1361(b)(3)(B)(ii),” after “subsection (a)” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 108–357][/us/pl/108/357], § 238(a)(1), inserted “, section 1361(b)(3)(B)(ii),” after “subsection (a)” in introductory provisions.
 
-    [Pub. L. 108–357, § 231(b)(1)][/us/pl/108/357/s231/b/1], inserted “or section 1361(c)(1)(A)(ii)” after “section 1361(b)(3)(B)(ii),” in introductory provisions.
+    [Pub. L. 108–357][/us/pl/108/357], § 231(b)(1), inserted “or section 1361(c)(1)(A)(ii)” after “section 1361(b)(3)(B)(ii),” in introductory provisions.
 
-    Subsec. (f)(1)(B). [Pub. L. 108–357, § 238(a)(2)][/us/pl/108/357/s238/a/2], inserted “, section 1361(b)(3)(C),” after “subsection (d)”.
+    Subsec. (f)(1)(B). [Pub. L. 108–357][/us/pl/108/357], § 238(a)(2), inserted “, section 1361(b)(3)(C),” after “subsection (d)”.
 
-    [Pub. L. 108–357, § 231(b)(2)][/us/pl/108/357/s231/b/2], inserted “or section 1361(c)(1)(D)(iii)” after “section 1361(b)(3)(C),”.
+    [Pub. L. 108–357][/us/pl/108/357], § 231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” after “section 1361(b)(3)(C),”.
 
-    Subsec. (f)(3)(A). [Pub. L. 108–357, § 238(a)(3)][/us/pl/108/357/s238/a/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
+    Subsec. (f)(3)(A). [Pub. L. 108–357][/us/pl/108/357], § 238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
 
-    Subsec. (f)(4). [Pub. L. 108–357, § 238(a)(4)][/us/pl/108/357/s238/a/4], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
+    Subsec. (f)(4). [Pub. L. 108–357][/us/pl/108/357], § 238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
     1999—Subsec. (d)(3)(C)(ii). [Pub. L. 106–170][/us/pl/106/170] substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-    1996—Subsec. (b)(5). [Pub. L. 104–188, § 1305(b)][/us/pl/104/188/s1305/b], added par. (5).
+    1996—Subsec. (b)(5). [Pub. L. 104–188][/us/pl/104/188], § 1305(b), added par. (5).
 
-    Subsec. (d)(3). [Pub. L. 104–188, § 1311(b)(1)(A)][/us/pl/104/188/s1311/b/1/A], in heading substituted “accumulated” for “subchapter C”.
+    Subsec. (d)(3). [Pub. L. 104–188][/us/pl/104/188], § 1311(b)(1)(A), in heading substituted “accumulated” for “subchapter C”.
 
-    Subsec. (d)(3)(A)(i)(I). [Pub. L. 104–188, § 1311(b)(1)(B)][/us/pl/104/188/s1311/b/1/B], substituted “accumulated” for “subchapter C”.
+    Subsec. (d)(3)(A)(i)(I). [Pub. L. 104–188][/us/pl/104/188], § 1311(b)(1)(B), substituted “accumulated” for “subchapter C”.
 
-    Subsec. (d)(3)(B) to (E). [Pub. L. 104–188, § 1311(b)(1)(C)][/us/pl/104/188/s1311/b/1/C], redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows:
+    Subsec. (d)(3)(B) to (E). [Pub. L. 104–188][/us/pl/104/188], § 1311(b)(1)(C), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows:
 
     “(B) Subchapter c earnings and profits.—For purposes of subparagraph (A), the term ‘subchapter C earnings and profits’ means earnings and profits of any corporation for any taxable year with respect to which an election under section 1362(a) (or under section 1372 of prior law) was not in effect.”
 
-    Subsec. (d)(3)(F). [Pub. L. 104–188, § 1311(b)(1)(C)][/us/pl/104/188/s1311/b/1/C], redesignated subpar. (F) as (E).
+    Subsec. (d)(3)(F). [Pub. L. 104–188][/us/pl/104/188], § 1311(b)(1)(C), redesignated subpar. (F) as (E).
 
-    [Pub. L. 104–188, § 1308(c)][/us/pl/104/188/s1308/c], added subpar. (F).
+    [Pub. L. 104–188][/us/pl/104/188], § 1308(c), added subpar. (F).
 
-    Subsec. (f). [Pub. L. 104–188, § 1305(a)][/us/pl/104/188/s1305/a], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+    Subsec. (f). [Pub. L. 104–188][/us/pl/104/188], § 1305(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
     “(f) Inadvertent Terminations.—If—
 
@@ -331,25 +331,25 @@
 
     then, notwithstanding the terminating event, such corporation shall be treated as continuing to be an S corporation during the period specified by the Secretary.”
 
-    1988—Subsec. (d)(3)(D)(v). [Pub. L. 100–647, § 1006(f)(6)(A)][/us/pl/100/647/s1006/f/6/A], struck out cl. (v) which related to special rule for options and commodities dealers.
+    1988—Subsec. (d)(3)(D)(v). [Pub. L. 100–647][/us/pl/100/647], § 1006(f)(6)(A), struck out cl. (v) which related to special rule for options and commodities dealers.
 
-    Subsec. (d)(3)(E). [Pub. L. 100–647, § 1006(f)(6)(B)][/us/pl/100/647/s1006/f/6/B], added subpar. (E).
+    Subsec. (d)(3)(E). [Pub. L. 100–647][/us/pl/100/647], § 1006(f)(6)(B), added subpar. (E).
 
-    Subsec. (e)(5)(B). [Pub. L. 100–647, § 1007(g)(9)][/us/pl/100/647/s1007/g/9], substituted “Subsection (d)” for “Subsection (d)(2)”.
+    Subsec. (e)(5)(B). [Pub. L. 100–647][/us/pl/100/647], § 1007(g)(9), substituted “Subsection (d)” for “Subsection (d)(2)”.
 
-    1984—Subsec. (b)(3)(B). [Pub. L. 98–369, § 721][/us/pl/98/369/s721](l)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
+    1984—Subsec. (b)(3)(B). [Pub. L. 98–369][/us/pl/98/369], § 721(l)(2), substituted “on or before the 15th day of the 3rd month of the following taxable year” for “on or before the last day of such taxable year”.
 
-    Subsec. (b)(4). [Pub. L. 98–369, § 721][/us/pl/98/369/s721](l)(1), added par. (4).
+    Subsec. (b)(4). [Pub. L. 98–369][/us/pl/98/369], § 721(l)(1), added par. (4).
 
-    Subsec. (d)(3)(D)(v). [Pub. L. 98–369, § 102(d)(2)][/us/pl/98/369/s102/d/2], added cl. (v).
+    Subsec. (d)(3)(D)(v). [Pub. L. 98–369][/us/pl/98/369], § 102(d)(2), added cl. (v).
 
-    Subsec. (e)(2). [Pub. L. 98–369, § 721(g)(2)][/us/pl/98/369/s721/g/2], substituted “as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6)” for “as provided in paragraph (3)”.
+    Subsec. (e)(2). [Pub. L. 98–369][/us/pl/98/369], § 721(g)(2), substituted “as provided in paragraph (3) and subparagraphs (C) and (D) of paragraph (6)” for “as provided in paragraph (3)”.
 
-    Subsec. (e)(3)(B). [Pub. L. 98–369, § 721(h)][/us/pl/98/369/s721/h], struck out “All” in heading, and substituted “subsection” for “paragraph” and “S short year and all persons who are shareholders in the corporation on the first day of the C short year” for “S termination year” in text.
+    Subsec. (e)(3)(B). [Pub. L. 98–369][/us/pl/98/369], § 721(h), struck out “All” in heading, and substituted “subsection” for “paragraph” and “S short year and all persons who are shareholders in the corporation on the first day of the C short year” for “S termination year” in text.
 
-    Subsec. (e)(6)(C). [Pub. L. 98–369, § 721(g)(1)][/us/pl/98/369/s721/g/1], added subpar. (C).
+    Subsec. (e)(6)(C). [Pub. L. 98–369][/us/pl/98/369], § 721(g)(1), added subpar. (C).
 
-    Subsec. (e)(6)(D). [Pub. L. 98–369, § 721(t)][/us/pl/98/369/s721/t], added subpar. (D).
+    Subsec. (e)(6)(D). [Pub. L. 98–369][/us/pl/98/369], § 721(t), added subpar. (D).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -357,7 +357,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8231(b)][/us/pl/110/28/s8231/b], May 25, 2007, [121 Stat. 197][/us/stat/121/197], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8231(b), May 25, 2007, [121 Stat. 197][/us/stat/121/197], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 25, 2007\].”
 
@@ -367,15 +367,15 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title II, § 231(c)(2)][/us/pl/108/357/s231/c/2], Oct. 22, 2004, [118 Stat. 1434][/us/stat/118/1434], provided that: 
+[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 231(c)(2), Oct. 22, 2004, [118 Stat. 1434][/us/stat/118/1434], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to elections and terminations made after December 31, 2004.”
 
-[Pub. L. 108–357, title II, § 237(b)][/us/pl/108/357/s237/b], Oct. 22, 2004, [118 Stat. 1436][/us/stat/118/1436], provided that: 
+[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 237(b), Oct. 22, 2004, [118 Stat. 1436][/us/stat/118/1436], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
-[Pub. L. 108–357, title II, § 238(b)][/us/pl/108/357/s238/b], Oct. 22, 2004, [118 Stat. 1436][/us/stat/118/1436], provided that: 
+[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 238(b), Oct. 22, 2004, [118 Stat. 1436][/us/stat/118/1436], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to elections made and terminations made after December 31, 2004.”
 
@@ -385,7 +385,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1305(c)][/us/pl/104/188/s1305/c], Aug. 20, 1996, [110 Stat. 1780][/us/stat/110/1780], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1305(c), Aug. 20, 1996, [110 Stat. 1780][/us/stat/110/1780], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to elections for taxable years beginning after December 31, 1982.”
 
@@ -407,13 +407,13 @@
 
  __Treatment of Certain Elections Under Prior Law__ 
 
-[Pub. L. 104–188, title I, § 1317(b)][/us/pl/104/188/s1317/b], Aug. 20, 1996, [110 Stat. 1787][/us/stat/110/1787], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1317(b), Aug. 20, 1996, [110 Stat. 1787][/us/stat/110/1787], provided that: 
 
 > “For purposes of section 1362(g) of the Internal Revenue Code of 1986 (relating to election after termination), any termination under section 1362(d) of such Code in a taxable year beginning before January 1, 1997, shall not be taken into account.”
 
  __Subchapter S Election__ 
 
-[Pub. L. 98–369, div. A, title I, § 102(d)(3)][/us/pl/98/369/s102/d/3], July 18, 1984, [98 Stat. 623][/us/stat/98/623], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1808(a)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2817, provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 102(d)(3), July 18, 1984, [98 Stat. 623][/us/stat/98/623], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, title XVIII, § 1808(a)(2), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2817, provided that: 
 
 > “If a commodities dealer or an options dealer—
 
@@ -431,25 +431,25 @@
 ----------
 
 [/us/usc/t12/s1813/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fw%2F1
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1672
-[/us/pl/98/369/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs102%2Fd%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F623
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3406
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1779
-[/us/pl/106/170/s532/c/2/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F2%2FT
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1433
-[/us/pl/109/135/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs413%2Fb
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2641
-[/us/pl/110/28/s8231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8231%2Fa
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F196
-[/us/pl/110/172/s11/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F25
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
-[/us/pl/113/295/s221/a/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F88
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
@@ -457,51 +457,51 @@
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/usc/t12/s1813/w/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fw%2F1
 [/us/usc/t12/s1841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fa
-[/us/pl/108/357/s237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs237%2Fa
-[/us/pl/108/357/s238/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fa%2F5
-[/us/pl/108/357/s238/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fa%2F1
-[/us/pl/108/357/s231/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs231%2Fb%2F1
-[/us/pl/108/357/s238/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fa%2F2
-[/us/pl/108/357/s231/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs231%2Fb%2F2
-[/us/pl/108/357/s238/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fa%2F3
-[/us/pl/108/357/s238/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fa%2F4
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/104/188/s1305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1305%2Fb
-[/us/pl/104/188/s1311/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1311%2Fb%2F1%2FA
-[/us/pl/104/188/s1311/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1311%2Fb%2F1%2FB
-[/us/pl/104/188/s1311/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1311%2Fb%2F1%2FC
-[/us/pl/104/188/s1311/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1311%2Fb%2F1%2FC
-[/us/pl/104/188/s1308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1308%2Fc
-[/us/pl/104/188/s1305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1305%2Fa
-[/us/pl/100/647/s1006/f/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ff%2F6%2FA
-[/us/pl/100/647/s1006/f/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ff%2F6%2FB
-[/us/pl/100/647/s1007/g/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fg%2F9
-[/us/pl/98/369/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721
-[/us/pl/98/369/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721
-[/us/pl/98/369/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs102%2Fd%2F2
-[/us/pl/98/369/s721/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fg%2F2
-[/us/pl/98/369/s721/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fh
-[/us/pl/98/369/s721/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fg%2F1
-[/us/pl/98/369/s721/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Ft
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/110/28/s8231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8231%2Fb
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F197
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs413%2Fd
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/108/357/s231/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs231%2Fc%2F2
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1434
-[/us/pl/108/357/s237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs237%2Fb
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1436
-[/us/pl/108/357/s238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs238%2Fb
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1436
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/104/188/s1305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1305%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1780
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1317%2Fa
@@ -522,11 +522,11 @@
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
 [/us/pl/97/354/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fe
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/104/188/s1317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1317%2Fb
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1787
-[/us/pl/98/369/s102/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs102%2Fd%2F3
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F623
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

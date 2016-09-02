@@ -15,7 +15,7 @@
 
 ## \[§ 3323. Omitted\]
 
-    Section, added [Pub. L. 98–76, title II, § 231(a)][/us/pl/98/76/s231/a], Aug. 12, 1983, [97 Stat. 427][/us/stat/97/427]; amended [Pub. L. 99–272, title XIII, § 13301(b)][/us/pl/99/272/s13301/b], Apr. 7, 1986, [100 Stat. 326][/us/stat/100/326], contained definitions, prior to the general amendment of this chapter by [Pub. L. 100–647, § 7106(a)][/us/pl/100/647/s7106/a]. See [section 3322 of this title][/us/usc/t26/s3322].
+    Section, added [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(a), Aug. 12, 1983, [97 Stat. 427][/us/stat/97/427]; amended [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13301(b), Apr. 7, 1986, [100 Stat. 326][/us/stat/100/326], contained definitions, prior to the general amendment of this chapter by [Pub. L. 100–647][/us/pl/100/647], § 7106(a). See [section 3322 of this title][/us/usc/t26/s3322].
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/98/76/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fa
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F427
-[/us/pl/99/272/s13301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13301%2Fb
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F326
-[/us/pl/100/647/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fa
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t26/s3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3322
 
 

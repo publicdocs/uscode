@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–218, title II, § 205(b)(7)][/us/pl/108/218/s205/b/7], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610], struck out item 809 “Reduction in certain deductions of mutual life insurance companies”.
+    2004—[Pub. L. 108–218, title II][/us/pl/108/218/tII], § 205(b)(7), Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610], struck out item 809 “Reduction in certain deductions of mutual life insurance companies”.
 
-    1986—[Pub. L. 99–514, title X, § 1011(b)(11)(B)][/us/pl/99/514/s1011/b/11/B], Oct. 22, 1986, [100 Stat. 2389][/us/stat/100/2389], substituted “Small life insurance company deduction” for “Special deductions” in item 806.
+    1986—[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1011(b)(11)(B), Oct. 22, 1986, [100 Stat. 2389][/us/stat/100/2389], substituted “Small life insurance company deduction” for “Special deductions” in item 806.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/108/218/s205/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F7
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
-[/us/pl/99/514/s1011/b/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1011%2Fb%2F11%2FB
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2389
 
 

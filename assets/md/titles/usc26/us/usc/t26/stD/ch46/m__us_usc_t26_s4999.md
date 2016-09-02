@@ -33,7 +33,7 @@
 
             For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added [Pub. L. 98–369, div. A, title I, § 67(b)(1)][/us/pl/98/369/s67/b/1], July 18, 1984, [98 Stat. 587][/us/stat/98/587].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 67(b)(1), July 18, 1984, [98 Stat. 587][/us/stat/98/587].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s67/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs67%2Fb%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F587
 [/us/pl/98/369/s67/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs67%2Fe
 [/us/usc/t26/s280G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs280G

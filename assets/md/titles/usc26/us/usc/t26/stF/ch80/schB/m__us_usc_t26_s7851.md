@@ -125,25 +125,25 @@
 
         For the purpose of applying the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 to any period, any reference in either such code to another provision of the Internal Revenue Code of 1939 or the Internal Revenue Code of 1986 which is not then applicable to such period shall be deemed a reference to the corresponding provision of the other code which is then applicable to such period.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 919][/us/stat/68A/919]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 919][/us/stat/68A/919]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
-    Chapter 4 of this title, referred to in subsec. (a)(1)(A), was repealed by [Pub. L. 101–508, title XI, § 11801(a)(37)][/us/pl/101/508/s11801/a/37], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521].
+    Chapter 4 of this title, referred to in subsec. (a)(1)(A), was repealed by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(37), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521].
 
     The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
 
     Various provisions of the Internal Revenue Code of 1939, referred to in text and described below, have corresponding provisions appearing in the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See, also, subsec. (e) of this section for provision that references in the 1986 Code to a provision in the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-    Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by [act Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title I, § 106(c)(2), [58 Stat. 31][/us/stat/58/31], sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by [act Feb. 25, 1944, ch. 63][/us/act/1944-02-25/ch63], title I, § 107(a), [58 Stat. 31][/us/stat/58/31], sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title I, § 159(e), [56 Stat. 860][/us/stat/56/860], sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title I, § 170(a), [56 Stat. 878][/us/stat/56/878], sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
+    Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by [act Feb. 25, 1944, ch. 63, title I][/us/act/1944-02-25/ch63/tI], § 106(c)(2), [58 Stat. 31][/us/stat/58/31], sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by [act Feb. 25, 1944, ch. 63, title I][/us/act/1944-02-25/ch63/tI], § 107(a), [58 Stat. 31][/us/stat/58/31], sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by [act Oct. 21, 1942, ch. 619, title I][/us/act/1942-10-21/ch619/tI], § 159(e), [56 Stat. 860][/us/stat/56/860], sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by [act Oct. 21, 1942, ch. 619, title I][/us/act/1942-10-21/ch619/tI], § 170(a), [56 Stat. 878][/us/stat/56/878], sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
 
     Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (B), were classified to sections 143 and 144 of former Title 26, Internal Revenue Code.
 
-    Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by [act Nov. 8, 1945, ch. 453][/us/act/1945-11-08/ch453], title II, § 202, [59 Stat. 574][/us/stat/59/574], sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by [act Nov. 8, 1945, ch. 453][/us/act/1945-11-08/ch453], title I, § 122(a), [59 Stat. 568][/us/stat/59/568], section 741 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title II, §§ 224(b), 228(b), [56 Stat. 920][/us/stat/56/920], 925, section 752 was repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title II, § 229(a)(1), [56 Stat. 931][/us/stat/56/931], eff. as of Oct. 8, 1940.
+    Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by [act Nov. 8, 1945, ch. 453, title II][/us/act/1945-11-08/ch453/tII], § 202, [59 Stat. 574][/us/stat/59/574], sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by [act Nov. 8, 1945, ch. 453, title I][/us/act/1945-11-08/ch453/tI], § 122(a), [59 Stat. 568][/us/stat/59/568], section 741 was repealed by [act Oct. 21, 1942, ch. 619, title II][/us/act/1942-10-21/ch619/tII], §§ 224(b), 228(b), [56 Stat. 920][/us/stat/56/920], 925, section 752 was repealed by [act Oct. 21, 1942, ch. 619, title II][/us/act/1942-10-21/ch619/tII], § 229(a)(1), [56 Stat. 931][/us/stat/56/931], eff. as of Oct. 8, 1940.
 
     Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was classified to section 3801 of former Title 26, Internal Revenue Code. Section 3801 was repealed by subsec. (a)(1)(A) of this section.
 
-    Chapter 5 of this title, referred to in subsec. (a)(1)(B), was repealed by [Pub. L. 105–34, title XI, § 1131(a)][/us/pl/105/34/s1131/a], Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978].
+    Chapter 5 of this title, referred to in subsec. (a)(1)(B), was repealed by [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(a), Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978].
 
     Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
@@ -159,11 +159,11 @@
 
     Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(3), (4), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. Subchapters B and E of chapter 9 of the Internal Revenue Code of 1939 were comprised of sections 1500 to 1538, and 1630 to 1636, respectively, of former Title 26.
 
-    Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by [act Nov. 8, 1945, ch. 453][/us/act/1945-11-08/ch453], title II, § 201, [59 Stat. 574][/us/stat/59/574]. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by [act June 10, 1952, ch. 390][/us/act/1952-06-10/ch390], [66 Stat. 133][/us/stat/66/133]. Section 1630 was repealed by [act Aug. 27, 1949, ch. 517, § 4(b)][/us/act/1949-08-27/ch517/s4/b], [63 Stat. 668][/us/stat/63/668]. Section 1806 was repealed by [act Mar. 11, 1947, ch. 117, § 8(c)][/us/act/1947-03-11/ch117/s8/c], [61 Stat. 13][/us/stat/61/13]. Section 2301 was repealed by [act Mar. 16, 1950, ch. 61, § 1][/us/act/1950-03-16/ch61/s1], [64 Stat. 20][/us/stat/64/20]. Sections 2380 to 2390, and 3215 to 3217 were repealed by [act Oct. 21, 1942, ch. 619][/us/act/1942-10-21/ch619], title VI, § 619, [56 Stat. 979][/us/stat/56/979]. Section 2476 was repealed by [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 506(b), [60 Stat. 157][/us/stat/60/157]. Sections 2906 and 3302 were repealed by [act Feb. 21, 1950, ch. 36, § 7][/us/act/1950-02-21/ch36/s7], [64 Stat. 8][/us/stat/64/8]. Section 2907 was repealed by [act July 22, 1941, ch. 314][/us/act/1941-07-22/ch314], [55 Stat. 602][/us/stat/55/602]. Sections 3151 and 3154 were repealed by [act Aug. 27, 1949, ch. 498, § 6][/us/act/1949-08-27/ch498/s6], [63 Stat. 626][/us/stat/63/626]. Sections 3200 to 3202 were repealed by [act Mar. 16, 1950, ch. 61, § 2][/us/act/1950-03-16/ch61/s2], [64 Stat. 20][/us/stat/64/20]. Sections 3340 to 3343 were repealed by [act Apr. 30, 1946, ch. 244][/us/act/1946-04-30/ch244], title V, § 507(b), [60 Stat. 157][/us/stat/60/157]. Section 3411 was repealed by [act Oct. 20, 1951, ch. 521][/us/act/1951-10-20/ch521], title IV, § 488(a), [65 Stat. 536][/us/stat/65/536]. Section 3452 was repealed by [act Sept. 20, 1941, ch. 412][/us/act/1941-09-20/ch412], title V, § 501, [55 Stat. 706][/us/stat/55/706]. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by [act Nov. 8, 1945, ch. 453][/us/act/1945-11-08/ch453], title III, § 301, [59 Stat. 575][/us/stat/59/575].
+    Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by [act Nov. 8, 1945, ch. 453, title II][/us/act/1945-11-08/ch453/tII], § 201, [59 Stat. 574][/us/stat/59/574]. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by [act June 10, 1952, ch. 390][/us/act/1952-06-10/ch390], [66 Stat. 133][/us/stat/66/133]. Section 1630 was repealed by [act Aug. 27, 1949, ch. 517][/us/act/1949-08-27/ch517], § 4(b), [63 Stat. 668][/us/stat/63/668]. Section 1806 was repealed by [act Mar. 11, 1947, ch. 117][/us/act/1947-03-11/ch117], § 8(c), [61 Stat. 13][/us/stat/61/13]. Section 2301 was repealed by [act Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 1, [64 Stat. 20][/us/stat/64/20]. Sections 2380 to 2390, and 3215 to 3217 were repealed by [act Oct. 21, 1942, ch. 619, title VI][/us/act/1942-10-21/ch619/tVI], § 619, [56 Stat. 979][/us/stat/56/979]. Section 2476 was repealed by [act Apr. 30, 1946, ch. 244, title V][/us/act/1946-04-30/ch244/tV], § 506(b), [60 Stat. 157][/us/stat/60/157]. Sections 2906 and 3302 were repealed by [act Feb. 21, 1950, ch. 36][/us/act/1950-02-21/ch36], § 7, [64 Stat. 8][/us/stat/64/8]. Section 2907 was repealed by [act July 22, 1941, ch. 314][/us/act/1941-07-22/ch314], [55 Stat. 602][/us/stat/55/602]. Sections 3151 and 3154 were repealed by [act Aug. 27, 1949, ch. 498][/us/act/1949-08-27/ch498], § 6, [63 Stat. 626][/us/stat/63/626]. Sections 3200 to 3202 were repealed by [act Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 2, [64 Stat. 20][/us/stat/64/20]. Sections 3340 to 3343 were repealed by [act Apr. 30, 1946, ch. 244, title V][/us/act/1946-04-30/ch244/tV], § 507(b), [60 Stat. 157][/us/stat/60/157]. Section 3411 was repealed by [act Oct. 20, 1951, ch. 521, title IV][/us/act/1951-10-20/ch521/tIV], § 488(a), [65 Stat. 536][/us/stat/65/536]. Section 3452 was repealed by [act Sept. 20, 1941, ch. 412, title V][/us/act/1941-09-20/ch412/tV], § 501, [55 Stat. 706][/us/stat/55/706]. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by [act Nov. 8, 1945, ch. 453, title III][/us/act/1945-11-08/ch453/tIII], § 301, [59 Stat. 575][/us/stat/59/575].
 
     Chapter 15 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2000 to 2199 of former Title 26, Internal Revenue Code. Chapter 15 was repealed by subsec. (a)(5) of this section.
 
-    Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by [act Feb. 21, 1950, ch. 36, § 7][/us/act/1950-02-21/ch36/s7], [64 Stat. 8][/us/stat/64/8]. Section 2907 was repealed by [act July 22, 1941, ch. 314, § 3][/us/act/1941-07-22/ch314/s3], [55 Stat. 602][/us/stat/55/602]. Sections 3151 and 3154 were repealed by [act Aug. 23, 1949, ch. 498, § 6][/us/act/1949-08-23/ch498/s6], [63 Stat. 626][/us/stat/63/626].
+    Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by [act Feb. 21, 1950, ch. 36][/us/act/1950-02-21/ch36], § 7, [64 Stat. 8][/us/stat/64/8]. Section 2907 was repealed by [act July 22, 1941, ch. 314][/us/act/1941-07-22/ch314], § 3, [55 Stat. 602][/us/stat/55/602]. Sections 3151 and 3154 were repealed by [act Aug. 23, 1949, ch. 498][/us/act/1949-08-23/ch498], § 6, [63 Stat. 626][/us/stat/63/626].
 
     Chapter 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (6)(B), (D), was comprised of sections 3300 to 3361 of former Title 26, Internal Revenue Code. Part II of subchapter A of chapter 27 of the Internal Revenue Code of 1939 was comprised of sections 3310 to 3314 of former Title 26.
 
@@ -171,9 +171,9 @@
 
     Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
 
-    Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by [Pub. L. 98–369, div. A, title VII, § 735(c)(13)(B)][/us/pl/98/369/s735/c/13/B], July 18, 1984, [98 Stat. 984][/us/stat/98/984].
+    Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(13)(B), July 18, 1984, [98 Stat. 984][/us/stat/98/984].
 
-    Section 4082, referred to in subsec. (a)(4), was amended generally by [Pub. L. 99–514, title XVII, § 1703(a)][/us/pl/99/514/s1703/a], Oct. 22, 1986, [100 Stat. 2775][/us/stat/100/2775], and, as so amended, did not contain a subsec. (c). Subsequently, section 4082 was amended generally by [Pub. L. 103–66, title XIII, § 13242(a)][/us/pl/103/66/s13242/a], Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517], and, as so amended, contains a subsec. (c) relating to regulations. Section 4082 was further amended by [Pub. L. 104–188, title I, § 1801(a)][/us/pl/104/188/s1801/a], Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891], which added a subsec. (c), relating to exception to dyeing requirements, and redesignated former subsec. (c), relating to regulations, as (d).
+    Section 4082, referred to in subsec. (a)(4), was amended generally by [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1703(a), Oct. 22, 1986, [100 Stat. 2775][/us/stat/100/2775], and, as so amended, did not contain a subsec. (c). Subsequently, section 4082 was amended generally by [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(a), Aug. 10, 1993, [107 Stat. 517][/us/stat/107/517], and, as so amended, contains a subsec. (c) relating to regulations. Section 4082 was further amended by [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1801(a), Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891], which added a subsec. (c), relating to exception to dyeing requirements, and redesignated former subsec. (c), relating to regulations, as (d).
 
     Section 2450(a) of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), was classified to section 2450 of former Title 26, Internal Revenue Code. Section 2450 was repealed by subsec. (a)(4) of this section.
 
@@ -202,76 +202,76 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F919
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/101/508/s11801/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F37
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/act/1944-02-25/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-25%2Fch63
+[/us/act/1944-02-25/ch63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-25%2Fch63%2FtI
 [/us/stat/58/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F31
-[/us/act/1944-02-25/ch63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-25%2Fch63
+[/us/act/1944-02-25/ch63/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-02-25%2Fch63%2FtI
 [/us/stat/58/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F31
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtI
 [/us/stat/56/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F860
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtI
 [/us/stat/56/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F878
-[/us/act/1945-11-08/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453
+[/us/act/1945-11-08/ch453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453%2FtII
 [/us/stat/59/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F574
-[/us/act/1945-11-08/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453
+[/us/act/1945-11-08/ch453/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453%2FtI
 [/us/stat/59/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F568
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtII
 [/us/stat/56/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F920
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtII
 [/us/stat/56/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F931
-[/us/pl/105/34/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F978
 [/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
 [/us/stat/53/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1
-[/us/act/1945-11-08/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453
+[/us/act/1945-11-08/ch453/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453%2FtII
 [/us/stat/59/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F574
 [/us/act/1952-06-10/ch390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-10%2Fch390
 [/us/stat/66/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F133
-[/us/act/1949-08-27/ch517/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch517%2Fs4%2Fb
+[/us/act/1949-08-27/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch517
 [/us/stat/63/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F668
-[/us/act/1947-03-11/ch117/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-03-11%2Fch117%2Fs8%2Fc
+[/us/act/1947-03-11/ch117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-03-11%2Fch117
 [/us/stat/61/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F13
-[/us/act/1950-03-16/ch61/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs1
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F20
-[/us/act/1942-10-21/ch619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619
+[/us/act/1942-10-21/ch619/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-10-21%2Fch619%2FtVI
 [/us/stat/56/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F979
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtV
 [/us/stat/60/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F157
-[/us/act/1950-02-21/ch36/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-02-21%2Fch36%2Fs7
+[/us/act/1950-02-21/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-02-21%2Fch36
 [/us/stat/64/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F8
 [/us/act/1941-07-22/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-22%2Fch314
 [/us/stat/55/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F602
-[/us/act/1949-08-27/ch498/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch498%2Fs6
+[/us/act/1949-08-27/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-27%2Fch498
 [/us/stat/63/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F626
-[/us/act/1950-03-16/ch61/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs2
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F20
-[/us/act/1946-04-30/ch244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244
+[/us/act/1946-04-30/ch244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-04-30%2Fch244%2FtV
 [/us/stat/60/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F157
-[/us/act/1951-10-20/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521
+[/us/act/1951-10-20/ch521/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-20%2Fch521%2FtIV
 [/us/stat/65/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F536
-[/us/act/1941-09-20/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-20%2Fch412
+[/us/act/1941-09-20/ch412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-09-20%2Fch412%2FtV
 [/us/stat/55/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F706
-[/us/act/1945-11-08/ch453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453
+[/us/act/1945-11-08/ch453/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-08%2Fch453%2FtIII
 [/us/stat/59/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F575
-[/us/act/1950-02-21/ch36/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-02-21%2Fch36%2Fs7
+[/us/act/1950-02-21/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-02-21%2Fch36
 [/us/stat/64/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F8
-[/us/act/1941-07-22/ch314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-22%2Fch314%2Fs3
+[/us/act/1941-07-22/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-22%2Fch314
 [/us/stat/55/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F602
-[/us/act/1949-08-23/ch498/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-23%2Fch498%2Fs6
+[/us/act/1949-08-23/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-23%2Fch498
 [/us/stat/63/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F626
-[/us/pl/98/369/s735/c/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F13%2FB
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F984
-[/us/pl/99/514/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1703%2Fa
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2775
-[/us/pl/103/66/s13242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F517
-[/us/pl/104/188/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1801%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1891
 [/us/act/1954-03-31/ch126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-03-31%2Fch126
 [/us/stat/68/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F37

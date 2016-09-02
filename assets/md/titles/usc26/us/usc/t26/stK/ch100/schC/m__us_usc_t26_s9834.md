@@ -17,7 +17,7 @@
 
     For the imposition of tax on any failure of a group health plan to meet the requirements of this chapter, see section 4980D.
 
-(Added [Pub. L. 110–233, title I, § 103(e)(1)][/us/pl/110/233/s103/e/1], May 21, 2008, [122 Stat. 899][/us/stat/122/899].)
+(Added [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 103(e)(1), May 21, 2008, [122 Stat. 899][/us/stat/122/899].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/233/s103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fe%2F1
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F899
 [/us/pl/110/233/s103/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Ff%2F2
 [/us/usc/t26/s9802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9802

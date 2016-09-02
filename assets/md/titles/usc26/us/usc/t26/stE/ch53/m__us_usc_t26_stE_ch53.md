@@ -71,7 +71,7 @@
 
  __Prior Provisions__ 
 
-A prior chapter 53, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 721][/us/stat/68A/721], was generally revised by [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1227][/us/stat/82/1227]. The analysis reflects changes:
+A prior chapter 53, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 721][/us/stat/68A/721], was generally revised by [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1227][/us/stat/82/1227]. The analysis reflects changes:
 
 >     “Machine Guns, Destructive Devices, and Certain Other Firearms”
 
@@ -90,7 +90,7 @@ A prior chapter 53, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F721
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1227
 
 

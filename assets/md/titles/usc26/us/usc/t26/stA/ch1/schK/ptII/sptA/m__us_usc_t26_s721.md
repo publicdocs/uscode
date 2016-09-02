@@ -31,7 +31,7 @@
 
         For regulatory authority to treat intangibles transferred to a partnership as sold, see section 367(d)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 94–455, title XXI, § 2131(b)][/us/pl/94/455/s2131/b], Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924]; [Pub. L. 105–34, title XI, § 1131(b)(3)][/us/pl/105/34/s1131/b/3], (5)(B), Aug. 5, 1997, [111 Stat. 979][/us/stat/111/979], 980.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 245][/us/stat/68A/245]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2131(b), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(b)(3), (5)(B), Aug. 5, 1997, [111 Stat. 979][/us/stat/111/979], 980.)
 
  __Codification__ 
 
@@ -39,15 +39,15 @@
 
  __Amendments__ 
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 1131(b)(3)][/us/pl/105/34/s1131/b/3], added subsec. (c).
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1131(b)(3), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 105–34, § 1131(b)(5)(B)][/us/pl/105/34/s1131/b/5/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–34][/us/pl/105/34], § 1131(b)(5)(B), added subsec. (d).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] designated existing provisions as subsec. (a), added subsec. (a) heading “General rule”, and added subsec. (b).
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2131(f)(3)][/us/pl/94/455/s2131/f/3]–(5), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924], 1925, provided that:
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2131(f)(3)–(5), Oct. 4, 1976, [90 Stat. 1924][/us/stat/90/1924], 1925, provided that:
 
 >     “(3) Except as provided in paragraph (4), the amendments made by subsections (b) and (c) \[amending this section and sections 722 and 723 of this title\] shall apply to transfers made after February 17, 1976, in taxable years ending after such date.
 
@@ -90,16 +90,16 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F245
-[/us/pl/94/455/s2131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2131%2Fb
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1924
-[/us/pl/105/34/s1131/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb%2F3
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F979
 [/us/pl/105/34/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb
 [/us/usc/t26/s684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs684
-[/us/pl/105/34/s1131/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb%2F3
-[/us/pl/105/34/s1131/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb%2F5%2FB
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s2131/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2131%2Ff%2F3
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1924
 
 

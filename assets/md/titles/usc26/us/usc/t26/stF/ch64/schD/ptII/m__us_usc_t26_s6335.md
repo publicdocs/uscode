@@ -93,13 +93,13 @@
 
         For restrictions on sale of seized property pending Tax Court decision, see section 6863(b)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 785][/us/stat/68A/785]; [Pub. L. 89–719, title I, § 104(d)][/us/pl/89/719/s104/d], Nov. 2, 1966, [80 Stat. 1137][/us/stat/80/1137]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV, § 1570(a)][/us/pl/99/514/s1570/a], Oct. 22, 1986, [100 Stat. 2764][/us/stat/100/2764]; [Pub. L. 100–647, title VI, § 6236(g)][/us/pl/100/647/s6236/g], Nov. 10, 1988, [102 Stat. 3740][/us/stat/102/3740]; [Pub. L. 105–206, title III, § 3441(a)][/us/pl/105/206/s3441/a], (b), July 22, 1998, [112 Stat. 761][/us/stat/112/761].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 785][/us/stat/68A/785]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 104(d), Nov. 2, 1966, [80 Stat. 1137][/us/stat/80/1137]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1570(a), Oct. 22, 1986, [100 Stat. 2764][/us/stat/100/2764]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6236(g), Nov. 10, 1988, [102 Stat. 3740][/us/stat/102/3740]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3441(a), (b), July 22, 1998, [112 Stat. 761][/us/stat/112/761].)
 
  __Amendments__ 
 
-    1998—Subsec. (e)(1)(A)(i). [Pub. L. 105–206, § 3441(a)][/us/pl/105/206/s3441/a], substituted “a minimum price below which such property shall not be sold” for “a minimum price for which such property shall be sold”.
+    1998—Subsec. (e)(1)(A)(i). [Pub. L. 105–206][/us/pl/105/206], § 3441(a), substituted “a minimum price below which such property shall not be sold” for “a minimum price for which such property shall be sold”.
 
-    Subsec. (e)(4). [Pub. L. 105–206, § 3441(b)][/us/pl/105/206/s3441/b], added par. (4).
+    Subsec. (e)(4). [Pub. L. 105–206][/us/pl/105/206], § 3441(b), added par. (4).
 
     1988—Subsecs. (f), (g). [Pub. L. 100–647][/us/pl/100/647] added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–206, title III, § 3441(c)][/us/pl/105/206/s3441/c], July 22, 1998, [112 Stat. 761][/us/stat/112/761], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3441(c), July 22, 1998, [112 Stat. 761][/us/stat/112/761], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XV, § 1570(b)][/us/pl/99/514/s1570/b], Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1570(b), Oct. 22, 1986, [100 Stat. 2765][/us/stat/100/2765], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to—
 
@@ -135,7 +135,7 @@
 
  __Uniform Asset Disposal Mechanism__ 
 
-[Pub. L. 105–206, title III, § 3443][/us/pl/105/206/s3443], July 22, 1998, [112 Stat. 762][/us/stat/112/762], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3443, July 22, 1998, [112 Stat. 762][/us/stat/112/762], provided that: 
 
 > “Not later than the date which is 2 years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary’s delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
 
@@ -148,33 +148,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F785
-[/us/pl/89/719/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs104%2Fd
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1137
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s1570/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1570%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2764
-[/us/pl/100/647/s6236/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6236%2Fg
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3740
-[/us/pl/105/206/s3441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3441%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F761
-[/us/pl/105/206/s3441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3441%2Fa
-[/us/pl/105/206/s3441/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3441%2Fb
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
-[/us/pl/105/206/s3441/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3441%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F761
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s6236/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6236%2Fh%2F2
 [/us/usc/t26/s6331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6331
-[/us/pl/99/514/s1570/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1570%2Fb
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2765
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
-[/us/pl/105/206/s3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3443
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F762
 
 

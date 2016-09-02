@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XX, § 2001(c)(2)(B)(ii)][/us/pl/94/455/s2001/c/2/B/ii], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853], struck out item 2521 “Specific exemption”.
+    1976—[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(2)(B)(ii), Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853], struck out item 2521 “Specific exemption”.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2001/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F2%2FB%2Fii
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1853
 
 

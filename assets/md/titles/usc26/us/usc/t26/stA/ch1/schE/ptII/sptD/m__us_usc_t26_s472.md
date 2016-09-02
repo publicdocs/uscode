@@ -69,29 +69,29 @@
 
             (B) any other group of corporations which consolidate or combine for purposes of financial statements.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 159][/us/stat/68A/159]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(36)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1802][/us/stat/90/1802], 1834; [Pub. L. 97–34, title II][/us/pl/97/34], §§ 235, 236(a), Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252]; [Pub. L. 98–369, div. A, title I, § 95(a)][/us/pl/98/369/s95/a], July 18, 1984, [98 Stat. 616][/us/stat/98/616].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 159][/us/stat/68A/159]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(b)(36)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1802][/us/stat/90/1802], 1834; [Pub. L. 97–34, title II][/us/pl/97/34/tII], §§ 235, 236(a), Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 95(a), July 18, 1984, [98 Stat. 616][/us/stat/98/616].)
 
  __Amendments__ 
 
     1984—Subsec. (g). [Pub. L. 98–369][/us/pl/98/369] added subsec. (g).
 
-    1981—Subsec. (d). [Pub. L. 97–34, § 236(a)][/us/pl/97/34/s236/a], substituted “3-year averaging for increases in inventory value” for “Preceding closing inventory” in heading, substituted first sentence reading “The beginning inventory for the first taxable year for which the method described in subsection (b) is used shall be valued at cost.” for “In determining income for the taxable year preceding the taxable year for which the method described in subsection (b) is first used, the closing inventory of such preceding year of the goods specified in the application referred to in subsection (a) shall be at cost.” and inserted “Any change in the inventory amount resulting from the application of the preceding sentence shall be taken into account ratably in each of the 3 taxable years beginning with the first taxable year for which the method described in subsection (b) is first used.”
+    1981—Subsec. (d). [Pub. L. 97–34][/us/pl/97/34], § 236(a), substituted “3-year averaging for increases in inventory value” for “Preceding closing inventory” in heading, substituted first sentence reading “The beginning inventory for the first taxable year for which the method described in subsection (b) is used shall be valued at cost.” for “In determining income for the taxable year preceding the taxable year for which the method described in subsection (b) is first used, the closing inventory of such preceding year of the goods specified in the application referred to in subsection (a) shall be at cost.” and inserted “Any change in the inventory amount resulting from the application of the preceding sentence shall be taken into account ratably in each of the 3 taxable years beginning with the first taxable year for which the method described in subsection (b) is first used.”
 
-    Subsec. (f). [Pub. L. 97–34, § 235][/us/pl/97/34/s235], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–34][/us/pl/97/34], § 235, added subsec. (f).
 
-    1976—Subsecs. (a), (c), (e). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (a), (c), (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 94–455, § 1901(b)(36)(A)][/us/pl/94/455/s1901/b/36/A], struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
+    Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 95(b)][/us/pl/98/369/s95/b], July 18, 1984, [98 Stat. 616][/us/stat/98/616], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 95(b), July 18, 1984, [98 Stat. 616][/us/stat/98/616], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title II, § 236(b)][/us/pl/97/34/s236/b], Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252], provided that: 
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 236(b), Aug. 13, 1981, [95 Stat. 252][/us/stat/95/252], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
 
@@ -108,20 +108,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F159
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1802
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F252
-[/us/pl/98/369/s95/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs95%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F616
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/97/34/s236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs236%2Fa
-[/us/pl/97/34/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs235
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FA
-[/us/pl/98/369/s95/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs95%2Fb
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F616
-[/us/pl/97/34/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs236%2Fb
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F252
 [/us/pl/94/455/s1901/b/36/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F36%2FA
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd

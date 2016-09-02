@@ -99,7 +99,7 @@
 
         The depreciation deduction provided by section 167 shall, despite the provisions of subsection (a), be allowed with respect to the portion of the adjusted basis which is not the amortizable basis.
 
-    \[(h) __Repealed.__  __[__  __Pub. L. 92–178, title I, § 104(f)(2)__  __][/us/pl/92/178/s104/f/2]__  __,__  __Dec. 10, 1971__  __,__  __[__  __85 Stat. 502__  __][/us/stat/85/502]__  __\]__ 
+    \[(h) __Repealed.__  __[__  __Pub. L. 92–178, title I__  __][/us/pl/92/178/tI]__  __, § 104(f)(2),__  __Dec. 10, 1971__  __,__  __[__  __85 Stat. 502__  __][/us/stat/85/502]__  __\]__ 
 
     (i) __Life tenant and remainderman__ 
 
@@ -109,11 +109,11 @@
 
         For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.
 
-(Added [Pub. L. 91–172, title VII, § 704(a)][/us/pl/91/172/s704/a], Dec. 30, 1969, [83 Stat. 667][/us/stat/83/667]; amended [Pub. L. 92–178, title I, § 104(f)(2)][/us/pl/92/178/s104/f/2], Dec. 10, 1971, [85 Stat. 502][/us/stat/85/502]; [Pub. L. 93–625, § 3(a)][/us/pl/93/625/s3/a], Jan. 3, 1975, [88 Stat. 2109][/us/stat/88/2109]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2112(b), (c), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1906; [Pub. L. 109–58, title XIII, § 1309(a)][/us/pl/109/58/s1309/a]–(d), Aug. 8, 2005, [119 Stat. 1007][/us/stat/119/1007]; [Pub. L. 109–135, title IV, § 402(e)][/us/pl/109/135/s402/e], Dec. 21, 2005, [119 Stat. 2611][/us/stat/119/2611].)
+(Added [Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 704(a), Dec. 30, 1969, [83 Stat. 667][/us/stat/83/667]; amended [Pub. L. 92–178, title I][/us/pl/92/178/tI], § 104(f)(2), Dec. 10, 1971, [85 Stat. 502][/us/stat/85/502]; [Pub. L. 93–625][/us/pl/93/625], § 3(a), Jan. 3, 1975, [88 Stat. 2109][/us/stat/88/2109]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XXI, § 2112(b), (c), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1906; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1309(a)–(d), Aug. 8, 2005, [119 Stat. 1007][/us/stat/119/1007]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 402(e), Dec. 21, 2005, [119 Stat. 2611][/us/stat/119/2611].)
 
  __References in Text__ 
 
-    The Federal Water Pollution Control Act, as amended ([33 U.S.C. 466][/us/usc/t33/s466] et seq.), referred to in subsec. (d)(1)(B), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by [section 1362(1) of Title 33][/us/usc/t33/s1362/1]. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, as amended ([33 U.S.C. 466][/us/usc/t33/s466] et seq.), referred to in subsec. (d)(1)(B), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by [section 1362(1) of Title 33][/us/usc/t33/s1362/1]. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
     The Clean Air Act, referred to in subsec. (d)(1)(B), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
@@ -125,21 +125,21 @@
 
  __Amendments__ 
 
-    2005—Subsec. (d). [Pub. L. 109–58, § 1309(c)][/us/pl/109/58/s1309/c], inserted “and special rules” after “Definitions” in heading.
+    2005—Subsec. (d). [Pub. L. 109–58][/us/pl/109/58], § 1309(c), inserted “and special rules” after “Definitions” in heading.
 
-    Subsec. (d)(3). [Pub. L. 109–58, § 1309(d)][/us/pl/109/58/s1309/d], substituted “Health and Human Services” for “Health, Education, and Welfare”.
+    Subsec. (d)(3). [Pub. L. 109–58][/us/pl/109/58], § 1309(d), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-    Subsec. (d)(4)(B). [Pub. L. 109–58, § 1309(b)][/us/pl/109/58/s1309/b], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
+    Subsec. (d)(4)(B). [Pub. L. 109–58][/us/pl/109/58], § 1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
 
-    Subsec. (d)(5). [Pub. L. 109–58, § 1309(a)][/us/pl/109/58/s1309/a], added par. (5).
+    Subsec. (d)(5). [Pub. L. 109–58][/us/pl/109/58], § 1309(a), added par. (5).
 
     Subsec. (d)(5)(B). [Pub. L. 109–135][/us/pl/109/135] inserted “in the case of facility placed in service in connection with a plant or other property placed in operation after December 31, 1975,” before “this section”.
 
-    1976—Subsecs. (b), (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (b), (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (d)(1). [Pub. L. 94–455][/us/pl/94/455], §§ 1906(b)(13)(A), 2112(b), substituted in provisions preceding subpar. (A) “January 1, 1976,” for “January 1, 1969,” and “storing, or preventing the creation or emission of” for “or storing”, struck out in subpar. (B) “or his delegate” after “Secretary”, and added subpar. (C).
 
-    Subsec. (d)(4). [Pub. L. 94–455, § 2112(c)][/us/pl/94/455/s2112/c], among other changes, struck out provisions relating to treatment facilities placed in service by taxpayer before Jan. 1, 1976, and inserted provisions that in case of treatment facilities used in connection with any plan or other property not in operation before Jan. 1, 1969, Dec. 31, 1975, shall be substituted for Dec. 31, 1968, as the cut-off date for taking into account that portion of the basis which is attributable to construction, reconstruction, or erection.
+    Subsec. (d)(4). [Pub. L. 94–455][/us/pl/94/455], § 2112(c), among other changes, struck out provisions relating to treatment facilities placed in service by taxpayer before Jan. 1, 1976, and inserted provisions that in case of treatment facilities used in connection with any plan or other property not in operation before Jan. 1, 1969, Dec. 31, 1975, shall be substituted for Dec. 31, 1968, as the cut-off date for taking into account that portion of the basis which is attributable to construction, reconstruction, or erection.
 
     1975—Subsec. (d)(4)(B). [Pub. L. 93–625][/us/pl/93/625] substituted “January 1, 1976” for “January 1, 1975”.
 
@@ -149,19 +149,19 @@
 
     Amendment by [Pub. L. 109–135][/us/pl/109/135] effective as if included in the provision of the Energy Policy Act of 2005, [Pub. L. 109–58][/us/pl/109/58], to which such amendment relates, see [section 402(m)(1) of Pub. L. 109–135][/us/pl/109/135/s402/m/1], set out as an Effective and Termination Dates of 2005 Amendments note under [section 23 of this title][/us/usc/t26/s23].
 
-[Pub. L. 109–58, title XIII, § 1309(e)][/us/pl/109/58/s1309/e], Aug. 8, 2005, [119 Stat. 1007][/us/stat/119/1007], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1309(e), Aug. 8, 2005, [119 Stat. 1007][/us/stat/119/1007], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to facilities placed in service after April 11, 2005.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2112(d)(2)][/us/pl/94/455/s2112/d/2], Oct. 4, 1976, [90 Stat. 1907][/us/stat/90/1907], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2112(d)(2), Oct. 4, 1976, [90 Stat. 1907][/us/stat/90/1907], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1975. Such amendments shall not apply in the case of any property with respect to which the amortization period under section 169 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] has begun before January 1, 1976.”
 
  __Effective Date__ 
 
-[Pub. L. 91–172, title VII, § 704(c)][/us/pl/91/172/s704/c], Dec. 30, 1969, [83 Stat. 670][/us/stat/83/670], provided that: 
+[Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 704(c), Dec. 30, 1969, [83 Stat. 670][/us/stat/83/670], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 642, 1082, 1245, and 1250 of this title\] shall apply with respect to taxable years ending after December 31, 1968.”
 
@@ -178,23 +178,23 @@
 
 [/us/usc/t33/s466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466
 [/us/usc/t42/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857
-[/us/pl/92/178/s104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs104%2Ff%2F2
+[/us/pl/92/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtI
 [/us/stat/85/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F502
-[/us/pl/91/172/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs704%2Fa
+[/us/pl/91/172/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVII
 [/us/stat/83/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F667
-[/us/pl/92/178/s104/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs104%2Ff%2F2
+[/us/pl/92/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtI
 [/us/stat/85/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F502
-[/us/pl/93/625/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs3%2Fa
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2109
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/109/58/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1007
-[/us/pl/109/135/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fe
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2611
 [/us/usc/t33/s466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1362/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1362%2F1
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
@@ -207,14 +207,14 @@
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F55
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/109/58/s1309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fc
-[/us/pl/109/58/s1309/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fd
-[/us/pl/109/58/s1309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fb
-[/us/pl/109/58/s1309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fa
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s2112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2112%2Fc
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
 [/us/usc/t26/s48/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fa%2F8
@@ -222,13 +222,13 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135/s402/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fm%2F1
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/109/58/s1309/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1309%2Fe
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1007
-[/us/pl/94/455/s2112/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2112%2Fd%2F2
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1907
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/91/172/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs704%2Fc
+[/us/pl/91/172/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtVII
 [/us/stat/83/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F670
 [/us/stat/84/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2086
 

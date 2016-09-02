@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title I, § 74(c)][/us/pl/98/369/s74/c], July 18, 1984, [98 Stat. 593][/us/stat/98/593], added item 724.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 74(c), July 18, 1984, [98 Stat. 593][/us/stat/98/593], added item 724.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s74/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs74%2Fc
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F593
 
 

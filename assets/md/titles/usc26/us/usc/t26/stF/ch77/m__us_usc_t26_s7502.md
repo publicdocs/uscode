@@ -105,7 +105,7 @@
 
             The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 895][/us/stat/68A/895]; [Pub. L. 85–866, title I, § 89(a)][/us/pl/85/866/s89/a], Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 89–713, § 5(a)][/us/pl/89/713/s5/a], Nov. 2, 1966, [80 Stat. 1110][/us/stat/80/1110]; [Pub. L. 90–364, title I, § 106(a)][/us/pl/90/364/s106/a], June 28, 1968, [82 Stat. 266][/us/stat/82/266]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1906(a)(49), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 95–147, § 3(b)][/us/pl/95/147/s3/b], Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228]; [Pub. L. 98–369, div. A, title I, § 157(a)][/us/pl/98/369/s157/a], July 18, 1984, [98 Stat. 695][/us/stat/98/695]; [Pub. L. 99–514, title XVIII, § 1811(e)][/us/pl/99/514/s1811/e], Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833]; [Pub. L. 104–168, title XII, § 1210][/us/pl/104/168/s1210], July 30, 1996, [110 Stat. 1474][/us/stat/110/1474]; [Pub. L. 105–206, title II, § 2003(b)][/us/pl/105/206/s2003/b], July 22, 1998, [112 Stat. 725][/us/stat/112/725].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 895][/us/stat/68A/895]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(a), Sept. 2, 1958, [72 Stat. 1665][/us/stat/72/1665]; [Pub. L. 89–713][/us/pl/89/713], § 5(a), Nov. 2, 1966, [80 Stat. 1110][/us/stat/80/1110]; [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 106(a), June 28, 1968, [82 Stat. 266][/us/stat/82/266]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1906(a)(49), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 95–147][/us/pl/95/147], § 3(b), Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 157(a), July 18, 1984, [98 Stat. 695][/us/stat/98/695]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1811(e), Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833]; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1210, July 30, 1996, [110 Stat. 1474][/us/stat/110/1474]; [Pub. L. 105–206, title II][/us/pl/105/206/tII], § 2003(b), July 22, 1998, [112 Stat. 725][/us/stat/112/725].)
 
  __Amendments__ 
 
@@ -127,9 +127,9 @@
 
     1977—Subsec. (e). [Pub. L. 95–147][/us/pl/95/147] substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 1906(a)(49)][/us/pl/94/455/s1906/a/49], (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
 
-    Subsecs. (c)(2), (e)(1). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (c)(2), (e)(1). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     1968—Subsec. (e). [Pub. L. 90–364][/us/pl/90/364] added subsec. (e).
 
@@ -145,11 +145,11 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 157(b)][/us/pl/98/369/s157/b], July 18, 1984, [98 Stat. 695][/us/stat/98/695], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 157(b), July 18, 1984, [98 Stat. 695][/us/stat/98/695], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to deposits required to be made after July 31, 1984.”
 
@@ -163,19 +163,19 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–364, title I, § 106(b)][/us/pl/90/364/s106/b], June 28, 1968, [82 Stat. 266][/us/stat/82/266], provided that: 
+[Pub. L. 90–364, title I][/us/pl/90/364/tI], § 106(b), June 28, 1968, [82 Stat. 266][/us/stat/82/266], provided that: 
 
 > “The amendment made by subsec. (a) \[amending this section\] shall apply only as to mailing occurring after the date of the enactment of this Act \[June 28, 1968\].”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–713, § 5(c)][/us/pl/89/713/s5/c], Nov. 2, 1966, [80 Stat. 1111][/us/stat/80/1111], provided that: 
+[Pub. L. 89–713][/us/pl/89/713], § 5(c), Nov. 2, 1966, [80 Stat. 1111][/us/stat/80/1111], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Nov. 2, 1966\].”
 
  __Effective Date of 1958 Amendment__ 
 
-[Pub. L. 85–866, title I, § 89(d)][/us/pl/85/866/s89/d], Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(d), Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666], provided that: 
 
 > “This section \[amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
@@ -185,7 +185,7 @@
 
  __Provisions of Internal Revenue Code of 1939__ 
 
-[Pub. L. 85–866, title I, § 89(c)][/us/pl/85/866/s89/c], Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 89(c), Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666], provided that: 
 
 > “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
 
@@ -198,31 +198,31 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F895
-[/us/pl/85/866/s89/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1665
-[/us/pl/89/713/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713%2Fs5%2Fa
+[/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/stat/80/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1110
-[/us/pl/90/364/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs106%2Fa
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F266
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1831
-[/us/pl/95/147/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147%2Fs3%2Fb
+[/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 [/us/stat/91/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1228
-[/us/pl/98/369/s157/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs157%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F695
-[/us/pl/99/514/s1811/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1811%2Fe
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2833
-[/us/pl/104/168/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1210
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1474
-[/us/pl/105/206/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs2003%2Fb
+[/us/pl/105/206/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtII
 [/us/stat/112/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F725
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
-[/us/pl/94/455/s1906/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F49
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/90/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
@@ -230,10 +230,10 @@
 [/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/98/369/s157/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs157%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F695
 [/us/pl/95/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147
 [/us/pl/95/147/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F147%2Fs3%2Fc
@@ -241,16 +241,16 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1906/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fd%2F1
 [/us/usc/t26/s6013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6013
-[/us/pl/90/364/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs106%2Fb
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F266
-[/us/pl/89/713/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713%2Fs5%2Fc
+[/us/pl/89/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F713
 [/us/stat/80/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1111
-[/us/pl/85/866/s89/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fd
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1666
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/85/866/s89/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs89%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1666
 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIX/m__us_usc_t26_s269B.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIX/m__us_usc_t26_s271.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs270)
 
-## \[§ 270. Repealed. [Pub. L. 91–172, title II, § 213(b)][/us/pl/91/172/s213/b], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]\]
+## \[§ 270. Repealed. [Pub. L. 91–172, title II][/us/pl/91/172/tII], § 213(b), Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 81][/us/stat/68A/81], related to the limitation on deductions allowable to certain individuals. See [section 183 of this title][/us/usc/t26/s183].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs213%2Fb
+[/us/pl/91/172/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtII
 [/us/stat/83/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F572
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F81

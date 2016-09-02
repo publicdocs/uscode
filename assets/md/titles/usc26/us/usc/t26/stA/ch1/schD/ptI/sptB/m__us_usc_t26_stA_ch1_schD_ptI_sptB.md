@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–397, title II, § 203(c)][/us/pl/98/397/s203/c], Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445], added item 417.
+    1984—[Pub. L. 98–397, title II][/us/pl/98/397/tII], § 203(c), Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445], added item 417.
 
-    1982—[Pub. L. 97–248, title II, § 240(d)][/us/pl/97/248/s240/d], Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], added item 416.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 240(d), Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], added item 416.
 
-    1974—[Pub. L. 93–406, title II, § 1011][/us/pl/93/406/s1011], Sept. 2, 1974, [88 Stat. 898][/us/stat/88/898], added subpart heading and analysis of sections.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1011, Sept. 2, 1974, [88 Stat. 898][/us/stat/88/898], added subpart heading and analysis of sections.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/98/397/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs203%2Fc
+[/us/pl/98/397/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtII
 [/us/stat/98/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1445
-[/us/pl/97/248/s240/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs240%2Fd
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F520
-[/us/pl/93/406/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1011
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F898
 
 

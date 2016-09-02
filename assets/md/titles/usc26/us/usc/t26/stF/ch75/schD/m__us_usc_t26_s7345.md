@@ -103,7 +103,7 @@
 
         A certification under subsection (a) or reversal of certification under subsection (c) may only be delegated by the Commissioner of Internal Revenue to the Deputy Commissioner for Services and Enforcement, or the Commissioner of an operating division, of the Internal Revenue Service.
 
-(Added [Pub. L. 114–94, div. C, title XXXII, § 32101(a)][/us/pl/114/94/s32101/a], Dec. 4, 2015, [129 Stat. 1729][/us/stat/129/1729].)
+(Added [Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32101(a), Dec. 4, 2015, [129 Stat. 1729][/us/stat/129/1729].)
 
  __References in Text__ 
 
@@ -116,7 +116,7 @@
 ----------
 ----------
 
-[/us/pl/114/94/s32101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fa
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1729
 [/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
 [/us/usc/t22/s2714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2714a

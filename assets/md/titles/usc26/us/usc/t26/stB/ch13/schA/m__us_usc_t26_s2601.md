@@ -17,7 +17,7 @@
 
     A tax is hereby imposed on every generation-skipping transfer (within the meaning of subchapter B).
 
-(Added [Pub. L. 94–455, title XX, § 2006(a)][/us/pl/94/455/s2006/a], Oct. 4, 1976, [90 Stat. 1879][/us/stat/90/1879]; amended [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(a), Oct. 4, 1976, [90 Stat. 1879][/us/stat/90/1879]; amended [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XIV, § 1433][/us/pl/99/514/s1433], Oct. 22, 1986, [100 Stat. 2731][/us/stat/100/2731], as amended by [Pub. L. 100–647, title I, § 1014(h)(1)][/us/pl/100/647/s1014/h/1]–(3)(A), (4), Nov. 10, 1988, [102 Stat. 3567][/us/stat/102/3567], 3568, provided that:
+[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1433, Oct. 22, 1986, [100 Stat. 2731][/us/stat/100/2731], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(h)(1)–(3)(A), (4), Nov. 10, 1988, [102 Stat. 3567][/us/stat/102/3567], 3568, provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -113,19 +113,19 @@
 
 >         Unless the grandchild otherwise directs by will, the estate of such grandchild shall be entitled to recover from the person receiving the property on the death of the grandchild any increase in Federal estate tax on the estate of the grandchild by reason of the preceding sentence.”
 
-\[[Pub. L. 101–508, title XI, § 11703(c)(3)][/us/pl/101/508/s11703/c/3], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
+\[[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11703(c)(3), Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
 
 > “Subparagraph (C) of section 1433(b)(2) of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514], set out above\] shall not exempt any generation-skipping transfer from the amendments made by subtitle D of title XVI of such Act \[probably means subtitle D (§§ 1431–1433) of title XIV of [Pub. L. 99–514][/us/pl/99/514], amending chapter 13 of this title, enacting [section 2515 of this title][/us/usc/t26/s2515], and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] to the extent such transfer is attributable to property transferred by gift or by reason of the death of another person to the decedent (or trust) referred to in such subparagraph after August 3, 1990.”
 
 \]
 
-\[[Pub. L. 100–647, title I, § 1014(h)(3)(B)][/us/pl/100/647/s1014/h/3/B], Nov. 10, 1988, [102 Stat. 3568][/us/stat/102/3568], provided that: 
+\[[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(h)(3)(B), Nov. 10, 1988, [102 Stat. 3568][/us/stat/102/3568], provided that: 
 
 > “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.”
 
 \]
 
-\[[Pub. L. 100–647, title I, § 1014(h)(5)][/us/pl/100/647/s1014/h/5], Nov. 10, 1988, [102 Stat. 3568][/us/stat/102/3568], provided that: 
+\[[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(h)(5), Nov. 10, 1988, [102 Stat. 3568][/us/stat/102/3568], provided that: 
 
 > “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], amending chapter 13 of this title, enacting [section 2515 of this title][/us/usc/t26/s2515], and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
 
@@ -135,7 +135,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XX, § 2006(c)][/us/pl/94/455/s2006/c], Oct. 4, 1976, [90 Stat. 1889][/us/stat/90/1889], as amended by [Pub. L. 95–600, title VII, § 702(n)(1)][/us/pl/95/600/s702/n/1], Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935]; [Pub. L. 97–34, title IV, § 428][/us/pl/97/34/s428], Aug. 13, 1981, [95 Stat. 319][/us/stat/95/319]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(c), Oct. 4, 1976, [90 Stat. 1889][/us/stat/90/1889], as amended by [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 702(n)(1), Nov. 6, 1978, [92 Stat. 2935][/us/stat/92/2935]; [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 428, Aug. 13, 1981, [95 Stat. 319][/us/stat/95/319]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -164,37 +164,37 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fa
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1879
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2718
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2731
-[/us/pl/100/647/s1014/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fh%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3567
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2515
-[/us/pl/101/508/s11703/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fc%2F3
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-517
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2515
-[/us/pl/100/647/s1014/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fh%2F3%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3568
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/100/647/s1014/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fh%2F5
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3568
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2515
-[/us/pl/94/455/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fc
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1889
-[/us/pl/95/600/s702/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fn%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2935
-[/us/pl/97/34/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs428
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F319
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/455/s2006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fc
 [/us/pl/95/600/s702/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs702%2Fn%2F1

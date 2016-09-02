@@ -225,7 +225,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer’s U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 99–514, title XII, § 1241(a)][/us/pl/99/514/s1241/a], Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576]; amended [Pub. L. 100–647, title I, § 1012(q)(1)(A)][/us/pl/100/647/s1012/q/1/A], (2)–(6), (14), title VI, § 6133(b), Nov. 10, 1988, [102 Stat. 3522–3525][/us/stat/102/3522-3525], 3721; [Pub. L. 104–188, title I, § 1704(f)(3)(A)][/us/pl/104/188/s1704/f/3/A], Aug. 20, 1996, [110 Stat. 1879][/us/stat/110/1879]; [Pub. L. 110–172, § 11(g)(8)][/us/pl/110/172/s11/g/8], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1241(a), Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(q)(1)(A), (2)–(6), (14), title VI, § 6133(b), Nov. 10, 1988, [102 Stat. 3522–3525][/us/stat/102/3522-3525], 3721; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(f)(3)(A), Aug. 20, 1996, [110 Stat. 1879][/us/stat/110/1879]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(8), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
 
  __References in Text__ 
 
@@ -239,23 +239,23 @@
 
     2007—Subsec. (d)(2)(B). [Pub. L. 110–172][/us/pl/110/172] inserted “(as in effect before their repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” before comma at end.
 
-    1996—Subsec. (f)(1). [Pub. L. 104–188, § 1704(f)(3)(A)(ii)][/us/pl/104/188/s1704/f/3/A/ii], substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
+    1996—Subsec. (f)(1). [Pub. L. 104–188][/us/pl/104/188], § 1704(f)(3)(A)(ii), substituted “reasonably expected to be allocable interest” for “reasonably expected to be deductible under section 882 in computing the effectively connected taxable income of such foreign corporation” in closing provisions.
 
-    Subsec. (f)(1)(B). [Pub. L. 104–188, § 1704(f)(3)(A)(i)][/us/pl/104/188/s1704/f/3/A/i], substituted “to the extent that the allocable interest exceeds the interest described in subparagraph (A)” for “to the extent the amount of interest allowable as a deduction under section 882 in computing the effectively connected taxable income of such foreign corporation exceeds the interest described in subparagraph (A)”.
+    Subsec. (f)(1)(B). [Pub. L. 104–188][/us/pl/104/188], § 1704(f)(3)(A)(i), substituted “to the extent that the allocable interest exceeds the interest described in subparagraph (A)” for “to the extent the amount of interest allowable as a deduction under section 882 in computing the effectively connected taxable income of such foreign corporation exceeds the interest described in subparagraph (A)”.
 
-    Subsec. (f)(2). [Pub. L. 104–188, § 1704(f)(3)(A)(iii)][/us/pl/104/188/s1704/f/3/A/iii], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Effectively connected taxable income.—For purposes of this subsection, the term ‘effectively connected taxable income’ means taxable income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business within the United States.”
+    Subsec. (f)(2). [Pub. L. 104–188][/us/pl/104/188], § 1704(f)(3)(A)(iii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Effectively connected taxable income.—For purposes of this subsection, the term ‘effectively connected taxable income’ means taxable income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business within the United States.”
 
-    1988—Subsec. (b)(2)(B). [Pub. L. 100–647, § 1012(q)(1)(A)][/us/pl/100/647/s1012/q/1/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The increase under subparagraph (A) for any taxable year shall not exceed the aggregate reductions under paragraph (1) for prior taxable years to the extent not previously taken into account under subparagraph (A).”
+    1988—Subsec. (b)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The increase under subparagraph (A) for any taxable year shall not exceed the aggregate reductions under paragraph (1) for prior taxable years to the extent not previously taken into account under subparagraph (A).”
 
-    Subsec. (d)(2)(E). [Pub. L. 100–647, § 6133(b)][/us/pl/100/647/s6133/b], added subpar. (E).
+    Subsec. (d)(2)(E). [Pub. L. 100–647][/us/pl/100/647], § 6133(b), added subpar. (E).
 
-    Subsec. (e)(1). [Pub. L. 100–647, § 1012(q)(2)(A)][/us/pl/100/647/s1012/q/2/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No income tax treaty between the United States and a foreign country shall exempt any foreign corporation from the tax imposed by subsection (a) (or reduce the amount thereof) unless—
+    Subsec. (e)(1). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No income tax treaty between the United States and a foreign country shall exempt any foreign corporation from the tax imposed by subsection (a) (or reduce the amount thereof) unless—
 
     “(A) such foreign corporation is a qualified resident of such foreign country, or
 
     “(B) such foreign corporation is not a qualified resident of such foreign country but such income tax treaty permits a withholding tax on dividends described in section 861(a)(2)(B) which are paid by such foreign corporation.”
 
-    Subsec. (e)(3). [Pub. L. 100–647, § 1012(q)(2)(B)][/us/pl/100/647/s1012/q/2/B], substituted “withholding tax” for “2nd tier withholding tax” in heading and amended text generally. Prior to amendment, text read as follows:
+    Subsec. (e)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(2)(B), substituted “withholding tax” for “2nd tier withholding tax” in heading and amended text generally. Prior to amendment, text read as follows:
 
     “(A) In general.—If a foreign corporation is not exempt for any taxable year from the tax imposed by subsection (a) by reason of a treaty, no tax shall be imposed by section 871(a), 881(a), 1441, or 1442 on any dividends paid by such corporation during the taxable year.
 
@@ -265,17 +265,17 @@
 
     “(ii) which are received by such foreign corporation and are described in section 861(a)(2)(B).”
 
-    Subsec. (e)(4)(A)(i), (ii). [Pub. L. 100–647, § 1012(q)(5)][/us/pl/100/647/s1012/q/5], substituted “50 percent or more” for “more than 50 percent” in cl. (i) and “citizens or residents of the United States” for “the United States” in cl. (ii).
+    Subsec. (e)(4)(A)(i), (ii). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(5), substituted “50 percent or more” for “more than 50 percent” in cl. (i) and “citizens or residents of the United States” for “the United States” in cl. (ii).
 
-    Subsec. (e)(4)(C), (D). [Pub. L. 100–647, § 1012(q)(4)][/us/pl/100/647/s1012/q/4], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (e)(4)(C), (D). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(4), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (e)(5). [Pub. L. 100–647, § 1012(q)(6)][/us/pl/100/647/s1012/q/6], added par. (5).
+    Subsec. (e)(5). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(6), added par. (5).
 
-    Subsec. (f)(1). [Pub. L. 100–647, § 1012(f)(3)(A)][/us/pl/100/647/s1012/f/3/A], (14), substituted “this subtitle” for “sections 871, 881, 1441, and 1442” and inserted “(or having gross income treated as effectively connected with the conduct of a trade or business in the United States)” after “United States”.
+    Subsec. (f)(1). [Pub. L. 100–647][/us/pl/100/647], § 1012(f)(3)(A), (14), substituted “this subtitle” for “sections 871, 881, 1441, and 1442” and inserted “(or having gross income treated as effectively connected with the conduct of a trade or business in the United States)” after “United States”.
 
-    [Pub. L. 100–647, § 1012(q)(2)(C)(i)][/us/pl/100/647/s1012/q/2/C/i], (3)(B), inserted sentence at end and struck out former last sentence which read as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
+    [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence which read as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
 
-    Subsec. (f)(3). [Pub. L. 100–647, § 1012(q)(2)(C)(ii)][/us/pl/100/647/s1012/q/2/C/ii], added par. (3).
+    Subsec. (f)(3). [Pub. L. 100–647][/us/pl/100/647], § 1012(q)(2)(C)(ii), added par. (3).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -297,7 +297,7 @@
 
  __Determination of Earnings and Profits of Foreign Corporations__ 
 
-[Section 1012(q)(1)(B) of Pub. L. 100–647][/us/pl/100/647/s1012/q/1/B], as amended by [Pub. L. 101–239, title VII, § 7811(i)(5)][/us/pl/101/239/s7811/i/5], Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410], provided that: 
+[Section 1012(q)(1)(B) of Pub. L. 100–647][/us/pl/100/647/s1012/q/1/B], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7811(i)(5), Dec. 19, 1989, [103 Stat. 2410][/us/stat/103/2410], provided that: 
 
 > “For purposes of applying section 884 of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under sections 1023(e)(3)(C) \[[section 1023(e)(3)(C) of Pub. L. 99–514][/us/pl/99/514/s1023/e/3/C], set out as an Effective Date note under [section 846 of this title][/us/usc/t26/s846]\] and 1021(c)(2)(C) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date of 1986 Amendment note under [section 832 of this title][/us/usc/t26/s832]\] or arising from section 832(b)(4)(C) of the 1986 Code.”
 
@@ -312,32 +312,32 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2576
-[/us/pl/100/647/s1012/q/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F1%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3522-3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3522-3525
-[/us/pl/104/188/s1704/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F3%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1879
-[/us/pl/110/172/s11/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F8
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs885
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/104/188/s1704/f/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F3%2FA%2Fii
-[/us/pl/104/188/s1704/f/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F3%2FA%2Fi
-[/us/pl/104/188/s1704/f/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F3%2FA%2Fiii
-[/us/pl/100/647/s1012/q/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F1%2FA
-[/us/pl/100/647/s6133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6133%2Fb
-[/us/pl/100/647/s1012/q/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F2%2FA
-[/us/pl/100/647/s1012/q/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F2%2FB
-[/us/pl/100/647/s1012/q/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F5
-[/us/pl/100/647/s1012/q/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F4
-[/us/pl/100/647/s1012/q/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F6
-[/us/pl/100/647/s1012/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Ff%2F3%2FA
-[/us/pl/100/647/s1012/q/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F2%2FC%2Fi
-[/us/pl/100/647/s1012/q/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F2%2FC%2Fii
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/104/188/s1704/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ff%2F3%2FB
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -351,7 +351,7 @@
 [/us/usc/t26/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs884
 [/us/usc/t26/s885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs885
 [/us/pl/100/647/s1012/q/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F1%2FB
-[/us/pl/101/239/s7811/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7811%2Fi%2F5
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2410
 [/us/pl/99/514/s1023/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1023%2Fe%2F3%2FC
 [/us/usc/t26/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs846

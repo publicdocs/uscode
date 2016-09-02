@@ -91,7 +91,7 @@
 
  __Prior Provisions__ 
 
-    A prior part III consisted of sections 5381 to 5388 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior part III consisted of sections 5381 to 5388 of this title, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
 
 

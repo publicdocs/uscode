@@ -115,21 +115,21 @@
 
         This section shall not apply to any property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1342(a)][/us/pl/109/58/s1342/a], Aug. 8, 2005, [119 Stat. 1049][/us/stat/119/1049]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(k), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–172, § 6(b)][/us/pl/110/172/s6/b], Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–343, div. B, title II, § 207(a)][/us/pl/110/343/s207/a], (b), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], 331, 332; [Pub. L. 111–312, title VII, § 711(a)][/us/pl/111/312/s711/a], Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315]; [Pub. L. 112–240, title IV, § 402(a)][/us/pl/112/240/s402/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 161(a)][/us/pl/113/295/s161/a], title II, §§ 218(b), 221(a)(34)(B), Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], 4035, 4042; [Pub. L. 114–113, div. Q, title I, § 182(a)][/us/pl/114/113/s182/a], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1342(a), Aug. 8, 2005, [119 Stat. 1049][/us/stat/119/1049]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], §§ 402(k), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–172][/us/pl/110/172], § 6(b), Dec. 29, 2007, [121 Stat. 2479][/us/stat/121/2479]; [Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 207(a), (b), Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], §§ 1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], 331, 332; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 711(a), Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315]; [Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 402(a), Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 161(a), title II, §§ 218(b), 221(a)(34)(B), Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], 4035, 4042; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 182(a), Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].)
 
  __References in Text__ 
 
-    Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(7), means [section 179A of this title][/us/usc/t26/s179A] as in effect before it was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(34)(A)][/us/pl/113/295/s221/a/34/A], Dec, 19, 2014, [128 Stat. 4042][/us/stat/128/4042], effective Dec. 19, 2014.
+    Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(7), means [section 179A of this title][/us/usc/t26/s179A] as in effect before it was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(34)(A), Dec, 19, 2014, [128 Stat. 4042][/us/stat/128/4042], effective Dec. 19, 2014.
 
  __Amendments__ 
 
     2015—Subsec. (g). [Pub. L. 114–113][/us/pl/114/113] substituted “December 31, 2016” for “December 31, 2014”.
 
-    2014—Subsec. (e)(1). [Pub. L. 113–295, § 218(b)][/us/pl/113/295/s218/b], amended par. (1) generally. Prior to amendment, text read as follows: “The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).”
+    2014—Subsec. (e)(1). [Pub. L. 113–295][/us/pl/113/295], § 218(b), amended par. (1) generally. Prior to amendment, text read as follows: “The basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).”
 
-    Subsec. (e)(7). [Pub. L. 113–295, § 221(a)(34)(B)][/us/pl/113/295/s221/a/34/B], added par. (7).
+    Subsec. (e)(7). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(34)(B), added par. (7).
 
-    Subsec. (g). [Pub. L. 113–295, § 161(a)][/us/pl/113/295/s161/a], substituted “placed in service after December 31, 2014.” for “placed in service—
+    Subsec. (g). [Pub. L. 113–295][/us/pl/113/295], § 161(a), substituted “placed in service after December 31, 2014.” for “placed in service—
 
     “(1) in the case of property relating to hydrogen, after December 31, 2014, and
 
@@ -139,19 +139,19 @@
 
     2010—Subsec. (g)(2). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011.” for “December 31, 2010”.
 
-    2009—Subsec. (d)(2)(A). [Pub. L. 111–5, § 1144(b)(2)][/us/pl/111/5/s1144/b/2], substituted “section 27” for “sections 27 and 30B”.
+    2009—Subsec. (d)(2)(A). [Pub. L. 111–5][/us/pl/111/5], § 1144(b)(2), substituted “section 27” for “sections 27 and 30B”.
 
-    [Pub. L. 111–5, § 1142(b)(3)][/us/pl/111/5/s1142/b/3], struck out “, 30,” before “and 30B”.
+    [Pub. L. 111–5][/us/pl/111/5], § 1142(b)(3), struck out “, 30,” before “and 30B”.
 
-    Subsec. (e)(6). [Pub. L. 111–5, § 1123(a)][/us/pl/111/5/s1123/a], added par. (6).
+    Subsec. (e)(6). [Pub. L. 111–5][/us/pl/111/5], § 1123(a), added par. (6).
 
-    2008—Subsec. (c)(2)(C). [Pub. L. 110–343, § 207(b)][/us/pl/110/343/s207/b], added subpar. (C).
+    2008—Subsec. (c)(2)(C). [Pub. L. 110–343][/us/pl/110/343], § 207(b), added subpar. (C).
 
-    Subsec. (g)(2). [Pub. L. 110–343, § 207(a)][/us/pl/110/343/s207/a], substituted “December 31, 2010” for “December 31, 2009”.
+    Subsec. (g)(2). [Pub. L. 110–343][/us/pl/110/343], § 207(a), substituted “December 31, 2010” for “December 31, 2009”.
 
-    2007—Subsec. (b). [Pub. L. 110–172, § 6(b)(1)][/us/pl/110/172/s6/b/1], reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
+    2007—Subsec. (b). [Pub. L. 110–172][/us/pl/110/172], § 6(b)(1), reenacted heading without change and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The credit allowed under subsection (a) with respect to any alternative fuel vehicle refueling property shall not exceed—”.
 
-    Subsec. (c). [Pub. L. 110–172, § 6(b)(2)][/us/pl/110/172/s6/b/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 110–172][/us/pl/110/172], § 6(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
     “(1) In general.—Except as provided in paragraph (2), the term ‘qualified alternative fuel vehicle refueling property’ has the meaning given to such term by section 179A(d), but only with respect to any fuel—
 
@@ -161,41 +161,41 @@
 
     “(2) Residential property.—In the case of any property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, paragraph (1) of section 179A(d) shall not apply.”
 
-    2005—Subsec. (d)(2)(A). [Pub. L. 109–135, § 412(d)][/us/pl/109/135/s412/d], substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
+    2005—Subsec. (d)(2)(A). [Pub. L. 109–135][/us/pl/109/135], § 412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
-    Subsec. (e)(2). [Pub. L. 109–135, § 402(k)][/us/pl/109/135/s402/k], inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+    Subsec. (e)(2). [Pub. L. 109–135][/us/pl/109/135], § 402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 182(b)][/us/pl/114/113/s182/b], Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 182(b), Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 161(b)][/us/pl/113/295/s161/b], Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 161(b), Dec. 19, 2014, [128 Stat. 4023][/us/stat/128/4023], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
 
-    Amendment by [section 218(b) of Pub. L. 113–295][/us/pl/113/295/s218/b] effective as if included in the provision of the Energy Tax Incentives Act of 2005, [Pub. L. 109–58, title XIII][/us/pl/109/58], to which such amendment relates, see [section 218(c) of Pub. L. 113–295][/us/pl/113/295/s218/c], set out as a note under [section 30B of this title][/us/usc/t26/s30B].
+    Amendment by [section 218(b) of Pub. L. 113–295][/us/pl/113/295/s218/b] effective as if included in the provision of the Energy Tax Incentives Act of 2005, [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], to which such amendment relates, see [section 218(c) of Pub. L. 113–295][/us/pl/113/295/s218/c], set out as a note under [section 30B of this title][/us/usc/t26/s30B].
 
     Amendment by [section 221(a)(34)(B) of Pub. L. 113–295][/us/pl/113/295/s221/a/34/B] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title IV, § 402(b)][/us/pl/112/240/s402/b], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337], provided that: 
+[Pub. L. 112–240, title IV][/us/pl/112/240/tIV], § 402(b), Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 711(b)][/us/pl/111/312/s711/b], Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 711(b), Dec. 17, 2010, [124 Stat. 3315][/us/stat/124/3315], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2010.”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1123(b)][/us/pl/111/5/s1123/b], Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1123(b), Feb. 17, 2009, [123 Stat. 325][/us/stat/123/325], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
@@ -205,13 +205,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title II, § 207(c)][/us/pl/110/343/s207/c], Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], provided that: 
+[Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 207(c), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–172, § 6(e)][/us/pl/110/172/s6/e], Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481], provided that:
+[Pub. L. 110–172][/us/pl/110/172], § 6(e), Dec. 29, 2007, [121 Stat. 2481][/us/stat/121/2481], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -231,7 +231,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–58, title XIII, § 1342(c)][/us/pl/109/58/s1342/c], Aug. 8, 2005, [119 Stat. 1051][/us/stat/119/1051], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1342(c), Aug. 8, 2005, [119 Stat. 1051][/us/stat/119/1051], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
 
@@ -242,58 +242,58 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1342%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1049
-[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2615
-[/us/pl/110/172/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fb
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2479
-[/us/pl/110/343/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fa
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3839
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F325
-[/us/pl/111/312/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs711%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3315
-[/us/pl/112/240/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs402%2Fa
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
-[/us/pl/113/295/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
-[/us/pl/114/113/s182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs182%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/usc/t26/s179A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs179A
-[/us/pl/113/295/s221/a/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/113/295/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fb
-[/us/pl/113/295/s221/a/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FB
-[/us/pl/113/295/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/5/s1144/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1144%2Fb%2F2
-[/us/pl/111/5/s1142/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F3
-[/us/pl/111/5/s1123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1123%2Fa
-[/us/pl/110/343/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fb
-[/us/pl/110/343/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fa
-[/us/pl/110/172/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fb%2F1
-[/us/pl/110/172/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fb%2F2
-[/us/pl/109/135/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fd
-[/us/pl/109/135/s402/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fk
-[/us/pl/114/113/s182/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs182%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
-[/us/pl/113/295/s161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs161%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4023
 [/us/pl/113/295/s218/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fb
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/pl/113/295/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fc
 [/us/usc/t26/s30B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30B
 [/us/pl/113/295/s221/a/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FB
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/112/240/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs402%2Fb
+[/us/pl/112/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIV
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
-[/us/pl/111/312/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs711%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3315
-[/us/pl/111/5/s1123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1123%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F325
 [/us/pl/111/5/s1142/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F3
 [/us/pl/111/5/s1142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fc
@@ -301,9 +301,9 @@
 [/us/pl/111/5/s1144/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1144%2Fb%2F2
 [/us/pl/111/5/s1144/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1144%2Fc
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
-[/us/pl/110/343/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fc
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3840
-[/us/pl/110/172/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fe
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2481
 [/us/usc/t26/s6430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6430
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -314,7 +314,7 @@
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135/s402/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fm%2F1
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/109/58/s1342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1342%2Fc
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1051
 
 

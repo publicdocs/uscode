@@ -39,7 +39,7 @@
 
             If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a)(1) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
 
-(Added [Pub. L. 95–600, title III, § 336(a)][/us/pl/95/600/s336/a], Nov. 6, 1978, [92 Stat. 2841][/us/stat/92/2841]; amended [Pub. L. 100–647, title I, § 1013(a)(42)][/us/pl/100/647/s1013/a/42], Nov. 10, 1988, [102 Stat. 3544][/us/stat/102/3544].)
+(Added [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 336(a), Nov. 6, 1978, [92 Stat. 2841][/us/stat/92/2841]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1013(a)(42), Nov. 10, 1988, [102 Stat. 3544][/us/stat/102/3544].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–600, title III, § 336(d)][/us/pl/95/600/s336/d], Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842], provided that: 
+[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 336(d), Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 7456, 7476, 7477, and 7482 of this title\] shall apply to requests for determinations made after December 31, 1978.”
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/95/600/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs336%2Fa
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2841
-[/us/pl/100/647/s1013/a/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1013%2Fa%2F42
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3544
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/95/600/s336/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs336%2Fd
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2842
 
 

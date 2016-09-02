@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stF/ch61/schA/ptIII/sptB/m__us_usc_t26_s6049.md) | [Next](./../../../../../../../..//us/usc/t26/stF/ch61/schA/ptIII/sptB/m__us_usc_t26_s6050A.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050)
 
-## \[§ 6050. Repealed. [Pub. L. 96–167, § 5(a)][/us/pl/96/167/s5/a], Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276]\]
+## \[§ 6050. Repealed. [Pub. L. 96–167][/us/pl/96/167], § 5(a), Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276]\]
 
-    Section, added [Pub. L. 91–172, title I, § 121(e)(1)][/us/pl/91/172/s121/e/1], Dec. 30, 1969, [83 Stat. 548][/us/stat/83/548]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], provided for a return by transferor of income producing property if the transferee was known to be an organization referred to in section 511(a) or (b) and property had a fair market value in excess of $50,000.
+    Section, added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 121(e)(1), Dec. 30, 1969, [83 Stat. 548][/us/stat/83/548]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], provided for a return by transferor of income producing property if the transferee was known to be an organization referred to in section 511(a) or (b) and property had a fair market value in excess of $50,000.
 
  __Effective Date of Repeal__ 
 
-[Pub. L. 96–167, § 5(c)][/us/pl/96/167/s5/c], Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276], provided that: 
+[Pub. L. 96–167][/us/pl/96/167], § 5(c), Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276], provided that: 
 
 > “The amendments made by this section \[repealing this section\] shall apply to transfers after the date of the enactment of this Act \[Dec. 29, 1979\].”
 
@@ -30,13 +30,13 @@
 ----------
 ----------
 
-[/us/pl/96/167/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs5%2Fa
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1276
-[/us/pl/91/172/s121/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fe%2F1
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F548
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/167/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs5%2Fc
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1276
 
 

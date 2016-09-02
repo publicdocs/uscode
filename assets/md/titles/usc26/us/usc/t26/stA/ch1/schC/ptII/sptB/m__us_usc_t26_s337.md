@@ -59,7 +59,7 @@
 
         (2) regulations providing for appropriate coordination of the provisions of this section with the provisions of this title relating to taxation of foreign corporations and their shareholders.
 
-(Added [Pub. L. 99–514, title VI, § 631(a)][/us/pl/99/514/s631/a], Oct. 22, 1986, [100 Stat. 2271][/us/stat/100/2271]; amended [Pub. L. 100–203, title X, § 10223(a)][/us/pl/100/203/s10223/a], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I, § 1006(e)(4)][/us/pl/100/647/s1006/e/4], (5)(A), Nov. 10, 1988, [102 Stat. 3400][/us/stat/102/3400].)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(a), Oct. 22, 1986, [100 Stat. 2271][/us/stat/100/2271]; amended [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10223(a), Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(e)(4), (5)(A), Nov. 10, 1988, [102 Stat. 3400][/us/stat/102/3400].)
 
  __References in Text__ 
 
@@ -67,21 +67,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 337, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 106][/us/stat/68A/106]; Sept. 2, 1958, [Pub. L. 85–866, title I, § 19][/us/pl/85/866/s19], [72 Stat. 1615][/us/stat/72/1615]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(46), 1906(b)(13)(A), title XXI, § 2118(a), [90 Stat. 1772][/us/stat/90/1772], 1834, 1912; Nov. 6, 1978, [Pub. L. 95–600, title VII, § 701(i)(1)][/us/pl/95/600/s701/i/1], [92 Stat. 2904][/us/stat/92/2904]; Nov. 10, 1978, [Pub. L. 95–628, § 4(a)][/us/pl/95/628/s4/a], [92 Stat. 3628][/us/stat/92/3628]; Apr. 2, 1980, [Pub. L. 96–223, title IV, § 403(b)(2)(A)][/us/pl/96/223/s403/b/2/A], [94 Stat. 304][/us/stat/94/304]; Oct. 19, 1980, [Pub. L. 96–471, § 2(c)(2)][/us/pl/96/471/s2/c/2], [94 Stat. 2254][/us/stat/94/2254]; Dec. 24, 1980, [Pub. L. 96–589, § 5(c)][/us/pl/96/589/s5/c], [94 Stat. 3405][/us/stat/94/3405]; Sept. 3, 1982, [Pub. L. 97–248, title II, § 224(c)(5)][/us/pl/97/248/s224/c/5], (6), [96 Stat. 489][/us/stat/96/489]; Oct. 22, 1986, [Pub. L. 99–514, title XVIII, § 1804(e)(7)(A)][/us/pl/99/514/s1804/e/7/A], [100 Stat. 2803][/us/stat/100/2803], related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by [Pub. L. 99–514, § 631(a)][/us/pl/99/514/s631/a].
+    A prior section 337, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 106][/us/stat/68A/106]; Sept. 2, 1958, [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 19, [72 Stat. 1615][/us/stat/72/1615]; Oct. 4, 1976, [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(46), 1906(b)(13)(A), title XXI, § 2118(a), [90 Stat. 1772][/us/stat/90/1772], 1834, 1912; Nov. 6, 1978, [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(i)(1), [92 Stat. 2904][/us/stat/92/2904]; Nov. 10, 1978, [Pub. L. 95–628][/us/pl/95/628], § 4(a), [92 Stat. 3628][/us/stat/92/3628]; Apr. 2, 1980, [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 403(b)(2)(A), [94 Stat. 304][/us/stat/94/304]; Oct. 19, 1980, [Pub. L. 96–471][/us/pl/96/471], § 2(c)(2), [94 Stat. 2254][/us/stat/94/2254]; Dec. 24, 1980, [Pub. L. 96–589][/us/pl/96/589], § 5(c), [94 Stat. 3405][/us/stat/94/3405]; Sept. 3, 1982, [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 224(c)(5), (6), [96 Stat. 489][/us/stat/96/489]; Oct. 22, 1986, [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(e)(7)(A), [100 Stat. 2803][/us/stat/100/2803], related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by [Pub. L. 99–514][/us/pl/99/514], § 631(a).
 
  __Amendments__ 
 
-    1988—Subsec. (b)(2)(B)(i). [Pub. L. 100–647, § 1006(e)(4)(A)][/us/pl/100/647/s1006/e/4/A], (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
+    1988—Subsec. (b)(2)(B)(i). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(4)(A), (B), substituted “described in section 511(a)(2)” for “described in section 511(a)(2) or 511(b)(2)” and “in an activity the income from which is subject to tax under section 511(a)” for “in an unrelated trade or business (as defined in section 513)”.
 
-    Subsec. (b)(2)(B)(ii). [Pub. L. 100–647, § 1006(e)(4)(C)][/us/pl/100/647/s1006/e/4/C], substituted “an activity referred to in clause (i)” for “an unrelated trade or business of such organization”.
+    Subsec. (b)(2)(B)(ii). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(4)(C), substituted “an activity referred to in clause (i)” for “an unrelated trade or business of such organization”.
 
-    Subsec. (d). [Pub. L. 100–647, § 1006(e)(5)(A)][/us/pl/100/647/s1006/e/5/A], in introductory provisions, substituted “amendments made by subtitle D of title VI of the Tax Reform Act of 1986” for “amendments made to this subpart by the Tax Reform Act of 1986”, and in par. (1), substituted “this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity” for “this subchapter)”.
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(5)(A), in introductory provisions, substituted “amendments made by subtitle D of title VI of the Tax Reform Act of 1986” for “amendments made to this subpart by the Tax Reform Act of 1986”, and in par. (1), substituted “this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity” for “this subchapter)”.
 
     1987—Subsec. (c). [Pub. L. 100–203][/us/pl/100/203] inserted at end “For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1006(e)(5)(B)][/us/pl/100/647/s1006/e/5/B], Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(e)(5)(B), Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], provided that: 
 
 > “The amendment made by subparagraph (A)(ii) \[amending this section\] shall not apply to any reorganization if before June 10, 1987—
 
@@ -106,40 +106,40 @@
 ----------
 ----------
 
-[/us/pl/99/514/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2271
-[/us/pl/100/203/s10223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10223%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-411
-[/us/pl/100/647/s1006/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3400
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2085
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F106
-[/us/pl/85/866/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs19
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1615
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1772
-[/us/pl/95/600/s701/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fi%2F1
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2904
-[/us/pl/95/628/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628%2Fs4%2Fa
+[/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
 [/us/stat/92/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3628
-[/us/pl/96/223/s403/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs403%2Fb%2F2%2FA
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F304
-[/us/pl/96/471/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs2%2Fc%2F2
+[/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/stat/94/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2254
-[/us/pl/96/589/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs5%2Fc
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3405
-[/us/pl/97/248/s224/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs224%2Fc%2F5
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F489
-[/us/pl/99/514/s1804/e/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F7%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2803
-[/us/pl/99/514/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fa
-[/us/pl/100/647/s1006/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F4%2FA
-[/us/pl/100/647/s1006/e/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F4%2FC
-[/us/pl/100/647/s1006/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F5%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/100/647/s1006/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F5%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3401
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

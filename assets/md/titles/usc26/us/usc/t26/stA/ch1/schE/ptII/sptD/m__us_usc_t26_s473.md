@@ -149,11 +149,11 @@
 
         The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this section with the provisions of section 472.
 
-(Added [Pub. L. 96–223, title IV, § 403(a)(1)][/us/pl/96/223/s403/a/1], Apr. 2, 1980, [94 Stat. 302][/us/stat/94/302].)
+(Added [Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 403(a)(1), Apr. 2, 1980, [94 Stat. 302][/us/stat/94/302].)
 
  __Effective Date__ 
 
-[Pub. L. 96–223, title IV, § 403(a)(3)][/us/pl/96/223/s403/a/3], Apr. 2, 1980, [94 Stat. 304][/us/stat/94/304], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 403(a)(3), Apr. 2, 1980, [94 Stat. 304][/us/stat/94/304], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
 
@@ -164,11 +164,11 @@
 ----------
 ----------
 
-[/us/pl/96/223/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs403%2Fa%2F1
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F302
-[/us/pl/96/223/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs403%2Fa%2F3
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F304
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

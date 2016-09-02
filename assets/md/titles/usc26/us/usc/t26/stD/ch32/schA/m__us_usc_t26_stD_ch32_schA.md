@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title VII, § 735(a)(3)][/us/pl/98/369/s735/a/3], (c)(5)(B), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 982, substituted “Gas guzzlers” for “Motor vehicles” in item for part I, and struck out “and tubes” in item for part II.
+    1984—[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(a)(3), (c)(5)(B), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 982, substituted “Gas guzzlers” for “Motor vehicles” in item for part I, and struck out “and tubes” in item for part II.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s735/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fa%2F3
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F980
 
 

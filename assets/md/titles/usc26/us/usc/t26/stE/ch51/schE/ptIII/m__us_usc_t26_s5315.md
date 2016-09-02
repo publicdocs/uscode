@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stE/ch51/schE/ptIII/m__us_usc_t26_s5314.md) | [Next](./../../../../../../..//us/usc/t26/stE/ch51/schF/m__us_usc_t26_stE_ch51_schF.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5315)
 
-## \[§ 5315. Repealed. [Pub. L. 94–455, title XIX, § 1905(a)(19)][/us/pl/94/455/s1905/a/19], Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820]\]
+## \[§ 5315. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(a)(19), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820]\]
 
-    Section 5315, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1377][/us/stat/72/1377], related to status of certain distilled spirits on July 1, 1959.
+    Section 5315, added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1377][/us/stat/72/1377], related to status of certain distilled spirits on July 1, 1959.
 
     A prior section 5316, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 660][/us/stat/68A/660], related to form of affidavit, information or indictment, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859]. See Fed. Rules Cr. Proc., rules 7(c), (f), and 8(a), Title 18, Appendix, Crimes and Criminal Procedure.
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1905/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fa%2F19
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1377
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F660

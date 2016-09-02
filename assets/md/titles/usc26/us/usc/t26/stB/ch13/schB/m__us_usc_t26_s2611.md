@@ -41,13 +41,13 @@
 
             (C) such transfers do not have the effect of avoiding tax under this chapter with respect to any transfer.
 
-(Added [Pub. L. 94–455, title XX, § 2006(a)][/us/pl/94/455/s2006/a], Oct. 4, 1976, [90 Stat. 1882][/us/stat/90/1882]; amended [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1014(g)(1), (2), 1018(u)(43), Nov. 10, 1988, [102 Stat. 3562][/us/stat/102/3562], 3592.)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2006(a), Oct. 4, 1976, [90 Stat. 1882][/us/stat/90/1882]; amended [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2718][/us/stat/100/2718]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1014(g)(1), (2), 1018(u)(43), Nov. 10, 1988, [102 Stat. 3562][/us/stat/102/3562], 3592.)
 
  __Amendments__ 
 
     1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], §§ 1014(g)(1), 1018(u)(43), substituted “generation-skipping transfer” for “generation-skipping transfers” and “means” for “mean”.
 
-    Subsec. (b). [Pub. L. 100–647, § 1014(g)(2)][/us/pl/100/647/s1014/g/2], redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “any transfer (other than a direct skip) from a trust, to the extent such transfer is subject to a tax imposed by chapter 11 or 12 with respect to a person in the 1st generation below that of the grantor, and”.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “any transfer (other than a direct skip) from a trust, to the extent such transfer is subject to a tax imposed by chapter 11 or 12 with respect to a person in the 1st generation below that of the grantor, and”.
 
     1986—[Pub. L. 99–514][/us/pl/99/514] amended section generally, substituting provisions defining “generation-skipping transfers” and what that term does not include, for former provisions which defined “generation-skipping transfer”, “transfer”, and “generation-skipping trust”, contained provisions to be used in determining the ascertainment of generation, and provided for a generation-skipping trust equivalent.
 
@@ -66,14 +66,14 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fa
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1882
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2718
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3562
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/647/s1014/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

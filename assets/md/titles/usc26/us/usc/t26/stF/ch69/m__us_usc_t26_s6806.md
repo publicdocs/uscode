@@ -17,11 +17,11 @@
 
     Every person engaged in any business, avocation, or employment, who is thereby made liable to a special tax (other than a special tax under subchapter B of chapter 35, under subchapter B of chapter 36, or under subtitle E) shall place and keep conspicuously in his establishment or place of business all stamps denoting payment of such special tax.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 831][/us/stat/68A/831]; [Pub. L. 89–44, title VI, § 601(e)][/us/pl/89/44/s601/e], June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 90–618, title II, § 204][/us/pl/90/618/s204], Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 831][/us/stat/68A/831]; [Pub. L. 89–44, title VI][/us/pl/89/44/tVI], § 601(e), June 21, 1965, [79 Stat. 155][/us/stat/79/155]; [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 204, Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235].)
 
  __References in Text__ 
 
-    Subchapter B of chapter 36, referred to in text, was repealed by [Pub. L. 95–600, title V, § 521(b)][/us/pl/95/600/s521/b], Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].
+    Subchapter B of chapter 36, referred to in text, was repealed by [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 521(b), Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].
 
  __Amendments__ 
 
@@ -46,11 +46,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F831
-[/us/pl/89/44/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs601%2Fe
+[/us/pl/89/44/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVI
 [/us/stat/79/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F155
-[/us/pl/90/618/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs204
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1235
-[/us/pl/95/600/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs521%2Fb
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2884
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/usc/t26/s4461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4461

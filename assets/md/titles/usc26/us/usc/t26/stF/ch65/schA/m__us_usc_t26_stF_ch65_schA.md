@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312, title VII, § 728(b)][/us/pl/111/312/s728/b], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], added item 6409.
+    2010—[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 728(b), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], added item 6409.
 
-    1987—[Pub. L. 100–203, title X, § 10621(b)][/us/pl/100/203/s10621/b], Dec. 22, 1987, [101 Stat. 1330–452][/us/stat/101/1330-452], added item 6408.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10621(b), Dec. 22, 1987, [101 Stat. 1330–452][/us/stat/101/1330-452], added item 6408.
 
 ----------
 
@@ -110,9 +110,9 @@
 ----------
 ----------
 
-[/us/pl/111/312/s728/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs728%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
-[/us/pl/100/203/s10621/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10621%2Fb
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-452
 
 

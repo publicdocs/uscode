@@ -21,7 +21,7 @@
 
     (2) in the case of the tax imposed by section 831, the taxable income (as defined in section 832(a)).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 267][/us/stat/68A/267]; [Mar. 13, 1956, ch. 83, § 5(4)][/us/act/1956-03-13/ch83/s5/4], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69, § 3(b)][/us/pl/86/69/s3/b], June 25, 1959, [73 Stat. 139][/us/stat/73/139]; [Pub. L. 87–834, § 8(g)(1)][/us/pl/87/834/s8/g/1], Oct. 16, 1962, [76 Stat. 998][/us/stat/76/998]; [Pub. L. 89–809, title I, § 104(i)(8)][/us/pl/89/809/s104/i/8], Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 98–369, div. A, title II, § 211(b)(10)][/us/pl/98/369/s211/b/10], July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title X, § 1024(c)(10)][/us/pl/99/514/s1024/c/10], Oct. 22, 1986, [100 Stat. 2407][/us/stat/100/2407].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 267][/us/stat/68A/267]; [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 5(4), [70 Stat. 49][/us/stat/70/49]; [Pub. L. 86–69][/us/pl/86/69], § 3(b), June 25, 1959, [73 Stat. 139][/us/stat/73/139]; [Pub. L. 87–834][/us/pl/87/834], § 8(g)(1), Oct. 16, 1962, [76 Stat. 998][/us/stat/76/998]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(i)(8), Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 211(b)(10), July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(c)(10), Oct. 22, 1986, [100 Stat. 2407][/us/stat/100/2407].)
 
  __Amendments__ 
 
@@ -70,17 +70,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F267
-[/us/act/1956-03-13/ch83/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs5%2F4
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F49
-[/us/pl/86/69/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs3%2Fb
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F139
-[/us/pl/87/834/s8/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fg%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F998
-[/us/pl/89/809/s104/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F8
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1562
-[/us/pl/98/369/s211/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F10
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F755
-[/us/pl/99/514/s1024/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fc%2F10
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2407
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

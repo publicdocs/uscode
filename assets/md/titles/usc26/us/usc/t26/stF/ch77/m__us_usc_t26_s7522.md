@@ -29,11 +29,11 @@
 
         (3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
 
-(Added [Pub. L. 100–647, title VI, § 6233(a)][/us/pl/100/647/s6233/a], Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], § 7521; renumbered § 7522, [Pub. L. 101–508, title XI, § 11704(a)(30)][/us/pl/101/508/s11704/a/30], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6233(a), Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], § 7521; renumbered § 7522, [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(30), Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519].)
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title VI, § 6233(c)][/us/pl/100/647/s6233/c], Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6233(c), Nov. 10, 1988, [102 Stat. 3735][/us/stat/102/3735], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to mailings made on or after January 1, 1990.”
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/100/647/s6233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6233%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3735
-[/us/pl/101/508/s11704/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F30
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-519
-[/us/pl/100/647/s6233/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6233%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3735
 
 

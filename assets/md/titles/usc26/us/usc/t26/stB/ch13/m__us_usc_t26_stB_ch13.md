@@ -101,7 +101,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717], struck out “CERTAIN” after “TAX ON” in chapter heading, substituted “Generation-skipping transfers” for “Definitions and special rules” in item for subchapter B and “Taxable amount” for “Administration” in item for subchapter C, and added items for subchapters D, E, and F.
+    1986—[Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717], struck out “CERTAIN” after “TAX ON” in chapter heading, substituted “Generation-skipping transfers” for “Definitions and special rules” in item for subchapter B and “Taxable amount” for “Administration” in item for subchapter C, and added items for subchapters D, E, and F.
 
 ----------
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2717
 
 

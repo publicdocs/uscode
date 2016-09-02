@@ -79,39 +79,39 @@
 
         To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 243][/us/stat/68A/243]; [Pub. L. 94–455, title II, § 213(b)(3)][/us/pl/94/455/s213/b/3], title XIX, § 1901(b)(3)(C), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1792; [Pub. L. 98–369, div. A, title I, § 73(a)][/us/pl/98/369/s73/a], July 18, 1984, [98 Stat. 591][/us/stat/98/591]; [Pub. L. 99–514, title VI, § 642(a)(2)][/us/pl/99/514/s642/a/2], title XVIII, §§ 1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, [100 Stat. 2284][/us/stat/100/2284], 2810, 2834.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 243][/us/stat/68A/243]; [Pub. L. 94–455, title II][/us/pl/94/455/tII], § 213(b)(3), title XIX, § 1901(b)(3)(C), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1792; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 73(a), July 18, 1984, [98 Stat. 591][/us/stat/98/591]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 642(a)(2), title XVIII, §§ 1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, [100 Stat. 2284][/us/stat/100/2284], 2810, 2834.)
 
  __Amendments__ 
 
-    1986—Subsec. (a)(2)(B)(iii). [Pub. L. 99–514, § 1805(b)][/us/pl/99/514/s1805/b], substituted “sale or exchange of property” for “sale of property”.
+    1986—Subsec. (a)(2)(B)(iii). [Pub. L. 99–514][/us/pl/99/514], § 1805(b), substituted “sale or exchange of property” for “sale of property”.
 
-    Subsec. (b)(1). [Pub. L. 99–514, § 1812(c)(3)(B)][/us/pl/99/514/s1812/c/3/B], inserted at end “For purposes of section 267(a)(2), partnerships described in subparagraph (B) of this paragraph shall be treated as persons specified in section 267(b).”
+    Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514], § 1812(c)(3)(B), inserted at end “For purposes of section 267(a)(2), partnerships described in subparagraph (B) of this paragraph shall be treated as persons specified in section 267(b).”
 
-    Subsec. (b)(1)(A). [Pub. L. 99–514, § 1812(c)(3)(A)][/us/pl/99/514/s1812/c/3/A], substituted “a person” for “a partner”.
+    Subsec. (b)(1)(A). [Pub. L. 99–514][/us/pl/99/514], § 1812(c)(3)(A), substituted “a person” for “a partner”.
 
-    Subsec. (b)(2)(A). [Pub. L. 99–514, § 1812(c)(3)(A)][/us/pl/99/514/s1812/c/3/A], substituted “a person” for “a partner”.
+    Subsec. (b)(2)(A). [Pub. L. 99–514][/us/pl/99/514], § 1812(c)(3)(A), substituted “a person” for “a partner”.
 
-    [Pub. L. 99–514, § 642(a)(2)][/us/pl/99/514/s642/a/2], substituted “50 percent” for “80 percent”.
+    [Pub. L. 99–514][/us/pl/99/514], § 642(a)(2), substituted “50 percent” for “80 percent”.
 
-    Subsec. (b)(2)(B). [Pub. L. 99–514, § 642(a)(2)][/us/pl/99/514/s642/a/2], substituted “50 percent” for “80 percent”.
+    Subsec. (b)(2)(B). [Pub. L. 99–514][/us/pl/99/514], § 642(a)(2), substituted “50 percent” for “80 percent”.
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] designated existing provisions as par. (1) and added par. (2).
 
-    1976—Subsec. (b)(2). [Pub. L. 94–455, § 1901(b)(3)(C)][/us/pl/94/455/s1901/b/3/C], substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
+    1976—Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(C), substituted “as ordinary income” for “as gain from the sale or exchange of property other than a capital asset”.
 
-    Subsec. (c). [Pub. L. 94–455, § 213(b)(3)][/us/pl/94/455/s213/b/3], substituted “and, subject to section 263, for purposes of section 162(a)” for “and section 162(a)”.
+    Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 213(b)(3), substituted “and, subject to section 263, for purposes of section 162(a)” for “and section 162(a)”.
 
  __Effective Date of 1986 Amendment__ 
 
     Amendment by [section 642(a)(2) of Pub. L. 99–514][/us/pl/99/514/s642/a/2] applicable to sales after Oct. 22, 1986, in taxable years ending after such date, but not applicable to sales made after Aug. 14, 1986, which are made pursuant to a binding contract in effect on Aug. 14, 1986, and at all times thereafter, see [section 642(c) of Pub. L. 99–514][/us/pl/99/514/s642/c], set out as a note under [section 1239 of this title][/us/usc/t26/s1239].
 
-    Amendment by sections 1805(b) and 1812(c)(3)(B) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by sections 1805(b) and 1812(c)(3)(B) of [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
-    [Pub. L. 99–514, title XVIII, § 1812(c)(3)(A)][/us/pl/99/514/s1812/c/3/A], Oct. 22, 1986, [100 Stat. 2834][/us/stat/100/2834], provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
+    [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(c)(3)(A), Oct. 22, 1986, [100 Stat. 2834][/us/stat/100/2834], provided that the amendment made by that section is effective with respect to sales or exchanges after Sept. 27, 1985.
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 73(b)][/us/pl/98/369/s73/b], July 18, 1984, [98 Stat. 592][/us/stat/98/592], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 73(b), July 18, 1984, [98 Stat. 592][/us/stat/98/592], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -156,33 +156,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F243
-[/us/pl/94/455/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fb%2F3
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1547
-[/us/pl/98/369/s73/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs73%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F591
-[/us/pl/99/514/s642/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs642%2Fa%2F2
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2284
-[/us/pl/99/514/s1805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1805%2Fb
-[/us/pl/99/514/s1812/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F3%2FB
-[/us/pl/99/514/s1812/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F3%2FA
-[/us/pl/99/514/s1812/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F3%2FA
-[/us/pl/99/514/s642/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs642%2Fa%2F2
-[/us/pl/99/514/s642/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs642%2Fa%2F2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
-[/us/pl/94/455/s1901/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FC
-[/us/pl/94/455/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fb%2F3
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/99/514/s642/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs642%2Fa%2F2
 [/us/pl/99/514/s642/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs642%2Fc
 [/us/usc/t26/s1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
-[/us/pl/99/514/s1812/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fc%2F3%2FA
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2834
-[/us/pl/98/369/s73/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs73%2Fb
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F592
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/94/455/s213/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Fb%2F3
 [/us/pl/94/455/s213/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs213%2Ff%2F1

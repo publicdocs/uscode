@@ -69,7 +69,7 @@
 
         For purposes of this section, the term “non-financial foreign entity” means any foreign entity which is not a financial institution (as defined in section 1471(d)(5)).
 
-(Added [Pub. L. 111–147, title V, § 501(a)][/us/pl/111/147/s501/a], Mar. 18, 2010, [124 Stat. 102][/us/stat/124/102].)
+(Added [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(a), Mar. 18, 2010, [124 Stat. 102][/us/stat/124/102].)
 
 ----------
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/111/147/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F102
 
 

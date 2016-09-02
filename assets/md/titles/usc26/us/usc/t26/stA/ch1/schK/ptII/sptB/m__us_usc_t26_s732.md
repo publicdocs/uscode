@@ -129,25 +129,25 @@
 
             The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to avoid double counting and to prevent the abuse of such purposes.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 246][/us/stat/68A/246]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1061(a), 1062(b)(3), Aug. 5, 1997, [111 Stat. 945][/us/stat/111/945], 947; [Pub. L. 106–170, title V, § 538(a)][/us/pl/106/170/s538/a], Dec. 17, 1999, [113 Stat. 1939][/us/stat/113/1939].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 246][/us/stat/68A/246]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], §§ 1061(a), 1062(b)(3), Aug. 5, 1997, [111 Stat. 945][/us/stat/111/945], 947; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 538(a), Dec. 17, 1999, [113 Stat. 1939][/us/stat/113/1939].)
 
  __Amendments__ 
 
     1999—Subsec. (f). [Pub. L. 106–170][/us/pl/106/170] added subsec. (f).
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 1061(a)][/us/pl/105/34/s1061/a], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
     “(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
 
     “(2) to the extent of any remaining basis, to any other distributed properties in proportion to their adjusted bases to the partnership.”
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 105–34, § 1062(b)(3)][/us/pl/105/34/s1062/b/3], substituted “section 751(d)” for “section 751(d)(2)”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 105–34][/us/pl/105/34], § 1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
 
     1976—Subsec. (d). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title V, § 538(b)][/us/pl/106/170/s538/b], Dec. 17, 1999, [113 Stat. 1940][/us/stat/113/1940], provided that:
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 538(b), Dec. 17, 1999, [113 Stat. 1940][/us/stat/113/1940], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1061(b)][/us/pl/105/34/s1061/b], Aug. 5, 1997, [111 Stat. 946][/us/stat/111/946], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1061(b), Aug. 5, 1997, [111 Stat. 946][/us/stat/111/946], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -174,19 +174,19 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F246
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F945
-[/us/pl/106/170/s538/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs538%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1939
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/105/34/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1061%2Fa
-[/us/pl/105/34/s1062/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fb%2F3
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/106/170/s538/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs538%2Fb
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1940
-[/us/pl/105/34/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1061%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F946
 [/us/pl/105/34/s1062/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fb%2F3
 [/us/pl/105/34/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1062%2Fc

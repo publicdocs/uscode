@@ -363,7 +363,7 @@
 
         The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements of subsection (e)(1)(G).
 
-(Added [Pub. L. 109–58, title XIII, § 1307(b)][/us/pl/109/58/s1307/b], Aug. 8, 2005, [119 Stat. 999][/us/stat/119/999]; amended [Pub. L. 109–432, div. A, title II, § 203(a)][/us/pl/109/432/s203/a], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172, § 11(a)(10)][/us/pl/110/172/s11/a/10], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–234, title XV, § 15346(a)][/us/pl/110/234/s15346/a], May 22, 2008, [122 Stat. 1523][/us/stat/122/1523]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15346(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285; [Pub. L. 110–343, div. B, title I, § 111(a)][/us/pl/110/343/s111/a]–(d), Oct. 3, 2008, [122 Stat. 3822][/us/stat/122/3822], 3823; [Pub. L. 111–5, div. B, title I, § 1103(b)(2)(C)][/us/pl/111/5/s1103/b/2/C], Feb. 17, 2009, [123 Stat. 321][/us/stat/123/321].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1307(b), Aug. 8, 2005, [119 Stat. 999][/us/stat/119/999]; amended [Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 203(a), Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(10), Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15346(a), May 22, 2008, [122 Stat. 1523][/us/stat/122/1523]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15346(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285; [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 111(a)–(d), Oct. 3, 2008, [122 Stat. 3822][/us/stat/122/3822], 3823; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1103(b)(2)(C), Feb. 17, 2009, [123 Stat. 321][/us/stat/123/321].)
 
  __References in Text__ 
 
@@ -379,31 +379,31 @@
 
     2009—Subsec. (b)(2). [Pub. L. 111–5][/us/pl/111/5] inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
 
-    2008—Subsec. (a)(3). [Pub. L. 110–343, § 111(a)][/us/pl/110/343/s111/a], added par. (3).
+    2008—Subsec. (a)(3). [Pub. L. 110–343][/us/pl/110/343], § 111(a), added par. (3).
 
-    Subsec. (d)(2)(A). [Pub. L. 110–343, § 111(c)(2)][/us/pl/110/343/s111/c/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).”
+    Subsec. (d)(2)(A). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).”
 
-    Subsec. (d)(3)(A). [Pub. L. 110–343, § 111(b)][/us/pl/110/343/s111/b], substituted “$2,550,000,000” for “$1,300,000,000”.
+    Subsec. (d)(3)(A). [Pub. L. 110–343][/us/pl/110/343], § 111(b), substituted “$2,550,000,000” for “$1,300,000,000”.
 
-    Subsec. (d)(3)(B). [Pub. L. 110–343, § 111(c)(1)][/us/pl/110/343/s111/c/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
+    Subsec. (d)(3)(B). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
 
     “(i) $800,000,000 for integrated gasification combined cycle projects, and
 
     “(ii) $500,000,000 for projects which use other advanced coal-based generation technologies.”
 
-    Subsec. (d)(5). [Pub. L. 110–343, § 111(d)][/us/pl/110/343/s111/d], added par. (5).
+    Subsec. (d)(5). [Pub. L. 110–343][/us/pl/110/343], § 111(d), added par. (5).
 
-    Subsec. (e)(1)(G). [Pub. L. 110–343, § 111(c)(3)(A)][/us/pl/110/343/s111/c/3/A], added subpar. (G).
+    Subsec. (e)(1)(G). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(3)(A), added subpar. (G).
 
-    Subsec. (e)(3). [Pub. L. 110–343, § 111(c)(5)][/us/pl/110/343/s111/c/5], substituted “certain” for “integrated gasification combined cycle” in heading.
+    Subsec. (e)(3). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(5), substituted “certain” for “integrated gasification combined cycle” in heading.
 
-    Subsec. (e)(3)(B)(iii), (iv). [Pub. L. 110–343, § 111(c)(4)][/us/pl/110/343/s111/c/4], added cl. (iii) and redesignated former cl. (iii) as (iv).
+    Subsec. (e)(3)(B)(iii), (iv). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-    Subsec. (e)(3)(C). [Pub. L. 110–343, § 111(c)(3)(B)][/us/pl/110/343/s111/c/3/B], added subpar. (C).
+    Subsec. (e)(3)(C). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(3)(B), added subpar. (C).
 
-    Subsec. (h). [Pub. L. 110–246, § 15346(a)][/us/pl/110/246/s15346/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–246][/us/pl/110/246], § 15346(a), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 110–343, § 111(c)(3)(C)][/us/pl/110/343/s111/c/3/C], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–343][/us/pl/110/343], § 111(c)(3)(C), added subsec. (i).
 
     2007—Subsec. (d)(4)(B)(ii). [Pub. L. 110–172][/us/pl/110/172] struck out “subsection” before “paragraph” in two places.
 
@@ -415,7 +415,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title I, § 111(e)][/us/pl/110/343/s111/e], Oct. 3, 2008, [122 Stat. 3823][/us/stat/122/3823], provided that:
+[Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 111(e), Oct. 3, 2008, [122 Stat. 3823][/us/stat/122/3823], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -431,7 +431,7 @@
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
 
-[Pub. L. 110–234, title XV, § 15346(b)][/us/pl/110/234/s15346/b], May 22, 2008, [122 Stat. 1523][/us/stat/122/1523], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15346(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285, provided that: 
+[Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15346(b), May 22, 2008, [122 Stat. 1523][/us/stat/122/1523], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15346(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285, provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 18, 2008\] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment.”
 
@@ -439,7 +439,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title II, § 203(b)][/us/pl/109/432/s203/b], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945], provided that: 
+[Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 203(b), Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take apply \[sic\] with respect to applications for certification under section 48A(d)(2) of the Internal Revenue Code of 1986 submitted after October 2, 2006.”
 
@@ -458,19 +458,19 @@
 [/us/usc/t42/s7411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7411
 [/us/usc/t42/s7479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7479
 [/us/usc/t42/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7501
-[/us/pl/109/58/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1307%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F999
-[/us/pl/109/432/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2Fa
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2945
-[/us/pl/110/172/s11/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F10
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2485
-[/us/pl/110/234/s15346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15346%2Fa
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1523
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/343/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3822
-[/us/pl/111/5/s1103/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fb%2F2%2FC
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F321
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -479,24 +479,24 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/343/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fa
-[/us/pl/110/343/s111/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F2
-[/us/pl/110/343/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fb
-[/us/pl/110/343/s111/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F1
-[/us/pl/110/343/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fd
-[/us/pl/110/343/s111/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F3%2FA
-[/us/pl/110/343/s111/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F5
-[/us/pl/110/343/s111/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F4
-[/us/pl/110/343/s111/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F3%2FB
-[/us/pl/110/246/s15346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15346%2Fa
-[/us/pl/110/343/s111/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fc%2F3%2FC
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t26/s48/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fm
 [/us/pl/111/5/s1103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fc%2F1
 [/us/usc/t26/s25C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25C
-[/us/pl/110/343/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs111%2Fe
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3823
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -504,16 +504,16 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/234/s15346/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15346%2Fb
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1523
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/109/432/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs203%2Fb
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2945
 [/us/usc/t26/s48/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fm
 [/us/pl/109/58/s1307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1307%2Fd

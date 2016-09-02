@@ -45,7 +45,7 @@
 
         This section shall not apply to any payment to or from a qualified cogeneration facility or qualifying small power production facility pursuant to section 210 of the Public Utility Regulatory Policy Act of 1978.
 
-(Added [Pub. L. 102–486, title XIX, § 1912(a)][/us/pl/102/486/s1912/a], Oct. 24, 1992, [106 Stat. 3014][/us/stat/106/3014]; amended [Pub. L. 104–188, title I, § 1617(a)][/us/pl/104/188/s1617/a], (b), Aug. 20, 1996, [110 Stat. 1858][/us/stat/110/1858].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1912(a), Oct. 24, 1992, [106 Stat. 3014][/us/stat/106/3014]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1617(a), (b), Aug. 20, 1996, [110 Stat. 1858][/us/stat/110/1858].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–188, § 1617(b)(1)][/us/pl/104/188/s1617/b/1], reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
+    1996—Subsec. (a). [Pub. L. 104–188][/us/pl/104/188], § 1617(b)(1), reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
 
-    Subsec. (c)(1). [Pub. L. 104–188, § 1617(a)][/us/pl/104/188/s1617/a], substituted “energy demand with respect to a dwelling unit.” for “energy demand—
+    Subsec. (c)(1). [Pub. L. 104–188][/us/pl/104/188], § 1617(a), substituted “energy demand with respect to a dwelling unit.” for “energy demand—
 
     “(A) with respect to a dwelling unit, and
 
@@ -67,17 +67,17 @@
 
     The purchase and installation of specially defined energy property shall be treated as an energy conservation measure described in subparagraph (B).”
 
-    Subsec. (c)(2). [Pub. L. 104–188, § 1617(b)(2)][/us/pl/104/188/s1617/b/2], struck out “and special rules” after “definitions” in heading, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to “specially defined energy property”.
+    Subsec. (c)(2). [Pub. L. 104–188][/us/pl/104/188], § 1617(b)(2), struck out “and special rules” after “definitions” in heading, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to “specially defined energy property”.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–188, title I, § 1617(c)][/us/pl/104/188/s1617/c], Aug. 20, 1996, [110 Stat. 1858][/us/stat/110/1858], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1617(c), Aug. 20, 1996, [110 Stat. 1858][/us/stat/110/1858], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to amounts received after December 31, 1996, unless received pursuant to a written binding contract in effect on September 13, 1995, and at all times thereafter.”
 
  __Effective Date__ 
 
-[Pub. L. 102–486, title XIX, § 1912(c)][/us/pl/102/486/s1912/c], Oct. 24, 1992, [106 Stat. 3016][/us/stat/106/3016], provided that: 
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1912(c), Oct. 24, 1992, [106 Stat. 3016][/us/stat/106/3016], provided that: 
 
 > “The amendments made by this section \[enacting this section and renumbering former section 136 as 137\] shall apply to amounts received after December 31, 1992.”
 
@@ -88,19 +88,19 @@
 ----------
 ----------
 
-[/us/pl/102/486/s1912/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1912%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3014
-[/us/pl/104/188/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1617%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1858
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/usc/t16/s824a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824a%E2%80%933
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
-[/us/pl/104/188/s1617/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1617%2Fb%2F1
-[/us/pl/104/188/s1617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1617%2Fa
-[/us/pl/104/188/s1617/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1617%2Fb%2F2
-[/us/pl/104/188/s1617/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1617%2Fc
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1858
-[/us/pl/102/486/s1912/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1912%2Fc
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3016
 
 

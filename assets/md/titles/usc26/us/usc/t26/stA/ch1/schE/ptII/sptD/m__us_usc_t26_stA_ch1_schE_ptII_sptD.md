@@ -67,13 +67,13 @@
 
  __Amendments__ 
 
-    1993—[Pub. L. 103–66, title XIII, § 13223(b)(2)][/us/pl/103/66/s13223/b/2], Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484], added item 475.
+    1993—[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13223(b)(2), Aug. 10, 1993, [107 Stat. 484][/us/stat/107/484], added item 475.
 
-    1986—[Pub. L. 99–514, title VIII, § 802(b)][/us/pl/99/514/s802/b], Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350], substituted “Simplified dollar-value LIFO method for certain small businesses” for “Election by certain small businesses to use one inventory pool” in item 474.
+    1986—[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 802(b), Oct. 22, 1986, [100 Stat. 2350][/us/stat/100/2350], substituted “Simplified dollar-value LIFO method for certain small businesses” for “Election by certain small businesses to use one inventory pool” in item 474.
 
-    1981—[Pub. L. 97–34, title II, § 237(b)][/us/pl/97/34/s237/b], Aug. 13, 1981, [95 Stat. 253][/us/stat/95/253], added item 474.
+    1981—[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 237(b), Aug. 13, 1981, [95 Stat. 253][/us/stat/95/253], added item 474.
 
-    1980—[Pub. L. 96–223, title IV, § 403(a)(2)][/us/pl/96/223/s403/a/2], Apr. 2, 1980, [94 Stat. 304][/us/stat/94/304], added item 473.
+    1980—[Pub. L. 96–223, title IV][/us/pl/96/223/tIV], § 403(a)(2), Apr. 2, 1980, [94 Stat. 304][/us/stat/94/304], added item 473.
 
 ----------
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13223/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13223%2Fb%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F484
-[/us/pl/99/514/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs802%2Fb
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2350
-[/us/pl/97/34/s237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs237%2Fb
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F253
-[/us/pl/96/223/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs403%2Fa%2F2
+[/us/pl/96/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtIV
 [/us/stat/94/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F304
 
 

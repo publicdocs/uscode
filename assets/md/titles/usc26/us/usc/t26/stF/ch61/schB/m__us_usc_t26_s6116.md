@@ -47,7 +47,7 @@
 
         The Secretary shall determine the electronic format of the information described in subsection (b).
 
-(Added [Pub. L. 112–41, title V, § 502(a)][/us/pl/112/41/s502/a], Oct. 21, 2011, [125 Stat. 460][/us/stat/125/460].)
+(Added [Pub. L. 112–41, title V][/us/pl/112/41/tV], § 502(a), Oct. 21, 2011, [125 Stat. 460][/us/stat/125/460].)
 
  __Prior Provisions__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/112/41/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs502%2Fa
+[/us/pl/112/41/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2FtV
 [/us/stat/125/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F460
 [/us/usc/t26/s6117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6117
 

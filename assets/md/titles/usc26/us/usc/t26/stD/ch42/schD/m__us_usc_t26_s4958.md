@@ -203,7 +203,7 @@
 
                 For purposes of subparagraph (A), the term “investment advisor” means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
 
-(Added [Pub. L. 104–168, title XIII, § 1311(a)][/us/pl/104/168/s1311/a], July 30, 1996, [110 Stat. 1475][/us/stat/110/1475]; amended [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1098, 1099, 1104; [Pub. L. 110–172, § 3(i)][/us/pl/110/172/s3/i], Dec. 29, 2007, [121 Stat. 2475][/us/stat/121/2475]; [Pub. L. 111–148, title I, § 1322(h)(3)][/us/pl/111/148/s1322/h/3], Mar. 23, 2010, [124 Stat. 192][/us/stat/124/192].)
+(Added [Pub. L. 104–168, title XIII][/us/pl/104/168/tXIII], § 1311(a), July 30, 1996, [110 Stat. 1475][/us/stat/110/1475]; amended [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], §§ 1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1098, 1099, 1104; [Pub. L. 110–172][/us/pl/110/172], § 3(i), Dec. 29, 2007, [121 Stat. 2475][/us/stat/121/2475]; [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1322(h)(3), Mar. 23, 2010, [124 Stat. 192][/us/stat/124/192].)
 
  __Codification__ 
 
@@ -213,33 +213,33 @@
 
     2010—Subsec. (e)(1). [Pub. L. 111–148][/us/pl/111/148] substituted “paragraph (3), (4), or (29)” for “paragraph (3) or (4)”.
 
-    2007—Subsec. (c)(3)(A)(i)(II). [Pub. L. 110–172, § 3(i)(1)][/us/pl/110/172/s3/i/1], substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
+    2007—Subsec. (c)(3)(A)(i)(II). [Pub. L. 110–172][/us/pl/110/172], § 3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 110–172, § 3(i)(2)][/us/pl/110/172/s3/i/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
+    Subsec. (c)(3)(C)(ii). [Pub. L. 110–172][/us/pl/110/172], § 3(i)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
 
-    2006—Subsec. (c)(2). [Pub. L. 109–280, § 1232(b)(1)][/us/pl/109/280/s1232/b/1], added par. (2). Former par. (2) redesignated (3). See Codification note above.
+    2006—Subsec. (c)(2). [Pub. L. 109–280][/us/pl/109/280], § 1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
 
-    Subsec. (c)(3). [Pub. L. 109–280, § 1242(b)][/us/pl/109/280/s1242/b], added par. (3). Former par. (3) redesignated (4). See Codification note above.
+    Subsec. (c)(3). [Pub. L. 109–280][/us/pl/109/280], § 1242(b), added par. (3). Former par. (3) redesignated (4). See Codification note above.
 
-    [Pub. L. 109–280, § 1232(b)(1)][/us/pl/109/280/s1232/b/1], redesignated par. (2) as (3). See Codification note above.
+    [Pub. L. 109–280][/us/pl/109/280], § 1232(b)(1), redesignated par. (2) as (3). See Codification note above.
 
-    Subsec. (c)(4). [Pub. L. 109–280, § 1242(b)][/us/pl/109/280/s1242/b], redesignated par. (3) as (4). See Codification note above.
+    Subsec. (c)(4). [Pub. L. 109–280][/us/pl/109/280], § 1242(b), redesignated par. (3) as (4). See Codification note above.
 
-    Subsec. (d)(2). [Pub. L. 109–280, § 1212(a)(3)][/us/pl/109/280/s1212/a/3], substituted “$20,000” for “$10,000”. See Codification note above.
+    Subsec. (d)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(a)(3), substituted “$20,000” for “$10,000”. See Codification note above.
 
-    Subsec. (f)(1)(D). [Pub. L. 109–280, § 1242(a)][/us/pl/109/280/s1242/a], added subpar. (D). Former subpar. (D) redesignated (E). See Codification note above.
+    Subsec. (f)(1)(D). [Pub. L. 109–280][/us/pl/109/280], § 1242(a), added subpar. (D). Former subpar. (D) redesignated (E). See Codification note above.
 
-    [Pub. L. 109–280, § 1232(a)(1)][/us/pl/109/280/s1232/a/1], added subpar. (D). See Codification note above.
+    [Pub. L. 109–280][/us/pl/109/280], § 1232(a)(1), added subpar. (D). See Codification note above.
 
-    Subsec. (f)(1)(E). [Pub. L. 109–280, § 1242(a)][/us/pl/109/280/s1242/a], redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). See Codification note above.
+    Subsec. (f)(1)(E). [Pub. L. 109–280][/us/pl/109/280], § 1242(a), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). See Codification note above.
 
-    [Pub. L. 109–280, § 1232(a)(1)][/us/pl/109/280/s1232/a/1], added subpar. (E). See Codification note above.
+    [Pub. L. 109–280][/us/pl/109/280], § 1232(a)(1), added subpar. (E). See Codification note above.
 
-    Subsec. (f)(1)(F). [Pub. L. 109–280, § 1242(a)][/us/pl/109/280/s1242/a], redesignated subpar. (E) as (F). See Codification note above.
+    Subsec. (f)(1)(F). [Pub. L. 109–280][/us/pl/109/280], § 1242(a), redesignated subpar. (E) as (F). See Codification note above.
 
-    Subsec. (f)(6). [Pub. L. 109–280, § 1232(b)(2)][/us/pl/109/280/s1232/b/2], inserted “, except that in the case of any correction of an excess benefit transaction described in subsection (c)(2), no amount repaid in a manner prescribed by the Secretary may be held in any donor advised fund” after “standards”. See Codification note above.
+    Subsec. (f)(6). [Pub. L. 109–280][/us/pl/109/280], § 1232(b)(2), inserted “, except that in the case of any correction of an excess benefit transaction described in subsection (c)(2), no amount repaid in a manner prescribed by the Secretary may be held in any donor advised fund” after “standards”. See Codification note above.
 
-    Subsec. (f)(7), (8). [Pub. L. 109–280, § 1232(a)(2)][/us/pl/109/280/s1232/a/2], added pars. (7) and (8). See Codification note above.
+    Subsec. (f)(7), (8). [Pub. L. 109–280][/us/pl/109/280], § 1232(a)(2), added pars. (7) and (8). See Codification note above.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -249,11 +249,11 @@
 
     Amendment by [section 1212(a)(3) of Pub. L. 109–280][/us/pl/109/280/s1212/a/3] applicable to taxable years beginning after Aug. 17, 2006, see [section 1212(f) of Pub. L. 109–280][/us/pl/109/280/s1212/f], set out as a note under [section 4941 of this title][/us/usc/t26/s4941].
 
-[Pub. L. 109–280, title XII, § 1232(c)][/us/pl/109/280/s1232/c], Aug. 17, 2006, [120 Stat. 1099][/us/stat/120/1099], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1232(c), Aug. 17, 2006, [120 Stat. 1099][/us/stat/120/1099], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
-[Pub. L. 109–280, title XII, § 1242(c)][/us/pl/109/280/s1242/c], Aug. 17, 2006, [120 Stat. 1105][/us/stat/120/1105], provided that:
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1242(c), Aug. 17, 2006, [120 Stat. 1105][/us/stat/120/1105], provided that:
 
 >     “(1)  __Subsection__  __(a).—__ 
 
@@ -274,30 +274,30 @@
 ----------
 ----------
 
-[/us/pl/104/168/s1311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1311%2Fa
+[/us/pl/104/168/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXIII
 [/us/stat/110/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1475
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
-[/us/pl/110/172/s3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fi
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2475
-[/us/pl/111/148/s1322/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1322%2Fh%2F3
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F192
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/110/172/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fi%2F1
-[/us/pl/110/172/s3/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fi%2F2
-[/us/pl/109/280/s1232/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fb%2F1
-[/us/pl/109/280/s1242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fb
-[/us/pl/109/280/s1232/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fb%2F1
-[/us/pl/109/280/s1242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fb
-[/us/pl/109/280/s1212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F3
-[/us/pl/109/280/s1242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fa
-[/us/pl/109/280/s1232/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fa%2F1
-[/us/pl/109/280/s1242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fa
-[/us/pl/109/280/s1232/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fa%2F1
-[/us/pl/109/280/s1242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fa
-[/us/pl/109/280/s1232/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fb%2F2
-[/us/pl/109/280/s1232/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fa%2F2
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/172/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fj
@@ -305,9 +305,9 @@
 [/us/pl/109/280/s1212/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fa%2F3
 [/us/pl/109/280/s1212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Ff
 [/us/usc/t26/s4941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4941
-[/us/pl/109/280/s1232/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1232%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1099
-[/us/pl/109/280/s1242/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1242%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1105
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/usc/t26/s4955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4955

@@ -95,7 +95,7 @@
 
         In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
 
-(Added [Pub. L. 94–455, title XIII, § 1306(a)][/us/pl/94/455/s1306/a], Oct. 4, 1976, [90 Stat. 1717][/us/stat/90/1717]; amended [Pub. L. 95–600, title VII, § 701(dd)(2)][/us/pl/95/600/s701/dd/2], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–164, title I, § 152][/us/pl/97/164/s152], Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 98–369, div. A, title X, § 1033(b)][/us/pl/98/369/s1033/b], July 18, 1984, [98 Stat. 1039][/us/stat/98/1039]; [Pub. L. 102–572, title IX, § 902(b)][/us/pl/102/572/s902/b], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–357, title III, § 317(a)][/us/pl/108/357/s317/a], Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470]; [Pub. L. 109–280, title XII, § 1223(c)][/us/pl/109/280/s1223/c], Aug. 17, 2006, [120 Stat. 1091][/us/stat/120/1091]; [Pub. L. 114–113, div. Q, title IV, § 406(a)][/us/pl/114/113/s406/a], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120].)
+(Added [Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(a), Oct. 4, 1976, [90 Stat. 1717][/us/stat/90/1717]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(dd)(2), Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 152, Apr. 2, 1982, [96 Stat. 46][/us/stat/96/46]; [Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1033(b), July 18, 1984, [98 Stat. 1039][/us/stat/98/1039]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 317(a), Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1223(c), Aug. 17, 2006, [120 Stat. 1091][/us/stat/120/1091]; [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 406(a), Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120].)
 
  __Prior Provisions__ 
 
@@ -111,7 +111,7 @@
 
     1992—Subsec. (a). [Pub. L. 102–572][/us/pl/102/572] substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in concluding provisions.
 
-    Subsecs. (b)(2), (c)(1)(C)(iii). [Pub. L. 102–572, § 902(b)(2)][/us/pl/102/572/s902/b/2], substituted “Court of Federal Claims” for “Claims Court”.
+    Subsecs. (b)(2), (c)(1)(C)(iii). [Pub. L. 102–572][/us/pl/102/572], § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
     1984—Subsec. (d). [Pub. L. 98–369][/us/pl/98/369] added subsec. (d).
 
@@ -121,7 +121,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 406(b)][/us/pl/114/113/s406/b], Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 406(b), Dec. 18, 2015, [129 Stat. 3120][/us/stat/129/3120], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to pleadings filed after the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -131,7 +131,7 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title III, § 317(b)][/us/pl/108/357/s317/b], Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470], provided that: 
+[Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 317(b), Oct. 22, 2004, [118 Stat. 1470][/us/stat/118/1470], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to pleadings filed after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -153,7 +153,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XIII, § 1306(c)][/us/pl/94/455/s1306/c], Oct. 4, 1976, [90 Stat. 1720][/us/stat/90/1720], provided that: 
+[Pub. L. 94–455, title XIII][/us/pl/94/455/tXIII], § 1306(c), Oct. 4, 1976, [90 Stat. 1720][/us/stat/90/1720], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting [section 1507 of Title 28][/us/usc/t28/s1507], Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
 
@@ -164,36 +164,36 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fa
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1717
-[/us/pl/95/600/s701/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fdd%2F2
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2924
-[/us/pl/97/164/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs152
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F46
-[/us/pl/98/369/s1033/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1033%2Fb
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1039
-[/us/pl/102/572/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/108/357/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs317%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1470
-[/us/pl/109/280/s1223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1223%2Fc
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1091
-[/us/pl/114/113/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs406%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
+[/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/114/113/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs406%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3120
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1223/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1223%2Ff
 [/us/usc/t26/s6033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6033
-[/us/pl/108/357/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs317%2Fb
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1470
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
@@ -207,7 +207,7 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/600/s701/dd/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fdd%2F3
 [/us/usc/t26/s7476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7476
-[/us/pl/94/455/s1306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1306%2Fc
+[/us/pl/94/455/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIII
 [/us/stat/90/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1720
 [/us/usc/t28/s1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1507
 

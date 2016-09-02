@@ -31,7 +31,7 @@
 
         No person shall be relieved from compliance with a State unemployment compensation law on the ground that services were performed on land or premises owned, held, or possessed by the United States, and any State shall have full jurisdiction and power to enforce the provisions of such law to the same extent and with the same effect as though such place were not owned, held, or possessed by the United States.
 
-    \[(e) __Repealed.__  __[__  __Sept. 1, 1954, ch. 1212, § 4(c)__  __][/us/act/1954-09-01/ch1212/s4/c]__  __,__  __[__  __68 Stat. 1135__  __][/us/stat/68/1135]__  __\]__ 
+    \[(e) __Repealed.__  __[__  __Sept. 1, 1954, ch. 1212__  __][/us/act/1954-09-01/ch1212]__  __, § 4(c),__  __[__  __68 Stat. 1135__  __][/us/stat/68/1135]__  __\]__ 
 
     (f) __American vessels__ 
 
@@ -63,13 +63,13 @@
 
         Any person required, pursuant to the permission granted by this section, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 shall not be entitled to the credits permitted, with respect to the unemployment compensation law of a State, by subsections (a) and (b) of section 3302 against the tax imposed by section 3301 for any taxable year if, on October 31 of such taxable year, the Secretary of Labor certifies to the Secretary of the Treasury his finding, after reasonable notice and opportunity for hearing to the State agency, that the unemployment compensation law of such State is inconsistent with any one or more of the conditions on the basis of which such permission is granted or that, in the application of the State law with respect to the 12-month period ending on such October 31, there has been a substantial failure to comply with any one or more of such conditions. For purposes of section 3310, a finding of the Secretary of Labor under this subsection shall be treated as a finding under section 3304(c).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 445][/us/stat/68A/445]; [Sept. 1, 1954, ch. 1212, § 4(c)][/us/act/1954-09-01/ch1212/s4/c], [68 Stat. 1135][/us/stat/68/1135]; [Pub. L. 86–778, title V, § 531(a)][/us/pl/86/778/s531/a], (b), Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983]; [Pub. L. 91–373, title I, § 123][/us/pl/91/373/s123], Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 114–92, div. C, title XXXV, § 3503][/us/pl/114/92/s3503], Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 445][/us/stat/68A/445]; [Sept. 1, 1954, ch. 1212][/us/act/1954-09-01/ch1212], § 4(c), [68 Stat. 1135][/us/stat/68/1135]; [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 531(a), (b), Sept. 13, 1960, [74 Stat. 983][/us/stat/74/983]; [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 123, Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 114–92, div. C, title XXXV][/us/pl/114/92/dC/tXXXV], § 3503, Nov. 25, 2015, [129 Stat. 1219][/us/stat/129/1219].)
 
  __Amendments__ 
 
     2015—Subsecs. (g), (h)(2), (i). [Pub. L. 114–92][/us/pl/114/92] substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
-    1976—Subsec. (g). [Pub. L. 94–455, § 1903(a)(15)(A)][/us/pl/94/455/s1903/a/15/A], struck out “on or after July 1, 1953,” after “respect to service performed”.
+    1976—Subsec. (g). [Pub. L. 94–455][/us/pl/94/455], § 1903(a)(15)(A), struck out “on or after July 1, 1953,” after “respect to service performed”.
 
     Subsec. (h). [Pub. L. 94–455][/us/pl/94/455], 1903(a)(15)(B), struck out “on or after July 1, 1953, and” after “as to service performed”.
 
@@ -77,27 +77,27 @@
 
     1970—Subsec. (j). [Pub. L. 91–373][/us/pl/91/373] added subsec. (j).
 
-    1960—Subsec. (b). [Pub. L. 86–778, § 531(a)][/us/pl/86/778/s531/a], substituted “(other than an instrumentality to which section 3306(c)(6) applies)” for “except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law,” and added cl. (C).
+    1960—Subsec. (b). [Pub. L. 86–778][/us/pl/86/778], § 531(a), substituted “(other than an instrumentality to which section 3306(c)(6) applies)” for “except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law,” and added cl. (C).
 
-    Subsec. (g). [Pub. L. 86–778, § 531(b)][/us/pl/86/778/s531/b], substituted “neither wholly nor partially” for “not wholly”.
+    Subsec. (g). [Pub. L. 86–778][/us/pl/86/778], § 531(b), substituted “neither wholly nor partially” for “not wholly”.
 
     1954—Subsec. (e). Act Sept. 1, 1954, repealed subsec. (e) which related to the Bonneville Power Administrator.
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–778, title V, § 535][/us/pl/86/778/s535], Sept. 13, 1960, [74 Stat. 985][/us/stat/74/985], provided that: 
+[Pub. L. 86–778, title V][/us/pl/86/778/tV], § 535, Sept. 13, 1960, [74 Stat. 985][/us/stat/74/985], provided that: 
 
 > “The amendments made by this part \[part 3 (§§ 531–535) of title V of [Pub. L. 86–778][/us/pl/86/778], enacting section 3308 and amending this section and [section 3306 of this title][/us/usc/t26/s3306]\] (other than the amendments made by subsections (e) and (f) of section 531 \[amending sections 1361 and 1367 of Title 42, The Public Health and Welfare\]) shall apply with respect to remuneration paid after 1961 for services performed after 1961. The amendments made by subsections (e) and (f) of section 531 shall apply with respect to any week of unemployment which begins after December 31, 1960.”
 
- \[The second sentence of section 535 was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 661][/us/stat/80/661].\]
+ \[The second sentence of section 535 was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 661][/us/stat/80/661].\]
 
  __Effective Date of 1954 Amendment__ 
 
-    [Act Sept. 1, 1954, ch. 1212, § 4(c)][/us/act/1954-09-01/ch1212/s4/c], [68 Stat. 1135][/us/stat/68/1135], provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
+    [Act Sept. 1, 1954, ch. 1212][/us/act/1954-09-01/ch1212], § 4(c), [68 Stat. 1135][/us/stat/68/1135], provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
 
  __Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives__ 
 
-[Pub. L. 86–778, title V, § 531(g)][/us/pl/86/778/s531/g], Sept. 13, 1960, [74 Stat. 984][/us/stat/74/984], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 86–778, title V][/us/pl/86/778/tV], § 531(g), Sept. 13, 1960, [74 Stat. 984][/us/stat/74/984], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and sections 1501(a) and 1507(a) of the Social Security Act \[sections 1361(a) and 1367 of Title 42, The Public Health and Welfare\] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
 
@@ -109,38 +109,38 @@
 ----------
 
 [/us/usc/t12/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs484
-[/us/act/1954-09-01/ch1212/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212%2Fs4%2Fc
+[/us/act/1954-09-01/ch1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212
 [/us/stat/68/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1135
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F445
-[/us/act/1954-09-01/ch1212/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212%2Fs4%2Fc
+[/us/act/1954-09-01/ch1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212
 [/us/stat/68/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1135
-[/us/pl/86/778/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fa
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F983
-[/us/pl/91/373/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs123
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F702
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1809
-[/us/pl/114/92/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3503
+[/us/pl/114/92/dC/tXXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdC%2FtXXXV
 [/us/stat/129/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1219
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/94/455/s1903/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1903%2Fa%2F15%2FA
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/86/778/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fa
-[/us/pl/86/778/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fb
-[/us/pl/86/778/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs535
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F985
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/usc/t26/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3306
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F661
-[/us/act/1954-09-01/ch1212/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212%2Fs4%2Fc
+[/us/act/1954-09-01/ch1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-09-01%2Fch1212
 [/us/stat/68/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1135
-[/us/pl/86/778/s531/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs531%2Fg
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F984
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

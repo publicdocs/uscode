@@ -185,7 +185,7 @@
 
         For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.
 
-(Added [Pub. L. 101–508, title XI, § 11301(a)][/us/pl/101/508/s11301/a], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; amended [Pub. L. 103–66, title XIII, § 13261(d)][/us/pl/103/66/s13261/d], Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–191, title III, § 301(h)][/us/pl/104/191/s301/h], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(5), (b)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–173, title XII, § 1201(h)][/us/pl/108/173/s1201/h], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 109–280, title VIII, § 844(e)][/us/pl/109/280/s844/e], Aug. 17, 2006, [120 Stat. 1013][/us/stat/120/1013]; [Pub. L. 113–295, div. A, title II, § 221(a)(70)][/us/pl/113/295/s221/a/70], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
+(Added [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11301(a), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; amended [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13261(d), Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 301(h), Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(5), (b)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–173, title XII][/us/pl/108/173/tXII], § 1201(h), Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 844(e), Aug. 17, 2006, [120 Stat. 1013][/us/stat/120/1013]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(70), Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
 
@@ -195,9 +195,9 @@
 
     2003—Subsec. (e)(1)(B)(v). [Pub. L. 108–173][/us/pl/108/173] added cl. (v).
 
-    2000—Subsec. (e)(1)(B)(iv). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+    2000—Subsec. (e)(1)(B)(iv). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
 
-    [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(5)\], substituted “Archer MSA” for “medical savings account”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title II, § 202(a)(5)\], substituted “Archer MSA” for “medical savings account”.
 
     1996—Subsec. (e)(1)(B)(iv). [Pub. L. 104–191][/us/pl/104/191] added cl. (iv).
 
@@ -225,7 +225,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–508, title XI, § 11301(d)(1)][/us/pl/101/508/s11301/d/1], Nov. 5, 1990, [104 Stat. 1388–449][/us/stat/104/1388-449], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11301(d)(1), Nov. 5, 1990, [104 Stat. 1388–449][/us/stat/104/1388-449], provided that: 
 
 > “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
 
@@ -236,25 +236,25 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11301%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-445
-[/us/pl/103/66/s13261/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F539
-[/us/pl/104/191/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs301%2Fh
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2052
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/173/s1201/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fh
+[/us/pl/108/173/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2FtXII
 [/us/stat/117/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2479
-[/us/pl/109/280/s844/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fe
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1013
-[/us/pl/113/295/s221/a/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F70
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
@@ -272,7 +272,7 @@
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13261/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13261%2Fg
 [/us/usc/t26/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs197
-[/us/pl/101/508/s11301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11301%2Fd%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-449
 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s461.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schE/ptII/sptC/m__us_usc_t26_s463.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs462)
 
-## \[§ 462. Repealed. [June 15, 1955, ch. 143, § 1(b)][/us/act/1955-06-15/ch143/s1/b], [69 Stat. 134][/us/stat/69/134]\]
+## \[§ 462. Repealed. [June 15, 1955, ch. 143][/us/act/1955-06-15/ch143], § 1(b), [69 Stat. 134][/us/stat/69/134]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736] [68A Stat. 158][/us/stat/68A/158], related to reserves for estimated expenses.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1955-06-15/ch143/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch143%2Fs1%2Fb
+[/us/act/1955-06-15/ch143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-15%2Fch143
 [/us/stat/69/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F134
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F158

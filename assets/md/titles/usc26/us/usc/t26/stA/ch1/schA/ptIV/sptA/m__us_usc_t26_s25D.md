@@ -151,11 +151,11 @@
 
         The credit allowed under this section shall not apply to property placed in service after December 31, 2016.
 
-(Added [Pub. L. 109–58, title XIII, § 1335(a)][/us/pl/109/58/s1335/a], Aug. 8, 2005, [119 Stat. 1033][/us/stat/119/1033]; amended [Pub. L. 109–135, title IV, § 402(i)(1)][/us/pl/109/135/s402/i/1], (2), (3)(E), Dec. 21, 2005, [119 Stat. 2612][/us/stat/119/2612], 2614; [Pub. L. 109–432, div. A, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title I, § 106(a)][/us/pl/110/343/s106/a]–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, [122 Stat. 3814–3816][/us/stat/122/3814-3816]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(B), 1122(a), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 324; [Pub. L. 112–240, title I, § 104(c)(2)(F)][/us/pl/112/240/s104/c/2/F], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 114–113, div. P, title III, § 304(a)][/us/pl/114/113/s304/a], Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1335(a), Aug. 8, 2005, [119 Stat. 1033][/us/stat/119/1033]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 402(i)(1), (2), (3)(E), Dec. 21, 2005, [119 Stat. 2612][/us/stat/119/2612], 2614; [Pub. L. 109–432, div. A, title II][/us/pl/109/432/dA/tII], § 206, Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, [122 Stat. 3814–3816][/us/stat/122/3814-3816]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], §§ 1103(b)(2)(B), 1122(a), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 324; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 104(c)(2)(F), Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 114–113, div. P, title III][/us/pl/114/113/dP/tIII], § 304(a), Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039].)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–113, div. P, title III, § 304][/us/pl/114/113/s304], Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039], provided that, effective Jan. 1, 2017, this section is amended as follows:
+    [Pub. L. 114–113, div. P, title III][/us/pl/114/113/dP/tIII], § 304, Dec. 18, 2015, [129 Stat. 3039][/us/stat/129/3039], provided that, effective Jan. 1, 2017, this section is amended as follows:
 
     (1) in paragraphs (1) and (2) of subsection (a), by striking “30 percent” each place it appears and inserting “the applicable percentage”;
 
@@ -179,63 +179,63 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1), (2). [Pub. L. 114–113, § 304(a)(1)][/us/pl/114/113/s304/a/1], substituted “the applicable percentage” for “30 percent”.
+    2015—Subsec. (a)(1), (2). [Pub. L. 114–113][/us/pl/114/113], § 304(a)(1), substituted “the applicable percentage” for “30 percent”.
 
-    Subsec. (g). [Pub. L. 114–113, § 304(a)(4)][/us/pl/114/113/s304/a/4], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 114–113][/us/pl/114/113], § 304(a)(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    [Pub. L. 114–113, § 304(a)(2)][/us/pl/114/113/s304/a/2], inserted “(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)” before period at end.
+    [Pub. L. 114–113][/us/pl/114/113], § 304(a)(2), inserted “(December 31, 2021, in the case of any qualified solar electric property expenditures and qualified solar water heating property expenditures)” before period at end.
 
-    Subsec. (h). [Pub. L. 114–113, § 304(a)(3)][/us/pl/114/113/s304/a/3], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 114–113][/us/pl/114/113], § 304(a)(3), redesignated subsec. (g) as (h).
 
     2013—Subsec. (c). [Pub. L. 112–240][/us/pl/112/240] amended subsec. (c) generally. Prior to amendment, subsec. (c) related to limitation based on amount of tax and carryforward of unused credit.
 
-    2009—Subsec. (b)(1). [Pub. L. 111–5, § 1122(a)(1)][/us/pl/111/5/s1122/a/1], amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+    2009—Subsec. (b)(1). [Pub. L. 111–5][/us/pl/111/5], § 1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-    Subsec. (e)(4). [Pub. L. 111–5, § 1122(a)(2)(A)][/us/pl/111/5/s1122/a/2/A], added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
+    Subsec. (e)(4). [Pub. L. 111–5][/us/pl/111/5], § 1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
 
-    Subsec. (e)(4)(A). [Pub. L. 111–5, § 1122(a)(2)(A)][/us/pl/111/5/s1122/a/2/A], added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
+    Subsec. (e)(4)(A). [Pub. L. 111–5][/us/pl/111/5], § 1122(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-    Subsec. (e)(4)(C). [Pub. L. 111–5, § 1122(a)(2)(B)][/us/pl/111/5/s1122/a/2/B], struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).”
+    Subsec. (e)(4)(C). [Pub. L. 111–5][/us/pl/111/5], § 1122(a)(2)(B), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).”
 
-    Subsec. (e)(9). [Pub. L. 111–5, § 1103(b)(2)(B)][/us/pl/111/5/s1103/b/2/B], struck out par. (9). Text read as follows: “For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).”
+    Subsec. (e)(9). [Pub. L. 111–5][/us/pl/111/5], § 1103(b)(2)(B), struck out par. (9). Text read as follows: “For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).”
 
-    2008—Subsec. (a)(4). [Pub. L. 110–343, § 106(c)(1)][/us/pl/110/343/s106/c/1], added par. (4).
+    2008—Subsec. (a)(4). [Pub. L. 110–343][/us/pl/110/343], § 106(c)(1), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 110–343, § 106(d)(1)][/us/pl/110/343/s106/d/1], added par. (5).
+    Subsec. (a)(5). [Pub. L. 110–343][/us/pl/110/343], § 106(d)(1), added par. (5).
 
-    Subsec. (b)(1). [Pub. L. 110–343, § 106(b)(1)][/us/pl/110/343/s106/b/1], amended par. (1) as amended by [Pub. L. 110–343, § 106(c)(2)][/us/pl/110/343/s106/c/2] and (d)(2), by redesignating subpars. (B) to (E) as (A) to (D), respectively, and striking out former subpar. (A) which read as follows: “$2,000 with respect to any qualified solar electric property expenditures,”.
+    Subsec. (b)(1). [Pub. L. 110–343][/us/pl/110/343], § 106(b)(1), amended par. (1) as amended by [Pub. L. 110–343][/us/pl/110/343], § 106(c)(2) and (d)(2), by redesignating subpars. (B) to (E) as (A) to (D), respectively, and striking out former subpar. (A) which read as follows: “$2,000 with respect to any qualified solar electric property expenditures,”.
 
-    Subsec. (b)(1)(D). [Pub. L. 110–343, § 106(c)(2)][/us/pl/110/343/s106/c/2], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 110–343][/us/pl/110/343], § 106(c)(2), added subpar. (D).
 
-    Subsec. (b)(1)(E). [Pub. L. 110–343, § 106(d)(2)][/us/pl/110/343/s106/d/2], added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 110–343][/us/pl/110/343], § 106(d)(2), added subpar. (E).
 
-    Subsec. (c). [Pub. L. 110–343, § 106(e)(1)][/us/pl/110/343/s106/e/1], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to carryforward of unused credit.
+    Subsec. (c). [Pub. L. 110–343][/us/pl/110/343], § 106(e)(1), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to carryforward of unused credit.
 
-    Subsec. (d)(4). [Pub. L. 110–343, § 106(c)(3)(A)][/us/pl/110/343/s106/c/3/A], added par. (4).
+    Subsec. (d)(4). [Pub. L. 110–343][/us/pl/110/343], § 106(c)(3)(A), added par. (4).
 
-    Subsec. (d)(5). [Pub. L. 110–343, § 106(d)(3)][/us/pl/110/343/s106/d/3], added par. (5).
+    Subsec. (d)(5). [Pub. L. 110–343][/us/pl/110/343], § 106(d)(3), added par. (5).
 
-    Subsec. (e)(4)(A). [Pub. L. 110–343, § 106(b)(2)][/us/pl/110/343/s106/b/2], amended subpar. (A) as amended by [Pub. L. 110–343, § 106(c)(4)][/us/pl/110/343/s106/c/4] and (d)(4), by redesignating cls. (ii) to (v) as (i) to (iv), respectively, and striking out former cl. (i) which read as follows: “$6,667 in the case of any qualified solar electric property expenditures,”.
+    Subsec. (e)(4)(A). [Pub. L. 110–343][/us/pl/110/343], § 106(b)(2), amended subpar. (A) as amended by [Pub. L. 110–343][/us/pl/110/343], § 106(c)(4) and (d)(4), by redesignating cls. (ii) to (v) as (i) to (iv), respectively, and striking out former cl. (i) which read as follows: “$6,667 in the case of any qualified solar electric property expenditures,”.
 
-    Subsec. (e)(4)(A)(iv). [Pub. L. 110–343, § 106(c)(4)][/us/pl/110/343/s106/c/4], added cl. (iv).
+    Subsec. (e)(4)(A)(iv). [Pub. L. 110–343][/us/pl/110/343], § 106(c)(4), added cl. (iv).
 
-    Subsec. (e)(4)(A)(v). [Pub. L. 110–343, § 106(d)(4)][/us/pl/110/343/s106/d/4], added cl. (v).
+    Subsec. (e)(4)(A)(v). [Pub. L. 110–343][/us/pl/110/343], § 106(d)(4), added cl. (v).
 
-    Subsec. (g). [Pub. L. 110–343, § 106(a)][/us/pl/110/343/s106/a], substituted “December 31, 2016” for “December 31, 2008”.
+    Subsec. (g). [Pub. L. 110–343][/us/pl/110/343], § 106(a), substituted “December 31, 2016” for “December 31, 2008”.
 
-    2006—Subsecs. (a)(1), (b)(1)(A). [Pub. L. 109–432, § 206(b)(1)][/us/pl/109/432/s206/b/1], substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
+    2006—Subsecs. (a)(1), (b)(1)(A). [Pub. L. 109–432][/us/pl/109/432], § 206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
 
-    Subsec. (d)(2). [Pub. L. 109–432, § 206(b)(2)][/us/pl/109/432/s206/b/2], substituted “solar electric property expenditure” for “photovoltaic property expenditure” in heading and text.
+    Subsec. (d)(2). [Pub. L. 109–432][/us/pl/109/432], § 206(b)(2), substituted “solar electric property expenditure” for “photovoltaic property expenditure” in heading and text.
 
-    Subsec. (e)(4)(A)(i). [Pub. L. 109–432, § 206(b)(1)][/us/pl/109/432/s206/b/1], substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
+    Subsec. (e)(4)(A)(i). [Pub. L. 109–432][/us/pl/109/432], § 206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
 
-    Subsec. (g). [Pub. L. 109–432, § 206(a)][/us/pl/109/432/s206/a], substituted “2008” for “2007”.
+    Subsec. (g). [Pub. L. 109–432][/us/pl/109/432], § 206(a), substituted “2008” for “2007”.
 
-    2005—Subsec. (b)(1). [Pub. L. 109–135, § 402(i)(1)][/us/pl/109/135/s402/i/1], inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
+    2005—Subsec. (b)(1). [Pub. L. 109–135][/us/pl/109/135], § 402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 109–135, § 402(i)(3)(E)][/us/pl/109/135/s402/i/3/E], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.”
+    Subsec. (c). [Pub. L. 109–135][/us/pl/109/135], § 402(i)(3)(E), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.”
 
-    Subsec. (e)(4)(A), (B). [Pub. L. 109–135, § 402(i)(2)][/us/pl/109/135/s402/i/2], amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+    Subsec. (e)(4)(A), (B). [Pub. L. 109–135][/us/pl/109/135], § 402(i)(2), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
     “(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
@@ -243,7 +243,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. P, title III, § 304(b)][/us/pl/114/113/s304/b], Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
+[Pub. L. 114–113, div. P, title III][/us/pl/114/113/dP/tIII], § 304(b), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 2017.”
 
@@ -255,7 +255,7 @@
 
     Amendment by [section 1103(b)(2)(B) of Pub. L. 111–5][/us/pl/111/5/s1103/b/2/B] applicable to taxable years beginning after Dec. 31, 2008, see [section 1103(c)(2) of Pub. L. 111–5][/us/pl/111/5/s1103/c/2], set out as a note under [section 25C of this title][/us/usc/t26/s25C].
 
-[Pub. L. 111–5, div. B, title I, § 1122(b)][/us/pl/111/5/s1122/b], Feb. 17, 2009, [123 Stat. 324][/us/stat/123/324], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1122(b), Feb. 17, 2009, [123 Stat. 324][/us/stat/123/324], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
@@ -265,7 +265,7 @@
 
  __Effective and Termination Dates of 2005 Amendment__ 
 
-    Amendment by [section 402(i)(3)(E) of Pub. L. 109–135][/us/pl/109/135/s402/i/3/E] subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, [Pub. L. 107–16, § 901][/us/pl/107/16/s901], in the same manner as the provisions of such Act to which such amendment relates, see [section 402(i)(3)(H) of Pub. L. 109–135][/us/pl/109/135/s402/i/3/H], set out as a note under [section 23 of this title][/us/usc/t26/s23]. Title IX of [Pub. L. 107–16][/us/pl/107/16] was repealed by [Pub. L. 112–240, title I, § 101(a)(1)][/us/pl/112/240/s101/a/1], Jan. 2, 2013, [126 Stat. 2315][/us/stat/126/2315].
+    Amendment by [section 402(i)(3)(E) of Pub. L. 109–135][/us/pl/109/135/s402/i/3/E] subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, [Pub. L. 107–16][/us/pl/107/16], § 901, in the same manner as the provisions of such Act to which such amendment relates, see [section 402(i)(3)(H) of Pub. L. 109–135][/us/pl/109/135/s402/i/3/H], set out as a note under [section 23 of this title][/us/usc/t26/s23]. Title IX of [Pub. L. 107–16][/us/pl/107/16] was repealed by [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 101(a)(1), Jan. 2, 2013, [126 Stat. 2315][/us/stat/126/2315].
 
     Amendments by [Pub. L. 109–135][/us/pl/109/135] effective as if included in the provisions of the Energy Policy Act of 2005, [Pub. L. 109–58][/us/pl/109/58], to which they relate, except that amendment by [section 402(i)(3)(E) of Pub. L. 109–135][/us/pl/109/135/s402/i/3/E] is applicable to taxable years beginning after Dec. 31, 2005, see [section 402(m) of Pub. L. 109–135][/us/pl/109/135/s402/m], set out as a note under [section 23 of this title][/us/usc/t26/s23].
 
@@ -280,54 +280,54 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1335/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1335%2Fa
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1033
-[/us/pl/109/135/s402/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2612
-[/us/pl/109/432/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206
+[/us/pl/109/432/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtII
 [/us/stat/120/2945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2945
-[/us/pl/110/343/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3814-3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3814-3816
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F320
-[/us/pl/112/240/s104/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FF
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
-[/us/pl/114/113/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa
+[/us/pl/114/113/dP/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtIII
 [/us/stat/129/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3039
-[/us/pl/114/113/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304
+[/us/pl/114/113/dP/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtIII
 [/us/stat/129/3039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3039
-[/us/pl/114/113/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F1
-[/us/pl/114/113/s304/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F4
-[/us/pl/114/113/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F2
-[/us/pl/114/113/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fa%2F3
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/111/5/s1122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F1
-[/us/pl/111/5/s1122/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F2%2FA
-[/us/pl/111/5/s1122/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F2%2FA
-[/us/pl/111/5/s1122/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fa%2F2%2FB
-[/us/pl/111/5/s1103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fb%2F2%2FB
-[/us/pl/110/343/s106/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F1
-[/us/pl/110/343/s106/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fd%2F1
-[/us/pl/110/343/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fb%2F1
-[/us/pl/110/343/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F2
-[/us/pl/110/343/s106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F2
-[/us/pl/110/343/s106/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fd%2F2
-[/us/pl/110/343/s106/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fe%2F1
-[/us/pl/110/343/s106/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F3%2FA
-[/us/pl/110/343/s106/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fd%2F3
-[/us/pl/110/343/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fb%2F2
-[/us/pl/110/343/s106/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F4
-[/us/pl/110/343/s106/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fc%2F4
-[/us/pl/110/343/s106/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fd%2F4
-[/us/pl/110/343/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fa
-[/us/pl/109/432/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2Fb%2F1
-[/us/pl/109/432/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2Fb%2F2
-[/us/pl/109/432/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2Fb%2F1
-[/us/pl/109/432/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs206%2Fa
-[/us/pl/109/135/s402/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F1
-[/us/pl/109/135/s402/i/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F3%2FE
-[/us/pl/109/135/s402/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F2
-[/us/pl/114/113/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs304%2Fb
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/113/dP/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtIII
 [/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fd
@@ -335,18 +335,18 @@
 [/us/pl/111/5/s1103/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fb%2F2%2FB
 [/us/pl/111/5/s1103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fc%2F2
 [/us/usc/t26/s25C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25C
-[/us/pl/111/5/s1122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1122%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F324
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs106%2Fb
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
 [/us/pl/109/135/s402/i/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F3%2FE
-[/us/pl/107/16/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs901
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/109/135/s402/i/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fi%2F3%2FH
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
-[/us/pl/112/240/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fa%2F1
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2315
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58

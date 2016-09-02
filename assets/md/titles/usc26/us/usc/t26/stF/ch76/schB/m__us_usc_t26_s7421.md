@@ -27,11 +27,11 @@
 
         (2) the amount of the liability of a fiduciary under [section 3713(b) of title 31][/us/usc/t31/s3713/b], United States Code  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  in respect of any such tax.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 876][/us/stat/68A/876]; [Pub. L. 89–719, title I, § 110(c)][/us/pl/89/719/s110/c], Nov. 2, 1966, [80 Stat. 1144][/us/stat/80/1144]; [Pub. L. 94–455, title XII, § 1204(c)(11)][/us/pl/94/455/s1204/c/11], Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699]; [Pub. L. 95–628, § 9(b)(1)][/us/pl/95/628/s9/b/1], Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 97–258, § 3(f)(13)][/us/pl/97/258/s3/f/13], Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34], §§ 1222(b)(1), 1239(e)(3), title XIV, § 1454(b)(2), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028, 1057; [Pub. L. 105–206, title III, § 3201(e)(3)][/us/pl/105/206/s3201/e/3], July 22, 1998, [112 Stat. 740][/us/stat/112/740]; [Pub. L. 105–277, div. J, title IV, § 4002(c)(1)][/us/pl/105/277/s4002/c/1], (f), Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906], 2681–907; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, §§ 313(b)(2)(B), 319(24)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–647; [Pub. L. 114–74, title XI, § 1101(f)(10)][/us/pl/114/74/s1101/f/10], Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 876][/us/stat/68A/876]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 110(c), Nov. 2, 1966, [80 Stat. 1144][/us/stat/80/1144]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(c)(11), Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699]; [Pub. L. 95–628][/us/pl/95/628], § 9(b)(1), Nov. 10, 1978, [92 Stat. 3633][/us/stat/92/3633]; [Pub. L. 97–258][/us/pl/97/258], § 3(f)(13), Sept. 13, 1982, [96 Stat. 1065][/us/stat/96/1065]; [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], §§ 1222(b)(1), 1239(e)(3), title XIV, § 1454(b)(2), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], 1028, 1057; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3201(e)(3), July 22, 1998, [112 Stat. 740][/us/stat/112/740]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4002(c)(1), (f), Oct. 21, 1998, [112 Stat. 2681–906][/us/stat/112/2681-906], 2681–907; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, §§ 313(b)(2)(B), 319(24)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642, 2763A–647; [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(10), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638].)
 
  __Amendment of Subsection (a)__ 
 
-    [Pub. L. 114–74, title XI, § 1101(f)(10)][/us/pl/114/74/s1101/f/10], (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (a) of this section is amended by striking “6225(b), 6246(b)” and inserting “6232(c)”. See 2015 Amendment note below.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(f)(10), (g), Nov. 2, 2015, [129 Stat. 638][/us/stat/129/638], provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, subsection (a) of this section is amended by striking “6225(b), 6246(b)” and inserting “6232(c)”. See 2015 Amendment note below.
 
  __Amendments__ 
 
@@ -43,11 +43,11 @@
 
     [Pub. L. 105–206][/us/pl/105/206] inserted “6015(d),” after “sections”.
 
-    1997—Subsec. (a). [Pub. L. 105–34, § 1454(b)(2)][/us/pl/105/34/s1454/b/2], substituted “7429(b), and 7436” for “and 7429(b)”.
+    1997—Subsec. (a). [Pub. L. 105–34][/us/pl/105/34], § 1454(b)(2), substituted “7429(b), and 7436” for “and 7429(b)”.
 
-    [Pub. L. 105–34, § 1239(e)(3)][/us/pl/105/34/s1239/e/3], inserted “6225(b),” after “6213(a),”.
+    [Pub. L. 105–34][/us/pl/105/34], § 1239(e)(3), inserted “6225(b),” after “6213(a),”.
 
-    [Pub. L. 105–34, § 1222(b)(1)][/us/pl/105/34/s1222/b/1], inserted “6246(b),” after “6213(a),”.
+    [Pub. L. 105–34][/us/pl/105/34], § 1222(b)(1), inserted “6246(b),” after “6213(a),”.
 
     1982—Subsec. (b)(2). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 3713(b) of title 31][/us/usc/t31/s3713/b], United States Code” for “section 3467 of the Revised Statutes ([31 U.S.C. 192][/us/usc/t31/s192])”.
 
@@ -89,7 +89,7 @@
 
  __Prohibition on Requests to Taxpayers To Give Up Rights To Bring Actions__ 
 
-[Pub. L. 105–206, title III, § 3468][/us/pl/105/206/s3468], July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3468, July 22, 1998, [112 Stat. 770][/us/stat/112/770], provided that:
 
 >     “(a)  __Prohibition__  __.—__ 
 
@@ -113,33 +113,33 @@
 [/us/usc/t31/s3713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fb
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F876
-[/us/pl/89/719/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs110%2Fc
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1144
-[/us/pl/94/455/s1204/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F11
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1699
-[/us/pl/95/628/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628%2Fs9%2Fb%2F1
+[/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
 [/us/stat/92/3633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3633
-[/us/pl/97/258/s3/f/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3%2Ff%2F13
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1065
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
-[/us/pl/105/206/s3201/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3201%2Fe%2F3
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F740
-[/us/pl/105/277/s4002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4002%2Fc%2F1
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-906
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/114/74/s1101/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F10
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
-[/us/pl/114/74/s1101/f/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Ff%2F10
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F638
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1454/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1454%2Fb%2F2
-[/us/pl/105/34/s1239/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fe%2F3
-[/us/pl/105/34/s1222/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fb%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s3713/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713%2Fb
 [/us/usc/t31/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs192
@@ -174,7 +174,7 @@
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
-[/us/pl/105/206/s3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3468
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F770
 
 

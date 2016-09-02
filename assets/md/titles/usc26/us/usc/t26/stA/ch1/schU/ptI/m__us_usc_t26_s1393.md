@@ -77,11 +77,11 @@
 
         For purposes of this title, the terms “empowerment zone” and “enterprise community” mean areas designated as such under section 1391.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 547][/us/stat/107/547].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 547][/us/stat/107/547].)
 
  __Prior Provisions__ 
 
-    A prior section 1393, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2894][/us/stat/92/2894]; amended [Pub. L. 96–595, § 3(a)(5)][/us/pl/96/595/s3/a/5], (6), (8), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to taxation of general stock ownership corporation taxable income to shareholders, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
+    A prior section 1393, added [Pub. L. 95–600, title VI][/us/pl/95/600/tVI], § 601(a), Nov. 6, 1978, [92 Stat. 2894][/us/stat/92/2894]; amended [Pub. L. 96–595][/us/pl/96/595], § 3(a)(5), (6), (8), Dec. 24, 1980, [94 Stat. 3465][/us/stat/94/3465], related to taxation of general stock ownership corporation taxable income to shareholders, prior to repeal by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(a), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
 ----------
 
@@ -90,13 +90,13 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F547
-[/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
+[/us/pl/95/600/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVI
 [/us/stat/92/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2894
-[/us/pl/96/595/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595%2Fs3%2Fa%2F5
+[/us/pl/96/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595
 [/us/stat/94/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3465
-[/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
 
 

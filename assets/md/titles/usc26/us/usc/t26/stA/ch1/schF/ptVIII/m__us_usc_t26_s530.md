@@ -229,11 +229,11 @@
 
         The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added [Pub. L. 105–34, title II, § 213(a)][/us/pl/105/34/s213/a], Aug. 5, 1997, [111 Stat. 813][/us/stat/111/813]; amended [Pub. L. 105–206, title VI, § 6004(d)(1)][/us/pl/105/206/s6004/d/1]–(3)(A), (5)–(8), July 22, 1998, [112 Stat. 793][/us/stat/112/793], 794; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(6)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV][/us/pl/107/16], §§ 401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, [115 Stat. 57–61][/us/stat/115/57-61]; [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1]–(5), July 26, 2001, [115 Stat. 196][/us/stat/115/196]; [Pub. L. 107–147, title IV, § 411(f)][/us/pl/107/147/s411/f], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 108–121, title I, § 107(a)][/us/pl/108/121/s107/a], Nov. 11, 2003, [117 Stat. 1339][/us/stat/117/1339]; [Pub. L. 108–311, title IV][/us/pl/108/311], §§ 404(a), 406(b), Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188], 1189; [Pub. L. 109–135, title IV, § 412(ff)][/us/pl/109/135/s412/ff], Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 110–245, title I, § 109(c)][/us/pl/110/245/s109/c], June 17, 2008, [122 Stat. 1632][/us/stat/122/1632].)
+(Added [Pub. L. 105–34, title II][/us/pl/105/34/tII], § 213(a), Aug. 5, 1997, [111 Stat. 813][/us/stat/111/813]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, [112 Stat. 793][/us/stat/112/793], 794; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(6)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV][/us/pl/107/16/tIV], §§ 401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, [115 Stat. 57–61][/us/stat/115/57-61]; [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1)–(5), July 26, 2001, [115 Stat. 196][/us/stat/115/196]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(f), Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 108–121, title I][/us/pl/108/121/tI], § 107(a), Nov. 11, 2003, [117 Stat. 1339][/us/stat/117/1339]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], §§ 404(a), 406(b), Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188], 1189; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(ff), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 110–245, title I][/us/pl/110/245/tI], § 109(c), June 17, 2008, [122 Stat. 1632][/us/stat/122/1632].)
 
  __References in Text__ 
 
-    Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
+    Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(28)(B), Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
     The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of [Pub. L. 105–34][/us/pl/105/34], which enacted this section and was approved Aug. 5, 1997.
 
@@ -241,89 +241,89 @@
 
     2008—Subsec. (d)(9). [Pub. L. 110–245][/us/pl/110/245] added par. (9).
 
-    2005—Subsec. (b)(2)(A)(ii). [Pub. L. 109–135, § 412(ff)(2)][/us/pl/109/135/s412/ff/2], substituted “paragraph (3)” for “paragraph (4)”.
+    2005—Subsec. (b)(2)(A)(ii). [Pub. L. 109–135][/us/pl/109/135], § 412(ff)(2), substituted “paragraph (3)” for “paragraph (4)”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 109–135, § 412(ff)(1)][/us/pl/109/135/s412/ff/1], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The term ‘eligible educational institution’ has the meaning given such term by section 529(e)(5).”
+    Subsec. (b)(3) to (5). [Pub. L. 109–135][/us/pl/109/135], § 412(ff)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The term ‘eligible educational institution’ has the meaning given such term by section 529(e)(5).”
 
-    2004—Subsec. (d)(2)(C)(i). [Pub. L. 108–311, § 404(a)][/us/pl/108/311/s404/a], struck out “higher” after “qualified” in introductory provisions.
+    2004—Subsec. (d)(2)(C)(i). [Pub. L. 108–311][/us/pl/108/311], § 404(a), struck out “higher” after “qualified” in introductory provisions.
 
-    Subsec. (d)(4)(B)(iii). [Pub. L. 108–311, § 406(b)][/us/pl/108/311/s406/b], substituted “designated beneficiary” for “account holder”.
+    Subsec. (d)(4)(B)(iii). [Pub. L. 108–311][/us/pl/108/311], § 406(b), substituted “designated beneficiary” for “account holder”.
 
     2003—Subsec. (d)(4)(B)(iv), (v). [Pub. L. 108–121][/us/pl/108/121] added cl. (iv) and redesignated former cl. (iv) as (v).
 
     2002—Subsec. (d)(4)(B)(iv). [Pub. L. 107–147][/us/pl/107/147] substituted “by application of paragraph (2)(C)(i)(II)” for “because the taxpayer elected under paragraph (2)(C) to waive the application of paragraph (2)”.
 
-    2001—[Pub. L. 107–22, § 1(a)(5)][/us/pl/107/22/s1/a/5], amended section catchline generally, substituting “Coverdell education savings” for “Education individual retirement”.
+    2001—[Pub. L. 107–22][/us/pl/107/22], § 1(a)(5), amended section catchline generally, substituting “Coverdell education savings” for “Education individual retirement”.
 
-    Subsec. (a). [Pub. L. 107–22, § 1(a)(2)][/us/pl/107/22/s1/a/2], substituted “A Coverdell education savings account” for “An education individual retirement account” and “the Coverdell education savings account” for “the education individual retirement account”.
+    Subsec. (a). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(2), substituted “A Coverdell education savings account” for “An education individual retirement account” and “the Coverdell education savings account” for “the education individual retirement account”.
 
-    Subsec. (b)(1). [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1], (3), in heading, substituted “Coverdell education savings account” for “Education individual retirement account” and, in introductory provisions, substituted “ ‘Coverdell education savings account’ ” for “ ‘education individual retirement account’ ” and “designated as a Coverdell education savings account” for “designated as an education individual retirement account”.
+    Subsec. (b)(1). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1), (3), in heading, substituted “Coverdell education savings account” for “Education individual retirement account” and, in introductory provisions, substituted “ ‘Coverdell education savings account’ ” for “ ‘education individual retirement account’ ” and “designated as a Coverdell education savings account” for “designated as an education individual retirement account”.
 
-    [Pub. L. 107–16, § 401(d)][/us/pl/107/16/s401/d], inserted concluding provisions.
+    [Pub. L. 107–16][/us/pl/107/16], § 401(d), inserted concluding provisions.
 
-    [Pub. L. 107–16, § 401(c)(3)(A)][/us/pl/107/16/s401/c/3/A], struck out “higher” before “education expenses” in introductory provisions.
+    [Pub. L. 107–16][/us/pl/107/16], § 401(c)(3)(A), struck out “higher” before “education expenses” in introductory provisions.
 
-    Subsec. (b)(1)(A)(iii). [Pub. L. 107–16, § 401(a)(1)][/us/pl/107/16/s401/a/1], substituted “$2,000” for “$500”.
+    Subsec. (b)(1)(A)(iii). [Pub. L. 107–16][/us/pl/107/16], § 401(a)(1), substituted “$2,000” for “$500”.
 
-    Subsec. (b)(2). [Pub. L. 107–16, § 401(c)(1)][/us/pl/107/16/s401/c/1], amended heading and text of par. (2) generally, substituting present provisions for provisions which defined “qualified higher education expenses” as having the meaning given such term by section 529(e)(3), reduced as provided in section 25A(g)(2), and including amounts paid or incurred to purchase tuition credits or certificates, or to make contributions to an account, under a qualified State tuition program for the benefit of the beneficiary of the account.
+    Subsec. (b)(2). [Pub. L. 107–16][/us/pl/107/16], § 401(c)(1), amended heading and text of par. (2) generally, substituting present provisions for provisions which defined “qualified higher education expenses” as having the meaning given such term by section 529(e)(3), reduced as provided in section 25A(g)(2), and including amounts paid or incurred to purchase tuition credits or certificates, or to make contributions to an account, under a qualified State tuition program for the benefit of the beneficiary of the account.
 
-    Subsec. (b)(2)(B). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], (C), in heading, substituted “Qualified tuition” for “Qualified State tuition” and in text, substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (b)(2)(B). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), (C), in heading, substituted “Qualified tuition” for “Qualified State tuition” and in text, substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (b)(4). [Pub. L. 107–16, § 401(c)(2)][/us/pl/107/16/s401/c/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 107–16][/us/pl/107/16], § 401(c)(2), added par. (4).
 
-    Subsec. (b)(5). [Pub. L. 107–16, § 401(f)(1)][/us/pl/107/16/s401/f/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 107–16][/us/pl/107/16], § 401(f)(1), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 107–16, § 401(e)][/us/pl/107/16/s401/e], substituted “In the case of a contributor who is an individual, the maximum amount the contributor” for “The maximum amount which a contributor” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 107–16][/us/pl/107/16], § 401(e), substituted “In the case of a contributor who is an individual, the maximum amount the contributor” for “The maximum amount which a contributor” in introductory provisions.
 
-    Subsec. (c)(1)(A)(ii). [Pub. L. 107–16, § 401(b)(1)][/us/pl/107/16/s401/b/1], substituted “$190,000” for “$150,000”.
+    Subsec. (c)(1)(A)(ii). [Pub. L. 107–16][/us/pl/107/16], § 401(b)(1), substituted “$190,000” for “$150,000”.
 
-    Subsec. (c)(1)(B). [Pub. L. 107–16, § 401(b)(2)][/us/pl/107/16/s401/b/2], substituted “$30,000” for “$10,000”.
+    Subsec. (c)(1)(B). [Pub. L. 107–16][/us/pl/107/16], § 401(b)(2), substituted “$30,000” for “$10,000”.
 
-    Subsec. (d)(2). [Pub. L. 107–16, § 401(c)(3)(B)][/us/pl/107/16/s401/c/3/B], struck out “higher” before “education” in heading.
+    Subsec. (d)(2). [Pub. L. 107–16][/us/pl/107/16], § 401(c)(3)(B), struck out “higher” before “education” in heading.
 
-    Subsec. (d)(2)(A), (B). [Pub. L. 107–16, § 401(c)(3)(A)][/us/pl/107/16/s401/c/3/A], struck out “higher” before “education”.
+    Subsec. (d)(2)(A), (B). [Pub. L. 107–16][/us/pl/107/16], § 401(c)(3)(A), struck out “higher” before “education”.
 
-    Subsec. (d)(2)(C). [Pub. L. 107–16, § 401(g)(1)][/us/pl/107/16/s401/g/1], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “A taxpayer may elect to waive the application of this paragraph for any taxable year.”
+    Subsec. (d)(2)(C). [Pub. L. 107–16][/us/pl/107/16], § 401(g)(1), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “A taxpayer may elect to waive the application of this paragraph for any taxable year.”
 
-    Subsec. (d)(2)(D). [Pub. L. 107–16, § 401(g)(2)(C)][/us/pl/107/16/s401/g/2/C], in heading, substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, substituted “, credit, or exclusion” for “or credit”.
+    Subsec. (d)(2)(D). [Pub. L. 107–16][/us/pl/107/16], § 401(g)(2)(C), in heading, substituted “deduction, credit, or exclusion” for “credit or deduction” and in text, substituted “, credit, or exclusion” for “or credit”.
 
-    Subsec. (d)(4)(A). [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1], substituted “a Coverdell education savings account” for “an education individual retirement account”.
+    Subsec. (d)(4)(A). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
-    Subsec. (d)(4)(C). [Pub. L. 107–16, § 401(f)(2)(B)][/us/pl/107/16/s401/f/2/B], substituted “certain date” for “due date of return” in heading.
+    Subsec. (d)(4)(C). [Pub. L. 107–16][/us/pl/107/16], § 401(f)(2)(B), substituted “certain date” for “due date of return” in heading.
 
-    Subsec. (d)(4)(C)(i). [Pub. L. 107–16, § 401(f)(2)(A)][/us/pl/107/16/s401/f/2/A], added cl. (i) and struck out former cl. (i) which read as follows: “such distribution is made on or before the day prescribed by law (including extensions of time) for filing the beneficiary’s return of tax for the taxable year or, if the beneficiary is not required to file such a return, the 15th day of the 4th month of the taxable year following the taxable year; and”.
+    Subsec. (d)(4)(C)(i). [Pub. L. 107–16][/us/pl/107/16], § 401(f)(2)(A), added cl. (i) and struck out former cl. (i) which read as follows: “such distribution is made on or before the day prescribed by law (including extensions of time) for filing the beneficiary’s return of tax for the taxable year or, if the beneficiary is not required to file such a return, the 15th day of the 4th month of the taxable year following the taxable year; and”.
 
-    Subsec. (d)(5). [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1], (4), substituted “distributed from a Coverdell education savings account” for “distributed from an education individual retirement account” and “another Coverdell education savings account” for “another education individual retirement account”.
+    Subsec. (d)(5). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1), (4), substituted “distributed from a Coverdell education savings account” for “distributed from an education individual retirement account” and “another Coverdell education savings account” for “another education individual retirement account”.
 
-    Subsec. (d)(6). [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1], substituted “a Coverdell education savings account” for “an education individual retirement account”.
+    Subsec. (d)(6). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
-    Subsec. (e). [Pub. L. 107–22, § 1(a)(4)][/us/pl/107/22/s1/a/4], substituted “Coverdell education savings account” for “education individual retirement account”.
+    Subsec. (e). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(4), substituted “Coverdell education savings account” for “education individual retirement account”.
 
-    Subsec. (h). [Pub. L. 107–22, § 1(a)(1)][/us/pl/107/22/s1/a/1], substituted “a Coverdell education savings account” for “an education individual retirement account”.
+    Subsec. (h). [Pub. L. 107–22][/us/pl/107/22], § 1(a)(1), substituted “a Coverdell education savings account” for “an education individual retirement account”.
 
     2000—Subsec. (d)(4)(B)(iii). [Pub. L. 106–554][/us/pl/106/554] substituted a comma for a semicolon before “or” at end.
 
-    1998—Subsec. (b)(1). [Pub. L. 105–206, § 6004(d)(1)][/us/pl/105/206/s6004/d/1], inserted “an individual who is” before “the designated beneficiary” in introductory provisions.
+    1998—Subsec. (b)(1). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(1), inserted “an individual who is” before “the designated beneficiary” in introductory provisions.
 
-    Subsec. (b)(1)(E). [Pub. L. 105–206, § 6004(d)(2)(A)][/us/pl/105/206/s6004/d/2/A], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Upon the death of the designated beneficiary, any balance to the credit of the beneficiary shall be distributed within 30 days after the date of death to the estate of such beneficiary.”
+    Subsec. (b)(1)(E). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(2)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Upon the death of the designated beneficiary, any balance to the credit of the beneficiary shall be distributed within 30 days after the date of death to the estate of such beneficiary.”
 
-    Subsec. (d)(1). [Pub. L. 105–206, § 6004(d)(3)(A)][/us/pl/105/206/s6004/d/3/A], substituted “section 72” for “section 72(b)”.
+    Subsec. (d)(1). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(3)(A), substituted “section 72” for “section 72(b)”.
 
-    Subsec. (d)(2)(D). [Pub. L. 105–206, § 6004(d)(5)][/us/pl/105/206/s6004/d/5], added subpar. (D).
+    Subsec. (d)(2)(D). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(5), added subpar. (D).
 
-    Subsec. (d)(4)(B)(iv). [Pub. L. 105–206, § 6004(d)(6)][/us/pl/105/206/s6004/d/6], added cl. (iv).
+    Subsec. (d)(4)(B)(iv). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(6), added cl. (iv).
 
-    Subsec. (d)(4)(C). [Pub. L. 105–206, § 6004(d)(7)][/us/pl/105/206/s6004/d/7], substituted “Contributions” for “Excess contributions” in heading and amended text of introductory provisions and cl. (i) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to the distribution of any contribution made during a taxable year on behalf of a designated beneficiary to the extent that such contribution exceeds $500 if—
+    Subsec. (d)(4)(C). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(7), substituted “Contributions” for “Excess contributions” in heading and amended text of introductory provisions and cl. (i) generally. Prior to amendment, text read as follows: “Subparagraph (A) shall not apply to the distribution of any contribution made during a taxable year on behalf of a designated beneficiary to the extent that such contribution exceeds $500 if—
 
     “(i) such distribution is received on or before the day prescribed by law (including extensions of time) for filing such contributor’s return for such taxable year, and”.
 
-    Subsec. (d)(5). [Pub. L. 105–206, § 6004(d)(8)(A)][/us/pl/105/206/s6004/d/8/A], added first sentence and struck out former first sentence which read as follows: “Paragraph (1) shall not apply to any amount paid or distributed from an education individual retirement account to the extent that the amount received is paid into another education individual retirement account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary not later than the 60th day after the date of such payment or distribution.”
+    Subsec. (d)(5). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(8)(A), added first sentence and struck out former first sentence which read as follows: “Paragraph (1) shall not apply to any amount paid or distributed from an education individual retirement account to the extent that the amount received is paid into another education individual retirement account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary not later than the 60th day after the date of such payment or distribution.”
 
-    Subsec. (d)(6). [Pub. L. 105–206, § 6004(d)(8)(B)][/us/pl/105/206/s6004/d/8/B], inserted before period at end “and has not attained age 30 as of the date of such change”.
+    Subsec. (d)(6). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(8)(B), inserted before period at end “and has not attained age 30 as of the date of such change”.
 
-    Subsec. (d)(7). [Pub. L. 105–206, § 6004(d)(2)(B)][/us/pl/105/206/s6004/d/2/B], inserted at end “In applying the preceding sentence, members of the family (as so defined) of the designated beneficiary shall be treated in the same manner as the spouse under such paragraph (8).”
+    Subsec. (d)(7). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(2)(B), inserted at end “In applying the preceding sentence, members of the family (as so defined) of the designated beneficiary shall be treated in the same manner as the spouse under such paragraph (8).”
 
-    Subsec. (d)(8). [Pub. L. 105–206, § 6004(d)(2)(C)][/us/pl/105/206/s6004/d/2/C], added par. (8).
+    Subsec. (d)(8). [Pub. L. 105–206][/us/pl/105/206], § 6004(d)(2)(C), added par. (8).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -337,7 +337,7 @@
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–121, title I, § 107(b)][/us/pl/108/121/s107/b], Nov. 11, 2003, [117 Stat. 1339][/us/stat/117/1339], provided that: 
+[Pub. L. 108–121, title I][/us/pl/108/121/tI], § 107(b), Nov. 11, 2003, [117 Stat. 1339][/us/stat/117/1339], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
 
@@ -371,71 +371,71 @@
 [/us/usc/t10/s2005/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2005%2Fe%2F3
 [/us/usc/t10/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477
 [/us/usc/t38/s1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1967
-[/us/pl/105/34/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs213%2Fa
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F813
-[/us/pl/105/206/s6004/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F793
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtIV
 [/us/stat/115/57-61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F57-61
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
 [/us/stat/115/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F196
-[/us/pl/107/147/s411/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Ff
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F46
-[/us/pl/108/121/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs107%2Fa
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1339
-[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1188
-[/us/pl/109/135/s412/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fff
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2639
-[/us/pl/110/245/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fc
+[/us/pl/110/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtI
 [/us/stat/122/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1632
-[/us/pl/113/295/s221/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FB
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
-[/us/pl/109/135/s412/ff/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fff%2F2
-[/us/pl/109/135/s412/ff/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fff%2F1
-[/us/pl/108/311/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs404%2Fa
-[/us/pl/108/311/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fb
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/107/22/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F5
-[/us/pl/107/22/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F2
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
-[/us/pl/107/16/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fd
-[/us/pl/107/16/s401/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fc%2F3%2FA
-[/us/pl/107/16/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fa%2F1
-[/us/pl/107/16/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fc%2F1
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fc%2F2
-[/us/pl/107/16/s401/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Ff%2F1
-[/us/pl/107/16/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fe
-[/us/pl/107/16/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fb%2F1
-[/us/pl/107/16/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fb%2F2
-[/us/pl/107/16/s401/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fc%2F3%2FB
-[/us/pl/107/16/s401/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fc%2F3%2FA
-[/us/pl/107/16/s401/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fg%2F1
-[/us/pl/107/16/s401/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Fg%2F2%2FC
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
-[/us/pl/107/16/s401/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Ff%2F2%2FB
-[/us/pl/107/16/s401/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs401%2Ff%2F2%2FA
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
-[/us/pl/107/22/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F4
-[/us/pl/107/22/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F1
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/206/s6004/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F1
-[/us/pl/105/206/s6004/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F2%2FA
-[/us/pl/105/206/s6004/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F3%2FA
-[/us/pl/105/206/s6004/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F5
-[/us/pl/105/206/s6004/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F6
-[/us/pl/105/206/s6004/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F7
-[/us/pl/105/206/s6004/d/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F8%2FA
-[/us/pl/105/206/s6004/d/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F8%2FB
-[/us/pl/105/206/s6004/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F2%2FB
-[/us/pl/105/206/s6004/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fd%2F2%2FC
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/usc/t26/s408A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408A
@@ -447,7 +447,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/108/311/s406/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fh
 [/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
-[/us/pl/108/121/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs107%2Fb
+[/us/pl/108/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2FtI
 [/us/stat/117/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1339
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16

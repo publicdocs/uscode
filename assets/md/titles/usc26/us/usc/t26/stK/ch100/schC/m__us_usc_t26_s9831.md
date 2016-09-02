@@ -51,7 +51,7 @@
 
             The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(4) if the benefits are provided under a separate policy, certificate, or contract of insurance.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2080][/us/stat/110/2080], § 9804; renumbered § 9831 and amended [Pub. L. 105–34, title XV, § 1531(a)(2)][/us/pl/105/34/s1531/a/2], (b)(1)(B)–(E), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081], 1084, 1085.)
+(Added [Pub. L. 104–191, title IV][/us/pl/104/191/tIV], § 401(a), Aug. 21, 1996, [110 Stat. 2080][/us/stat/110/2080], § 9804; renumbered § 9831 and amended [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, [111 Stat. 1081][/us/stat/111/1081], 1084, 1085.)
 
  __Amendments__ 
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/104/191/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs401%2Fa
+[/us/pl/104/191/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIV
 [/us/stat/110/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2080
-[/us/pl/105/34/s1531/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1531%2Fa%2F2
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1081
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/usc/t26/s9804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9804

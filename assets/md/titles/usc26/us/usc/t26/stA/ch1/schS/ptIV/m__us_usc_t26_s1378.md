@@ -29,31 +29,31 @@
 
         For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1685][/us/stat/96/1685]; amended [Pub. L. 98–369, div. A, title VII, § 721(m)][/us/pl/98/369/s721/m], (q), July 18, 1984, [98 Stat. 969][/us/stat/98/969], 970; [Pub. L. 99–514, title VIII, § 806(b)][/us/pl/99/514/s806/b], Oct. 22, 1986, [100 Stat. 2363][/us/stat/100/2363].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1685][/us/stat/96/1685]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 721(m), (q), July 18, 1984, [98 Stat. 969][/us/stat/98/969], 970; [Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 806(b), Oct. 22, 1986, [100 Stat. 2363][/us/stat/100/2363].)
 
  __Prior Provisions__ 
 
-    A prior section 1378, added [Pub. L. 89–389, § 2(a)][/us/pl/89/389/s2/a], Apr. 14, 1966, [80 Stat. 113][/us/stat/80/113]; amended [Pub. L. 91–172, title V, § 511(c)(4)][/us/pl/91/172/s511/c/4], Dec. 30, 1969, [83 Stat. 638][/us/stat/83/638]; [Pub. L. 94–455, title XIX, § 1901(a)(152)][/us/pl/94/455/s1901/a/152], (b)(33)(R), Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789], 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
+    A prior section 1378, added [Pub. L. 89–389][/us/pl/89/389], § 2(a), Apr. 14, 1966, [80 Stat. 113][/us/stat/80/113]; amended [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 511(c)(4), Dec. 30, 1969, [83 Stat. 638][/us/stat/83/638]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(152), (b)(33)(R), Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789], 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 806(b)(1)][/us/pl/99/514/s806/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subtitle—
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 806(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subtitle—
 
     “(1) an S corporation shall not change its taxable year to any accounting period other than a permitted year, and
 
     “(2) no corporation may make an election under section 1362(a) for any taxable year unless such taxable year is a permitted year.”
 
-    Subsec. (b). [Pub. L. 99–514, § 806(b)(2)][/us/pl/99/514/s806/b/2], inserted at end “For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.”
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 806(b)(2), inserted at end “For purposes of paragraph (2), any deferral of income to shareholders shall not be treated as a business purpose.”
 
-    Subsec. (c). [Pub. L. 99–514, § 806(b)(3)][/us/pl/99/514/s806/b/3], struck out subsec. (c) which required existing S corporations to use permitted year after 50-percent shift in ownership.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 806(b)(3), struck out subsec. (c) which required existing S corporations to use permitted year after 50-percent shift in ownership.
 
-    1984—Subsec. (c)(1). [Pub. L. 98–369, § 721(m)][/us/pl/98/369/s721/m], substituted “which includes December 31, 1982 (or which is an S corporation for a taxable year beginning during 1983 by reason of an election made on or before October 19, 1982)” for “which includes December 31, 1982”.
+    1984—Subsec. (c)(1). [Pub. L. 98–369][/us/pl/98/369], § 721(m), substituted “which includes December 31, 1982 (or which is an S corporation for a taxable year beginning during 1983 by reason of an election made on or before October 19, 1982)” for “which includes December 31, 1982”.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 98–369, § 721(q)][/us/pl/98/369/s721/q], substituted “who (or whose estate) held” for “who held”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 98–369][/us/pl/98/369], § 721(q), substituted “who (or whose estate) held” for “who held”.
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VIII, § 806(e)][/us/pl/99/514/s806/e], Oct. 22, 1986, [100 Stat. 2364][/us/stat/100/2364], as amended by [Pub. L. 100–647, title I, § 1008(e)(7)][/us/pl/100/647/s1008/e/7], (8), (10), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], provided that:
+[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 806(e), Oct. 22, 1986, [100 Stat. 2364][/us/stat/100/2364], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(e)(7), (8), (10), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -91,7 +91,7 @@
 
  __Construction of__  __[__  __Section 806 of Pub. L. 99–514__  __][/us/pl/99/514/s806]__ 
 
-[Pub. L. 100–647, title I, § 1008(e)(9)][/us/pl/100/647/s1008/e/9], Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(e)(9), Nov. 10, 1988, [102 Stat. 3441][/us/stat/102/3441], provided that: 
 
 > “Nothing in section 806 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], amending this section and sections 267, 441, and 706 of this title and enacting provisions set out above\] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year.”
 
@@ -102,27 +102,27 @@
 ----------
 ----------
 
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1685
-[/us/pl/98/369/s721/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fm
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F969
-[/us/pl/99/514/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fb
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2363
-[/us/pl/89/389/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389%2Fs2%2Fa
+[/us/pl/89/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389
 [/us/stat/80/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F113
-[/us/pl/91/172/s511/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs511%2Fc%2F4
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F638
-[/us/pl/94/455/s1901/a/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F152
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1789
 [/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
-[/us/pl/99/514/s806/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fb%2F1
-[/us/pl/99/514/s806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fb%2F2
-[/us/pl/99/514/s806/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fb%2F3
-[/us/pl/98/369/s721/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fm
-[/us/pl/98/369/s721/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fq
-[/us/pl/99/514/s806/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fe
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2364
-[/us/pl/100/647/s1008/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F7
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3441
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
@@ -131,7 +131,7 @@
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
 [/us/pl/99/514/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806
-[/us/pl/100/647/s1008/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F9
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3441
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 

@@ -149,29 +149,29 @@
 
         This section shall not apply to qualified film and television productions or qualified live theatrical productions commencing after December 31, 2016.
 
-(Added [Pub. L. 108–357, title II, § 244(a)][/us/pl/108/357/s244/a], Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; amended [Pub. L. 109–135, title IV, § 403(e)(1)][/us/pl/109/135/s403/e/1], Dec. 21, 2005, [119 Stat. 2623][/us/stat/119/2623]; [Pub. L. 110–343, div. C, title V, § 502(a)][/us/pl/110/343/s502/a], (b), (d), Oct. 3, 2008, [122 Stat. 3876][/us/stat/122/3876], 3877; [Pub. L. 111–312, title VII, § 744(a)][/us/pl/111/312/s744/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 317(a)][/us/pl/112/240/s317/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 129(a)][/us/pl/113/295/s129/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018]; [Pub. L. 114–113, div. Q, title I, § 169(a)][/us/pl/114/113/s169/a]–(b)(2), (c), Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], 3068.)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 244(a), Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(e)(1), Dec. 21, 2005, [119 Stat. 2623][/us/stat/119/2623]; [Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 502(a), (b), (d), Oct. 3, 2008, [122 Stat. 3876][/us/stat/122/3876], 3877; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 744(a), Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 317(a), Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 129(a), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 169(a)–(b)(2), (c), Dec. 18, 2015, [129 Stat. 3067][/us/stat/129/3067], 3068.)
 
  __Prior Provisions__ 
 
-    A prior section 181, [Pub. L. 87–834, § 2(c)][/us/pl/87/834/s2/c], Oct. 16, 1962, [76 Stat. 970][/us/stat/76/970], related to a deduction for unused investment credit, prior to repeal by [Pub. L. 88–272, title II, § 203(a)(3)(B)][/us/pl/88/272/s203/a/3/B], (4), Feb. 26, 1964, [78 Stat. 34][/us/stat/78/34], applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963.
+    A prior section 181, [Pub. L. 87–834][/us/pl/87/834], § 2(c), Oct. 16, 1962, [76 Stat. 970][/us/stat/76/970], related to a deduction for unused investment credit, prior to repeal by [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 203(a)(3)(B), (4), Feb. 26, 1964, [78 Stat. 34][/us/stat/78/34], applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963.
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–113, § 169(b)(2)(C)][/us/pl/114/113/s169/b/2/C], inserted “and live theatrical” after “film and television” in section catchline.
+    2015—[Pub. L. 114–113][/us/pl/114/113], § 169(b)(2)(C), inserted “and live theatrical” after “film and television” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 114–113, § 169(b)(1)][/us/pl/114/113/s169/b/1], inserted “, and any qualified live theatrical production,” after “any qualified film or television production”.
+    Subsec. (a)(1). [Pub. L. 114–113][/us/pl/114/113], § 169(b)(1), inserted “, and any qualified live theatrical production,” after “any qualified film or television production”.
 
-    Subsecs. (a)(2)(A), (B), (b), (c)(1). [Pub. L. 114–113, § 169(b)(2)(A)][/us/pl/114/113/s169/b/2/A], inserted “or any qualified live theatrical production” after “qualified film or television production”.
+    Subsecs. (a)(2)(A), (B), (b), (c)(1). [Pub. L. 114–113][/us/pl/114/113], § 169(b)(2)(A), inserted “or any qualified live theatrical production” after “qualified film or television production”.
 
-    Subsec. (e). [Pub. L. 114–113, § 169(c)(2)][/us/pl/114/113/s169/c/2], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 114–113][/us/pl/114/113], § 169(c)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 114–113, § 169(c)(1)][/us/pl/114/113/s169/c/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 114–113][/us/pl/114/113], § 169(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 114–113, § 169(b)(2)(B)][/us/pl/114/113/s169/b/2/B], which directed insertion of “or qualified live theatrical productions” after “qualified film or television productions”, was executed by making the insertion after “qualified film and television productions”, to reflect the probable intent of Congress.
+    [Pub. L. 114–113][/us/pl/114/113], § 169(b)(2)(B), which directed insertion of “or qualified live theatrical productions” after “qualified film or television productions”, was executed by making the insertion after “qualified film and television productions”, to reflect the probable intent of Congress.
 
-    [Pub. L. 114–113, § 169(a)][/us/pl/114/113/s169/a], substituted “December 31, 2016” for “December 31, 2014”.
+    [Pub. L. 114–113][/us/pl/114/113], § 169(a), substituted “December 31, 2016” for “December 31, 2014”.
 
-    Subsec. (g). [Pub. L. 114–113, § 169(c)(1)][/us/pl/114/113/s169/c/1], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 114–113][/us/pl/114/113], § 169(c)(1), redesignated subsec. (f) as (g).
 
     2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -179,17 +179,17 @@
 
     2010—Subsec. (f). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
 
-    2008—Subsec. (a)(2)(A). [Pub. L. 110–343, § 502(b)][/us/pl/110/343/s502/b], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.”
+    2008—Subsec. (a)(2)(A). [Pub. L. 110–343][/us/pl/110/343], § 502(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.”
 
-    Subsec. (d)(3)(A). [Pub. L. 110–343, § 502(d)][/us/pl/110/343/s502/d], substituted “actors, production personnel, directors, and producers.” for “actors, directors, producers, and other relevant production personnel.”
+    Subsec. (d)(3)(A). [Pub. L. 110–343][/us/pl/110/343], § 502(d), substituted “actors, production personnel, directors, and producers.” for “actors, directors, producers, and other relevant production personnel.”
 
-    Subsec. (f). [Pub. L. 110–343, § 502(a)][/us/pl/110/343/s502/a], substituted “December 31, 2009” for “December 31, 2008”.
+    Subsec. (f). [Pub. L. 110–343][/us/pl/110/343], § 502(a), substituted “December 31, 2009” for “December 31, 2008”.
 
     2005—Subsec. (d)(2). [Pub. L. 109–135][/us/pl/109/135] struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title I, § 169(d)][/us/pl/114/113/s169/d], Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that:
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 169(d), Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that:
 
 >     “(1)  __Extension__  __.—__ 
 
@@ -207,25 +207,25 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 129(b)][/us/pl/113/295/s129/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 129(b), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to productions commencing after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 317(b)][/us/pl/112/240/s317/b], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 317(b), Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to productions commencing after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 744(b)][/us/pl/111/312/s744/b], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 744(b), Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to productions commencing after December 31, 2009.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title V, § 502(e)][/us/pl/110/343/s502/e], Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877], provided that:
+[Pub. L. 110–343, div. C, title V][/us/pl/110/343/dC/tV], § 502(e), Oct. 3, 2008, [122 Stat. 3877][/us/stat/122/3877], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -241,7 +241,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title II, § 244(c)][/us/pl/108/357/s244/c], Oct. 22, 2004, [118 Stat. 1447][/us/stat/118/1447], provided that: 
+[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 244(c), Oct. 22, 2004, [118 Stat. 1447][/us/stat/118/1447], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to qualified film and television productions (as defined in section 181(d)(1) of the Internal Revenue Code of 1986, as added by this section) commencing after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -255,48 +255,48 @@
 [/us/usc/t7/s2009aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2009aa%E2%80%931
 [/us/usc/t18/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257
 [/us/usc/t18/s2257/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257%2Fh%2F1
-[/us/pl/108/357/s244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs244%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1445
-[/us/pl/109/135/s403/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fe%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2623
-[/us/pl/110/343/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fa
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3876
-[/us/pl/111/312/s744/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs744%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3319
-[/us/pl/112/240/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs317%2Fa
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
-[/us/pl/113/295/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs129%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
-[/us/pl/114/113/s169/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fa
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3067
-[/us/pl/87/834/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs2%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F970
-[/us/pl/88/272/s203/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs203%2Fa%2F3%2FB
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F34
-[/us/pl/114/113/s169/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fb%2F2%2FC
-[/us/pl/114/113/s169/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fb%2F1
-[/us/pl/114/113/s169/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fb%2F2%2FA
-[/us/pl/114/113/s169/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fc%2F2
-[/us/pl/114/113/s169/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fc%2F1
-[/us/pl/114/113/s169/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fb%2F2%2FB
-[/us/pl/114/113/s169/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fa
-[/us/pl/114/113/s169/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fc%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/110/343/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fb
-[/us/pl/110/343/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fd
-[/us/pl/110/343/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fa
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/114/113/s169/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs169%2Fd
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3069
-[/us/pl/113/295/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs129%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
-[/us/pl/112/240/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs317%2Fb
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
-[/us/pl/111/312/s744/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs744%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3319
-[/us/pl/110/343/s502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fe
+[/us/pl/110/343/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtV
 [/us/stat/122/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3877
 [/us/usc/t26/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs199
 [/us/usc/t26/s199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs199
@@ -304,7 +304,7 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
-[/us/pl/108/357/s244/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs244%2Fc
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1447
 
 

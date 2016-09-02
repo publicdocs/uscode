@@ -149,19 +149,19 @@
 
         The Secretary shall prescribe regulations which permit, in lieu of any other certification, persons who are purchasing articles taxable under this subchapter for resale or leasing in a long-term lease to execute a statement (made under penalties of perjury) on the sale invoice that such sale is for resale. The Secretary shall not impose any registration requirement as a condition of using such procedure.
 
-(Added [Pub. L. 97–424, title V, § 512(b)(1)][/us/pl/97/424/s512/b/1], Jan. 6, 1983, [96 Stat. 2175][/us/stat/96/2175]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369], §§ 731, 735(b)(2), July 18, 1984, [98 Stat. 976][/us/stat/98/976], 981; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 505(a)–(c), 506(a), Apr. 2, 1987, [101 Stat. 258][/us/stat/101/258], 259; [Pub. L. 100–647, title VI, § 6111(a)][/us/pl/100/647/s6111/a], Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713]; [Pub. L. 105–34, title XIV][/us/pl/105/34], §§ 1402(b), 1434(a), (b), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], 1052; [Pub. L. 105–206, title VI, § 6014(c)][/us/pl/105/206/s6014/c], July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
+(Added [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 512(b)(1), Jan. 6, 1983, [96 Stat. 2175][/us/stat/96/2175]; amended [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], §§ 731, 735(b)(2), July 18, 1984, [98 Stat. 976][/us/stat/98/976], 981; [Pub. L. 100–17, title V][/us/pl/100/17/tV], §§ 505(a)–(c), 506(a), Apr. 2, 1987, [101 Stat. 258][/us/stat/101/258], 259; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6111(a), Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], §§ 1402(b), 1434(a), (b), Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], 1052; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6014(c), July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
 
  __Prior Provisions__ 
 
-    A prior section 4052, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479], provided that lease of an article would be considered the sale of article for excise tax purposes, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(a)(1)(D)][/us/pl/94/455/s1904/a/1/D], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
+    A prior section 4052, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479], provided that lease of an article would be considered the sale of article for excise tax purposes, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(1)(D), Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
 
  __Amendments__ 
 
     1998—Subsec. (f)(2). [Pub. L. 105–206][/us/pl/105/206] substituted “such section” for “this section”.
 
-    1997—Subsec. (b)(1)(B)(ii) to (iv). [Pub. L. 105–34, § 1402(b)][/us/pl/105/34/s1402/b], inserted “and” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and”.
+    1997—Subsec. (b)(1)(B)(ii) to (iv). [Pub. L. 105–34][/us/pl/105/34], § 1402(b), inserted “and” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the fair market value (including any tax imposed by section 4071) at retail of any tires (not including any metal rim or rim base), and”.
 
-    Subsec. (d). [Pub. L. 105–34, § 1434(b)(1)][/us/pl/105/34/s1434/b/1], substituted “rules of subsections (c) and (d) of section 4216 (relating to partial payments) shall apply” for “rules of—
+    Subsec. (d). [Pub. L. 105–34][/us/pl/105/34], § 1434(b)(1), substituted “rules of subsections (c) and (d) of section 4216 (relating to partial payments) shall apply” for “rules of—
 
     “(1) subsections (c) and (d) of section 4216 (relating to partial payments), and
 
@@ -169,25 +169,25 @@
 
     shall apply”.
 
-    Subsec. (e). [Pub. L. 105–34, § 1434(a)][/us/pl/105/34/s1434/a], redesignated subsec. (f) as (e).
+    Subsec. (e). [Pub. L. 105–34][/us/pl/105/34], § 1434(a), redesignated subsec. (f) as (e).
 
-    Subsec. (f). [Pub. L. 105–34, § 1434(a)][/us/pl/105/34/s1434/a], added subsec. (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1434(a), added subsec. (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 105–34, § 1434(b)(2)][/us/pl/105/34/s1434/b/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–34][/us/pl/105/34], § 1434(b)(2), added subsec. (g).
 
     1988—Subsec. (a)(1). [Pub. L. 100–647][/us/pl/100/647] substituted “production, manufacture” for “manufacture, production”.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–17, § 505(a)][/us/pl/100/17/s505/a], inserted “or leasing in a long-term lease” after “resale”.
+    1987—Subsec. (a)(1). [Pub. L. 100–17][/us/pl/100/17], § 505(a), inserted “or leasing in a long-term lease” after “resale”.
 
-    Subsec. (b)(3). [Pub. L. 100–17, § 505(b)][/us/pl/100/17/s505/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–17][/us/pl/100/17], § 505(b), added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 100–17, § 506(a)][/us/pl/100/17/s506/a], added par. (4).
+    Subsec. (b)(4). [Pub. L. 100–17][/us/pl/100/17], § 506(a), added par. (4).
 
-    Subsec. (f). [Pub. L. 100–17, § 505(c)][/us/pl/100/17/s505/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–17][/us/pl/100/17], § 505(c), added subsec. (f).
 
-    1984—Subsec. (b)(1)(B)(iv). [Pub. L. 98–369, § 731][/us/pl/98/369/s731], added cl. (iv).
+    1984—Subsec. (b)(1)(B)(iv). [Pub. L. 98–369][/us/pl/98/369], § 731, added cl. (iv).
 
-    Subsec. (c). [Pub. L. 98–369, § 735(b)(2)][/us/pl/98/369/s735/b/2], in amending subsec. (c) generally, designated existing provisions as par. (1), in par. (1) as so designated substituted “by reason of merely combining such article with any article listed in paragraph (2)” for “with any equipment or other item listed in section 4063(d)”, and added par. (2).
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 735(b)(2), in amending subsec. (c) generally, designated existing provisions as par. (1), in par. (1) as so designated substituted “by reason of merely combining such article with any article listed in paragraph (2)” for “with any equipment or other item listed in section 4063(d)”, and added par. (2).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -197,23 +197,23 @@
 
     Amendment by [section 1402(b) of Pub. L. 105–34][/us/pl/105/34/s1402/b] effective Jan. 1, 1998, see [section 1402(c) of Pub. L. 105–34][/us/pl/105/34/s1402/c], set out as a note under [section 4051 of this title][/us/usc/t26/s4051].
 
-[Pub. L. 105–34, title XIV, § 1434(c)][/us/pl/105/34/s1434/c], Aug. 5, 1997, [111 Stat. 1052][/us/stat/111/1052], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1434(c), Aug. 5, 1997, [111 Stat. 1052][/us/stat/111/1052], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on January 1, 1998.”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6111(b)][/us/pl/100/647/s6111/b], Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6111(b), Nov. 10, 1988, [102 Stat. 3713][/us/stat/102/3713], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1988.”
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–17, title V, § 505(d)][/us/pl/100/17/s505/d], Apr. 2, 1987, [101 Stat. 259][/us/stat/101/259], provided that: 
+[Pub. L. 100–17, title V][/us/pl/100/17/tV], § 505(d), Apr. 2, 1987, [101 Stat. 259][/us/stat/101/259], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
 
-[Pub. L. 100–17, title V, § 506(b)][/us/pl/100/17/s506/b], Apr. 2, 1987, [101 Stat. 259][/us/stat/101/259], provided that: 
+[Pub. L. 100–17, title V][/us/pl/100/17/tV], § 506(b), Apr. 2, 1987, [101 Stat. 259][/us/stat/101/259], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after the 1st day of the 1st calendar quarter which begins more than 90 days after the date of the enactment of this Act \[Apr. 2, 1987\].”
 
@@ -228,35 +228,35 @@
 ----------
 ----------
 
-[/us/pl/97/424/s512/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs512%2Fb%2F1
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2175
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F976
-[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F258
-[/us/pl/100/647/s6111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6111%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3713
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
-[/us/pl/105/206/s6014/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fc
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
-[/us/pl/94/455/s1904/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FD
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1402%2Fb
-[/us/pl/105/34/s1434/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1434%2Fb%2F1
-[/us/pl/105/34/s1434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1434%2Fa
-[/us/pl/105/34/s1434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1434%2Fa
-[/us/pl/105/34/s1434/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1434%2Fb%2F2
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/17/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs505%2Fa
-[/us/pl/100/17/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs505%2Fb
-[/us/pl/100/17/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs506%2Fa
-[/us/pl/100/17/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs505%2Fc
-[/us/pl/98/369/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs731
-[/us/pl/98/369/s735/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fb%2F2
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/100/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
@@ -264,13 +264,13 @@
 [/us/pl/105/34/s1402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1402%2Fb
 [/us/pl/105/34/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1402%2Fc
 [/us/usc/t26/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4051
-[/us/pl/105/34/s1434/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1434%2Fc
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1052
-[/us/pl/100/647/s6111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6111%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3713
-[/us/pl/100/17/s505/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs505%2Fd
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F259
-[/us/pl/100/17/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2Fs506%2Fb
+[/us/pl/100/17/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F17%2FtV
 [/us/stat/101/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F259
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424

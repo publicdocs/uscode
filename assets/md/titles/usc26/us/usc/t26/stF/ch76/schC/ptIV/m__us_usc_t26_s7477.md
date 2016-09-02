@@ -33,11 +33,11 @@
 
             If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
 
-(Added [Pub. L. 105–34, title V, § 506(c)(1)][/us/pl/105/34/s506/c/1], Aug. 5, 1997, [111 Stat. 855][/us/stat/111/855].)
+(Added [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 506(c)(1), Aug. 5, 1997, [111 Stat. 855][/us/stat/111/855].)
 
  __Prior Provisions__ 
 
-    A prior section 7477, added [Pub. L. 94–455, title X, § 1042(d)(1)][/us/pl/94/455/s1042/d/1], Oct. 4, 1976, [90 Stat. 1637][/us/stat/90/1637]; amended [Pub. L. 95–600, title III, § 336(b)(2)(B)][/us/pl/95/600/s336/b/2/B], Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842], provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by [Pub. L. 98–369, div. A, title I, § 131(e)(1)][/us/pl/98/369/s131/e/1], (g), July 18, 1984, [98 Stat. 664][/us/stat/98/664], 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
+    A prior section 7477, added [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1042(d)(1), Oct. 4, 1976, [90 Stat. 1637][/us/stat/90/1637]; amended [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 336(b)(2)(B), Nov. 6, 1978, [92 Stat. 2842][/us/stat/92/2842], provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 131(e)(1), (g), July 18, 1984, [98 Stat. 664][/us/stat/98/664], 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
 
  __Effective Date__ 
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/105/34/s506/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs506%2Fc%2F1
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F855
-[/us/pl/94/455/s1042/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1042%2Fd%2F1
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1637
-[/us/pl/95/600/s336/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs336%2Fb%2F2%2FB
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2842
-[/us/pl/98/369/s131/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs131%2Fe%2F1
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F664
 [/us/pl/105/34/s506/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs506%2Fe%2F1
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001

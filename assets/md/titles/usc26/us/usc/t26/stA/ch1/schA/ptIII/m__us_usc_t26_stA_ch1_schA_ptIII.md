@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title IV, § 474(b)(3)][/us/pl/98/369/s474/b/3], July 18, 1984, [98 Stat. 830][/us/stat/98/830], substituted “15. Effect of changes” for “21. Effect of changes”.
+    1984—[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(b)(3), July 18, 1984, [98 Stat. 830][/us/stat/98/830], substituted “15. Effect of changes” for “21. Effect of changes”.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s474/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fb%2F3
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F830
 
 

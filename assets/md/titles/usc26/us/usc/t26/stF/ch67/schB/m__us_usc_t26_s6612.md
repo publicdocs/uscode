@@ -27,7 +27,7 @@
 
         For other restrictions on interest, see 2014(e)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “sections”. </sup></sup>  (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), and 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 820][/us/stat/68A/820]; [Apr. 2, 1956, ch. 160, § 4(f)][/us/act/1956-04-02/ch160/s4/f], [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(e)(7), [70 Stat. 397][/us/stat/70/397]; [Pub. L. 107–16, title V, § 532(c)(12)][/us/pl/107/16/s532/c/12], June 7, 2001, [115 Stat. 75][/us/stat/115/75].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 820][/us/stat/68A/820]; [Apr. 2, 1956, ch. 160][/us/act/1956-04-02/ch160], § 4(f), [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(e)(7), [70 Stat. 397][/us/stat/70/397]; [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 532(c)(12), June 7, 2001, [115 Stat. 75][/us/stat/115/75].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t28/s2411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2411%2Fa
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F820
-[/us/act/1956-04-02/ch160/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160%2Fs4%2Ff
+[/us/act/1956-04-02/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160
 [/us/stat/70/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F91
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F397
-[/us/pl/107/16/s532/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F12
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F454

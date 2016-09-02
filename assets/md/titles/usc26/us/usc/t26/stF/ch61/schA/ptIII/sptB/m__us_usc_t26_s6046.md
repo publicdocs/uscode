@@ -65,7 +65,7 @@
 
         For provisions relating to penalties for violations of this section, sections 6679 and 7203.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 747][/us/stat/68A/747]; [Pub. L. 86–780, § 7(a)][/us/pl/86/780/s7/a], Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016]; [Pub. L. 87–834, § 20(b)][/us/pl/87/834/s20/b], Oct. 16, 1962, [76 Stat. 1061][/us/stat/76/1061]; [Pub. L. 94–455, title XIX, § 1906(a)(4)][/us/pl/94/455/s1906/a/4], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824], 1834; [Pub. L. 97–248, title III, § 341(a)][/us/pl/97/248/s341/a], Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635]; [Pub. L. 100–647, title I, § 1012(i)(19)][/us/pl/100/647/s1012/i/19], Nov. 10, 1988, [102 Stat. 3510][/us/stat/102/3510]; [Pub. L. 105–34, title XI, § 1146(a)][/us/pl/105/34/s1146/a], Aug. 5, 1997, [111 Stat. 986][/us/stat/111/986]; [Pub. L. 110–172, § 11(a)(33)][/us/pl/110/172/s11/a/33], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 747][/us/stat/68A/747]; [Pub. L. 86–780][/us/pl/86/780], § 7(a), Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016]; [Pub. L. 87–834][/us/pl/87/834], § 20(b), Oct. 16, 1962, [76 Stat. 1061][/us/stat/76/1061]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(4), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824], 1834; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 341(a), Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(i)(19), Nov. 10, 1988, [102 Stat. 3510][/us/stat/102/3510]; [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1146(a), Aug. 5, 1997, [111 Stat. 986][/us/stat/111/986]; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(33), Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
 
  __Amendments__ 
 
@@ -87,17 +87,17 @@
 
     In the case of a foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c), paragraph (1) shall be treated as including a reference to each United States person who is an officer or director of such corporation.”
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 1012(i)(19)(C)][/us/pl/100/647/s1012/i/19/C], inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 1012(i)(19)(C), inserted sentence at end relating to foreign corporation with respect to which any person is treated as a United States shareholder under section 953(c).
 
-    Subsec. (a)(3), (4). [Pub. L. 100–647, § 1012(i)(19)(A)][/us/pl/100/647/s1012/i/19/A], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 100–647][/us/pl/100/647], § 1012(i)(19)(A), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (b). [Pub. L. 100–647, § 1012(i)(19)(B)][/us/pl/100/647/s1012/i/19/B], substituted “paragraph (2) or (3) of subsection (a)” for “subsection (a)(2)”.
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 1012(i)(19)(B), substituted “paragraph (2) or (3) of subsection (a)” for “subsection (a)(2)”.
 
     1982—Subsec. (d). [Pub. L. 97–248][/us/pl/97/248] inserted “(or on or before such later day as the Secretary may by forms or regulations prescribe)”.
 
-    1976—Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (e). [Pub. L. 94–455, § 1906(a)(4)][/us/pl/94/455/s1906/a/4], struck out provisions relating to the requirement for information to be furnished in the case of liability to file a return under subsec. (a) of this section arising on or after Jan. 1, 1963, and before June 1, 1963, under regulations in effect on or before June 1, 1963.
+    Subsec. (e). [Pub. L. 94–455][/us/pl/94/455], § 1906(a)(4), struck out provisions relating to the requirement for information to be furnished in the case of liability to file a return under subsec. (a) of this section arising on or after Jan. 1, 1963, and before June 1, 1963, under regulations in effect on or before June 1, 1963.
 
     1962—[Pub. L. 87–834][/us/pl/87/834] substituted “organization or reorganization of foreign corporations and as to acquisitions of their stock” for “creation or organization, or reorganization, of foreign corporations” in section catchline.
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XI, § 1146(b)][/us/pl/105/34/s1146/b], Aug. 5, 1997, [111 Stat. 986][/us/stat/111/986], provided that: 
+[Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1146(b), Aug. 5, 1997, [111 Stat. 986][/us/stat/111/986], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on January 1, 1998.”
 
@@ -137,19 +137,19 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title III, § 341(c)][/us/pl/97/248/s341/c], Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 341(c), Sept. 3, 1982, [96 Stat. 635][/us/stat/96/635], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6048 of this title][/us/usc/t26/s6048]\] shall apply to returns filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–834, § 20(e)(2)][/us/pl/87/834/s20/e/2], Oct. 16, 1962, [76 Stat. 1063][/us/stat/76/1063], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 20(e)(2), Oct. 16, 1962, [76 Stat. 1063][/us/stat/76/1063], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1963.”
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–780, § 8][/us/pl/86/780/s8], Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016], provided that: 
+[Pub. L. 86–780][/us/pl/86/780], § 8, Sept. 14, 1960, [74 Stat. 1016][/us/stat/74/1016], provided that: 
 
 > “The amendments made by section 7 \[amending this section\] shall apply only with respect to foreign corporations created or organized, or reorganized, after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
@@ -162,28 +162,28 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F747
-[/us/pl/86/780/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs7%2Fa
+[/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/stat/74/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1016
-[/us/pl/87/834/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs20%2Fb
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1061
-[/us/pl/94/455/s1906/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F4
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1824
-[/us/pl/97/248/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs341%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F635
-[/us/pl/100/647/s1012/i/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F19
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3510
-[/us/pl/105/34/s1146/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1146%2Fa
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F986
-[/us/pl/110/172/s11/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F33
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/100/647/s1012/i/19/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F19%2FC
-[/us/pl/100/647/s1012/i/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F19%2FA
-[/us/pl/100/647/s1012/i/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fi%2F19%2FB
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1906/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F4
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
@@ -194,18 +194,18 @@
 [/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
-[/us/pl/105/34/s1146/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1146%2Fb
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F986
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/97/248/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs341%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F635
 [/us/usc/t26/s6048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6048
-[/us/pl/87/834/s20/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs20%2Fe%2F2
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1063
-[/us/pl/86/780/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs8
+[/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/stat/74/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1016
 
 

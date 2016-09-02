@@ -145,7 +145,7 @@
 
             The term “tax-related computer software source code” means the computer source code for any computer software program intended for accounting, tax return preparation or compliance, or tax planning.
 
-(Added [Pub. L. 105–206, title III, § 3413(a)][/us/pl/105/206/s3413/a], July 22, 1998, [112 Stat. 751][/us/stat/112/751].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3413(a), July 22, 1998, [112 Stat. 751][/us/stat/112/751].)
 
  __Prior Provisions__ 
 
@@ -153,7 +153,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3413(e)][/us/pl/105/206/s3413/e], July 22, 1998, [112 Stat. 754][/us/stat/112/754], provided that:
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3413(e), July 22, 1998, [112 Stat. 754][/us/stat/112/754], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -170,10 +170,10 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3413%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F751
 [/us/usc/t26/s7613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7613
-[/us/pl/105/206/s3413/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3413%2Fe
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F754
 [/us/usc/t26/s7612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7612
 

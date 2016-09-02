@@ -91,13 +91,13 @@
 
  __Amendments__ 
 
-    1981—[Pub. L. 97–34, title IV, § 422(e)(5)(C)][/us/pl/97/34/s422/e/5/C], Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316], substituted in item 6166 “Extension of time” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
+    1981—[Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 422(e)(5)(C), Aug. 13, 1981, [95 Stat. 316][/us/stat/95/316], substituted in item 6166 “Extension of time” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
 
-    1976—[Pub. L. 94–455, title XIX, § 1906(b)(4)][/us/pl/94/455/s1906/b/4], title XX, § 2004(f)(5), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1872, struck out item 6162 “Extension of time for payment of tax on gain attributable to liquidation of personal holding companies”, added item 6166, and renumbered former item 6166 as 6166A.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(4), title XX, § 2004(f)(5), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1872, struck out item 6162 “Extension of time for payment of tax on gain attributable to liquidation of personal holding companies”, added item 6166, and renumbered former item 6166 as 6166A.
 
-    1966—[Pub. L. 89–384, § 1(g)(2)][/us/pl/89/384/s1/g/2], Apr. 8, 1966, [80 Stat. 104][/us/stat/80/104], added item 6167.
+    1966—[Pub. L. 89–384][/us/pl/89/384], § 1(g)(2), Apr. 8, 1966, [80 Stat. 104][/us/stat/80/104], added item 6167.
 
-    1958—[Pub. L. 85–866, title II, § 206(b)][/us/pl/85/866/s206/b], Sept. 2, 1958, [72 Stat. 1684][/us/stat/72/1684], added item 6166.
+    1958—[Pub. L. 85–866, title II][/us/pl/85/866/tII], § 206(b), Sept. 2, 1958, [72 Stat. 1684][/us/stat/72/1684], added item 6166.
 
 ----------
 
@@ -106,13 +106,13 @@
 ----------
 ----------
 
-[/us/pl/97/34/s422/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs422%2Fe%2F5%2FC
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F316
-[/us/pl/94/455/s1906/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F4
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1833
-[/us/pl/89/384/s1/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs1%2Fg%2F2
+[/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/stat/80/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F104
-[/us/pl/85/866/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs206%2Fb
+[/us/pl/85/866/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtII
 [/us/stat/72/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1684
 
 

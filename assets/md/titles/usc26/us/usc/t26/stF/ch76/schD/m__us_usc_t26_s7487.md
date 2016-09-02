@@ -23,7 +23,7 @@
 
     For authority of the Tax Court to fix fees for transcript of records, see section 7474.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 892][/us/stat/68A/892]; [Pub. L. 91–172, title IX, § 960(i)(1)][/us/pl/91/172/s960/i/1], Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 892][/us/stat/68A/892]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 960(i)(1), Dec. 30, 1969, [83 Stat. 735][/us/stat/83/735].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F892
-[/us/pl/91/172/s960/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs960%2Fi%2F1
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F735
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172

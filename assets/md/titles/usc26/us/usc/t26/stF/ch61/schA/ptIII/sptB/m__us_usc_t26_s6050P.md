@@ -71,31 +71,31 @@
 
         In lieu of making a return required under subsection (a), an agency described in subsection (c)(1)(A) may submit to the Secretary (at such time and in such form as the Secretary may by regulations prescribe) information sufficient for the Secretary to complete such a return on behalf of such agency. Upon receipt of such information, the Secretary shall complete such return and provide a copy of such return to such agency.
 
-(Added [Pub. L. 103–66, title XIII, § 13252(a)][/us/pl/103/66/s13252/a], Aug. 10, 1993, [107 Stat. 531][/us/stat/107/531]; amended [Pub. L. 104–134, title III, § 31001(m)(2)(A)][/us/pl/104/134/s31001/m/2/A]–(D)(ii), Apr. 26, 1996, [110 Stat. 1321–368][/us/stat/110/1321-368], 1321–369; [Pub. L. 106–170, title V, § 533(a)][/us/pl/106/170/s533/a], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13252(a), Aug. 10, 1993, [107 Stat. 531][/us/stat/107/531]; amended [Pub. L. 104–134, title III][/us/pl/104/134/tIII], § 31001(m)(2)(A)–(D)(ii), Apr. 26, 1996, [110 Stat. 1321–368][/us/stat/110/1321-368], 1321–369; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 533(a), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931].)
 
  __Amendments__ 
 
     1999—Subsec. (c)(2)(D). [Pub. L. 106–170][/us/pl/106/170] added subpar. (D).
 
-    1996—[Pub. L. 104–134, § 31001(m)(2)(D)(ii)][/us/pl/104/134/s31001/m/2/D/ii], amended section catchline generally, striking out “financial” before “entities”.
+    1996—[Pub. L. 104–134][/us/pl/104/134], § 31001(m)(2)(D)(ii), amended section catchline generally, striking out “financial” before “entities”.
 
-    Subsec. (a). [Pub. L. 104–134, § 31001(m)(2)(A)][/us/pl/104/134/s31001/m/2/A], struck out “financial” before “entity” in introductory provisions.
+    Subsec. (a). [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(2)(A), struck out “financial” before “entity” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 104–134, § 31001(m)(2)(B)][/us/pl/104/134/s31001/m/2/B], added par. (1), redesignated former par. (1) as (2), and redesignated former par. (2) as (3) and substituted “(1)(A) or (2)(B)” for “(1)(B)”.
+    Subsec. (c). [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(2)(B), added par. (1), redesignated former par. (1) as (2), and redesignated former par. (2) as (3) and substituted “(1)(A) or (2)(B)” for “(1)(B)”.
 
-    Subsec. (d). [Pub. L. 104–134, § 31001(m)(2)(D)(i)][/us/pl/104/134/s31001/m/2/D/i], struck out “financial” before “entity” in introductory provisions.
+    Subsec. (d). [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(2)(D)(i), struck out “financial” before “entity” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 104–134, § 31001(m)(2)(C)][/us/pl/104/134/s31001/m/2/C], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–134][/us/pl/104/134], § 31001(m)(2)(C), added subsec. (e).
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title V, § 533(b)][/us/pl/106/170/s533/b], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931], provided that: 
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 533(b), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to discharges of indebtedness after December 31, 1999.”
 
  __Effective Date__ 
 
-[Pub. L. 103–66, title XIII, § 13252(d)][/us/pl/103/66/s13252/d], Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532], provided that:
+[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13252(d), Aug. 10, 1993, [107 Stat. 532][/us/stat/107/532], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -113,21 +113,21 @@
 ----------
 
 [/us/usc/t31/s3701/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3701%2Fa%2F4
-[/us/pl/103/66/s13252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13252%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F531
-[/us/pl/104/134/s31001/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FA
+[/us/pl/104/134/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtIII
 [/us/stat/110/1321-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-368
-[/us/pl/106/170/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs533%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/104/134/s31001/m/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FD%2Fii
-[/us/pl/104/134/s31001/m/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FA
-[/us/pl/104/134/s31001/m/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FB
-[/us/pl/104/134/s31001/m/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FD%2Fi
-[/us/pl/104/134/s31001/m/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs31001%2Fm%2F2%2FC
-[/us/pl/106/170/s533/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs533%2Fb
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
-[/us/pl/103/66/s13252/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13252%2Fd
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F532
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 

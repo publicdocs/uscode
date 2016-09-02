@@ -73,13 +73,13 @@
 
         In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied as if such group were 1 entity, and the limitations under such subsections shall be allocated among the corporations in such group.
 
-(Added [Pub. L. 108–357, title II, § 248(a)][/us/pl/108/357/s248/a], Oct. 22, 2004, [118 Stat. 1454][/us/stat/118/1454]; amended [Pub. L. 109–135, title IV, § 403(g)(3)][/us/pl/109/135/s403/g/3], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
+(Added [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(a), Oct. 22, 2004, [118 Stat. 1454][/us/stat/118/1454]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(g)(3), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
 
  __Amendments__ 
 
-    2005—Subsec. (c)(2). [Pub. L. 109–135, § 403(g)(3)(B)][/us/pl/109/135/s403/g/3/B], inserted concluding provisions.
+    2005—Subsec. (c)(2). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(3)(B), inserted concluding provisions.
 
-    Subsec. (c)(3). [Pub. L. 109–135, § 403(g)(3)(A)][/us/pl/109/135/s403/g/3/A], struck out heading and text of par. (3). Text read as follows:
+    Subsec. (c)(3). [Pub. L. 109–135][/us/pl/109/135], § 403(g)(3)(A), struck out heading and text of par. (3). Text read as follows:
 
     “(A) In general.—Such term shall not include any core qualifying activities.
 
@@ -96,12 +96,12 @@
 ----------
 ----------
 
-[/us/pl/108/357/s248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1454
-[/us/pl/109/135/s403/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F3
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
-[/us/pl/109/135/s403/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F3%2FB
-[/us/pl/109/135/s403/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fg%2F3%2FA
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

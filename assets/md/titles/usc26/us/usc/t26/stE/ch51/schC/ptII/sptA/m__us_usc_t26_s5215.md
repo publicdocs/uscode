@@ -31,7 +31,7 @@
 
         For provisions relating to the abatement, credit, or refund of tax on distilled spirits returned to a distilled spirits plant under this section, see section 5008(c).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1364][/us/stat/72/1364]; amended [Pub. L. 89–44, title VIII, § 805(c)][/us/pl/89/44/s805/c], June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 91–659, § 2(c)][/us/pl/91/659/s2/c], Jan. 8, 1971, [84 Stat. 1964][/us/stat/84/1964]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 2(a)][/us/pl/95/176/s2/a], Nov. 14, 1977, [91 Stat. 1363][/us/stat/91/1363]; [Pub. L. 96–39, title VIII, § 807(a)(29)][/us/pl/96/39/s807/a/29], July 26, 1979, [93 Stat. 285][/us/stat/93/285]; [Pub. L. 98–369, div. A, title IV, § 454(c)(7)][/us/pl/98/369/s454/c/7], July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1364][/us/stat/72/1364]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(c), June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 91–659][/us/pl/91/659], § 2(c), Jan. 8, 1971, [84 Stat. 1964][/us/stat/84/1964]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 2(a), Nov. 14, 1977, [91 Stat. 1363][/us/stat/91/1363]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(29), July 26, 1979, [93 Stat. 285][/us/stat/93/285]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 454(c)(7), July 18, 1984, [98 Stat. 821][/us/stat/98/821].)
 
  __Prior Provisions__ 
 
@@ -53,9 +53,9 @@
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1971—Subsec. (a). [Pub. L. 91–659, § 2(c)(1)][/us/pl/91/659/s2/c/1], struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
+    1971—Subsec. (a). [Pub. L. 91–659][/us/pl/91/659], § 2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-    Subsec. (b). [Pub. L. 91–659, § 2(c)(2)][/us/pl/91/659/s2/c/2], (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
+    Subsec. (b). [Pub. L. 91–659][/us/pl/91/659], § 2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
 
     1965—Subsec. (a). [Pub. L. 89–44][/us/pl/89/44] inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 
@@ -90,19 +90,19 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1364
-[/us/pl/89/44/s805/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fc
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
-[/us/pl/91/659/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs2%2Fc
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/stat/84/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1964
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs2%2Fa
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1363
-[/us/pl/96/39/s807/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F29
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F285
-[/us/pl/98/369/s454/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs454%2Fc%2F7
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F821
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F640
@@ -114,8 +114,8 @@
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/659/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs2%2Fc%2F1
-[/us/pl/91/659/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659%2Fs2%2Fc%2F2
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
+[/us/pl/91/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F659
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs456%2Fb

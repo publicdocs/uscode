@@ -17,7 +17,7 @@
 
     For provisions relating to the effect of a qualified disclaimer for purposes of this chapter, see section 2518.
 
-(Added [Pub. L. 94–455, title XX, § 2009(b)(2)][/us/pl/94/455/s2009/b/2], Oct. 4, 1976, [90 Stat. 1893][/us/stat/90/1893], § 2045; renumbered § 2046, [Pub. L. 97–34, title IV, § 403(d)(3)(A)(i)][/us/pl/97/34/s403/d/3/A/i], Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304].)
+(Added [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2009(b)(2), Oct. 4, 1976, [90 Stat. 1893][/us/stat/90/1893], § 2045; renumbered § 2046, [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(d)(3)(A)(i), Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304].)
 
  __Effective Date__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s2009/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fb%2F2
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1893
-[/us/pl/97/34/s403/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fd%2F3%2FA%2Fi
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F304
 [/us/pl/94/455/s2009/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fe%2F2
 [/us/usc/t26/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2518

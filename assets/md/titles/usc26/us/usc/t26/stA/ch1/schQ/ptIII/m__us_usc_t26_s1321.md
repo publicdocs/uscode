@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIII/m__us_usc_t26_stA_ch1_schQ_ptIII.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIV/m__us_usc_t26_stA_ch1_schQ_ptIV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1321)
 
-## \[§ 1321. Repealed. [Pub. L. 94–455, title XIX, § 1901(a)(144)][/us/pl/94/455/s1901/a/144], Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788]\]
+## \[§ 1321. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(144), Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 342][/us/stat/68A/342], related to involuntary liquidation of LIFO inventories.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/a/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F144
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1788
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F342

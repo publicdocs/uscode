@@ -25,7 +25,7 @@
 
         In the case of an individual citizen of the United States who has been a bona fide resident of Puerto Rico for a period of at least 2 years before the date on which he changes his residence from Puerto Rico, income derived from sources therein (except amounts received for services performed as an employee of the United States or any agency thereof) which is attributable to that part of such period of Puerto Rican residence before such date; but such individual shall not be allowed as a deduction from his gross income any deductions (other than the deduction for personal exemptions under section 151), or any credit, properly allocable to or chargeable against amounts excluded from gross income under this paragraph.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 293][/us/stat/68A/293]; [Pub. L. 99–514, title XII, § 1272(d)(3)][/us/pl/99/514/s1272/d/3], Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 293][/us/stat/68A/293]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1272(d)(3), Oct. 22, 1986, [100 Stat. 2594][/us/stat/100/2594].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F293
-[/us/pl/99/514/s1272/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fd%2F3
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2594
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

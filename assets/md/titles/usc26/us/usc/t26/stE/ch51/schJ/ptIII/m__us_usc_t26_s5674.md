@@ -23,7 +23,7 @@
 
         Any brewer or other person who removes or in any way aids in the removal from any brewery of beer without complying with the provisions of this chapter or regulations issued pursuant thereto shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1408][/us/stat/72/1408]; amended [Pub. L. 95–458, § 2(b)(5)(A)][/us/pl/95/458/s2/b/5/A], Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1408][/us/stat/72/1408]; amended [Pub. L. 95–458][/us/pl/95/458], § 2(b)(5)(A), Oct. 14, 1978, [92 Stat. 1256][/us/stat/92/1256].)
 
  __Prior Provisions__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1408
-[/us/pl/95/458/s2/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fb%2F5%2FA
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1256
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F696

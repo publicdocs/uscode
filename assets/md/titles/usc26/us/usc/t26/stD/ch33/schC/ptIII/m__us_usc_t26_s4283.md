@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stD/ch33/schC/ptIII/m__us_usc_t26_s4282.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_stD_ch33_schD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4283)
 
-## \[§ 4283. Repealed. [Pub. L. 101–508, title XI, § 11213(e)(1)][/us/pl/101/508/s11213/e/1], Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436]\]
+## \[§ 4283. Repealed. [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11213(e)(1), Nov. 5, 1990, [104 Stat. 1388–436][/us/stat/104/1388-436]\]
 
-    Section, added [Pub. L. 100–223, title IV, § 405(a)][/us/pl/100/223/s405/a], Dec. 30, 1987, [101 Stat. 1533][/us/stat/101/1533]; amended [Pub. L. 101–239, title VII, § 7501(a)][/us/pl/101/239/s7501/a]–(b)(2), Dec. 19, 1989, [103 Stat. 2361][/us/stat/103/2361], provided for reduction in aviation-related taxes in certain cases.
+    Section, added [Pub. L. 100–223, title IV][/us/pl/100/223/tIV], § 405(a), Dec. 30, 1987, [101 Stat. 1533][/us/stat/101/1533]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7501(a)–(b)(2), Dec. 19, 1989, [103 Stat. 2361][/us/stat/103/2361], provided for reduction in aviation-related taxes in certain cases.
 
 ----------
 
@@ -24,11 +24,11 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11213/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11213%2Fe%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-436
-[/us/pl/100/223/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2Fs405%2Fa
+[/us/pl/100/223/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F223%2FtIV
 [/us/stat/101/1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1533
-[/us/pl/101/239/s7501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7501%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2361
 
 

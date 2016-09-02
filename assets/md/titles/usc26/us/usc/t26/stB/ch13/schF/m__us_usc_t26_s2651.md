@@ -99,15 +99,15 @@
 
             shall be assigned to the transferor’s generation.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2725][/us/stat/100/2725]; amended [Pub. L. 100–647, title I, § 1014(g)(11)][/us/pl/100/647/s1014/g/11], (19), Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565], 3567; [Pub. L. 105–34, title V, § 511(a)][/us/pl/105/34/s511/a], Aug. 5, 1997, [111 Stat. 860][/us/stat/111/860].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2725][/us/stat/100/2725]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1014(g)(11), (19), Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565], 3567; [Pub. L. 105–34, title V][/us/pl/105/34/tV], § 511(a), Aug. 5, 1997, [111 Stat. 860][/us/stat/111/860].)
 
  __Amendments__ 
 
     1997—Subsecs. (e), (f). [Pub. L. 105–34][/us/pl/105/34] added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    1988—Subsec. (b)(2). [Pub. L. 100–647, § 1014(g)(19)][/us/pl/100/647/s1014/g/19], inserted “(or former spouse)” after “a spouse”.
+    1988—Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(19), inserted “(or former spouse)” after “a spouse”.
 
-    Subsec. (e)(3). [Pub. L. 100–647, § 1014(g)(11)][/us/pl/100/647/s1014/g/11], amended par. (3) generally, including governmental entities among the organizations to be assigned to transferor’s generation.
+    Subsec. (e)(3). [Pub. L. 100–647][/us/pl/100/647], § 1014(g)(11), amended par. (3) generally, including governmental entities among the organizations to be assigned to transferor’s generation.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -128,15 +128,15 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2725
-[/us/pl/100/647/s1014/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F11
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3565
-[/us/pl/105/34/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs511%2Fa
+[/us/pl/105/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtV
 [/us/stat/111/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F860
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/100/647/s1014/g/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F19
-[/us/pl/100/647/s1014/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F11
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s511/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs511%2Fc
 [/us/usc/t26/s2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2612

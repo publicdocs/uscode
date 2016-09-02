@@ -17,7 +17,7 @@
 
     Every person procuring or using distilled spirits withdrawn under section 5214(a)(2) or (3), or procuring, dealing in, or using specially denatured distilled spirits, or recovering specially denatured or completely denatured distilled spirits, shall keep such records and file such reports of the receipt and use of distilled spirits withdrawn free of tax, of the receipt, disposition, use, and recovery of denatured distilled spirits, the manufacture and disposition of articles, and such other information as the Secretary may be regulations require. The Secretary may require any person reprocessing, bottling or repackaging articles, or dealing in completely denatured distilled spirits or articles, to keep such records, submit such reports, and comply with such other requirements as he may by regulations prescribe. Records required to be kept under this section and a copy of all reports required to be filed shall be preserved as regulations shall prescribe and shall be kept available for inspection by any internal revenue officer during business hours. Such officer may also inspect and take samples of distilled spirits, denatured distilled spirits, or articles (including any substances for use in the manufacture thereof), to which such records or reports relate.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1373][/us/stat/72/1373]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1373][/us/stat/72/1373]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Prior Provisions__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1373
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F651

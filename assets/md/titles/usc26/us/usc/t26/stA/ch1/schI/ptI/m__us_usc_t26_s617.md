@@ -159,7 +159,7 @@
 
         For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).
 
-(Added [Pub. L. 89–570, § 1(a)][/us/pl/89/570/s1/a], Sept. 12, 1966, [80 Stat. 759][/us/stat/80/759]; amended [Pub. L. 91–172, title V, § 504(b)][/us/pl/91/172/s504/b], Dec. 30, 1969, [83 Stat. 632][/us/stat/83/632]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1793, 1797, 1834; [Pub. L. 97–248, title II, § 201(d)(9)(D)][/us/pl/97/248/s201/d/9/D], formerly § 201(c)(9)(D), § 224(c)(8), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 489, renumbered § 201(d)(9)(D), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title IV][/us/pl/99/514], §§ 411(b)(2)(B), 413(b), Oct. 22, 1986, [100 Stat. 2226][/us/stat/100/2226], 2228; [Pub. L. 100–647, title I, § 1007(g)(7)][/us/pl/100/647/s1007/g/7], Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435]; [Pub. L. 101–508, title XI, § 11801(a)(27)][/us/pl/101/508/s11801/a/27], (c)(13), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527.)
+(Added [Pub. L. 89–570][/us/pl/89/570], § 1(a), Sept. 12, 1966, [80 Stat. 759][/us/stat/80/759]; amended [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 504(b), Dec. 30, 1969, [83 Stat. 632][/us/stat/83/632]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1793, 1797, 1834; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 201(d)(9)(D), formerly § 201(c)(9)(D), § 224(c)(8), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 489, renumbered § 201(d)(9)(D), [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(a)(1)(A)(i), Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title IV][/us/pl/99/514/tIV], §§ 411(b)(2)(B), 413(b), Oct. 22, 1986, [100 Stat. 2226][/us/stat/100/2226], 2228; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1007(g)(7), Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(a)(27), (c)(13), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527.)
 
  __Amendments__ 
 
@@ -167,35 +167,35 @@
 
     1988—Subsec. (j). [Pub. L. 100–647][/us/pl/100/647] substituted “section 59(e)” for “section 58(i)”.
 
-    1986—Subsec. (d)(5). [Pub. L. 99–514, § 413(b)][/us/pl/99/514/s413/b], added par. (5).
+    1986—Subsec. (d)(5). [Pub. L. 99–514][/us/pl/99/514], § 413(b), added par. (5).
 
-    Subsec. (h). [Pub. L. 99–514, § 411(b)(2)(B)][/us/pl/99/514/s411/b/2/B], amended subsec. (h) generally, substituting provisions relating to special rules for foreign exploration for provisions relating to limitations.
+    Subsec. (h). [Pub. L. 99–514][/us/pl/99/514], § 411(b)(2)(B), amended subsec. (h) generally, substituting provisions relating to special rules for foreign exploration for provisions relating to limitations.
 
-    1982—Subsec. (h)(3)(B). [Pub. L. 97–248, § 224(c)(8)][/us/pl/97/248/s224/c/8], inserted “338,” after “334(b),”.
+    1982—Subsec. (h)(3)(B). [Pub. L. 97–248][/us/pl/97/248], § 224(c)(8), inserted “338,” after “334(b),”.
 
-    Subsec. (j). [Pub. L. 97–248, § 201(d)(9)(D)][/us/pl/97/248/s201/d/9/D], formerly § 201(c)(9)(D), added subsec. (j).
+    Subsec. (j). [Pub. L. 97–248][/us/pl/97/248], § 201(d)(9)(D), formerly § 201(c)(9)(D), added subsec. (j).
 
-    1976—Subsec. (a)(2)(A). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (a)(2)(B). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(a)(89), 1906(b)(13)(A), substituted “may not be revoked unless” for “may not be revoked after the last day of the third month following the month in which the final regulations issued under the authority of this subsection are published in the Federal Register, unless”, and struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(2)(A). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (b)(2)(A). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d)(1). [Pub. L. 94–455, § 1901(b)(3)(K)][/us/pl/94/455/s1901/b/3/K], substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+    Subsec. (d)(1). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
-    Subsecs. (d)(2), (e)(2), (g)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsecs. (d)(2), (e)(2), (g)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (h)(1). [Pub. L. 94–455, § 1901(b)(21)(C)][/us/pl/94/455/s1901/b/21/C], substituted “and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
+    Subsec. (h)(1). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(21)(C), substituted “and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
 
-    Subsec. (h)(3). [Pub. L. 94–455, § 1901(b)(21)(D)][/us/pl/94/455/s1901/b/21/D], struck out “and all amounts treated as deferred expenses which were paid or incurred” after “amounts deducted” in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted “374(b)(1)” for “373(b)(1)”. Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
+    Subsec. (h)(3). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(21)(D), struck out “and all amounts treated as deferred expenses which were paid or incurred” after “amounts deducted” in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted “374(b)(1)” for “373(b)(1)”. Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
-    Subsec. (i). [Pub. L. 94–455, § 1901(b)(21)(E)][/us/pl/94/455/s1901/b/21/E], added subsec. (i).
+    Subsec. (i). [Pub. L. 94–455][/us/pl/94/455], § 1901(b)(21)(E), added subsec. (i).
 
-    1969—[Pub. L. 91–172, § 504(b)(1)][/us/pl/91/172/s504/b/1], substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
+    1969—[Pub. L. 91–172][/us/pl/91/172], § 504(b)(1), substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
 
-    Subsec. (a)(1). [Pub. L. 91–172, § 504(b)(2)][/us/pl/91/172/s504/b/2], struck out reference to United States, the Outer Continental Shelf and the Outer Continental Shelf Lands Act from general rule dealing with allowance of deductions for expenditures in ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral.
+    Subsec. (a)(1). [Pub. L. 91–172][/us/pl/91/172], § 504(b)(2), struck out reference to United States, the Outer Continental Shelf and the Outer Continental Shelf Lands Act from general rule dealing with allowance of deductions for expenditures in ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral.
 
-    Subsec. (h). [Pub. L. 91–172, § 504(b)(3)][/us/pl/91/172/s504/b/3], substituted provisions imposing limitations on the operation of this section for provision making cross reference to subsecs. (f) and (g) of section 615.
+    Subsec. (h). [Pub. L. 91–172][/us/pl/91/172], § 504(b)(3), substituted provisions imposing limitations on the operation of this section for provision making cross reference to subsecs. (f) and (g) of section 615.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -223,7 +223,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 89–570, § 3][/us/pl/89/570/s3], Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764], provided that: 
+[Pub. L. 89–570][/us/pl/89/570], § 3, Sept. 12, 1966, [80 Stat. 764][/us/stat/80/764], provided that: 
 
 > “The amendments made by this Act \[enacting this section and amending sections 170, 301, 312, 341, 453, 615, 703, and 751 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 12, 1966\] but only in respect of expenditures paid or incurred after such date.”
 
@@ -238,39 +238,39 @@
 ----------
 ----------
 
-[/us/pl/89/570/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570%2Fs1%2Fa
+[/us/pl/89/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570
 [/us/stat/80/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F759
-[/us/pl/91/172/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fb
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F632
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1779
-[/us/pl/97/248/s201/d/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F9%2FD
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F420
-[/us/pl/97/448/s306/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F1%2FA%2Fi
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2400
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIV
 [/us/stat/100/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2226
-[/us/pl/100/647/s1007/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fg%2F7
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3435
-[/us/pl/101/508/s11801/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F27
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs413%2Fb
-[/us/pl/99/514/s411/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs411%2Fb%2F2%2FB
-[/us/pl/97/248/s224/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs224%2Fc%2F8
-[/us/pl/97/248/s201/d/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs201%2Fd%2F9%2FD
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FK
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/b/21/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F21%2FC
-[/us/pl/94/455/s1901/b/21/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F21%2FD
-[/us/pl/94/455/s1901/b/21/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F21%2FE
-[/us/pl/91/172/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fb%2F1
-[/us/pl/91/172/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fb%2F2
-[/us/pl/91/172/s504/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fb%2F3
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
@@ -294,7 +294,7 @@
 [/us/usc/t26/s615/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs615%2Fe
 [/us/pl/91/172/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs504%2Fd
 [/us/usc/t26/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs243
-[/us/pl/89/570/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570%2Fs3
+[/us/pl/89/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F570
 [/us/stat/80/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F764
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb

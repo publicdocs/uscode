@@ -49,7 +49,7 @@
 
         Whoever, otherwise than as provided in subsection (a), violates any provision of this chapter, or of regulations prescribed thereunder, shall, for each such offense, be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 717][/us/stat/68A/717]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 89–44, title V, § 502(b)(12)][/us/pl/89/44/s502/b/12], June 21, 1965, [79 Stat. 152][/us/stat/79/152]; [Pub. L. 94–455, title XIX, § 1905(b)(7)(B)(ii)][/us/pl/94/455/s1905/b/7/B/ii], Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823]; [Pub. L. 105–33, title IX, § 9302(h)(2)(A)][/us/pl/105/33/s9302/h/2/A], Aug. 5, 1997, [111 Stat. 674][/us/stat/111/674].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 717][/us/stat/68A/717]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 89–44, title V][/us/pl/89/44/tV], § 502(b)(12), June 21, 1965, [79 Stat. 152][/us/stat/79/152]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1905(b)(7)(B)(ii), Oct. 4, 1976, [90 Stat. 1823][/us/stat/90/1823]; [Pub. L. 105–33, title IX][/us/pl/105/33/tIX], § 9302(h)(2)(A), Aug. 5, 1997, [111 Stat. 674][/us/stat/111/674].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 
     Subsec. (a)(8) to (11). [Pub. L. 94–455][/us/pl/94/455] struck out pars. (8) to (11) which related to emptying packages without destroying stamps, possessing emptied packages bearing stamps, refilling packages bearing stamps, and detaching stamps or possessing used stamps.
 
-    1965—Subsec. (a)(1). [Pub. L. 89–44, § 502(b)(12)(A)][/us/pl/89/44/s502/b/12/A], struck out reference to a dealer in tobacco materials.
+    1965—Subsec. (a)(1). [Pub. L. 89–44][/us/pl/89/44], § 502(b)(12)(A), struck out reference to a dealer in tobacco materials.
 
-    Subsec. (a)(2). [Pub. L. 89–44, § 502(b)(12)(B)][/us/pl/89/44/s502/b/12/B], struck out reference to statements.
+    Subsec. (a)(2). [Pub. L. 89–44][/us/pl/89/44], § 502(b)(12)(B), struck out reference to statements.
 
     1958—Subsec. (a). [Pub. L. 85–859][/us/pl/85/859] included export warehouse proprietors in par. (1), struck out provisions in pars. (6) and (9) to (11) which related to labels and notices, and added pars. (7) and (8).
 
@@ -92,20 +92,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F717
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1425
-[/us/pl/89/44/s502/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F12
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F152
-[/us/pl/94/455/s1905/b/7/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1905%2Fb%2F7%2FB%2Fii
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1823
-[/us/pl/105/33/s9302/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F2%2FA
+[/us/pl/105/33/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIX
 [/us/stat/111/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F674
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/89/44/s502/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F12%2FA
-[/us/pl/89/44/s502/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F12%2FB
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t26/s5702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5702%2Fj

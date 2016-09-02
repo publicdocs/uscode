@@ -153,7 +153,7 @@
 
         For purposes of this chapter, the term “enactment date” means the date of the enactment of this chapter.
 
-(Added [Pub. L. 102–486, title XIX, § 19143(a)][/us/pl/102/486/s19143/a], Oct. 24, 1992, [106 Stat. 3037][/us/stat/106/3037]; amended [Pub. L. 109–432, div. C, title II, § 211(d)][/us/pl/109/432/s211/d], Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023].)
+(Added [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19143(a), Oct. 24, 1992, [106 Stat. 3037][/us/stat/106/3037]; amended [Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 211(d), Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023].)
 
  __References in Text__ 
 
@@ -167,13 +167,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. C, title II, § 211(e)][/us/pl/109/432/s211/e], Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023], provided that: 
+[Pub. L. 109–432, div. C, title II][/us/pl/109/432/dC/tII], § 211(e), Dec. 20, 2006, [120 Stat. 3023][/us/stat/120/3023], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 9704, 9711, and 9712 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\], except that the amendment made by subsection (d) \[amending this section\] shall apply to transactions after the date of the enactment of this Act.”
 
  __Findings and Declaration of Policy__ 
 
-[Pub. L. 102–486, title XIX, § 19142][/us/pl/102/486/s19142], Oct. 24, 1992, [106 Stat. 3037][/us/stat/106/3037], provided that:
+[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 19142, Oct. 24, 1992, [106 Stat. 3037][/us/stat/106/3037], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -200,16 +200,16 @@
 ----------
 ----------
 
-[/us/pl/102/486/s19143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19143%2Fa
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3037
-[/us/pl/109/432/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs211%2Fd
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3023
 [/us/usc/t26/s9713A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9713A
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/432/s211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs211%2Fe
+[/us/pl/109/432/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtII
 [/us/stat/120/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3023
-[/us/pl/102/486/s19142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs19142
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3037
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

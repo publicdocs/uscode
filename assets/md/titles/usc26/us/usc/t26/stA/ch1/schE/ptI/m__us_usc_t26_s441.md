@@ -129,27 +129,27 @@
 
             A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 148][/us/stat/68A/148]; [Pub. L. 88–272, title II, § 235(c)(3)][/us/pl/88/272/s235/c/3], Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–30, title I, § 102(b)(5)][/us/pl/95/30/s102/b/5], May 23, 1977, [91 Stat. 137][/us/stat/91/137]; [Pub. L. 98–369, div. A, title IV, § 474(b)(2)][/us/pl/98/369/s474/b/2], title VIII, § 803, July 18, 1984, [98 Stat. 830][/us/stat/98/830], 1000; [Pub. L. 99–514, title I, § 104(b)(6)][/us/pl/99/514/s104/b/6], title VIII, § 806(c)(1), (d), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2364; [Pub. L. 100–647, title I, § 1008(e)(4)][/us/pl/100/647/s1008/e/4], Nov. 10, 1988, [102 Stat. 3440][/us/stat/102/3440]; [Pub. L. 110–172, § 11(g)(7)][/us/pl/110/172/s11/g/7], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 148][/us/stat/68A/148]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 235(c)(3), Feb. 26, 1964, [78 Stat. 127][/us/stat/78/127]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 102(b)(5), May 23, 1977, [91 Stat. 137][/us/stat/91/137]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(b)(2), title VIII, § 803, July 18, 1984, [98 Stat. 830][/us/stat/98/830], 1000; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(6), title VIII, § 806(c)(1), (d), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2364; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1008(e)(4), Nov. 10, 1988, [102 Stat. 3440][/us/stat/102/3440]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(7), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(4). [Pub. L. 110–172, § 11(g)(7)(A)][/us/pl/110/172/s11/g/7/A], struck out “FSC or” before “DISC filing”.
+    2007—Subsec. (b)(4). [Pub. L. 110–172][/us/pl/110/172], § 11(g)(7)(A), struck out “FSC or” before “DISC filing”.
 
-    Subsec. (h). [Pub. L. 110–172, § 11(g)(7)(B)][/us/pl/110/172/s11/g/7/B], struck out “FSC’s and” before “DISC’s” in heading and “FSC or” before “DISC” in pars. (1) and (2).
+    Subsec. (h). [Pub. L. 110–172][/us/pl/110/172], § 11(g)(7)(B), struck out “FSC’s and” before “DISC’s” in heading and “FSC or” before “DISC” in pars. (1) and (2).
 
     1988—Subsec. (i)(2). [Pub. L. 100–647][/us/pl/100/647] inserted at end “A corporation shall not be treated as a personal service corporation unless more than 10 percent of the stock (by value) in such corporation is held by employee-owners (within the meaning of section 269A(b)(2), as modified by the preceding sentence). If a corporation is a member of an affiliated group filing a consolidated return, all members of such group shall be taken into account in determining whether such corporation is a personal service corporation.”
 
-    1986—Subsec. (f)(2)(B)(iii). [Pub. L. 99–514, § 104(b)(6)][/us/pl/99/514/s104/b/6], struck out “and by adding the zero bracket amount,” after “in the short period,”.
+    1986—Subsec. (f)(2)(B)(iii). [Pub. L. 99–514][/us/pl/99/514], § 104(b)(6), struck out “and by adding the zero bracket amount,” after “in the short period,”.
 
-    Subsec. (f)(3), (4). [Pub. L. 99–514, § 806(d)][/us/pl/99/514/s806/d], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (f)(3), (4). [Pub. L. 99–514][/us/pl/99/514], § 806(d), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (i). [Pub. L. 99–514, § 806(c)(1)][/us/pl/99/514/s806/c/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 99–514][/us/pl/99/514], § 806(c)(1), added subsec. (i).
 
-    1984—Subsec. (b)(4). [Pub. L. 98–369, § 803(a)][/us/pl/98/369/s803/a], added par. (4).
+    1984—Subsec. (b)(4). [Pub. L. 98–369][/us/pl/98/369], § 803(a), added par. (4).
 
-    Subsec. (f)(2)(A). [Pub. L. 98–369, § 474(b)(2)][/us/pl/98/369/s474/b/2], substituted “section 15” for “section 21” in provisions preceding cl. (i).
+    Subsec. (f)(2)(A). [Pub. L. 98–369][/us/pl/98/369], § 474(b)(2), substituted “section 15” for “section 21” in provisions preceding cl. (i).
 
-    Subsec. (h). [Pub. L. 98–369, § 803(b)][/us/pl/98/369/s803/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 98–369][/us/pl/98/369], § 803(b), added subsec. (h).
 
     1977—Subsec. (f)(2)(B)(iii). [Pub. L. 95–30][/us/pl/95/30] substituted “multiplying the gross income for such short period (minus the deductions allowed by this chapter for the short period, but only the adjusted amount of the deductions for personal exemptions as described in section 443(c)) by 365, by dividing the result by the number of days in the short period, and by adding the zero bracket amount” for “multiplying such income by 365 and dividing the result by the number of days in the short period”.
 
@@ -194,29 +194,29 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F148
-[/us/pl/88/272/s235/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fc%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F127
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/30/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs102%2Fb%2F5
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F137
-[/us/pl/98/369/s474/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fb%2F2
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F830
-[/us/pl/99/514/s104/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F6
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
-[/us/pl/100/647/s1008/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1008%2Fe%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3440
-[/us/pl/110/172/s11/g/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F7
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
-[/us/pl/110/172/s11/g/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F7%2FA
-[/us/pl/110/172/s11/g/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F7%2FB
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s104/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F6
-[/us/pl/99/514/s806/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fd
-[/us/pl/99/514/s806/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs806%2Fc%2F1
-[/us/pl/98/369/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs803%2Fa
-[/us/pl/98/369/s474/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fb%2F2
-[/us/pl/98/369/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs803%2Fb
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272

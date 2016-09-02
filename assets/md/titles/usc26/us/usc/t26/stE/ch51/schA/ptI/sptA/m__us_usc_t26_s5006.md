@@ -57,23 +57,23 @@
 
         For provisions relating to removal of distilled spirits from bonded premises on determination of tax, see section 5213.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1320][/us/stat/72/1320]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39], §§ 804(a), 807(a)(4), July 26, 1979, [93 Stat. 274][/us/stat/93/274], 280.)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1320][/us/stat/72/1320]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], §§ 804(a), 807(a)(4), July 26, 1979, [93 Stat. 274][/us/stat/93/274], 280.)
 
  __Prior Provisions__ 
 
-    A prior section 5006, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 599][/us/stat/68A/599]; Sept. 2, 1958, [Pub. L. 85–859, title II, § 206(a)][/us/pl/85/859/s206/a], [72 Stat. 1431][/us/stat/72/1431], consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
+    A prior section 5006, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 599][/us/stat/68A/599]; Sept. 2, 1958, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 206(a), [72 Stat. 1431][/us/stat/72/1431], consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
     Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section were contained in prior sections 5007(e)(1) and 5232(a), [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 600][/us/stat/68A/600], 643, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
  __Amendments__ 
 
-    1979—Subsec. (a)(1). [Pub. L. 96–39, § 804(a)][/us/pl/96/39/s804/a], struck out “internal revenue” after “provided in this section, the” and “storage, gauging, and bottling” after “but not limited to”.
+    1979—Subsec. (a)(1). [Pub. L. 96–39][/us/pl/96/39], § 804(a), struck out “internal revenue” after “provided in this section, the” and “storage, gauging, and bottling” after “but not limited to”.
 
-    Subsec. (a)(2), (3). [Pub. L. 96–39, § 804(a)][/us/pl/96/39/s804/a], redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
+    Subsec. (a)(2), (3). [Pub. L. 96–39][/us/pl/96/39], § 804(a), redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
 
-    Subsec. (b)(1). [Pub. L. 96–39, § 807(a)(4)(A)][/us/pl/96/39/s807/a/4/A], (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for “, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
+    Subsec. (b)(1). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(4)(A), (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for “, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
 
-    Subsec. (b)(2), (3). [Pub. L. 96–39, § 807(a)(4)(B)][/us/pl/96/39/s807/a/4/B], substituted “on bonded premises” for “in storage in internal revenue bond”.
+    Subsec. (b)(2), (3). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(4)(B), substituted “on bonded premises” for “in storage in internal revenue bond”.
 
     1976—Subsecs. (a) to (c). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -83,7 +83,7 @@
 
  __Application of 1972 Amendments to Prior Sections__ 
 
-[Pub. L. 85–859, title II, § 206(f)][/us/pl/85/859/s206/f], Sept. 2, 1958, [72 Stat. 1431][/us/stat/72/1431], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
+[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 206(f), Sept. 2, 1958, [72 Stat. 1431][/us/stat/72/1431], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided:
 
 >     “(1)
 
@@ -108,31 +108,31 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1320
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F274
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F599
-[/us/pl/85/859/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs206%2Fa
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1431
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F600
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/96/39/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs804%2Fa
-[/us/pl/96/39/s804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs804%2Fa
-[/us/pl/96/39/s807/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F4%2FA
-[/us/pl/96/39/s807/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F4%2FB
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/85/859/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs206%2Ff
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1431
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

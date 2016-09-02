@@ -61,17 +61,17 @@
 
         The requirement in paragraphs (1), (2), (3), and (4) that all convertible securities must be included if any are to be included shall be subject to the exception that, where some of the outstanding securities are convertible only after a later date than in the case of others, the class having the earlier conversion date may be included although the others are not included, but no convertible securities shall be included unless all outstanding securities having a prior conversion date are also included.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 188][/us/stat/68A/188]; [Pub. L. 86–435, § 1(c)][/us/pl/86/435/s1/c], (d), Apr. 22, 1960, [74 Stat. 78][/us/stat/74/78]; [Pub. L. 88–272, title II, § 225(k)(3)][/us/pl/88/272/s225/k/3], Feb. 26, 1964, [78 Stat. 93][/us/stat/78/93].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 188][/us/stat/68A/188]; [Pub. L. 86–435][/us/pl/86/435], § 1(c), (d), Apr. 22, 1960, [74 Stat. 78][/us/stat/74/78]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 225(k)(3), Feb. 26, 1964, [78 Stat. 93][/us/stat/78/93].)
 
  __Amendments__ 
 
     1964—[Pub. L. 88–272][/us/pl/88/272] substituted “section 543(a)(7)” for “section 543(a)(5)”, and “section 543(a)(4)” for “section 543(a)(9),” wherever appearing.
 
-    1960—Subsec. (a). [Pub. L. 86–435, § 1(c)(1)][/us/pl/86/435/s1/c/1], inserted reference to section 543(a)(9) in introductory provisions.
+    1960—Subsec. (a). [Pub. L. 86–435][/us/pl/86/435], § 1(c)(1), inserted reference to section 543(a)(9) in introductory provisions.
 
-    Subsec. (a)(4)(B). [Pub. L. 86–435, § 1(c)(2)][/us/pl/86/435/s1/c/2], included reference to section 543(a)(9).
+    Subsec. (a)(4)(B). [Pub. L. 86–435][/us/pl/86/435], § 1(c)(2), included reference to section 543(a)(9).
 
-    Subsec. (b). [Pub. L. 86–435, § 1(d)][/us/pl/86/435/s1/d], added par. (4), and inserted reference to par. (4) in last sentence.
+    Subsec. (b). [Pub. L. 86–435][/us/pl/86/435], § 1(d), added par. (4), and inserted reference to par. (4) in last sentence.
 
  __Effective Date of 1964 Amendment__ 
 
@@ -90,14 +90,14 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F188
-[/us/pl/86/435/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fc
+[/us/pl/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435
 [/us/stat/74/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F78
-[/us/pl/88/272/s225/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs225%2Fk%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F93
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/86/435/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fc%2F1
-[/us/pl/86/435/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fc%2F2
-[/us/pl/86/435/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fd
+[/us/pl/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435
+[/us/pl/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435
+[/us/pl/86/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/usc/t26/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs316

@@ -61,21 +61,21 @@
 
         For penalties for the unauthorized disclosure of tax convention information which is return or return information, see sections 7213, 7213A, and 7431.
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 304(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–633; amended [Pub. L. 107–134, title II, § 201(c)(9)][/us/pl/107/134/s201/c/9], Jan. 23, 2002, [115 Stat. 2444][/us/stat/115/2444]; [Pub. L. 107–147, title IV, § 417(18)][/us/pl/107/147/s417/18], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 304(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–633; amended [Pub. L. 107–134, title II][/us/pl/107/134/tII], § 201(c)(9), Jan. 23, 2002, [115 Stat. 2444][/us/stat/115/2444]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(18), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Prior Provisions__ 
 
-    A prior section 6105, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 755][/us/stat/68A/755], authorized the Secretary or his delegate to compile, beginning after June 31, 1941, all cases in which relief from excess profits tax has been allowed, prior to repeal by [Pub. L. 94–455, title XIX, § 1906(a)(7)][/us/pl/94/455/s1906/a/7], Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824].
+    A prior section 6105, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 755][/us/stat/68A/755], authorized the Secretary or his delegate to compile, beginning after June 31, 1941, all cases in which relief from excess profits tax has been allowed, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(7), Oct. 4, 1976, [90 Stat. 1824][/us/stat/90/1824].
 
  __Amendments__ 
 
-    2002—Subsec. (b)(2). [Pub. L. 107–134, § 201(c)(9)(A)][/us/pl/107/134/s201/c/9/A], struck out “or” at end.
+    2002—Subsec. (b)(2). [Pub. L. 107–134][/us/pl/107/134], § 201(c)(9)(A), struck out “or” at end.
 
-    Subsec. (b)(3). [Pub. L. 107–134, § 201(c)(9)(D)][/us/pl/107/134/s201/c/9/D], added par. (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 107–134][/us/pl/107/134], § 201(c)(9)(D), added par. (3). Former par. (3) redesignated (4).
 
-    [Pub. L. 107–134, § 201(c)(9)(B)][/us/pl/107/134/s201/c/9/B], substituted “paragraph (1), (2), or (3)” for “paragraphs (1) or (2)”.
+    [Pub. L. 107–134][/us/pl/107/134], § 201(c)(9)(B), substituted “paragraph (1), (2), or (3)” for “paragraphs (1) or (2)”.
 
-    Subsec. (b)(4). [Pub. L. 107–134, § 201(c)(9)(C)][/us/pl/107/134/s201/c/9/C], redesignated par. (3) as (4).
+    Subsec. (b)(4). [Pub. L. 107–134][/us/pl/107/134], § 201(c)(9)(C), redesignated par. (3) as (4).
 
     Subsec. (c)(1)(C), (E). [Pub. L. 107–147][/us/pl/107/147] struck out “any” after subpar. designation.
 
@@ -90,20 +90,20 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/134/s201/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fc%2F9
+[/us/pl/107/134/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtII
 [/us/stat/115/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2444
-[/us/pl/107/147/s417/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F18
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F755
-[/us/pl/94/455/s1906/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F7
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1824
-[/us/pl/107/134/s201/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fc%2F9%2FA
-[/us/pl/107/134/s201/c/9/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fc%2F9%2FD
-[/us/pl/107/134/s201/c/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fc%2F9%2FB
-[/us/pl/107/134/s201/c/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fc%2F9%2FC
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
+[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs201%2Fd

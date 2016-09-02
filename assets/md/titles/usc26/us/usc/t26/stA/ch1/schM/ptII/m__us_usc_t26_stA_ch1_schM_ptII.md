@@ -59,11 +59,11 @@
 
  __Amendments__ 
 
-    1978—[Pub. L. 95–600, title III, § 362(d)(7)][/us/pl/95/600/s362/d/7], Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], substituted in item 859 “Adoption of annual accounting period” for “Deduction of deficiency dividends” and struck out item 860 “Adoption of annual accounting period”.
+    1978—[Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(d)(7), Nov. 6, 1978, [92 Stat. 2852][/us/stat/92/2852], substituted in item 859 “Adoption of annual accounting period” for “Deduction of deficiency dividends” and struck out item 860 “Adoption of annual accounting period”.
 
-    1976—[Pub. L. 94–455, title XVI][/us/pl/94/455], §§ 1601(a)(2), 1604(i)(2), Oct. 4, 1976, [90 Stat. 1745][/us/stat/90/1745], 1752, added items 859 and 860.
+    1976—[Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], §§ 1601(a)(2), 1604(i)(2), Oct. 4, 1976, [90 Stat. 1745][/us/stat/90/1745], 1752, added items 859 and 860.
 
-    1960—[Pub. L. 86–779, § 10(a)][/us/pl/86/779/s10/a], Sept. 14, 1960, [74 Stat. 1003][/us/stat/74/1003], added part II analysis.
+    1960—[Pub. L. 86–779][/us/pl/86/779], § 10(a), Sept. 14, 1960, [74 Stat. 1003][/us/stat/74/1003], added part II analysis.
 
 ----------
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/95/600/s362/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fd%2F7
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2852
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1745
-[/us/pl/86/779/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs10%2Fa
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1003
 
 

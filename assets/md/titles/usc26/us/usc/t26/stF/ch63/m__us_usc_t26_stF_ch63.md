@@ -71,7 +71,7 @@
 
  __Amendment of Analysis__ 
 
-    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (b)(2), (c)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (b)(2), (c)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is amended as follows:
 
     (1) by striking the item relating to subchapter C “Tax treatment of partnership items”;
 
@@ -83,17 +83,17 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (b)(2), (c)(2), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, added item for subchapter C and struck out former items for subchapter C “Tax treatment of partnership items” and subchapter D “Treatment of electing large partnerships”.
+    2015—[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (b)(2), (c)(2), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 637, added item for subchapter C and struck out former items for subchapter C “Tax treatment of partnership items” and subchapter D “Treatment of electing large partnerships”.
 
-    1997—[Pub. L. 105–34, title XII, § 1222(c)][/us/pl/105/34/s1222/c], Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], added item for subchapter D.
+    1997—[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1222(c), Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019], added item for subchapter D.
 
-    1996—[Pub. L. 104–188, title I, § 1307(c)(3)(C)][/us/pl/104/188/s1307/c/3/C], Aug. 20, 1996, [110 Stat. 1782][/us/stat/110/1782], struck out item for subchapter D “Tax treatment of subchapter S items”.
+    1996—[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1307(c)(3)(C), Aug. 20, 1996, [110 Stat. 1782][/us/stat/110/1782], struck out item for subchapter D “Tax treatment of subchapter S items”.
 
-    1982—[Pub. L. 97–354, § 4(b)][/us/pl/97/354/s4/b], Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692], added item for subchapter D.
+    1982—[Pub. L. 97–354][/us/pl/97/354], § 4(b), Oct. 19, 1982, [96 Stat. 1692][/us/stat/96/1692], added item for subchapter D.
 
-    [Pub. L. 97–248, title IV, § 402(b)][/us/pl/97/248/s402/b], Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667], added item for subchapter C.
+    [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(b), Sept. 3, 1982, [96 Stat. 667][/us/stat/96/667], added item for subchapter C.
 
-    1969—[Pub. L. 91–172, title I, § 101(j)(63)][/us/pl/91/172/s101/j/63], Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], inserted reference to certain excise taxes in item for subchapter B.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(63), Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], inserted reference to certain excise taxes in item for subchapter B.
 
 ----------
 
@@ -102,19 +102,19 @@
 ----------
 ----------
 
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/105/34/s1222/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fc
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1019
-[/us/pl/104/188/s1307/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fc%2F3%2FC
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1782
-[/us/pl/97/354/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs4%2Fb
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1692
-[/us/pl/97/248/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fb
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F667
-[/us/pl/91/172/s101/j/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F63
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F532
 
 

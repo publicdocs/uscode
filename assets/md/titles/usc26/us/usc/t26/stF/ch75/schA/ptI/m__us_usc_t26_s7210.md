@@ -17,15 +17,15 @@
 
     Any person who, being duly summoned to appear to testify, or to appear and produce books, accounts, records, memoranda, or other papers, as required under sections 6420(e)(2), 6421(g)(2), 6427(j)(2), 7602, 7603, and 7604(b), neglects to appear or to produce such books, accounts, records, memoranda, or other papers, shall, upon conviction thereof, be fined not more than $1,000, or imprisoned not more than 1 year, or both, together with costs of prosecution.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 854][/us/stat/68A/854]; [Apr. 2, 1956, ch. 160, § 4(h)][/us/act/1956-04-02/ch160/s4/h], [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(d)(3), [70 Stat. 396][/us/stat/70/396]; [Pub. L. 89–44, title II, § 202(c)(4)][/us/pl/89/44/s202/c/4], June 21, 1965, [79 Stat. 139][/us/stat/79/139]; [Pub. L. 91–258, title II, § 207(d)(9)][/us/pl/91/258/s207/d/9], May 21, 1970, [84 Stat. 249][/us/stat/84/249]; [Pub. L. 94–530, § 1(c)(6)][/us/pl/94/530/s1/c/6], Oct. 17, 1976, [90 Stat. 2488][/us/stat/90/2488]; [Pub. L. 95–599, title V, § 505(c)(5)][/us/pl/95/599/s505/c/5], Nov. 6, 1978, [92 Stat. 2760][/us/stat/92/2760]; [Pub. L. 96–223, title II, § 232(d)(4)(E)][/us/pl/96/223/s232/d/4/E], Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278]; [Pub. L. 97–424, title V, § 515(b)(12)][/us/pl/97/424/s515/b/12], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IX, § 911(d)(2)(G)][/us/pl/98/369/s911/d/2/G], July 18, 1984, [98 Stat. 1007][/us/stat/98/1007]; [Pub. L. 99–514, title XVII, § 1703(e)(2)(G)][/us/pl/99/514/s1703/e/2/G], Oct. 22, 1986, [100 Stat. 2778][/us/stat/100/2778]; [Pub. L. 100–647, title I, § 1017(c)(9)][/us/pl/100/647/s1017/c/9], (12), Nov. 10, 1988, [102 Stat. 3576][/us/stat/102/3576], 3577.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 854][/us/stat/68A/854]; [Apr. 2, 1956, ch. 160][/us/act/1956-04-02/ch160], § 4(h), [70 Stat. 91][/us/stat/70/91]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 208(d)(3), [70 Stat. 396][/us/stat/70/396]; [Pub. L. 89–44, title II][/us/pl/89/44/tII], § 202(c)(4), June 21, 1965, [79 Stat. 139][/us/stat/79/139]; [Pub. L. 91–258, title II][/us/pl/91/258/tII], § 207(d)(9), May 21, 1970, [84 Stat. 249][/us/stat/84/249]; [Pub. L. 94–530][/us/pl/94/530], § 1(c)(6), Oct. 17, 1976, [90 Stat. 2488][/us/stat/90/2488]; [Pub. L. 95–599, title V][/us/pl/95/599/tV], § 505(c)(5), Nov. 6, 1978, [92 Stat. 2760][/us/stat/92/2760]; [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(d)(4)(E), Apr. 2, 1980, [94 Stat. 278][/us/stat/94/278]; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(12), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IX][/us/pl/98/369/dA/tIX], § 911(d)(2)(G), July 18, 1984, [98 Stat. 1007][/us/stat/98/1007]; [Pub. L. 99–514, title XVII][/us/pl/99/514/tXVII], § 1703(e)(2)(G), Oct. 22, 1986, [100 Stat. 2778][/us/stat/100/2778]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1017(c)(9), (12), Nov. 10, 1988, [102 Stat. 3576][/us/stat/102/3576], 3577.)
 
  __Amendments__ 
 
-    1988—[Pub. L. 100–647, § 1017(c)(12)][/us/pl/100/647/s1017/c/12], made technical correction to language of [Pub. L. 99–514, § 1703(e)(2)(G)][/us/pl/99/514/s1703/e/2/G], see 1986 Amendment note below.
+    1988—[Pub. L. 100–647][/us/pl/100/647], § 1017(c)(12), made technical correction to language of [Pub. L. 99–514][/us/pl/99/514], § 1703(e)(2)(G), see 1986 Amendment note below.
 
-    [Pub. L. 100–647, § 1017(c)(9)][/us/pl/100/647/s1017/c/9], substituted “6421(g)(2)” for “6421(f)(2)”.
+    [Pub. L. 100–647][/us/pl/100/647], § 1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
 
-    1986—[Pub. L. 99–514][/us/pl/99/514], as amended by [Pub. L. 100–647, § 1017(c)(12)][/us/pl/100/647/s1017/c/12], substituted “6427(j)(2)” for “6427(i)(2)”.
+    1986—[Pub. L. 99–514][/us/pl/99/514], as amended by [Pub. L. 100–647][/us/pl/100/647], § 1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
 
     1984—[Pub. L. 98–369][/us/pl/98/369] substituted “6427(i)(2)” for “6427(h)(2)”.
 
@@ -94,33 +94,33 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F854
-[/us/act/1956-04-02/ch160/s4/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160%2Fs4%2Fh
+[/us/act/1956-04-02/ch160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-04-02%2Fch160
 [/us/stat/70/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F91
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F396
-[/us/pl/89/44/s202/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs202%2Fc%2F4
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F139
-[/us/pl/91/258/s207/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F9
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F249
-[/us/pl/94/530/s1/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F530%2Fs1%2Fc%2F6
+[/us/pl/94/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F530
 [/us/stat/90/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2488
-[/us/pl/95/599/s505/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2Fs505%2Fc%2F5
+[/us/pl/95/599/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F599%2FtV
 [/us/stat/92/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2760
-[/us/pl/96/223/s232/d/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fd%2F4%2FE
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F278
-[/us/pl/97/424/s515/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F12
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2182
-[/us/pl/98/369/s911/d/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs911%2Fd%2F2%2FG
+[/us/pl/98/369/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIX
 [/us/stat/98/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1007
-[/us/pl/99/514/s1703/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1703%2Fe%2F2%2FG
+[/us/pl/99/514/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVII
 [/us/stat/100/2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2778
-[/us/pl/100/647/s1017/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1017%2Fc%2F9
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3576
-[/us/pl/100/647/s1017/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1017%2Fc%2F12
-[/us/pl/99/514/s1703/e/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1703%2Fe%2F2%2FG
-[/us/pl/100/647/s1017/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1017%2Fc%2F9
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/100/647/s1017/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1017%2Fc%2F12
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223

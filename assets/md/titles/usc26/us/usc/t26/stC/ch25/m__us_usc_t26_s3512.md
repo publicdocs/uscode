@@ -55,17 +55,17 @@
 
             A person shall be treated as an affiliate of, or affiliated with, another person if such persons are treated as a single employer under subsection (b) or (c) of section 414.
 
-(Added [Pub. L. 114–113, div. Q, title III, § 346(a)][/us/pl/114/113/s346/a], Dec. 18, 2015, [129 Stat. 3115][/us/stat/129/3115].)
+(Added [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(a), Dec. 18, 2015, [129 Stat. 3115][/us/stat/129/3115].)
 
  __Effective Date__ 
 
-[Pub. L. 114–113, div. Q, title III, § 346(c)][/us/pl/114/113/s346/c], Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(c), Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
 
 > “The amendments made by this section \[enacting this section and provisions set out as a note under this section\] shall apply to remuneration paid after December 31, 2015.”
 
  __Construction__ 
 
-[Pub. L. 114–113, div. Q, title III, § 346(d)][/us/pl/114/113/s346/d], Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(d), Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
 
 > “Nothing in the amendments made by this section \[enacting this section\] shall be construed to create any inference on the law before the date of the enactment of this Act \[Dec. 18, 2015\].”
 
@@ -78,11 +78,11 @@
 
 [/us/usc/t29/s152/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs152%2F5
 [/us/usc/t18/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257
-[/us/pl/114/113/s346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs346%2Fa
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3115
-[/us/pl/114/113/s346/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs346%2Fc
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3116
-[/us/pl/114/113/s346/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs346%2Fd
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3116
 
 

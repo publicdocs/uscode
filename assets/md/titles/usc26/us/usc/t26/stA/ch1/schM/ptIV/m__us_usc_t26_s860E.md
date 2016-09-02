@@ -189,47 +189,47 @@
 
         Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added [Pub. L. 99–514, title VI, § 671(a)][/us/pl/99/514/s671/a], Oct. 22, 1986, [100 Stat. 2311][/us/stat/100/2311]; amended [Pub. L. 100–647, title I, § 1006(t)(13)][/us/pl/100/647/s1006/t/13], (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, [102 Stat. 3423][/us/stat/102/3423], 3426, 3427; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1616(b)(10), 1704(h)(1), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857], 1881.)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 671(a), Oct. 22, 1986, [100 Stat. 2311][/us/stat/100/2311]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, [102 Stat. 3423][/us/stat/102/3423], 3426, 3427; [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1616(b)(10), 1704(h)(1), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857], 1881.)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–188, § 1616(b)(10)(A)][/us/pl/104/188/s1616/b/10/A], substituted “The” for “Except as provided in paragraph (2), the”.
+    1996—Subsec. (a)(1). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
 
-    Subsec. (a)(2). [Pub. L. 104–188, § 1616(b)(10)(B)][/us/pl/104/188/s1616/b/10/B], (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
+    Subsec. (a)(2). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
 
-    Subsec. (a)(3). [Pub. L. 104–188, § 1616(b)(10)(B)][/us/pl/104/188/s1616/b/10/B], redesignated par. (5) as (3). Former par. (3) redesignated (2).
+    Subsec. (a)(3). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (a)(4). [Pub. L. 104–188, § 1616(b)(10)(B)][/us/pl/104/188/s1616/b/10/B], (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
+    Subsec. (a)(4). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
 
-    Subsec. (a)(5). [Pub. L. 104–188, § 1616(b)(10)(B)][/us/pl/104/188/s1616/b/10/B], redesignated par. (5) as (3).
+    Subsec. (a)(5). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(B), redesignated par. (5) as (3).
 
-    Subsec. (a)(6). [Pub. L. 104–188, § 1616(b)(10)(B)][/us/pl/104/188/s1616/b/10/B], redesignated par. (6) as (4).
+    Subsec. (a)(6). [Pub. L. 104–188][/us/pl/104/188], § 1616(b)(10)(B), redesignated par. (6) as (4).
 
-    [Pub. L. 104–188, § 1704(h)(1)][/us/pl/104/188/s1704/h/1], added par. (6).
+    [Pub. L. 104–188][/us/pl/104/188], § 1704(h)(1), added par. (6).
 
-    1988—Subsec. (a)(3), (4). [Pub. L. 100–647, § 1006(t)(15)][/us/pl/100/647/s1006/t/15], added pars. (3) and (4).
+    1988—Subsec. (a)(3), (4). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(15), added pars. (3) and (4).
 
-    Subsec. (a)(5). [Pub. L. 100–647, § 1006(t)(27)][/us/pl/100/647/s1006/t/27], added par. (5).
+    Subsec. (a)(5). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(27), added par. (5).
 
-    Subsec. (c)(2)(B). [Pub. L. 100–647, § 1006(t)(13)][/us/pl/100/647/s1006/t/13], (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”.
+    Subsec. (c)(2)(B). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(13), (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”.
 
-    Subsec. (d). [Pub. L. 100–647, § 1006(t)(23)][/us/pl/100/647/s1006/t/23], inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.”
+    Subsec. (d). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(23), inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.”
 
-    Subsec. (e). [Pub. L. 100–647, § 1006(t)(16)(B)][/us/pl/100/647/s1006/t/16/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(16)(B), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 100–647, § 1006(t)(26)][/us/pl/100/647/s1006/t/26], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(26), added subsec. (f).
 
  __Effective Date of 1996 Amendment__ 
 
     Amendment by [section 1616(b)(10) of Pub. L. 104–188][/us/pl/104/188/s1616/b/10] applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of [Pub. L. 104–188][/us/pl/104/188], set out as a note under [section 593 of this title][/us/usc/t26/s593].
 
-[Pub. L. 104–188, title I, § 1704(h)(2)][/us/pl/104/188/s1704/h/2], Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(h)(2), Aug. 20, 1996, [110 Stat. 1881][/us/stat/110/1881], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514]\] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act \[Aug. 20, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1006(t)(16)(D)(ii)][/us/pl/100/647/s1006/t/16/D/ii]–(iv), Nov. 10, 1988, [102 Stat. 3425][/us/stat/102/3425], provided that:
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, [102 Stat. 3425][/us/stat/102/3425], provided that:
 
 >     “(ii) The amendments made by subparagraphs (B) and (C) \[amending this section and [section 26 of this title][/us/usc/t26/s26]\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 
@@ -254,32 +254,32 @@
 ----------
 ----------
 
-[/us/pl/99/514/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2311
-[/us/pl/100/647/s1006/t/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F13
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3423
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
-[/us/pl/104/188/s1616/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FA
-[/us/pl/104/188/s1616/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FB
-[/us/pl/104/188/s1616/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FB
-[/us/pl/104/188/s1616/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FB
-[/us/pl/104/188/s1616/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FB
-[/us/pl/104/188/s1616/b/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10%2FB
-[/us/pl/104/188/s1704/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fh%2F1
-[/us/pl/100/647/s1006/t/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F15
-[/us/pl/100/647/s1006/t/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F27
-[/us/pl/100/647/s1006/t/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F13
-[/us/pl/100/647/s1006/t/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F23
-[/us/pl/100/647/s1006/t/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F16%2FB
-[/us/pl/100/647/s1006/t/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F26
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/104/188/s1616/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F10
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/usc/t26/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs593
-[/us/pl/104/188/s1704/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fh%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1881
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/100/647/s1006/t/16/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F16%2FD%2Fii
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3425
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

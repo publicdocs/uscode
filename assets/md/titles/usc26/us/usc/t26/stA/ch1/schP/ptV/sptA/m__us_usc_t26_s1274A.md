@@ -95,7 +95,7 @@
 
         (3) regulations relating to the treatment of transfers of cash method debt instruments.
 
-(Added [Pub. L. 99–121, title I, § 102(a)][/us/pl/99/121/s102/a], Oct. 11, 1985, [99 Stat. 506][/us/stat/99/506]; amended [Pub. L. 101–508, title XI, § 11813(b)(22)][/us/pl/101/508/s11813/b/22], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 104–188, title I, § 1704(t)(62)][/us/pl/104/188/s1704/t/62], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890].)
+(Added [Pub. L. 99–121, title I][/us/pl/99/121/tI], § 102(a), Oct. 11, 1985, [99 Stat. 506][/us/stat/99/506]; amended [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11813(b)(22), Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(62), Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -176,11 +176,11 @@
 ----------
 ----------
 
-[/us/pl/99/121/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2Fs102%2Fa
+[/us/pl/99/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F121%2FtI
 [/us/stat/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F506
-[/us/pl/101/508/s11813/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fb%2F22
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-555
-[/us/pl/104/188/s1704/t/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F62
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

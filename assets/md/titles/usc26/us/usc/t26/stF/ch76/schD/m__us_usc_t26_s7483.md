@@ -17,7 +17,7 @@
 
     Review of a decision of the Tax Court shall be obtained by filing a notice of appeal with the clerk of the Tax Court within 90 days after the decision of the Tax Court is entered. If a timely notice of appeal is filed by one party, any other party may take an appeal by filing a notice of appeal within 120 days after the decision of the Tax Court is entered.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX, § 959(a)][/us/pl/91/172/s959/a], Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 891][/us/stat/68A/891]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 959(a), Dec. 30, 1969, [83 Stat. 734][/us/stat/83/734].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IX, § 962(f)][/us/pl/91/172/s962/f], Dec. 30, 1969, [83 Stat. 736][/us/stat/83/736], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 962(f), Dec. 30, 1969, [83 Stat. 736][/us/stat/83/736], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by sections 959 and 960(h) \[amending this section and sections 7481, 7482, and 7485 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 30, 1969\]. In the case of any decision of the Tax Court entered before the 30th day after the date of the enactment of this Act \[Dec. 30, 1969\], the United States Courts of Appeals shall have jurisdiction to hear an appeal from such decision, if such appeal was filed within the time prescribed by Rule 13(a) of the Federal Rules of Appellate Procedure or by section 7483 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as in effect at the time the decision of the Tax Court was entered.”
 
@@ -38,12 +38,12 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F891
-[/us/pl/91/172/s959/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs959%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F734
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
-[/us/pl/91/172/s962/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs962%2Ff
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F736
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

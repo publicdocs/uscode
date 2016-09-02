@@ -53,7 +53,7 @@
 
             (C) the initial classification or continuing classification of the organization as a private operating foundation under section 4942(j)(3).
 
-(Added [Pub. L. 105–206, title III, § 3465(a)(1)][/us/pl/105/206/s3465/a/1], July 22, 1998, [112 Stat. 768][/us/stat/112/768]; amended [Pub. L. 114–113, div. Q, title IV, § 404(a)][/us/pl/114/113/s404/a], Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3465(a)(1), July 22, 1998, [112 Stat. 768][/us/stat/112/768]; amended [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 404(a), Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118].)
 
  __Prior Provisions__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title IV, § 404(b)][/us/pl/114/113/s404/b], Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118], provided that: 
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 404(b), Dec. 18, 2015, [129 Stat. 3118][/us/stat/129/3118], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to determinations made on or after May 19, 2014.”
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/105/206/s3465/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3465%2Fa%2F1
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F768
-[/us/pl/114/113/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3118
 [/us/usc/t26/s7124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7124
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/114/113/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs404%2Fb
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3118
 
 

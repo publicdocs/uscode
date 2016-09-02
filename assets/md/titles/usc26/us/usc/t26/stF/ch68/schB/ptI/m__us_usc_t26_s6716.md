@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stF/ch68/schB/ptI/m__us_usc_t26_s6715A.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schB/ptI/m__us_usc_t26_s6717.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6716)
 
-## \[§ 6716. Repealed. [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300]\]
+## \[§ 6716. Repealed. [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300]\]
 
-    Section, added [Pub. L. 107–16, title V, § 542(b)(4)][/us/pl/107/16/s542/b/4], June 7, 2001, [115 Stat. 83][/us/stat/115/83], related to failure to file information with respect to certain transfers at death and gifts.
+    Section, added [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(b)(4), June 7, 2001, [115 Stat. 83][/us/stat/115/83], related to failure to file information with respect to certain transfers at death and gifts.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
-[/us/pl/107/16/s542/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fb%2F4
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F83
 [/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121

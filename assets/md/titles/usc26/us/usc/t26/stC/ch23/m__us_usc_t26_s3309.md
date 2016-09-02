@@ -75,7 +75,7 @@
 
         The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b(e)][/us/usc/t25/s450b/e]).
 
-(Added [Pub. L. 91–373, title I, § 104(b)(1)][/us/pl/91/373/s104/b/1], Aug. 10, 1970, [84 Stat. 697][/us/stat/84/697]; amended [Pub. L. 94–566, title I, § 115(a)][/us/pl/94/566/s115/a], (b), (c)(2), (3), title V, § 506(a), Oct. 20, 1976, [90 Stat. 2670][/us/stat/90/2670], 2671, 2687; [Pub. L. 95–19, title III, § 302(b)][/us/pl/95/19/s302/b], Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5405(a), 5407(a), Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604], 605; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–627.)
+(Added [Pub. L. 91–373, title I][/us/pl/91/373/tI], § 104(b)(1), Aug. 10, 1970, [84 Stat. 697][/us/stat/84/697]; amended [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 115(a), (b), (c)(2), (3), title V, § 506(a), Oct. 20, 1976, [90 Stat. 2670][/us/stat/90/2670], 2671, 2687; [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 302(b), Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5405(a), 5407(a), Aug. 5, 1997, [111 Stat. 604][/us/stat/111/604], 605; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–627.)
 
  __Prior Provisions__ 
 
@@ -83,33 +83,33 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(b)(1)\], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
+    2000—Subsec. (a)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(b)(1)\], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
 
-    Subsec. (b)(3)(B). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(b)(2)\], inserted “, or of an Indian tribe” before semicolon at end.
+    Subsec. (b)(3)(B). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(b)(2)\], inserted “, or of an Indian tribe” before semicolon at end.
 
-    Subsec. (b)(3)(E). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(b)(3)\], inserted “or tribal” after “the State”.
+    Subsec. (b)(3)(E). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(b)(3)\], inserted “or tribal” after “the State”.
 
-    Subsec. (b)(5). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(b)(4)\], inserted “or of an Indian tribe” after “an agency of a State or political subdivision thereof”.
+    Subsec. (b)(5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(b)(4)\], inserted “or of an Indian tribe” after “an agency of a State or political subdivision thereof”.
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 166(c)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 166(c)\], added subsec. (d).
 
-    1997—Subsec. (b)(1)(C). [Pub. L. 105–33, § 5407(a)][/us/pl/105/33/s5407/a], added subpar. (C).
+    1997—Subsec. (b)(1)(C). [Pub. L. 105–33][/us/pl/105/33], § 5407(a), added subpar. (C).
 
-    Subsec. (b)(3)(F). [Pub. L. 105–33, § 5405(a)][/us/pl/105/33/s5405/a], added subpar. (F).
+    Subsec. (b)(3)(F). [Pub. L. 105–33][/us/pl/105/33], § 5405(a), added subpar. (F).
 
     1977—Subsec. (a)(2). [Pub. L. 95–19][/us/pl/95/19] substituted “(or group of governmental entities or other organizations)” for “(or group of organizations)”.
 
-    1976—[Pub. L. 94–566, § 115(c)(3)][/us/pl/94/566/s115/c/3], substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
+    1976—[Pub. L. 94–566][/us/pl/94/566], § 115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
 
-    Subsec. (a)(1)(B). [Pub. L. 94–566, § 115(a)][/us/pl/94/566/s115/a], struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
+    Subsec. (a)(1)(B). [Pub. L. 94–566][/us/pl/94/566], § 115(a), struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
 
-    Subsec. (a)(2). [Pub. L. 94–566, § 506(a)][/us/pl/94/566/s506/a], substituted “a governmental entity or any other organization” for “an organization”, “paragraph (1)” for “paragraph (1)(A)”, and “that governmental entities or other organizations” for “that organizations”.
+    Subsec. (a)(2). [Pub. L. 94–566][/us/pl/94/566], § 506(a), substituted “a governmental entity or any other organization” for “an organization”, “paragraph (1)” for “paragraph (1)(A)”, and “that governmental entities or other organizations” for “that organizations”.
 
-    Subsec. (b)(3). [Pub. L. 94–566, § 115(b)(1)][/us/pl/94/566/s115/b/1], substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
+    Subsec. (b)(3). [Pub. L. 94–566][/us/pl/94/566], § 115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
 
-    Subsec. (b)(6). [Pub. L. 94–566, § 115(b)(2)][/us/pl/94/566/s115/b/2], substituted “by an inmate of a custodial or penal institution” for “for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution”.
+    Subsec. (b)(6). [Pub. L. 94–566][/us/pl/94/566], § 115(b)(2), substituted “by an inmate of a custodial or penal institution” for “for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution”.
 
-    Subsec. (d). [Pub. L. 94–566, § 115(c)(2)][/us/pl/94/566/s115/c/2], struck out subsec. (d) which defined “institution of higher education”. See [section 3304(f) of this title][/us/usc/t26/s3304/f].
+    Subsec. (d). [Pub. L. 94–566][/us/pl/94/566], § 115(c)(2), struck out subsec. (d) which defined “institution of higher education”. See [section 3304(f) of this title][/us/usc/t26/s3304/f].
 
  __Effective Date of 2000 Amendment__ 
 
@@ -117,17 +117,17 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5405(b)][/us/pl/105/33/s5405/b], Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5405(b), Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–33, title V, § 5407(b)][/us/pl/105/33/s5407/b], Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5407(b), Aug. 5, 1997, [111 Stat. 605][/us/stat/111/605], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to service performed after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–19, title III, § 302(d)(2)][/us/pl/95/19/s302/d/2], Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
+[Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 302(d)(2), Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
 
 > “The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 506 of the Unemployment Compensation Amendments of 1976 \[which amended this section in 1976, see Effective Date of 1976 Amendment note below\].”
 
@@ -149,40 +149,40 @@
 ----------
 
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/91/373/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fb%2F1
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F697
-[/us/pl/94/566/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fa
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2670
-[/us/pl/95/19/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fb
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F44
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F604
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t26/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3311
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/105/33/s5407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5407%2Fa
-[/us/pl/105/33/s5405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5405%2Fa
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
-[/us/pl/94/566/s115/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F3
-[/us/pl/94/566/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fa
-[/us/pl/94/566/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs506%2Fa
-[/us/pl/94/566/s115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fb%2F1
-[/us/pl/94/566/s115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fb%2F2
-[/us/pl/94/566/s115/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F2
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/usc/t26/s3304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Ff
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554/s166/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs166%2Fe
 [/us/usc/t26/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3306
-[/us/pl/105/33/s5405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5405%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F605
-[/us/pl/105/33/s5407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5407%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F605
-[/us/pl/95/19/s302/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fd%2F2
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F45
 [/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/566/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fd

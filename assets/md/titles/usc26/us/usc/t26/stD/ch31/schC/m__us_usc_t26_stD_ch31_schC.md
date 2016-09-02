@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, title XI, § 11221(a)][/us/pl/101/508/s11221/a], Nov. 5, 1990, [104 Stat. 1388–438][/us/stat/104/1388-438], redesignated this subchapter, formerly subchapter B, as subchapter C.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11221(a), Nov. 5, 1990, [104 Stat. 1388–438][/us/stat/104/1388-438], redesignated this subchapter, formerly subchapter B, as subchapter C.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-438
 
 

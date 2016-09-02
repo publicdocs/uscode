@@ -83,45 +83,45 @@
 
         For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.
 
-(Added and amended [Pub. L. 111–148, title I, § 1514(a)][/us/pl/111/148/s1514/a], title X, §§ 10106(g), 10108(j)(1)–(3)(D), Mar. 23, 2010, [124 Stat. 256][/us/stat/124/256], 911, 914, 915; [Pub. L. 112–10, div. B, title VIII, § 1858(b)(5)][/us/pl/112/10/s1858/b/5], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169].)
+(Added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1514(a), title X, §§ 10106(g), 10108(j)(1)–(3)(D), Mar. 23, 2010, [124 Stat. 256][/us/stat/124/256], 911, 914, 915; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(b)(5), Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169].)
 
  __References in Text__ 
 
-    Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(i), was classified to [section 300gg of this title][/us/usc/t26/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t26/s300gg–3]. A new section 2701, related to fair health insurance premiums, was added and amended by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t26/s300gg].
+    Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(i), was classified to [section 300gg of this title][/us/usc/t26/s300gg], was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of this title][/us/usc/t26/s300gg–3]. A new section 2701, related to fair health insurance premiums, was added and amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of this title][/us/usc/t26/s300gg].
 
  __Prior Provisions__ 
 
-    A prior section 6056, added [Pub. L. 91–172, title I, § 101(d)(3)][/us/pl/91/172/s101/d/3], Dec. 30, 1969, [83 Stat. 521][/us/stat/83/521]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], required an annual report by private foundations having at least $5,000 of assets at any time during a taxable year, and prescribed contents, form and availability of the report, prior to repeal by [Pub. L. 96–603, § 1(c)][/us/pl/96/603/s1/c], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504].
+    A prior section 6056, added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(d)(3), Dec. 30, 1969, [83 Stat. 521][/us/stat/83/521]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], required an annual report by private foundations having at least $5,000 of assets at any time during a taxable year, and prescribed contents, form and availability of the report, prior to repeal by [Pub. L. 96–603][/us/pl/96/603], § 1(c), Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504].
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–10, § 1858(b)(5)(A)][/us/pl/112/10/s1858/b/5/A], struck out “and every offering employer” after “calendar year”.
+    2011—Subsec. (a). [Pub. L. 112–10][/us/pl/112/10], § 1858(b)(5)(A), struck out “and every offering employer” after “calendar year”.
 
-    Subsec. (b)(2)(C). [Pub. L. 112–10, § 1858(b)(5)(B)][/us/pl/112/10/s1858/b/5/B], struck out “in the case of an applicable large employer,” before “the length” in cl. (i), inserted “and” at the end of cl. (iii), struck out “and” after “plan,” at the end of cl. (iv), and struck out cl. (v) which read as follows: “in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,”.
+    Subsec. (b)(2)(C). [Pub. L. 112–10][/us/pl/112/10], § 1858(b)(5)(B), struck out “in the case of an applicable large employer,” before “the length” in cl. (i), inserted “and” at the end of cl. (iii), struck out “and” after “plan,” at the end of cl. (iv), and struck out cl. (v) which read as follows: “in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,”.
 
-    Subsecs. (d)(2), (e). [Pub. L. 112–10, § 1858(b)(5)(C)][/us/pl/112/10/s1858/b/5/C], struck out “or offering employer” after “large employer”.
+    Subsecs. (d)(2), (e). [Pub. L. 112–10][/us/pl/112/10], § 1858(b)(5)(C), struck out “or offering employer” after “large employer”.
 
-    Subsec. (f). [Pub. L. 112–10, § 1858(b)(5)(D)][/us/pl/112/10/s1858/b/5/D], amended subsec. (f) generally. Prior to amendment, subsec. (f) defined the term “offering employer” and provided that any term used in this section which was also used in [section 4980H of this title][/us/usc/t26/s4980H] would have the meaning given such term by section 4980H.
+    Subsec. (f). [Pub. L. 112–10][/us/pl/112/10], § 1858(b)(5)(D), amended subsec. (f) generally. Prior to amendment, subsec. (f) defined the term “offering employer” and provided that any term used in this section which was also used in [section 4980H of this title][/us/usc/t26/s4980H] would have the meaning given such term by section 4980H.
 
-    2010—[Pub. L. 111–148, § 10108(j)(3)(A)][/us/pl/111/148/s10108/j/3/A], substituted “Certain” for “Large” in section catchline.
+    2010—[Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(A), substituted “Certain” for “Large” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–148, § 10108(j)(1)][/us/pl/111/148/s10108/j/1], inserted “and every offering employer” before “shall”.
+    Subsec. (a). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(1), inserted “and every offering employer” before “shall”.
 
-    Subsec. (b). [Pub. L. 111–148, § 10106(g)][/us/pl/111/148/s10106/g], inserted at end “The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer’s share under paragraph (2)(C)(iv).”
+    Subsec. (b). [Pub. L. 111–148][/us/pl/111/148], § 10106(g), inserted at end “The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer’s share under paragraph (2)(C)(iv).”
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 111–148, § 10108(j)(3)(B)(i)][/us/pl/111/148/s10108/j/3/B/i], inserted “in the case of an applicable large employer,” before “the length”.
+    Subsec. (b)(2)(C)(i). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(B)(i), inserted “in the case of an applicable large employer,” before “the length”.
 
-    Subsec. (b)(2)(C)(iii). [Pub. L. 111–148, § 10108(j)(3)(B)(ii)][/us/pl/111/148/s10108/j/3/B/ii], struck out “and” at end.
+    Subsec. (b)(2)(C)(iii). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(B)(ii), struck out “and” at end.
 
-    Subsec. (b)(2)(C)(iv). [Pub. L. 111–148, § 10108(j)(3)(B)(iv)][/us/pl/111/148/s10108/j/3/B/iv], inserted “and” at end.
+    Subsec. (b)(2)(C)(iv). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(B)(iv), inserted “and” at end.
 
-    [Pub. L. 111–148, § 10108(j)(3)(B)(iii)][/us/pl/111/148/s10108/j/3/B/iii], which directed substitution of “employer” for “applicable large employer”, was executed by making the substitution for “applicable large employer’s”, to reflect the probable intent of Congress.
+    [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(B)(iii), which directed substitution of “employer” for “applicable large employer”, was executed by making the substitution for “applicable large employer’s”, to reflect the probable intent of Congress.
 
-    Subsec. (b)(2)(C)(v). [Pub. L. 111–148, § 10108(j)(3)(B)(v)][/us/pl/111/148/s10108/j/3/B/v], added cl. (v).
+    Subsec. (b)(2)(C)(v). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(B)(v), added cl. (v).
 
-    Subsecs. (d)(2), (e). [Pub. L. 111–148, § 10108(j)(3)(C)][/us/pl/111/148/s10108/j/3/C], (D), inserted “or offering employer” after “applicable large employer”.
+    Subsecs. (d)(2), (e). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(3)(C), (D), inserted “or offering employer” after “applicable large employer”.
 
-    Subsec. (f). [Pub. L. 111–148, § 10108(j)(2)][/us/pl/111/148/s10108/j/2], amended subsec. (f) generally. Prior to amendment, text read as follows: “For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.”
+    Subsec. (f). [Pub. L. 111–148][/us/pl/111/148], § 10108(j)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -129,13 +129,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10108(j)(4)][/us/pl/111/148/s10108/j/4], Mar. 23, 2010, [124 Stat. 915][/us/stat/124/915], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10108(j)(4), Mar. 23, 2010, [124 Stat. 915][/us/stat/124/915], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to periods beginning after December 31, 2013.”
 
  __Effective Date__ 
 
-[Pub. L. 111–148, title I, § 1514(d)][/us/pl/111/148/s1514/d], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], provided that: 
+[Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1514(d), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to periods beginning after December 31, 2013.”
 
@@ -146,46 +146,46 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1514%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F256
-[/us/pl/112/10/s1858/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F5
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F169
 [/us/usc/t26/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs300gg
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t26/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t26/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs300gg
-[/us/pl/91/172/s101/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fd%2F3
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F521
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/603/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fc
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3504
-[/us/pl/112/10/s1858/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F5%2FA
-[/us/pl/112/10/s1858/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F5%2FB
-[/us/pl/112/10/s1858/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F5%2FC
-[/us/pl/112/10/s1858/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F5%2FD
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/usc/t26/s4980H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980H
-[/us/pl/111/148/s10108/j/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FA
-[/us/pl/111/148/s10108/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F1
-[/us/pl/111/148/s10106/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10106%2Fg
-[/us/pl/111/148/s10108/j/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FB%2Fi
-[/us/pl/111/148/s10108/j/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FB%2Fii
-[/us/pl/111/148/s10108/j/3/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FB%2Fiv
-[/us/pl/111/148/s10108/j/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FB%2Fiii
-[/us/pl/111/148/s10108/j/3/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FB%2Fv
-[/us/pl/111/148/s10108/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F3%2FC
-[/us/pl/111/148/s10108/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
-[/us/pl/111/148/s10108/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fj%2F4
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F915
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
-[/us/pl/111/148/s1514/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1514%2Fd
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 

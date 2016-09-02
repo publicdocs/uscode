@@ -233,7 +233,7 @@
 
         For purposes of this section, the term “single-employer plan” means a plan which is not a multiemployer plan.
 
-(Added [Pub. L. 109–280, title I, § 113(a)(1)(B)][/us/pl/109/280/s113/a/1/B], Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I, § 101(c)(2)][/us/pl/110/458/s101/c/2], Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II, § 203(a)(2)][/us/pl/111/192/s203/a/2], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300]; [Pub. L. 113–97, title II, § 202(c)(3)(B)][/us/pl/113/97/s202/c/3/B], Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136]; [Pub. L. 113–159, title II, § 2003(c)(1)][/us/pl/113/159/s2003/c/1], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(E)(i)][/us/pl/113/295/s221/a/57/E/i], (F)(i), (G)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
+(Added [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 113(a)(1)(B), Aug. 17, 2006, [120 Stat. 847][/us/stat/120/847]; amended [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(c)(2), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097]; [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 203(a)(2), June 25, 2010, [124 Stat. 1300][/us/stat/124/1300]; [Pub. L. 113–97, title II][/us/pl/113/97/tII], § 202(c)(3)(B), Apr. 7, 2014, [128 Stat. 1136][/us/stat/128/1136]; [Pub. L. 113–159, title II][/us/pl/113/159/tII], § 2003(c)(1), Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(57)(E)(i), (F)(i), (G)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __References in Text__ 
 
@@ -245,37 +245,37 @@
 
     2014—Subsec. (a). [Pub. L. 113–97][/us/pl/113/97] substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
 
-    Subsec. (d)(2). [Pub. L. 113–159, § 2003(c)(1)][/us/pl/113/159/s2003/c/1], substituted “of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))” for “of such plan”.
+    Subsec. (d)(2). [Pub. L. 113–159][/us/pl/113/159], § 2003(c)(1), substituted “of such plan (determined by not taking into account any adjustment of segment rates under section 430(h)(2)(C)(iv))” for “of such plan”.
 
-    Subsec. (j)(3). [Pub. L. 113–295, § 221(a)(57)(F)(i)][/us/pl/113/295/s221/a/57/F/i], struck out par. (3) which related to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
+    Subsec. (j)(3). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(57)(F)(i), struck out par. (3) which related to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
 
-    [Pub. L. 113–295, § 221(a)(57)(E)(i)][/us/pl/113/295/s221/a/57/E/i], in par. (3) relating to application to plans which are fully funded without regard to reductions for funding balances, struck out subpar. (A) designation and heading and struck out subpars. (B) and (C) which related to a transition rule for plan years beginning after 2007 and before 2011 and a limitation for plan years beginning after 2008, respectively.
+    [Pub. L. 113–295][/us/pl/113/295], § 221(a)(57)(E)(i), in par. (3) relating to application to plans which are fully funded without regard to reductions for funding balances, struck out subpar. (A) designation and heading and struck out subpars. (B) and (C) which related to a transition rule for plan years beginning after 2007 and before 2011 and a limitation for plan years beginning after 2008, respectively.
 
-    Subsec. (m). [Pub. L. 113–295, § 221(a)(57)(G)(i)][/us/pl/113/295/s221/a/57/G/i], struck out subsec. (m). Text read as follows: “For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.”
+    Subsec. (m). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(57)(G)(i), struck out subsec. (m). Text read as follows: “For purposes of this section, in the case of plan years beginning in 2008, the funding target attainment percentage for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.”
 
     2010—Subsec. (j)(3). [Pub. L. 111–192][/us/pl/111/192] added par. (3) relating to a special rule for plan years beginning on or after Oct. 1, 2008, and before Oct. 1, 2010.
 
-    2008—Subsec. (b)(2). [Pub. L. 110–458, § 101(c)(2)(A)][/us/pl/110/458/s101/c/2/A], substituted “section 430” for “section 303” in introductory provisions and “an adjusted funding” for “a funding” in subpar. (B).
+    2008—Subsec. (b)(2). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(A), substituted “section 430” for “section 303” in introductory provisions and “an adjusted funding” for “a funding” in subpar. (B).
 
-    Subsec. (b)(3). [Pub. L. 110–458, § 101(c)(2)(B)][/us/pl/110/458/s101/c/2/B], inserted “benefit” after “event” in heading and substituted “an event” for “any event” in subpar. (B).
+    Subsec. (b)(3). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(B), inserted “benefit” after “event” in heading and substituted “an event” for “any event” in subpar. (B).
 
-    Subsec. (d)(5). [Pub. L. 110–458, § 101(c)(2)(C)][/us/pl/110/458/s101/c/2/C], inserted concluding provisions.
+    Subsec. (d)(5). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(C), inserted concluding provisions.
 
-    Subsec. (f)(1)(D). [Pub. L. 110–458, § 101(c)(2)(D)(i)][/us/pl/110/458/s101/c/2/D/i], inserted “adjusted” before “funding”.
+    Subsec. (f)(1)(D). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(D)(i), inserted “adjusted” before “funding”.
 
-    Subsec. (f)(2). [Pub. L. 110–458, § 101(c)(2)(D)(ii)][/us/pl/110/458/s101/c/2/D/ii], substituted “prefunding balance or funding standard carryover balance under section 430(f)” for “prefunding balance under section 430(f) or funding standard carryover balance”.
+    Subsec. (f)(2). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(D)(ii), substituted “prefunding balance or funding standard carryover balance under section 430(f)” for “prefunding balance under section 430(f) or funding standard carryover balance”.
 
-    Subsec. (j)(3)(A). [Pub. L. 110–458, § 101(c)(2)(E)(i)][/us/pl/110/458/s101/c/2/E/i], struck out “without regard to this paragraph and” before “without regard to the reduction” and substituted “section 430(f)(4)” for “section 430(f)(4)(A)” and “paragraphs (1) and (2)” for “paragraph (1)”.
+    Subsec. (j)(3)(A). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(E)(i), struck out “without regard to this paragraph and” before “without regard to the reduction” and substituted “section 430(f)(4)” for “section 430(f)(4)(A)” and “paragraphs (1) and (2)” for “paragraph (1)”.
 
-    Subsec. (j)(3)(C). [Pub. L. 110–458, § 101(c)(2)(E)(ii)][/us/pl/110/458/s101/c/2/E/ii], substituted “without regard to the reduction in the value of assets under section 430(f)(4)” for “without regard to this paragraph” and inserted “beginning” before “after” in two places.
+    Subsec. (j)(3)(C). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(E)(ii), substituted “without regard to the reduction in the value of assets under section 430(f)(4)” for “without regard to this paragraph” and inserted “beginning” before “after” in two places.
 
-    Subsecs. (k) to (m). [Pub. L. 110–458, § 101(c)(2)(F)][/us/pl/110/458/s101/c/2/F], added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
+    Subsecs. (k) to (m). [Pub. L. 110–458][/us/pl/110/458], § 101(c)(2)(F), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
 
  __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 113–159, title II, § 2003(c)(3)][/us/pl/113/159/s2003/c/3], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
+[Pub. L. 113–159, title II][/us/pl/113/159/tII], § 2003(c)(3), Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–192, title II, § 203(c)][/us/pl/111/192/s203/c], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that:
+[Pub. L. 111–192, title II][/us/pl/111/192/tII], § 203(c), June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -305,7 +305,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–280, title I, § 113(b)][/us/pl/109/280/s113/b], Aug. 17, 2006, [120 Stat. 852][/us/stat/120/852], as amended by [Pub. L. 110–458, title I, § 101(c)(3)][/us/pl/110/458/s101/c/3], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098], provided that:
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 113(b), Aug. 17, 2006, [120 Stat. 852][/us/stat/120/852], as amended by [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(c)(3), Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -329,7 +329,7 @@
 
  __Provisions Relating to Plan Amendments__ 
 
-[Pub. L. 113–159, title II, § 2003(c)(4)][/us/pl/113/159/s2003/c/4], Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
+[Pub. L. 113–159, title II][/us/pl/113/159/tII], § 2003(c)(4), Aug. 8, 2014, [128 Stat. 1850][/us/stat/128/1850], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -361,11 +361,11 @@
 
  __Temporary Modification of Application of Limitation on Benefit Accruals__ 
 
-[Pub. L. 111–192, title II, § 203(b)][/us/pl/111/192/s203/b], June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that: 
+[Pub. L. 111–192, title II][/us/pl/111/192/tII], § 203(b), June 25, 2010, [124 Stat. 1300][/us/stat/124/1300], provided that: 
 
 > “Section 203 of the Worker, Retiree, and Employer Recovery Act of 2008 \[[Pub. L. 110–458][/us/pl/110/458], set out below\] shall apply to a plan for any plan year in lieu of the amendments made by this section applying to sections 206(g)(4) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1056(g)(4)][/us/usc/t29/s1056/g/4]\] and 436(e) of the Internal Revenue Code of 1986 only to the extent that such section produces a higher adjusted funding target attainment percentage for such plan for such year.”
 
-[Pub. L. 110–458, title II, § 203][/us/pl/110/458/s203], Dec. 23, 2008, [122 Stat. 5118][/us/stat/122/5118], provided that: 
+[Pub. L. 110–458, title II][/us/pl/110/458/tII], § 203, Dec. 23, 2008, [122 Stat. 5118][/us/stat/122/5118], provided that: 
 
 > “In the case of the first plan year beginning during the period beginning on October 1, 2008, and ending on September 30, 2009, sections 206(g)(4)(A) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1056(g)(4)(A)][/us/usc/t29/s1056/g/4/A]) and 436(e)(1) of the Internal Revenue Code of 1986 shall be applied by substituting the plan’s adjusted funding target attainment percentage for the preceding plan year for such percentage for such plan year but only if the adjusted funding target attainment percentage for the preceding plan year is greater.”
 
@@ -380,65 +380,65 @@
 ----------
 ----------
 
-[/us/pl/109/280/s113/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs113%2Fa%2F1%2FB
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F847
-[/us/pl/110/458/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5097
-[/us/pl/111/192/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fa%2F2
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
-[/us/pl/113/97/s202/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F3%2FB
+[/us/pl/113/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtII
 [/us/stat/128/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1136
-[/us/pl/113/159/s2003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F1
+[/us/pl/113/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtII
 [/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
-[/us/pl/113/295/s221/a/57/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FE%2Fi
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1112
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
-[/us/pl/113/159/s2003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F1
-[/us/pl/113/295/s221/a/57/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FF%2Fi
-[/us/pl/113/295/s221/a/57/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FE%2Fi
-[/us/pl/113/295/s221/a/57/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FG%2Fi
+[/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
-[/us/pl/110/458/s101/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FA
-[/us/pl/110/458/s101/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FB
-[/us/pl/110/458/s101/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FC
-[/us/pl/110/458/s101/c/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FD%2Fi
-[/us/pl/110/458/s101/c/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FD%2Fii
-[/us/pl/110/458/s101/c/2/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fi
-[/us/pl/110/458/s101/c/2/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FE%2Fii
-[/us/pl/110/458/s101/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F2%2FF
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/113/159/s2003/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F3
+[/us/pl/113/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtII
 [/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/111/192/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fc
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs113%2Fb
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F852
-[/us/pl/110/458/s101/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fc%2F3
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5098
-[/us/pl/113/159/s2003/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fc%2F4
+[/us/pl/113/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2FtII
 [/us/stat/128/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1850
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
 [/us/usc/t29/s1054/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054%2Fg
 [/us/usc/t26/s411/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fd%2F6
-[/us/pl/111/192/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs203%2Fb
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1300
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t29/s1056/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg%2F4
-[/us/pl/110/458/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs203
+[/us/pl/110/458/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtII
 [/us/stat/122/5118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5118
 [/us/usc/t29/s1056/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056%2Fg%2F4%2FA
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

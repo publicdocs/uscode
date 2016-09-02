@@ -31,7 +31,7 @@
 
         If a trust which is not a foreign trust becomes a foreign trust, such trust shall be treated for purposes of this section as having transferred, immediately before becoming a foreign trust, all of its assets to a foreign trust.
 
-(Added [Pub. L. 105–34, title XI, § 1131(b)][/us/pl/105/34/s1131/b], Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978]; amended [Pub. L. 107–16, title V, § 542(e)(1)(A)][/us/pl/107/16/s542/e/1/A]–(C), June 7, 2001, [115 Stat. 84][/us/stat/115/84], 85; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+(Added [Pub. L. 105–34, title XI][/us/pl/105/34/tXI], § 1131(b), Aug. 5, 1997, [111 Stat. 978][/us/stat/111/978]; amended [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 542(e)(1)(A)–(C), June 7, 2001, [115 Stat. 84][/us/stat/115/84], 85; [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 
  __Codification__ 
 
@@ -39,13 +39,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–312][/us/pl/111/312] amended catchline, introductory provisions of subsec. (a), and subsec. (b) to read as if amendment by [Pub. L. 107–16, § 542(e)(1)(A)][/us/pl/107/16/s542/e/1/A]–(C), had never been enacted. See 2001 Amendment note below. Prior to amendment, subsec. (b) read as follows: “Exceptions.—
+    2010—[Pub. L. 111–312][/us/pl/111/312] amended catchline, introductory provisions of subsec. (a), and subsec. (b) to read as if amendment by [Pub. L. 107–16][/us/pl/107/16], § 542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note below. Prior to amendment, subsec. (b) read as follows: “Exceptions.—
 
     “(1) Transfers to certain trusts.—Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any United States person is treated as the owner of such trust under section 671.
 
     “(2) Lifetime transfers to nonresident aliens.—Subsection (a) shall not apply to a lifetime transfer to a nonresident alien.”
 
-    2001—[Pub. L. 107–16, § 542(e)(1)(A)][/us/pl/107/16/s542/e/1/A]–(C), amended section by inserting “and nonresident aliens” after “estates” in section catchline and “or to a nonresident alien” after “or trust” in introductory provisions of subsec. (a) and amending subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: “Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671.”
+    2001—[Pub. L. 107–16][/us/pl/107/16], § 542(e)(1)(A)–(C), amended section by inserting “and nonresident aliens” after “estates” in section catchline and “or to a nonresident alien” after “or trust” in introductory provisions of subsec. (a) and amending subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: “Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb
+[/us/pl/105/34/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXI
 [/us/stat/111/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F978
-[/us/pl/107/16/s542/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F1%2FA
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F84
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 [/us/pl/105/34/s1131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fb
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/107/16/s542/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F1%2FA
-[/us/pl/107/16/s542/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F1%2FA
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121

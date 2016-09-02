@@ -25,7 +25,7 @@
 
     (5) For receipts, constituting information returns, required to be furnished to employees, see section 6051.
 
-    \[(6) Repealed. [Pub. L. 89–44, title III, § 305(b)][/us/pl/89/44/s305/b], June 21, 1965, [79 Stat. 148][/us/stat/79/148]\]
+    \[(6) Repealed. [Pub. L. 89–44, title III][/us/pl/89/44/tIII], § 305(b), June 21, 1965, [79 Stat. 148][/us/stat/79/148]\]
 
     (7) For information required with respect to the redemption of stamps, see section 6805.
 
@@ -33,7 +33,7 @@
 
     (9) For the application, which a taxpayer may file for a tentative carryback adjustment of income taxes, see section 6411.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 744][/us/stat/68A/744], § 6037; renumbered § 6038, [Pub. L. 85–866, title I, § 64(c)][/us/pl/85/866/s64/c], Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; renumbered § 6039, [Pub. L. 86–780, § 6(a)][/us/pl/86/780/s6/a], Sept. 14, 1960, [74 Stat. 1014][/us/stat/74/1014]; renumbered § 6040, [Pub. L. 88–272, title II, § 221(b)(1)][/us/pl/88/272/s221/b/1], Feb. 26, 1964, [78 Stat. 73][/us/stat/78/73]; amended [Pub. L. 89–44, title III, § 305(b)][/us/pl/89/44/s305/b], June 21, 1965, [79 Stat. 148][/us/stat/79/148]; [Pub. L. 91–614, title I, § 101(d)(2)][/us/pl/91/614/s101/d/2], Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 744][/us/stat/68A/744], § 6037; renumbered § 6038, [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 64(c), Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; renumbered § 6039, [Pub. L. 86–780][/us/pl/86/780], § 6(a), Sept. 14, 1960, [74 Stat. 1014][/us/stat/74/1014]; renumbered § 6040, [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 221(b)(1), Feb. 26, 1964, [78 Stat. 73][/us/stat/78/73]; amended [Pub. L. 89–44, title III][/us/pl/89/44/tIII], § 305(b), June 21, 1965, [79 Stat. 148][/us/stat/79/148]; [Pub. L. 91–614, title I][/us/pl/91/614/tI], § 101(d)(2), Dec. 31, 1970, [84 Stat. 1837][/us/stat/84/1837].)
 
  __Amendments__ 
 
@@ -56,19 +56,19 @@
 ----------
 ----------
 
-[/us/pl/89/44/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs305%2Fb
+[/us/pl/89/44/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIII
 [/us/stat/79/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F148
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F744
-[/us/pl/85/866/s64/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1656
-[/us/pl/86/780/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780%2Fs6%2Fa
+[/us/pl/86/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F780
 [/us/stat/74/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1014
-[/us/pl/88/272/s221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs221%2Fb%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F73
-[/us/pl/89/44/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs305%2Fb
+[/us/pl/89/44/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIII
 [/us/stat/79/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F148
-[/us/pl/91/614/s101/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs101%2Fd%2F2
+[/us/pl/91/614/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2FtI
 [/us/stat/84/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1837
 [/us/pl/91/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44

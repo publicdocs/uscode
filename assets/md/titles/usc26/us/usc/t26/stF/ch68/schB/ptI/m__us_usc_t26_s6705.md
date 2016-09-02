@@ -23,7 +23,7 @@
 
         Any penalty imposed by this section shall be in addition to any other penalty provided by law.
 
-(Added [Pub. L. 98–67, title I, § 104(c)(1)][/us/pl/98/67/s104/c/1], Aug. 5, 1983, [97 Stat. 379][/us/stat/97/379].)
+(Added [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 104(c)(1), Aug. 5, 1983, [97 Stat. 379][/us/stat/97/379].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/98/67/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs104%2Fc%2F1
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F379
 [/us/pl/98/67/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs110%2Fa
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31

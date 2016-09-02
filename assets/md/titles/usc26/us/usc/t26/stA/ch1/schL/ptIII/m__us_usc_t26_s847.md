@@ -87,7 +87,7 @@
 
         (C) providing for the application of this section in cases where the deduction allowed under paragraph (1) for any taxable year is less than the excess referred to in paragraph (1) for such year.
 
-(Added [Pub. L. 100–647, title VI, § 6077(a)][/us/pl/100/647/s6077/a], Nov. 10, 1988, [102 Stat. 3707][/us/stat/102/3707]; amended [Pub. L. 101–239, title VII, § 7816(n)][/us/pl/101/239/s7816/n], Dec. 19, 1989, [103 Stat. 2422][/us/stat/103/2422].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6077(a), Nov. 10, 1988, [102 Stat. 3707][/us/stat/102/3707]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7816(n), Dec. 19, 1989, [103 Stat. 2422][/us/stat/103/2422].)
 
  __References in Text__ 
 
@@ -95,19 +95,19 @@
 
  __Amendments__ 
 
-    1989—Par. (1). [Pub. L. 101–239, § 7816(n)(1)][/us/pl/101/239/s7816/n/1], substituted “special estimated tax” for “separate estimated tax” in introductory provisions and inserted “in taxable years beginning” after “attributable to losses incurred” in subpar. (A).
+    1989—Par. (1). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(1), substituted “special estimated tax” for “separate estimated tax” in introductory provisions and inserted “in taxable years beginning” after “attributable to losses incurred” in subpar. (A).
 
-    Par. (2). [Pub. L. 101–239, § 7816(n)(2)][/us/pl/101/239/s7816/n/2], amended first sentence generally. Prior to amendment, first sentence read as follows: “The deduction under paragraph (1) shall be allowed only to the extent that special estimated tax payments are made in an amount equal to the tax benefit attributable to such deduction, on or before the date that any taxes (determined without regard to this section) for the taxable year for which the deduction is allowed are due to be paid.”
+    Par. (2). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “The deduction under paragraph (1) shall be allowed only to the extent that special estimated tax payments are made in an amount equal to the tax benefit attributable to such deduction, on or before the date that any taxes (determined without regard to this section) for the taxable year for which the deduction is allowed are due to be paid.”
 
-    Par. (5). [Pub. L. 101–239, § 7816(n)(3)][/us/pl/101/239/s7816/n/3], inserted at end “To the extent that any amount added to the special loss discount account is not subtracted from such account before the 15th year after the year for which the amount was so added, such amount shall be subtracted from such account for such 15th year and included in gross income for such 15th year.”
+    Par. (5). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(3), inserted at end “To the extent that any amount added to the special loss discount account is not subtracted from such account before the 15th year after the year for which the amount was so added, such amount shall be subtracted from such account for such 15th year and included in gross income for such 15th year.”
 
-    Par. (8). [Pub. L. 101–239, § 7816(n)(6)][/us/pl/101/239/s7816/n/6], inserted at end “The limitations on consolidation contained in section 1503(c) shall not apply to the deduction allowed under paragraph (1).”
+    Par. (8). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(6), inserted at end “The limitations on consolidation contained in section 1503(c) shall not apply to the deduction allowed under paragraph (1).”
 
-    Par. (9). [Pub. L. 101–239, § 7816(n)(5)][/us/pl/101/239/s7816/n/5], added par. (9). Former par. (9) redesignated (10).
+    Par. (9). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(5), added par. (9). Former par. (9) redesignated (10).
 
-    [Pub. L. 101–239, § 7816(n)(4)][/us/pl/101/239/s7816/n/4], added subpar. (C).
+    [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(4), added subpar. (C).
 
-    Par. (10). [Pub. L. 101–239, § 7816(n)(5)][/us/pl/101/239/s7816/n/5], redesignated par. (9) as (10).
+    Par. (10). [Pub. L. 101–239][/us/pl/101/239], § 7816(n)(5), redesignated par. (9) as (10).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -115,7 +115,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title VI, § 6077(c)][/us/pl/100/647/s6077/c], Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6077(c), Nov. 10, 1988, [102 Stat. 3709][/us/stat/102/3709], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1987.”
 
@@ -126,23 +126,23 @@
 ----------
 ----------
 
-[/us/pl/100/647/s6077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6077%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3707
-[/us/pl/101/239/s7816/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2422
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/101/239/s7816/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F1
-[/us/pl/101/239/s7816/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F2
-[/us/pl/101/239/s7816/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F3
-[/us/pl/101/239/s7816/n/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F6
-[/us/pl/101/239/s7816/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F5
-[/us/pl/101/239/s7816/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F4
-[/us/pl/101/239/s7816/n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7816%2Fn%2F5
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s6077/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6077%2Fc
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3709
 
 

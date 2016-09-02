@@ -37,11 +37,11 @@
 
         The term “passenger vessel” means any vessel having berth or stateroom accommodations for more than 16 passengers.
 
-(Added [Pub. L. 101–239, title VII, § 7504(a)][/us/pl/101/239/s7504/a], Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7504(a), Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362].)
 
  __Prior Provisions__ 
 
-    A prior section 4472 was contained in subchapter C of this chapter prior to repeal by [Pub. L. 89–44, title IV, § 404][/us/pl/89/44/s404], June 21, 1965, [79 Stat. 149][/us/stat/79/149].
+    A prior section 4472 was contained in subchapter C of this chapter prior to repeal by [Pub. L. 89–44, title IV][/us/pl/89/44/tIV], § 404, June 21, 1965, [79 Stat. 149][/us/stat/79/149].
 
 ----------
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7504%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2362
-[/us/pl/89/44/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs404
+[/us/pl/89/44/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIV
 [/us/stat/79/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F149
 
 

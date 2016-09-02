@@ -83,19 +83,19 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(12)(A)][/us/pl/113/295/s221/a/12/A], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038], struck out part VII “Environmental tax”.
+    2014—[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(12)(A), Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038], struck out part VII “Environmental tax”.
 
-    1989—[Pub. L. 101–234, title I, § 102(a)][/us/pl/101/234/s102/a], Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], repealed [Pub. L. 100–360, § 111][/us/pl/100/360/s111], and provided that the provisions of law amended by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
+    1989—[Pub. L. 101–234, title I][/us/pl/101/234/tI], § 102(a), Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], repealed [Pub. L. 100–360][/us/pl/100/360], § 111, and provided that the provisions of law amended by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-    1988—[Pub. L. 100–360, title I, § 111(c)][/us/pl/100/360/s111/c], July 1, 1988, [102 Stat. 697][/us/stat/102/697], added part VIII “Supplemental medicare premium”.
+    1988—[Pub. L. 100–360, title I][/us/pl/100/360/tI], § 111(c), July 1, 1988, [102 Stat. 697][/us/stat/102/697], added part VIII “Supplemental medicare premium”.
 
-    1986—[Pub. L. 99–499, title V, § 516(b)(5)][/us/pl/99/499/s516/b/5], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771], added part VII.
+    1986—[Pub. L. 99–499, title V][/us/pl/99/499/tV], § 516(b)(5), Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771], added part VII.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(2)][/us/pl/94/455/s1901/b/2], Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], struck out part V “Tax surcharge”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(2), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], struck out part V “Tax surcharge”.
 
-    1969—[Pub. L. 91–172, title III, § 301(b)(1)][/us/pl/91/172/s301/b/1], Dec. 30, 1969, [83 Stat. 585][/us/stat/83/585], added part VI.
+    1969—[Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 301(b)(1), Dec. 30, 1969, [83 Stat. 585][/us/stat/83/585], added part VI.
 
-    1968—[Pub. L. 90–364, title I, § 102(d)][/us/pl/90/364/s102/d], June 28, 1968, [82 Stat. 259][/us/stat/82/259], added part V.
+    1968—[Pub. L. 90–364, title I][/us/pl/90/364/tI], § 102(d), June 28, 1968, [82 Stat. 259][/us/stat/82/259], added part V.
 
 ----------
 
@@ -104,20 +104,20 @@
 ----------
 ----------
 
-[/us/pl/113/295/s221/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FA
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
-[/us/pl/101/234/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs102%2Fa
+[/us/pl/101/234/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2FtI
 [/us/stat/103/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1980
-[/us/pl/100/360/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs111
-[/us/pl/100/360/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs111%2Fc
+[/us/pl/100/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360
+[/us/pl/100/360/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2FtI
 [/us/stat/102/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F697
-[/us/pl/99/499/s516/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs516%2Fb%2F5
+[/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/stat/100/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1771
-[/us/pl/94/455/s1901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F2
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1792
-[/us/pl/91/172/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs301%2Fb%2F1
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F585
-[/us/pl/90/364/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs102%2Fd
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F259
 
 

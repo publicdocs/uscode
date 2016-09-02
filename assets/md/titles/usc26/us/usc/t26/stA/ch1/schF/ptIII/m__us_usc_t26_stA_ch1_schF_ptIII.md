@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title I][/us/pl/91/172], §§ 101(a), 121(d)(3)(C), Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492], 548, substituted “PART III” for “PART II” as part designation and substituted “Unrelated debt-financed income” for “Business leases” in item 514.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], §§ 101(a), 121(d)(3)(C), Dec. 30, 1969, [83 Stat. 492][/us/stat/83/492], 548, substituted “PART III” for “PART II” as part designation and substituted “Unrelated debt-financed income” for “Business leases” in item 514.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F492
 
 

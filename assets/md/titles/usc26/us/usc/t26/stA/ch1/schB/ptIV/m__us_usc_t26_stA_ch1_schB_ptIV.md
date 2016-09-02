@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2603][/us/stat/100/2603], in amending part IV generally, substituted “TAX EXEMPTION REQUIREMENTS FOR STATE AND LOCAL BONDS” for “DETERMINATION OF MARITAL STATUS” as heading for part IV and added part analysis.
+    1986—[Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(b), Oct. 22, 1986, [100 Stat. 2603][/us/stat/100/2603], in amending part IV generally, substituted “TAX EXEMPTION REQUIREMENTS FOR STATE AND LOCAL BONDS” for “DETERMINATION OF MARITAL STATUS” as heading for part IV and added part analysis.
 
-    1977—[Pub. L. 95–30, title I, § 101(e)(2)][/us/pl/95/30/s101/e/2], May 23, 1977, [91 Stat. 134][/us/stat/91/134], substituted “DETERMINATION OF MARITAL STATUS” for “STANDARD DEDUCTION FOR INDIVIDUALS” as heading for part IV.
+    1977—[Pub. L. 95–30, title I][/us/pl/95/30/tI], § 101(e)(2), May 23, 1977, [91 Stat. 134][/us/stat/91/134], substituted “DETERMINATION OF MARITAL STATUS” for “STANDARD DEDUCTION FOR INDIVIDUALS” as heading for part IV.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fb
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2603
-[/us/pl/95/30/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs101%2Fe%2F2
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F134
 
 

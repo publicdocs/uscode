@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(5)][/us/pl/101/508/s11801/b/5], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part IV “Insolvency reorganizations”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(5), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part IV “Insolvency reorganizations”.
 
-    1988—[Pub. L. 100–647, title I, § 1006(e)(8)(C)][/us/pl/100/647/s1006/e/8/C], Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], struck out item for part VII “Miscellaneous corporate provisions”.
+    1988—[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(e)(8)(C), Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], struck out item for part VII “Miscellaneous corporate provisions”.
 
-    1984—[Pub. L. 98–369, div. A, title I, § 75(d)][/us/pl/98/369/s75/d], July 18, 1984, [98 Stat. 595][/us/stat/98/595], added item for part VII.
+    1984—[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 75(d), July 18, 1984, [98 Stat. 595][/us/stat/98/595], added item for part VII.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(15)][/us/pl/94/455/s1901/b/15], Oct. 4, 1976, [90 Stat. 1796][/us/stat/90/1796], struck out item for part VII “Effective date of subchapter C.”
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(15), Oct. 4, 1976, [90 Stat. 1796][/us/stat/90/1796], struck out item for part VII “Effective date of subchapter C.”
 
-    1969—[Pub. L. 91–172, title IV, § 415(b)][/us/pl/91/172/s415/b], Dec. 30, 1969, [83 Stat. 614][/us/stat/83/614], redesignated item for part VI as VII and added part VI.
+    1969—[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 415(b), Dec. 30, 1969, [83 Stat. 614][/us/stat/83/614], redesignated item for part VI as VII and added part VI.
 
 ----------
 
@@ -100,15 +100,15 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11801/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F5
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/100/647/s1006/e/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F8%2FC
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3401
-[/us/pl/98/369/s75/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs75%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F595
-[/us/pl/94/455/s1901/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F15
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1796
-[/us/pl/91/172/s415/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs415%2Fb
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F614
 
 

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s591.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s593.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs592)
 
-## \[§ 592. Repealed. [Pub. L. 94–455, title XIX, § 1901(a)(83)][/us/pl/94/455/s1901/a/83], Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778]\]
+## \[§ 592. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(83), Oct. 4, 1976, [90 Stat. 1778][/us/stat/90/1778]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 205][/us/stat/68A/205], authorized a deduction by mutual savings banks for repayment of loans made before Sept. 1, 1951, by the United States or any agency or instrumentality thereof, or any mutual fund established under the authority of the laws of any State.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/a/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F83
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1778
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F205

@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1964—[Pub. L. 88–272, title II, § 224(b)][/us/pl/88/272/s224/b], Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79], added item 483.
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 224(b), Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79], added item 483.
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/88/272/s224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs224%2Fb
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F79
 
 

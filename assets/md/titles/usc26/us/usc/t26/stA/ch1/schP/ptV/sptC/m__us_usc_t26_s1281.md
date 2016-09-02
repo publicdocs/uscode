@@ -71,19 +71,19 @@
 
         For special rules limiting the application of this section to original issue discount in the case of nongovernmental obligations, see section 1283(c).
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 548][/us/stat/98/548]; amended [Pub. L. 99–514, title XVIII, § 1803(a)(7)][/us/pl/99/514/s1803/a/7], (8)(A), Oct. 22, 1986, [100 Stat. 2793][/us/stat/100/2793], 2794.)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 548][/us/stat/98/548]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1803(a)(7), (8)(A), Oct. 22, 1986, [100 Stat. 2793][/us/stat/100/2793], 2794.)
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–514, § 1803(a)(8)][/us/pl/99/514/s1803/a/8], amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
+    1986—Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(8), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
-    Subsec. (b)(1)(F). [Pub. L. 99–514, § 1803(a)(7)][/us/pl/99/514/s1803/a/7], added subpar. (F).
+    Subsec. (b)(1)(F). [Pub. L. 99–514][/us/pl/99/514], § 1803(a)(7), added subpar. (F).
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [section 1803(a)(7) of Pub. L. 99–514][/us/pl/99/514/s1803/a/7] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1803(a)(7) of Pub. L. 99–514][/us/pl/99/514/s1803/a/7] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
-    [Section 1803(a)(8)(A) of Pub. L. 99–514][/us/pl/99/514/s1803/a/8/A], as amended by [Pub. L. 100–647, title I, § 1018(c)(1)][/us/pl/100/647/s1018/c/1], Nov. 10, 1988, [102 Stat. 3578][/us/stat/102/3578], provided that the amendment made by [section 1803(a)(8)(A) of Pub. L. 99–514][/us/pl/99/514/s1803/a/8/A] is effective with respect to obligations acquired after Dec. 31, 1985.
+    [Section 1803(a)(8)(A) of Pub. L. 99–514][/us/pl/99/514/s1803/a/8/A], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(c)(1), Nov. 10, 1988, [102 Stat. 3578][/us/stat/102/3578], provided that the amendment made by [section 1803(a)(8)(A) of Pub. L. 99–514][/us/pl/99/514/s1803/a/8/A] is effective with respect to obligations acquired after Dec. 31, 1985.
 
  __Effective Date__ 
 
@@ -100,18 +100,18 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F548
-[/us/pl/99/514/s1803/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F7
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2793
-[/us/pl/99/514/s1803/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F8
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1803/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F7
-[/us/pl/99/514/s1803/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F7
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/99/514/s1803/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F8%2FA
-[/us/pl/100/647/s1018/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fc%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3578
 [/us/pl/99/514/s1803/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F8%2FA
 [/us/pl/98/369/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs44

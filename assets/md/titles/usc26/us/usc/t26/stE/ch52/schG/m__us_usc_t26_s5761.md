@@ -67,7 +67,7 @@
 
         For penalty for failure to make deposits or for over­statement of deposits, see section 6656.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 717][/us/stat/68A/717]; [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 97–34, title VII][/us/pl/97/34], §§ 722(a)(3), 724(b)(5), Aug. 13, 1981, [95 Stat. 342][/us/stat/95/342], 345; [Pub. L. 97–448, title I, § 107(b)][/us/pl/97/448/s107/b], Jan. 12, 1983, [96 Stat. 2391][/us/stat/96/2391]; [Pub. L. 98–369, div. A, title VII, § 714(h)(2)][/us/pl/98/369/s714/h/2], July 18, 1984, [98 Stat. 962][/us/stat/98/962]; [Pub. L. 101–239, title VII, § 7721(c)(4)][/us/pl/101/239/s7721/c/4], (5), Dec. 19, 1989, [103 Stat. 2399][/us/stat/103/2399]; [Pub. L. 105–33, title IX, § 9302(h)(1)(B)][/us/pl/105/33/s9302/h/1/B]–(D), Aug. 5, 1997, [111 Stat. 673][/us/stat/111/673]; [Pub. L. 106–476, title IV][/us/pl/106/476], §§ 4002(c), 4003(a), Nov. 9, 2000, [114 Stat. 2177][/us/stat/114/2177]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 315(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 109–432, div. C, title IV, § 401(f)(1)][/us/pl/109/432/s401/f/1], (2)(A), Dec. 20, 2006, [120 Stat. 3049][/us/stat/120/3049], 3050.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 717][/us/stat/68A/717]; [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1425][/us/stat/72/1425]; [Pub. L. 97–34, title VII][/us/pl/97/34/tVII], §§ 722(a)(3), 724(b)(5), Aug. 13, 1981, [95 Stat. 342][/us/stat/95/342], 345; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 107(b), Jan. 12, 1983, [96 Stat. 2391][/us/stat/96/2391]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(h)(2), July 18, 1984, [98 Stat. 962][/us/stat/98/962]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(c)(4), (5), Dec. 19, 1989, [103 Stat. 2399][/us/stat/103/2399]; [Pub. L. 105–33, title IX][/us/pl/105/33/tIX], § 9302(h)(1)(B)–(D), Aug. 5, 1997, [111 Stat. 673][/us/stat/111/673]; [Pub. L. 106–476, title IV][/us/pl/106/476/tIV], §§ 4002(c), 4003(a), Nov. 9, 2000, [114 Stat. 2177][/us/stat/114/2177]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 315(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 109–432, div. C, title IV][/us/pl/109/432/dC/tIV], § 401(f)(1), (2)(A), Dec. 20, 2006, [120 Stat. 3049][/us/stat/120/3049], 3050.)
 
  __References in Text__ 
 
@@ -75,35 +75,35 @@
 
  __Amendments__ 
 
-    2006—Subsec. (c). [Pub. L. 109–432, § 401(f)(2)(A)][/us/pl/109/432/s401/f/2/A], struck out at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+    2006—Subsec. (c). [Pub. L. 109–432][/us/pl/109/432], § 401(f)(2)(A), struck out at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
-    Subsecs. (d) to (f). [Pub. L. 109–432, § 401(f)(1)][/us/pl/109/432/s401/f/1], added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (d) to (f). [Pub. L. 109–432][/us/pl/109/432], § 401(f)(1), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
     2000—Subsec. (c). [Pub. L. 106–554][/us/pl/106/554] inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
-    [Pub. L. 106–476, § 4003(a)][/us/pl/106/476/s4003/a], inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+    [Pub. L. 106–476][/us/pl/106/476], § 4003(a), inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
-    [Pub. L. 106–476, § 4002(c)][/us/pl/106/476/s4002/c], which directed amendment of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by [Pub. L. 106–476, § 4003(a)][/us/pl/106/476/s4003/a], and [Pub. L. 106–554][/us/pl/106/554]. See above.
+    [Pub. L. 106–476][/us/pl/106/476], § 4002(c), which directed amendment of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by [Pub. L. 106–476][/us/pl/106/476], § 4003(a), and [Pub. L. 106–554][/us/pl/106/554]. See above.
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 9302(h)(1)(C)][/us/pl/105/33/s9302/h/1/C], substituted “subsection (b) or (c)” for “subsection (b)”.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 9302(h)(1)(C), substituted “subsection (b) or (c)” for “subsection (b)”.
 
-    Subsec. (c). [Pub. L. 105–33, § 9302(h)(1)(B)][/us/pl/105/33/s9302/h/1/B], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 9302(h)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 105–33, § 9302(h)(1)(D)][/us/pl/105/33/s9302/h/1/D], substituted “The penalties imposed by subsections (b) and (c)” for “The penalty imposed by subsection (b)”.
+    Subsec. (d). [Pub. L. 105–33][/us/pl/105/33], § 9302(h)(1)(D), substituted “The penalties imposed by subsections (b) and (c)” for “The penalty imposed by subsection (b)”.
 
-    [Pub. L. 105–33, § 9302(h)(1)(B)][/us/pl/105/33/s9302/h/1/B], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 105–33][/us/pl/105/33], § 9302(h)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 105–33, § 9302(h)(1)(B)][/us/pl/105/33/s9302/h/1/B], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 105–33][/us/pl/105/33], § 9302(h)(1)(B), redesignated subsec. (d) as (e).
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7721(c)(4)][/us/pl/101/239/s7721/c/4], inserted “or part II of subchapter A of chapter 68” after “or 6653”.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7721(c)(4), inserted “or part II of subchapter A of chapter 68” after “or 6653”.
 
-    Subsec. (c). [Pub. L. 101–239, § 7721(c)(5)][/us/pl/101/239/s7721/c/5], substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7721(c)(5), substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
 
     1984—Subsec. (c). [Pub. L. 98–369][/us/pl/98/369] substituted “section 6662” for “section 6660” in heading and “section 6662(a)” for “section 6660(a)” in text.
 
     1983—Subsec. (c). [Pub. L. 97–448][/us/pl/97/448] substituted “section 6660” for “section 6659” in heading, and substituted “section 6660(a)” for “section 6659(a)” in text.
 
-    1981—Subsec. (c). [Pub. L. 97–34, § 724(b)(5)][/us/pl/97/34/s724/b/5], added subsec. (c). Former subsec. (c), which related to applicability of section 6656 to failure to make deposit of taxes imposed under subchapter A on the prescribed date and imposition of penalty, was struck out.
+    1981—Subsec. (c). [Pub. L. 97–34][/us/pl/97/34], § 724(b)(5), added subsec. (c). Former subsec. (c), which related to applicability of section 6656 to failure to make deposit of taxes imposed under subchapter A on the prescribed date and imposition of penalty, was struck out.
 
     Subsec. (d). [Pub. L. 97–34][/us/pl/97/34], §§ 722(a)(3), 724(b)(5), added subsec. (d). Former subsec. (d), which related to applicability of section 6660 and penalties imposed by subsections (b) and (c) to be assessed, collected, and paid in the manner as taxes provided in section 6660(a), was struck out. See subsec. (c).
 
@@ -125,7 +125,7 @@
 
     Amendment by [section 4002 of Pub. L. 106–476][/us/pl/106/476/s4002] effective 90 days after Nov. 9, 2000, see [section 4002(d) of Pub. L. 106–476][/us/pl/106/476/s4002/d], set out as a note under [section 5704 of this title][/us/usc/t26/s5704].
 
-[Pub. L. 106–476, title IV, § 4003(b)][/us/pl/106/476/s4003/b], Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178], provided that: 
+[Pub. L. 106–476, title IV][/us/pl/106/476/tIV], § 4003(b), Nov. 9, 2000, [114 Stat. 2178][/us/stat/114/2178], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[[Pub. L. 105–33][/us/pl/105/33]\].”
 
@@ -164,42 +164,42 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F717
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1425
-[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtVII
 [/us/stat/95/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F342
-[/us/pl/97/448/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs107%2Fb
+[/us/pl/97/448/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtI
 [/us/stat/96/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2391
-[/us/pl/98/369/s714/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fh%2F2
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F962
-[/us/pl/101/239/s7721/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F4
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2399
-[/us/pl/105/33/s9302/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FB
+[/us/pl/105/33/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIX
 [/us/stat/111/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F673
-[/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2177
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/432/s401/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Ff%2F1
+[/us/pl/109/432/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdC%2FtIV
 [/us/stat/120/3049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3049
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/109/432/s401/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Ff%2F2%2FA
-[/us/pl/109/432/s401/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Ff%2F1
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/476/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4003%2Fa
-[/us/pl/106/476/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4002%2Fc
-[/us/pl/106/476/s4003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4003%2Fa
+[/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
+[/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
+[/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/33/s9302/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FC
-[/us/pl/105/33/s9302/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FB
-[/us/pl/105/33/s9302/h/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FD
-[/us/pl/105/33/s9302/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FB
-[/us/pl/105/33/s9302/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs9302%2Fh%2F1%2FB
-[/us/pl/101/239/s7721/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F4
-[/us/pl/101/239/s7721/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fc%2F5
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
-[/us/pl/97/34/s724/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs724%2Fb%2F5
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/usc/t26/s6652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6652
@@ -216,7 +216,7 @@
 [/us/pl/106/476/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4002
 [/us/pl/106/476/s4002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4002%2Fd
 [/us/usc/t26/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5704
-[/us/pl/106/476/s4003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs4003%2Fb
+[/us/pl/106/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtIV
 [/us/stat/114/2178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2178
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

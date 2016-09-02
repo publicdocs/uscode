@@ -45,15 +45,15 @@
 
         (2) any individual (other than the Attorney General of the United States) serving in a position specified in [section 5312 of title 5][/us/usc/t5/s5312], United States Code.
 
-(Added [Pub. L. 105–206, title I, § 1105(a)][/us/pl/105/206/s1105/a], July 22, 1998, [112 Stat. 711][/us/stat/112/711].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1105(a), July 22, 1998, [112 Stat. 711][/us/stat/112/711].)
 
  __Prior Provisions__ 
 
-    A prior section 7217, added [Pub. L. 94–455, title XII, § 1202(e)(1)][/us/pl/94/455/s1202/e/1], Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687]; amended [Pub. L. 95–600, title VII, § 701(bb)(7)][/us/pl/95/600/s701/bb/7], Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923], related to civil damages for unauthorized disclosure of returns and return information, prior to repeal by [Pub. L. 97–248, title III, § 357(b)(1)][/us/pl/97/248/s357/b/1], (c), Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], applicable with respect to disclosures made after Sept. 3, 1982.
+    A prior section 7217, added [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(e)(1), Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687]; amended [Pub. L. 95–600, title VII][/us/pl/95/600/tVII], § 701(bb)(7), Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923], related to civil damages for unauthorized disclosure of returns and return information, prior to repeal by [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 357(b)(1), (c), Sept. 3, 1982, [96 Stat. 646][/us/stat/96/646], applicable with respect to disclosures made after Sept. 3, 1982.
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title I, § 1105(c)][/us/pl/105/206/s1105/c], July 22, 1998, [112 Stat. 711][/us/stat/112/711], provided that: 
+[Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1105(c), July 22, 1998, [112 Stat. 711][/us/stat/112/711], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -65,15 +65,15 @@
 ----------
 
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
-[/us/pl/105/206/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1105%2Fa
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F711
-[/us/pl/94/455/s1202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fe%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1687
-[/us/pl/95/600/s701/bb/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fbb%2F7
+[/us/pl/95/600/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVII
 [/us/stat/92/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2923
-[/us/pl/97/248/s357/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs357%2Fb%2F1
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F646
-[/us/pl/105/206/s1105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1105%2Fc
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F711
 
 

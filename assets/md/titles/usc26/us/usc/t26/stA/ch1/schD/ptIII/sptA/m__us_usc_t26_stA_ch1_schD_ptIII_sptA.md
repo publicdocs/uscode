@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–280, title II, § 212(d)][/us/pl/109/280/s212/d], Aug. 17, 2006, [120 Stat. 917][/us/stat/120/917], added item 432.
+    2006—[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 212(d), Aug. 17, 2006, [120 Stat. 917][/us/stat/120/917], added item 432.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fd
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F917
 
 

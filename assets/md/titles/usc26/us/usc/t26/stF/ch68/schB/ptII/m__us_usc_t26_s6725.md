@@ -31,7 +31,7 @@
 
         No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-(Added [Pub. L. 108–357, title VIII, § 863(d)(1)][/us/pl/108/357/s863/d/1], Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620].)
+(Added [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 863(d)(1), Oct. 22, 2004, [118 Stat. 1620][/us/stat/118/1620].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/108/357/s863/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs863%2Fd%2F1
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1620
 [/us/pl/108/357/s863/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs863%2Fe
 [/us/usc/t26/s6719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6719

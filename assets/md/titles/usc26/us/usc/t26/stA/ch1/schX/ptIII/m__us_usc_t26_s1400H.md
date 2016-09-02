@@ -27,7 +27,7 @@
 
         (2) subsection (c) thereof shall be applied by substituting “$10,000” for “$15,000” each place it appears.
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–596.)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–596.)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

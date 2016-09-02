@@ -51,7 +51,7 @@
 
         For disallowance of certain entertainment, etc., expenses, see section 274.
 
-(Added [Pub. L. 89–368, title III, § 301(a)][/us/pl/89/368/s301/a], Mar. 15, 1966, [80 Stat. 66][/us/stat/80/66]; amended [Pub. L. 90–364, title I, § 108(a)][/us/pl/90/364/s108/a], June 28, 1968, [82 Stat. 268][/us/stat/82/268]; [Pub. L. 93–443, title IV, § 406(d)][/us/pl/93/443/s406/d], Oct. 15, 1974, [88 Stat. 1296][/us/stat/88/1296].)
+(Added [Pub. L. 89–368, title III][/us/pl/89/368/tIII], § 301(a), Mar. 15, 1966, [80 Stat. 66][/us/stat/80/66]; amended [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 108(a), June 28, 1968, [82 Stat. 268][/us/stat/82/268]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 406(d), Oct. 15, 1974, [88 Stat. 1296][/us/stat/88/1296].)
 
  __Amendments__ 
 
@@ -65,19 +65,19 @@
 
  __Effective Date of 1968 Amendment__ 
 
-[Pub. L. 90–364, title I, § 108(b)][/us/pl/90/364/s108/b], June 28, 1968, [82 Stat. 269][/us/stat/82/269], provided that: 
+[Pub. L. 90–364, title I][/us/pl/90/364/tI], § 108(b), June 28, 1968, [82 Stat. 269][/us/stat/82/269], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to amounts paid or incurred on or after January 1, 1968.”
 
  __Effective Date__ 
 
-[Pub. L. 89–368, title III, § 301(c)][/us/pl/89/368/s301/c], Mar. 15, 1966, [80 Stat. 67][/us/stat/80/67], provided that: 
+[Pub. L. 89–368, title III][/us/pl/89/368/tIII], § 301(c), Mar. 15, 1966, [80 Stat. 67][/us/stat/80/67], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply to taxable years beginning after December 31, 1965, but only with respect to amounts paid or incurred after the date of the enactment of this Act \[Mar. 15, 1966\].”
 
  __Program Advertising for Presidential and Vice-Presidential Nominating Conventions__ 
 
-    [Pub. L. 90–346][/us/pl/90/346], June 18, 1968, [82 Stat. 183][/us/stat/82/183], provided for advertising in a convention program of a national political convention, applicable with respect to amounts paid or incurred on or after Jan. 1, 1968, prior to repeal by [Pub. L. 93–625, § 10(g)][/us/pl/93/625/s10/g], Jan. 3, 1975, [88 Stat. 2119][/us/stat/88/2119].
+    [Pub. L. 90–346][/us/pl/90/346], June 18, 1968, [82 Stat. 183][/us/stat/82/183], provided for advertising in a convention program of a national political convention, applicable with respect to amounts paid or incurred on or after Jan. 1, 1968, prior to repeal by [Pub. L. 93–625][/us/pl/93/625], § 10(g), Jan. 3, 1975, [88 Stat. 2119][/us/stat/88/2119].
 
 ----------
 
@@ -86,24 +86,24 @@
 ----------
 ----------
 
-[/us/pl/89/368/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs301%2Fa
+[/us/pl/89/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2FtIII
 [/us/stat/80/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F66
-[/us/pl/90/364/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs108%2Fa
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F268
-[/us/pl/93/443/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs406%2Fd
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1296
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/90/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
-[/us/pl/90/364/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs108%2Fb
+[/us/pl/90/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2FtI
 [/us/stat/82/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F269
-[/us/pl/89/368/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2Fs301%2Fc
+[/us/pl/89/368/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F368%2FtIII
 [/us/stat/80/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F67
 [/us/pl/90/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F346
 [/us/stat/82/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F183
-[/us/pl/93/625/s10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs10%2Fg
+[/us/pl/93/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625
 [/us/stat/88/2119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2119
 
 

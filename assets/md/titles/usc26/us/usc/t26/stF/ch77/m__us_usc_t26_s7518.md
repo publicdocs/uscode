@@ -355,11 +355,11 @@
 
         For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added [Pub. L. 99–514, title II, § 261(b)][/us/pl/99/514/s261/b], Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208]; amended [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, [102 Stat. 3382][/us/stat/102/3382], 3591; [Pub. L. 101–508, title XI, § 11101(d)(7)(A)][/us/pl/101/508/s11101/d/7/A], Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 105–34, title III, § 311(c)(2)][/us/pl/105/34/s311/c/2], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III, § 301(a)(2)(D)][/us/pl/108/27/s301/a/2/D], May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–304, § 17(e)(6)][/us/pl/109/304/s17/e/6], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 112–240, title I, § 102(c)(1)(D)][/us/pl/112/240/s102/c/1/D], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 113–295, div. A, title II, § 221(a)(117)][/us/pl/113/295/s221/a/117], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
+(Added [Pub. L. 99–514, title II][/us/pl/99/514/tII], § 261(b), Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, [102 Stat. 3382][/us/stat/102/3382], 3591; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11101(d)(7)(A), Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 311(c)(2), Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 301(a)(2)(D), May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–304][/us/pl/109/304], § 17(e)(6), Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 112–240, title I][/us/pl/112/240/tI], § 102(c)(1)(D), Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(117), Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __References in Text__ 
 
-    Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of [act June 29, 1936, ch. 858][/us/act/1936-06-29/ch858], title VI, [49 Stat. 2004][/us/stat/49/2004], as amended by acts [June 23, 1938, ch. 600, § 22][/us/act/1938-06-23/ch600/s22], [52 Stat. 960][/us/stat/52/960]; [July 17, 1952, ch. 939, § 16][/us/act/1952-07-17/ch939/s16], [66 Stat. 764][/us/stat/66/764]; and [May 10, 1956, ch. 247, § 1][/us/act/1956-05-10/ch247/s1], [70 Stat. 148][/us/stat/70/148], which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by [Pub. L. 91–469, § 20(4)][/us/pl/91/469/s20/4], Oct. 21, 1970, [84 Stat. 1026][/us/stat/84/1026]. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under [section 53101 of Title 46][/us/usc/t46/s53101], Shipping.
+    Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of [act June 29, 1936, ch. 858, title VI][/us/act/1936-06-29/ch858/tVI], [49 Stat. 2004][/us/stat/49/2004], as amended by acts [June 23, 1938, ch. 600][/us/act/1938-06-23/ch600], § 22, [52 Stat. 960][/us/stat/52/960]; [July 17, 1952, ch. 939][/us/act/1952-07-17/ch939], § 16, [66 Stat. 764][/us/stat/66/764]; and [May 10, 1956, ch. 247][/us/act/1956-05-10/ch247], § 1, [70 Stat. 148][/us/stat/70/148], which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by [Pub. L. 91–469][/us/pl/91/469], § 20(4), Oct. 21, 1970, [84 Stat. 1026][/us/stat/84/1026]. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under [section 53101 of Title 46][/us/usc/t46/s53101], Shipping.
 
     Section 607(k) of the Merchant Marine Act, 1936, referred to in subsec. (i), was classified to section 1177(k) of the former Appendix to Title 46, Shipping, and was repealed and partially restated in [section 53501 of Title 46][/us/usc/t46/s53501], Shipping, by [Pub. L. 109–304][/us/pl/109/304], §§ 8(c), 19, Oct. 6, 2006, [120 Stat. 1586][/us/stat/120/1586], 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46][/us/usc/t46/s101].
 
@@ -377,11 +377,11 @@
 
     2013—Subsec. (g)(6)(A). [Pub. L. 112–240][/us/pl/112/240] substituted “20 percent” for “15 percent” in concluding provisions.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–304, § 17(e)(6)(A)][/us/pl/109/304/s17/e/6/A], substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+    2006—Subsec. (a)(1). [Pub. L. 109–304][/us/pl/109/304], § 17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
-    Subsecs. (a)(2), (c)(1)(A), (D). [Pub. L. 109–304, § 17(e)(6)(B)][/us/pl/109/304/s17/e/6/B], substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+    Subsecs. (a)(2), (c)(1)(A), (D). [Pub. L. 109–304][/us/pl/109/304], § 17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
-    Subsec. (g)(3)(C)(iii). [Pub. L. 109–304, § 17(e)(6)(C)][/us/pl/109/304/s17/e/6/C], substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
+    Subsec. (g)(3)(C)(iii). [Pub. L. 109–304][/us/pl/109/304], § 17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
 
     2003—Subsec. (g)(6)(A). [Pub. L. 108–27][/us/pl/108/27] substituted “15 percent” for “20 percent” in concluding provisions.
 
@@ -389,9 +389,9 @@
 
     1990—Subsec. (g)(6)(A). [Pub. L. 101–508][/us/pl/101/508] substituted “section 1(h)” for “section 1(j)” in last sentence.
 
-    1988—Subsec. (g)(1). [Pub. L. 100–647, § 1018(u)(23)][/us/pl/100/647/s1018/u/23], substituted “not a qualified withdrawal” for “not qualified withdrawal”.
+    1988—Subsec. (g)(1). [Pub. L. 100–647][/us/pl/100/647], § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
-    Subsec. (g)(6)(A). [Pub. L. 100–647, § 1002(m)(1)][/us/pl/100/647/s1002/m/1], substituted “section 1(j)” for “section 1(i)”.
+    Subsec. (g)(6)(A). [Pub. L. 100–647][/us/pl/100/647], § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -419,13 +419,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title II, § 261(g)][/us/pl/99/514/s261/g], Oct. 22, 1986, [100 Stat. 2216][/us/stat/100/2216], provided that: 
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 261(g), Oct. 22, 1986, [100 Stat. 2216][/us/stat/100/2216], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 26 of this title][/us/usc/t26/s26] and [section 1177 of Title 46][/us/usc/t46/s1177], Appendix, Shipping\] shall apply to taxable years beginning after December 31, 1986.”
 
  __Merchant Marine Capital Construction Funds__ 
 
-[Pub. L. 99–514, title II, § 261(a)][/us/pl/99/514/s261/a], Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208], provided that: 
+[Pub. L. 99–514, title II][/us/pl/99/514/tII], § 261(a), Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208], provided that: 
 
 > “The purpose of this section \[enacting this section, amending [section 26 of this title][/us/usc/t26/s26] and [section 1177 of Title 46][/us/usc/t46/s1177], Appendix, and enacting provisions set out as a note above\] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 \[see [46 U.S.C. 53501][/us/usc/t46/s53501] et seq.\].”
 
@@ -436,31 +436,31 @@
 ----------
 ----------
 
-[/us/pl/99/514/s261/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs261%2Fb
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2208
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3382
-[/us/pl/101/508/s11101/d/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11101%2Fd%2F7%2FA
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-405
-[/us/pl/105/34/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs311%2Fc%2F2
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F835
-[/us/pl/108/27/s301/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs301%2Fa%2F2%2FD
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F758
-[/us/pl/109/304/s17/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
-[/us/pl/112/240/s102/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FD
+[/us/pl/112/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtI
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
-[/us/pl/113/295/s221/a/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F117
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
-[/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
+[/us/act/1936-06-29/ch858/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858%2FtVI
 [/us/stat/49/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2004
-[/us/act/1938-06-23/ch600/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch600%2Fs22
+[/us/act/1938-06-23/ch600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch600
 [/us/stat/52/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F960
-[/us/act/1952-07-17/ch939/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch939%2Fs16
+[/us/act/1952-07-17/ch939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch939
 [/us/stat/66/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F764
-[/us/act/1956-05-10/ch247/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-10%2Fch247%2Fs1
+[/us/act/1956-05-10/ch247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-10%2Fch247
 [/us/stat/70/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F148
-[/us/pl/91/469/s20/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469%2Fs20%2F4
+[/us/pl/91/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469
 [/us/stat/84/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1026
 [/us/usc/t46/s53101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53101
 [/us/usc/t46/s53501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs53501
@@ -470,14 +470,14 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
-[/us/pl/109/304/s17/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6%2FA
-[/us/pl/109/304/s17/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6%2FB
-[/us/pl/109/304/s17/e/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6%2FC
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1018/u/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F23
-[/us/pl/100/647/s1002/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fm%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -497,11 +497,11 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s261/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs261%2Fg
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2216
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177
-[/us/pl/99/514/s261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs261%2Fa
+[/us/pl/99/514/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtII
 [/us/stat/100/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2208
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177

@@ -165,7 +165,7 @@
 
             Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
 
-(Added [Pub. L. 99–514, title X, § 1012(b)(1)][/us/pl/99/514/s1012/b/1], Oct. 22, 1986, [100 Stat. 2391][/us/stat/100/2391]; amended [Pub. L. 104–191, title III, § 351(a)][/us/pl/104/191/s351/a], Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071]; [Pub. L. 105–34, title XVI, § 1604(d)(2)(A)][/us/pl/105/34/s1604/d/2/A], Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 111–148, title IX, § 9016(a)][/us/pl/111/148/s9016/a], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872]; [Pub. L. 113–235, div. N, § 102(a)][/us/pl/113/235/s102/a], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
+(Added [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1012(b)(1), Oct. 22, 1986, [100 Stat. 2391][/us/stat/100/2391]; amended [Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 351(a), Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071]; [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1604(d)(2)(A), Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9016(a), Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872]; [Pub. L. 113–235, div. N][/us/pl/113/235/dN], § 102(a), Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(41)(G), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
@@ -179,9 +179,9 @@
 
     2010—Subsec. (c)(5). [Pub. L. 111–148][/us/pl/111/148] added par. (5).
 
-    1997—Subsec. (b)(1)(A)(i). [Pub. L. 105–34, § 1604(d)(2)(A)(i)][/us/pl/105/34/s1604/d/2/A/i], inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
+    1997—Subsec. (b)(1)(A)(i). [Pub. L. 105–34][/us/pl/105/34], § 1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 105–34, § 1604(d)(2)(A)(ii)][/us/pl/105/34/s1604/d/2/A/ii], inserted “or in connection with the administration of cost-plus contracts” before the last comma.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 105–34][/us/pl/105/34], § 1604(d)(2)(A)(ii), inserted “or in connection with the administration of cost-plus contracts” before the last comma.
 
     1996—Subsec. (c)(4). [Pub. L. 104–191][/us/pl/104/191] added par. (4).
 
@@ -191,31 +191,31 @@
 
     Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-[Pub. L. 113–235, div. N, § 102(b)][/us/pl/113/235/s102/b], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773], provided that: 
+[Pub. L. 113–235, div. N][/us/pl/113/235/dN], § 102(b), Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title IX, § 9016(b)][/us/pl/111/148/s9016/b], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], provided that: 
+[Pub. L. 111–148, title IX][/us/pl/111/148/tIX], § 9016(b), Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XVI, § 1604(d)(2)(B)][/us/pl/105/34/s1604/d/2/B], Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098], provided that: 
+[Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1604(d)(2)(B), Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 \[[Pub. L. 99–514][/us/pl/99/514]\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–191, title III, § 351(b)][/us/pl/104/191/s351/b], Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071], provided that: 
+[Pub. L. 104–191, title III][/us/pl/104/191/tIII], § 351(b), Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996.”
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title X, § 1012(c)][/us/pl/99/514/s1012/c], Oct. 22, 1986, [100 Stat. 2393][/us/stat/100/2393], as amended by [Pub. L. 100–647, title I, § 1010(b)(1)][/us/pl/100/647/s1010/b/1], (2), Nov. 10, 1988, [102 Stat. 3451][/us/stat/102/3451], provided that:
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1012(c), Oct. 22, 1986, [100 Stat. 2393][/us/stat/100/2393], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(b)(1), (2), Nov. 10, 1988, [102 Stat. 3451][/us/stat/102/3451], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -263,15 +263,15 @@
 
 >         “(D) For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual’s employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
 
-    \[The due date for the report referred to in [section 1012(c)(2) of Pub. L. 99–514][/us/pl/99/514/s1012/c/2], set out above, extended to July 1, 1992, by [Pub. L. 101–508, title XI, § 11831(b)][/us/pl/101/508/s11831/b], Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].\]
+    \[The due date for the report referred to in [section 1012(c)(2) of Pub. L. 99–514][/us/pl/99/514/s1012/c/2], set out above, extended to July 1, 1992, by [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11831(b), Nov. 5, 1990, [104 Stat. 1388–559][/us/stat/104/1388-559].\]
 
  __Termination of Certain Exceptions From Rules Relating to Exempt Organizations Which Provide Commercial-Type Insurance__ 
 
-[Pub. L. 105–277, div. J, title IV, § 4003(g)][/us/pl/105/277/s4003/g], Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910], provided that: 
+[Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(g), Oct. 21, 1998, [112 Stat. 2681–910][/us/stat/112/2681-910], provided that: 
 
 > “Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act \[[section 1042(b) of Pub. L. 105–34][/us/pl/105/34/s1042/b], set out below\].”
 
-[Pub. L. 105–34, title X, § 1042][/us/pl/105/34/s1042], Aug. 5, 1997, [111 Stat. 939][/us/stat/111/939], provided that:
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1042, Aug. 5, 1997, [111 Stat. 939][/us/stat/111/939], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -295,7 +295,7 @@
 
  __Rules Providing Adjustments for Certain Taxpayers Affected by__  __[__  __Section 1012 of Pub. L. 99–514__  __][/us/pl/99/514/s1012]__ 
 
-[Pub. L. 100–647, title I, § 1010(b)(3)][/us/pl/100/647/s1010/b/3], Nov. 10, 1988, [102 Stat. 3451][/us/stat/102/3451], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(b)(3), Nov. 10, 1988, [102 Stat. 3451][/us/stat/102/3451], provided that: 
 
 > “The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], enacting this section and amending [section 501 of this title][/us/usc/t26/s501]\] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code.”
 
@@ -306,24 +306,24 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1012%2Fb%2F1
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2391
-[/us/pl/104/191/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs351%2Fa
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2071
-[/us/pl/105/34/s1604/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FA
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1098
-[/us/pl/111/148/s9016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9016%2Fa
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
-[/us/pl/113/235/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa
+[/us/pl/113/235/dN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdN
 [/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
-[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/usc/t42/s300gg–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9318
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/105/34/s1604/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FA%2Fi
-[/us/pl/105/34/s1604/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FA%2Fii
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
@@ -334,31 +334,31 @@
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/113/235/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fb
+[/us/pl/113/235/dN]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdN
 [/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
-[/us/pl/111/148/s9016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9016%2Fb
+[/us/pl/111/148/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIX
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
-[/us/pl/105/34/s1604/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FB
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1098
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/104/191/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs351%2Fb
+[/us/pl/104/191/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtIII
 [/us/stat/110/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2071
-[/us/pl/99/514/s1012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1012%2Fc
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2393
-[/us/pl/100/647/s1010/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fb%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3451
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/99/514/s1012/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1012%2Fc%2F2
-[/us/pl/101/508/s11831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11831%2Fb
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-559
-[/us/pl/105/277/s4003/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fg
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-910
 [/us/pl/105/34/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1042%2Fb
-[/us/pl/105/34/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1042
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F939
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1012
-[/us/pl/100/647/s1010/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Fb%2F3
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3451
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501

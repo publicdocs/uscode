@@ -265,7 +265,7 @@
 
         Notwithstanding any other provision of this section, the Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and to prevent abuse of such purposes, including regulations under chapters 11, 12, and 13 of this title.
 
-(Added [Pub. L. 104–188, title I, § 1806(a)][/us/pl/104/188/s1806/a], Aug. 20, 1996, [110 Stat. 1895][/us/stat/110/1895]; amended [Pub. L. 105–34, title II, § 211(a)][/us/pl/105/34/s211/a], (b), (d), (e)(2)(A), title XVI, § 1601(h)(1)(A), (B), Aug. 5, 1997, [111 Stat. 810][/us/stat/111/810], 812, 1092; [Pub. L. 105–206, title VI, § 6004(c)(2)][/us/pl/105/206/s6004/c/2], (3), July 22, 1998, [112 Stat. 793][/us/stat/112/793]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV, § 402(a)(1)][/us/pl/107/16/s402/a/1]–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, [115 Stat. 60–63][/us/stat/115/60-63]; [Pub. L. 107–22, § 1(b)(3)(C)][/us/pl/107/22/s1/b/3/C], July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 107–147, title IV, § 417(11)][/us/pl/107/147/s417/11], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II, § 207(21)][/us/pl/108/311/s207/21], title IV, § 406(a), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1189; [Pub. L. 109–135, title IV, § 412(ee)(3)][/us/pl/109/135/s412/ee/3], Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XIII, § 1304(b)][/us/pl/109/280/s1304/b], Aug. 17, 2006, [120 Stat. 1110][/us/stat/120/1110]; [Pub. L. 111–5, div. B, title I, § 1005(a)][/us/pl/111/5/s1005/a], Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316]; [Pub. L. 113–295, div. B, title I, § 105(a)][/us/pl/113/295/s105/a], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064]; [Pub. L. 114–113, div. Q, title III, § 302(a)(1)][/us/pl/114/113/s302/a/1], (b)(1), (c)(1), Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086].)
+(Added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1806(a), Aug. 20, 1996, [110 Stat. 1895][/us/stat/110/1895]; amended [Pub. L. 105–34, title II][/us/pl/105/34/tII], § 211(a), (b), (d), (e)(2)(A), title XVI, § 1601(h)(1)(A), (B), Aug. 5, 1997, [111 Stat. 810][/us/stat/111/810], 812, 1092; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6004(c)(2), (3), July 22, 1998, [112 Stat. 793][/us/stat/112/793]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 319(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–16, title IV][/us/pl/107/16/tIV], § 402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, [115 Stat. 60–63][/us/stat/115/60-63]; [Pub. L. 107–22][/us/pl/107/22], § 1(b)(3)(C), July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(11), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 108–311, title II][/us/pl/108/311/tII], § 207(21), title IV, § 406(a), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1189; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(ee)(3), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XIII][/us/pl/109/280/tXIII], § 1304(b), Aug. 17, 2006, [120 Stat. 1110][/us/stat/120/1110]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1005(a), Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316]; [Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 105(a), Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 302(a)(1), (b)(1), (c)(1), Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086].)
 
  __References in Text__ 
 
@@ -277,9 +277,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c)(3)(D). [Pub. L. 114–113, § 302(c)(1)][/us/pl/114/113/s302/c/1], added subpar. (D).
+    2015—Subsec. (c)(3)(D). [Pub. L. 114–113][/us/pl/114/113], § 302(c)(1), added subpar. (D).
 
-    [Pub. L. 114–113, § 302(b)(1)][/us/pl/114/113/s302/b/1], struck out subpar. (D). Prior to amendment, text read as follows: “For purposes of applying section 72—
+    [Pub. L. 114–113][/us/pl/114/113], § 302(b)(1), struck out subpar. (D). Prior to amendment, text read as follows: “For purposes of applying section 72—
 
     “(i) to the extent provided by the Secretary, all qualified tuition programs of which an individual is a designated beneficiary shall be treated as one program,
 
@@ -287,7 +287,7 @@
 
     “(iii) except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.”
 
-    Subsec. (e)(3)(A)(iii). [Pub. L. 114–113, § 302(a)(1)][/us/pl/114/113/s302/a/1], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.”
+    Subsec. (e)(3)(A)(iii). [Pub. L. 114–113][/us/pl/114/113], § 302(a)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “expenses paid or incurred in 2009 or 2010 for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is enrolled at an eligible educational institution.”
 
     2014—Subsec. (b)(4). [Pub. L. 113–295][/us/pl/113/295] substituted “Limited” for “No” in heading and “may, directly or indirectly, direct the investment of any contributions to the program (or any earnings thereon) no more than 2 times in any calendar year.” for “may not directly or indirectly direct the investment of any contributions to the program (or any earnings thereon).” in text.
 
@@ -297,25 +297,25 @@
 
     2005—Subsec. (c)(6). [Pub. L. 109–135][/us/pl/109/135] substituted “Coverdell education savings account” for “education individual retirement account”.
 
-    2004—Subsec. (c)(5)(B). [Pub. L. 108–311, § 406(a)][/us/pl/108/311/s406/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
+    2004—Subsec. (c)(5)(B). [Pub. L. 108–311][/us/pl/108/311], § 406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
 
-    Subsec. (e)(2)(B). [Pub. L. 108–311, § 207(21)][/us/pl/108/311/s207/21], substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
+    Subsec. (e)(2)(B). [Pub. L. 108–311][/us/pl/108/311], § 207(21), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
     2002—Subsec. (e)(3)(B)(i). [Pub. L. 107–147][/us/pl/107/147] substituted “subsection (b)(6)” for “subsection (b)(7)”.
 
-    2001—[Pub. L. 107–16, § 402(a)(4)(D)][/us/pl/107/16/s402/a/4/D], struck out “State” before “tuition” in section catchline.
+    2001—[Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(D), struck out “State” before “tuition” in section catchline.
 
-    Subsec. (a). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (a). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (b). [Pub. L. 107–16, § 402(a)(4)(C)][/us/pl/107/16/s402/a/4/C], substituted “Qualified tuition” for “Qualified State tuition” in heading.
+    Subsec. (b). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(C), substituted “Qualified tuition” for “Qualified State tuition” in heading.
 
-    Subsec. (b)(1). [Pub. L. 107–16, § 402(a)(1)][/us/pl/107/16/s402/a/1], (4)(A), in introductory provisions, substituted “qualified tuition” for “qualified State tuition” and inserted “or by 1 or more eligible educational institutions” after “thereof”, and added concluding provisions.
+    Subsec. (b)(1). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(1), (4)(A), in introductory provisions, substituted “qualified tuition” for “qualified State tuition” and inserted “or by 1 or more eligible educational institutions” after “thereof”, and added concluding provisions.
 
-    Subsec. (b)(1)(A)(ii). [Pub. L. 107–16, § 402(a)(2)][/us/pl/107/16/s402/a/2], inserted “in the case of a program established and maintained by a State or agency or instrumentality thereof,” before “may make”.
+    Subsec. (b)(1)(A)(ii). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(2), inserted “in the case of a program established and maintained by a State or agency or instrumentality thereof,” before “may make”.
 
-    Subsec. (b)(2). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (b)(2). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (b)(3) to (7). [Pub. L. 107–16, § 402(a)(3)(A)][/us/pl/107/16/s402/a/3/A], (4)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
+    Subsec. (b)(3) to (7). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(3)(A), (4)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
 
     “(A) used for qualified higher education expenses of the designated beneficiary,
 
@@ -323,65 +323,65 @@
 
     “(C) made on account of a scholarship (or allowance or payment described in section 135(d)(1)(B) or (C)) received by the designated beneficiary to the extent the amount of the refund does not exceed the amount of the scholarship, allowance, or payment.”
 
-    Subsec. (c)(1)(A), (3)(A). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (c)(1)(A), (3)(A). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (c)(3)(B). [Pub. L. 107–16, § 402(b)(1)][/us/pl/107/16/s402/b/1], amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Any benefit furnished to a designated beneficiary under a qualified tuition program shall be treated as a distribution to the beneficiary.”
+    Subsec. (c)(3)(B). [Pub. L. 107–16][/us/pl/107/16], § 402(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “Any benefit furnished to a designated beneficiary under a qualified tuition program shall be treated as a distribution to the beneficiary.”
 
-    [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
     Subsec. (c)(3)(B)(vi). [Pub. L. 107–22][/us/pl/107/22] substituted “Coverdell education savings” for “education individual retirement” in heading.
 
-    Subsec. (c)(3)(C). [Pub. L. 107–16, § 402(c)(3)][/us/pl/107/16/s402/c/3], inserted “or programs” after “beneficiaries” in heading.
+    Subsec. (c)(3)(C). [Pub. L. 107–16][/us/pl/107/16], § 402(c)(3), inserted “or programs” after “beneficiaries” in heading.
 
-    Subsec. (c)(3)(C)(i). [Pub. L. 107–16, § 402(c)(1)][/us/pl/107/16/s402/c/1], substituted “transferred—” for “transferred”, added subcl. (I), and designated existing provisions “to the credit” as subcl. (II).
+    Subsec. (c)(3)(C)(i). [Pub. L. 107–16][/us/pl/107/16], § 402(c)(1), substituted “transferred—” for “transferred”, added subcl. (I), and designated existing provisions “to the credit” as subcl. (II).
 
-    [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (c)(3)(C)(ii). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (c)(3)(C)(ii). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (c)(3)(C)(iii). [Pub. L. 107–16, § 402(c)(2)][/us/pl/107/16/s402/c/2], added cl. (iii).
+    Subsec. (c)(3)(C)(iii). [Pub. L. 107–16][/us/pl/107/16], § 402(c)(2), added cl. (iii).
 
-    Subsec. (c)(3)(D)(i). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (c)(3)(D)(i). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (c)(3)(D)(ii). [Pub. L. 107–16, § 402(g)(1)][/us/pl/107/16/s402/g/1], inserted “except to the extent provided by the Secretary,” before “all distributions”.
+    Subsec. (c)(3)(D)(ii). [Pub. L. 107–16][/us/pl/107/16], § 402(g)(1), inserted “except to the extent provided by the Secretary,” before “all distributions”.
 
-    Subsec. (c)(3)(D)(iii). [Pub. L. 107–16, § 402(g)(2)][/us/pl/107/16/s402/g/2], inserted “except to the extent provided by the Secretary,” before “the value”.
+    Subsec. (c)(3)(D)(iii). [Pub. L. 107–16][/us/pl/107/16], § 402(g)(2), inserted “except to the extent provided by the Secretary,” before “the value”.
 
-    Subsec. (c)(6). [Pub. L. 107–16, § 402(a)(3)(B)][/us/pl/107/16/s402/a/3/B], added par. (6).
+    Subsec. (c)(6). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(3)(B), added par. (6).
 
-    Subsecs. (d), (e)(1)(A), (C). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsecs. (d), (e)(1)(A), (C). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (e)(2)(D). [Pub. L. 107–16, § 402(d)][/us/pl/107/16/s402/d], added subpar. (D).
+    Subsec. (e)(2)(D). [Pub. L. 107–16][/us/pl/107/16], § 402(d), added subpar. (D).
 
-    Subsec. (e)(3)(A). [Pub. L. 107–16, § 402(f)][/us/pl/107/16/s402/f], reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution.”
+    Subsec. (e)(3)(A). [Pub. L. 107–16][/us/pl/107/16], § 402(f), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution.”
 
-    Subsec. (e)(3)(B)(i). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (e)(3)(B)(i). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
-    Subsec. (e)(3)(B)(ii). [Pub. L. 107–16, § 402(e)][/us/pl/107/16/s402/e], reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, [20 U.S.C. 1087][/us/usc/t20/s1087]ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period.”
+    Subsec. (e)(3)(B)(ii). [Pub. L. 107–16][/us/pl/107/16], § 402(e), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “The amount treated as qualified higher education expenses by reason of the preceding sentence shall not exceed the minimum amount (applicable to the student) included for room and board for such period in the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, [20 U.S.C. 1087][/us/usc/t20/s1087]ll, as in effect on the date of the enactment of this paragraph) for the eligible educational institution for such period.”
 
-    Subsec. (e)(4). [Pub. L. 107–16, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], substituted “qualified tuition” for “qualified State tuition”.
+    Subsec. (e)(4). [Pub. L. 107–16][/us/pl/107/16], § 402(a)(4)(A), substituted “qualified tuition” for “qualified State tuition”.
 
     2000—Subsec. (e)(3)(B). [Pub. L. 106–554][/us/pl/106/554] struck out “under guaranteed plans” after “students” in heading.
 
-    1998—Subsec. (c)(3)(A). [Pub. L. 105–206, § 6004(c)(2)][/us/pl/105/206/s6004/c/2], substituted “section 72” for “section 72(b)”.
+    1998—Subsec. (c)(3)(A). [Pub. L. 105–206][/us/pl/105/206], § 6004(c)(2), substituted “section 72” for “section 72(b)”.
 
-    Subsec. (e)(2). [Pub. L. 105–206, § 6004(c)(3)][/us/pl/105/206/s6004/c/3], reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ means—
+    Subsec. (e)(2). [Pub. L. 105–206][/us/pl/105/206], § 6004(c)(3), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ means—
 
     “(A) an individual who bears a relationship to another individual which is a relationship described in paragraphs (1) through (8) of section 152(a), and
 
     “(B) the spouse of any individual described in subparagraph (A).”
 
-    1997—Subsec. (b)(5). [Pub. L. 105–34, § 211(b)(4)][/us/pl/105/34/s211/b/4], inserted “directly or indirectly” after “may not”.
+    1997—Subsec. (b)(5). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(4), inserted “directly or indirectly” after “may not”.
 
-    Subsec. (c)(2). [Pub. L. 105–34, § 211(b)(3)(A)(i)][/us/pl/105/34/s211/b/3/A/i], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In no event shall a contribution to a qualified State tuition program on behalf of a designated beneficiary be treated as a taxable gift for purposes of chapter 12.”
+    Subsec. (c)(2). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(3)(A)(i), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In no event shall a contribution to a qualified State tuition program on behalf of a designated beneficiary be treated as a taxable gift for purposes of chapter 12.”
 
-    Subsec. (c)(3)(A). [Pub. L. 105–34, § 211(d)][/us/pl/105/34/s211/d], substituted “section 72(b)” for “section 72”.
+    Subsec. (c)(3)(A). [Pub. L. 105–34][/us/pl/105/34], § 211(d), substituted “section 72(b)” for “section 72”.
 
-    Subsec. (c)(4). [Pub. L. 105–34, § 211(b)(3)(B)][/us/pl/105/34/s211/b/3/B], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The value of any interest in any qualified State tuition program which is attributable to contributions made by an individual to such program on behalf of any designated beneficiary shall be includible in the gross estate of the contributor for purposes of chapter 11.”
+    Subsec. (c)(4). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(3)(B), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The value of any interest in any qualified State tuition program which is attributable to contributions made by an individual to such program on behalf of any designated beneficiary shall be includible in the gross estate of the contributor for purposes of chapter 11.”
 
-    Subsec. (c)(5). [Pub. L. 105–34, § 211(b)(3)(A)(ii)][/us/pl/105/34/s211/b/3/A/ii], amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of section 2503(e), the waiver (or payment to an educational institution) of qualified higher education expenses of a designated beneficiary under a qualified State tuition program shall be treated as a qualified transfer.”
+    Subsec. (c)(5). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(3)(A)(ii), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of section 2503(e), the waiver (or payment to an educational institution) of qualified higher education expenses of a designated beneficiary under a qualified State tuition program shall be treated as a qualified transfer.”
 
-    Subsec. (d). [Pub. L. 105–34, § 211(e)(2)(A)][/us/pl/105/34/s211/e/2/A], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    Subsec. (d). [Pub. L. 105–34][/us/pl/105/34], § 211(e)(2)(A), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(d) Reporting Requirements.—
 
@@ -393,27 +393,27 @@
 
     “(B) shall be furnished to individuals not later than January 31 of the calendar year following the calendar year to which such report relates.”
 
-    Subsec. (e)(1)(B). [Pub. L. 105–34, § 1601(h)(1)(A)][/us/pl/105/34/s1601/h/1/A], substituted “subsection (c)(3)(C)” for “subsection (c)(2)(C)”.
+    Subsec. (e)(1)(B). [Pub. L. 105–34][/us/pl/105/34], § 1601(h)(1)(A), substituted “subsection (c)(3)(C)” for “subsection (c)(2)(C)”.
 
-    Subsec. (e)(1)(C). [Pub. L. 105–34, § 1601(h)(1)(B)][/us/pl/105/34/s1601/h/1/B], inserted “(or agency or instrumentality thereof)” after “local government”.
+    Subsec. (e)(1)(C). [Pub. L. 105–34][/us/pl/105/34], § 1601(h)(1)(B), inserted “(or agency or instrumentality thereof)” after “local government”.
 
-    Subsec. (e)(2). [Pub. L. 105–34, § 211(b)(1)][/us/pl/105/34/s211/b/1], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ has the same meaning given such term as section 2032A(e)(2).”
+    Subsec. (e)(2). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘member of the family’ has the same meaning given such term as section 2032A(e)(2).”
 
-    Subsec. (e)(3). [Pub. L. 105–34, § 211(a)][/us/pl/105/34/s211/a], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
+    Subsec. (e)(3). [Pub. L. 105–34][/us/pl/105/34], § 211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
 
-    Subsec. (e)(5). [Pub. L. 105–34, § 211(b)(2)][/us/pl/105/34/s211/b/2], added par. (5).
+    Subsec. (e)(5). [Pub. L. 105–34][/us/pl/105/34], § 211(b)(2), added par. (5).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title III, § 302(a)(2)][/us/pl/114/113/s302/a/2], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 302(a)(2), Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
-[Pub. L. 114–113, div. Q, title III, § 302(b)(2)][/us/pl/114/113/s302/b/2], Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 302(b)(2), Dec. 18, 2015, [129 Stat. 3086][/us/stat/129/3086], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply to distributions after December 31, 2014.”
 
-[Pub. L. 114–113, div. Q, title III, § 302(c)(2)][/us/pl/114/113/s302/c/2], Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that:
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 302(c)(2), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -425,13 +425,13 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. B, title I, § 105(b)][/us/pl/113/295/s105/b], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
+[Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 105(b), Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1005(b)][/us/pl/111/5/s1005/b], Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1005(b), Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to expenses paid or incurred after December 31, 2008.”
 
@@ -453,7 +453,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title II, § 211(f)][/us/pl/105/34/s211/f], Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], provided that:
+[Pub. L. 105–34, title II][/us/pl/105/34/tII], § 211(f), Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -489,7 +489,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–188, title I, § 1806(c)][/us/pl/104/188/s1806/c], Aug. 20, 1996, [110 Stat. 1898][/us/stat/110/1898], as amended by [Pub. L. 105–34, title XVI, § 1601(h)(1)(C)][/us/pl/105/34/s1601/h/1/C], Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092], provided that:
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1806(c), Aug. 20, 1996, [110 Stat. 1898][/us/stat/110/1898], as amended by [Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(h)(1)(C), Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -522,97 +522,97 @@
 
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
-[/us/pl/104/188/s1806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1806%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1895
-[/us/pl/105/34/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fa
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F810
-[/us/pl/105/206/s6004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fc%2F2
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F793
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/16/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F1
+[/us/pl/107/16/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtIV
 [/us/stat/115/60-63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F60-63
-[/us/pl/107/22/s1/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fb%2F3%2FC
+[/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
 [/us/stat/115/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F197
-[/us/pl/107/147/s417/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F11
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
-[/us/pl/108/311/s207/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F21
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
-[/us/pl/109/135/s412/ee/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fee%2F3
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2639
-[/us/pl/109/280/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1304%2Fb
+[/us/pl/109/280/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXIII
 [/us/stat/120/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1110
-[/us/pl/111/5/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1005%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F316
-[/us/pl/113/295/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fa
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
-[/us/pl/114/113/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/114/113/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F1
-[/us/pl/114/113/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb%2F1
-[/us/pl/114/113/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/108/311/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Fa
-[/us/pl/108/311/s207/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F21
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/107/16/s402/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FD
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/a/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FC
-[/us/pl/107/16/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F1
-[/us/pl/107/16/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F2
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F3%2FA
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fb%2F1
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
-[/us/pl/107/16/s402/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fc%2F3
-[/us/pl/107/16/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fc%2F1
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fc%2F2
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fg%2F1
-[/us/pl/107/16/s402/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fg%2F2
-[/us/pl/107/16/s402/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F3%2FB
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fd
-[/us/pl/107/16/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Ff
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
-[/us/pl/107/16/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fe
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
-[/us/pl/107/16/s402/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fa%2F4%2FA
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/105/206/s6004/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fc%2F2
-[/us/pl/105/206/s6004/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fc%2F3
-[/us/pl/105/34/s211/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F4
-[/us/pl/105/34/s211/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F3%2FA%2Fi
-[/us/pl/105/34/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fd
-[/us/pl/105/34/s211/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F3%2FB
-[/us/pl/105/34/s211/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F3%2FA%2Fii
-[/us/pl/105/34/s211/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fe%2F2%2FA
-[/us/pl/105/34/s1601/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F1%2FA
-[/us/pl/105/34/s1601/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F1%2FB
-[/us/pl/105/34/s211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F1
-[/us/pl/105/34/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fa
-[/us/pl/105/34/s211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fb%2F2
-[/us/pl/114/113/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F2
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
-[/us/pl/114/113/s302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb%2F2
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3086
-[/us/pl/114/113/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F2
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
-[/us/pl/113/295/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fb
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
-[/us/pl/111/5/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1005%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F316
 [/us/pl/108/311/s207/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F21
 [/us/pl/108/311/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs208
@@ -631,7 +631,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s211/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Ff
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F812
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/usc/t26/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs135
@@ -639,9 +639,9 @@
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23
-[/us/pl/104/188/s1806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1806%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1898
-[/us/pl/105/34/s1601/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F1%2FC
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1092
 [/us/usc/t26/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs135
 

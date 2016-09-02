@@ -93,7 +93,7 @@
 
             For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for any taxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer’s depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer’s depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
-        \[(5) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11815(a)(1)(C)__  __][/us/pl/101/508/s11815/a/1/C]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–557__  __][/us/stat/104/1388-557]__  __\]__ 
+        \[(5) __Repealed.__  __[__  __Pub. L. 101–508, title XI__  __][/us/pl/101/508/tXI]__  __, § 11815(a)(1)(C),__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–557__  __][/us/stat/104/1388-557]__  __\]__ 
 
         (6) __Oil and natural gas produced from marginal properties__ 
 
@@ -295,11 +295,11 @@
 
             The term “barrel” means 42 United States gallons.
 
-(Added [Pub. L. 94–12, title V, § 501(a)][/us/pl/94/12/s501/a], Mar. 29, 1975, [89 Stat. 47][/us/stat/89/47]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(86), 1906(b)(13)(A), title XXI, § 2115(a)–(c)(1), (d), (e), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834, 1907–1909; [Pub. L. 95–30, title I, § 102(b)(7)][/us/pl/95/30/s102/b/7], May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–618, title IV, § 403(a)(2)(B)][/us/pl/95/618/s403/a/2/B], (b), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204]; [Pub. L. 96–603, § 3(a)][/us/pl/96/603/s3/a], Dec. 28, 1980, [94 Stat. 3511][/us/stat/94/3511]; [Pub. L. 97–354, § 3(a)][/us/pl/97/354/s3/a], Oct. 19, 1982, [96 Stat. 1687][/us/stat/96/1687]; [Pub. L. 97–448, title II, § 202(d)][/us/pl/97/448/s202/d], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 25(b), 71(b), July 18, 1984, [98 Stat. 506][/us/stat/98/506], 589; [Pub. L. 99–514, title I, § 104(b)(9)][/us/pl/99/514/s104/b/9], title IV, § 412(a)(1), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2227; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, [104 Stat. 1388–485][/us/stat/104/1388-485] to 1388–487, 1388–557; [Pub. L. 104–188, title I, § 1702(e)(2)][/us/pl/104/188/s1702/e/2], Aug. 20, 1996, [110 Stat. 1870][/us/stat/110/1870]; [Pub. L. 105–34, title IX, § 972(a)][/us/pl/105/34/s972/a], Aug. 5, 1997, [111 Stat. 897][/us/stat/111/897]; [Pub. L. 106–170, title V, § 504(a)][/us/pl/106/170/s504/a], Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921]; [Pub. L. 107–147, title VI, § 607(a)][/us/pl/107/147/s607/a], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III, § 314(a)][/us/pl/108/311/s314/a], Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181]; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1322(a)(3)(B), 1328(a), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011], 1019; [Pub. L. 109–135, title IV, § 403(a)(18)][/us/pl/109/135/s403/a/18], Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619]; [Pub. L. 109–432, div. A, title I, § 118(a)][/us/pl/109/432/s118/a], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942]; [Pub. L. 110–343, div. B, title II, § 210][/us/pl/110/343/s210], Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840]; [Pub. L. 111–312, title VII, § 706(a)][/us/pl/111/312/s706/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311].)
+(Added [Pub. L. 94–12, title V][/us/pl/94/12/tV], § 501(a), Mar. 29, 1975, [89 Stat. 47][/us/stat/89/47]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(86), 1906(b)(13)(A), title XXI, § 2115(a)–(c)(1), (d), (e), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834, 1907–1909; [Pub. L. 95–30, title I][/us/pl/95/30/tI], § 102(b)(7), May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–618, title IV][/us/pl/95/618/tIV], § 403(a)(2)(B), (b), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204]; [Pub. L. 96–603][/us/pl/96/603], § 3(a), Dec. 28, 1980, [94 Stat. 3511][/us/stat/94/3511]; [Pub. L. 97–354][/us/pl/97/354], § 3(a), Oct. 19, 1982, [96 Stat. 1687][/us/stat/96/1687]; [Pub. L. 97–448, title II][/us/pl/97/448/tII], § 202(d), Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], §§ 25(b), 71(b), July 18, 1984, [98 Stat. 506][/us/stat/98/506], 589; [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 104(b)(9), title IV, § 412(a)(1), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2227; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], §§ 11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, [104 Stat. 1388–485][/us/stat/104/1388-485] to 1388–487, 1388–557; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1702(e)(2), Aug. 20, 1996, [110 Stat. 1870][/us/stat/110/1870]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 972(a), Aug. 5, 1997, [111 Stat. 897][/us/stat/111/897]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 504(a), Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921]; [Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 607(a), Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 314(a), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181]; [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], §§ 1322(a)(3)(B), 1328(a), Aug. 8, 2005, [119 Stat. 1011][/us/stat/119/1011], 1019; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(a)(18), Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619]; [Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 118(a), Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942]; [Pub. L. 110–343, div. B, title II][/us/pl/110/343/dB/tII], § 210, Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 706(a), Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311].)
 
  __References in Text__ 
 
-    Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to [section 3413 of Title 15][/us/usc/t15/s3413], Commerce and Trade, was repealed by [Pub. L. 101–60, § 3(b)(5)][/us/pl/101/60/s3/b/5], July 26, 1989, [103 Stat. 159][/us/stat/103/159], effective Jan. 1, 1993.
+    Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to [section 3413 of Title 15][/us/usc/t15/s3413], Commerce and Trade, was repealed by [Pub. L. 101–60][/us/pl/101/60], § 3(b)(5), July 26, 1989, [103 Stat. 159][/us/stat/103/159], effective Jan. 1, 1993.
 
     The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is [Pub. L. 97–354][/us/pl/97/354], Oct. 19, 1982, [96 Stat. 1669][/us/stat/96/1669], which is classified principally to subchapter S (§ 1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
@@ -311,11 +311,11 @@
 
     2006—Subsec. (c)(6)(H). [Pub. L. 109–432][/us/pl/109/432] substituted “2008” for “2006”.
 
-    2005—Subsec. (c)(6)(C). [Pub. L. 109–58, § 1322(a)(3)(B)][/us/pl/109/58/s1322/a/3/B], substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)” in concluding provisions.
+    2005—Subsec. (c)(6)(C). [Pub. L. 109–58][/us/pl/109/58], § 1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)” in concluding provisions.
 
     Subsec. (d)(1)(B) to (E). [Pub. L. 109–135][/us/pl/109/135] added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-    Subsec. (d)(4). [Pub. L. 109–58, § 1328(a)][/us/pl/109/58/s1328/a], reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “If the taxpayer or a related person engages in the refining of crude oil, subsection (c) shall not apply to such taxpayer if on any day during the taxable year the refinery runs of the taxpayer and such person exceed 50,000 barrels.”
+    Subsec. (d)(4). [Pub. L. 109–58][/us/pl/109/58], § 1328(a), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “If the taxpayer or a related person engages in the refining of crude oil, subsection (c) shall not apply to such taxpayer if on any day during the taxable year the refinery runs of the taxpayer and such person exceed 50,000 barrels.”
 
     2004—Subsec. (c)(6)(H). [Pub. L. 108–311][/us/pl/108/311] substituted “2006” for “2004”.
 
@@ -327,93 +327,93 @@
 
     1996—Subsec. (c)(3)(A)(i). [Pub. L. 104–188][/us/pl/104/188] struck out “the table contained in” before “subparagraph (B)”.
 
-    1990—Subsec. (c)(1). [Pub. L. 101–508, § 11815(a)(1)(A)][/us/pl/101/508/s11815/a/1/A], substituted “15 percent” for “the applicable percentage (determined in accordance with the table contained in paragraph (5))” in concluding provisions.
+    1990—Subsec. (c)(1). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(1)(A), substituted “15 percent” for “the applicable percentage (determined in accordance with the table contained in paragraph (5))” in concluding provisions.
 
-    Subsec. (c)(3)(A). [Pub. L. 101–508, § 11523(b)(2)][/us/pl/101/508/s11523/b/2], struck out at end “Clause (ii) shall not apply after December 31, 1983.”
+    Subsec. (c)(3)(A). [Pub. L. 101–508][/us/pl/101/508], § 11523(b)(2), struck out at end “Clause (ii) shall not apply after December 31, 1983.”
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 101–508, § 11523(b)(1)][/us/pl/101/508/s11523/b/1], added cl. (ii) and struck out former cl. (ii) which read as follows: “the taxpayer’s average daily secondary or tertiary production for the taxable year.”
+    Subsec. (c)(3)(A)(ii). [Pub. L. 101–508][/us/pl/101/508], § 11523(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “the taxpayer’s average daily secondary or tertiary production for the taxable year.”
 
-    Subsec. (c)(3)(B). [Pub. L. 101–508, § 11815(a)(1)(B)][/us/pl/101/508/s11815/a/1/B], amended subpar. (B) generally, substituting present provisions for provisions which set out a phase-out table for determining tentative quantity in barrels.
+    Subsec. (c)(3)(B). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(1)(B), amended subpar. (B) generally, substituting present provisions for provisions which set out a phase-out table for determining tentative quantity in barrels.
 
-    Subsec. (c)(5). [Pub. L. 101–508, § 11815(a)(1)(C)][/us/pl/101/508/s11815/a/1/C], struck out par. (5) which provided table of applicable percentages for purposes of par. (1).
+    Subsec. (c)(5). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(1)(C), struck out par. (5) which provided table of applicable percentages for purposes of par. (1).
 
-    Subsec. (c)(6). [Pub. L. 101–508, § 11523(a)][/us/pl/101/508/s11523/a], amended par. (6) generally, providing for an increase in percentage depletion allowance for marginal production, and substituting provisions relating to oil and gas produced from marginal properties for former provisions which related to oil and gas resulting from secondary or tertiary processes.
+    Subsec. (c)(6). [Pub. L. 101–508][/us/pl/101/508], § 11523(a), amended par. (6) generally, providing for an increase in percentage depletion allowance for marginal production, and substituting provisions relating to oil and gas produced from marginal properties for former provisions which related to oil and gas resulting from secondary or tertiary processes.
 
-    Subsec. (c)(7)(A), (B). [Pub. L. 101–508, § 11815(a)(2)(A)][/us/pl/101/508/s11815/a/2/A], substituted “specified in paragraph (1)” for “specified in paragraph (5)”.
+    Subsec. (c)(7)(A), (B). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(2)(A), substituted “specified in paragraph (1)” for “specified in paragraph (5)”.
 
-    Subsec. (c)(7)(C). [Pub. L. 101–508, § 11522(b)(1)][/us/pl/101/508/s11522/b/1], substituted “taxable income” for “50-percent” before “limitation”.
+    Subsec. (c)(7)(C). [Pub. L. 101–508][/us/pl/101/508], § 11522(b)(1), substituted “taxable income” for “50-percent” before “limitation”.
 
-    Subsec. (c)(7)(E). [Pub. L. 101–508, § 11815(a)(1)(C)][/us/pl/101/508/s11815/a/1/C], struck out subpar. (E) which provided special rules relating to production from secondary or tertiary recovery processes.
+    Subsec. (c)(7)(E). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(1)(C), struck out subpar. (E) which provided special rules relating to production from secondary or tertiary recovery processes.
 
-    Subsec. (c)(8)(B), (C). [Pub. L. 101–508, § 11815(a)(2)(B)][/us/pl/101/508/s11815/a/2/B], which directed amendment of subpars. (B) and (C) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, was executed by making the substitution for “determined under the table in paragraph (3)(B)” as the probable intent of Congress.
+    Subsec. (c)(8)(B), (C). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(2)(B), which directed amendment of subpars. (B) and (C) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, was executed by making the substitution for “determined under the table in paragraph (3)(B)” as the probable intent of Congress.
 
-    Subsec. (c)(9). [Pub. L. 101–508, § 11815(a)(2)(B)][/us/pl/101/508/s11815/a/2/B], which directed amendment of par. (9) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, could not be executed because that phrase did not appear after execution of amendment by [Pub. L. 101–508, § 11521(a)][/us/pl/101/508/s11521/a]. See below.
+    Subsec. (c)(9). [Pub. L. 101–508][/us/pl/101/508], § 11815(a)(2)(B), which directed amendment of par. (9) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, could not be executed because that phrase did not appear after execution of amendment by [Pub. L. 101–508][/us/pl/101/508], § 11521(a). See below.
 
-    [Pub. L. 101–508, § 11521(a)][/us/pl/101/508/s11521/a], redesignated par. (11) as (9) and struck out former par. (9) which related to transfer of oil or gas property.
+    [Pub. L. 101–508][/us/pl/101/508], § 11521(a), redesignated par. (11) as (9) and struck out former par. (9) which related to transfer of oil or gas property.
 
-    Subsec. (c)(10). [Pub. L. 101–508, § 11521(a)][/us/pl/101/508/s11521/a], redesignated par. (12) as (10) and struck out former par. (10) which related to transfers by individuals to corporations.
+    Subsec. (c)(10). [Pub. L. 101–508][/us/pl/101/508], § 11521(a), redesignated par. (12) as (10) and struck out former par. (10) which related to transfers by individuals to corporations.
 
-    Subsec. (c)(11). [Pub. L. 101–508, § 11521(a)][/us/pl/101/508/s11521/a], redesignated par. (13) as (11). Former par. (11) redesignated (9).
+    Subsec. (c)(11). [Pub. L. 101–508][/us/pl/101/508], § 11521(a), redesignated par. (13) as (11). Former par. (11) redesignated (9).
 
-    Subsec. (c)(11)(C), (D). [Pub. L. 101–508, § 11521(b)][/us/pl/101/508/s11521/b], struck out subpars. (C) and (D) which related to coordination with the transfer rules of former pars. (9) and (10).
+    Subsec. (c)(11)(C), (D). [Pub. L. 101–508][/us/pl/101/508], § 11521(b), struck out subpars. (C) and (D) which related to coordination with the transfer rules of former pars. (9) and (10).
 
-    Subsec. (c)(12), (13). [Pub. L. 101–508, § 11521(a)][/us/pl/101/508/s11521/a], redesignated pars. (12) and (13) as (10) and (11), respectively.
+    Subsec. (c)(12), (13). [Pub. L. 101–508][/us/pl/101/508], § 11521(a), redesignated pars. (12) and (13) as (10) and (11), respectively.
 
-    1986—Subsec. (d)(1). [Pub. L. 99–514, § 104(b)(9)][/us/pl/99/514/s104/b/9], struck out “(reduced in the case of an individual by the zero bracket amount)” after “taxable income” in introductory provisions.
+    1986—Subsec. (d)(1). [Pub. L. 99–514][/us/pl/99/514], § 104(b)(9), struck out “(reduced in the case of an individual by the zero bracket amount)” after “taxable income” in introductory provisions.
 
-    Subsec. (d)(5). [Pub. L. 99–514, § 412(a)(1)][/us/pl/99/514/s412/a/1], added par. (5).
+    Subsec. (d)(5). [Pub. L. 99–514][/us/pl/99/514], § 412(a)(1), added par. (5).
 
-    1984—Subsec. (c)(2). [Pub. L. 98–369, § 25(b)(1)][/us/pl/98/369/s25/b/1], struck out last sentence providing that in applying this paragraph, there shall not be taken into account any production of crude oil or natural gas resulting from secondary or tertiary processes (as defined in regulations prescribed by the Secretary).
+    1984—Subsec. (c)(2). [Pub. L. 98–369][/us/pl/98/369], § 25(b)(1), struck out last sentence providing that in applying this paragraph, there shall not be taken into account any production of crude oil or natural gas resulting from secondary or tertiary processes (as defined in regulations prescribed by the Secretary).
 
-    Subsec. (c)(3)(A). [Pub. L. 98–369, § 25(b)(2)][/us/pl/98/369/s25/b/2], inserted at end “Clause (ii) shall not apply after December 31, 1983.”
+    Subsec. (c)(3)(A). [Pub. L. 98–369][/us/pl/98/369], § 25(b)(2), inserted at end “Clause (ii) shall not apply after December 31, 1983.”
 
-    Subsec. (c)(7)(D). [Pub. L. 98–369, § 71(b)][/us/pl/98/369/s71/b], substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in fourth sentence.
+    Subsec. (c)(7)(D). [Pub. L. 98–369][/us/pl/98/369], § 71(b), substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in fourth sentence.
 
-    Subsec. (c)(7)(E). [Pub. L. 98–369, § 25(b)(3)][/us/pl/98/369/s25/b/3], inserted at end “This subparagraph shall not apply after December 31, 1983.”
+    Subsec. (c)(7)(E). [Pub. L. 98–369][/us/pl/98/369], § 25(b)(3), inserted at end “This subparagraph shall not apply after December 31, 1983.”
 
-    Subsec. (c)(9)(A). [Pub. L. 98–369, § 25(b)(4)][/us/pl/98/369/s25/b/4], substituted “this subsection” for “paragraph (1)”.
+    Subsec. (c)(9)(A). [Pub. L. 98–369][/us/pl/98/369], § 25(b)(4), substituted “this subsection” for “paragraph (1)”.
 
-    1983—Subsec. (c)(10)(E). [Pub. L. 97–448, § 202(d)(1)][/us/pl/97/448/s202/d/1], inserted provision that “oil and gas property” includes, in the case of any property, necessary production equipment for such property which is in place when the property is transferred.
+    1983—Subsec. (c)(10)(E). [Pub. L. 97–448][/us/pl/97/448], § 202(d)(1), inserted provision that “oil and gas property” includes, in the case of any property, necessary production equipment for such property which is in place when the property is transferred.
 
-    Subsec. (d)(2). [Pub. L. 97–448, § 202(d)(2)][/us/pl/97/448/s202/d/2], inserted “(excluding bulk sales of aviation fuels to the Department of Defense)” after “any product derived from oil or natural gas”.
+    Subsec. (d)(2). [Pub. L. 97–448][/us/pl/97/448], § 202(d)(2), inserted “(excluding bulk sales of aviation fuels to the Department of Defense)” after “any product derived from oil or natural gas”.
 
     1982—Subsec. (c)(13). [Pub. L. 97–354][/us/pl/97/354] added par. (13).
 
     1980—Subsec. (c)(10) to (12). [Pub. L. 96–603][/us/pl/96/603] added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
-    1978—Subsec. (b)(1)(C). [Pub. L. 95–618, § 403(a)(2)(B)][/us/pl/95/618/s403/a/2/B], struck out subpar. (C) which related to a computation in accordance with section 613 with respect to any geothermal deposit in the United States or in a possession of the United States which is determined to be a gas well.
+    1978—Subsec. (b)(1)(C). [Pub. L. 95–618][/us/pl/95/618], § 403(a)(2)(B), struck out subpar. (C) which related to a computation in accordance with section 613 with respect to any geothermal deposit in the United States or in a possession of the United States which is determined to be a gas well.
 
-    Subsec. (b)(2), (3). [Pub. L. 95–618, § 403(b)(1)][/us/pl/95/618/s403/b/1], (2), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, added subpar. (C).
+    Subsec. (b)(2), (3). [Pub. L. 95–618][/us/pl/95/618], § 403(b)(1), (2), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, added subpar. (C).
 
     1977—Subsec. (d)(1). [Pub. L. 95–30][/us/pl/95/30] inserted “(reduced in the case of an individual by the zero bracket amount)” after “the taxpayer’s taxable income” in introductory provisions.
 
-    1976—Subsec. (b)(1)(C). [Pub. L. 94–455, § 1901(a)(86)(A)][/us/pl/94/455/s1901/a/86/A], struck out “within the meaning of section 613(b)(1)(A)” after “determined to be a gas well”.
+    1976—Subsec. (b)(1)(C). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(86)(A), struck out “within the meaning of section 613(b)(1)(A)” after “determined to be a gas well”.
 
-    Subsec. (c)(2), (4). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(2), (4). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c)(6)(A)(i). [Pub. L. 94–455, § 1901(a)(86)(B)][/us/pl/94/455/s1901/a/86/B], substituted “determined without” for “determined with”.
+    Subsec. (c)(6)(A)(i). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(86)(B), substituted “determined without” for “determined with”.
 
-    Subsec. (c)(7)(D). [Pub. L. 94–455, § 2115(c)(1)][/us/pl/94/455/s2115/c/1], inserted provision relating to the method to be employed by the partners in computing the depletion allowance.
+    Subsec. (c)(7)(D). [Pub. L. 94–455][/us/pl/94/455], § 2115(c)(1), inserted provision relating to the method to be employed by the partners in computing the depletion allowance.
 
-    Subsec. (c)(7)(E). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (c)(7)(E). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (c)(9)(B). [Pub. L. 94–455, § 2115(b)(1)][/us/pl/94/455/s2115/b/1], (e), added cls. (iii) to (vi) and provision following cl. (vi).
+    Subsec. (c)(9)(B). [Pub. L. 94–455][/us/pl/94/455], § 2115(b)(1), (e), added cls. (iii) to (vi) and provision following cl. (vi).
 
-    Subsec. (d)(1). [Pub. L. 94–455, § 2115(b)(2)][/us/pl/94/455/s2115/b/2], substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
+    Subsec. (d)(1). [Pub. L. 94–455][/us/pl/94/455], § 2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
 
-    Subsec. (d)(2). [Pub. L. 94–455, § 2115(a)][/us/pl/94/455/s2115/a], inserted “(excluding bulk sales of such items to commercial or industrial users)” before “, or any product derived” and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
+    Subsec. (d)(2). [Pub. L. 94–455][/us/pl/94/455], § 2115(a), inserted “(excluding bulk sales of such items to commercial or industrial users)” before “, or any product derived” and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
 
-    Subsec. (d)(3). [Pub. L. 94–455, § 2115(d)][/us/pl/94/455/s2115/d], inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
+    Subsec. (d)(3). [Pub. L. 94–455][/us/pl/94/455], § 2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 706(b)][/us/pl/111/312/s706/b], Dec. 17, 2010, [124 Stat. 3312][/us/stat/124/3312], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 706(b), Dec. 17, 2010, [124 Stat. 3312][/us/stat/124/3312], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title I, § 118(b)][/us/pl/109/432/s118/b], Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], provided that: 
+[Pub. L. 109–432, div. A, title I][/us/pl/109/432/dA/tI], § 118(b), Dec. 20, 2006, [120 Stat. 2942][/us/stat/120/2942], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
@@ -423,47 +423,47 @@
 
     Amendment by [section 1322(a)(3)(B) of Pub. L. 109–58][/us/pl/109/58/s1322/a/3/B] applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see [section 1322(c)(1) of Pub. L. 109–58][/us/pl/109/58/s1322/c/1], set out as a note under [section 45K of this title][/us/usc/t26/s45K].
 
-[Pub. L. 109–58, title XIII, § 1328(b)][/us/pl/109/58/s1328/b], Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020], provided that: 
+[Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1328(b), Aug. 8, 2005, [119 Stat. 1020][/us/stat/119/1020], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 8, 2005\].”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–311, title III, § 314(b)][/us/pl/108/311/s314/b], Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], provided that: 
+[Pub. L. 108–311, title III][/us/pl/108/311/tIII], § 314(b), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2003.”
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–147, title VI, § 607(b)][/us/pl/107/147/s607/b], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60], provided that: 
+[Pub. L. 107–147, title VI][/us/pl/107/147/tVI], § 607(b), Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–170, title V, § 504(b)][/us/pl/106/170/s504/b], Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921], provided that: 
+[Pub. L. 106–170, title V][/us/pl/106/170/tV], § 504(b), Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1999.”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title IX, § 972(b)][/us/pl/105/34/s972/b], Aug. 5, 1997, [111 Stat. 898][/us/stat/111/898], provided that: 
+[Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 972(b), Aug. 5, 1997, [111 Stat. 898][/us/stat/111/898], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
 
  __Effective Date of 1996 Amendment__ 
 
-    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
+    Amendment by [Pub. L. 104–188][/us/pl/104/188] effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], to which such amendment relates, see [section 1702(i) of Pub. L. 104–188][/us/pl/104/188/s1702/i], set out as a note under [section 38 of this title][/us/usc/t26/s38].
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11521(c)][/us/pl/101/508/s11521/c], Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11521(c), Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to transfers after October 11, 1990.”
 
     Amendment by [section 11522(b)(1) of Pub. L. 101–508][/us/pl/101/508/s11522/b/1] applicable to taxable years beginning after Dec. 31, 1990, see [section 11522(c) of Pub. L. 101–508][/us/pl/101/508/s11522/c], set out as a note under [section 613 of this title][/us/usc/t26/s613].
 
-[Pub. L. 101–508, title XI, § 11523(c)][/us/pl/101/508/s11523/c], Nov. 5, 1990, [104 Stat. 1388–487][/us/stat/104/1388-487], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11523(c), Nov. 5, 1990, [104 Stat. 1388–487][/us/stat/104/1388-487], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
@@ -475,7 +475,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title I, § 25(c)(2)][/us/pl/98/369/s25/c/2], July 18, 1984, [98 Stat. 507][/us/stat/98/507], provided that: 
+[Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 25(c)(2), July 18, 1984, [98 Stat. 507][/us/stat/98/507], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall take effect on January 1, 1984.”
 
@@ -491,7 +491,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–603, § 3(b)][/us/pl/96/603/s3/b], Dec. 28, 1980, [94 Stat. 3513][/us/stat/94/3513], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 96–603][/us/pl/96/603], § 3(b), Dec. 28, 1980, [94 Stat. 3513][/us/stat/94/3513], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to periods after December 31, 1979.”
 
@@ -507,13 +507,13 @@
 
     Amendment by [section 1901(a)(86) of Pub. L. 94–455][/us/pl/94/455/s1901/a/86] effective for taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
 
-[Pub. L. 94–455, title XXI, § 2115(f)][/us/pl/94/455/s2115/f], Oct. 4, 1976, [90 Stat. 1910][/us/stat/90/1910], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2115(f), Oct. 4, 1976, [90 Stat. 1910][/us/stat/90/1910], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 703 and 705 of this title\] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
 
  __Effective Date__ 
 
-[Pub. L. 94–12, title V, § 501(c)][/us/pl/94/12/s501/c], Mar. 29, 1975, [89 Stat. 53][/us/stat/89/53], provided that: 
+[Pub. L. 94–12, title V][/us/pl/94/12/tV], § 501(c), Mar. 29, 1975, [89 Stat. 53][/us/stat/89/53], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 613 and 703 of this title\] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
 
@@ -527,7 +527,7 @@
 
  __Coordination With Other Provision__ 
 
-[Pub. L. 95–618, title IV, § 403(d)][/us/pl/95/618/s403/d], Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204], provided that: 
+[Pub. L. 95–618, title IV][/us/pl/95/618/tIV], § 403(d), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204], provided that: 
 
 > “Any allowance for depletion allowed by reason of the amendments made by subsection (b) \[amending this section\] shall not be treated as a credit, exemption, deduction, or comparable adjustment applicable to the computation of any Federal tax which is specifically allowable with respect to any high-cost natural gas (or category thereof) for purposes of section 107(d) of the Natural Gas Policy Act of 1978 \[[section 3317(d) of Title 15][/us/usc/t15/s3317/d], Commerce and Trade\].”
 
@@ -538,50 +538,50 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11815/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F1%2FC
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-557
-[/us/pl/94/12/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fa
+[/us/pl/94/12/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtV
 [/us/stat/89/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F47
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1779
-[/us/pl/95/30/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs102%2Fb%2F7
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F138
-[/us/pl/95/618/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F2%2FB
+[/us/pl/95/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtIV
 [/us/stat/92/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3204
-[/us/pl/96/603/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs3%2Fa
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3511
-[/us/pl/97/354/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fa
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1687
-[/us/pl/97/448/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs202%2Fd
+[/us/pl/97/448/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtII
 [/us/stat/96/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2396
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F506
-[/us/pl/99/514/s104/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F9
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2105
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-485
-[/us/pl/104/188/s1702/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fe%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1870
-[/us/pl/105/34/s972/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs972%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F897
-[/us/pl/106/170/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs504%2Fa
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1921
-[/us/pl/107/147/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs607%2Fa
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F60
-[/us/pl/108/311/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs314%2Fa
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1181
-[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1011
-[/us/pl/109/135/s403/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F18
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2619
-[/us/pl/109/432/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs118%2Fa
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2942
-[/us/pl/110/343/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs210
+[/us/pl/110/343/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtII
 [/us/stat/122/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3840
-[/us/pl/111/312/s706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs706%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3311
 [/us/usc/t15/s3413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3413
-[/us/pl/101/60/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F5
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F159
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1669
@@ -589,57 +589,57 @@
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/58/s1322/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FB
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/109/58/s1328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1328%2Fa
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508/s11815/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F1%2FA
-[/us/pl/101/508/s11523/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11523%2Fb%2F2
-[/us/pl/101/508/s11523/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11523%2Fb%2F1
-[/us/pl/101/508/s11815/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F1%2FB
-[/us/pl/101/508/s11815/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F1%2FC
-[/us/pl/101/508/s11523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11523%2Fa
-[/us/pl/101/508/s11815/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F2%2FA
-[/us/pl/101/508/s11522/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fb%2F1
-[/us/pl/101/508/s11815/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F1%2FC
-[/us/pl/101/508/s11815/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F2%2FB
-[/us/pl/101/508/s11815/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa%2F2%2FB
-[/us/pl/101/508/s11521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fa
-[/us/pl/101/508/s11521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fa
-[/us/pl/101/508/s11521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fa
-[/us/pl/101/508/s11521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fa
-[/us/pl/101/508/s11521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fb
-[/us/pl/101/508/s11521/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fa
-[/us/pl/99/514/s104/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F9
-[/us/pl/99/514/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs412%2Fa%2F1
-[/us/pl/98/369/s25/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs25%2Fb%2F1
-[/us/pl/98/369/s25/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs25%2Fb%2F2
-[/us/pl/98/369/s71/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs71%2Fb
-[/us/pl/98/369/s25/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs25%2Fb%2F3
-[/us/pl/98/369/s25/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs25%2Fb%2F4
-[/us/pl/97/448/s202/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs202%2Fd%2F1
-[/us/pl/97/448/s202/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs202%2Fd%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
-[/us/pl/95/618/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F2%2FB
-[/us/pl/95/618/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fb%2F1
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
+[/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
-[/us/pl/94/455/s1901/a/86/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F86%2FA
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/86/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F86%2FB
-[/us/pl/94/455/s2115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fc%2F1
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s2115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fb%2F1
-[/us/pl/94/455/s2115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fb%2F2
-[/us/pl/94/455/s2115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fa
-[/us/pl/94/455/s2115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Fd
-[/us/pl/111/312/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs706%2Fb
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3312
-[/us/pl/109/432/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs118%2Fb
+[/us/pl/109/432/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtI
 [/us/stat/120/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2942
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
@@ -648,26 +648,26 @@
 [/us/pl/109/58/s1322/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fa%2F3%2FB
 [/us/pl/109/58/s1322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1322%2Fc%2F1
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/109/58/s1328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1328%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1020
-[/us/pl/108/311/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs314%2Fb
+[/us/pl/108/311/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIII
 [/us/stat/118/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1181
-[/us/pl/107/147/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs607%2Fb
+[/us/pl/107/147/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtVI
 [/us/stat/116/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F60
-[/us/pl/106/170/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs504%2Fb
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1921
-[/us/pl/105/34/s972/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs972%2Fb
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F898
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/pl/104/188/s1702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fi
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38
-[/us/pl/101/508/s11521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11521%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-486
 [/us/pl/101/508/s11522/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fb%2F1
 [/us/pl/101/508/s11522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fc
 [/us/usc/t26/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613
-[/us/pl/101/508/s11523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11523%2Fc
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-487
 [/us/pl/99/514/s104/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs104%2Fb%2F9
 [/us/pl/99/514/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs151%2Fa
@@ -675,7 +675,7 @@
 [/us/pl/99/514/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs412%2Fa%2F1
 [/us/pl/99/514/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs412%2Fa%2F3
 [/us/usc/t26/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613
-[/us/pl/98/369/s25/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs25%2Fc%2F2
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F507
 [/us/pl/98/369/s71/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs71%2Fb
 [/us/pl/98/369/s71/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs71%2Fc
@@ -687,9 +687,9 @@
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/96/603/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs3%2Fb
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3513
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618
 [/us/pl/95/618/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fc
@@ -700,14 +700,14 @@
 [/us/pl/94/455/s1901/a/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F86
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/94/455/s2115/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2115%2Ff
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1910
-[/us/pl/94/12/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs501%2Fc
+[/us/pl/94/12/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtV
 [/us/stat/89/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F53
 [/us/pl/101/508/s11815/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fa
 [/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
-[/us/pl/95/618/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fd
+[/us/pl/95/618/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtIV
 [/us/stat/92/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3204
 [/us/usc/t15/s3317/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3317%2Fd
 

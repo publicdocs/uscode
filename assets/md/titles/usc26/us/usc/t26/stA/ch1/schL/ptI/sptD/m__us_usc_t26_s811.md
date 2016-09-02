@@ -77,23 +77,23 @@
 
         If any return of a corporation made under this part is for a period of less than the entire calendar year (referred to in this subsection as “short period”), then section 443 shall not apply in respect to such period, but life insurance company taxable income shall be determined, under regulations prescribed by the Secretary, on an annual basis by a ratable daily projection of the appropriate figures for the short period.
 
-(Added and amended [Pub. L. 98–369, div. A, title I, § 42(a)(8)][/us/pl/98/369/s42/a/8], title II, § 211(a), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 740; [Pub. L. 100–647, title II, § 2004(p)(1)][/us/pl/100/647/s2004/p/1], Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608].)
+(Added and amended [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(a)(8), title II, § 211(a), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 740; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(p)(1), Nov. 10, 1988, [102 Stat. 3608][/us/stat/102/3608].)
 
  __Prior Provisions__ 
 
-    A prior section 811, added [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a], June 25, 1959, [73 Stat. 126][/us/stat/73/126]; amended [Pub. L. 97–248, title II, § 255(b)(1)][/us/pl/97/248/s255/b/1], Sept. 3, 1982, [96 Stat. 533][/us/stat/96/533]; [Pub. L. 98–369, div. A, title VII, § 714(a)][/us/pl/98/369/s714/a], July 18, 1984, [98 Stat. 960][/us/stat/98/960], related to dividends to policyholders, prior to the general revision of this part by [Pub. L. 98–369, § 211(a)][/us/pl/98/369/s211/a].
+    A prior section 811, added [Pub. L. 86–69][/us/pl/86/69], § 2(a), June 25, 1959, [73 Stat. 126][/us/stat/73/126]; amended [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 255(b)(1), Sept. 3, 1982, [96 Stat. 533][/us/stat/96/533]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 714(a), July 18, 1984, [98 Stat. 960][/us/stat/98/960], related to dividends to policyholders, prior to the general revision of this part by [Pub. L. 98–369][/us/pl/98/369], § 211(a).
 
-    Another prior section 811, [act Aug. 16, 1954, ch. 736, § 811][/us/act/1954-08-16/ch736/s811], as added [Mar. 13, 1956, ch. 83, § 2][/us/act/1956-03-13/ch83/s2], [70 Stat. 44][/us/stat/70/44]; amended [July 24, 1956, ch. 696, § 2(c)][/us/act/1956-07-24/ch696/s2/c], [70 Stat. 633][/us/stat/70/633]; Mar. 17, 1958, [Pub. L. 85–345, § 2(c)][/us/pl/85/345/s2/c], [72 Stat. 37][/us/stat/72/37], imposed a tax on the life insurance company taxable income of all life insurance companies for taxable years beginning after Dec. 31, 1957, prior to the general revision of this part by [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a].
+    Another prior section 811, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], § 811, as added [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 2, [70 Stat. 44][/us/stat/70/44]; amended [July 24, 1956, ch. 696][/us/act/1956-07-24/ch696], § 2(c), [70 Stat. 633][/us/stat/70/633]; Mar. 17, 1958, [Pub. L. 85–345][/us/pl/85/345], § 2(c), [72 Stat. 37][/us/stat/72/37], imposed a tax on the life insurance company taxable income of all life insurance companies for taxable years beginning after Dec. 31, 1957, prior to the general revision of this part by [Pub. L. 86–69][/us/pl/86/69], § 2(a).
 
  __Amendments__ 
 
     1988—Subsec. (d)(1). [Pub. L. 100–647][/us/pl/100/647] substituted “the greater of the prevailing State assumed interest rate or applicable Federal interest rate in effect under section 807 for the contract” for “the prevailing State assumed interest rate for the contract”.
 
-    1984—Subsec. (b)(3). [Pub. L. 98–369, § 42(a)(8)][/us/pl/98/369/s42/a/8], substituted “section 1273” for “section 1232(b)”.
+    1984—Subsec. (b)(3). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(8), substituted “section 1273” for “section 1232(b)”.
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -110,29 +110,29 @@
 ----------
 ----------
 
-[/us/pl/98/369/s42/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F8
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
-[/us/pl/100/647/s2004/p/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fp%2F1
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3608
-[/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/stat/73/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F126
-[/us/pl/97/248/s255/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs255%2Fb%2F1
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F533
-[/us/pl/98/369/s714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs714%2Fa
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F960
-[/us/pl/98/369/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fa
-[/us/act/1954-08-16/ch736/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736%2Fs811
-[/us/act/1956-03-13/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs2
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F44
-[/us/act/1956-07-24/ch696/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch696%2Fs2%2Fc
+[/us/act/1956-07-24/ch696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-24%2Fch696
 [/us/stat/70/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F633
-[/us/pl/85/345/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F345%2Fs2%2Fc
+[/us/pl/85/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F345
 [/us/stat/72/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F37
-[/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/98/369/s42/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F8
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
 [/us/pl/98/369/s42/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F8

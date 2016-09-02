@@ -65,19 +65,19 @@
 
         If gain from the sale of any property is not recognized by reason of subsection (a), such gain shall be applied to reduce (in the order acquired) the basis for determining gain or loss of any permitted property which is purchased by the taxpayer during the 60-day period described in subsection (a).
 
-(Added [Pub. L. 101–194, title V, § 502(a)][/us/pl/101/194/s502/a], Nov. 30, 1989, [103 Stat. 1754][/us/stat/103/1754]; amended [Pub. L. 101–280, § 6(a)(1)][/us/pl/101/280/s6/a/1], May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 101–508, title XI, § 11703(a)(1)][/us/pl/101/508/s11703/a/1], Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516]; [Pub. L. 109–432, div. A, title IV, § 418(a)][/us/pl/109/432/s418/a], (b), Dec. 20, 2006, [120 Stat. 2966][/us/stat/120/2966].)
+(Added [Pub. L. 101–194, title V][/us/pl/101/194/tV], § 502(a), Nov. 30, 1989, [103 Stat. 1754][/us/stat/103/1754]; amended [Pub. L. 101–280][/us/pl/101/280], § 6(a)(1), May 4, 1990, [104 Stat. 160][/us/stat/104/160]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11703(a)(1), Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 418(a), (b), Dec. 20, 2006, [120 Stat. 2966][/us/stat/120/2966].)
 
  __Amendments__ 
 
-    2006—Subsec. (b)(1)(A). [Pub. L. 109–432, § 418(a)(1)(A)][/us/pl/109/432/s418/a/1/A], inserted “, or a judicial officer,” after “executive branch”.
+    2006—Subsec. (b)(1)(A). [Pub. L. 109–432][/us/pl/109/432], § 418(a)(1)(A), inserted “, or a judicial officer,” after “executive branch”.
 
-    Subsec. (b)(1)(B), (2)(A). [Pub. L. 109–432, § 418(a)(1)(B)][/us/pl/109/432/s418/a/1/B], (2)(A), inserted “judicial canon,” after “rule,”.
+    Subsec. (b)(1)(B), (2)(A). [Pub. L. 109–432][/us/pl/109/432], § 418(a)(1)(B), (2)(A), inserted “judicial canon,” after “rule,”.
 
-    Subsec. (b)(2)(B). [Pub. L. 109–432, § 418(a)(2)(B)][/us/pl/109/432/s418/a/2/B], inserted “in the case of executive branch officers or employees, or by the Judicial Conference of the United States (or its designee), in the case of judicial officers,” after “Ethics,”.
+    Subsec. (b)(2)(B). [Pub. L. 109–432][/us/pl/109/432], § 418(a)(2)(B), inserted “in the case of executive branch officers or employees, or by the Judicial Conference of the United States (or its designee), in the case of judicial officers,” after “Ethics,”.
 
-    Subsec. (b)(5)(B). [Pub. L. 109–432, § 418(a)(3)][/us/pl/109/432/s418/a/3], inserted “judicial canon,” after “rule,”.
+    Subsec. (b)(5)(B). [Pub. L. 109–432][/us/pl/109/432], § 418(a)(3), inserted “judicial canon,” after “rule,”.
 
-    Subsec. (b)(6). [Pub. L. 109–432, § 418(b)][/us/pl/109/432/s418/b], added par. (6).
+    Subsec. (b)(6). [Pub. L. 109–432][/us/pl/109/432], § 418(b), added par. (6).
 
     1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508] substituted “to the extent not previously taken into account under this subsection” for “reduced by any basis adjustment under subsection (c) attributable to a prior sale”.
 
@@ -85,17 +85,17 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 418(c)][/us/pl/109/432/s418/c], Dec. 20, 2006, [120 Stat. 2967][/us/stat/120/2967], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 418(c), Dec. 20, 2006, [120 Stat. 2967][/us/stat/120/2967], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to sales after the date of enactment of this Act \[Dec. 20, 2006\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11703(a)(2)][/us/pl/101/508/s11703/a/2], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11703(a)(2), Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to sales after November 30, 1989.”
 
-[Pub. L. 101–280, § 6(a)(3)][/us/pl/101/280/s6/a/3], May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that: 
+[Pub. L. 101–280][/us/pl/101/280], § 6(a)(3), May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] and the provisions of paragraph (2) \[set out below\] shall apply to sales after November 30, 1989.”
 
@@ -105,7 +105,7 @@
 
  __Property Sold Before__  __June 19, 1990__ 
 
-[Pub. L. 101–280, § 6(a)(2)][/us/pl/101/280/s6/a/2], May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that:
+[Pub. L. 101–280][/us/pl/101/280], § 6(a)(2), May 4, 1990, [104 Stat. 160][/us/stat/104/160], provided that:
 
 >     “(A)
 
@@ -132,30 +132,30 @@
 
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
-[/us/pl/101/194/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs502%2Fa
+[/us/pl/101/194/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtV
 [/us/stat/103/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1754
-[/us/pl/101/280/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fa%2F1
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
-[/us/pl/101/508/s11703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fa%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-516
-[/us/pl/109/432/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2966
-[/us/pl/109/432/s418/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fa%2F1%2FA
-[/us/pl/109/432/s418/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fa%2F1%2FB
-[/us/pl/109/432/s418/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fa%2F2%2FB
-[/us/pl/109/432/s418/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fa%2F3
-[/us/pl/109/432/s418/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fb
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
-[/us/pl/109/432/s418/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs418%2Fc
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2967
-[/us/pl/101/508/s11703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11703%2Fa%2F2
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-517
-[/us/pl/101/280/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fa%2F3
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
 [/us/pl/101/194/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs502%2Fc
 [/us/usc/t26/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1016
-[/us/pl/101/280/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280%2Fs6%2Fa%2F2
+[/us/pl/101/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F280
 [/us/stat/104/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F160
 
 

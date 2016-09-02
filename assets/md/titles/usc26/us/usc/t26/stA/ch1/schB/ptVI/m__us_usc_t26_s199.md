@@ -317,47 +317,47 @@
 
             The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added [Pub. L. 108–357, title I, § 102(a)][/us/pl/108/357/s102/a], Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV, § 403(a)(1)][/us/pl/109/135/s403/a/1]–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V, § 514(a)][/us/pl/109/222/s514/a], (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV, § 401(a)][/us/pl/109/432/s401/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV, § 401(a)][/us/pl/110/343/s401/a], (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII, § 746(a)][/us/pl/111/312/s746/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 318(a)][/us/pl/112/240/s318/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 130(a)][/us/pl/113/295/s130/a], title II, §§ 219(b), 221(a)(37), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4035, 4043; [Pub. L. 114–113, div. P, title III, § 305(a)][/us/pl/114/113/s305/a], div. Q, title I, § 170(a), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], 3069.)
+(Added [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 102(a), Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(a)(1)–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V][/us/pl/109/222/tV], § 514(a), (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 401(a), Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV][/us/pl/110/343/dB/tIV], § 401(a), (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 746(a), Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 318(a), Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 130(a), title II, §§ 219(b), 221(a)(37), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4035, 4043; [Pub. L. 114–113, div. P, title III][/us/pl/114/113/dP/tIII], § 305(a), div. Q, title I, § 170(a), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], 3069.)
 
  __References in Text__ 
 
-    [Section 927(a)(2)(C) of this title][/us/usc/t26/s927/a/2/C], referred to in subsec. (d)(9)(C), was repealed by [Pub. L. 106–519, § 2][/us/pl/106/519/s2], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423].
+    [Section 927(a)(2)(C) of this title][/us/usc/t26/s927/a/2/C], referred to in subsec. (d)(9)(C), was repealed by [Pub. L. 106–519][/us/pl/106/519], § 2, Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423].
 
  __Amendments__ 
 
-    2015—Subsec. (c)(3)(C). [Pub. L. 114–113, § 305(a)][/us/pl/114/113/s305/a], added subpar. (C).
+    2015—Subsec. (c)(3)(C). [Pub. L. 114–113][/us/pl/114/113], § 305(a), added subpar. (C).
 
-    Subsec. (d)(8)(C). [Pub. L. 114–113, § 170(a)][/us/pl/114/113/s170/a], substituted “first 11 taxable years” for “first 9 taxable years” and “January 1, 2017” for “January 1, 2015”.
+    Subsec. (d)(8)(C). [Pub. L. 114–113][/us/pl/114/113], § 170(a), substituted “first 11 taxable years” for “first 9 taxable years” and “January 1, 2017” for “January 1, 2015”.
 
-    Subsec. (a). [Pub. L. 113–295, § 221(a)(37)(A)][/us/pl/113/295/s221/a/37/A], struck out par. (1) designation and heading, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2), which related to phasein of deduction for taxable years 2005 to 2009.
+    Subsec. (a). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(37)(A), struck out par. (1) designation and heading, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2), which related to phasein of deduction for taxable years 2005 to 2009.
 
-    Subsec. (b)(3). [Pub. L. 113–295, § 219(b)][/us/pl/113/295/s219/b], substituted “, dispositions, and short taxable years” for “and dispositions” in heading and inserted “of a short taxable year or” after “in cases” in text.
+    Subsec. (b)(3). [Pub. L. 113–295][/us/pl/113/295], § 219(b), substituted “, dispositions, and short taxable years” for “and dispositions” in heading and inserted “of a short taxable year or” after “in cases” in text.
 
-    Subsec. (d)(2), (6)(B). [Pub. L. 113–295, § 221(a)(37)(B)][/us/pl/113/295/s221/a/37/B], substituted “(a)(2)” for “(a)(1)(B)”.
+    Subsec. (d)(2), (6)(B). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(37)(B), substituted “(a)(2)” for “(a)(1)(B)”.
 
-    Subsec. (d)(8)(C). [Pub. L. 113–295, § 130(a)][/us/pl/113/295/s130/a], substituted “first 9 taxable years” for “first 8 taxable years” and “January 1, 2015” for “January 1, 2014”.
+    Subsec. (d)(8)(C). [Pub. L. 113–295][/us/pl/113/295], § 130(a), substituted “first 9 taxable years” for “first 8 taxable years” and “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (d)(8)(C). [Pub. L. 112–240][/us/pl/112/240] substituted “first 8 taxable years” for “first 6 taxable years” and “January 1, 2014” for “January 1, 2012”.
 
     2010—Subsec. (d)(8)(C). [Pub. L. 111–312][/us/pl/111/312] substituted “first 6 taxable years” for “first 4 taxable years” and “January 1, 2012” for “January 1, 2010”.
 
-    2008—Subsec. (b)(2)(D). [Pub. L. 110–343, § 502(c)(1)][/us/pl/110/343/s502/c/1], added subpar. (D).
+    2008—Subsec. (b)(2)(D). [Pub. L. 110–343][/us/pl/110/343], § 502(c)(1), added subpar. (D).
 
-    Subsec. (c)(6). [Pub. L. 110–343, § 502(c)(2)][/us/pl/110/343/s502/c/2], inserted at end “A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.”
+    Subsec. (c)(6). [Pub. L. 110–343][/us/pl/110/343], § 502(c)(2), inserted at end “A qualified film shall include any copyrights, trademarks, or other intangibles with respect to such film. The methods and means of distributing a qualified film shall not affect the availability of the deduction under this section.”
 
-    Subsec. (d)(1)(A)(iv). [Pub. L. 110–343, § 502(c)(3)][/us/pl/110/343/s502/c/3], added cl. (iv).
+    Subsec. (d)(1)(A)(iv). [Pub. L. 110–343][/us/pl/110/343], § 502(c)(3), added cl. (iv).
 
-    Subsec. (d)(2). [Pub. L. 110–343, § 401(b)][/us/pl/110/343/s401/b], substituted “subsections (a)(1)(B) and (d)(9)(A)(iii)” for “subsection (a)(1)(B)” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 110–343][/us/pl/110/343], § 401(b), substituted “subsections (a)(1)(B) and (d)(9)(A)(iii)” for “subsection (a)(1)(B)” in introductory provisions.
 
-    Subsec. (d)(8)(C). [Pub. L. 110–343, § 312(a)][/us/pl/110/343/s312/a], substituted “first 4 taxable years” for “first 2 taxable years” and “January 1, 2010” for “January 1, 2008”.
+    Subsec. (d)(8)(C). [Pub. L. 110–343][/us/pl/110/343], § 312(a), substituted “first 4 taxable years” for “first 2 taxable years” and “January 1, 2010” for “January 1, 2008”.
 
-    Subsec. (d)(9), (10). [Pub. L. 110–343, § 401(a)][/us/pl/110/343/s401/a], added par. (9) and redesignated former par. (9) as (10).
+    Subsec. (d)(9), (10). [Pub. L. 110–343][/us/pl/110/343], § 401(a), added par. (9) and redesignated former par. (9) as (10).
 
-    2006—Subsec. (a)(2). [Pub. L. 109–222, § 514(b)(2)][/us/pl/109/222/s514/b/2], struck out “and subsection (d)(1)” after “paragraph (1)”.
+    2006—Subsec. (a)(2). [Pub. L. 109–222][/us/pl/109/222], § 514(b)(2), struck out “and subsection (d)(1)” after “paragraph (1)”.
 
-    Subsec. (b)(2). [Pub. L. 109–222, § 514(a)][/us/pl/109/222/s514/a], amended par. (2) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘W–2 wages’ means, with respect to any person for any taxable year of such person, the sum of the amounts described in paragraphs (3) and (8) of section 6051(a) paid by such person with respect to employment of employees by such person during the calendar year ending during such taxable year. Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.”
+    Subsec. (b)(2). [Pub. L. 109–222][/us/pl/109/222], § 514(a), amended par. (2) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘W–2 wages’ means, with respect to any person for any taxable year of such person, the sum of the amounts described in paragraphs (3) and (8) of section 6051(a) paid by such person with respect to employment of employees by such person during the calendar year ending during such taxable year. Such term shall not include any amount which is not properly included in a return filed with the Social Security Administration on or before the 60th day after the due date (including extensions) for such return.”
 
-    Subsec. (d)(1)(A)(iii). [Pub. L. 109–222, § 514(b)(1)][/us/pl/109/222/s514/b/1], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “each partner or shareholder shall be treated for purposes of subsection (b) as having W–2 wages for the taxable year in an amount equal to the lesser of—
+    Subsec. (d)(1)(A)(iii). [Pub. L. 109–222][/us/pl/109/222], § 514(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “each partner or shareholder shall be treated for purposes of subsection (b) as having W–2 wages for the taxable year in an amount equal to the lesser of—
 
     “(I) such person’s allocable share of the W–2 wages of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary), or
 
@@ -365,37 +365,37 @@
 
     Subsec. (d)(8), (9). [Pub. L. 109–432][/us/pl/109/432] added par. (8) and redesignated former par. (8) as (9).
 
-    2005—Subsec. (a)(2). [Pub. L. 109–135, § 403(a)(11)(B)][/us/pl/109/135/s403/a/11/B], substituted “subsection (d)(1)” for “subsections (d)(1) and (d)(6)”.
+    2005—Subsec. (a)(2). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(11)(B), substituted “subsection (d)(1)” for “subsections (d)(1) and (d)(6)”.
 
-    Subsec. (b)(1). [Pub. L. 109–135, § 403(a)(1)][/us/pl/109/135/s403/a/1], substituted “the taxpayer” for “the employer”.
+    Subsec. (b)(1). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(1), substituted “the taxpayer” for “the employer”.
 
-    Subsec. (b)(2). [Pub. L. 109–135, § 403(a)(2)][/us/pl/109/135/s403/a/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the term ‘W–2 wages’ means the sum of the aggregate amounts the taxpayer is required to include on statements under paragraphs (3) and (8) of section 6051(a) with respect to employment of employees of the taxpayer during the calendar year ending during the taxpayer’s taxable year.”
+    Subsec. (b)(2). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the term ‘W–2 wages’ means the sum of the aggregate amounts the taxpayer is required to include on statements under paragraphs (3) and (8) of section 6051(a) with respect to employment of employees of the taxpayer during the calendar year ending during the taxpayer’s taxable year.”
 
-    Subsec. (c)(1)(B). [Pub. L. 109–135, § 403(a)(3)][/us/pl/109/135/s403/a/3], inserted “and” at end of cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
+    Subsec. (c)(1)(B). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(3), inserted “and” at end of cl. (i), added cl. (ii), and struck out former cls. (ii) and (iii) which read as follows:
 
     “(ii) other deductions, expenses, or losses directly allocable to such receipts, and
 
     “(iii) a ratable portion of other deductions, expenses, and losses that are not directly allocable to such receipts or another class of income.”
 
-    Subsec. (c)(2). [Pub. L. 109–135, § 403(a)(4)][/us/pl/109/135/s403/a/4], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary shall prescribe rules for the proper allocation of items of income, deduction, expense, and loss for purposes of determining income attributable to domestic production activities.”
+    Subsec. (c)(2). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary shall prescribe rules for the proper allocation of items of income, deduction, expense, and loss for purposes of determining income attributable to domestic production activities.”
 
-    Subsec. (c)(4)(A)(ii), (iii). [Pub. L. 109–135, § 403(a)(5)][/us/pl/109/135/s403/a/5], added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
+    Subsec. (c)(4)(A)(ii), (iii). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(5), added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
     “(ii) construction performed in the United States, or
 
     “(iii) engineering or architectural services performed in the United States for construction projects in the United States.”
 
-    Subsec. (c)(4)(B)(iii). [Pub. L. 109–135, § 403(a)(6)][/us/pl/109/135/s403/a/6], added cl. (iii).
+    Subsec. (c)(4)(B)(iii). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(6), added cl. (iii).
 
-    Subsec. (c)(4)(C), (D). [Pub. L. 109–135, § 403(a)(7)][/us/pl/109/135/s403/a/7], added subpars. (C) and (D).
+    Subsec. (c)(4)(C), (D). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(7), added subpars. (C) and (D).
 
-    Subsec. (d)(1). [Pub. L. 109–135, § 403(a)(8)][/us/pl/109/135/s403/a/8], reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) relating to general application of section to pass-thru entities and application of wage limitation.
+    Subsec. (d)(1). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(8), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) and (B) relating to general application of section to pass-thru entities and application of wage limitation.
 
-    Subsec. (d)(3). [Pub. L. 109–135, § 403(a)(9)][/us/pl/109/135/s403/a/9], amended heading and text of par. (3) generally. Prior to amendment, text related to deductions allowed to patrons of agricultural and horticultural cooperatives.
+    Subsec. (d)(3). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(9), amended heading and text of par. (3) generally. Prior to amendment, text related to deductions allowed to patrons of agricultural and horticultural cooperatives.
 
-    Subsec. (d)(4)(B)(i). [Pub. L. 109–135, § 403(a)(10)][/us/pl/109/135/s403/a/10], substituted “more than 50 percent” for “50 percent” and “at least 80 percent” for “80 percent”.
+    Subsec. (d)(4)(B)(i). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(10), substituted “more than 50 percent” for “50 percent” and “at least 80 percent” for “80 percent”.
 
-    Subsec. (d)(6). [Pub. L. 109–135, § 403(a)(11)(A)][/us/pl/109/135/s403/a/11/A], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The deduction under this section shall be allowed for purposes of the tax imposed by section 55; except that for purposes of section 55, the deduction under subsection (a) shall be 9 percent of the lesser of—
+    Subsec. (d)(6). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(11)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The deduction under this section shall be allowed for purposes of the tax imposed by section 55; except that for purposes of section 55, the deduction under subsection (a) shall be 9 percent of the lesser of—
 
     “(A) qualified production activities income (determined without regard to part IV of subchapter A), or
 
@@ -403,27 +403,27 @@
 
     In the case of an individual, subparagraph (B) shall be applied by substituting ‘adjusted gross income’ for ‘alternative minimum taxable income’. For purposes of the preceding sentence, adjusted gross income shall be determined in the same manner as provided in paragraph (2).”
 
-    Subsec. (d)(7). [Pub. L. 109–135, § 403(a)(12)][/us/pl/109/135/s403/a/12], added par. (7). Former par. (7) redesignated (8).
+    Subsec. (d)(7). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(12), added par. (7). Former par. (7) redesignated (8).
 
-    Subsec. (d)(8). [Pub. L. 109–135, § 403(a)(12)][/us/pl/109/135/s403/a/12], (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
+    Subsec. (d)(8). [Pub. L. 109–135][/us/pl/109/135], § 403(a)(12), (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. P, title III, § 305(b)][/us/pl/114/113/s305/b], Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
+[Pub. L. 114–113, div. P, title III][/us/pl/114/113/dP/tIII], § 305(b), Dec. 18, 2015, [129 Stat. 3040][/us/stat/129/3040], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015.”
 
-[Pub. L. 114–113, div. Q, title I, § 170(b)][/us/pl/114/113/s170/b], Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that: 
+[Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 170(b), Dec. 18, 2015, [129 Stat. 3069][/us/stat/129/3069], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–295, div. A, title I, § 130(b)][/us/pl/113/295/s130/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+[Pub. L. 113–295, div. A, title I][/us/pl/113/295/dA/tI], § 130(b), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
-[Pub. L. 113–295, div. A, title II, § 219(d)][/us/pl/113/295/s219/d], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
+[Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 219(d), Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
 
 > “The amendments made by this section \[amending this section, [section 904 of this title][/us/usc/t26/s904], and provisions set out as a note under [section 114 of this title][/us/usc/t26/s114]\] shall take effect as if included in the provision of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\] to which they relate.”
 
@@ -431,23 +431,23 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–240, title III, § 318(b)][/us/pl/112/240/s318/b], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
+[Pub. L. 112–240, title III][/us/pl/112/240/tIII], § 318(b), Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 746(b)][/us/pl/111/312/s746/b], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 746(b), Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title IV, § 401(c)][/us/pl/110/343/s401/c], Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], provided that: 
+[Pub. L. 110–343, div. B, title IV][/us/pl/110/343/dB/tIV], § 401(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
 
-[Pub. L. 110–343, div. C, title III, § 312(b)][/us/pl/110/343/s312/b], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869], provided that: 
+[Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 312(b), Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
 
@@ -455,11 +455,11 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 401(b)][/us/pl/109/432/s401/b], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 401(b), Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
-[Pub. L. 109–222, title V, § 514(c)][/us/pl/109/222/s514/c], May 17, 2006, [120 Stat. 367][/us/stat/120/367], provided that: 
+[Pub. L. 109–222, title V][/us/pl/109/222/tV], § 514(c), May 17, 2006, [120 Stat. 367][/us/stat/120/367], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 17, 2006\].”
 
@@ -479,66 +479,66 @@
 ----------
 
 [/us/usc/t18/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257
-[/us/pl/108/357/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fa
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1424
-[/us/pl/109/135/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2615-2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2615-2619
-[/us/pl/109/222/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs514%2Fa
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
-[/us/pl/109/432/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2953
-[/us/pl/110/343/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs401%2Fa
+[/us/pl/110/343/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIV
 [/us/stat/122/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3851
-[/us/pl/111/312/s746/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs746%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3319
-[/us/pl/112/240/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs318%2Fa
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
-[/us/pl/113/295/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fa
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
-[/us/pl/114/113/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fa
+[/us/pl/114/113/dP/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtIII
 [/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
 [/us/usc/t26/s927/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs927%2Fa%2F2%2FC
-[/us/pl/106/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs2
+[/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
-[/us/pl/114/113/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fa
-[/us/pl/114/113/s170/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs170%2Fa
-[/us/pl/113/295/s221/a/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FA
-[/us/pl/113/295/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fb
-[/us/pl/113/295/s221/a/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FB
-[/us/pl/113/295/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/110/343/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fc%2F1
-[/us/pl/110/343/s502/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fc%2F2
-[/us/pl/110/343/s502/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fc%2F3
-[/us/pl/110/343/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs401%2Fb
-[/us/pl/110/343/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs312%2Fa
-[/us/pl/110/343/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs401%2Fa
-[/us/pl/109/222/s514/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs514%2Fb%2F2
-[/us/pl/109/222/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs514%2Fa
-[/us/pl/109/222/s514/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs514%2Fb%2F1
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
-[/us/pl/109/135/s403/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F11%2FB
-[/us/pl/109/135/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F1
-[/us/pl/109/135/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F2
-[/us/pl/109/135/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F3
-[/us/pl/109/135/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F4
-[/us/pl/109/135/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F5
-[/us/pl/109/135/s403/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F6
-[/us/pl/109/135/s403/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F7
-[/us/pl/109/135/s403/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F8
-[/us/pl/109/135/s403/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F9
-[/us/pl/109/135/s403/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F10
-[/us/pl/109/135/s403/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F11%2FA
-[/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
-[/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
-[/us/pl/114/113/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305%2Fb
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/114/113/dP/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdP%2FtIII
 [/us/stat/129/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3040
-[/us/pl/114/113/s170/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs170%2Fb
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3069
-[/us/pl/113/295/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fb
+[/us/pl/113/295/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtI
 [/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
-[/us/pl/113/295/s219/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fd
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
 [/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
 [/us/usc/t26/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs114
@@ -546,20 +546,20 @@
 [/us/pl/113/295/s221/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/112/240/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs318%2Fb
+[/us/pl/112/240/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtIII
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
-[/us/pl/111/312/s746/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs746%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3320
-[/us/pl/110/343/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs401%2Fc
+[/us/pl/110/343/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIV
 [/us/stat/122/3851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3851
-[/us/pl/110/343/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs312%2Fb
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3869
 [/us/pl/110/343/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fc
 [/us/pl/110/343/s502/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fe%2F2
 [/us/usc/t26/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs181
-[/us/pl/109/432/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs401%2Fb
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2953
-[/us/pl/109/222/s514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs514%2Fc
+[/us/pl/109/222/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2FtV
 [/us/stat/120/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F367
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

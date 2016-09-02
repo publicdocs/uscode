@@ -27,13 +27,13 @@
 
         For penalty for violation of regulations for safeguarding against unauthorized use of any film or photoimpression, or reproduction made therefrom, and against unauthorized disclosure of information contained therein, see section 7213.
 
-(Added [Pub. L. 85–866, title I, § 90(a)][/us/pl/85/866/s90/a], Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666]; amended [Pub. L. 94–455, title XII, § 1202(f)][/us/pl/94/455/s1202/f], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687], 1834.)
+(Added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 90(a), Sept. 2, 1958, [72 Stat. 1666][/us/stat/72/1666]; amended [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(f), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1687][/us/stat/90/1687], 1834.)
 
  __Amendments__ 
 
-    1976—Subsecs. (a), (b). [Pub. L. 94–455, § 1906(b)][/us/pl/94/455/s1906/b] (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsecs. (a), (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsecs. (c), (d). [Pub. L. 94–455, § 1202(f)][/us/pl/94/455/s1202/f], redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to legal status and evidentiary use of reproductions.
+    Subsecs. (c), (d). [Pub. L. 94–455][/us/pl/94/455], § 1202(f), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to legal status and evidentiary use of reproductions.
 
  __Effective Date__ 
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/85/866/s90/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs90%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1666
-[/us/pl/94/455/s1202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Ff
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1687
-[/us/pl/94/455/s1906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb
-[/us/pl/94/455/s1202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Ff
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/866/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
 

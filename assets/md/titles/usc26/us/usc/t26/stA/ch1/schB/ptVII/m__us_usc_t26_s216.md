@@ -121,7 +121,7 @@
 
         Except as provided in regulations no gain or loss shall be recognized on the distribution by a cooperative housing corporation of a dwelling unit to a stockholder in such corporation if such distribution is in exchange for the stockholder’s stock in such corporation and such dwelling unit is used as his principal residence (within the meaning of section 121).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 71][/us/stat/68A/71]; [Pub. L. 87–834, § 28(a)][/us/pl/87/834/s28/a], Oct. 16, 1962, [76 Stat. 1068][/us/stat/76/1068]; [Pub. L. 91–172, title IX, § 913(a)][/us/pl/91/172/s913/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2101(b), (f)(1), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1899; [Pub. L. 95–600, title V, § 531(a)][/us/pl/95/600/s531/a], Nov. 6, 1978, [92 Stat. 2886][/us/stat/92/2886]; [Pub. L. 96–222, title I, § 105(a)(6)][/us/pl/96/222/s105/a/6], Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219]; [Pub. L. 99–514, title VI, § 644(a)][/us/pl/99/514/s644/a]–(d), Oct. 22, 1986, [100 Stat. 2285][/us/stat/100/2285], 2286; [Pub. L. 100–647, title VI, § 6282(a)][/us/pl/100/647/s6282/a], Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755]; [Pub. L. 101–508, title XI, § 11702(i)][/us/pl/101/508/s11702/i], Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516]; [Pub. L. 105–34, title III, § 312(d)(4)][/us/pl/105/34/s312/d/4], Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840]; [Pub. L. 110–142, § 4(a)][/us/pl/110/142/s4/a], Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 71][/us/stat/68A/71]; [Pub. L. 87–834][/us/pl/87/834], § 28(a), Oct. 16, 1962, [76 Stat. 1068][/us/stat/76/1068]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 913(a), Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), title XXI, § 2101(b), (f)(1), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1899; [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 531(a), Nov. 6, 1978, [92 Stat. 2886][/us/stat/92/2886]; [Pub. L. 96–222, title I][/us/pl/96/222/tI], § 105(a)(6), Apr. 1, 1980, [94 Stat. 219][/us/stat/94/219]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 644(a)–(d), Oct. 22, 1986, [100 Stat. 2285][/us/stat/100/2285], 2286; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6282(a), Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11702(i), Nov. 5, 1990, [104 Stat. 1388–516][/us/stat/104/1388-516]; [Pub. L. 105–34, title III][/us/pl/105/34/tIII], § 312(d)(4), Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840]; [Pub. L. 110–142][/us/pl/110/142], § 4(a), Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804].)
 
  __Amendments__ 
 
@@ -133,27 +133,27 @@
 
     1988—Subsec. (e). [Pub. L. 100–647][/us/pl/100/647] added subsec. (e).
 
-    1986—Subsec. (b)(2). [Pub. L. 99–514, § 644(a)(1)][/us/pl/99/514/s644/a/1], substituted “a person” and “such person” for “an individual” and “such individual”, respectively.
+    1986—Subsec. (b)(2). [Pub. L. 99–514][/us/pl/99/514], § 644(a)(1), substituted “a person” and “such person” for “an individual” and “such individual”, respectively.
 
-    Subsec. (b)(3). [Pub. L. 99–514, § 644(d)][/us/pl/99/514/s644/d], added heading and amended text generally. Prior to amendment, text read as follows: “The term ‘tenant-stockholder’s proportionate share’ means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).”
+    Subsec. (b)(3). [Pub. L. 99–514][/us/pl/99/514], § 644(d), added heading and amended text generally. Prior to amendment, text read as follows: “The term ‘tenant-stockholder’s proportionate share’ means that proportion which the stock of the cooperative housing corporation owned by the tenant-stockholder is of the total outstanding stock of the corporation (including any stock held by the corporation).”
 
-    Subsec. (b)(5). [Pub. L. 99–514, § 644(a)(2)][/us/pl/99/514/s644/a/2], substituted “Prior approval of occupancy” for “Stock acquired through foreclosure by lending institution” in heading and amended text generally. Prior to amendment, text read as follows: “If a bank or other lending institution acquires by foreclosure (or by instrument in lieu of foreclosure) the stock of a tenant-stockholder, and a lease or the right to occupy an apartment or house to which such stock is appurtenant, such bank or other lending institution shall be treated as a tenant-stockholder for a period not to exceed three years from the date of acquisition. The preceding sentence shall apply even though, by agreement with the cooperative housing corporation, the bank (or other lending institution) or its nominee may not occupy the house or apartment without the prior approval of such corporation.”
+    Subsec. (b)(5). [Pub. L. 99–514][/us/pl/99/514], § 644(a)(2), substituted “Prior approval of occupancy” for “Stock acquired through foreclosure by lending institution” in heading and amended text generally. Prior to amendment, text read as follows: “If a bank or other lending institution acquires by foreclosure (or by instrument in lieu of foreclosure) the stock of a tenant-stockholder, and a lease or the right to occupy an apartment or house to which such stock is appurtenant, such bank or other lending institution shall be treated as a tenant-stockholder for a period not to exceed three years from the date of acquisition. The preceding sentence shall apply even though, by agreement with the cooperative housing corporation, the bank (or other lending institution) or its nominee may not occupy the house or apartment without the prior approval of such corporation.”
 
-    Subsec. (b)(6). [Pub. L. 99–514, § 644(a)(2)][/us/pl/99/514/s644/a/2], amended par. (6) generally, substituting provisions defining “original seller” for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining “original seller” for purposes of former par. (6).
+    Subsec. (b)(6). [Pub. L. 99–514][/us/pl/99/514], § 644(a)(2), amended par. (6) generally, substituting provisions defining “original seller” for purposes of par. (5) for provisions relating to stock owned by person from whom corporation acquired its property, subpar. (A) thereof providing for general rule, subpar. (B) providing that stock acquisition must take place not later than 1 year after transfer of dwelling units, subpar. (C) providing that original seller must have right to occupy apartment or house, and subpar. (D) defining “original seller” for purposes of former par. (6).
 
-    Subsec. (c). [Pub. L. 99–514, § 644(b)][/us/pl/99/514/s644/b], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 644(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “So much of the stock of a tenant-stockholder in a cooperative housing corporation as is allocable, under regulations prescribed by the Secretary, to a proprietary lease or right of tenancy in property subject to the allowance for depreciation under section 167(a) shall, to the extent such proprietary lease or right of tenancy is used by such tenant-stockholder in a trade or business or for the production of income, be treated as property subject to the allowance for depreciation under section 167(a). The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such a corporation and leased to tenant-stockholders.”
 
-    Subsec. (d). [Pub. L. 99–514, § 644(c)][/us/pl/99/514/s644/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 644(c), added subsec. (d).
 
-    1980—Subsec. (b)(6)(A). [Pub. L. 96–222, § 105(a)(6)(A)][/us/pl/96/222/s105/a/6/A], added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
+    1980—Subsec. (b)(6)(A). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(6)(A), added subpar. (A). Former subpar. (A), which required the original seller who acquired stock of the corporation from the corporation by purchase or foreclosure to be treated as a tenant-stockholder for a period not to exceed 3 years from the date of acquisition, was struck out.
 
-    Subsec. (b)(6)(B) to (D). [Pub. L. 96–222, § 105(a)(6)(A)][/us/pl/96/222/s105/a/6/A], (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
+    Subsec. (b)(6)(B) to (D). [Pub. L. 96–222][/us/pl/96/222], § 105(a)(6)(A), (B), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), and, in subpar. (D) as so redesignated, inserted provisions requiring that the estate of the original seller succeed to, and take into account, the tax treatment of the original seller under this paragraph.
 
     1978—Subsec. (b)(6). [Pub. L. 95–600][/us/pl/95/600], added par. (6).
 
-    1976—Subsec. (b)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(5). [Pub. L. 94–455, § 2101(f)][/us/pl/94/455/s2101/f], added par. (5).
+    Subsec. (b)(5). [Pub. L. 94–455][/us/pl/94/455], § 2101(f), added par. (5).
 
     Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], §§ 1906(b)(13)(A), 2101(b), struck out “or his delegate” after “Secretary” and inserted at end “The preceding sentence shall not be construed to limit or deny a deduction for depreciation under 167(a) by a cooperative housing corporation with respect to property owned by such corporation and leased to tenant-stockholders.”
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–142, § 4(b)][/us/pl/110/142/s4/b], Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804], provided that: 
+[Pub. L. 110–142][/us/pl/110/142], § 4(b), Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Dec. 20, 2007\].”
 
@@ -177,13 +177,13 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6282(b)][/us/pl/100/647/s6282/b], Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6282(b), Nov. 10, 1988, [102 Stat. 3755][/us/stat/102/3755], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 631 of the Tax Reform Act of 1986 \[[section 631 of Pub. L. 99–514][/us/pl/99/514/s631], see Tables for classification\].”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title VI, § 644(f)][/us/pl/99/514/s644/f], Oct. 22, 1986, [100 Stat. 2289][/us/stat/100/2289], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 644(f), Oct. 22, 1986, [100 Stat. 2289][/us/stat/100/2289], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -201,31 +201,31 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–600, title V, § 531(b)][/us/pl/95/600/s531/b], Nov. 6, 1978, [92 Stat. 2887][/us/stat/92/2887], provided that: 
+[Pub. L. 95–600, title V][/us/pl/95/600/tV], § 531(b), Nov. 6, 1978, [92 Stat. 2887][/us/stat/92/2887], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to stock acquired after the date of the enactment of this Act \[Nov. 6, 1978\].”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2101(f)(2)][/us/pl/94/455/s2101/f/2], Oct. 4, 1976, [90 Stat. 1900][/us/stat/90/1900], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2101(f)(2), Oct. 4, 1976, [90 Stat. 1900][/us/stat/90/1900], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to stock acquired by banks or other lending institutions after the date of the enactment of this Act \[Oct. 4, 1976\].”
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IX, § 913(b)][/us/pl/91/172/s913/b], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 913(b), Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1969.”
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–834, § 28(c)][/us/pl/87/834/s28/c], Oct. 16, 1962, [76 Stat. 1068][/us/stat/76/1068], provided that: 
+[Pub. L. 87–834][/us/pl/87/834], § 28(c), Oct. 16, 1962, [76 Stat. 1068][/us/stat/76/1068], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961.”
 
  __Treatment of Amounts Received in Connection With Refinancing of Indebtedness of Certain Cooperative Housing Corporations; Treatment of Amounts Paid From Qualified Refinancing-Related Reserve__ 
 
-[Pub. L. 99–514, title VI, § 644(e)][/us/pl/99/514/s644/e], Oct. 22, 1986, [100 Stat. 2287][/us/stat/100/2287], provided that:
+[Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 644(e), Oct. 22, 1986, [100 Stat. 2287][/us/stat/100/2287], provided that:
 
 >     “(1)  __Payment of closing costs and creation of reserve excluded from gross income__  __.—__ 
 
@@ -328,45 +328,45 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F71
-[/us/pl/87/834/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs28%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1068
-[/us/pl/91/172/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs913%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F723
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/600/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs531%2Fa
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2886
-[/us/pl/96/222/s105/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F6
+[/us/pl/96/222/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2FtI
 [/us/stat/94/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F219
-[/us/pl/99/514/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2285
-[/us/pl/100/647/s6282/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6282%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3755
-[/us/pl/101/508/s11702/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fi
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-516
-[/us/pl/105/34/s312/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F4
+[/us/pl/105/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIII
 [/us/stat/111/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F840
-[/us/pl/110/142/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs4%2Fa
+[/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/stat/121/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1804
 [/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s644/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fa%2F1
-[/us/pl/99/514/s644/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fd
-[/us/pl/99/514/s644/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fa%2F2
-[/us/pl/99/514/s644/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fa%2F2
-[/us/pl/99/514/s644/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fb
-[/us/pl/99/514/s644/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fc
-[/us/pl/96/222/s105/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F6%2FA
-[/us/pl/96/222/s105/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F6%2FA
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s2101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2101%2Ff
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
-[/us/pl/110/142/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142%2Fs4%2Fb
+[/us/pl/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F142
 [/us/stat/121/1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1804
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -375,24 +375,24 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/508/s11702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11702%2Fj
 [/us/usc/t26/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs59
-[/us/pl/100/647/s6282/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6282%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3755
 [/us/pl/99/514/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631
-[/us/pl/99/514/s644/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Ff
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2289
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201
 [/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
-[/us/pl/95/600/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs531%2Fb
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2887
-[/us/pl/94/455/s2101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2101%2Ff%2F2
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1900
-[/us/pl/91/172/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs913%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F723
-[/us/pl/87/834/s28/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs28%2Fc
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1068
-[/us/pl/99/514/s644/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs644%2Fe
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2287
 
 

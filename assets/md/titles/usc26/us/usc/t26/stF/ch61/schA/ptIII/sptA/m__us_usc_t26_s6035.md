@@ -47,7 +47,7 @@
 
         (2) situations in which the surviving joint tenant or other recipient may have better information than the executor regarding the basis or fair market value of the property.
 
-(Added [Pub. L. 114–41, title II, § 2004(b)(1)][/us/pl/114/41/s2004/b/1], July 31, 2015, [129 Stat. 455][/us/stat/129/455].)
+(Added [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2004(b)(1), July 31, 2015, [129 Stat. 455][/us/stat/129/455].)
 
  __Effective Date__ 
 
@@ -55,7 +55,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 6035, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 743][/us/stat/68A/743]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 340(a)][/us/pl/97/248/s340/a], Sept. 3, 1982, [96 Stat. 633][/us/stat/96/633], related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by [Pub. L. 108–357, title IV, § 413(c)(26)][/us/pl/108/357/s413/c/26], (d)(1), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509], 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
+    A prior section 6035, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 743][/us/stat/68A/743]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 340(a), Sept. 3, 1982, [96 Stat. 633][/us/stat/96/633], related to information returns of officers, directors, and shareholders of foreign personal holding companies, prior to repeal by [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(26), (d)(1), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509], 1510, applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.
 
 ----------
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/114/41/s2004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fb%2F1
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F455
 [/us/pl/114/41/s2004/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2004%2Fd
 [/us/usc/t26/s1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1014
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F743
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/248/s340/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs340%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F633
-[/us/pl/108/357/s413/c/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F26
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
 
 

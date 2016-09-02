@@ -61,7 +61,7 @@
 
             In the case of a regulated investment company that has a taxable year other than a calendar year, if the distributions by the company with respect to any class of stock of such company for the taxable year exceed the company’s current and accumulated earnings and profits which may be used for the payment of dividends on such class of stock, the company’s current earnings and profits shall, for purposes of subsection (a), be allocated first to distributions with respect to such class of stock made during the portion of the taxable year which precedes January 1.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 98][/us/stat/68A/98]; [Mar. 13, 1956, ch. 83, § 5(1)][/us/act/1956-03-13/ch83/s5/1], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 88–272, title II, § 225(f)(1)][/us/pl/88/272/s225/f/1], Feb. 26, 1964, [78 Stat. 87][/us/stat/78/87]; [Pub. L. 94–455, title XVI, § 1601(d)][/us/pl/94/455/s1601/d], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1834; [Pub. L. 95–600, title III, § 362(d)(1)][/us/pl/95/600/s362/d/1], Nov. 6, 1978, [92 Stat. 2851][/us/stat/92/2851]; [Pub. L. 111–325, title III, § 305(a)][/us/pl/111/325/s305/a], Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 98][/us/stat/68A/98]; [Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 5(1), [70 Stat. 49][/us/stat/70/49]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 225(f)(1), Feb. 26, 1964, [78 Stat. 87][/us/stat/78/87]; [Pub. L. 94–455, title XVI][/us/pl/94/455/tXVI], § 1601(d), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1746][/us/stat/90/1746], 1834; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 362(d)(1), Nov. 6, 1978, [92 Stat. 2851][/us/stat/92/2851]; [Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 305(a), Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 
     1978—Subsec. (b)(3). [Pub. L. 95–600][/us/pl/95/600] inserted “regulated investment company or” after “distributions by a” in heading and substituted in text “section 860(f)” for “section 859(d)”.
 
-    1976—Subsec. (b)(2)(B)(ii). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (b)(2)(B)(ii). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (b)(3). [Pub. L. 94–455, § 1601(d)][/us/pl/94/455/s1601/d], added par. (3).
+    Subsec. (b)(3). [Pub. L. 94–455][/us/pl/94/455], § 1601(d), added par. (3).
 
     1964—Subsec. (b)(2). [Pub. L. 88–272][/us/pl/88/272] inserted definition of “distribution of property”.
 
@@ -79,7 +79,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–325, title III, § 305(b)][/us/pl/111/325/s305/b], Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549], provided that: 
+[Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 305(b), Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to distributions made in taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].”
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1964 Amendment__ 
 
-[Pub. L. 88–272, title II, § 225][/us/pl/88/272/s225](l), Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94], provided that:
+[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 225(l), Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94], provided that:
 
 >     “(1) The amendments made by this section \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 381, 541, 542, 543, 544, 545, 551, 553, 554, 562, 856, 1016, 1361, 6501, and the analysis preceding section 1011, and enacting provisions set out as a note under [section 333 of this title][/us/usc/t26/s333]\] (other than by subsections (c)(1), (f), (g), and (j) \[enacting section 1022, redesignating former section 1022 as 1023, amending this section and sections 331, 333, 542, 551, 562, 1016, and the analysis preceding [section 1011 of this title][/us/usc/t26/s1011]\]) shall apply to taxable years beginning after December 31, 1963.
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1956 Amendment__ 
 
-[Act Mar. 13, 1956, ch. 83, § 6][/us/act/1956-03-13/ch83/s6], [70 Stat. 49][/us/stat/70/49], provided that: 
+[Act Mar. 13, 1956, ch. 83][/us/act/1956-03-13/ch83], § 6, [70 Stat. 49][/us/stat/70/49], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954.”
 
@@ -120,22 +120,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F98
-[/us/act/1956-03-13/ch83/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs5%2F1
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F49
-[/us/pl/88/272/s225/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs225%2Ff%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F87
-[/us/pl/94/455/s1601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Fd
+[/us/pl/94/455/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXVI
 [/us/stat/90/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1746
-[/us/pl/95/600/s362/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs362%2Fd%2F1
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2851
-[/us/pl/111/325/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs305%2Fa
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3549
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Fd
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/pl/111/325/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs305%2Fb
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3549
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/usc/t26/s860/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs860%2Fe
@@ -144,14 +144,14 @@
 [/us/pl/94/455/s1601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1601%2Fd
 [/us/pl/94/455/s1608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1608%2Fa
 [/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
-[/us/pl/88/272/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs225
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F94
 [/us/usc/t26/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs333
 [/us/usc/t26/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1011
 [/us/usc/t26/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs542
 [/us/usc/t26/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1011
 [/us/usc/t26/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs333
-[/us/act/1956-03-13/ch83/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs6
+[/us/act/1956-03-13/ch83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83
 [/us/stat/70/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F49
 
 

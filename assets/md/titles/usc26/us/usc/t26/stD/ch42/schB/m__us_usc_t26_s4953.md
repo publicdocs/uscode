@@ -43,7 +43,7 @@
 
         (3) an act contrary to the purposes for which the trust is exempt from taxation under section 501(a).
 
-(Added [Pub. L. 95–227, § 4(c)(1)][/us/pl/95/227/s4/c/1], Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22].)
+(Added [Pub. L. 95–227][/us/pl/95/227], § 4(c)(1), Feb. 10, 1978, [92 Stat. 22][/us/stat/92/22].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/227/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F1
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F22
 
 

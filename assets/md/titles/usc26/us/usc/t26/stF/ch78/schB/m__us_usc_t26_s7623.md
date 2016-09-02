@@ -71,7 +71,7 @@
 
                 No award may be made under this subsection based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 904][/us/stat/68A/904]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title XII, § 1209(a)][/us/pl/104/168/s1209/a], July 30, 1996, [110 Stat. 1473][/us/stat/110/1473]; [Pub. L. 109–432, div. A, title IV, § 406(a)(1)][/us/pl/109/432/s406/a/1], Dec. 20, 2006, [120 Stat. 2958][/us/stat/120/2958].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 904][/us/stat/68A/904]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1209(a), July 30, 1996, [110 Stat. 1473][/us/stat/110/1473]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 406(a)(1), Dec. 20, 2006, [120 Stat. 2958][/us/stat/120/2958].)
 
  __Amendments__ 
 
@@ -87,13 +87,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title XII, § 1209(c)][/us/pl/104/168/s1209/c], July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1209(c), July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date which is 6 months after the date of the enactment of this Act \[July 30, 1996\].”
 
  __Whistleblower Office__ 
 
-[Pub. L. 109–432, div. A, title IV, § 406(b)][/us/pl/109/432/s406/b], Dec. 20, 2006, [120 Stat. 2959][/us/stat/120/2959], provided that:
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 406(b), Dec. 20, 2006, [120 Stat. 2959][/us/stat/120/2959], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -111,7 +111,7 @@
 
  __Report by Secretary__ 
 
-[Pub. L. 109–432, div. A, title IV, § 406(c)][/us/pl/109/432/s406/c], Dec. 20, 2006, [120 Stat. 2960][/us/stat/120/2960], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 406(c), Dec. 20, 2006, [120 Stat. 2960][/us/stat/120/2960], provided that: 
 
 > “The Secretary of the Treasury shall each year conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986, including—
 
@@ -121,7 +121,7 @@
 
  __Study of Payments Made for Detection of Underpayments and Fraud__ 
 
-[Pub. L. 105–206, title III, § 3804][/us/pl/105/206/s3804], July 22, 1998, [112 Stat. 783][/us/stat/112/783], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3804, July 22, 1998, [112 Stat. 783][/us/stat/112/783], provided that: 
 
 > “Not later than 1 year after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986 including—
 
@@ -131,7 +131,7 @@
 
  __Annual Report to Congress on Payments Made Under This Section and Resultant Collections__ 
 
-[Pub. L. 104–168, title XII, § 1209(d)][/us/pl/104/168/s1209/d], July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
+[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1209(d), July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], provided that: 
 
 > “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
 
@@ -144,11 +144,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F904
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/104/168/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1209%2Fa
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1473
-[/us/pl/109/432/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs406%2Fa%2F1
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2958
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
@@ -156,15 +156,15 @@
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs406%2Fd
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/104/168/s1209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1209%2Fc
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1474
-[/us/pl/109/432/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs406%2Fb
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2959
-[/us/pl/109/432/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs406%2Fc
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2960
-[/us/pl/105/206/s3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3804
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F783
-[/us/pl/104/168/s1209/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1209%2Fd
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1474
 
 

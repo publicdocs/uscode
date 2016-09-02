@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptI/sptA/m__us_usc_t26_s404A.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schD/ptI/sptA/m__us_usc_t26_s406.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs405)
 
-## \[§ 405. Repealed. [Pub. L. 98–369, div. A, title IV, § 491(a)][/us/pl/98/369/s491/a], July 18, 1984, [98 Stat. 848][/us/stat/98/848]\]
+## \[§ 405. Repealed. [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(a), July 18, 1984, [98 Stat. 848][/us/stat/98/848]\]
 
-    Section, added [Pub. L. 87–792, § 5(a)][/us/pl/87/792/s5/a], Oct. 10, 1962, [76 Stat. 826][/us/stat/76/826]; amended [Pub. L. 89–97, title I, § 106(d)(5)][/us/pl/89/97/s106/d/5], July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 91–172, title V, § 515(c)(1)][/us/pl/91/172/s515/c/1], Dec. 30, 1969, [83 Stat. 645][/us/stat/83/645]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2004(c)(2), 2005(c)(11), Sept. 2, 1974, [88 Stat. 986][/us/stat/88/986], 992; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–34, title III, § 313(a)][/us/pl/97/34/s313/a], (b)(1), Aug. 13, 1981, [95 Stat. 285][/us/stat/95/285], 286; [Pub. L. 97–452, § 2(c)(1)][/us/pl/97/452/s2/c/1], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–369, div. A, title I, § 42(a)(6)][/us/pl/98/369/s42/a/6], July 18, 1984, [98 Stat. 557][/us/stat/98/557], related to qualified bond purchase plans.
+    Section, added [Pub. L. 87–792][/us/pl/87/792], § 5(a), Oct. 10, 1962, [76 Stat. 826][/us/stat/76/826]; amended [Pub. L. 89–97, title I][/us/pl/89/97/tI], § 106(d)(5), July 30, 1965, [79 Stat. 337][/us/stat/79/337]; [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 515(c)(1), Dec. 30, 1969, [83 Stat. 645][/us/stat/83/645]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], §§ 2004(c)(2), 2005(c)(11), Sept. 2, 1974, [88 Stat. 986][/us/stat/88/986], 992; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–34, title III][/us/pl/97/34/tIII], § 313(a), (b)(1), Aug. 13, 1981, [95 Stat. 285][/us/stat/95/285], 286; [Pub. L. 97–452][/us/pl/97/452], § 2(c)(1), Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(a)(6), July 18, 1984, [98 Stat. 557][/us/stat/98/557], related to qualified bond purchase plans.
 
  __Effective Date of Repeal__ 
 
@@ -23,7 +23,7 @@
 
  __Rollover of Existing Bonds Into Qualified Employer Plans__ 
 
-    [Pub. L. 98–369, div. A, title IV, § 491(c)(1)][/us/pl/98/369/s491/c/1], (f)(2), July 18, 1984, [98 Stat. 848][/us/stat/98/848], 853, provided that, applicable to redemptions after July 18, 1984, in taxable years ending after such date, subsec. (d)(3)(A) of this section, as in effect before its repeal, is amended to read as follows:
+    [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(c)(1), (f)(2), July 18, 1984, [98 Stat. 848][/us/stat/98/848], 853, provided that, applicable to redemptions after July 18, 1984, in taxable years ending after such date, subsec. (d)(3)(A) of this section, as in effect before its repeal, is amended to read as follows:
 
     “(A) In general.—If—
 
@@ -37,7 +37,7 @@
 
  __Bonds Under Qualified Bond Purchase Plans Redeemable at any Time After__  __July 18, 1984__ 
 
-[Pub. L. 98–369, div. A, title IV, § 491(f)(4)][/us/pl/98/369/s491/f/4], July 18, 1984, [98 Stat. 853][/us/stat/98/853], provided that: 
+[Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(f)(4), July 18, 1984, [98 Stat. 853][/us/stat/98/853], provided that: 
 
 > “Notwithstanding—
 
@@ -54,29 +54,29 @@
 ----------
 ----------
 
-[/us/pl/98/369/s491/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fa
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F848
-[/us/pl/87/792/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792%2Fs5%2Fa
+[/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
 [/us/stat/76/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F826
-[/us/pl/89/97/s106/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs106%2Fd%2F5
+[/us/pl/89/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2FtI
 [/us/stat/79/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F337
-[/us/pl/91/172/s515/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs515%2Fc%2F1
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F645
-[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F986
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/97/34/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs313%2Fa
+[/us/pl/97/34/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIII
 [/us/stat/95/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F285
-[/us/pl/97/452/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452%2Fs2%2Fc%2F1
+[/us/pl/97/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F452
 [/us/stat/96/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2478
-[/us/pl/98/369/s42/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F6
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
 [/us/pl/98/369/s491/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Ff%2F1
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
-[/us/pl/98/369/s491/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fc%2F1
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F848
-[/us/pl/98/369/s491/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Ff%2F4
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F853
 
 

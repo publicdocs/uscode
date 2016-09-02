@@ -23,7 +23,7 @@
 
         If the Secretary determines that the filing of the notice of any lien was erroneous, the Secretary shall expeditiously (and, to the extent practicable, within 14 days after such determination) issue a certificate of release of such lien and shall include in such certificate a statement that such filing was erroneous.
 
-(Added [Pub. L. 100–647, title VI, § 6238(a)][/us/pl/100/647/s6238/a], Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6238(a), Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743].)
 
  __Prior Provisions__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title VI, § 6238(d)][/us/pl/100/647/s6238/d], Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6238(d), Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the date which is 60 days after the date regulations are issued under subsection (b) \[set out below\].”
 
  __Regulations__ 
 
-    [Pub. L. 100–647, title VI, § 6238(b)][/us/pl/100/647/s6238/b], Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], required Secretary of the Treasury or Secretary’s delegate to prescribe regulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
+    [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6238(b), Nov. 10, 1988, [102 Stat. 3743][/us/stat/102/3743], required Secretary of the Treasury or Secretary’s delegate to prescribe regulations necessary to implement administrative appeal provided for in amendment made by subsection (a) \[enacting this section\] within 180 days after Nov. 10, 1988.
 
 ----------
 
@@ -46,11 +46,11 @@
 ----------
 ----------
 
-[/us/pl/100/647/s6238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6238%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3743
-[/us/pl/100/647/s6238/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6238%2Fd
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3743
-[/us/pl/100/647/s6238/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6238%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3743
 
 

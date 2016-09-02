@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title VIII, § 801(c)][/us/pl/99/514/s801/c], Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348], added item 448.
+    1986—[Pub. L. 99–514, title VIII][/us/pl/99/514/tVIII], § 801(c), Oct. 22, 1986, [100 Stat. 2348][/us/stat/100/2348], added item 448.
 
-    1976—[Pub. L. 94–455, title II, § 207(c)(1)(B)][/us/pl/94/455/s207/c/1/B], Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], added item 447.
+    1976—[Pub. L. 94–455, title II][/us/pl/94/455/tII], § 207(c)(1)(B), Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], added item 447.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs801%2Fc
+[/us/pl/99/514/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVIII
 [/us/stat/100/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2348
-[/us/pl/94/455/s207/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs207%2Fc%2F1%2FB
+[/us/pl/94/455/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtII
 [/us/stat/90/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1541
 
 

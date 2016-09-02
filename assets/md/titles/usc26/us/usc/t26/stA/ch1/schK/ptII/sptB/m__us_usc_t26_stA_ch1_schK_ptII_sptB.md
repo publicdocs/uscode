@@ -83,9 +83,9 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–357, title VIII, § 833(c)(5)(B)][/us/pl/108/357/s833/c/5/B], Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in item 734.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 833(c)(5)(B), Oct. 22, 2004, [118 Stat. 1592][/us/stat/118/1592], substituted “Adjustment to basis of undistributed partnership property where section 754 election or substantial basis reduction” for “Optional adjustment to basis of undistributed partnership property” in item 734.
 
-    1992—[Pub. L. 102–486, title XIX, § 1937(b)(3)][/us/pl/102/486/s1937/b/3], Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033], added item 737.
+    1992—[Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1937(b)(3), Oct. 24, 1992, [106 Stat. 3033][/us/stat/106/3033], added item 737.
 
 ----------
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/pl/108/357/s833/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs833%2Fc%2F5%2FB
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1592
-[/us/pl/102/486/s1937/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1937%2Fb%2F3
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3033
 
 

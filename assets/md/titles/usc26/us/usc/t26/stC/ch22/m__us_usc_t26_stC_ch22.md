@@ -87,7 +87,7 @@ Amendments  </td>
 
 </table>
 
-    2001—[Pub. L. 107–90, title II, § 204(e)(5)][/us/pl/107/90/s204/e/5], Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893], added item for subchapter E.
+    2001—[Pub. L. 107–90, title II][/us/pl/107/90/tII], § 204(e)(5), Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893], added item for subchapter E.
 
 ----------
 
@@ -96,7 +96,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/107/90/s204/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fe%2F5
+[/us/pl/107/90/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2FtII
 [/us/stat/115/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F893
 
 

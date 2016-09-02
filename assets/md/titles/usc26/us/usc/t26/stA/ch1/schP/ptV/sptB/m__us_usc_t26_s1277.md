@@ -83,7 +83,7 @@
 
         In the case of any financial institution which is a bank (as defined in section 585(a)(2)), the determination of whether interest is described in paragraph (1) shall be made under principles similar to the principles of section 291(e)(1)(B)(ii). Under rules similar to the rules of section 265(a)(5), short sale expenses shall be treated as interest for purposes of determining net direct interest expense.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 545][/us/stat/98/545]; amended [Pub. L. 99–514, title IX][/us/pl/99/514], §§ 901(d)(4)(F), § 902(e)(2), title XVIII, § 1899A(29)–(31), Oct. 22, 1986, [100 Stat. 2380][/us/stat/100/2380], 2382, 2960; [Pub. L. 100–647, title I, § 1018(u)(31)][/us/pl/100/647/s1018/u/31], Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 103–66, title XIII, § 13206(b)(1)(B)][/us/pl/103/66/s13206/b/1/B], Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465]; [Pub. L. 104–188, title I, § 1616(b)(14)][/us/pl/104/188/s1616/b/14], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 545][/us/stat/98/545]; amended [Pub. L. 99–514, title IX][/us/pl/99/514/tIX], §§ 901(d)(4)(F), § 902(e)(2), title XVIII, § 1899A(29)–(31), Oct. 22, 1986, [100 Stat. 2380][/us/stat/100/2380], 2382, 2960; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1018(u)(31), Nov. 10, 1988, [102 Stat. 3592][/us/stat/102/3592]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13206(b)(1)(B), Aug. 10, 1993, [107 Stat. 465][/us/stat/107/465]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1616(b)(14), Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857].)
 
  __Amendments__ 
 
@@ -93,15 +93,15 @@
 
     1988—Subsec. (c). [Pub. L. 100–647][/us/pl/100/647] inserted a closing parenthesis after “section 585(a)(2)”.
 
-    1986—Subsec. (b)(1)(C). [Pub. L. 99–514, § 1899A(29)][/us/pl/99/514/s1899A/29], substituted “this paragraph” for “this paragaph”.
+    1986—Subsec. (b)(1)(C). [Pub. L. 99–514][/us/pl/99/514], § 1899A(29), substituted “this paragraph” for “this paragaph”.
 
-    Subsec. (b)(2)(C). [Pub. L. 99–514, § 1899A(30)][/us/pl/99/514/s1899A/30], substituted “paragraph (1)” for “paragraph 1” in heading.
+    Subsec. (b)(2)(C). [Pub. L. 99–514][/us/pl/99/514], § 1899A(30), substituted “paragraph (1)” for “paragraph 1” in heading.
 
-    Subsec. (c). [Pub. L. 99–514, § 901(d)(4)(F)][/us/pl/99/514/s901/d/4/F], substituted “which is a bank (as defined in section 585(a)(2) or to which section 593 applies” for “to which section 585 or 593 applies”.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 901(d)(4)(F), substituted “which is a bank (as defined in section 585(a)(2) or to which section 593 applies” for “to which section 585 or 593 applies”.
 
-    [Pub. L. 99–514, § 902(e)(2)][/us/pl/99/514/s902/e/2], substituted “section 265(a)(5)” for “section 265(5)”.
+    [Pub. L. 99–514][/us/pl/99/514], § 902(e)(2), substituted “section 265(a)(5)” for “section 265(5)”.
 
-    Subsec. (d). [Pub. L. 99–514, § 1899A(31)][/us/pl/99/514/s1899A/31], substituted “July 18, 1984” for “the date of the enactment of this section”.
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1899A(31), substituted “July 18, 1984” for “the date of the enactment of this section”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -136,24 +136,24 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F545
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtIX
 [/us/stat/100/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2380
-[/us/pl/100/647/s1018/u/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F31
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3592
-[/us/pl/103/66/s13206/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13206%2Fb%2F1%2FB
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F465
-[/us/pl/104/188/s1616/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fb%2F14
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1857
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1899A/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F29
-[/us/pl/99/514/s1899A/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F30
-[/us/pl/99/514/s901/d/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs901%2Fd%2F4%2FF
-[/us/pl/99/514/s902/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs902%2Fe%2F2
-[/us/pl/99/514/s1899A/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F31
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188/s1616/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1616%2Fc
 [/us/usc/t26/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs593

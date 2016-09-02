@@ -65,7 +65,7 @@ Amendments  </td>
 
 </table>
 
-    1986—[Pub. L. 99–514, title XII, § 1212(b)(2)][/us/pl/99/514/s1212/b/2], Oct. 22, 1986, [100 Stat. 2538][/us/stat/100/2538], added item for subpart C and redesignated item for former subpart C as D.
+    1986—[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1212(b)(2), Oct. 22, 1986, [100 Stat. 2538][/us/stat/100/2538], added item for subpart C and redesignated item for former subpart C as D.
 
 ----------
 
@@ -74,7 +74,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/99/514/s1212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1212%2Fb%2F2
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2538
 
 

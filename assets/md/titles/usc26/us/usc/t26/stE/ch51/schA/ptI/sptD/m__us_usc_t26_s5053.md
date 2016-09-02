@@ -69,7 +69,7 @@
 
         For exemption as to supplies for certain vessels and aircraft, see section 309 of the Tariff Act of 1930, as amended ([19 U.S.C. 1309][/us/usc/t19/s1309]).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1334][/us/stat/72/1334]; amended [Pub. L. 89–44, title VIII, § 807(b)][/us/pl/89/44/s807/b], June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 91–673, § 2][/us/pl/91/673/s2], Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–458, § 2(b)(1)][/us/pl/95/458/s2/b/1], Oct. 14, 1978, [92 Stat. 1255][/us/stat/92/1255]; [Pub. L. 105–34, title XIV][/us/pl/105/34], §§ 1414(b), 1418(a), 1419(a), Aug. 5, 1997, [111 Stat. 1047–1049][/us/stat/111/1047-1049].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1334][/us/stat/72/1334]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 807(b), June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 91–673][/us/pl/91/673], § 2, Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–458][/us/pl/95/458], § 2(b)(1), Oct. 14, 1978, [92 Stat. 1255][/us/stat/92/1255]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], §§ 1414(b), 1418(a), 1419(a), Aug. 5, 1997, [111 Stat. 1047–1049][/us/stat/111/1047-1049].)
 
  __Prior Provisions__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    1997—Subsec. (f). [Pub. L. 105–34, § 1414(b)][/us/pl/105/34/s1414/b], added subsec. (f). Former subsec. (f) redesignated (i).
+    1997—Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 1414(b), added subsec. (f). Former subsec. (f) redesignated (i).
 
-    Subsec. (g). [Pub. L. 105–34, § 1418(a)][/us/pl/105/34/s1418/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–34][/us/pl/105/34], § 1418(a), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 105–34, § 1419(a)][/us/pl/105/34/s1419/a], added subsec. (h).
+    Subsec. (h). [Pub. L. 105–34][/us/pl/105/34], § 1419(a), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 105–34, § 1414(b)][/us/pl/105/34/s1414/b], redesignated subsec. (f) as (i).
+    Subsec. (i). [Pub. L. 105–34][/us/pl/105/34], § 1414(b), redesignated subsec. (f) as (i).
 
     1978—Subsecs. (e), (f). [Pub. L. 95–458][/us/pl/95/458] added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -95,15 +95,15 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIV, § 1414(d)][/us/pl/105/34/s1414/d], Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1414(d), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–34, title XIV, § 1418(b)][/us/pl/105/34/s1418/b], Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1418(b), Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–34, title XIV, § 1419(b)][/us/pl/105/34/s1419/b], Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], provided that: 
+[Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1419(b), Aug. 5, 1997, [111 Stat. 1049][/us/stat/111/1049], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -127,34 +127,34 @@
 ----------
 
 [/us/usc/t19/s1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1309
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1334
-[/us/pl/89/44/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs807%2Fb
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F164
-[/us/pl/91/673/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs2
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2056
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/458/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fb%2F1
+[/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/stat/92/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1255
-[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047-1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047-1049
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F612
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/105/34/s1414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fb
-[/us/pl/105/34/s1418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1418%2Fa
-[/us/pl/105/34/s1419/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1419%2Fa
-[/us/pl/105/34/s1414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fb
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
-[/us/pl/105/34/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fd
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047
-[/us/pl/105/34/s1418/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1418%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1049
-[/us/pl/105/34/s1419/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1419%2Fb
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1049
 [/us/pl/95/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458
 [/us/pl/95/458/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F458%2Fs2%2Fc

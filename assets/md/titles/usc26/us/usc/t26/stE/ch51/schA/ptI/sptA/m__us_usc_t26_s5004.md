@@ -35,7 +35,7 @@
 
         For provisions relating to extinguishing of lien in case of redistillation, see section 5223(e).
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1317][/us/stat/72/1317]; amended [Pub. L. 89–44, title VIII, § 805(f)(1)][/us/pl/89/44/s805/f/1], June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176, § 4(c)][/us/pl/95/176/s4/c], Nov. 14, 1977, [91 Stat. 1366][/us/stat/91/1366]; [Pub. L. 96–39, title VIII, § 807(a)(2)][/us/pl/96/39/s807/a/2], July 26, 1979, [93 Stat. 280][/us/stat/93/280]; [Pub. L. 96–223, title II, § 232(e)(2)(C)][/us/pl/96/223/s232/e/2/C], Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1317][/us/stat/72/1317]; amended [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(f)(1), June 21, 1965, [79 Stat. 161][/us/stat/79/161]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–176][/us/pl/95/176], § 4(c), Nov. 14, 1977, [91 Stat. 1366][/us/stat/91/1366]; [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(2), July 26, 1979, [93 Stat. 280][/us/stat/93/280]; [Pub. L. 96–223, title II][/us/pl/96/223/tII], § 232(e)(2)(C), Apr. 2, 1980, [94 Stat. 280][/us/stat/94/280].)
 
  __Prior Provisions__ 
 
@@ -47,9 +47,9 @@
 
     1980—Subsec. (a)(2)(B). [Pub. L. 96–223][/us/pl/96/223] substituted “(11), or (12),” for “or (11),”.
 
-    1979—Subsec. (a)(2)(B). [Pub. L. 96–39, § 807(a)(2)(C)][/us/pl/96/39/s807/a/2/C], substituted “(3), or (11)” for “or (3)”.
+    1979—Subsec. (a)(2)(B). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(2)(C), substituted “(3), or (11)” for “or (3)”.
 
-    Subsecs. (b), (c). [Pub. L. 96–39, § 807(a)(2)(A)][/us/pl/96/39/s807/a/2/A], (B), redesignated subsec. (c) as (b). Former subsec. (b), relating to other property subject to lien, was repealed.
+    Subsecs. (b), (c). [Pub. L. 96–39][/us/pl/96/39], § 807(a)(2)(A), (B), redesignated subsec. (c) as (b). Former subsec. (b), relating to other property subject to lien, was repealed.
 
     1977—Subsec. (a)(2). [Pub. L. 95–176][/us/pl/95/176] struck out reference to par. (9) of section 5214(a) in subpar. (B), and in subpar. (C) substituted “a customs bonded warehouse” for “customs manufacturing bonded warehouses” and provided for termination of the lien for tax when the distilled spirits are used in certain research, development, or testing.
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–44, title VIII, § 805(g)(2)][/us/pl/89/44/s805/g/2], June 21, 1965, [79 Stat. 162][/us/stat/79/162], provided that: 
+[Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 805(g)(2), June 21, 1965, [79 Stat. 162][/us/stat/79/162], provided that: 
 
 > “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965.”
 
@@ -82,17 +82,17 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1317
-[/us/pl/89/44/s805/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Ff%2F1
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F161
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/176/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs4%2Fc
+[/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/stat/91/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1366
-[/us/pl/96/39/s807/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F2
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F280
-[/us/pl/96/223/s232/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2Fs232%2Fe%2F2%2FC
+[/us/pl/96/223/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223%2FtII
 [/us/stat/94/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F280
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F598
@@ -101,8 +101,8 @@
 [/us/stat/68A/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F600
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/96/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F223
-[/us/pl/96/39/s807/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F2%2FC
-[/us/pl/96/39/s807/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F2%2FA
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
+[/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
@@ -115,7 +115,7 @@
 [/us/pl/95/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176
 [/us/pl/95/176/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F176%2Fs7
 [/us/usc/t26/s5003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5003
-[/us/pl/89/44/s805/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs805%2Fg%2F2
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F162
 
 

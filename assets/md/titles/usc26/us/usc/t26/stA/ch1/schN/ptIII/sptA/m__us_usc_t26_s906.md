@@ -39,7 +39,7 @@
 
         (6) No credit shall be allowed under this section against the tax imposed by section 884.
 
-(Added [Pub. L. 89–809, title I, § 106(a)(1)][/us/pl/89/809/s106/a/1], Nov. 13, 1966, [80 Stat. 1568][/us/stat/80/1568]; amended [Pub. L. 98–369, div. A, title VIII, § 801(d)(3)][/us/pl/98/369/s801/d/3], July 18, 1984, [98 Stat. 996][/us/stat/98/996]; [Pub. L. 99–514, title XII, § 1241(c)][/us/pl/99/514/s1241/c], title XVIII, § 1876(d)(3), Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580], 2899; [Pub. L. 100–647, title I, § 1012(q)(10)][/us/pl/100/647/s1012/q/10], Nov. 10, 1988, [102 Stat. 3524][/us/stat/102/3524]; [Pub. L. 110–172, § 11(g)(11)][/us/pl/110/172/s11/g/11], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+(Added [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 106(a)(1), Nov. 13, 1966, [80 Stat. 1568][/us/stat/80/1568]; amended [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 801(d)(3), July 18, 1984, [98 Stat. 996][/us/stat/98/996]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1241(c), title XVIII, § 1876(d)(3), Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580], 2899; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(q)(10), Nov. 10, 1988, [102 Stat. 3524][/us/stat/102/3524]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(11), Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 
     1988—Subsec. (b)(6), (7). [Pub. L. 100–647][/us/pl/100/647] redesignated par. (6), relating to credit against tax imposed by section 884, as (7).
 
-    1986—Subsec. (b)(6). [Pub. L. 99–514, § 1876(d)(3)][/us/pl/99/514/s1876/d/3], added par. (6) relating to credit for income, war profits, and excess profits taxes paid or accrued to a foreign country or possession of the United States.
+    1986—Subsec. (b)(6). [Pub. L. 99–514][/us/pl/99/514], § 1876(d)(3), added par. (6) relating to credit for income, war profits, and excess profits taxes paid or accrued to a foreign country or possession of the United States.
 
-    [Pub. L. 99–514, § 1241(c)][/us/pl/99/514/s1241/c], added par. (6) relating to credit against tax imposed by section 884.
+    [Pub. L. 99–514][/us/pl/99/514], § 1241(c), added par. (6) relating to credit against tax imposed by section 884.
 
     1984—Subsec. (b)(5). [Pub. L. 98–369][/us/pl/98/369] added par. (5).
 
@@ -61,7 +61,7 @@
 
     Amendment by [section 1241(c) of Pub. L. 99–514][/us/pl/99/514/s1241/c] applicable to taxable years beginning after Dec. 31, 1986, see [section 1241(e) of Pub. L. 99–514][/us/pl/99/514/s1241/e], set out as an Effective Date note under [section 884 of this title][/us/usc/t26/s884].
 
-    Amendment by [section 1876(d)(3) of Pub. L. 99–514][/us/pl/99/514/s1876/d/3] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [section 1876(d)(3) of Pub. L. 99–514][/us/pl/99/514/s1876/d/3] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -82,20 +82,20 @@
 ----------
 ----------
 
-[/us/pl/89/809/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs106%2Fa%2F1
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1568
-[/us/pl/98/369/s801/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F3
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F996
-[/us/pl/99/514/s1241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2580
-[/us/pl/100/647/s1012/q/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F10
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3524
-[/us/pl/110/172/s11/g/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F11
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/514/s1876/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fd%2F3
-[/us/pl/99/514/s1241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fc
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -105,7 +105,7 @@
 [/us/pl/99/514/s1241/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1241%2Fe
 [/us/usc/t26/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs884
 [/us/pl/99/514/s1876/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1876%2Fd%2F3
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

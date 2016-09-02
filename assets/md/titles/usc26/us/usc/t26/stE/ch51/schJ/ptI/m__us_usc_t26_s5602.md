@@ -17,7 +17,7 @@
 
     Whenever any person engaged in or carrying on the business of a distiller defrauds, attempts to defraud, or engages in such business with intent to defraud the United States of the tax on the spirits distilled by him, or of any part thereof, he shall be fined not more than $10,000, or imprisoned not more than 5 years, or both. No discontinuance or nolle prosequi of any prosecution under this section shall be allowed without the permission in writing of the Attorney General.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1400][/us/stat/72/1400].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1400][/us/stat/72/1400].)
 
  __Prior Provisions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1400
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F863

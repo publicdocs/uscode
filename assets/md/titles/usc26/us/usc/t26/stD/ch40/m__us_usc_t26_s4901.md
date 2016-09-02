@@ -23,7 +23,7 @@
 
         All special taxes shall be imposed as of on the first day of July in each year, or on commencing any trade or business on which such tax is imposed. In the former case the tax shall be reckoned for 1 year, and in the latter case it shall be reckoned proportionately, from the first day of the month in which the liability to a special tax commenced, to and including the 30th day of June following.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 593][/us/stat/68A/593]; [Pub. L. 89–44, title IV, § 405(b)][/us/pl/89/44/s405/b], June 21, 1965, [79 Stat. 149][/us/stat/79/149]; [Pub. L. 91–513, title III, § 1102(a)][/us/pl/91/513/s1102/a], Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX, § 1904(a)(19)][/us/pl/94/455/s1904/a/19], Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814]; [Pub. L. 95–600, title V, § 521(c)(2)][/us/pl/95/600/s521/c/2], Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 593][/us/stat/68A/593]; [Pub. L. 89–44, title IV][/us/pl/89/44/tIV], § 405(b), June 21, 1965, [79 Stat. 149][/us/stat/79/149]; [Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1102(a), Oct. 27, 1970, [84 Stat. 1292][/us/stat/84/1292]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(19), Oct. 4, 1976, [90 Stat. 1814][/us/stat/90/1814]; [Pub. L. 95–600, title V][/us/pl/95/600/tV], § 521(c)(2), Nov. 6, 1978, [92 Stat. 2884][/us/stat/92/2884].)
 
  __Amendments__ 
 
@@ -68,13 +68,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F593
-[/us/pl/89/44/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs405%2Fb
+[/us/pl/89/44/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtIV
 [/us/stat/79/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F149
-[/us/pl/91/513/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2Fs1102%2Fa
+[/us/pl/91/513/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtIII
 [/us/stat/84/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1292
-[/us/pl/94/455/s1904/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F19
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1814
-[/us/pl/95/600/s521/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs521%2Fc%2F2
+[/us/pl/95/600/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtV
 [/us/stat/92/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2884
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

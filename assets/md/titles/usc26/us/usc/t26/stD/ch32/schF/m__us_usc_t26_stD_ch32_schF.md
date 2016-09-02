@@ -67,9 +67,9 @@
 
  __Amendments__ 
 
-    1958—[Pub. L. 85–859, title I][/us/pl/85/859], §§ 117(d), 119(b)(3), Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281], 1286, substituted “Leases” for “Lease considered sale” in item 4217, and struck out items 4220 to 4225.
+    1958—[Pub. L. 85–859, title I][/us/pl/85/859/tI], §§ 117(d), 119(b)(3), Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281], 1286, substituted “Leases” for “Lease considered sale” in item 4217, and struck out items 4220 to 4225.
 
-    1956—[Act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 207(b), [70 Stat. 392][/us/stat/70/392], added item 4226 and redesignated former item 4226 as 4227.
+    1956—[Act June 29, 1956, ch. 462, title II][/us/act/1956-06-29/ch462/tII], § 207(b), [70 Stat. 392][/us/stat/70/392], added item 4226 and redesignated former item 4226 as 4227.
 
 ----------
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1281
-[/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
+[/us/act/1956-06-29/ch462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462%2FtII
 [/us/stat/70/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F392
 
 

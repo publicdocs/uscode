@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title I, § 101(j)(62)][/us/pl/91/172/s101/j/62], Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], inserted reference to certain excise taxes in subchapter heading.
+    1969—[Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(62), Dec. 30, 1969, [83 Stat. 532][/us/stat/83/532], inserted reference to certain excise taxes in subchapter heading.
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/j/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F62
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F532
 
 

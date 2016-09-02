@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(27)(B)][/us/pl/94/455/s1901/b/27/B], Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], struck out item 972 “Consolidation of group of export trade corporations”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(27)(B), Oct. 4, 1976, [90 Stat. 1799][/us/stat/90/1799], struck out item 972 “Consolidation of group of export trade corporations”.
 
-    1962—[Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1027][/us/stat/76/1027], added heading of subpart G, and items 970 to 972.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 12(a), Oct. 16, 1962, [76 Stat. 1027][/us/stat/76/1027], added heading of subpart G, and items 970 to 972.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F27%2FB
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1799
-[/us/pl/87/834/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs12%2Fa
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1027
 
 

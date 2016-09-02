@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t26/stB/ch13/schG/m__us_usc_t26_s2663.md) | [Next](./../../../../../..//us/usc/t26/stB/ch14/m__us_usc_t26_stB_ch14.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2664)
 
-## \[§ 2664. Repealed. [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300]\]
+## \[§ 2664. Repealed. [Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(a), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300]\]
 
-    Section, added [Pub. L. 107–16, title V, § 501(b)][/us/pl/107/16/s501/b], June 7, 2001, [115 Stat. 69][/us/stat/115/69], related to termination of applicability of chapter to generation-skipping transfers after Dec. 31, 2009.
+    Section, added [Pub. L. 107–16, title V][/us/pl/107/16/tV], § 501(b), June 7, 2001, [115 Stat. 69][/us/stat/115/69], related to termination of applicability of chapter to generation-skipping transfers after Dec. 31, 2009.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
-[/us/pl/107/16/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs501%2Fb
+[/us/pl/107/16/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtV
 [/us/stat/115/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F69
 [/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121

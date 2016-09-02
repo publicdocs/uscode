@@ -17,15 +17,15 @@
 
     This chapter may be cited as the “National Firearms Act” and any reference in any other provision of law to the “National Firearms Act” shall be held to refer to the provisions of this chapter.
 
-(Added [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
+(Added [Pub. L. 90–618, title II][/us/pl/90/618/tII], § 201, Oct. 22, 1968, [82 Stat. 1232][/us/stat/82/1232].)
 
  __Prior Provisions__ 
 
-    A prior section 5849, [Pub. L. 85–859, title II, § 203(g)(1)][/us/pl/85/859/s203/g/1], Sept. 2, 1958, [72 Stat. 1427][/us/stat/72/1427], consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
+    A prior section 5849, [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 203(g)(1), Sept. 2, 1958, [72 Stat. 1427][/us/stat/72/1427], consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by [Pub. L. 90–618][/us/pl/90/618].
 
  __Short Title__ 
 
-[Pub. L. 90–618, title II, § 202][/us/pl/90/618/s202], Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235], provided that: 
+[Pub. L. 90–618, title II][/us/pl/90/618/tII], § 202, Oct. 22, 1968, [82 Stat. 1235][/us/stat/82/1235], provided that: 
 
 > “The amendments made by [section 201 of this title][/us/usc/t26/s201] \[enacting this chapter\] shall be cited as the ‘National Firearms Act Amendments of 1968’.”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/90/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs201
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1232
-[/us/pl/85/859/s203/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs203%2Fg%2F1
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1427
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
-[/us/pl/90/618/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2Fs202
+[/us/pl/90/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618%2FtII
 [/us/stat/82/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1235
 [/us/usc/t26/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs201
 

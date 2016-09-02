@@ -73,7 +73,7 @@
 
         For special rules applicable to deficiencies of income, estate, gift, and certain excise taxes, see subchapter B.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 767][/us/stat/68A/767]; [Pub. L. 89–44, title VIII, § 809(d)(4)(A)][/us/pl/89/44/s809/d/4/A], June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–53, § 2(b)][/us/pl/91/53/s2/b], Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; [Pub. L. 91–172, title I, § 101(j)(38)][/us/pl/91/172/s101/j/38], Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530]; [Pub. L. 91–258, title II, § 207(d)(1)][/us/pl/91/258/s207/d/1], (2), May 21, 1970, [84 Stat. 248][/us/stat/84/248]; [Pub. L. 93–406, title II, § 1016(a)(8)][/us/pl/93/406/s1016/a/8], Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–12, title II, § 204(b)(2)][/us/pl/94/12/s204/b/2], Mar. 29, 1975, [89 Stat. 31][/us/stat/89/31]; [Pub. L. 94–455, title XII, § 1206(c)(2)][/us/pl/94/455/s1206/c/2], title XIII, § 1307(d)(2)(D), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1704][/us/stat/90/1704], 1727, 1834; [Pub. L. 97–424, title V, § 515(b)(6)(E)][/us/pl/97/424/s515/b/6/E], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–76, title II, § 231(b)(2)(A)][/us/pl/98/76/s231/b/2/A], Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 412(b)(5), 474(r)(32), July 18, 1984, [98 Stat. 792][/us/stat/98/792], 845; [Pub. L. 100–203, title X, § 10301(b)(3)][/us/pl/100/203/s10301/b/3], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 100–647, title I, § 1015(r)(1)][/us/pl/100/647/s1015/r/1], title VII, § 7106(c)(2), Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572], 3773; [Pub. L. 104–168, title VI, § 602(a)][/us/pl/104/168/s602/a], July 30, 1996, [110 Stat. 1463][/us/stat/110/1463]; [Pub. L. 111–237, § 3(a)][/us/pl/111/237/s3/a], Aug. 16, 2010, [124 Stat. 2497][/us/stat/124/2497].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 767][/us/stat/68A/767]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 809(d)(4)(A), June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–53][/us/pl/91/53], § 2(b), Aug. 7, 1969, [83 Stat. 92][/us/stat/83/92]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(38), Dec. 30, 1969, [83 Stat. 530][/us/stat/83/530]; [Pub. L. 91–258, title II][/us/pl/91/258/tII], § 207(d)(1), (2), May 21, 1970, [84 Stat. 248][/us/stat/84/248]; [Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(a)(8), Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–12, title II][/us/pl/94/12/tII], § 204(b)(2), Mar. 29, 1975, [89 Stat. 31][/us/stat/89/31]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1206(c)(2), title XIII, § 1307(d)(2)(D), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1704][/us/stat/90/1704], 1727, 1834; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(6)(E), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(b)(2)(A), Aug. 12, 1983, [97 Stat. 429][/us/stat/97/429]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], §§ 412(b)(5), 474(r)(32), July 18, 1984, [98 Stat. 792][/us/stat/98/792], 845; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(b)(3), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(r)(1), title VII, § 7106(c)(2), Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572], 3773; [Pub. L. 104–168, title VI][/us/pl/104/168/tVI], § 602(a), July 30, 1996, [110 Stat. 1463][/us/stat/110/1463]; [Pub. L. 111–237][/us/pl/111/237], § 3(a), Aug. 16, 2010, [124 Stat. 2497][/us/stat/124/2497].)
 
  __Amendments__ 
 
@@ -81,25 +81,25 @@
 
     1996—Subsecs. (d), (e). [Pub. L. 104–168][/us/pl/104/168] added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    1988—Subsec. (a)(4). [Pub. L. 100–647, § 1015(r)(1)][/us/pl/100/647/s1015/r/1], struck out par. (4) which read as follows: “If on any return or claim for refund of income taxes under subtitle A there is an overstatement of the credit allowable by section 34 (relating to certain uses of gasoline and special fuels) or section 32 (relating to earned income), the amount so overstated which is allowed against the tax shown on the return or which is allowed as a credit or refund may be assessed by the Secretary in the same manner as in the case of a mathematical or clerical error appearing upon the return, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph.”
+    1988—Subsec. (a)(4). [Pub. L. 100–647][/us/pl/100/647], § 1015(r)(1), struck out par. (4) which read as follows: “If on any return or claim for refund of income taxes under subtitle A there is an overstatement of the credit allowable by section 34 (relating to certain uses of gasoline and special fuels) or section 32 (relating to earned income), the amount so overstated which is allowed against the tax shown on the return or which is allowed as a credit or refund may be assessed by the Secretary in the same manner as in the case of a mathematical or clerical error appearing upon the return, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph.”
 
-    Subsec. (b)(2). [Pub. L. 100–647, § 7106(c)(2)][/us/pl/100/647/s7106/c/2], struck out “or tax imposed by section 3321” after “employment tax”.
+    Subsec. (b)(2). [Pub. L. 100–647][/us/pl/100/647], § 7106(c)(2), struck out “or tax imposed by section 3321” after “employment tax”.
 
     1987—Subsec. (b)(1). [Pub. L. 100–203][/us/pl/100/203] substituted “section 6654 or 6655” for “section 6154 or 6654”.
 
-    1984—Subsec. (a)(4). [Pub. L. 98–369, § 474(r)(32)][/us/pl/98/369/s474/r/32], substituted “section 32 or 34” for “section 39 or 43” in heading, and in text substituted “section 34” for “section 39” and “section 32” for “section 43”.
+    1984—Subsec. (a)(4). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(32), substituted “section 32 or 34” for “section 39 or 43” in heading, and in text substituted “section 34” for “section 39” and “section 32” for “section 43”.
 
-    Subsec. (b)(1). [Pub. L. 98–369, § 412(b)(5)][/us/pl/98/369/s412/b/5], amended par. (1) generally, substituting “estimated income tax required to be paid under section 6154 or 6654” for “estimated tax under section 6153 or 6154”.
+    Subsec. (b)(1). [Pub. L. 98–369][/us/pl/98/369], § 412(b)(5), amended par. (1) generally, substituting “estimated income tax required to be paid under section 6154 or 6654” for “estimated tax under section 6153 or 6154”.
 
     1983—Subsec. (a)(4). [Pub. L. 97–424][/us/pl/97/424] substituted “and special fuels” for “, special fuels, and lubricating oil” after “gasoline”.
 
     Subsec. (b)(2). [Pub. L. 98–76][/us/pl/98/76] substituted “Federal unemployment tax or tax imposed by section 3321” for “Federal unemployment tax”.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
     Subsec. (a)(3), (4). [Pub. L. 94–455][/us/pl/94/455], §§ 1206(c)(2), 1906(b)(13)(A), struck out “or his delegate” after “Secretary”, substituted “mathematical or clerical error” for “mathematical error” after “the case of”, and inserted “, except that the provisions of section 6213(b)(2) (relating to abatement of mathematical or clerical error assessments) shall not apply with regard to any assessment under this paragraph” after “upon the return”.
 
-    Subsec. (d). [Pub. L. 94–455, § 1307(d)(2)(D)][/us/pl/94/455/s1307/d/2/D], substituted “and certain excise taxes” for “chapter 42, and chapter 43 taxes” after “estate, gift”.
+    Subsec. (d). [Pub. L. 94–455][/us/pl/94/455], § 1307(d)(2)(D), substituted “and certain excise taxes” for “chapter 42, and chapter 43 taxes” after “estate, gift”.
 
     1975—Subsec. (a)(4). [Pub. L. 94–12][/us/pl/94/12] inserted reference to section 43 in heading and substituted “oil) or section 43 (relating to earned income),” for “oil),” in text.
 
@@ -115,19 +115,19 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–237, § 3(c)][/us/pl/111/237/s3/c], Aug. 16, 2010, [124 Stat. 2498][/us/stat/124/2498], provided that: 
+[Pub. L. 111–237][/us/pl/111/237], § 3(c), Aug. 16, 2010, [124 Stat. 2498][/us/stat/124/2498], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6213 and 6501 of this title\] shall apply to restitution ordered after the date of the enactment of this Act \[Aug. 16, 2010\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title VI, § 602(b)][/us/pl/104/168/s602/b], July 30, 1996, [110 Stat. 1463][/us/stat/110/1463], provided that: 
+[Pub. L. 104–168, title VI][/us/pl/104/168/tVI], § 602(b), July 30, 1996, [110 Stat. 1463][/us/stat/110/1463], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1015(r)(4)][/us/pl/100/647/s1015/r/4], Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(r)(4), Nov. 10, 1988, [102 Stat. 3573][/us/stat/102/3573], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 6211 and 6213 of this title\] shall apply to notices of deficiencies mailed after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -187,57 +187,57 @@
 [/us/usc/t18/s3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3556
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F767
-[/us/pl/89/44/s809/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs809%2Fd%2F4%2FA
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F168
-[/us/pl/91/53/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53%2Fs2%2Fb
+[/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/stat/83/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F92
-[/us/pl/91/172/s101/j/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F38
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F530
-[/us/pl/91/258/s207/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs207%2Fd%2F1
+[/us/pl/91/258/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2FtII
 [/us/stat/84/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F248
-[/us/pl/93/406/s1016/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fa%2F8
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F929
-[/us/pl/94/12/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs204%2Fb%2F2
+[/us/pl/94/12/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtII
 [/us/stat/89/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F31
-[/us/pl/94/455/s1206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1206%2Fc%2F2
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1704
-[/us/pl/97/424/s515/b/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F6%2FE
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2182
-[/us/pl/98/76/s231/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fb%2F2%2FA
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F429
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F792
-[/us/pl/100/203/s10301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fb%2F3
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-429
-[/us/pl/100/647/s1015/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fr%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3572
-[/us/pl/104/168/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs602%2Fa
+[/us/pl/104/168/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVI
 [/us/stat/110/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1463
-[/us/pl/111/237/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237%2Fs3%2Fa
+[/us/pl/111/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237
 [/us/stat/124/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2497
 [/us/pl/111/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
-[/us/pl/100/647/s1015/r/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fr%2F1
-[/us/pl/100/647/s7106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fc%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/98/369/s474/r/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F32
-[/us/pl/98/369/s412/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs412%2Fb%2F5
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
 [/us/pl/98/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s1307/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F2%2FD
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
 [/us/pl/91/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F53
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
-[/us/pl/111/237/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237%2Fs3%2Fc
+[/us/pl/111/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237
 [/us/stat/124/2498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2498
-[/us/pl/104/168/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs602%2Fb
+[/us/pl/104/168/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVI
 [/us/stat/110/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1463
-[/us/pl/100/647/s1015/r/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fr%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3573
 [/us/pl/100/647/s7106/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fc%2F2
 [/us/pl/100/647/s7106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fd

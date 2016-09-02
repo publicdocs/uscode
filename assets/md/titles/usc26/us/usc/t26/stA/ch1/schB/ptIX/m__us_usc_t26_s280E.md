@@ -17,7 +17,7 @@
 
     No deduction or credit shall be allowed for any amount paid or incurred during the taxable year in carrying on any trade or business if such trade or business (or the activities which comprise such trade or business) consists of trafficking in controlled substances (within the meaning of schedule I and II of the Controlled Substances Act) which is prohibited by Federal law or the law of any State in which such trade or business is conducted.
 
-(Added [Pub. L. 97–248, title III, § 351(a)][/us/pl/97/248/s351/a], Sept. 3, 1982, [96 Stat. 640][/us/stat/96/640].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 351(a), Sept. 3, 1982, [96 Stat. 640][/us/stat/96/640].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title III, § 351(c)][/us/pl/97/248/s351/c], Sept. 3, 1982, [96 Stat. 640][/us/stat/96/640], provided that: 
+[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 351(c), Sept. 3, 1982, [96 Stat. 640][/us/stat/96/640], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Sept. 3, 1982\] in taxable years ending after such date.”
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/97/248/s351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs351%2Fa
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F640
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/97/248/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs351%2Fc
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F640
 
 

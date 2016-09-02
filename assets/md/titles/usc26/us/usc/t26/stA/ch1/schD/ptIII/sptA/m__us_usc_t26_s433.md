@@ -781,7 +781,7 @@
 
                 The term “plan sponsor” means, with respect to a CSEC plan, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.
 
-(Added [Pub. L. 113–97, title II, § 202(a)][/us/pl/113/97/s202/a], Apr. 7, 2014, [128 Stat. 1122][/us/stat/128/1122].)
+(Added [Pub. L. 113–97, title II][/us/pl/113/97/tII], § 202(a), Apr. 7, 2014, [128 Stat. 1122][/us/stat/128/1122].)
 
  __References in Text__ 
 
@@ -806,7 +806,7 @@
 ----------
 ----------
 
-[/us/pl/113/97/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fa
+[/us/pl/113/97/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtII
 [/us/stat/128/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1122
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280

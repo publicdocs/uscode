@@ -17,7 +17,7 @@
 
     This subtitle may be cited as the “Trust Fund Code of 1981”.
 
-(Added [Pub. L. 97–119, title I, § 103(a)][/us/pl/97/119/s103/a], Dec. 29, 1981, [95 Stat. 1636][/us/stat/95/1636].)
+(Added [Pub. L. 97–119, title I][/us/pl/97/119/tI], § 103(a), Dec. 29, 1981, [95 Stat. 1636][/us/stat/95/1636].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/119/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2Fs103%2Fa
+[/us/pl/97/119/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F119%2FtI
 [/us/stat/95/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1636
 
 

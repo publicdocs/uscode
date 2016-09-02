@@ -37,11 +37,11 @@
 
             Except as provided in regulations, the term “import” means the entering, or withdrawal from warehouse, for consumption.
 
-(Added [Pub. L. 99–514, title XII, § 1248(a)][/us/pl/99/514/s1248/a], Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1248(a), Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584].)
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XII, § 1248(c)][/us/pl/99/514/s1248/c], Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1248(c), Oct. 22, 1986, [100 Stat. 2584][/us/stat/100/2584], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after March 18, 1986.”
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1248/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1248%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2584
-[/us/pl/99/514/s1248/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1248%2Fc
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2584
 
 

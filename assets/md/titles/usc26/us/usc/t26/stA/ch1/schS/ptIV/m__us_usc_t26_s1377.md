@@ -77,21 +77,21 @@
 
         Any election under this subchapter, and any revocation under section 1362(d)(1), shall be made in such manner as the Secretary shall by regulations prescribe.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1685][/us/stat/96/1685]; amended [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1306–1307(b), Aug. 20, 1996, [110 Stat. 1780][/us/stat/110/1780]; [Pub. L. 108–311, title IV, § 407(a)][/us/pl/108/311/s407/a], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1685][/us/stat/96/1685]; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], §§ 1306–1307(b), Aug. 20, 1996, [110 Stat. 1780][/us/stat/110/1780]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 407(a), Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190].)
 
  __Prior Provisions__ 
 
-    A prior section 1377, added [Pub. L. 85–866, title I, § 64(a)][/us/pl/85/866/s64/a], Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; amended [Pub. L. 94–455, title IX, § 902(b)(1)][/us/pl/94/455/s902/b/1], title XIX, § 1901(b)(32)(B)(iv), Oct. 4, 1976, [90 Stat. 1608][/us/stat/90/1608], 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
+    A prior section 1377, added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 64(a), Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656]; amended [Pub. L. 94–455, title IX][/us/pl/94/455/tIX], § 902(b)(1), title XIX, § 1901(b)(32)(B)(iv), Oct. 4, 1976, [90 Stat. 1608][/us/stat/90/1608], 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
 
  __Amendments__ 
 
     2004—Subsec. (b)(3). [Pub. L. 108–311][/us/pl/108/311] added par. (3).
 
-    1996—Subsec. (a)(2). [Pub. L. 104–188, § 1306][/us/pl/104/188/s1306], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
+    1996—Subsec. (a)(2). [Pub. L. 104–188][/us/pl/104/188], § 1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
 
-    Subsec. (b)(1)(A) to (C). [Pub. L. 104–188, § 1307(a)][/us/pl/104/188/s1307/a], struck out “and” at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
+    Subsec. (b)(1)(A) to (C). [Pub. L. 104–188][/us/pl/104/188], § 1307(a), struck out “and” at end of subpar. (A)(ii), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-    Subsec. (b)(2)(A) to (C). [Pub. L. 104–188, § 1307(b)][/us/pl/104/188/s1307/b], added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (b)(2)(A) to (C). [Pub. L. 104–188][/us/pl/104/188], § 1307(b), added subpar. (A), redesignated subpar. (C) as (B), and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) a court decision which becomes final,
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1996 Amendments__ 
 
-[Pub. L. 105–34, title XVI, § 1601(c)(2)][/us/pl/105/34/s1601/c/2], Aug. 5, 1997, [111 Stat. 1087][/us/stat/111/1087], provided that:
+[Pub. L. 105–34, title XVI][/us/pl/105/34/tXVI], § 1601(c)(2), Aug. 5, 1997, [111 Stat. 1087][/us/stat/111/1087], provided that:
 
 >     “(A) Notwithstanding section 1317 of the Small Business Job Protection Act of 1996 \[[Pub. L. 104–188][/us/pl/104/188], enacting provisions set out as notes under sections 641 and 1362 of this title\], the amendments made by subsections (a) and (b) of section 1307 of such Act \[amending this section\] shall apply to determinations made after December 31, 1996.
 
@@ -122,26 +122,26 @@
 ----------
 ----------
 
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1685
-[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1780
-[/us/pl/108/311/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs407%2Fa
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1190
-[/us/pl/85/866/s64/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1656
-[/us/pl/94/455/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs902%2Fb%2F1
+[/us/pl/94/455/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtIX
 [/us/stat/90/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1608
 [/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
-[/us/pl/104/188/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1306
-[/us/pl/104/188/s1307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fa
-[/us/pl/104/188/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1307%2Fb
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/108/311/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs407%2Fc
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/105/34/s1601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fc%2F2
+[/us/pl/105/34/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXVI
 [/us/stat/111/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1087
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

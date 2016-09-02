@@ -59,13 +59,13 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter D, relating to records of manufacturers and importers of tobacco products, etc., was redesignated subchapter E by [Pub. L. 100–203, title X, § 10512(f)(1)][/us/pl/100/203/s10512/f/1], Dec. 22, 1987, [101 Stat. 1330–449][/us/stat/101/1330-449].
+    A prior subchapter D, relating to records of manufacturers and importers of tobacco products, etc., was redesignated subchapter E by [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10512(f)(1), Dec. 22, 1987, [101 Stat. 1330–449][/us/stat/101/1330-449].
 
-    Another prior subchapter D, which consisted of sections 5731 and 5732 of this title, was repealed by [Pub. L. 89–44, title V, § 502(b)(7)][/us/pl/89/44/s502/b/7], June 21, 1965, [79 Stat. 151][/us/stat/79/151], applicable on and after Jan. 1, 1966.
+    Another prior subchapter D, which consisted of sections 5731 and 5732 of this title, was repealed by [Pub. L. 89–44, title V][/us/pl/89/44/tV], § 502(b)(7), June 21, 1965, [79 Stat. 151][/us/stat/79/151], applicable on and after Jan. 1, 1966.
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11125(b)(20)(D)][/us/pl/109/59/s11125/b/20/D], Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957], added items 5732 to 5734.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(20)(D), Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957], added items 5732 to 5734.
 
 ----------
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10512/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10512%2Ff%2F1
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-449
-[/us/pl/89/44/s502/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs502%2Fb%2F7
+[/us/pl/89/44/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtV
 [/us/stat/79/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F151
-[/us/pl/109/59/s11125/b/20/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F20%2FD
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1957
 
 

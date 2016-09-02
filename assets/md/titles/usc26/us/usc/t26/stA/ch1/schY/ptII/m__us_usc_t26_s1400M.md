@@ -41,7 +41,7 @@
 
         The term “Hurricane Wilma disaster area” means an area with respect to which a major disaster has been declared by the President before November 14, 2005, under section 401 of such Act by reason of Hurricane Wilma.
 
-(Added [Pub. L. 109–135, title I, § 101(a)][/us/pl/109/135/s101/a], Dec. 21, 2005, [119 Stat. 2578][/us/stat/119/2578].)
+(Added [Pub. L. 109–135, title I][/us/pl/109/135/tI], § 101(a), Dec. 21, 2005, [119 Stat. 2578][/us/stat/119/2578].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/109/135/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs101%2Fa
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2578
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143

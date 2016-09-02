@@ -17,7 +17,7 @@
 
     Except as otherwise specifically provided by law, sections 2034 to 2042, inclusive, shall apply to the transfers, trusts, estates, interests, rights, powers, and relinquishment of powers, as severally enumerated and described therein, whenever made, created, arising, existing, exercised, or relinquished.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388], § 2044; [Pub. L. 94–455, title XX, § 2001(c)(1)(M)][/us/pl/94/455/s2001/c/1/M], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; renumbered § 2045, [Pub. L. 97–34, title IV, § 403(d)(3)(A)(i)][/us/pl/97/34/s403/d/3/A/i], Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 388][/us/stat/68A/388], § 2044; [Pub. L. 94–455, title XX][/us/pl/94/455/tXX], § 2001(c)(1)(M), Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; renumbered § 2045, [Pub. L. 97–34, title IV][/us/pl/97/34/tIV], § 403(d)(3)(A)(i), Aug. 13, 1981, [95 Stat. 304][/us/stat/95/304].)
 
  __Prior Provisions__ 
 
@@ -40,9 +40,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F388
-[/us/pl/94/455/s2001/c/1/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FM
+[/us/pl/94/455/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXX
 [/us/stat/90/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1853
-[/us/pl/97/34/s403/d/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fd%2F3%2FA%2Fi
+[/us/pl/97/34/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtIV
 [/us/stat/95/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F304
 [/us/usc/t26/s2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2046
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

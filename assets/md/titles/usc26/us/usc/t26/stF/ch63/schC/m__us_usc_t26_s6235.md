@@ -63,7 +63,7 @@
 
         (2) for 1 year thereafter.
 
-(Added [Pub. L. 114–74, title XI, § 1101(c)(1)][/us/pl/114/74/s1101/c/1], Nov. 2, 2015, [129 Stat. 635][/us/stat/129/635]; amended [Pub. L. 114–113, div. Q, title IV, § 411(c)][/us/pl/114/113/s411/c], Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122].)
+(Added [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(c)(1), Nov. 2, 2015, [129 Stat. 635][/us/stat/129/635]; amended [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 411(c), Dec. 18, 2015, [129 Stat. 3122][/us/stat/129/3122].)
 
  __Delayed Applicability of Section__ 
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(2). [Pub. L. 114–113, § 411(c)(1)][/us/pl/114/113/s411/c/1], substituted “paragraph (7)” for “paragraph (4)”.
+    2015—Subsec. (a)(2). [Pub. L. 114–113][/us/pl/114/113], § 411(c)(1), substituted “paragraph (7)” for “paragraph (4)”.
 
-    Subsec. (a)(3). [Pub. L. 114–113, § 411(c)(2)][/us/pl/114/113/s411/c/2], substituted “330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)” for “270 days”.
+    Subsec. (a)(3). [Pub. L. 114–113][/us/pl/114/113], § 411(c)(2), substituted “330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)” for “270 days”.
 
  __Effective Date of 2015 Amendment__ 
 
@@ -91,12 +91,12 @@
 ----------
 
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/114/74/s1101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fc%2F1
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F635
-[/us/pl/114/113/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3122
-[/us/pl/114/113/s411/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc%2F1
-[/us/pl/114/113/s411/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fc%2F2
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
 [/us/pl/114/113/s411/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fe

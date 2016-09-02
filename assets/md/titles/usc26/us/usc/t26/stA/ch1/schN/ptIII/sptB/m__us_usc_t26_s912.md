@@ -45,7 +45,7 @@
 
         (D) such portion of living allowances as the President may determine under the Peace Corps Act as constituting basic compensation.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 290][/us/stat/68A/290]; [Pub. L. 86–707, title V, § 523(a)][/us/pl/86/707/s523/a], Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802]; [Pub. L. 87–293, title II, § 201(a)][/us/pl/87/293/s201/a], Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625]; [Pub. L. 96–465, title II, § 2206(e)(3)][/us/pl/96/465/s2206/e/3], Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 100–647, title VI, § 6137(a)][/us/pl/100/647/s6137/a], Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 290][/us/stat/68A/290]; [Pub. L. 86–707, title V][/us/pl/86/707/tV], § 523(a), Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802]; [Pub. L. 87–293, title II][/us/pl/87/293/tII], § 201(a), Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(e)(3), Oct. 17, 1980, [94 Stat. 2163][/us/stat/94/2163]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6137(a), Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title VI, § 6137(b)][/us/pl/100/647/s6137/b], Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723], provided that: 
+[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6137(b), Nov. 10, 1988, [102 Stat. 3723][/us/stat/102/3723], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to allowances received after October 12, 1987, in taxable years ending after such date.”
 
@@ -81,21 +81,21 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–293, title II, § 201(d)][/us/pl/87/293/s201/d], Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625], provided that: 
+[Pub. L. 87–293, title II][/us/pl/87/293/tII], § 201(d), Sept. 22, 1961, [75 Stat. 625][/us/stat/75/625], provided that: 
 
 > “The amendments made by subsections (a) and (b) of this section \[amending this section and [section 1303 of this title][/us/usc/t26/s1303]\] shall apply with respect to taxable years ending after March 1, 1961. The amendment made by subsection (c) \[amending [section 3401 of this title][/us/usc/t26/s3401]\] shall apply with respect to remuneration paid after the date of the enactment of this Act \[Sept. 22, 1961\].”
 
-    \[[Section 201(d) of Pub. L. 87–293][/us/pl/87/293/s201/d] was repealed by [Pub. L. 89–572, § 5(a)][/us/pl/89/572/s5/a], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]. Such repeal not deemed to affect amendments contained in such provisions, see sections 5(b) of [Pub. L. 89–572][/us/pl/89/572], set out as a note under former [section 2515 of Title 22][/us/usc/t22/s2515], Foreign Relations and Intercourse.\]
+    \[[Section 201(d) of Pub. L. 87–293][/us/pl/87/293/s201/d] was repealed by [Pub. L. 89–572][/us/pl/89/572], § 5(a), Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]. Such repeal not deemed to affect amendments contained in such provisions, see sections 5(b) of [Pub. L. 89–572][/us/pl/89/572], set out as a note under former [section 2515 of Title 22][/us/usc/t22/s2515], Foreign Relations and Intercourse.\]
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–707, title V, § 523(b)][/us/pl/86/707/s523/b], Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 86–707, title V][/us/pl/86/707/tV], § 523(b), Sept. 6, 1960, [74 Stat. 802][/us/stat/74/802], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “Paragraphs (1) and (2) of section 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a) of this section, shall apply only with respect to amounts received on or after the date of the enactment of this Act \[Sept. 6, 1960\] in taxable years ending on or after such date.”
 
  __Repeals; Amendments and Application of Amendments Unaffected__ 
 
-    [Section 201(a) of Pub. L. 87–293][/us/pl/87/293/s201/a], cited as a credit to this section, was repealed by [Pub. L. 89–572, § 5(a)][/us/pl/89/572/s5/a], Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see [section 5(b) of Pub. L. 89–572][/us/pl/89/572/s5/b], set out as a note under former [section 2515 of Title 22][/us/usc/t22/s2515], Foreign Relations and Intercourse.
+    [Section 201(a) of Pub. L. 87–293][/us/pl/87/293/s201/a], cited as a credit to this section, was repealed by [Pub. L. 89–572][/us/pl/89/572], § 5(a), Sept. 13, 1966, [80 Stat. 765][/us/stat/80/765]. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued undertaken, or entered into under authority of the repealed provisions, see [section 5(b) of Pub. L. 89–572][/us/pl/89/572/s5/b], set out as a note under former [section 2515 of Title 22][/us/usc/t22/s2515], Foreign Relations and Intercourse.
 
  __Delegation of Functions__ 
 
@@ -105,7 +105,7 @@
 
  __Treatment of Employees of Panama Canal Commission and Department of Defense__ 
 
-[Pub. L. 99–514, title XII, § 1232(b)][/us/pl/99/514/s1232/b], Oct. 22, 1986, [100 Stat. 2564][/us/stat/100/2564], provided that: 
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1232(b), Oct. 22, 1986, [100 Stat. 2564][/us/stat/100/2564], provided that: 
 
 > “Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986.”
 
@@ -118,13 +118,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F290
-[/us/pl/86/707/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs523%2Fa
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F802
-[/us/pl/87/293/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs201%2Fa
+[/us/pl/87/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtII
 [/us/stat/75/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F625
-[/us/pl/96/465/s2206/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fe%2F3
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2163
-[/us/pl/100/647/s6137/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6137%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3723
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -145,32 +145,32 @@
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/87/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293
 [/us/pl/86/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707
-[/us/pl/100/647/s6137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6137%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3723
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/465/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2403
 [/us/usc/t22/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3901
-[/us/pl/87/293/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs201%2Fd
+[/us/pl/87/293/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2FtII
 [/us/stat/75/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F625
 [/us/usc/t26/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1303
 [/us/usc/t26/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3401
 [/us/pl/87/293/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs201%2Fd
-[/us/pl/89/572/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5%2Fa
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
 [/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/usc/t22/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2515
-[/us/pl/86/707/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2Fs523%2Fb
+[/us/pl/86/707/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F707%2FtV
 [/us/stat/74/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F802
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/87/293/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F293%2Fs201%2Fa
-[/us/pl/89/572/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5%2Fa
+[/us/pl/89/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572
 [/us/stat/80/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F765
 [/us/pl/89/572/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F572%2Fs5%2Fb
 [/us/usc/t22/s2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2515
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t5/s5921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5921
-[/us/pl/99/514/s1232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1232%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2564
 
 

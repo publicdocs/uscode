@@ -229,7 +229,7 @@
 
             In the case of a separation described in paragraph (1), the rules of section 1286 shall apply to the qualified tax credit bond as if it were a stripped bond and to the credit under this section as if it were a stripped coupon.
 
-(Added [Pub. L. 110–234, title XV, § 15316(a)][/us/pl/110/234/s15316/a], May 22, 2008, [122 Stat. 1505][/us/stat/122/1505], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2267; amended [Pub. L. 110–343, div. B, title I, § 107(b)(1)][/us/pl/110/343/s107/b/1], (2), title III, § 301(b)(1), (2), div. C, title III, § 313(b)(1), (2), Oct. 3, 2008, [122 Stat. 3818][/us/stat/122/3818], 3819, 3843, 3844, 3872; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], 360, 362; [Pub. L. 113–295, div. A, title II, § 220(e)][/us/pl/113/295/s220/e], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
+(Added [Pub. L. 110–234, title XV][/us/pl/110/234/tXV], § 15316(a), May 22, 2008, [122 Stat. 1505][/us/stat/122/1505], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2267; amended [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 107(b)(1), (2), title III, § 301(b)(1), (2), div. C, title III, § 313(b)(1), (2), Oct. 3, 2008, [122 Stat. 3818][/us/stat/122/3818], 3819, 3843, 3844, 3872; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], §§ 1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], 360, 362; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 220(e), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Codification__ 
 
@@ -239,15 +239,15 @@
 
     2014—Subsec. (d)(2)(A)(i). [Pub. L. 113–295][/us/pl/113/295] substituted “100 percent” for “100 percent or more”.
 
-    2009—Subsec. (c)(1)(B). [Pub. L. 111–5, § 1531(c)(2)][/us/pl/111/5/s1531/c/2], substituted “subparts C and J” for “subpart C”.
+    2009—Subsec. (c)(1)(B). [Pub. L. 111–5][/us/pl/111/5], § 1531(c)(2), substituted “subparts C and J” for “subpart C”.
 
-    Subsec. (d)(1)(E). [Pub. L. 111–5, § 1521(b)(1)][/us/pl/111/5/s1521/b/1], added subpar. (E).
+    Subsec. (d)(1)(E). [Pub. L. 111–5][/us/pl/111/5], § 1521(b)(1), added subpar. (E).
 
-    Subsec. (d)(2)(C)(v). [Pub. L. 111–5, § 1521(b)(2)][/us/pl/111/5/s1521/b/2], added cl. (v).
+    Subsec. (d)(2)(C)(v). [Pub. L. 111–5][/us/pl/111/5], § 1521(b)(2), added cl. (v).
 
-    Subsec. (h). [Pub. L. 111–5, § 1541(b)(2)][/us/pl/111/5/s1541/b/2], amended subsec. (h) generally. Prior to amendment, text read as follows: “If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.”
+    Subsec. (h). [Pub. L. 111–5][/us/pl/111/5], § 1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.”
 
-    2008—Subsec. (d)(1). [Pub. L. 110–343, § 301(b)(1)][/us/pl/110/343/s301/b/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
+    2008—Subsec. (d)(1). [Pub. L. 110–343][/us/pl/110/343], § 301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
 
     “(A) a qualified forestry conservation bond, or
 
@@ -255,23 +255,23 @@
 
     which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6).”
 
-    [Pub. L. 110–343, § 107(b)(1)][/us/pl/110/343/s107/b/1], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
+    [Pub. L. 110–343][/us/pl/110/343], § 107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
 
-    Subsec. (d)(1)(D). [Pub. L. 110–343, § 313(b)(1)][/us/pl/110/343/s313/b/1], added subpar. (D).
+    Subsec. (d)(1)(D). [Pub. L. 110–343][/us/pl/110/343], § 313(b)(1), added subpar. (D).
 
-    Subsec. (d)(2)(C). [Pub. L. 110–343, § 301(b)(2)][/us/pl/110/343/s301/b/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means—
+    Subsec. (d)(2)(C). [Pub. L. 110–343][/us/pl/110/343], § 301(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means—
 
     “(i) in the case of a qualified forestry conservation bond, a purpose specified in section 54B(e), and
 
     “(ii) in the case of a new clean renewable energy bond, a purpose specified in section 54C(a)(1).”
 
-    [Pub. L. 110–343, § 107(b)(2)][/us/pl/110/343/s107/b/2], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means a purpose specified in section 54B(e).”
+    [Pub. L. 110–343][/us/pl/110/343], § 107(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means a purpose specified in section 54B(e).”
 
-    Subsec. (d)(2)(C)(iv). [Pub. L. 110–343, § 313(b)(2)][/us/pl/110/343/s313/b/2], added cl. (iv).
+    Subsec. (d)(2)(C)(iv). [Pub. L. 110–343][/us/pl/110/343], § 313(b)(2), added cl. (iv).
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. B, title I, § 1521(c)][/us/pl/111/5/s1521/c], Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1521(c), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], provided that: 
 
 > “The amendments made by this section \[enacting [section 54F of this title][/us/usc/t26/s54F] and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
 
@@ -281,13 +281,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-    Amendment by section 107(b)(1), (2) of [Pub. L. 110–343][/us/pl/110/343] applicable to obligations issued after Oct. 3, 2008, see [section 107(d) of title I of div. B of Pub. L. 110–343][/us/pl/110/343/s107/d], set out as a note under [section 54 of this title][/us/usc/t26/s54].
+    Amendment by section 107(b)(1), (2) of [Pub. L. 110–343][/us/pl/110/343] applicable to obligations issued after Oct. 3, 2008, see [section 107(d) of title I of div. B of Pub. L. 110–343][/us/pl/110/343/dB/tI/s107/d], set out as a note under [section 54 of this title][/us/usc/t26/s54].
 
-[Pub. L. 110–343, div. B, title III, § 301(c)][/us/pl/110/343/s301/c], Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], provided that: 
+[Pub. L. 110–343, div. B, title III][/us/pl/110/343/dB/tIII], § 301(c), Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], provided that: 
 
 > “The amendments made by this section \[enacting [section 54D of this title][/us/usc/t26/s54D] and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
-[Pub. L. 110–343, div. C, title III, § 313(c)][/us/pl/110/343/s313/c], Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872], provided that: 
+[Pub. L. 110–343, div. C, title III][/us/pl/110/343/dC/tIII], § 313(c), Oct. 3, 2008, [122 Stat. 3872][/us/stat/122/3872], provided that: 
 
 > “The amendments made by this section \[enacting [section 54E of this title][/us/usc/t26/s54E] and amending this section and [section 1397E of this title][/us/usc/t26/s1397E]\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
@@ -304,32 +304,32 @@
 ----------
 ----------
 
-[/us/pl/110/234/s15316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15316%2Fa
+[/us/pl/110/234/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXV
 [/us/stat/122/1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1505
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/110/343/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fb%2F1
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3818
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F357
-[/us/pl/113/295/s220/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fe
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
-[/us/pl/111/5/s1531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fc%2F2
-[/us/pl/111/5/s1521/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fb%2F1
-[/us/pl/111/5/s1521/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fb%2F2
-[/us/pl/111/5/s1541/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1541%2Fb%2F2
-[/us/pl/110/343/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301%2Fb%2F1
-[/us/pl/110/343/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fb%2F1
-[/us/pl/110/343/s313/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fb%2F1
-[/us/pl/110/343/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301%2Fb%2F2
-[/us/pl/110/343/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fb%2F2
-[/us/pl/110/343/s313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fb%2F2
-[/us/pl/111/5/s1521/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fc
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F357
 [/us/usc/t26/s54F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54F
 [/us/pl/111/5/s1531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fc%2F2
@@ -339,12 +339,12 @@
 [/us/pl/111/5/s1541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1541%2Fc
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
-[/us/pl/110/343/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs107%2Fd
+[/us/pl/110/343/dB/tI/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI%2Fs107%2Fd
 [/us/usc/t26/s54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54
-[/us/pl/110/343/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs301%2Fc
+[/us/pl/110/343/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtIII
 [/us/stat/122/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3844
 [/us/usc/t26/s54D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54D
-[/us/pl/110/343/s313/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs313%2Fc
+[/us/pl/110/343/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtIII
 [/us/stat/122/3872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3872
 [/us/usc/t26/s54E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54E
 [/us/usc/t26/s1397E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397E

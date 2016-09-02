@@ -19,7 +19,7 @@
 
     (2) For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 888][/us/stat/68A/888], § 7463; renumbered § 7464, [Pub. L. 91–172, title IX, § 957(a)][/us/pl/91/172/s957/a], Dec. 30, 1969, [83 Stat. 733][/us/stat/83/733]; renumbered § 7465, [Pub. L. 96–589, § 6(c)(1)][/us/pl/96/589/s6/c/1], Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 888][/us/stat/68A/888], § 7463; renumbered § 7464, [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 957(a), Dec. 30, 1969, [83 Stat. 733][/us/stat/83/733]; renumbered § 7465, [Pub. L. 96–589][/us/pl/96/589], § 6(c)(1), Dec. 24, 1980, [94 Stat. 3407][/us/stat/94/3407].)
 
 ----------
 
@@ -30,9 +30,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F888
-[/us/pl/91/172/s957/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs957%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F733
-[/us/pl/96/589/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs6%2Fc%2F1
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3407
 
 

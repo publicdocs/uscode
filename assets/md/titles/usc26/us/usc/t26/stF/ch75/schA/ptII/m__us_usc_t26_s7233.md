@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7232.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7233)
 
-## \[§ 7233. Repealed. [Pub. L. 94–455, title XIX, § 1952(n)(2)(A)][/us/pl/94/455/s1952/n/2/A], Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846]\]
+## \[§ 7233. Repealed. [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1952(n)(2)(A), Oct. 4, 1976, [90 Stat. 1846][/us/stat/90/1846]\]
 
     Section, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 858][/us/stat/68A/858], related to failure to pay, or attempt to evade payment of, tax on cotton futures, and other violations.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1952/n/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1952%2Fn%2F2%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1846
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F858

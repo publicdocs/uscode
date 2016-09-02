@@ -47,7 +47,7 @@
 
         (2) the taxpayer made substantial continuing efforts to collect on the debt.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 82][/us/stat/68A/82]; [Pub. L. 94–455, title XXI, § 2104(a)][/us/pl/94/455/s2104/a], Oct. 4, 1976, [90 Stat. 1901][/us/stat/90/1901].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 82][/us/stat/68A/82]; [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2104(a), Oct. 4, 1976, [90 Stat. 1901][/us/stat/90/1901].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XXI, § 2104(b)][/us/pl/94/455/s2104/b], Oct. 4, 1976, [90 Stat. 1902][/us/stat/90/1902], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2104(b), Oct. 4, 1976, [90 Stat. 1902][/us/stat/90/1902], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
@@ -68,10 +68,10 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F82
-[/us/pl/94/455/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2104%2Fa
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1901
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/455/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2104%2Fb
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1902
 
 

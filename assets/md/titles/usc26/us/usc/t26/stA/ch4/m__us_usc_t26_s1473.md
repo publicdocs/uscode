@@ -97,7 +97,7 @@
 
         The term “foreign entity” means any entity which is not a United States person.
 
-(Added [Pub. L. 111–147, title V, § 501(a)][/us/pl/111/147/s501/a], Mar. 18, 2010, [124 Stat. 103][/us/stat/124/103].)
+(Added [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 501(a), Mar. 18, 2010, [124 Stat. 103][/us/stat/124/103].)
 
 ----------
 
@@ -106,7 +106,7 @@
 ----------
 ----------
 
-[/us/pl/111/147/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs501%2Fa
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F103
 
 

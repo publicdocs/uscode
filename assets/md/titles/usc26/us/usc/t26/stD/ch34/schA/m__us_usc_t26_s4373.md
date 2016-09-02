@@ -25,7 +25,7 @@
 
         Any indemnity bond required to be filed by any person to secure payment of any pension, allowance, allotment, relief, or insurance by the United States, or to secure a duplicate for, or the payment of, any bond, note, certificate of indebtedness, war-saving certificate, warrant or check, issued by the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 522][/us/stat/68A/522]; [Pub. L. 85–859, title I, § 141(a)][/us/pl/85/859/s141/a], Sept. 2, 1958, [72 Stat. 1301][/us/stat/72/1301]; [Pub. L. 94–455, title XIX, § 1904(a)(12)][/us/pl/94/455/s1904/a/12], Oct. 4, 1976, [90 Stat. 1813][/us/stat/90/1813]; [Pub. L. 100–647, title I, § 1012(q)(13)(A)][/us/pl/100/647/s1012/q/13/A], Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 522][/us/stat/68A/522]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 141(a), Sept. 2, 1958, [72 Stat. 1301][/us/stat/72/1301]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(a)(12), Oct. 4, 1976, [90 Stat. 1813][/us/stat/90/1813]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(q)(13)(A), Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1012(q)(13)(B)][/us/pl/100/647/s1012/q/13/B], Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(q)(13)(B), Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to premiums paid after the date 30 days after the date of the enactment of this Act \[Nov. 10, 1988\].”
 
@@ -54,16 +54,16 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F522
-[/us/pl/85/859/s141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs141%2Fa
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1301
-[/us/pl/94/455/s1904/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F12
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1813
-[/us/pl/100/647/s1012/q/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F13%2FA
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3525
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/100/647/s1012/q/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fq%2F13%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3525
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fd

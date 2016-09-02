@@ -115,13 +115,13 @@
 
  __Amendments__ 
 
-    1982—[Pub. L. 97–248, title II, § 204(c)(2)][/us/pl/97/248/s204/c/2], Sept. 3, 1982, [96 Stat. 427][/us/stat/96/427], added item for part XI.
+    1982—[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 204(c)(2), Sept. 3, 1982, [96 Stat. 427][/us/stat/96/427], added item for part XI.
 
-    1977—[Pub. L. 95–30, title I, § 101(e)(3)][/us/pl/95/30/s101/e/3], May 23, 1977, [91 Stat. 135][/us/stat/91/135], substituted “Determination of marital status” for “Standard deduction for individuals” in item for part IV.
+    1977—[Pub. L. 95–30, title I][/us/pl/95/30/tI], § 101(e)(3), May 23, 1977, [91 Stat. 135][/us/stat/91/135], substituted “Determination of marital status” for “Standard deduction for individuals” in item for part IV.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(4)(C)][/us/pl/94/455/s1901/b/4/C], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], substituted “taxable income, etc.” for “and taxable income.” in item for part I.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(4)(C), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], substituted “taxable income, etc.” for “and taxable income.” in item for part I.
 
-    1962—[Pub. L. 87–870, § 1(b)][/us/pl/87/870/s1/b], Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], added item for part X.
+    1962—[Pub. L. 87–870][/us/pl/87/870], § 1(b), Oct. 23, 1962, [76 Stat. 1160][/us/stat/76/1160], added item for part X.
 
 ----------
 
@@ -130,13 +130,13 @@
 ----------
 ----------
 
-[/us/pl/97/248/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs204%2Fc%2F2
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F427
-[/us/pl/95/30/s101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs101%2Fe%2F3
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F135
-[/us/pl/94/455/s1901/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F4%2FC
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1793
-[/us/pl/87/870/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870%2Fs1%2Fb
+[/us/pl/87/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F870
 [/us/stat/76/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1160
 
 

@@ -119,7 +119,7 @@
 
             If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
 
-(Added [Pub. L. 105–34, title II, § 202(a)][/us/pl/105/34/s202/a], Aug. 5, 1997, [111 Stat. 806][/us/stat/111/806]; amended [Pub. L. 105–206, title VI, § 6004(b)][/us/pl/105/206/s6004/b], July 22, 1998, [112 Stat. 792][/us/stat/112/792]; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(A)][/us/pl/105/277/s4003/a/2/A], (3), Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title IV][/us/pl/107/16], §§ 402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, [115 Stat. 62–64][/us/stat/115/62-64], 68; [Pub. L. 108–311, title II, § 207(20)][/us/pl/108/311/s207/20], title IV, § 408(b)(5), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1192; [Pub. L. 108–357, title I, § 102(d)(2)][/us/pl/108/357/s102/d/2], Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 109–135, title IV, § 412(t)][/us/pl/109/135/s412/t], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 113–295, div. A, title II, § 221(a)(40)][/us/pl/113/295/s221/a/40], Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043].)
+(Added [Pub. L. 105–34, title II][/us/pl/105/34/tII], § 202(a), Aug. 5, 1997, [111 Stat. 806][/us/stat/111/806]; amended [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6004(b), July 22, 1998, [112 Stat. 792][/us/stat/112/792]; [Pub. L. 105–277, div. J, title IV][/us/pl/105/277/dJ/tIV], § 4003(a)(2)(A), (3), Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 107–16, title IV][/us/pl/107/16/tIV], §§ 402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, [115 Stat. 62–64][/us/stat/115/62-64], 68; [Pub. L. 108–311, title II][/us/pl/108/311/tII], § 207(20), title IV, § 408(b)(5), Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178], 1192; [Pub. L. 108–357, title I][/us/pl/108/357/tI], § 102(d)(2), Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(t), Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(40), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -133,7 +133,7 @@
 
     A prior section 221 was renumbered [section 224 of this title][/us/usc/t26/s224].
 
-    Another prior section 221, added [Pub. L. 97–34, title I, § 103(a)][/us/pl/97/34/s103/a], Aug. 13, 1981, [95 Stat. 187][/us/stat/95/187]; amended [Pub. L. 97–448, title III, § 305(d)(4)][/us/pl/97/448/s305/d/4], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400], related to deduction for two-earner married couples, prior to repeal by [Pub. L. 99–514, title I, § 131(a)][/us/pl/99/514/s131/a], Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], applicable to taxable years beginning after Dec. 31, 1986.
+    Another prior section 221, added [Pub. L. 97–34, title I][/us/pl/97/34/tI], § 103(a), Aug. 13, 1981, [95 Stat. 187][/us/stat/95/187]; amended [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 305(d)(4), Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400], related to deduction for two-earner married couples, prior to repeal by [Pub. L. 99–514, title I][/us/pl/99/514/tI], § 131(a), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], applicable to taxable years beginning after Dec. 31, 1986.
 
  __Amendments__ 
 
@@ -143,11 +143,11 @@
 
     2004—Subsec. (b)(2)(C)(i). [Pub. L. 108–357][/us/pl/108/357] inserted “199,” before “222”.
 
-    Subsec. (d)(4). [Pub. L. 108–311, § 207(20)][/us/pl/108/311/s207/20], inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
+    Subsec. (d)(4). [Pub. L. 108–311][/us/pl/108/311], § 207(20), inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
 
-    Subsec. (f)(1). [Pub. L. 108–311, § 408(b)(5)][/us/pl/108/311/s408/b/5], amended directory language of [Pub. L. 107–16, § 412(b)(2)][/us/pl/107/16/s412/b/2]. See 2001 Amendment note below.
+    Subsec. (f)(1). [Pub. L. 108–311][/us/pl/108/311], § 408(b)(5), amended directory language of [Pub. L. 107–16][/us/pl/107/16], § 412(b)(2). See 2001 Amendment note below.
 
-    2001—Subsec. (b)(2)(B)(i), (ii). [Pub. L. 107–16, § 412(b)(1)][/us/pl/107/16/s412/b/1], amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+    2001—Subsec. (b)(2)(B)(i), (ii). [Pub. L. 107–16][/us/pl/107/16], § 412(b)(1), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
     “(i) the excess of—
 
@@ -157,31 +157,31 @@
 
     “(ii) $15,000.”
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 107–16, § 431(c)(2)][/us/pl/107/16/s431/c/2], inserted “222,” before “911”.
+    Subsec. (b)(2)(C)(i). [Pub. L. 107–16][/us/pl/107/16], § 431(c)(2), inserted “222,” before “911”.
 
-    Subsec. (d). [Pub. L. 107–16, § 412(a)(1)][/us/pl/107/16/s412/a/1], redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
+    Subsec. (d). [Pub. L. 107–16][/us/pl/107/16], § 412(a)(1), redesignated subsec. (e) as (d), and struck out heading and text of former subsec. (d). Text read as follows: “A deduction shall be allowed under this section only with respect to interest paid on any qualified education loan during the first 60 months (whether or not consecutive) in which interest payments are required. For purposes of this paragraph, any loan and all refinancings of such loan shall be treated as 1 loan. Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
 
-    Subsec. (e). [Pub. L. 107–16, § 412(a)(1)][/us/pl/107/16/s412/a/1], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 107–16][/us/pl/107/16], § 412(a)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (e)(2)(A). [Pub. L. 107–16, § 402(b)(2)(B)][/us/pl/107/16/s402/b/2/B], inserted “529,” after “135,”.
+    Subsec. (e)(2)(A). [Pub. L. 107–16][/us/pl/107/16], § 402(b)(2)(B), inserted “529,” after “135,”.
 
-    Subsec. (f). [Pub. L. 107–16, § 412(a)(1)][/us/pl/107/16/s412/a/1], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 107–16][/us/pl/107/16], § 412(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (f)(1). [Pub. L. 107–16, § 412(b)(2)][/us/pl/107/16/s412/b/2], as amended by [Pub. L. 108–311, § 408(b)(5)][/us/pl/108/311/s408/b/5], substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”.
+    Subsec. (f)(1). [Pub. L. 107–16][/us/pl/107/16], § 412(b)(2), as amended by [Pub. L. 108–311][/us/pl/108/311], § 408(b)(5), substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”.
 
-    Subsec. (g). [Pub. L. 107–16, § 412(a)(1)][/us/pl/107/16/s412/a/1], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 107–16][/us/pl/107/16], § 412(a)(1), redesignated subsec. (g) as (f).
 
-    1998—Subsec. (b)(2)(C). [Pub. L. 105–277, § 4003(a)(2)(A)(iii)][/us/pl/105/277/s4003/a/2/A/iii], struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
+    1998—Subsec. (b)(2)(C). [Pub. L. 105–277][/us/pl/105/277], § 4003(a)(2)(A)(iii), struck out concluding provisions which read as follows: “For purposes of sections 86, 135, 137, 219, and 469, adjusted gross income shall be determined without regard to the deduction allowed under this section.”
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 105–277, § 4003(a)(2)(A)(i)][/us/pl/105/277/s4003/a/2/A/i], struck out “135, 137,” after “sections”.
+    Subsec. (b)(2)(C)(i). [Pub. L. 105–277][/us/pl/105/277], § 4003(a)(2)(A)(i), struck out “135, 137,” after “sections”.
 
-    Subsec. (b)(2)(C)(ii). [Pub. L. 105–277, § 4003(a)(2)(A)(ii)][/us/pl/105/277/s4003/a/2/A/ii], inserted “135, 137,” after “sections 86,”.
+    Subsec. (b)(2)(C)(ii). [Pub. L. 105–277][/us/pl/105/277], § 4003(a)(2)(A)(ii), inserted “135, 137,” after “sections 86,”.
 
-    Subsec. (d). [Pub. L. 105–206, § 6004(b)(2)][/us/pl/105/206/s6004/b/2], inserted at end “Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
+    Subsec. (d). [Pub. L. 105–206][/us/pl/105/206], § 6004(b)(2), inserted at end “Such 60 months shall be determined in the manner prescribed by the Secretary in the case of multiple loans which are refinanced by, or serviced as, a single loan and in the case of loans incurred before the date of the enactment of this section.”
 
-    Subsec. (e)(1). [Pub. L. 105–277, § 4003(a)(3)][/us/pl/105/277/s4003/a/3], inserted before period at end “or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)”.
+    Subsec. (e)(1). [Pub. L. 105–277][/us/pl/105/277], § 4003(a)(3), inserted before period at end “or to any person by reason of a loan under any qualified employer plan (as defined in section 72(p)(4)) or under any contract referred to in section 72(p)(5)”.
 
-    [Pub. L. 105–206, § 6004(b)(1)][/us/pl/105/206/s6004/b/1], inserted “by the taxpayer solely” after “incurred” in introductory provisions.
+    [Pub. L. 105–206][/us/pl/105/206], § 6004(b)(1), inserted “by the taxpayer solely” after “incurred” in introductory provisions.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -197,11 +197,11 @@
 
     Amendment by [section 402(b)(2)(B) of Pub. L. 107–16][/us/pl/107/16/s402/b/2/B] applicable to taxable years beginning after Dec. 31, 2001, see [section 402(h) of Pub. L. 107–16][/us/pl/107/16/s402/h], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 107–16, title IV, § 412(a)(3)][/us/pl/107/16/s412/a/3], June 7, 2001, [115 Stat. 64][/us/stat/115/64], provided that: 
+[Pub. L. 107–16, title IV][/us/pl/107/16/tIV], § 412(a)(3), June 7, 2001, [115 Stat. 64][/us/stat/115/64], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 6050S of this title][/us/usc/t26/s6050S]\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date.”
 
-[Pub. L. 107–16, title IV, § 412(b)(3)][/us/pl/107/16/s412/b/3], June 7, 2001, [115 Stat. 64][/us/stat/115/64], provided that: 
+[Pub. L. 107–16, title IV][/us/pl/107/16/tIV], § 412(b)(3), June 7, 2001, [115 Stat. 64][/us/stat/115/64], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001.”
 
@@ -225,52 +225,52 @@
 ----------
 
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
-[/us/pl/105/34/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs202%2Fa
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F806
-[/us/pl/105/206/s6004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fb
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F792
-[/us/pl/105/277/s4003/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F2%2FA
+[/us/pl/105/277/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdJ%2FtIV
 [/us/stat/112/2681-908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-908
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtIV
 [/us/stat/115/62-64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F62-64
-[/us/pl/108/311/s207/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F20
+[/us/pl/108/311/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtII
 [/us/stat/118/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1178
-[/us/pl/108/357/s102/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F2
+[/us/pl/108/357/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtI
 [/us/stat/118/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1428
-[/us/pl/109/135/s412/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Ft
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2638
-[/us/pl/113/295/s221/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F40
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/usc/t26/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs224
-[/us/pl/97/34/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs103%2Fa
+[/us/pl/97/34/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtI
 [/us/stat/95/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F187
-[/us/pl/97/448/s305/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs305%2Fd%2F4
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2400
-[/us/pl/99/514/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs131%2Fa
+[/us/pl/99/514/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtI
 [/us/stat/100/2113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/311/s207/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs207%2F20
-[/us/pl/108/311/s408/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fb%2F5
-[/us/pl/107/16/s412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fb%2F2
-[/us/pl/107/16/s412/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fb%2F1
-[/us/pl/107/16/s431/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs431%2Fc%2F2
-[/us/pl/107/16/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fa%2F1
-[/us/pl/107/16/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fa%2F1
-[/us/pl/107/16/s402/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fb%2F2%2FB
-[/us/pl/107/16/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fa%2F1
-[/us/pl/107/16/s412/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fb%2F2
-[/us/pl/108/311/s408/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fb%2F5
-[/us/pl/107/16/s412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fa%2F1
-[/us/pl/105/277/s4003/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F2%2FA%2Fiii
-[/us/pl/105/277/s4003/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F2%2FA%2Fi
-[/us/pl/105/277/s4003/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F2%2FA%2Fii
-[/us/pl/105/206/s6004/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fb%2F2
-[/us/pl/105/277/s4003/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs4003%2Fa%2F3
-[/us/pl/105/206/s6004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6004%2Fb%2F1
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
@@ -283,10 +283,10 @@
 [/us/pl/107/16/s402/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fb%2F2%2FB
 [/us/pl/107/16/s402/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs402%2Fh
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/107/16/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fa%2F3
+[/us/pl/107/16/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtIV
 [/us/stat/115/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F64
 [/us/usc/t26/s6050S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6050S
-[/us/pl/107/16/s412/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs412%2Fb%2F3
+[/us/pl/107/16/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtIV
 [/us/stat/115/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F64
 [/us/pl/107/16/s431/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs431%2Fc%2F2
 [/us/pl/107/16/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs431%2Fd

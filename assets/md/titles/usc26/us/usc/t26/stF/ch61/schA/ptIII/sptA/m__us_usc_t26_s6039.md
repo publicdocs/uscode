@@ -53,7 +53,7 @@
 
         (2) the term “employee stock purchase plan”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  see section 423(b).
 
-(Added [Pub. L. 88–272, title II, § 221(b)(1)][/us/pl/88/272/s221/b/1], Feb. 26, 1964, [78 Stat. 73][/us/stat/78/73]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–167, § 7(a)][/us/pl/96/167/s7/a], Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276]; [Pub. L. 97–34, title II, § 251(b)(5)][/us/pl/97/34/s251/b/5], Aug. 13, 1981, [95 Stat. 259][/us/stat/95/259]; [Pub. L. 101–508, title XI, § 11801(c)(9)(J)][/us/pl/101/508/s11801/c/9/J], Nov. 5, 1990, [104 Stat. 1388–526][/us/stat/104/1388-526]; [Pub. L. 105–206, title VI, § 6023(20)][/us/pl/105/206/s6023/20], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 109–432, div. A, title IV, § 403(a)][/us/pl/109/432/s403/a], (b), (c)(3), (4), Dec. 20, 2006, [120 Stat. 2954][/us/stat/120/2954], 2955.)
+(Added [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 221(b)(1), Feb. 26, 1964, [78 Stat. 73][/us/stat/78/73]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–167][/us/pl/96/167], § 7(a), Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 251(b)(5), Aug. 13, 1981, [95 Stat. 259][/us/stat/95/259]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(9)(J), Nov. 5, 1990, [104 Stat. 1388–526][/us/stat/104/1388-526]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6023(20), July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 403(a), (b), (c)(3), (4), Dec. 20, 2006, [120 Stat. 2954][/us/stat/120/2954], 2955.)
 
  __Prior Provisions__ 
 
@@ -61,15 +61,15 @@
 
  __Amendments__ 
 
-    2006—[Pub. L. 109–432, § 403(c)(3)][/us/pl/109/432/s403/c/3], substituted “Returns” for “Information” in section catchline.
+    2006—[Pub. L. 109–432][/us/pl/109/432], § 403(c)(3), substituted “Returns” for “Information” in section catchline.
 
-    Subsec. (a). [Pub. L. 109–432, § 403(a)][/us/pl/109/432/s403/a], (c)(4), substituted “Requirement of reporting” for “Furnishing of information” in heading and amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “shall (on or before January 31 of the following calendar year) furnish to such person a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe.”
+    Subsec. (a). [Pub. L. 109–432][/us/pl/109/432], § 403(a), (c)(4), substituted “Requirement of reporting” for “Furnishing of information” in heading and amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “shall (on or before January 31 of the following calendar year) furnish to such person a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe.”
 
-    Subsecs. (b) to (d). [Pub. L. 109–432, § 403(b)][/us/pl/109/432/s403/b], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (b) to (d). [Pub. L. 109–432][/us/pl/109/432], § 403(b), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
     1998—Subsec. (a)(1). [Pub. L. 105–206][/us/pl/105/206] inserted “to any person” after “transfers”.
 
-    1990—Subsec. (a)(1), (2). [Pub. L. 101–508, § 11801(c)(9)(J)(i)][/us/pl/101/508/s11801/c/9/J/i], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    1990—Subsec. (a)(1), (2). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(J)(i), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) which in any calendar year transfers a share of stock to any person pursuant to such person’s exercise of a qualified stock option, an incentive stock option, or a restricted stock option, or
 
@@ -79,15 +79,15 @@
 
     “(B) acquired by the transferor pursuant to his exercise of a restricted stock option described in section 424(c)(1) (relating to options under which option price is between 85 percent and 95 percent of value of stock),”.
 
-    Subsec. (b)(1). [Pub. L. 101–508, § 11801(c)(9)(J)(ii)][/us/pl/101/508/s11801/c/9/J/ii], substituted “an incentive stock option or an” for “a qualified stock option, incentive stock option, a restricted stock option, or an”.
+    Subsec. (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(J)(ii), substituted “an incentive stock option or an” for “a qualified stock option, incentive stock option, a restricted stock option, or an”.
 
-    Subsec. (c). [Pub. L. 101–508, § 11801(c)(9)(J)(iii)][/us/pl/101/508/s11801/c/9/J/iii], amended subsec. (c) generally, striking out references for definitions of “qualified stock option” and “restricted stock option”.
+    Subsec. (c). [Pub. L. 101–508][/us/pl/101/508], § 11801(c)(9)(J)(iii), amended subsec. (c) generally, striking out references for definitions of “qualified stock option” and “restricted stock option”.
 
-    1981—Subsec. (a)(1). [Pub. L. 97–34, § 251(b)(5)(A)][/us/pl/97/34/s251/b/5/A], inserted “, an incentive stock option,” after “qualified stock option”.
+    1981—Subsec. (a)(1). [Pub. L. 97–34][/us/pl/97/34], § 251(b)(5)(A), inserted “, an incentive stock option,” after “qualified stock option”.
 
-    Subsec. (b)(1). [Pub. L. 97–34, § 251(b)(5)(B)][/us/pl/97/34/s251/b/5/B], inserted “incentive stock option,” after “qualified stock option,”.
+    Subsec. (b)(1). [Pub. L. 97–34][/us/pl/97/34], § 251(b)(5)(B), inserted “incentive stock option,” after “qualified stock option,”.
 
-    Subsec. (c)(4). [Pub. L. 97–34, § 251(b)(5)(C)][/us/pl/97/34/s251/b/5/C], added par. (4).
+    Subsec. (c)(4). [Pub. L. 97–34][/us/pl/97/34], § 251(b)(5)(C), added par. (4).
 
     1979—Subsec. (a). [Pub. L. 96–167][/us/pl/96/167] substituted “Furnishing of information” for “Requirement of reporting” in heading, and in closing par. substituted provisions relating to the furnishing, on or before Jan. 31 of the following calendar year, a written statement in such manner and setting forth such information, as prescribed by regulation for provisions prescribing the making of a return at such time and in such manner as prescribed by regulation, determining qualified stock options, restricted stock options or options granted under an employee stock purchase plan to be options under the provisions of this section, and restricting the necessity of a return only to the first transfer of such share.
 
@@ -101,7 +101,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–432, div. A, title IV, § 403(d)][/us/pl/109/432/s403/d], Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955], provided that: 
+[Pub. L. 109–432, div. A, title IV][/us/pl/109/432/dA/tIV], § 403(d), Dec. 20, 2006, [120 Stat. 2955][/us/stat/120/2955], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 6724 of this title][/us/usc/t26/s6724]\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 20, 2006\].”
 
@@ -128,37 +128,37 @@
 ----------
 ----------
 
-[/us/pl/88/272/s221/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs221%2Fb%2F1
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F73
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/167/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs7%2Fa
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1276
-[/us/pl/97/34/s251/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fb%2F5
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F259
-[/us/pl/101/508/s11801/c/9/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FJ
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-526
-[/us/pl/105/206/s6023/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6023%2F20
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F825
-[/us/pl/109/432/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs403%2Fa
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2954
 [/us/usc/t26/s6040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6040
-[/us/pl/109/432/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs403%2Fc%2F3
-[/us/pl/109/432/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs403%2Fa
-[/us/pl/109/432/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs403%2Fb
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/101/508/s11801/c/9/J/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FJ%2Fi
-[/us/pl/101/508/s11801/c/9/J/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FJ%2Fii
-[/us/pl/101/508/s11801/c/9/J/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FJ%2Fiii
-[/us/pl/97/34/s251/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fb%2F5%2FA
-[/us/pl/97/34/s251/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fb%2F5%2FB
-[/us/pl/97/34/s251/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs251%2Fb%2F5%2FC
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/109/432/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs403%2Fd
+[/us/pl/109/432/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2FdA%2FtIV
 [/us/stat/120/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2955
 [/us/usc/t26/s6724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6724
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34

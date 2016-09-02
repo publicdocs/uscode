@@ -57,7 +57,7 @@
 
         (B) in the case of a party which is not a major party, the same period as the expenditure report period of the major party which has the shortest expenditure report period for such presidential election under subparagraph (A).
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 563][/us/stat/85/563]; amended [Pub. L. 93–443, title IV, § 404(c)(1)][/us/pl/93/443/s404/c/1]–(3), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292]; [Pub. L. 94–283, title I, § 115(c)(1)][/us/pl/94/283/s115/c/1], title III, § 306(a)(1), May 11, 1976, [90 Stat. 495][/us/stat/90/495], 499; [Pub. L. 110–172, § 11(a)(42)(A)][/us/pl/110/172/s11/a/42/A], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 563][/us/stat/85/563]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 404(c)(1)–(3), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292]; [Pub. L. 94–283, title I][/us/pl/94/283/tI], § 115(c)(1), title III, § 306(a)(1), May 11, 1976, [90 Stat. 495][/us/stat/90/495], 499; [Pub. L. 110–172][/us/pl/110/172], § 11(a)(42)(A), Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488].)
 
  __References in Text__ 
 
@@ -67,19 +67,19 @@
 
     2007—Par. (3). [Pub. L. 110–172][/us/pl/110/172] substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
-    1976—Par. (2). [Pub. L. 94–283, § 306(a)(1)][/us/pl/94/283/s306/a/1], inserted provision that “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
+    1976—Par. (2). [Pub. L. 94–283][/us/pl/94/283], § 306(a)(1), inserted provision that “candidate” shall not include any individual who has ceased actively to seek election to the office of President of the United States or to the office of Vice President of the United States, in more than one State.
 
-    Par. (3). [Pub. L. 94–283, § 115(c)(1)][/us/pl/94/283/s115/c/1], substituted “309(a)(1)” for “310(a)(1)”.
+    Par. (3). [Pub. L. 94–283][/us/pl/94/283], § 115(c)(1), substituted “309(a)(1)” for “310(a)(1)”.
 
-    1974—Par. (1). [Pub. L. 93–443, § 404(c)(2)][/us/pl/93/443/s404/c/2], substituted “Commission” for “Comptroller General”.
+    1974—Par. (1). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(2), substituted “Commission” for “Comptroller General”.
 
-    Par. (3). [Pub. L. 93–443, § 404(c)(1)][/us/pl/93/443/s404/c/1], substituted definition of “Commission” for “Comptroller General”.
+    Par. (3). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(1), substituted definition of “Commission” for “Comptroller General”.
 
-    Par. (11). [Pub. L. 93–443, § 404(c)(3)][/us/pl/93/443/s404/c/3], substituted “Commission” for “Comptroller General” in third sentence.
+    Par. (11). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(3), substituted “Commission” for “Comptroller General” in third sentence.
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–283, title III, § 306(c)][/us/pl/94/283/s306/c], May 11, 1976, [90 Stat. 501][/us/stat/90/501], provided that: 
+[Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 306(c), May 11, 1976, [90 Stat. 501][/us/stat/90/501], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 9003, 9032, and 9033 of this title\] shall take effect on the date of enactment of this Act \[May 11, 1976\].”
 
@@ -94,22 +94,22 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F563
-[/us/pl/93/443/s404/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F1
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1292
-[/us/pl/94/283/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fc%2F1
+[/us/pl/94/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtI
 [/us/stat/90/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F495
-[/us/pl/110/172/s11/a/42/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F42%2FA
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2488
 [/us/usc/t52/s30106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30106%2Fa%2F1
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
-[/us/pl/94/283/s306/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fa%2F1
-[/us/pl/94/283/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs115%2Fc%2F1
-[/us/pl/93/443/s404/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F2
-[/us/pl/93/443/s404/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F1
-[/us/pl/93/443/s404/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F3
-[/us/pl/94/283/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fc
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F501
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1

@@ -67,11 +67,11 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter J consisted of parts I to V, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior subchapter J consisted of parts I to V, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–59, title XI, § 11125(b)(19)(B)][/us/pl/109/59/s11125/b/19/B], Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956], struck out item for part V “Penalties applicable to occupational taxes”.
+    2005—[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(19)(B), Aug. 10, 2005, [119 Stat. 1956][/us/stat/119/1956], struck out item for part V “Penalties applicable to occupational taxes”.
 
 ----------
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/109/59/s11125/b/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F19%2FB
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1956
 
 

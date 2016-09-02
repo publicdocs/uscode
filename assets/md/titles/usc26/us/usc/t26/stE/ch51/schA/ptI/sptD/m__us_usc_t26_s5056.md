@@ -31,7 +31,7 @@
 
         No claim under this section shall be allowed (1) unless filed within 6 months after the date of the return, loss, destruction, rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant or (2) if the claimant was indemnified by insurance or otherwise in respect of the tax.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1335][/us/stat/72/1335]; amended [Pub. L. 91–673, § 1(a)][/us/pl/91/673/s1/a], Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XIV, § 1414(c)][/us/pl/105/34/s1414/c], Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047]; [Pub. L. 105–206, title VI, § 6014(a)(3)][/us/pl/105/206/s6014/a/3], July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1335][/us/stat/72/1335]; amended [Pub. L. 91–673][/us/pl/91/673], § 1(a), Jan. 12, 1971, [84 Stat. 2056][/us/stat/84/2056]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 105–34, title XIV][/us/pl/105/34/tXIV], § 1414(c), Aug. 5, 1997, [111 Stat. 1047][/us/stat/111/1047]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6014(a)(3), July 22, 1998, [112 Stat. 820][/us/stat/112/820].)
 
  __Prior Provisions__ 
 
@@ -43,7 +43,7 @@
 
     1998—Subsecs. (a) to (c). [Pub. L. 105–206][/us/pl/105/206] substituted “removed for consumption or sale” for “produced in the United States”.
 
-    1997—Subsec. (c). [Pub. L. 105–34, § 1414(c)(1)][/us/pl/105/34/s1414/c/1], added subsec. (c). Former subsec. (c) redesignated (d).
+    1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34], § 1414(c)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 105–34][/us/pl/105/34] redesignated subsec. (c) as (d) and substituted “rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant” for “or rendering unmerchantable”.
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1971 Amendment__ 
 
-[Pub. L. 91–673, § 5][/us/pl/91/673/s5], Jan. 12, 1971, [84 Stat. 2058][/us/stat/84/2058], provided that: 
+[Pub. L. 91–673][/us/pl/91/673], § 5, Jan. 12, 1971, [84 Stat. 2058][/us/stat/84/2058], provided that: 
 
 > “The amendments made by the first four sections of this Act \[enacting [section 5417 of this title][/us/usc/t26/s5417] and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\].”
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1335
-[/us/pl/91/673/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs1%2Fa
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2056
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/105/34/s1414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fc
+[/us/pl/105/34/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIV
 [/us/stat/111/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1047
-[/us/pl/105/206/s6014/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6014%2Fa%2F3
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F613
@@ -94,7 +94,7 @@
 [/us/stat/68A/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F613
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
-[/us/pl/105/34/s1414/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fc%2F1
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
@@ -107,7 +107,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1414%2Fd
 [/us/usc/t26/s5053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5053
-[/us/pl/91/673/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673%2Fs5
+[/us/pl/91/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F673
 [/us/stat/84/2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2058
 [/us/usc/t26/s5417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5417
 

@@ -233,29 +233,29 @@
 
         (7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added [Pub. L. 113–295, div. B, title I, § 102(a)][/us/pl/113/295/s102/a], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056]; amended [Pub. L. 114–113, div. Q, title III, § 303(a)][/us/pl/114/113/s303/a]–(c), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087].)
+(Added [Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 102(a), Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056]; amended [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 303(a)–(c), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087].)
 
  __References in Text__ 
 
-    The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of [Pub. L. 113–295][/us/pl/113/295], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. [Section 103 of div. B of Pub. L. 113–295][/us/pl/113/295/s103] is set out as a note under this section.
+    The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of [Pub. L. 113–295][/us/pl/113/295], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014” and also as the “Stephen Beck, Jr., ABLE Act of 2014”. [Section 103 of div. B of Pub. L. 113–295][/us/pl/113/295/dB/s103] is set out as a note under this section.
 
     The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(B) to (D). [Pub. L. 114–113, § 303(a)][/us/pl/114/113/s303/a], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C). Prior to amendment, subpar. (C) read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”.
+    2015—Subsec. (b)(1)(B) to (D). [Pub. L. 114–113][/us/pl/114/113], § 303(a), inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C). Prior to amendment, subpar. (C) read as follows: “which allows for the establishment of an ABLE account only for a designated beneficiary who is a resident of such State or a resident of a contracting State, and”.
 
-    Subsec. (c)(1)(C)(i). [Pub. L. 114–113, § 303(c)(2)][/us/pl/114/113/s303/c/2], substituted “member of the family” for “family member”.
+    Subsec. (c)(1)(C)(i). [Pub. L. 114–113][/us/pl/114/113], § 303(c)(2), substituted “member of the family” for “family member”.
 
-    Subsec. (d)(3). [Pub. L. 114–113, § 303(b)(1)][/us/pl/114/113/s303/b/1], struck out “and State of residence” after “the name”.
+    Subsec. (d)(3). [Pub. L. 114–113][/us/pl/114/113], § 303(b)(1), struck out “and State of residence” after “the name”.
 
-    Subsec. (d)(4). [Pub. L. 114–113, § 303(c)(1)][/us/pl/114/113/s303/c/1], substituted “section 103” for “section 4”.
+    Subsec. (d)(4). [Pub. L. 114–113][/us/pl/114/113], § 303(c)(1), substituted “section 103” for “section 4”.
 
-    Subsec. (e)(7). [Pub. L. 114–113, § 303(b)(2)][/us/pl/114/113/s303/b/2], struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+    Subsec. (e)(7). [Pub. L. 114–113][/us/pl/114/113], § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title III, § 303(d)][/us/pl/114/113/s303/d], Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 303(d), Dec. 18, 2015, [129 Stat. 3087][/us/stat/129/3087], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014.”
 
@@ -265,13 +265,13 @@
 
  __Regulations__ 
 
-[Pub. L. 113–295, div. B, title I, § 102(f)(2)][/us/pl/113/295/s102/f/2], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062], provided that: 
+[Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 102(f)(2), Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062], provided that: 
 
 > “The Secretary of the Treasury (or the Secretary’s designee) shall promulgate the regulations or other guidance required under section 529A(g) of the Internal Revenue Code of 1986, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Purposes__ 
 
-[Pub. L. 113–295, div. B, title I, § 101][/us/pl/113/295/s101], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], provided that: 
+[Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 101, Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], provided that: 
 
 > “The purposes of this title \[title I of div. B of [Pub. L. 113–295][/us/pl/113/295], enacting this section, amending sections 26, 529, 877A, 4965, 4973, and 6693, of this title, [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees, sections 521, 541, and 707 of Title 11, Bankruptcy, and [section 5517 of Title 12][/us/usc/t12/s5517], Banks and Banking, and enacting provisions set out as notes under this section, [section 529 of this title][/us/usc/t26/s529], [section 552a of Title 5][/us/usc/t5/s552a], and [section 521 of Title 11][/us/usc/t11/s521]\] are as follows:
 
@@ -281,7 +281,7 @@
 
  __Treatment of ABLE Accounts Under Certain Federal Programs__ 
 
-[Pub. L. 113–295, div. B, title I, § 103][/us/pl/113/295/s103], Dec. 19, 2014, [128 Stat. 4063][/us/stat/128/4063], provided that:
+[Pub. L. 113–295, div. B, title I][/us/pl/113/295/dB/tI], § 103, Dec. 19, 2014, [128 Stat. 4063][/us/stat/128/4063], provided that:
 
 >     “(a)  __Account Funds Disregarded for Purposes of Certain Other Means-Tested Federal Programs__  __.—__ 
 
@@ -312,28 +312,28 @@
 ----------
 ----------
 
-[/us/pl/113/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fa
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
-[/us/pl/114/113/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fa
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
-[/us/pl/113/295/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs103
+[/us/pl/113/295/dB/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2Fs103
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/114/113/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fa
-[/us/pl/114/113/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fc%2F2
-[/us/pl/114/113/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fb%2F1
-[/us/pl/114/113/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fc%2F1
-[/us/pl/114/113/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fb%2F2
-[/us/pl/114/113/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs303%2Fd
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3087
 [/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/113/295/s102/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F2
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
-[/us/pl/113/295/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs101
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -343,7 +343,7 @@
 [/us/usc/t11/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs521
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
-[/us/pl/113/295/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs103
+[/us/pl/113/295/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtI
 [/us/stat/128/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4063
 [/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396

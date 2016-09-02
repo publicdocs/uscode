@@ -27,7 +27,7 @@
 
         (2) which is subject to, and operates under, Federal or State laws relating to mutual savings bank.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 204][/us/stat/68A/204]; [Pub. L. 87–834, § 6(f)][/us/pl/87/834/s6/f], Oct. 16, 1962, [76 Stat. 984][/us/stat/76/984]; [Pub. L. 97–34, title II, § 245(a)][/us/pl/97/34/s245/a], Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 204][/us/stat/68A/204]; [Pub. L. 87–834][/us/pl/87/834], § 6(f), Oct. 16, 1962, [76 Stat. 984][/us/stat/76/984]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 245(a), Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255].)
 
  __Amendments__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–34, title II, § 246(d)][/us/pl/97/34/s246/d], Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], provided that: 
+[Pub. L. 97–34, title II][/us/pl/97/34/tII], § 246(d), Aug. 13, 1981, [95 Stat. 256][/us/stat/95/256], provided that: 
 
 > “The amendments made by section 245 \[amending this section and [section 593 of this title][/us/usc/t26/s593]\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
@@ -50,13 +50,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F204
-[/us/pl/87/834/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs6%2Ff
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F984
-[/us/pl/97/34/s245/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs245%2Fa
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F255
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
-[/us/pl/97/34/s246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs246%2Fd
+[/us/pl/97/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtII
 [/us/stat/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F256
 [/us/usc/t26/s593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs593
 

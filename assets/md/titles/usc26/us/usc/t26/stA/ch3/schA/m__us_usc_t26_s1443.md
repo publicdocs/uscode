@@ -23,15 +23,15 @@
 
         In the case of income of a foreign organization subject to the tax imposed by section 4948(a), this chapter shall apply, except that the deduction and withholding shall be at the rate of 4 percent and shall be subject to such conditions as may be provided under regulations prescribed by the Secretary.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 358][/us/stat/68A/358]; [Pub. L. 91–172, title I][/us/pl/91/172], §§ 101(j)(22), 121(d)(2)(C), Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528], 547; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 358][/us/stat/68A/358]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], §§ 101(j)(22), 121(d)(2)(C), Dec. 30, 1969, [83 Stat. 528][/us/stat/83/528], 547; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” in two places.
 
-    1969—[Pub. L. 91–172, § 101(j)(22)][/us/pl/91/172/s101/j/22], designated existing provisions as subsec. (a) and added subsec. (b).
+    1969—[Pub. L. 91–172][/us/pl/91/172], § 101(j)(22), designated existing provisions as subsec. (a) and added subsec. (b).
 
-    Subsec. (a). [Pub. L. 91–172, § 121(d)(2)(C)][/us/pl/91/172/s121/d/2/C], substituted “income” for “rents” after “this chapter shall apply to”.
+    Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 121(d)(2)(C), substituted “income” for “rents” after “this chapter shall apply to”.
 
  __Effective Date of 1969 Amendment__ 
 
@@ -48,13 +48,13 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F358
-[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F528
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/172/s101/j/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F22
-[/us/pl/91/172/s121/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs121%2Fd%2F2%2FC
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s101/j/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F22
 [/us/pl/91/172/s101/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fk%2F1
 [/us/usc/t26/s4940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4940

@@ -229,75 +229,75 @@
 
             (B) paragraph (2) shall be applied by substituting “July 1, 2011” for “July 1, 2010”, and for “October 1, 2010”.
 
-(Added [Pub. L. 110–289, div. C, title I, § 3011(a)][/us/pl/110/289/s3011/a], July 30, 2008, [122 Stat. 2888][/us/stat/122/2888]; amended [Pub. L. 111–5, div. B, title I, § 1006(a)][/us/pl/111/5/s1006/a]–(c), (d)(2), (e), Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316], 317; [Pub. L. 111–92][/us/pl/111/92], §§ 11(a)–(g), 12(a)–(c), Nov. 6, 2009, [123 Stat. 2989–2992][/us/stat/123/2989-2992]; [Pub. L. 111–198, § 2(a)][/us/pl/111/198/s2/a], (b), July 2, 2010, [124 Stat. 1356][/us/stat/124/1356].)
+(Added [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3011(a), July 30, 2008, [122 Stat. 2888][/us/stat/122/2888]; amended [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1006(a)–(c), (d)(2), (e), Feb. 17, 2009, [123 Stat. 316][/us/stat/123/316], 317; [Pub. L. 111–92][/us/pl/111/92], §§ 11(a)–(g), 12(a)–(c), Nov. 6, 2009, [123 Stat. 2989–2992][/us/stat/123/2989-2992]; [Pub. L. 111–198][/us/pl/111/198], § 2(a), (b), July 2, 2010, [124 Stat. 1356][/us/stat/124/1356].)
 
  __Prior Provisions__ 
 
     A prior section 36 was renumbered [section 37 of this title][/us/usc/t26/s37].
 
-    Another prior section 36, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 15][/us/stat/68A/15]; Oct. 4, 1976, [Pub. L. 94–455, title V, § 501(b)(2)][/us/pl/94/455/s501/b/2], title X, § 1011(c), title XIX, § 1901(b)(1)(A), [90 Stat. 1558][/us/stat/90/1558], 1611, 1790, directed that credits provided by section 32 not be allowed if an individual elects under section 144 to take standard deduction, prior to repeal by [Pub. L. 95–30, title I][/us/pl/95/30], §§ 101(d)(3), 106(a), May 23, 1977, [91 Stat. 133][/us/stat/91/133], 141, applicable to taxable years beginning after Dec. 31, 1976.
+    Another prior section 36, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 15][/us/stat/68A/15]; Oct. 4, 1976, [Pub. L. 94–455, title V][/us/pl/94/455/tV], § 501(b)(2), title X, § 1011(c), title XIX, § 1901(b)(1)(A), [90 Stat. 1558][/us/stat/90/1558], 1611, 1790, directed that credits provided by section 32 not be allowed if an individual elects under section 144 to take standard deduction, prior to repeal by [Pub. L. 95–30, title I][/us/pl/95/30/tI], §§ 101(d)(3), 106(a), May 23, 1977, [91 Stat. 133][/us/stat/91/133], 141, applicable to taxable years beginning after Dec. 31, 1976.
 
  __Amendments__ 
 
-    2010—Subsec. (h)(2). [Pub. L. 111–198, § 2(a)][/us/pl/111/198/s2/a], substituted “and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting ‘October 1, 2010’ ” for “paragraph (1) shall be applied by substituting ‘July 1, 2010’ ”.
+    2010—Subsec. (h)(2). [Pub. L. 111–198][/us/pl/111/198], § 2(a), substituted “and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting ‘October 1, 2010’ ” for “paragraph (1) shall be applied by substituting ‘July 1, 2010’ ”.
 
-    Subsec. (h)(3)(B). [Pub. L. 111–198, § 2(b)][/us/pl/111/198/s2/b], inserted “, and for ‘October 1, 2010’ ” after “for ‘July 1, 2010’ ”.
+    Subsec. (h)(3)(B). [Pub. L. 111–198][/us/pl/111/198], § 2(b), inserted “, and for ‘October 1, 2010’ ” after “for ‘July 1, 2010’ ”.
 
-    2009—Subsec. (b)(1)(A). [Pub. L. 111–5, § 1006(b)(1)][/us/pl/111/5/s1006/b/1], substituted “$8,000” for “$7,500”.
+    2009—Subsec. (b)(1)(A). [Pub. L. 111–5][/us/pl/111/5], § 1006(b)(1), substituted “$8,000” for “$7,500”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–5, § 1006(b)][/us/pl/111/5/s1006/b], substituted “$4,000” for “$3,750” and “$8,000” for “$7,500”.
+    Subsec. (b)(1)(B). [Pub. L. 111–5][/us/pl/111/5], § 1006(b), substituted “$4,000” for “$3,750” and “$8,000” for “$7,500”.
 
-    Subsec. (b)(1)(C). [Pub. L. 111–5, § 1006(b)(1)][/us/pl/111/5/s1006/b/1], substituted “$8,000” for “$7,500”.
+    Subsec. (b)(1)(C). [Pub. L. 111–5][/us/pl/111/5], § 1006(b)(1), substituted “$8,000” for “$7,500”.
 
-    Subsec. (b)(1)(D). [Pub. L. 111–92, § 11(c)(1)][/us/pl/111/92/s11/c/1], added subpar. (D).
+    Subsec. (b)(1)(D). [Pub. L. 111–92][/us/pl/111/92], § 11(c)(1), added subpar. (D).
 
-    Subsec. (b)(2)(A)(i)(II). [Pub. L. 111–92, § 11(c)(2)][/us/pl/111/92/s11/c/2], substituted “$125,000 ($225,000” for “$75,000 ($150,000”.
+    Subsec. (b)(2)(A)(i)(II). [Pub. L. 111–92][/us/pl/111/92], § 11(c)(2), substituted “$125,000 ($225,000” for “$75,000 ($150,000”.
 
-    Subsec. (b)(3). [Pub. L. 111–92, § 11(d)][/us/pl/111/92/s11/d], added par. (3).
+    Subsec. (b)(3). [Pub. L. 111–92][/us/pl/111/92], § 11(d), added par. (3).
 
-    Subsec. (b)(4). [Pub. L. 111–92, § 12(a)(1)][/us/pl/111/92/s12/a/1], added par. (4).
+    Subsec. (b)(4). [Pub. L. 111–92][/us/pl/111/92], § 12(a)(1), added par. (4).
 
-    Subsec. (c)(3)(A)(i). [Pub. L. 111–92, § 12(c)][/us/pl/111/92/s12/c], inserted “(or, if married, such individual’s spouse)” after “person acquiring such property”.
+    Subsec. (c)(3)(A)(i). [Pub. L. 111–92][/us/pl/111/92], § 12(c), inserted “(or, if married, such individual’s spouse)” after “person acquiring such property”.
 
-    Subsec. (c)(6). [Pub. L. 111–92, § 11(b)][/us/pl/111/92/s11/b], added par. (6).
+    Subsec. (c)(6). [Pub. L. 111–92][/us/pl/111/92], § 11(b), added par. (6).
 
-    Subsec. (d). [Pub. L. 111–5, § 1006(d)(2)][/us/pl/111/5/s1006/d/2], (e), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (d). [Pub. L. 111–5][/us/pl/111/5], § 1006(d)(2), (e), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
     “(1) a credit under section 1400C (relating to first-time homebuyer in the District of Columbia) is allowable to the taxpayer (or the taxpayer’s spouse) for such taxable year or any prior taxable year,
 
     “(2) the residence is financed by the proceeds of a qualified mortgage issue the interest on which is exempt from tax under section 103,”.
 
-    Subsec. (d)(3). [Pub. L. 111–92, § 11(g)][/us/pl/111/92/s11/g], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–92][/us/pl/111/92], § 11(g), added par. (3).
 
-    Subsec. (d)(4). [Pub. L. 111–92, § 12(b)][/us/pl/111/92/s12/b], added par. (4).
+    Subsec. (d)(4). [Pub. L. 111–92][/us/pl/111/92], § 12(b), added par. (4).
 
-    Subsec. (f)(4)(D). [Pub. L. 111–92, § 11(a)(2)][/us/pl/111/92/s11/a/2], inserted “and 2010” after “2009” in heading and struck out “, and before December 1, 2009” after “December 31, 2008” in introductory provisions.
+    Subsec. (f)(4)(D). [Pub. L. 111–92][/us/pl/111/92], § 11(a)(2), inserted “and 2010” after “2009” in heading and struck out “, and before December 1, 2009” after “December 31, 2008” in introductory provisions.
 
-    [Pub. L. 111–5, § 1006(c)(1)][/us/pl/111/5/s1006/c/1], added subpar. (D).
+    [Pub. L. 111–5][/us/pl/111/5], § 1006(c)(1), added subpar. (D).
 
-    Subsec. (f)(4)(E). [Pub. L. 111–92, § 11(e)][/us/pl/111/92/s11/e], added subpar. (E).
+    Subsec. (f)(4)(E). [Pub. L. 111–92][/us/pl/111/92], § 11(e), added subpar. (E).
 
-    Subsec. (g). [Pub. L. 111–92, § 12(a)(2)][/us/pl/111/92/s12/a/2], inserted “(b)(4),” before “(c)”.
+    Subsec. (g). [Pub. L. 111–92][/us/pl/111/92], § 12(a)(2), inserted “(b)(4),” before “(c)”.
 
-    [Pub. L. 111–92, § 11(a)(3)][/us/pl/111/92/s11/a/3], amended subsec. (g) generally. Prior to amendment, text read as follows: “In the case of a purchase of a principal residence after December 31, 2008, and before December 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsections (c) and (f)(4)(D)).”
+    [Pub. L. 111–92][/us/pl/111/92], § 11(a)(3), amended subsec. (g) generally. Prior to amendment, text read as follows: “In the case of a purchase of a principal residence after December 31, 2008, and before December 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsections (c) and (f)(4)(D)).”
 
-    [Pub. L. 111–5, § 1006(a)(2)][/us/pl/111/5/s1006/a/2], (c)(2), substituted “December 1, 2009” for “July 1, 2009” and “subsections (c) and (f)(4)(D)” for “subsection (c)”.
+    [Pub. L. 111–5][/us/pl/111/5], § 1006(a)(2), (c)(2), substituted “December 1, 2009” for “July 1, 2009” and “subsections (c) and (f)(4)(D)” for “subsection (c)”.
 
-    Subsec. (h). [Pub. L. 111–92, § 11(a)(1)][/us/pl/111/92/s11/a/1], substituted “May 1, 2010” for “December 1, 2009”, designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (h). [Pub. L. 111–92][/us/pl/111/92], § 11(a)(1), substituted “May 1, 2010” for “December 1, 2009”, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    [Pub. L. 111–5, § 1006(a)(1)][/us/pl/111/5/s1006/a/1], substituted “December 1, 2009” for “July 1, 2009”.
+    [Pub. L. 111–5][/us/pl/111/5], § 1006(a)(1), substituted “December 1, 2009” for “July 1, 2009”.
 
-    Subsec. (h)(3). [Pub. L. 111–92, § 11(f)][/us/pl/111/92/s11/f], added par. (3).
+    Subsec. (h)(3). [Pub. L. 111–92][/us/pl/111/92], § 11(f), added par. (3).
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–198, § 2(c)][/us/pl/111/198/s2/c], July 2, 2010, [124 Stat. 1356][/us/stat/124/1356], provided that: 
+[Pub. L. 111–198][/us/pl/111/198], § 2(c), July 2, 2010, [124 Stat. 1356][/us/stat/124/1356], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to residences purchased after June 30, 2010.”
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–92, § 11(j)(1)][/us/pl/111/92/s11/j/1]–(3), Nov. 6, 2009, [123 Stat. 2991][/us/stat/123/2991], provided that:
+[Pub. L. 111–92][/us/pl/111/92], § 11(j)(1)–(3), Nov. 6, 2009, [123 Stat. 2991][/us/stat/123/2991], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -311,7 +311,7 @@
 
 >     The amendment made by subsection (e) \[amending this section\] shall apply to dispositions and cessations after December 31, 2008.”
 
-[Pub. L. 111–92, § 12(e)][/us/pl/111/92/s12/e], Nov. 6, 2009, [123 Stat. 2992][/us/stat/123/2992], provided that:
+[Pub. L. 111–92][/us/pl/111/92], § 12(e), Nov. 6, 2009, [123 Stat. 2992][/us/stat/123/2992], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -325,7 +325,7 @@
 
 >     The amendments made by subsection (d) \[amending [section 6213 of this title][/us/usc/t26/s6213]\] shall apply to returns for taxable years ending on or after April 9, 2008.”
 
-[Pub. L. 111–5, div. B, title I, § 1006(f)][/us/pl/111/5/s1006/f], Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317], provided that: 
+[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1006(f), Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1400C of this title][/us/usc/t26/s1400C]\] shall apply to residences purchased after December 31, 2008.”
 
@@ -340,54 +340,54 @@
 ----------
 ----------
 
-[/us/pl/110/289/s3011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3011%2Fa
+[/us/pl/110/289/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtI
 [/us/stat/122/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2888
-[/us/pl/111/5/s1006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fa
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F316
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2989-2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2989-2992
-[/us/pl/111/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs2%2Fa
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
 [/us/stat/124/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1356
 [/us/usc/t26/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs37
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F15
-[/us/pl/94/455/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs501%2Fb%2F2
+[/us/pl/94/455/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtV
 [/us/stat/90/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1558
-[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtI
 [/us/stat/91/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F133
-[/us/pl/111/198/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs2%2Fa
-[/us/pl/111/198/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs2%2Fb
-[/us/pl/111/5/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fb%2F1
-[/us/pl/111/5/s1006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fb
-[/us/pl/111/5/s1006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fb%2F1
-[/us/pl/111/92/s11/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fc%2F1
-[/us/pl/111/92/s11/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fc%2F2
-[/us/pl/111/92/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fd
-[/us/pl/111/92/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs12%2Fa%2F1
-[/us/pl/111/92/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs12%2Fc
-[/us/pl/111/92/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fb
-[/us/pl/111/5/s1006/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fd%2F2
-[/us/pl/111/92/s11/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fg
-[/us/pl/111/92/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs12%2Fb
-[/us/pl/111/92/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fa%2F2
-[/us/pl/111/5/s1006/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fc%2F1
-[/us/pl/111/92/s11/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fe
-[/us/pl/111/92/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs12%2Fa%2F2
-[/us/pl/111/92/s11/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fa%2F3
-[/us/pl/111/5/s1006/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fa%2F2
-[/us/pl/111/92/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fa%2F1
-[/us/pl/111/5/s1006/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Fa%2F1
-[/us/pl/111/92/s11/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Ff
-[/us/pl/111/198/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198%2Fs2%2Fc
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
+[/us/pl/111/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F198
 [/us/stat/124/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1356
-[/us/pl/111/92/s11/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs11%2Fj%2F1
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2991
 [/us/usc/t26/s1400C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1400C
-[/us/pl/111/92/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs12%2Fe
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2992
 [/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
 [/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
-[/us/pl/111/5/s1006/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1006%2Ff
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F317
 [/us/usc/t26/s1400C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1400C
 [/us/pl/110/289/s3011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3011%2Fc

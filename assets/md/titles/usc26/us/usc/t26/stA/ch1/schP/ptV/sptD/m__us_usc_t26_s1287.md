@@ -31,7 +31,7 @@
 
             The term “registered form” has the same meaning as when used in section 163(f).
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 552][/us/stat/98/552]; amended [Pub. L. 111–147, title V, § 502(a)(2)(D)][/us/pl/111/147/s502/a/2/D], Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107].)
+(Added [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 41(a), July 18, 1984, [98 Stat. 552][/us/stat/98/552]; amended [Pub. L. 111–147, title V][/us/pl/111/147/tV], § 502(a)(2)(D), Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/98/369/s41/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs41%2Fa
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F552
-[/us/pl/111/147/s502/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fa%2F2%2FD
+[/us/pl/111/147/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2FtV
 [/us/stat/124/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F107
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147

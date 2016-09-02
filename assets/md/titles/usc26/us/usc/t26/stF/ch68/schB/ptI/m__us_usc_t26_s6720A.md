@@ -23,11 +23,11 @@
 
         Any person who knowingly holds out for sale (other than for resale) any liquid described in subsection (a), shall pay a penalty of $10,000 for each such holding out for sale, in addition to the tax on such liquid (if any).
 
-(Added [Pub. L. 109–59, title XI, § 11167(a)][/us/pl/109/59/s11167/a], Aug. 10, 2005, [119 Stat. 1977][/us/stat/119/1977].)
+(Added [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11167(a), Aug. 10, 2005, [119 Stat. 1977][/us/stat/119/1977].)
 
  __Effective Date__ 
 
-[Pub. L. 109–59, title XI, § 11167(d)][/us/pl/109/59/s11167/d], Aug. 10, 2005, [119 Stat. 1978][/us/stat/119/1978], provided that: 
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11167(d), Aug. 10, 2005, [119 Stat. 1978][/us/stat/119/1978], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending [section 9503 of this title][/us/usc/t26/s9503]\] shall apply to any transfer, sale, or holding out for sale or resale occurring after the date of the enactment of this Act \[Aug. 10, 2005\].”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/109/59/s11167/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11167%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1977
-[/us/pl/109/59/s11167/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11167%2Fd
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1978
 [/us/usc/t26/s9503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9503
 

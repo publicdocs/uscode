@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–5, div. B, title I, § 1401(b)][/us/pl/111/5/s1401/b], Feb. 17, 2009, [123 Stat. 351][/us/stat/123/351], added item for part III.
+    2009—[Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1401(b), Feb. 17, 2009, [123 Stat. 351][/us/stat/123/351], added item for part III.
 
-    2005—[Pub. L. 109–135, title I, § 101(b)(3)][/us/pl/109/135/s101/b/3], Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593], substituted “Short-Term Regional Benefits” for “New York Liberty Zone Benefits” in subchapter heading and amended analysis generally, substituting items for parts I and II for item 1400L.
+    2005—[Pub. L. 109–135, title I][/us/pl/109/135/tI], § 101(b)(3), Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593], substituted “Short-Term Regional Benefits” for “New York Liberty Zone Benefits” in subchapter heading and amended analysis generally, substituting items for parts I and II for item 1400L.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1401%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F351
-[/us/pl/109/135/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs101%2Fb%2F3
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2593
 
 

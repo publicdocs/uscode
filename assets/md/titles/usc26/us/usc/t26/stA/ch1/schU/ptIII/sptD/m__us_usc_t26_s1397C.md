@@ -129,7 +129,7 @@
 
         then all the services performed by employees, all business activities, all tangible property, and all intangible property of the business entity or proprietorship that occur in or is located on the real property described in paragraphs (1) and (2) shall be treated as occurring or situated in an empowerment zone.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 552][/us/stat/107/552], § 1397B; amended [Pub. L. 104–188, title I, § 1703(m)][/us/pl/104/188/s1703/m], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX, § 956(a)][/us/pl/105/34/s956/a], Aug. 5, 1997, [111 Stat. 890][/us/stat/111/890]; [Pub. L. 106–170, title V, § 532(c)(4)][/us/pl/106/170/s532/c/4], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; renumbered § 1397C, [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602.)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(a), Aug. 10, 1993, [107 Stat. 552][/us/stat/107/552], § 1397B; amended [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1703(m), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 956(a), Aug. 5, 1997, [111 Stat. 890][/us/stat/111/890]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 532(c)(4), Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; renumbered § 1397C, [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 116(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602.)
 
  __Prior Provisions__ 
 
@@ -141,27 +141,27 @@
 
     1999—Subsec. (e)(2). [Pub. L. 106–170][/us/pl/106/170] substituted “section 1221(a)(4)” for “section 1221(4)”.
 
-    1997—Subsec. (b)(2). [Pub. L. 105–34, § 956(a)(1)][/us/pl/105/34/s956/a/1], substituted “50 percent” for “80 percent”.
+    1997—Subsec. (b)(2). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(1), substituted “50 percent” for “80 percent”.
 
-    Subsec. (b)(3). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], substituted “a substantial portion” for “substantially all”.
+    Subsec. (b)(3). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-    Subsec. (b)(4). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “entity is used in”.
+    Subsec. (b)(4). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “entity is used in”.
 
-    Subsec. (b)(5). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], substituted “a substantial portion” for “substantially all”.
+    Subsec. (b)(5). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-    Subsec. (c)(1). [Pub. L. 105–34, § 956(a)(1)][/us/pl/105/34/s956/a/1], substituted “50 percent” for “80 percent”.
+    Subsec. (c)(1). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(1), substituted “50 percent” for “80 percent”.
 
-    Subsec. (c)(2). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], substituted “a substantial portion” for “substantially all”.
+    Subsec. (c)(2). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-    Subsec. (c)(3). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “business is used in”.
+    Subsec. (c)(3). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), (3), substituted “a substantial portion” for “substantially all” and struck out “, and exclusively related to,” after “business is used in”.
 
-    Subsec. (c)(4). [Pub. L. 105–34, § 956(a)(2)][/us/pl/105/34/s956/a/2], substituted “a substantial portion” for “substantially all”.
+    Subsec. (c)(4). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(2), substituted “a substantial portion” for “substantially all”.
 
-    Subsec. (d)(2). [Pub. L. 105–34, § 956(a)(4)][/us/pl/105/34/s956/a/4], inserted concluding provisions.
+    Subsec. (d)(2). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(4), inserted concluding provisions.
 
-    Subsec. (d)(3). [Pub. L. 105–34, § 956(a)(5)][/us/pl/105/34/s956/a/5], substituted “at least 50 percent” for “substantially all”.
+    Subsec. (d)(3). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(5), substituted “at least 50 percent” for “substantially all”.
 
-    Subsec. (f). [Pub. L. 105–34, § 956(a)(6)][/us/pl/105/34/s956/a/6], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–34][/us/pl/105/34], § 956(a)(6), added subsec. (f).
 
     1996—Subsec. (d)(5)(B). [Pub. L. 104–188][/us/pl/104/188] struck out “preceding” before “taxable year” in introductory provisions.
 
@@ -171,7 +171,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title IX, § 956(b)][/us/pl/105/34/s956/b], Aug. 5, 1997, [111 Stat. 891][/us/stat/111/891], provided that:
+[Pub. L. 105–34, title IX][/us/pl/105/34/tIX], § 956(b), Aug. 5, 1997, [111 Stat. 891][/us/stat/111/891], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -192,36 +192,36 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fa
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F552
-[/us/pl/104/188/s1703/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Fm
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1877
-[/us/pl/105/34/s956/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F890
-[/us/pl/106/170/s532/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F4
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1931
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t26/s1397D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397D
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s1397B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397B
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
-[/us/pl/105/34/s956/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F1
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F1
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F2
-[/us/pl/105/34/s956/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F4
-[/us/pl/105/34/s956/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F5
-[/us/pl/105/34/s956/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fa%2F6
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170
-[/us/pl/105/34/s956/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs956%2Fb
+[/us/pl/105/34/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtIX
 [/us/stat/111/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F891
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66

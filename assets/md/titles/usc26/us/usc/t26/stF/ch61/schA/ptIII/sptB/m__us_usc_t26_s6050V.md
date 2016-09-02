@@ -77,7 +77,7 @@
 
         This section shall not apply to reportable acquisitions occurring after the date which is 2 years after the date of the enactment of this section.
 
-(Added [Pub. L. 109–280, title XII, § 1211(a)(1)][/us/pl/109/280/s1211/a/1], Aug. 17, 2006, [120 Stat. 1072][/us/stat/120/1072].)
+(Added [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1211(a)(1), Aug. 17, 2006, [120 Stat. 1072][/us/stat/120/1072].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–280, title XII, § 1211(d)][/us/pl/109/280/s1211/d], Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1211(d), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 6721 and 6724 of this title\] shall apply to acquisitions of contracts after the date of enactment of this Act \[Aug. 17, 2006\].”
 
@@ -100,11 +100,11 @@
 ----------
 ----------
 
-[/us/pl/109/280/s1211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fa%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1072
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fa%2F1
-[/us/pl/109/280/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fd
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
 
 

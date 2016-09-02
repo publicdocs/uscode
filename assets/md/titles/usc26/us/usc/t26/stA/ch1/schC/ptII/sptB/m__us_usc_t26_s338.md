@@ -75,7 +75,7 @@
 
                 The term “nonrecently purchased stock” means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
 
-    \[(c) __Repealed.__  __[__  __Pub. L. 99–514, title VI, § 631(b)(2)__  __][/us/pl/99/514/s631/b/2]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2272__  __][/us/stat/100/2272]__  __\]__ 
+    \[(c) __Repealed.__  __[__  __Pub. L. 99–514, title VI__  __][/us/pl/99/514/tVI]__  __, § 631(b)(2),__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2272__  __][/us/stat/100/2272]__  __\]__ 
 
     (d) __Purchasing corporation; target corporation; qualified stock purchase__ 
 
@@ -217,7 +217,7 @@
 
                 (ii) stock held by a target affiliate in a foreign corporation or a domestic corporation which is a DISC or described in section 1248(e) shall be excluded from the operation of this section.
 
-        \[(7) __Repealed.__  __[__  __Pub. L. 100–647, title I, § 1006(e)(20)__  __][/us/pl/100/647/s1006/e/20]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3403__  __][/us/stat/102/3403]__  __\]__ 
+        \[(7) __Repealed.__  __[__  __Pub. L. 100–647, title I__  __][/us/pl/100/647/tI]__  __, § 1006(e)(20),__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3403__  __][/us/stat/102/3403]__  __\]__ 
 
         (8) __Acquisitions by affiliated group treated as made by 1 corporation__ 
 
@@ -263,13 +263,13 @@
 
             For purposes of subsection (a)(1), fair market value may be determined on the basis of a formula provided in regulations prescribed by the Secretary which takes into account liabilities and other relevant items.
 
-        \[(12) __Repealed.__  __[__  __Pub. L. 99–514, title VI, § 631(e)(5)__  __][/us/pl/99/514/s631/e/5]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2273__  __][/us/stat/100/2273]__  __\]__ 
+        \[(12) __Repealed.__  __[__  __Pub. L. 99–514, title VI__  __][/us/pl/99/514/tVI]__  __, § 631(e)(5),__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2273__  __][/us/stat/100/2273]__  __\]__ 
 
         (13) __Tax on deemed sale not taken into account for estimated tax purposes__ 
 
             For purposes of section 6655, tax attributable to the sale described in subsection (a)(1) shall not be taken into account. The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10).
 
-        \[(14) __Repealed.__  __[__  __Pub. L. 108–27, title III, § 302(e)(4)(B)(i)__  __][/us/pl/108/27/s302/e/4/B/i]__  __,__  __May 28, 2003__  __,__  __[__  __117 Stat. 763__  __][/us/stat/117/763]__  __\]__ 
+        \[(14) __Repealed.__  __[__  __Pub. L. 108–27, title III__  __][/us/pl/108/27/tIII]__  __, § 302(e)(4)(B)(i),__  __May 28, 2003__  __,__  __[__  __117 Stat. 763__  __][/us/stat/117/763]__  __\]__ 
 
         (15) __Combined deemed sale return__ 
 
@@ -287,11 +287,11 @@
 
         (2) regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
 
-(Added [Pub. L. 97–248, title II, § 224(a)][/us/pl/97/248/s224/a], Sept. 3, 1982, [96 Stat. 485][/us/stat/96/485]; amended [Pub. L. 97–448, title III, § 306(a)(8)(A)(i)][/us/pl/97/448/s306/a/8/A/i], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 98–369, div. A, title VII, § 712(k)(1)][/us/pl/98/369/s712/k/1]–(5)(D), (6), (7), July 18, 1984, [98 Stat. 948–952][/us/stat/98/948-952]; [Pub. L. 99–514, title VI, § 631(b)][/us/pl/99/514/s631/b], (e)(5), title XII, § 1275(c)(6), title XVIII, §§ 1804(e)(8)(A), 1899A(7), Oct. 22, 1986, [100 Stat. 2272][/us/stat/100/2272], 2273, 2599, 2804, 2958; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3535, 3581; [Pub. L. 101–508, title XI, § 11323(c)(1)][/us/pl/101/508/s11323/c/1], Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465]; [Pub. L. 108–27, title III, § 302(e)(4)(B)(i)][/us/pl/108/27/s302/e/4/B/i], May 28, 2003, [117 Stat. 763][/us/stat/117/763]; [Pub. L. 108–357, title VIII, § 839(a)][/us/pl/108/357/s839/a], Oct. 22, 2004, [118 Stat. 1597][/us/stat/118/1597].)
+(Added [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 224(a), Sept. 3, 1982, [96 Stat. 485][/us/stat/96/485]; amended [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(a)(8)(A)(i), Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 712(k)(1)–(5)(D), (6), (7), July 18, 1984, [98 Stat. 948–952][/us/stat/98/948-952]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(b), (e)(5), title XII, § 1275(c)(6), title XVIII, §§ 1804(e)(8)(A), 1899A(7), Oct. 22, 1986, [100 Stat. 2272][/us/stat/100/2272], 2273, 2599, 2804, 2958; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3535, 3581; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11323(c)(1), Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465]; [Pub. L. 108–27, title III][/us/pl/108/27/tIII], § 302(e)(4)(B)(i), May 28, 2003, [117 Stat. 763][/us/stat/117/763]; [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 839(a), Oct. 22, 2004, [118 Stat. 1597][/us/stat/118/1597].)
 
  __Prior Provisions__ 
 
-    A prior section 338, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 107][/us/stat/68A/107], made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by [Pub. L. 97–248, § 222(e)(4)][/us/pl/97/248/s222/e/4].
+    A prior section 338, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 107][/us/stat/68A/107], made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by [Pub. L. 97–248][/us/pl/97/248], § 222(e)(4).
 
  __Amendments__ 
 
@@ -301,9 +301,9 @@
 
     1990—Subsec. (h)(10)(C). [Pub. L. 101–508][/us/pl/101/508] added subpar. (C).
 
-    1988—Subsec. (e)(3). [Pub. L. 100–647, § 1018(d)(9)][/us/pl/100/647/s1018/d/9], substituted “which meet the requirements of section 1504(a)(2)” for “which meet the 80 percent requirements of subparagraphs (A) and (B) of subsection (d)(3)”.
+    1988—Subsec. (e)(3). [Pub. L. 100–647][/us/pl/100/647], § 1018(d)(9), substituted “which meet the requirements of section 1504(a)(2)” for “which meet the 80 percent requirements of subparagraphs (A) and (B) of subsection (d)(3)”.
 
-    Subsec. (h)(7). [Pub. L. 100–647, § 1006(e)(20)][/us/pl/100/647/s1006/e/20], struck out par. (7) which read as follows: “Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
+    Subsec. (h)(7). [Pub. L. 100–647][/us/pl/100/647], § 1006(e)(20), struck out par. (7) which read as follows: “Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
 
     “(A) purchase, or
 
@@ -313,13 +313,13 @@
 
     “(ii) in the case of a shareholder who is not a corporation, to which section 301 applies.”
 
-    Subsec. (h)(16). [Pub. L. 100–647, § 1012(bb)(5)(A)][/us/pl/100/647/s1012/bb/5/A], added par. (16).
+    Subsec. (h)(16). [Pub. L. 100–647][/us/pl/100/647], § 1012(bb)(5)(A), added par. (16).
 
-    1986—Subsec. (a)(1). [Pub. L. 99–514, § 631(b)(1)][/us/pl/99/514/s631/b/1], struck out “to which section 337 applies” after “in a single transaction”.
+    1986—Subsec. (a)(1). [Pub. L. 99–514][/us/pl/99/514], § 631(b)(1), struck out “to which section 337 applies” after “in a single transaction”.
 
-    Subsec. (c). [Pub. L. 99–514, § 631(b)(2)][/us/pl/99/514/s631/b/2], struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
+    Subsec. (c). [Pub. L. 99–514][/us/pl/99/514], § 631(b)(2), struck out subsec. (c) relating to special rules for coordination with section 337 where purchasing corporation holds less than 100 percent of stock, and in case of certain redemptions where an election is made under this section.
 
-    Subsec. (d)(3). [Pub. L. 99–514, § 1804(e)(8)(A)][/us/pl/99/514/s1804/e/8/A], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘qualified stock purchase’ means any transaction or series of transactions in which stock of 1 corporation possessing—
+    Subsec. (d)(3). [Pub. L. 99–514][/us/pl/99/514], § 1804(e)(8)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘qualified stock purchase’ means any transaction or series of transactions in which stock of 1 corporation possessing—
 
     “(A) at least 80 percent of total combined voting power of all classes of stock entitled to vote, and
 
@@ -327,61 +327,61 @@
 
     is acquired by another corporation by purchase during the 12-month acquisition period.”
 
-    Subsec. (h)(3)(C)(i). [Pub. L. 99–514, § 1899A(7)][/us/pl/99/514/s1899A/7], substituted “subparagraphs” for “subparagraph”.
+    Subsec. (h)(3)(C)(i). [Pub. L. 99–514][/us/pl/99/514], § 1899A(7), substituted “subparagraphs” for “subparagraph”.
 
-    Subsec. (h)(6)(B)(i). [Pub. L. 99–514, § 1275(c)(6)][/us/pl/99/514/s1275/c/6], struck out “a corporation described in section 934(b),” after “DISC,”.
+    Subsec. (h)(6)(B)(i). [Pub. L. 99–514][/us/pl/99/514], § 1275(c)(6), struck out “a corporation described in section 934(b),” after “DISC,”.
 
-    Subsec. (h)(10)(B). [Pub. L. 99–514, § 631(b)(3)][/us/pl/99/514/s631/b/3], inserted provision that to the extent provided in regulations, term “selling consolidated group” also includes any affiliated group of corporations which includes the target corporation (whether or not such group files a consolidated return).
+    Subsec. (h)(10)(B). [Pub. L. 99–514][/us/pl/99/514], § 631(b)(3), inserted provision that to the extent provided in regulations, term “selling consolidated group” also includes any affiliated group of corporations which includes the target corporation (whether or not such group files a consolidated return).
 
-    Subsec. (h)(12). [Pub. L. 99–514, § 631(e)(5)][/us/pl/99/514/s631/e/5], struck out par. (12) relating to applicability of section 337 where target had adopted plan for complete liquidation.
+    Subsec. (h)(12). [Pub. L. 99–514][/us/pl/99/514], § 631(e)(5), struck out par. (12) relating to applicability of section 337 where target had adopted plan for complete liquidation.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–369, § 712(k)(1)(A)][/us/pl/98/369/s712/k/1/A], inserted “at fair market value” after “acquisition date”.
+    1984—Subsec. (a)(1). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(A), inserted “at fair market value” after “acquisition date”.
 
-    Subsec. (b). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
+    Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
 
-    Subsec. (b)(1). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation’s recently purchased stock, and” for “purchasing corporation’s stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation’s nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
+    Subsec. (b)(1). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation’s recently purchased stock, and” for “purchasing corporation’s stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation’s nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
 
-    Subsec. (b)(2). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
+    Subsec. (b)(2). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
 
-    Subsec. (b)(3). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], added par. (3). Former par. (3) redesignated (5).
+    Subsec. (b)(3). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), added par. (3). Former par. (3) redesignated (5).
 
-    Subsec. (b)(4). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], redesignated former par. (2) as (4), substituted in introductory text “corporation’s recently purchased stock,” for “purchasing corporation’s stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation’s nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation’s recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
+    Subsec. (b)(4). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), redesignated former par. (2) as (4), substituted in introductory text “corporation’s recently purchased stock,” for “purchasing corporation’s stock in the target corporation on the acquisition date”, inserted in subpar. (A) “minus the percentage of stock (by value) in the target corporation attributable to the purchasing corporation’s nonrecently purchased stock”, and substituted in subpar. (B) “in the target corporation attributable to the purchasing corporation’s recently purchased stock” for “of the target corporation held by the purchasing corporation on the acquisition date”.
 
-    Subsec. (b)(5). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], redesignated former par. (3) as (5) and inserted reference to par. (2).
+    Subsec. (b)(5). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), redesignated former par. (3) as (5) and inserted reference to par. (2).
 
-    Subsec. (b)(6). [Pub. L. 98–369, § 712(k)(1)(B)][/us/pl/98/369/s712/k/1/B], added par. (6).
+    Subsec. (b)(6). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(1)(B), added par. (6).
 
-    Subsec. (c)(1). [Pub. L. 98–369, § 712(k)(2)][/us/pl/98/369/s712/k/2], inserted in last sentence “and section 333 does not apply to such liquidation”.
+    Subsec. (c)(1). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(2), inserted in last sentence “and section 333 does not apply to such liquidation”.
 
-    Subsec. (e)(2). [Pub. L. 98–369, § 712(k)(3)][/us/pl/98/369/s712/k/3], substituted “wholly” for “(in whole or in part)” in subpar. (B), struck out subpar. (D) providing for nonapplication of par. (1) to any acquisition by the purchasing corporation if, to the extent provided in regulations, the property acquired is located outside the United States, redesignated subpar. (E) as (D), and, in subpar. (D) as redesignated, inserted “and meets such conditions as such regulations may provide”.
+    Subsec. (e)(2). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(3), substituted “wholly” for “(in whole or in part)” in subpar. (B), struck out subpar. (D) providing for nonapplication of par. (1) to any acquisition by the purchasing corporation if, to the extent provided in regulations, the property acquired is located outside the United States, redesignated subpar. (E) as (D), and, in subpar. (D) as redesignated, inserted “and meets such conditions as such regulations may provide”.
 
-    Subsec. (g)(1). [Pub. L. 98–369, § 712(k)(4)][/us/pl/98/369/s712/k/4], substituted “the 15th day of the 9th month beginning after the month in which the acquisition date occurs” for “75 days after the acquisition date”.
+    Subsec. (g)(1). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(4), substituted “the 15th day of the 9th month beginning after the month in which the acquisition date occurs” for “75 days after the acquisition date”.
 
-    Subsec. (h)(1). [Pub. L. 98–369, § 712(k)(5)(C)][/us/pl/98/369/s712/k/5/C], included within 12-month acquisition period the period beginning with the date on which the acquiring corporation is first considered as owning stock owned by corporation from which acquisition was made.
+    Subsec. (h)(1). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(5)(C), included within 12-month acquisition period the period beginning with the date on which the acquiring corporation is first considered as owning stock owned by corporation from which acquisition was made.
 
-    Subsec. (h)(3)(A)(ii). [Pub. L. 98–369, § 712(k)(5)(D)][/us/pl/98/369/s712/k/5/D], included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
+    Subsec. (h)(3)(A)(ii). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(5)(D), included references to sections 354, 355, and 356 and in defining “purchase” provided that the stock not be acquired in any other transaction described in regulations in which the transferor does not recognize the entire amount of the gain or loss realized on the transaction.
 
-    Subsec. (h)(3)(B). [Pub. L. 98–369, § 712(k)(5)(A)][/us/pl/98/369/s712/k/5/A], substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
+    Subsec. (h)(3)(B). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(5)(A), substituted in heading “under subsection (a)” for “of stock of subsidiaries” and in text “The term ‘purchase’ includes any deemed purchase under subsection (a)(2). The acquisition date for a corporation which is deemed purchased under subsection (a)(2) shall be determined under regulations prescribed by the Secretary” for “If stock in a corporation is acquired by purchase (within the meaning of subparagraph (A)) and, as a result of such acquisition, the corporation making such purchase is treated (by reason of section 318(a)) as owning stock in a 3rd corporation, the corporation making such purchase shall be treated as having purchased such stock in such 3rd corporation. The corporation making such purchase shall be treated as purchasing stock in the 3rd corporation by reason of the preceding sentence on the first day on which the purchasing corporation is considered under section 318(a) as owning such stock”.
 
-    Subsec. (h)(3)(C). [Pub. L. 98–369, § 712(k)(5)(B)][/us/pl/98/369/s712/k/5/B], added subpar. (C).
+    Subsec. (h)(3)(C). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(5)(B), added subpar. (C).
 
-    Subsec. (h)(7). [Pub. L. 98–369, § 712(k)(6)(A)][/us/pl/98/369/s712/k/6/A], added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
+    Subsec. (h)(7). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(6)(A), added par. (7) and struck out former par. (7) which had provided that acquisitions by purchasing corporation include acquisitions by corporations affiliated with purchasing corporation. See subsec. (h)(8).
 
-    Subsec. (h)(8). [Pub. L. 98–369, § 712(k)(6)(A)][/us/pl/98/369/s712/k/6/A], added par. (8) incorporating former par. (7) provision stating that “Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation.” Former par. (8) redesignated (9).
+    Subsec. (h)(8). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(6)(A), added par. (8) incorporating former par. (7) provision stating that “Except as otherwise provided in regulations, an acquisition of stock or assets by any member of an affiliated group which includes a purchasing corporation shall be treated as made by the purchasing corporation.” Former par. (8) redesignated (9).
 
-    Subsec. (h)(9). [Pub. L. 98–369, § 712(k)(6)(A)][/us/pl/98/369/s712/k/6/A], (B), redesignated former par. (8) as (9) and substituted therein “paragraph (10)” for “paragraph (9)”. Former par. (9) redesignated (10).
+    Subsec. (h)(9). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(6)(A), (B), redesignated former par. (8) as (9) and substituted therein “paragraph (10)” for “paragraph (9)”. Former par. (9) redesignated (10).
 
-    Subsec. (h)(10). [Pub. L. 98–369, § 712(k)(6)(A)][/us/pl/98/369/s712/k/6/A], redesignated former par. (9) as (10).
+    Subsec. (h)(10). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(6)(A), redesignated former par. (9) as (10).
 
-    Subsec. (h)(11) to (15). [Pub. L. 98–369, § 712(k)(6)(C)][/us/pl/98/369/s712/k/6/C], added pars. (11) to (15).
+    Subsec. (h)(11) to (15). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(6)(C), added pars. (11) to (15).
 
-    Subsec. (i). [Pub. L. 98–369, § 712(k)(7)][/us/pl/98/369/s712/k/7], provided in introductory text that the regulations be appropriate to carry out the purposes of this section; designated existing provisions as par. (1) and substituted therein “treatment of stock and asset sales and purchases” for “treatment of stock and asset purchases with respect to a target corporation and its target affiliates (whether by treating all of them as stock purchases or as asset purchases)” before “may not be circumvented”, and added par. (2).
+    Subsec. (i). [Pub. L. 98–369][/us/pl/98/369], § 712(k)(7), provided in introductory text that the regulations be appropriate to carry out the purposes of this section; designated existing provisions as par. (1) and substituted therein “treatment of stock and asset sales and purchases” for “treatment of stock and asset purchases with respect to a target corporation and its target affiliates (whether by treating all of them as stock purchases or as asset purchases)” before “may not be circumvented”, and added par. (2).
 
     1983—Subsec. (h)(8), (9). [Pub. L. 97–448][/us/pl/97/448] added pars. (8) and (9).
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 839(b)][/us/pl/108/357/s839/b], Oct. 22, 2004, [118 Stat. 1597][/us/stat/118/1597], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 839(b), Oct. 22, 2004, [118 Stat. 1597][/us/stat/118/1597], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
@@ -391,7 +391,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11323(d)][/us/pl/101/508/s11323/d], Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465], provided that:
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11323(d), Nov. 5, 1990, [104 Stat. 1388–465][/us/stat/104/1388-465], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -403,7 +403,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–647, title I, § 1012(bb)(5)(B)][/us/pl/100/647/s1012/bb/5/B], Nov. 10, 1988, [102 Stat. 3535][/us/stat/102/3535], provided that: 
+[Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(bb)(5)(B), Nov. 10, 1988, [102 Stat. 3535][/us/stat/102/3535], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply to qualified stock purchases (as defined in section 338(d)(3) of the 1986 Code) after March 31, 1988, except that, in the case of an election under section 338(h)(10) of the 1986 Code, such amendment shall apply to qualified stock purchases (as so defined) after June 10, 1987.”
 
@@ -415,13 +415,13 @@
 
     Amendment by [section 1275(c)(6) of Pub. L. 99–514][/us/pl/99/514/s1275/c/6] applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see [section 1277 of Pub. L. 99–514][/us/pl/99/514/s1277], set out as a note under [section 931 of this title][/us/usc/t26/s931].
 
-[Pub. L. 99–514, title XVIII, § 1804(e)(8)(B)][/us/pl/99/514/s1804/e/8/B], Oct. 22, 1986, [100 Stat. 2804][/us/stat/100/2804], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(e)(8)(B), Oct. 22, 1986, [100 Stat. 2804][/us/stat/100/2804], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall apply in cases where the 12-month acquisition period (as defined in section 338(h)(1) of the Internal Revenue Code of 1954 \[now 1986\] begins after December 31, 1985.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. A, title VII, § 712(k)(9)][/us/pl/98/369/s712/k/9], July 18, 1984, [98 Stat. 952][/us/stat/98/952], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 712(k)(9), July 18, 1984, [98 Stat. 952][/us/stat/98/952], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -439,7 +439,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 97–248, title II, § 224(d)][/us/pl/97/248/s224/d], Sept. 3, 1982, [96 Stat. 489][/us/stat/96/489], as amended by [Pub. L. 97–448, title III, § 306(a)(8)(B)][/us/pl/97/448/s306/a/8/B], Jan. 12, 1983, [96 Stat. 2403][/us/stat/96/2403]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title II][/us/pl/97/248/tII], § 224(d), Sept. 3, 1982, [96 Stat. 489][/us/stat/96/489], as amended by [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(a)(8)(B), Jan. 12, 1983, [96 Stat. 2403][/us/stat/96/2403]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -501,7 +501,7 @@
 
  __Treatment of Certain Corporation Organized on__  __February 22, 1983__ 
 
-[Pub. L. 99–514, title XVIII, § 1804(e)(9)][/us/pl/99/514/s1804/e/9], Oct. 22, 1986, [100 Stat. 2804][/us/stat/100/2804], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1804(e)(9), Oct. 22, 1986, [100 Stat. 2804][/us/stat/100/2804], provided that: 
 
 > “In the case of a Rhode Island corporation which was organized on February 22, 1983, and which on February 25, 1983—
 
@@ -515,13 +515,13 @@
 
  __Special Rules for Deemed Purchases under Prior Law__ 
 
-[Pub. L. 98–369, div. A, title VII, § 712(k)(10)][/us/pl/98/369/s712/k/10], July 18, 1984, [98 Stat. 953][/us/stat/98/953], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 712(k)(10), July 18, 1984, [98 Stat. 953][/us/stat/98/953], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and [section 318(b)(4) of this title][/us/usc/t26/s318/b/4]\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
 
  __Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group__ 
 
-[Pub. L. 97–448, title III, § 306(a)(8)(A)(ii)][/us/pl/97/448/s306/a/8/A/ii], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402], as amended by [Pub. L. 98–369, div. A, title VII, § 722(a)(3)][/us/pl/98/369/s722/a/3], July 18, 1984, [98 Stat. 973][/us/stat/98/973]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(a)(8)(A)(ii), Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402], as amended by [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 722(a)(3), July 18, 1984, [98 Stat. 973][/us/stat/98/973]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “If—
 
@@ -538,76 +538,76 @@
 ----------
 ----------
 
-[/us/pl/99/514/s631/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fb%2F2
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2272
-[/us/pl/100/647/s1006/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F20
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3403
-[/us/pl/99/514/s631/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F5
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2273
-[/us/pl/108/27/s302/e/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F4%2FB%2Fi
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F763
-[/us/pl/97/248/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs224%2Fa
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F485
-[/us/pl/97/448/s306/a/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F8%2FA%2Fi
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2402
-[/us/pl/98/369/s712/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/948-952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F948-952
-[/us/pl/99/514/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fb
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2272
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3403
-[/us/pl/101/508/s11323/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11323%2Fc%2F1
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-465
-[/us/pl/108/27/s302/e/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Fe%2F4%2FB%2Fi
+[/us/pl/108/27/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2FtIII
 [/us/stat/117/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F763
-[/us/pl/108/357/s839/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs839%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1597
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F107
-[/us/pl/97/248/s222/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222%2Fe%2F4
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/100/647/s1018/d/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fd%2F9
-[/us/pl/100/647/s1006/e/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fe%2F20
-[/us/pl/100/647/s1012/bb/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fbb%2F5%2FA
-[/us/pl/99/514/s631/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fb%2F1
-[/us/pl/99/514/s631/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fb%2F2
-[/us/pl/99/514/s1804/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F8%2FA
-[/us/pl/99/514/s1899A/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F7
-[/us/pl/99/514/s1275/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1275%2Fc%2F6
-[/us/pl/99/514/s631/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fb%2F3
-[/us/pl/99/514/s631/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F5
-[/us/pl/98/369/s712/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FA
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F1%2FB
-[/us/pl/98/369/s712/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F2
-[/us/pl/98/369/s712/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F3
-[/us/pl/98/369/s712/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F4
-[/us/pl/98/369/s712/k/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F5%2FC
-[/us/pl/98/369/s712/k/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F5%2FD
-[/us/pl/98/369/s712/k/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F5%2FA
-[/us/pl/98/369/s712/k/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F5%2FB
-[/us/pl/98/369/s712/k/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F6%2FA
-[/us/pl/98/369/s712/k/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F6%2FA
-[/us/pl/98/369/s712/k/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F6%2FA
-[/us/pl/98/369/s712/k/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F6%2FA
-[/us/pl/98/369/s712/k/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F6%2FC
-[/us/pl/98/369/s712/k/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F7
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
-[/us/pl/108/357/s839/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs839%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1597
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/108/27/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27%2Fs302%2Ff
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/101/508/s11323/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11323%2Fd
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-465
-[/us/pl/100/647/s1012/bb/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fbb%2F5%2FB
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3535
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -620,11 +620,11 @@
 [/us/pl/99/514/s1275/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1275%2Fc%2F6
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931
-[/us/pl/99/514/s1804/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F8%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2804
-[/us/pl/98/369/s712/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F9
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F952
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/98/369/s712/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -634,24 +634,24 @@
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/448/s311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs311%2Fd
 [/us/usc/t26/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs31
-[/us/pl/97/248/s224/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs224%2Fd
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F489
-[/us/pl/97/448/s306/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F8%2FB
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2403
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/514/s1804/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fe%2F9
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2804
-[/us/pl/98/369/s712/k/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F10
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F953
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s318/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs318%2Fb%2F4
-[/us/pl/97/448/s306/a/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fa%2F8%2FA%2Fii
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2402
-[/us/pl/98/369/s722/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs722%2Fa%2F3
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F973
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

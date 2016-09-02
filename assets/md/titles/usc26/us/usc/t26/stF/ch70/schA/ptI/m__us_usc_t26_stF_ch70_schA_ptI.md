@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–203, title X, § 10713(b)(2)(H)][/us/pl/100/203/s10713/b/2/H], Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470], added item 6852.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(b)(2)(H), Dec. 22, 1987, [101 Stat. 1330–470][/us/stat/101/1330-470], added item 6852.
 
-    1976—[Pub. L. 94–455, title XII, § 1204(c)(12)][/us/pl/94/455/s1204/c/12], Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], substituted “assessments of income tax” for “of taxable year” in item 6851.
+    1976—[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1204(c)(12), Oct. 4, 1976, [90 Stat. 1699][/us/stat/90/1699], substituted “assessments of income tax” for “of taxable year” in item 6851.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10713/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fb%2F2%2FH
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-470
-[/us/pl/94/455/s1204/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1204%2Fc%2F12
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1699
 
 

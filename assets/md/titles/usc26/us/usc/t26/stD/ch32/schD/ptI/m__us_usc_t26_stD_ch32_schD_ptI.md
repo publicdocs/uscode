@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    1984—[Pub. L. 98–369, div. A, title X, § 1015(d)][/us/pl/98/369/s1015/d], July 18, 1984, [98 Stat. 1019][/us/stat/98/1019], added item 4162.
+    1984—[Pub. L. 98–369, div. A, title X][/us/pl/98/369/dA/tX], § 1015(d), July 18, 1984, [98 Stat. 1019][/us/stat/98/1019], added item 4162.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/98/369/s1015/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1015%2Fd
+[/us/pl/98/369/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtX
 [/us/stat/98/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1019
 
 

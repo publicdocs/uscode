@@ -31,7 +31,7 @@
 
         If the Secretary determines that any reinsurance contract has a significant tax avoidance effect on any party to such contract, the Secretary may make proper adjustments with respect to such party to eliminate such tax avoidance effect (including treating such contract with respect to such party as terminated on December 31 of each year and reinstated on January 1 of the next year).
 
-(Added [Pub. L. 98–369, div. A, title II, § 212(a)][/us/pl/98/369/s212/a], July 18, 1984, [98 Stat. 757][/us/stat/98/757]; amended [Pub. L. 108–357, title VIII, § 803(a)][/us/pl/108/357/s803/a], Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569].)
+(Added [Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 212(a), July 18, 1984, [98 Stat. 757][/us/stat/98/757]; amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 803(a), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title VIII, § 803(b)][/us/pl/108/357/s803/b], Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 803(b), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any risk reinsured after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
  __Effective Date__ 
 
-[Pub. L. 98–369, div. A, title II, § 217(d)][/us/pl/98/369/s217/d], July 18, 1984, [98 Stat. 762][/us/stat/98/762], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 98–369, div. A, title II][/us/pl/98/369/dA/tII], § 217(d), July 18, 1984, [98 Stat. 762][/us/stat/98/762], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) Subsection (a) of section 845 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply with respect to any risk reinsured on or after September 27, 1983.
 
@@ -58,16 +58,16 @@
 ----------
 ----------
 
-[/us/pl/98/369/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs212%2Fa
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F757
-[/us/pl/108/357/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs803%2Fa
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1569
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs803%2Fb
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1569
-[/us/pl/98/369/s217/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs217%2Fd
+[/us/pl/98/369/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtII
 [/us/stat/98/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F762
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

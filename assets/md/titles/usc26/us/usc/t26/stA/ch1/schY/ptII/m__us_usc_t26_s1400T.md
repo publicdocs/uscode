@@ -29,7 +29,7 @@
 
         Subsection (a) shall not apply to financing provided after December 31, 2010.
 
-(Added [Pub. L. 109–135, title II, § 201(a)][/us/pl/109/135/s201/a], Dec. 21, 2005, [119 Stat. 2607][/us/stat/119/2607].)
+(Added [Pub. L. 109–135, title II][/us/pl/109/135/tII], § 201(a), Dec. 21, 2005, [119 Stat. 2607][/us/stat/119/2607].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/109/135/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs201%2Fa
+[/us/pl/109/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtII
 [/us/stat/119/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2607
 
 

@@ -43,7 +43,7 @@
 
         All provisions of law, including penalties, applicable in respect of internal revenue taxes on tobacco products and cigarette papers and tubes shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
-(Added [Pub. L. 85–859, title II, § 202][/us/pl/85/859/s202], Sept. 2, 1958, [72 Stat. 1420][/us/stat/72/1420]; amended [Pub. L. 91–606, title III, § 301(j)][/us/pl/91/606/s301/j], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 93–288, title VII, § 702(j)][/us/pl/93/288/s702/j], formerly title VI, § 602(j), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(j), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 108–311, title IV, § 408(a)(7)(E)][/us/pl/108/311/s408/a/7/E], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 202, Sept. 2, 1958, [72 Stat. 1420][/us/stat/72/1420]; amended [Pub. L. 91–606, title III][/us/pl/91/606/tIII], § 301(j), Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 93–288, title VII][/us/pl/93/288/tVII], § 702(j), formerly title VI, § 602(j), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(j), [Pub. L. 103–337, div. C, title XXXIV][/us/pl/103/337/dC/tXXXIV], § 3411(a)(1), (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 109(l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(a)(7)(E), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Losses of Tobacco Products Caused by Disaster__ 
 
-    [Pub. L. 85–859, title II, § 209][/us/pl/85/859/s209], Sept. 2, 1958, [72 Stat. 1434][/us/stat/72/1434], authorized payments, without interest, of amounts equal to internal revenue taxes and customs duties paid by persons suffering a major disaster, pursuant to former [act Sept. 30, 1950, ch. 1125][/us/act/1950-09-30/ch1125], [64 Stat. 1109][/us/stat/64/1109], for disasters occurring in the United States after Dec. 31, 1954, and before Sept. 2, 1958, in respect to tobacco products and cigarette papers and tubes; specified persons to whom the payments would be made and the procedure for allowance of claims; required the destruction of such tobacco products and cigarette papers and tubes under supervision; and made other laws applicable to such payments insofar as not inconsistent with [section 209 of Pub. L. 85–859][/us/pl/85/859/s209].
+    [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 209, Sept. 2, 1958, [72 Stat. 1434][/us/stat/72/1434], authorized payments, without interest, of amounts equal to internal revenue taxes and customs duties paid by persons suffering a major disaster, pursuant to former [act Sept. 30, 1950, ch. 1125][/us/act/1950-09-30/ch1125], [64 Stat. 1109][/us/stat/64/1109], for disasters occurring in the United States after Dec. 31, 1954, and before Sept. 2, 1958, in respect to tobacco products and cigarette papers and tubes; specified persons to whom the payments would be made and the procedure for allowance of claims; required the destruction of such tobacco products and cigarette papers and tubes under supervision; and made other laws applicable to such payments insofar as not inconsistent with [section 209 of Pub. L. 85–859][/us/pl/85/859/s209].
 
 ----------
 
@@ -84,19 +84,19 @@
 ----------
 ----------
 
-[/us/pl/85/859/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs202
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1420
-[/us/pl/91/606/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs301%2Fj
+[/us/pl/91/606/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtIII
 [/us/stat/84/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1759
-[/us/pl/93/288/s702/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs702%2Fj
+[/us/pl/93/288/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVII
 [/us/stat/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F164
-[/us/pl/103/337/s3411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3411%2Fa%2F1
+[/us/pl/103/337/dC/tXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdC%2FtXXXIV
 [/us/stat/108/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3100
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/100/707/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2Fs109
+[/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4709
-[/us/pl/108/311/s408/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F7%2FE
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
@@ -115,7 +115,7 @@
 [/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
 [/us/pl/85/859/s210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs210%2Fa%2F1
 [/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
-[/us/pl/85/859/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs209
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1434
 [/us/act/1950-09-30/ch1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fch1125
 [/us/stat/64/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1109

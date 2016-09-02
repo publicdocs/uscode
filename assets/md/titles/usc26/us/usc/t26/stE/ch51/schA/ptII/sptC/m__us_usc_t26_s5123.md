@@ -23,11 +23,11 @@
 
         The Secretary may enter during business hours the premises (including places of storage) of any dealer for the purpose of inspecting or examining any records or other documents required to be kept by such dealer under this chapter or regulations issued pursuant thereto and any distilled spirits, wines, or beer kept or stored by such dealer on such premises.
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1348][/us/stat/72/1348], § 5146; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; renumbered § 5123, [Pub. L. 109–59, title XI, § 11125(b)(7)][/us/pl/109/59/s11125/b/7], Aug. 10, 2005, [119 Stat. 1955][/us/stat/119/1955].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1348][/us/stat/72/1348], § 5146; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; renumbered § 5123, [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(b)(7), Aug. 10, 2005, [119 Stat. 1955][/us/stat/119/1955].)
 
  __Prior Provisions__ 
 
-    A prior section 5123, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1344][/us/stat/72/1344]; amended [Pub. L. 87–863, § 4(a)][/us/pl/87/863/s4/a], Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title II, § 2004(t)(3)][/us/pl/100/647/s2004/t/3], Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], related to exemptions from special tax on certain wholesale and retail dealers in liquors or beer, prior to repeal by [Pub. L. 109–59, title XI, § 11125(a)(1)(D)][/us/pl/109/59/s11125/a/1/D], (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+    A prior section 5123, added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1344][/us/stat/72/1344]; amended [Pub. L. 87–863][/us/pl/87/863], § 4(a), Oct. 23, 1962, [76 Stat. 1142][/us/stat/76/1142]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(t)(3), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], related to exemptions from special tax on certain wholesale and retail dealers in liquors or beer, prior to repeal by [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11125(a)(1)(D), (c), Aug. 10, 2005, [119 Stat. 1953][/us/stat/119/1953], 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
     Another prior section 5123, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 621][/us/stat/68A/621], related to exemptions from tax on retail dealers of liquors or beer, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
@@ -44,21 +44,21 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1348
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/109/59/s11125/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fb%2F7
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1955
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1344
-[/us/pl/87/863/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863%2Fs4%2Fa
+[/us/pl/87/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F863
 [/us/stat/76/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1142
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/100/647/s2004/t/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Ft%2F3
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3610
-[/us/pl/109/59/s11125/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11125%2Fa%2F1%2FD
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1953
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F621

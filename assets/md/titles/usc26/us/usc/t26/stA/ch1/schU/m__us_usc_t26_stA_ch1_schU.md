@@ -67,11 +67,11 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
+    A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(a), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–34, title II, § 226(b)(1)][/us/pl/105/34/s226/b/1], Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], added items for parts IV and V and struck out former item for part IV “Regulations”.
+    1997—[Pub. L. 105–34, title II][/us/pl/105/34/tII], § 226(b)(1), Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], added items for parts IV and V and struck out former item for part IV “Regulations”.
 
 ----------
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
-[/us/pl/105/34/s226/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs226%2Fb%2F1
+[/us/pl/105/34/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtII
 [/us/stat/111/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F824
 
 

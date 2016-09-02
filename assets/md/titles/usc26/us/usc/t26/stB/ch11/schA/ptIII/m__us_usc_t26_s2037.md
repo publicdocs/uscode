@@ -33,7 +33,7 @@
 
         but such term does not include a possibility that the income alone from such property may return to him or become subject to a power of disposition by him. The value of a reversionary interest immediately before the death of the decedent shall be determined (without regard to the fact of the decedent’s death) by usual methods of valuation, including the use of tables of mortality and actuarial principles, under regulations prescribed by the Secretary. In determining the value of a possibility that property may be subject to a power of disposition by the decedent, such possibility shall be valued as if it were a possibility that such property may return to the decedent or his estate. Notwithstanding the foregoing, an interest so transferred shall not be included in the decedent’s gross estate under this section if possession or enjoyment of the property could have been obtained by any beneficiary during the decedent’s life through the exercise of a general power of appointment (as defined in section 2041) which in fact was exercisable immediately before the decedent’s death.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 382][/us/stat/68A/382]; [Pub. L. 87–834, § 18(a)(2)(E)][/us/pl/87/834/s18/a/2/E], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 382][/us/stat/68A/382]; [Pub. L. 87–834][/us/pl/87/834], § 18(a)(2)(E), Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F382
-[/us/pl/87/834/s18/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F2%2FE
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1052
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834

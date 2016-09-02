@@ -79,11 +79,11 @@
 
         In any case to which this subchapter does not apply by reason of paragraph (2), rules similar to the rules of sections 6229(f) and 6255(f) shall apply.
 
-(Added [Pub. L. 105–34, title XII, § 1222(a)][/us/pl/105/34/s1222/a], Aug. 5, 1997, [111 Stat. 1017][/us/stat/111/1017].)
+(Added [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1222(a), Aug. 5, 1997, [111 Stat. 1017][/us/stat/111/1017].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(b)(2)][/us/pl/114/74/s1101/b/2], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(b)(2), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
 
  __Effective Date of Repeal__ 
 
@@ -96,9 +96,9 @@
 ----------
 ----------
 
-[/us/pl/105/34/s1222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1222%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1017
-[/us/pl/114/74/s1101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fb%2F2
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221

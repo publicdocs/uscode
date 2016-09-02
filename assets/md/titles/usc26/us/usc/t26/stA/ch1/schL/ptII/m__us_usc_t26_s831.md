@@ -71,11 +71,11 @@
 
         (3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 264][/us/stat/68A/264]; [Pub. L. 87–834, § 8(e)(1)][/us/pl/87/834/s8/e/1], (f), (g)(4)(B), Oct. 16, 1962, [76 Stat. 997–999][/us/stat/76/997-999]; [Pub. L. 89–809, title I, § 104(i)(6)][/us/pl/89/809/s104/i/6], Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1834; [Pub. L. 99–514, title X, § 1024(a)(4)][/us/pl/99/514/s1024/a/4], Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405]; [Pub. L. 100–647, title I, § 1010(f)(1)][/us/pl/100/647/s1010/f/1], (9), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], 3455; [Pub. L. 108–218, title II, § 206(c)][/us/pl/108/218/s206/c], (d), Apr. 10, 2004, [118 Stat. 611][/us/stat/118/611]; [Pub. L. 114–113, div. Q, title III, § 333(a)][/us/pl/114/113/s333/a], (b), Dec. 18, 2015, [129 Stat. 3106][/us/stat/129/3106], 3108.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 264][/us/stat/68A/264]; [Pub. L. 87–834][/us/pl/87/834], § 8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, [76 Stat. 997–999][/us/stat/76/997-999]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 104(i)(6), Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1834; [Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(a)(4), Oct. 22, 1986, [100 Stat. 2405][/us/stat/100/2405]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(f)(1), (9), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], 3455; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 206(c), (d), Apr. 10, 2004, [118 Stat. 611][/us/stat/118/611]; [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 333(a), (b), Dec. 18, 2015, [129 Stat. 3106][/us/stat/129/3106], 3108.)
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–113, div. Q, title III, § 333][/us/pl/114/113/s333], Dec. 18, 2015, [129 Stat. 3106][/us/stat/129/3106], provided that, applicable with respect to taxable years beginning after December 31, 2016, this section is amended as follows:
+    [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 333, Dec. 18, 2015, [129 Stat. 3106][/us/stat/129/3106], provided that, applicable with respect to taxable years beginning after December 31, 2016, this section is amended as follows:
 
     (1) in subsection (b)(2):
 
@@ -155,43 +155,43 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(A). [Pub. L. 114–113, § 333(a)(1)(A)][/us/pl/114/113/s333/a/1/A], (C), (b)(1), struck out “(including interinsurers and reciprocal underwriters)” after “other than life” in introductory provisions, substituted “$2,200,000” for “$1,200,000” in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted “clause (iii)” for “clause (ii)” and “clauses (i) and (ii)” for “clause (i)”.
+    2015—Subsec. (b)(2)(A). [Pub. L. 114–113][/us/pl/114/113], § 333(a)(1)(A), (C), (b)(1), struck out “(including interinsurers and reciprocal underwriters)” after “other than life” in introductory provisions, substituted “$2,200,000” for “$1,200,000” in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted “clause (iii)” for “clause (ii)” and “clauses (i) and (ii)” for “clause (i)”.
 
-    2015—Subsec. (b)(2)(B), (C). [Pub. L. 114–113, § 333(a)(1)(B)][/us/pl/114/113/s333/a/1/B], added subpar. (B) and redesignated former subpar. (B) as (C).
+    2015—Subsec. (b)(2)(B), (C). [Pub. L. 114–113][/us/pl/114/113], § 333(a)(1)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 114–113, § 333(a)(2)][/us/pl/114/113/s333/a/2], substituted “For purposes of this paragraph—” for “For purposes of subparagraph (A),” in introductory provisions, inserted subcl. (I) designation before “in determining”, and added subcl. (II).
+    Subsec. (b)(2)(C)(i). [Pub. L. 114–113][/us/pl/114/113], § 333(a)(2), substituted “For purposes of this paragraph—” for “For purposes of subparagraph (A),” in introductory provisions, inserted subcl. (I) designation before “in determining”, and added subcl. (II).
 
-    Subsec. (b)(2)(D). [Pub. L. 114–113, § 333(b)(2)][/us/pl/114/113/s333/b/2], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 114–113][/us/pl/114/113], § 333(b)(2), added subpar. (D).
 
-    Subsecs. (d), (e). [Pub. L. 114–113, § 333(a)(3)][/us/pl/114/113/s333/a/3], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 114–113][/us/pl/114/113], § 333(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-    2004—Subsec. (b)(2)(A)(i). [Pub. L. 108–218, § 206(d)][/us/pl/108/218/s206/d], struck out “exceed $350,000 but” after “taxable year”.
+    2004—Subsec. (b)(2)(A)(i). [Pub. L. 108–218][/us/pl/108/218], § 206(d), struck out “exceed $350,000 but” after “taxable year”.
 
-    Subsecs. (c), (d). [Pub. L. 108–218, § 206(c)][/us/pl/108/218/s206/c], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 108–218][/us/pl/108/218], § 206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-    1988—Subsec. (b)(2)(A). [Pub. L. 100–647, § 1010(f)(1)][/us/pl/100/647/s1010/f/1], inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
+    1988—Subsec. (b)(2)(A). [Pub. L. 100–647][/us/pl/100/647], § 1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
 
-    Subsec. (b)(3). [Pub. L. 100–647, § 1010(f)(9)][/us/pl/100/647/s1010/f/9], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–647][/us/pl/100/647], § 1010(f)(9), added par. (3).
 
     1986—[Pub. L. 99–514][/us/pl/99/514] amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
-    1976—Subsec. (a). [Pub. L. 94–455, § 1901(a)(107)][/us/pl/94/455/s1901/a/107], substituted “on the taxable income” for “or the taxable income”.
+    1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
 
-    Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    Subsec. (b). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    1966—Subsec. (b). [Pub. L. 89–809, § 104(i)(6)(A)][/us/pl/89/809/s104/i/6/A], redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
+    1966—Subsec. (b). [Pub. L. 89–809][/us/pl/89/809], § 104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
 
-    Subsecs. (c), (d). [Pub. L. 89–809, § 104(i)(6)(B)][/us/pl/89/809/s104/i/6/B], redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
+    Subsecs. (c), (d). [Pub. L. 89–809][/us/pl/89/809], § 104(i)(6)(B), redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
 
-    1962—[Pub. L. 87–834, § 8(g)(4)(B)][/us/pl/87/834/s8/g/4/B], substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
 
-    Subsec. (a). [Pub. L. 87–834, § 8(e)(1)][/us/pl/87/834/s8/e/1], included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
+    Subsec. (a). [Pub. L. 87–834][/us/pl/87/834], § 8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
-    Subsecs. (c), (d). [Pub. L. 87–834, § 8(f)][/us/pl/87/834/s8/f], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 87–834][/us/pl/87/834], § 8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–113, div. Q, title III, § 333(c)][/us/pl/114/113/s333/c], Dec. 18, 2015, [129 Stat. 3108][/us/stat/129/3108], provided that: 
+[Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 333(c), Dec. 18, 2015, [129 Stat. 3108][/us/stat/129/3108], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016.”
 
@@ -205,7 +205,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title X, § 1024(e)][/us/pl/99/514/s1024/e], Oct. 22, 1986, [100 Stat. 2409][/us/stat/100/2409], provided that: 
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(e), Oct. 22, 1986, [100 Stat. 2409][/us/stat/100/2409], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986.”
 
@@ -223,7 +223,7 @@
 
  __Transitional Rules for 1984 Amendment__ 
 
-[Pub. L. 99–514, title X, § 1024(d)][/us/pl/99/514/s1024/d], Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408], as amended by [Pub. L. 100–647, title I, § 1010(f)(8)][/us/pl/100/647/s1010/f/8], Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], provided that:
+[Pub. L. 99–514, title X][/us/pl/99/514/tX], § 1024(d), Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408], as amended by [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1010(f)(8), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], provided that:
 
 >     “(1)  __Treatment of amounts in protection against loss account__  __.—__ 
 
@@ -248,40 +248,40 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F264
-[/us/pl/87/834/s8/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fe%2F1
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/997-999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F997-999
-[/us/pl/89/809/s104/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F6
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1562
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1782
-[/us/pl/99/514/s1024/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F4
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2405
-[/us/pl/100/647/s1010/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3454
-[/us/pl/108/218/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs206%2Fc
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F611
-[/us/pl/114/113/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fa
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3106
-[/us/pl/114/113/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3106
-[/us/pl/114/113/s333/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fa%2F1%2FA
-[/us/pl/114/113/s333/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fa%2F1%2FB
-[/us/pl/114/113/s333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fa%2F2
-[/us/pl/114/113/s333/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fb%2F2
-[/us/pl/114/113/s333/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fa%2F3
-[/us/pl/108/218/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs206%2Fd
-[/us/pl/108/218/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs206%2Fc
-[/us/pl/100/647/s1010/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F1
-[/us/pl/100/647/s1010/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F9
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/94/455/s1901/a/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F107
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/89/809/s104/i/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F6%2FA
-[/us/pl/89/809/s104/i/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs104%2Fi%2F6%2FB
-[/us/pl/87/834/s8/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fg%2F4%2FB
-[/us/pl/87/834/s8/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fe%2F1
-[/us/pl/87/834/s8/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Ff
-[/us/pl/114/113/s333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs333%2Fc
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3108
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/218/s206/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs206%2Fe
@@ -290,7 +290,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1024/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fe
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2409
 [/us/pl/94/455/s1901/a/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F107
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
@@ -301,9 +301,9 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834/s8/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fh
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
-[/us/pl/99/514/s1024/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fd
+[/us/pl/99/514/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtX
 [/us/stat/100/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2408
-[/us/pl/100/647/s1010/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1010%2Ff%2F8
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3454
 
 

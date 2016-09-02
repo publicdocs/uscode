@@ -115,17 +115,17 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–206, title I][/us/pl/105/206], §§ 1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, [112 Stat. 697][/us/stat/112/697], 704, 710, added items 7802 to 7804 and struck out former items 7802 “Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
+    1998—[Pub. L. 105–206, title I][/us/pl/105/206/tI], §§ 1101(c)(2), 1102(e)(1), 1104(b)(2), July 22, 1998, [112 Stat. 697][/us/stat/112/697], 704, 710, added items 7802 to 7804 and struck out former items 7802 “Commissioner of Internal Revenue; Assistant Commissioners; Taxpayer Advocate”, 7803 “Other personnel”, and 7804 “Effect of reorganization plans”.
 
-    1996—[Pub. L. 104–168, title I, § 101(b)(3)][/us/pl/104/168/s101/b/3], July 30, 1996, [110 Stat. 1456][/us/stat/110/1456], added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
+    1996—[Pub. L. 104–168, title I][/us/pl/104/168/tI], § 101(b)(3), July 30, 1996, [110 Stat. 1456][/us/stat/110/1456], added item 7802 and struck out former item 7802 “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)”.
 
-    1988—[Pub. L. 100–647, title VI, § 6230(b)][/us/pl/100/647/s6230/b], Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734], added item 7811.
+    1988—[Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6230(b), Nov. 10, 1988, [102 Stat. 3734][/us/stat/102/3734], added item 7811.
 
-    1983—[Pub. L. 97–473, title II, § 202(c)][/us/pl/97/473/s202/c], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610], added item for subchapter C.
+    1983—[Pub. L. 97–473, title II][/us/pl/97/473/tII], § 202(c), Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610], added item for subchapter C.
 
-    1974—[Pub. L. 93–406, title II, § 1051(c)][/us/pl/93/406/s1051/c], Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], substituted “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)” for “Commissioner of Internal Revenue” in item 7802.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1051(c), Sept. 2, 1974, [88 Stat. 951][/us/stat/88/951], substituted “Commissioner of Internal Revenue; Assistant Commissioner (Employee Plans and Exempt Organizations)” for “Commissioner of Internal Revenue” in item 7802.
 
-    1966—[Pub. L. 89–719, title I, § 112(c)][/us/pl/89/719/s112/c], Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146], added item 7810.
+    1966—[Pub. L. 89–719, title I][/us/pl/89/719/tI], § 112(c), Nov. 2, 1966, [80 Stat. 1146][/us/stat/80/1146], added item 7810.
 
 ----------
 
@@ -134,17 +134,17 @@
 ----------
 ----------
 
-[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F697
-[/us/pl/104/168/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs101%2Fb%2F3
+[/us/pl/104/168/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtI
 [/us/stat/110/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1456
-[/us/pl/100/647/s6230/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6230%2Fb
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3734
-[/us/pl/97/473/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs202%2Fc
+[/us/pl/97/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2FtII
 [/us/stat/96/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2610
-[/us/pl/93/406/s1051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1051%2Fc
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F951
-[/us/pl/89/719/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs112%2Fc
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1146
 
 

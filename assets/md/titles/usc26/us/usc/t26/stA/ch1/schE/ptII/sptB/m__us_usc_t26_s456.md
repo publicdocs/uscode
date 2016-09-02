@@ -85,13 +85,13 @@
 
             Prepaid dues income shall be treated as received during the taxable year for which it is includible in gross income under section 451 (without regard to this section).
 
-(Added [Pub. L. 87–109, § 1(a)][/us/pl/87/109/s1/a], July 26, 1961, [75 Stat. 222][/us/stat/75/222]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(68), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834.)
+(Added [Pub. L. 87–109][/us/pl/87/109], § 1(a), July 26, 1961, [75 Stat. 222][/us/stat/75/222]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(68), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (c)(3)(B). [Pub. L. 94–455, § 1901(a)(68)][/us/pl/94/455/s1901/a/68], substituted “for its first taxable year” for “for its first taxable year (i) which begins after December 31, 1960, and (ii)”.
+    Subsec. (c)(3)(B). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(68), substituted “for its first taxable year” for “for its first taxable year (i) which begins after December 31, 1960, and (ii)”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -99,7 +99,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 87–109, § 2][/us/pl/87/109/s2], July 26, 1961, [75 Stat. 224][/us/stat/75/224], provided that: 
+[Pub. L. 87–109][/us/pl/87/109], § 2, July 26, 1961, [75 Stat. 224][/us/stat/75/224], provided that: 
 
 > “The amendments made by this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1960.”
 
@@ -110,16 +110,16 @@
 ----------
 ----------
 
-[/us/pl/87/109/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F109%2Fs1%2Fa
+[/us/pl/87/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F109
 [/us/stat/75/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F222
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1775
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F68
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/a/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F68
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/87/109/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F109%2Fs2
+[/us/pl/87/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F109
 [/us/stat/75/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F224
 
 

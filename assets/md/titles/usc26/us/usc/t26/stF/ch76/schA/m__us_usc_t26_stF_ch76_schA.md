@@ -107,15 +107,15 @@
 
  __Amendments__ 
 
-    2007—[Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(ii)][/us/pl/110/28/s8246/a/2/I/ii], May 25, 2007, [121 Stat. 202][/us/stat/121/202], substituted “tax return preparers” for “income tax return preparers” in item 7407.
+    2007—[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8246(a)(2)(I)(ii), May 25, 2007, [121 Stat. 202][/us/stat/121/202], substituted “tax return preparers” for “income tax return preparers” in item 7407.
 
-    2004—[Pub. L. 108–357, title VIII, § 820(b)(2)][/us/pl/108/357/s820/b/2], Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585], added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 820(b)(2), Oct. 22, 2004, [118 Stat. 1585][/us/stat/118/1585], added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
 
-    1987—[Pub. L. 100–203, title X, § 10713(a)(2)][/us/pl/100/203/s10713/a/2], Dec. 22, 1987, [101 Stat. 1330–469][/us/stat/101/1330-469], added item 7409 and redesignated former item 7409 as 7410.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10713(a)(2), Dec. 22, 1987, [101 Stat. 1330–469][/us/stat/101/1330-469], added item 7409 and redesignated former item 7409 as 7410.
 
-    1982—[Pub. L. 97–248, title III, § 321(b)][/us/pl/97/248/s321/b], Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], added item 7408 and redesignated former item 7408 as 7409.
+    1982—[Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 321(b), Sept. 3, 1982, [96 Stat. 612][/us/stat/96/612], added item 7408 and redesignated former item 7408 as 7409.
 
-    1976—[Pub. L. 94–455, title XII, § 1203(i)(4)][/us/pl/94/455/s1203/i/4], Oct. 4, 1976, [90 Stat. 1695][/us/stat/90/1695], added item 7407 and redesignated former item 7407 as 7408.
+    1976—[Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1203(i)(4), Oct. 4, 1976, [90 Stat. 1695][/us/stat/90/1695], added item 7407 and redesignated former item 7407 as 7408.
 
 ----------
 
@@ -124,15 +124,15 @@
 ----------
 ----------
 
-[/us/pl/110/28/s8246/a/2/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FI%2Fii
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F202
-[/us/pl/108/357/s820/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs820%2Fb%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1585
-[/us/pl/100/203/s10713/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10713%2Fa%2F2
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-469
-[/us/pl/97/248/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs321%2Fb
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F612
-[/us/pl/94/455/s1203/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1203%2Fi%2F4
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1695
 
 

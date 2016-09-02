@@ -29,13 +29,13 @@
 
         For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages (whether or not created by the payment of such wages) shall not be considered to be circumstances beyond the control of a person.
 
-(Added [Pub. L. 85–321, § 2][/us/pl/85/321/s2], Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6]; amended [Pub. L. 97–248, title III][/us/pl/97/248], §§ 307(a)(15), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369].)
+(Added [Pub. L. 85–321][/us/pl/85/321], § 2, Feb. 11, 1958, [72 Stat. 6][/us/stat/72/6]; amended [Pub. L. 97–248, title III][/us/pl/97/248/tIII], §§ 307(a)(15), 308(a), Sept. 3, 1982, [96 Stat. 590][/us/stat/96/590], 591; [Pub. L. 98–67, title I][/us/pl/98/67/tI], § 102(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369].)
 
  __Amendments__ 
 
     1983—Subsec. (b). [Pub. L. 98–67][/us/pl/98/67] repealed amendments made by [Pub. L. 97–248][/us/pl/97/248]. See 1982 Amendment note below.
 
-    1982—Subsec. (b). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, last sentence of subsec. (b) is amended to read as follows: “For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages or amounts subject to withholding under subchapter B of chapter 24 (whether or not created by the payment of such wages or amounts) shall not be considered to be circumstances beyond the control of a person.” Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+    1982—Subsec. (b). [Pub. L. 97–248][/us/pl/97/248] provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, last sentence of subsec. (b) is amended to read as follows: “For purposes of paragraph (2), a lack of funds existing immediately after the payment of wages or amounts subject to withholding under subchapter B of chapter 24 (whether or not created by the payment of such wages or amounts) shall not be considered to be circumstances beyond the control of a person.” Section 102(a), (b) of [Pub. L. 98–67, title I][/us/pl/98/67/tI], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], repealed subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248] as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 ----------
 
@@ -44,16 +44,16 @@
 ----------
 ----------
 
-[/us/pl/85/321/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321%2Fs2
+[/us/pl/85/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F321
 [/us/stat/72/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F6
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F590
-[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
+[/us/pl/98/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2FtI
 [/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 

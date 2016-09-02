@@ -27,11 +27,11 @@
 
         For purposes of section 904(f) (relating to recapture of overall foreign loss), the making or termination of an election to be treated as an S corporation shall be treated as a disposition of the business.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1682][/us/stat/96/1682].)
+(Added [Pub. L. 97–354][/us/pl/97/354], § 2, Oct. 19, 1982, [96 Stat. 1682][/us/stat/96/1682].)
 
  __Prior Provisions__ 
 
-    A prior section 1373, added [Pub. L. 85–866, title I, § 64(a)][/us/pl/85/866/s64/a], Sept. 2, 1958, [72 Stat. 1652][/us/stat/72/1652]; amended [Pub. L. 89–389, § 2(b)(3)][/us/pl/89/389/s2/b/3], Apr. 14, 1966, [80 Stat. 114][/us/stat/80/114]; [Pub. L. 91–172, title III, § 301(b)(10)][/us/pl/91/172/s301/b/10], Dec. 30, 1969, [83 Stat. 586][/us/stat/83/586], related to taxation of corporation undistributed taxable income to shareholders, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
+    A prior section 1373, added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 64(a), Sept. 2, 1958, [72 Stat. 1652][/us/stat/72/1652]; amended [Pub. L. 89–389][/us/pl/89/389], § 2(b)(3), Apr. 14, 1966, [80 Stat. 114][/us/stat/80/114]; [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 301(b)(10), Dec. 30, 1969, [83 Stat. 586][/us/stat/83/586], related to taxation of corporation undistributed taxable income to shareholders, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
 
  __Effective Date__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1682
-[/us/pl/85/866/s64/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1652
-[/us/pl/89/389/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389%2Fs2%2Fb%2F3
+[/us/pl/89/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389
 [/us/stat/80/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F114
-[/us/pl/91/172/s301/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs301%2Fb%2F10
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F586
 [/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa

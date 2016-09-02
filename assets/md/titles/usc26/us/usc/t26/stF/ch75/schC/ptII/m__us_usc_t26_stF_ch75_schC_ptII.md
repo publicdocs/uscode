@@ -91,11 +91,11 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, title XV, § 1566(d)][/us/pl/99/514/s1566/d], Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763], substituted “$100,000” for “$2,500” in item 7325.
+    1986—[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1566(d), Oct. 22, 1986, [100 Stat. 2763][/us/stat/100/2763], substituted “$100,000” for “$2,500” in item 7325.
 
-    1976—[Pub. L. 94–455, title XIX, § 1904(b)(8)(H)(ii)][/us/pl/94/455/s1904/b/8/H/ii], Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816], struck out item 7328 “Confiscation of matches exported” and redesignated item 7329 as 7328.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(8)(H)(ii), Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816], struck out item 7328 “Confiscation of matches exported” and redesignated item 7329 as 7328.
 
-    1958—[Pub. L. 85–859, title II, § 204(11)][/us/pl/85/859/s204/11], Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429], substituted “$2,500” for “$1,000” in item 7325.
+    1958—[Pub. L. 85–859, title II][/us/pl/85/859/tII], § 204(11), Sept. 2, 1958, [72 Stat. 1429][/us/stat/72/1429], substituted “$2,500” for “$1,000” in item 7325.
 
 ----------
 
@@ -104,11 +104,11 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1566/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1566%2Fd
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2763
-[/us/pl/94/455/s1904/b/8/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fb%2F8%2FH%2Fii
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1816
-[/us/pl/85/859/s204/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F11
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1429
 
 

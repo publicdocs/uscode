@@ -85,13 +85,13 @@
 
         In the case of a levy on the salary or wages payable to or received by the taxpayer, upon agreement with the taxpayer that the tax is not collectible, the Secretary shall release such levy as soon as practicable.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 789][/us/stat/68A/789]; [Pub. L. 89–719, title I, § 104(i)][/us/pl/89/719/s104/i], Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–167, § 4(a)][/us/pl/96/167/s4/a], Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 99–514, title XV, § 1511(c)(10)][/us/pl/99/514/s1511/c/10], Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745]; [Pub. L. 100–647, title VI, § 6236(f)][/us/pl/100/647/s6236/f], Nov. 10, 1988, [102 Stat. 3740][/us/stat/102/3740]; [Pub. L. 104–168, title V, § 501(b)][/us/pl/104/168/s501/b], July 30, 1996, [110 Stat. 1460][/us/stat/110/1460]; [Pub. L. 105–206, title I, § 1102(d)(1)(B)][/us/pl/105/206/s1102/d/1/B], title III, § 3432(a), July 22, 1998, [112 Stat. 704][/us/stat/112/704], 759.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 789][/us/stat/68A/789]; [Pub. L. 89–719, title I][/us/pl/89/719/tI], § 104(i), Nov. 2, 1966, [80 Stat. 1138][/us/stat/80/1138]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–167][/us/pl/96/167], § 4(a), Dec. 29, 1979, [93 Stat. 1275][/us/stat/93/1275]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1511(c)(10), Oct. 22, 1986, [100 Stat. 2745][/us/stat/100/2745]; [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6236(f), Nov. 10, 1988, [102 Stat. 3740][/us/stat/102/3740]; [Pub. L. 104–168, title V][/us/pl/104/168/tV], § 501(b), July 30, 1996, [110 Stat. 1460][/us/stat/110/1460]; [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1102(d)(1)(B), title III, § 3432(a), July 22, 1998, [112 Stat. 704][/us/stat/112/704], 759.)
 
  __Amendments__ 
 
-    1998—Subsec. (d)(2)(D). [Pub. L. 105–206, § 1102(d)(1)(B)][/us/pl/105/206/s1102/d/1/B], substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
+    1998—Subsec. (d)(2)(D). [Pub. L. 105–206][/us/pl/105/206], § 1102(d)(1)(B), substituted “National Taxpayer Advocate” for “Taxpayer Advocate” in two places.
 
-    Subsec. (e). [Pub. L. 105–206, § 3432(a)][/us/pl/105/206/s3432/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–206][/us/pl/105/206], § 3432(a), added subsec. (e).
 
     1996—Subsec. (d). [Pub. L. 104–168][/us/pl/104/168] added subsec. (d).
 
@@ -109,7 +109,7 @@
 
     Amendment by [section 1102 of Pub. L. 105–206][/us/pl/105/206/s1102] effective July 22, 1998, see [section 1102(f) of Pub. L. 105–206][/us/pl/105/206/s1102/f], set out as a note under [section 7803 of this title][/us/usc/t26/s7803].
 
-[Pub. L. 105–206, title III, § 3432(b)][/us/pl/105/206/s3432/b], July 22, 1998, [112 Stat. 759][/us/stat/112/759], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3432(b), July 22, 1998, [112 Stat. 759][/us/stat/112/759], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to levies imposed after December 31, 1999.”
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–167, § 4(c)(1)][/us/pl/96/167/s4/c/1], Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276], provided that: 
+[Pub. L. 96–167][/us/pl/96/167], § 4(c)(1), Dec. 29, 1979, [93 Stat. 1276][/us/stat/93/1276], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to levies made after the date of the enactment of this Act \[Dec. 29, 1979\].”
 
@@ -140,22 +140,22 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F789
-[/us/pl/89/719/s104/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2Fs104%2Fi
+[/us/pl/89/719/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719%2FtI
 [/us/stat/80/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1138
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/167/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs4%2Fa
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1275
-[/us/pl/99/514/s1511/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fc%2F10
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2745
-[/us/pl/100/647/s6236/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6236%2Ff
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3740
-[/us/pl/104/168/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs501%2Fb
+[/us/pl/104/168/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtV
 [/us/stat/110/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1460
-[/us/pl/105/206/s1102/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Fd%2F1%2FB
+[/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F704
-[/us/pl/105/206/s1102/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Fd%2F1%2FB
-[/us/pl/105/206/s3432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3432%2Fa
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -165,7 +165,7 @@
 [/us/pl/105/206/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102
 [/us/pl/105/206/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs1102%2Ff
 [/us/usc/t26/s7803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7803
-[/us/pl/105/206/s3432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3432%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F759
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s6236/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6236%2Fh%2F1
@@ -173,7 +173,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1511%2Fd
 [/us/usc/t26/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs47
-[/us/pl/96/167/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167%2Fs4%2Fc%2F1
+[/us/pl/96/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F167
 [/us/stat/93/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1276
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719
 [/us/pl/89/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F719

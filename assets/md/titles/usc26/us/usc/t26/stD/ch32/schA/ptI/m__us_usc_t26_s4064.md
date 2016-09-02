@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptI/m__us_usc_t26_stD_ch32_schA_ptI.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptII/m__us_usc_t26_stD_ch32_schA_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4064)
+[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptI/m__us_usc_t26_s4061...4063.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptII/m__us_usc_t26_stD_ch32_schA_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4064)
 
 ## § 4064. Gas guzzler tax
 
@@ -255,13 +255,13 @@
 
             Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
 
-(Added [Pub. L. 95–618, title II, § 201(a)][/us/pl/95/618/s201/a], Nov. 9, 1978, [92 Stat. 3180][/us/stat/92/3180]; amended [Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(i)][/us/pl/99/514/s1812/e/1/B/i], (ii), Oct. 22, 1986, [100 Stat. 2836][/us/stat/100/2836]; [Pub. L. 101–508, title XI, § 11216(a)][/us/pl/101/508/s11216/a]–(d), Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437]; [Pub. L. 103–272, § 5(g)(1)][/us/pl/103/272/s5/g/1], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 109–59, title XI, § 11111(a)][/us/pl/109/59/s11111/a], Aug. 10, 2005, [119 Stat. 1946][/us/stat/119/1946].)
+(Added [Pub. L. 95–618, title II][/us/pl/95/618/tII], § 201(a), Nov. 9, 1978, [92 Stat. 3180][/us/stat/92/3180]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(e)(1)(B)(i), (ii), Oct. 22, 1986, [100 Stat. 2836][/us/stat/100/2836]; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11216(a)–(d), Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437]; [Pub. L. 103–272][/us/pl/103/272], § 5(g)(1), July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11111(a), Aug. 10, 2005, [119 Stat. 1946][/us/stat/119/1946].)
 
  __References in Text__ 
 
     The date of enactment of this section, referred to in subsec. (b)(1)(B), is Nov. 9, 1978.
 
-    Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 of [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], title II, as added Dec. 31, 1970, [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], [84 Stat. 1694][/us/stat/84/1694], which is classified to [section 7525 of Title 42][/us/usc/t42/s7525], The Public Health and Welfare.
+    Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 of [act July 14, 1955, ch. 360, title II][/us/act/1955-07-14/ch360/tII], as added Dec. 31, 1970, [Pub. L. 91–604][/us/pl/91/604], § 8(a), [84 Stat. 1694][/us/stat/84/1694], which is classified to [section 7525 of Title 42][/us/usc/t42/s7525], The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -269,31 +269,31 @@
 
     1994—Subsec. (b)(1)(B). [Pub. L. 103–272][/us/pl/103/272] substituted “[section 32901 of title 49][/us/usc/t49/s32901], United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act ([15 U.S.C. 2001][/us/usc/t15/s2001])”.
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 11216(a)][/us/pl/101/508/s11216/a], amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 11216(a), amended subsec. (a) generally, substituting present provisions for provisions which set forth gas guzzler tax tables in the case of automobiles built in each of the model years 1980 through 1986 and later.
 
-    Subsec. (b)(1)(A). [Pub. L. 101–508, § 11216(b)][/us/pl/101/508/s11216/b], inserted at end “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
+    Subsec. (b)(1)(A). [Pub. L. 101–508][/us/pl/101/508], § 11216(b), inserted at end “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
-    Subsec. (b)(5)(B). [Pub. L. 101–508, § 11216(c)][/us/pl/101/508/s11216/c], substituted heading for one which read: “Exception for certain small manufacturers” and amended text generally. Prior to amendment, text read as follows: “A person shall not be treated as the manufacturer of any automobile if—
+    Subsec. (b)(5)(B). [Pub. L. 101–508][/us/pl/101/508], § 11216(c), substituted heading for one which read: “Exception for certain small manufacturers” and amended text generally. Prior to amendment, text read as follows: “A person shall not be treated as the manufacturer of any automobile if—
 
     “(i) such person would (but for this subparagraph) be so treated solely by reason of lengthening an existing automobile, and
 
     “(ii) such person is a small manufacturer (as defined in subsection (d)(4)) for the model year in which such lengthening occurs.”
 
-    Subsec. (d). [Pub. L. 101–508, § 11216(d)][/us/pl/101/508/s11216/d], struck out subsec. (d) which prescribed special rules for small manufacturers.
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 11216(d), struck out subsec. (d) which prescribed special rules for small manufacturers.
 
-    1986—Subsec. (b)(1)(A)(ii). [Pub. L. 99–514, § 1812(e)(1)(B)(i)][/us/pl/99/514/s1812/e/1/B/i], substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
+    1986—Subsec. (b)(1)(A)(ii). [Pub. L. 99–514][/us/pl/99/514], § 1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
 
-    Subsec. (b)(5). [Pub. L. 99–514, § 1812(e)(1)(B)(ii)][/us/pl/99/514/s1812/e/1/B/ii], amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
+    Subsec. (b)(5). [Pub. L. 99–514][/us/pl/99/514], § 1812(e)(1)(B)(ii), amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–59, title XI, § 11111(b)][/us/pl/109/59/s11111/b], Aug. 10, 2005, [119 Stat. 1946][/us/stat/119/1946], provided that: 
+[Pub. L. 109–59, title XI][/us/pl/109/59/tXI], § 11111(b), Aug. 10, 2005, [119 Stat. 1946][/us/stat/119/1946], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect on October 1, 2005.”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–508, title XI, § 11216(e)][/us/pl/101/508/s11216/e], Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437], provided that:
+[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11216(e), Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437], provided that:
 
 >     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
@@ -309,7 +309,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(iii)][/us/pl/99/514/s1812/e/1/B/iii], Oct. 22, 1986, [100 Stat. 2837][/us/stat/100/2837], provided that: 
+[Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(e)(1)(B)(iii), Oct. 22, 1986, [100 Stat. 2837][/us/stat/100/2837], provided that: 
 
 > “The amendments made by clauses (i) and (ii) \[amending this section\] shall take effect as if included in the amendments made by [section 201 of Public Law 95–618][/us/pl/95/618/s201] \[see Effective Date note below\]; except that the amendment made by clause (i) shall not apply to any station wagon if—
 
@@ -321,7 +321,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–618, title II, § 201(g)][/us/pl/95/618/s201/g], Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 95–618, title II][/us/pl/95/618/tII], § 201(g), Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 1016, 4217, 4221, 4222, 4293, and 6416 of this title\] shall apply with respect to 1980 and later model year automobiles (as defined in section 4064(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
 
@@ -331,46 +331,46 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptI/m__us_usc_t26_stD_ch32_schA_ptI.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptII/m__us_usc_t26_stD_ch32_schA_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4064)
+[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptI/m__us_usc_t26_s4061...4063.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schA/ptII/m__us_usc_t26_stD_ch32_schA_ptII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4064)
 
 ----------
 ----------
 
 [/us/usc/t49/s32901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901
-[/us/pl/95/618/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs201%2Fa
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3180
-[/us/pl/99/514/s1812/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fe%2F1%2FB%2Fi
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2836
-[/us/pl/101/508/s11216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fa
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-437
-[/us/pl/103/272/s5/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs5%2Fg%2F1
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1374
-[/us/pl/109/59/s11111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11111%2Fa
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1946
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/pl/91/604/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fa
+[/us/act/1955-07-14/ch360/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2FtII
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
 [/us/usc/t42/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/usc/t49/s32901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901
 [/us/usc/t15/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2001
-[/us/pl/101/508/s11216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fa
-[/us/pl/101/508/s11216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fb
-[/us/pl/101/508/s11216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fc
-[/us/pl/101/508/s11216/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fd
-[/us/pl/99/514/s1812/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fe%2F1%2FB%2Fi
-[/us/pl/99/514/s1812/e/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fe%2F1%2FB%2Fii
-[/us/pl/109/59/s11111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11111%2Fb
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/109/59/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtXI
 [/us/stat/119/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1946
-[/us/pl/101/508/s11216/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11216%2Fe
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-437
-[/us/pl/99/514/s1812/e/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fe%2F1%2FB%2Fiii
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2837
 [/us/pl/95/618/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs201
-[/us/pl/95/618/s201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs201%2Fg
+[/us/pl/95/618/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2FtII
 [/us/stat/92/3184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3184
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140

@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior chapter 45, consisting of sections 4986 to 4998, related to windfall profit tax on domestic crude oil, prior to repeal by [Pub. L. 100–418, title I, § 1941(a)][/us/pl/100/418/s1941/a], (c), Aug. 23, 1988, [102 Stat. 1322][/us/stat/102/1322], 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+    A prior chapter 45, consisting of sections 4986 to 4998, related to windfall profit tax on domestic crude oil, prior to repeal by [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1941(a), (c), Aug. 23, 1988, [102 Stat. 1322][/us/stat/102/1322], 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s1941/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1941%2Fa
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1322
 
 

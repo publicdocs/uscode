@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(22)(A)][/us/pl/94/455/s1901/b/22/A], Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], struck out item 632 “Sale of oil or gas properties”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(22)(A), Oct. 4, 1976, [90 Stat. 1798][/us/stat/90/1798], struck out item 632 “Sale of oil or gas properties”.
 
-    1964—[Pub. L. 88–272, title II, § 227(b)(2)][/us/pl/88/272/s227/b/2], Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98], inserted reference to domestic iron ore in item 631.
+    1964—[Pub. L. 88–272, title II][/us/pl/88/272/tII], § 227(b)(2), Feb. 26, 1964, [78 Stat. 98][/us/stat/78/98], inserted reference to domestic iron ore in item 631.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/94/455/s1901/b/22/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F22%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1798
-[/us/pl/88/272/s227/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs227%2Fb%2F2
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F98
 
 

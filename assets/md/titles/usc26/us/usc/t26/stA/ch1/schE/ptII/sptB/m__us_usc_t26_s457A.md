@@ -119,11 +119,11 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 110–343, div. C, title VIII, § 801(a)][/us/pl/110/343/s801/a], Oct. 3, 2008, [122 Stat. 3929][/us/stat/122/3929].)
+(Added [Pub. L. 110–343, div. C, title VIII][/us/pl/110/343/dC/tVIII], § 801(a), Oct. 3, 2008, [122 Stat. 3929][/us/stat/122/3929].)
 
  __Effective Date__ 
 
-[Pub. L. 110–343, div. C, title VIII, § 801(d)][/us/pl/110/343/s801/d], Oct. 3, 2008, [122 Stat. 3931][/us/stat/122/3931], provided that:
+[Pub. L. 110–343, div. C, title VIII][/us/pl/110/343/dC/tVIII], § 801(d), Oct. 3, 2008, [122 Stat. 3931][/us/stat/122/3931], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -156,9 +156,9 @@
 ----------
 ----------
 
-[/us/pl/110/343/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs801%2Fa
+[/us/pl/110/343/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVIII
 [/us/stat/122/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3929
-[/us/pl/110/343/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs801%2Fd
+[/us/pl/110/343/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtVIII
 [/us/stat/122/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3931
 [/us/usc/t26/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs26
 

@@ -45,7 +45,7 @@
 
             (B) the trust is described in section 4947(a)(1).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 742][/us/stat/68A/742]; [Pub. L. 91–172, title I, § 101(j)(32)][/us/pl/91/172/s101/j/32]–(34), Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–603, § 1(d)(1)][/us/pl/96/603/s1/d/1], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 99–514, title XV, § 1501(d)(1)(C)][/us/pl/99/514/s1501/d/1/C], Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 109–280, title XII, § 1201(b)(1)][/us/pl/109/280/s1201/b/1], Aug. 17, 2006, [120 Stat. 1064][/us/stat/120/1064].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 742][/us/stat/68A/742]; [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(j)(32)–(34), Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–603][/us/pl/96/603], § 1(d)(1), Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1501(d)(1)(C), Oct. 22, 1986, [100 Stat. 2740][/us/stat/100/2740]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1201(b)(1), Aug. 17, 2006, [120 Stat. 1064][/us/stat/120/1064].)
 
  __Amendments__ 
 
@@ -53,21 +53,21 @@
 
     1986—Subsec. (c). [Pub. L. 99–514][/us/pl/99/514] substituted “section 6652(c)” for “section 6652(d)”.
 
-    1980—[Pub. L. 96–603, § 1(d)(1)(D)][/us/pl/96/603/s1/d/1/D], substituted “section 4947(a)(2)” for “section 4947(a)” in section catchline.
+    1980—[Pub. L. 96–603][/us/pl/96/603], § 1(d)(1)(D), substituted “section 4947(a)(2)” for “section 4947(a)” in section catchline.
 
-    Subsec. (a). [Pub. L. 96–603, § 1(d)(1)(A)][/us/pl/96/603/s1/d/1/A], substituted “section 4947(a)(2)” for “section 4947(a)”.
+    Subsec. (a). [Pub. L. 96–603][/us/pl/96/603], § 1(d)(1)(A), substituted “section 4947(a)(2)” for “section 4947(a)”.
 
-    Subsec. (b). [Pub. L. 96–603, § 1(d)(1)(B)][/us/pl/96/603/s1/d/1/B], (C), substituted in heading “Exceptions” for “Exception” and in text inserted provision that this section not apply in the case of a trust described in section 4947(a)(1).
+    Subsec. (b). [Pub. L. 96–603][/us/pl/96/603], § 1(d)(1)(B), (C), substituted in heading “Exceptions” for “Exception” and in text inserted provision that this section not apply in the case of a trust described in section 4947(a)(1).
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1969—Subsec. (a). [Pub. L. 91–172, § 101(j)(32)][/us/pl/91/172/s101/j/32], (33), inserted, in section catchline and in subsec. (a), reference to trusts described in section 4947(a), and, in par. (1), struck out provisions requiring the separate showing of the amount of deduction paid out, and the amount permanently set aside for charitable, etc., purposes.
+    1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(32), (33), inserted, in section catchline and in subsec. (a), reference to trusts described in section 4947(a), and, in par. (1), struck out provisions requiring the separate showing of the amount of deduction paid out, and the amount permanently set aside for charitable, etc., purposes.
 
-    Subsec. (c). [Pub. L. 91–172, § 101(j)(34)][/us/pl/91/172/s101/j/34], added subsec. (c).
+    Subsec. (c). [Pub. L. 91–172][/us/pl/91/172], § 101(j)(34), added subsec. (c).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XII, § 1201(c)(2)][/us/pl/109/280/s1201/c/2], Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], provided that: 
+[Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1201(c)(2), Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section and sections 6104 and 6652 of this title\] shall apply to returns for taxable years beginning after December 31, 2006.”
 
@@ -92,25 +92,25 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F742
-[/us/pl/91/172/s101/j/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F32
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F529
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/603/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F1
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/stat/94/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3504
-[/us/pl/99/514/s1501/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fd%2F1%2FC
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2740
-[/us/pl/109/280/s1201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1201%2Fb%2F1
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1064
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/96/603/s1/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F1%2FD
-[/us/pl/96/603/s1/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F1%2FA
-[/us/pl/96/603/s1/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603%2Fs1%2Fd%2F1%2FB
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
+[/us/pl/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F603
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/172/s101/j/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F32
-[/us/pl/91/172/s101/j/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fj%2F34
-[/us/pl/109/280/s1201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1201%2Fc%2F2
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1066
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1501/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1501%2Fe

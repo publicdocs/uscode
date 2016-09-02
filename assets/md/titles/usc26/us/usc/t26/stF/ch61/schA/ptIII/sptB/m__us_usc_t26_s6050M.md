@@ -67,7 +67,7 @@
 
             (B) the head of such Federal executive agency (or his designee) pursuant to regulations issued by such agency determines, in writing, that filing the required return under this section would interfere with the effective conduct of a confidential law enforcement or foreign counterintelligence activity.
 
-(Added [Pub. L. 99–514, title XV, § 1522(a)][/us/pl/99/514/s1522/a], Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747]; amended [Pub. L. 100–647, title I, § 1015(f)][/us/pl/100/647/s1015/f], Nov. 10, 1988, [102 Stat. 3570][/us/stat/102/3570]; [Pub. L. 109–135, title IV, § 412(rr)(2)][/us/pl/109/135/s412/rr/2], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+(Added [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1522(a), Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1015(f), Nov. 10, 1988, [102 Stat. 3570][/us/stat/102/3570]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(rr)(2), Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XV, § 1522(c)][/us/pl/99/514/s1522/c], Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747], provided that: 
+[Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1522(c), Oct. 22, 1986, [100 Stat. 2747][/us/stat/100/2747], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987.”
 
@@ -95,13 +95,13 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/99/514/s1522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1522%2Fa
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2747
-[/us/pl/100/647/s1015/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Ff
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3570
-[/us/pl/109/135/s412/rr/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Frr%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -110,7 +110,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/99/514/s1522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1522%2Fc
+[/us/pl/99/514/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXV
 [/us/stat/100/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2747
 
 

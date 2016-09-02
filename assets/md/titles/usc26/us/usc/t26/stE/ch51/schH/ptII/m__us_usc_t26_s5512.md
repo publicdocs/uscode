@@ -17,11 +17,11 @@
 
     For applicability of all provisions of this chapter pertaining to distilled spirits and wines, including those requiring payment of tax, to volatile fruit-flavor concentrates sold, transported, or used in violation of law or regulations, see section 5001(a)(7). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-(Added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1392][/us/stat/72/1392].)
+(Added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1392][/us/stat/72/1392].)
 
  __References in Text__ 
 
-    Section 5001(a)(7), referred to in text, was redesignated section 5001(a)(6) by [Pub. L. 103–465, title I, § 136(a)][/us/pl/103/465/s136/a], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841].
+    Section 5001(a)(7), referred to in text, was redesignated section 5001(a)(6) by [Pub. L. 103–465, title I][/us/pl/103/465/tI], § 136(a), Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841].
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1392
-[/us/pl/103/465/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs136%2Fa
+[/us/pl/103/465/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtI
 [/us/stat/108/4841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4841
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F677

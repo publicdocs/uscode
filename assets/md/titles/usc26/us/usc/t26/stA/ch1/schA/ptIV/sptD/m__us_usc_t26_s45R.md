@@ -215,7 +215,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations to prevent the avoidance of the 2-year limit on the credit period through the use of successor entities and the avoidance of the limitations under subsection (c) through the use of multiple entities.
 
-(Added and amended [Pub. L. 111–148, title I, § 1421(a)][/us/pl/111/148/s1421/a], title X, § 10105(e)(1), (2), Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237], 906.)
+(Added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1421(a), title X, § 10105(e)(1), (2), Mar. 23, 2010, [124 Stat. 237][/us/stat/124/237], 906.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -229,13 +229,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(3)(B). [Pub. L. 111–148, § 10105(e)(1)][/us/pl/111/148/s10105/e/1], amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
+    2010—Subsec. (d)(3)(B). [Pub. L. 111–148][/us/pl/111/148], § 10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
 
-    Subsec. (g). [Pub. L. 111–148, § 10105(e)(2)][/us/pl/111/148/s10105/e/2], substituted “2010, 2011” for “2011” in heading and in introductory provisions.
+    Subsec. (g). [Pub. L. 111–148][/us/pl/111/148], § 10105(e)(2), substituted “2010, 2011” for “2011” in heading and in introductory provisions.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–148, title X, § 10105(e)(5)][/us/pl/111/148/s10105/e/5], Mar. 23, 2010, [124 Stat. 907][/us/stat/124/907], provided that: 
+[Pub. L. 111–148, title X][/us/pl/111/148/tX], § 10105(e)(5), Mar. 23, 2010, [124 Stat. 907][/us/stat/124/907], provided that: 
 
 > “The amendments made by this subsection \[amending this section, [section 280C of this title][/us/usc/t26/s280C], and provisions set out as a note under [section 38 of this title][/us/usc/t26/s38]\] shall take effect as if included in the enactment of section 1421 of this Act.”
 
@@ -250,7 +250,7 @@
 ----------
 ----------
 
-[/us/pl/111/148/s1421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1421%2Fa
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F237
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
@@ -262,9 +262,9 @@
 [/us/usc/t42/s300gg–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%939
 [/us/usc/t42/s300gg–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9311
 [/us/usc/t42/s18001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18001
-[/us/pl/111/148/s10105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fe%2F1
-[/us/pl/111/148/s10105/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fe%2F2
-[/us/pl/111/148/s10105/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10105%2Fe%2F5
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtX
 [/us/stat/124/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F907
 [/us/usc/t26/s280C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs280C
 [/us/usc/t26/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs38

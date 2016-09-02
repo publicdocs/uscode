@@ -43,7 +43,7 @@
 
         This part shall not apply to any tax imposed by subtitle C (sec. 3101 and following relating to employment taxes).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 340][/us/stat/68A/340]; [Pub. L. 85–866, title I, § 59(b)][/us/pl/85/866/s59/b], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 89–44, title VIII, § 809(d)(5)(B)][/us/pl/89/44/s809/d/5/B], June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–172, title V, § 512(f)(7)][/us/pl/91/172/s512/f/7], (8), Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], 642; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–295, div. A, title II, § 221(a)(87)][/us/pl/113/295/s221/a/87], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 340][/us/stat/68A/340]; [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 59(b), Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 89–44, title VIII][/us/pl/89/44/tVIII], § 809(d)(5)(B), June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–172, title V][/us/pl/91/172/tV], § 512(f)(7), (8), Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], 642; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(87), Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1969—Subsec. (a). [Pub. L. 91–172, § 512(f)(7)][/us/pl/91/172/s512/f/7], substituted “capital loss carryback or carryover” for “capital loss carryover”.
+    1969—Subsec. (a). [Pub. L. 91–172][/us/pl/91/172], § 512(f)(7), substituted “capital loss carryback or carryover” for “capital loss carryover”.
 
-    Subsec. (b). [Pub. L. 91–172, § 512(f)(8)][/us/pl/91/172/s512/f/8], inserted reference to net capital loss.
+    Subsec. (b). [Pub. L. 91–172][/us/pl/91/172], § 512(f)(8), inserted reference to net capital loss.
 
     1965—Subsec. (a)(1)(A). [Pub. L. 89–44][/us/pl/89/44] struck out “(b)(1) and (3)” and inserted in lieu thereof “(b)(1), (3), and (4)”.
 
@@ -84,20 +84,20 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F340
-[/us/pl/85/866/s59/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs59%2Fb
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1647
-[/us/pl/89/44/s809/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs809%2Fd%2F5%2FB
+[/us/pl/89/44/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtVIII
 [/us/stat/79/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F168
-[/us/pl/91/172/s512/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F7
+[/us/pl/91/172/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtV
 [/us/stat/83/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F641
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/113/295/s221/a/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F87
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/91/172/s512/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F7
-[/us/pl/91/172/s512/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F8
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295

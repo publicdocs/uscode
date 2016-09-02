@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–508, title XI, § 11704(a)(18)][/us/pl/101/508/s11704/a/18], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519], substituted “23A—” for “23A.” in chapter heading.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11704(a)(18), Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519], substituted “23A—” for “23A.” in chapter heading.
 
-    1988—[Pub. L. 100–647, title VII, § 7106(a)][/us/pl/100/647/s7106/a], Nov. 10, 1988, [102 Stat. 3772][/us/stat/102/3772], reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
+    1988—[Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(a), Nov. 10, 1988, [102 Stat. 3772][/us/stat/102/3772], reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
 
 ----------
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/101/508/s11704/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11704%2Fa%2F18
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-519
-[/us/pl/100/647/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fa
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3772
 
 

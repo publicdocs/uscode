@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1969—[Pub. L. 91–172, title IV, § 415(a)][/us/pl/91/172/s415/a], Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613], added part heading and analysis of sections.
+    1969—[Pub. L. 91–172, title IV][/us/pl/91/172/tIV], § 415(a), Dec. 30, 1969, [83 Stat. 613][/us/stat/83/613], added part heading and analysis of sections.
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/172/s415/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs415%2Fa
+[/us/pl/91/172/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIV
 [/us/stat/83/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F613
 
 

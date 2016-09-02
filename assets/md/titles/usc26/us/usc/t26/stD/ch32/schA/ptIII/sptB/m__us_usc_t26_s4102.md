@@ -17,7 +17,7 @@
 
     Under regulations prescribed by the Secretary, records required to be kept with respect to taxes under this part shall be open to inspection by such officers of a State, or a political subdivision of any such State, as shall be charged with the enforcement or collection of any tax on any taxable fuel (as defined in section 4083).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 484][/us/stat/68A/484]; [Pub. L. 94–455, title XII, § 1202(c)(1)][/us/pl/94/455/s1202/c/1], Oct. 4, 1976, [90 Stat. 1686][/us/stat/90/1686]; [Pub. L. 97–424, title V, § 515(b)(9)][/us/pl/97/424/s515/b/9], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 103–66, title XIII, § 13242(d)(2)][/us/pl/103/66/s13242/d/2], Aug. 10, 1993, [107 Stat. 522][/us/stat/107/522].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 484][/us/stat/68A/484]; [Pub. L. 94–455, title XII][/us/pl/94/455/tXII], § 1202(c)(1), Oct. 4, 1976, [90 Stat. 1686][/us/stat/90/1686]; [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 515(b)(9), Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13242(d)(2), Aug. 10, 1993, [107 Stat. 522][/us/stat/107/522].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F484
-[/us/pl/94/455/s1202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1202%2Fc%2F1
+[/us/pl/94/455/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXII
 [/us/stat/90/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1686
-[/us/pl/97/424/s515/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs515%2Fb%2F9
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2182
-[/us/pl/103/66/s13242/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13242%2Fd%2F2
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F522
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424

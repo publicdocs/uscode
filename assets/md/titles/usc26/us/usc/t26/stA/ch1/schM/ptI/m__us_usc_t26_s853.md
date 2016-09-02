@@ -69,21 +69,21 @@
 
         (2) For definition of foreign corporation, see section 7701(a)(5).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 272][/us/stat/68A/272]; [Pub. L. 88–272, title II, § 229(a)(3)][/us/pl/88/272/s229/a/3], Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI, § 655(a)(3)][/us/pl/99/514/s655/a/3], Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299]; [Pub. L. 105–34, title X, § 1053(b)][/us/pl/105/34/s1053/b], Aug. 5, 1997, [111 Stat. 943][/us/stat/111/943]; [Pub. L. 105–206, title VI, § 6010(k)(1)][/us/pl/105/206/s6010/k/1], (2), July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 109–135, title IV, § 403(aa)(1)][/us/pl/109/135/s403/aa/1], Dec. 21, 2005, [119 Stat. 2630][/us/stat/119/2630]; [Pub. L. 111–325, title III, § 301(c)][/us/pl/111/325/s301/c], Dec. 22, 2010, [124 Stat. 3544][/us/stat/124/3544].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 272][/us/stat/68A/272]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 229(a)(3), Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 655(a)(3), Oct. 22, 1986, [100 Stat. 2299][/us/stat/100/2299]; [Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1053(b), Aug. 5, 1997, [111 Stat. 943][/us/stat/111/943]; [Pub. L. 105–206, title VI][/us/pl/105/206/tVI], § 6010(k)(1), (2), July 22, 1998, [112 Stat. 815][/us/stat/112/815]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(aa)(1), Dec. 21, 2005, [119 Stat. 2630][/us/stat/119/2630]; [Pub. L. 111–325, title III][/us/pl/111/325/tIII], § 301(c), Dec. 22, 2010, [124 Stat. 3544][/us/stat/124/3544].)
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–325, § 301(c)(1)(B)][/us/pl/111/325/s301/c/1/B], substituted “Statements” for “Notice” in heading.
+    2010—Subsec. (c). [Pub. L. 111–325][/us/pl/111/325], § 301(c)(1)(B), substituted “Statements” for “Notice” in heading.
 
-    [Pub. L. 111–325, § 301(c)(1)(A)][/us/pl/111/325/s301/c/1/A], which directed amendment by substituting “so reported by the company in a written statement furnished to such shareholder” for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year”, was executed by making the substitution for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions to reflect the probable intent of Congress.
+    [Pub. L. 111–325][/us/pl/111/325], § 301(c)(1)(A), which directed amendment by substituting “so reported by the company in a written statement furnished to such shareholder” for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year”, was executed by making the substitution for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions to reflect the probable intent of Congress.
 
-    Subsec. (d). [Pub. L. 111–325, § 301(c)(2)][/us/pl/111/325/s301/c/2], struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+    Subsec. (d). [Pub. L. 111–325][/us/pl/111/325], § 301(c)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
 
     2005—Subsec. (e). [Pub. L. 109–135][/us/pl/109/135] amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).”
 
-    1998—Subsec. (c). [Pub. L. 105–206, § 6010(k)(2)][/us/pl/105/206/s6010/k/2], struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
+    1998—Subsec. (c). [Pub. L. 105–206][/us/pl/105/206], § 6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
-    Subsecs. (e), (f). [Pub. L. 105–206, § 6010(k)(1)][/us/pl/105/206/s6010/k/1], added subsec. (e) and redesignated former subsec. (e) as (f).
+    Subsecs. (e), (f). [Pub. L. 105–206][/us/pl/105/206], § 6010(k)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
     1997—Subsec. (c). [Pub. L. 105–34][/us/pl/105/34] inserted at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
@@ -107,7 +107,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title X, § 1053(c)][/us/pl/105/34/s1053/c], Aug. 5, 1997, [111 Stat. 943][/us/stat/111/943], provided that: 
+[Pub. L. 105–34, title X][/us/pl/105/34/tX], § 1053(c), Aug. 5, 1997, [111 Stat. 943][/us/stat/111/943], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 901 of this title][/us/usc/t26/s901]\] shall apply to dividends paid or accrued more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -128,26 +128,26 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F272
-[/us/pl/88/272/s229/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs229%2Fa%2F3
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F99
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/99/514/s655/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs655%2Fa%2F3
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2299
-[/us/pl/105/34/s1053/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1053%2Fb
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F943
-[/us/pl/105/206/s6010/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fk%2F1
+[/us/pl/105/206/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtVI
 [/us/stat/112/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F815
-[/us/pl/109/135/s403/aa/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Faa%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2630
-[/us/pl/111/325/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fc
+[/us/pl/111/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2FtIII
 [/us/stat/124/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3544
-[/us/pl/111/325/s301/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fc%2F1%2FB
-[/us/pl/111/325/s301/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fc%2F1%2FA
-[/us/pl/111/325/s301/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs301%2Fc%2F2
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
-[/us/pl/105/206/s6010/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fk%2F2
-[/us/pl/105/206/s6010/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fk%2F1
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
@@ -163,7 +163,7 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/105/34/s1053/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1053%2Fc
+[/us/pl/105/34/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtX
 [/us/stat/111/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F943
 [/us/usc/t26/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs901
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

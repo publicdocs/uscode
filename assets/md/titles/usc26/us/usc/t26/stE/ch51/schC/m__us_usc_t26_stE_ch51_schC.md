@@ -51,11 +51,11 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, Establishment, and part II, Operation, and consisted of sections 5231 to 5233 and 5241 to 5252, respectively, prior to the general revision of this chapter by [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
+    A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, Establishment, and part II, Operation, and consisted of sections 5231 to 5233 and 5241 to 5252, respectively, prior to the general revision of this chapter by [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1313][/us/stat/72/1313].
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–39, title VIII, § 807(b)(5)][/us/pl/96/39/s807/b/5], July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item relating to Part III “Operations on bottling premises” in table of parts comprising subchapter C.
+    1979—[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(b)(5), July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item relating to Part III “Operations on bottling premises” in table of parts comprising subchapter C.
 
 ----------
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1313
-[/us/pl/96/39/s807/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fb%2F5
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F290
 
 

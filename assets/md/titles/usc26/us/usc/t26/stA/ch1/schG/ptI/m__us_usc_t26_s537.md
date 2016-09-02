@@ -53,7 +53,7 @@
 
             The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 182][/us/stat/68A/182]; [Pub. L. 91–172, title IX, § 906(a)][/us/pl/91/172/s906/a], Dec. 30, 1969, [83 Stat. 714][/us/stat/83/714]; [Pub. L. 94–455, title XIX, § 1901(a)(75)][/us/pl/94/455/s1901/a/75], Oct. 4, 1976, [90 Stat. 1777][/us/stat/90/1777]; [Pub. L. 95–600, title III, § 371(c)][/us/pl/95/600/s371/c], Nov. 6, 1978, [92 Stat. 2859][/us/stat/92/2859]; [Pub. L. 104–188, title I, § 1704(t)(33)][/us/pl/104/188/s1704/t/33], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 182][/us/stat/68A/182]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 906(a), Dec. 30, 1969, [83 Stat. 714][/us/stat/83/714]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(a)(75), Oct. 4, 1976, [90 Stat. 1777][/us/stat/90/1777]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 371(c), Nov. 6, 1978, [92 Stat. 2859][/us/stat/92/2859]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(33), Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889].)
 
  __Amendments__ 
 
@@ -61,9 +61,9 @@
 
     1978—Subsec. (b)(4), (5). [Pub. L. 95–600][/us/pl/95/600] added par. (4) and redesignated former par. (4) as (5).
 
-    1976—Subsec. (b)(2). [Pub. L. 94–455, § 1901(a)(75)(A)][/us/pl/94/455/s1901/a/75/A], struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
+    1976—Subsec. (b)(2). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(75)(A), struck out “with respect to taxable years of the corporation ending after May 26, 1969” after “ ‘redemption needs’ means”.
 
-    Subsec. (b)(4). [Pub. L. 94–455, § 1901(a)(75)(B)][/us/pl/94/455/s1901/a/75/B], struck out “or (2)” after “paragraph (1)”.
+    Subsec. (b)(4). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(75)(B), struck out “or (2)” after “paragraph (1)”.
 
     1969—[Pub. L. 91–172][/us/pl/91/172] designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–172, title IX, § 906(b)][/us/pl/91/172/s906/b], Dec. 30, 1969, [83 Stat. 715][/us/stat/83/715], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 906(b), Dec. 30, 1969, [83 Stat. 715][/us/stat/83/715], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to the tax imposed under section 531 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to taxable years ending after May 26, 1969.”
 
@@ -90,18 +90,18 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F182
-[/us/pl/91/172/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs906%2Fa
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F714
-[/us/pl/94/455/s1901/a/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F75
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1777
-[/us/pl/95/600/s371/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs371%2Fc
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2859
-[/us/pl/104/188/s1704/t/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F33
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1901/a/75/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F75%2FA
-[/us/pl/94/455/s1901/a/75/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F75%2FB
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/600/s371/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs371%2Fd
@@ -109,9 +109,9 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/91/172/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs906%2Fb
+[/us/pl/91/172/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIX
 [/us/stat/83/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F715
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 
 

@@ -27,11 +27,11 @@
 
         No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-(Added and amended [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 861(b)(1), 862(b), Oct. 22, 2004, [118 Stat. 1618][/us/stat/118/1618], 1619.)
+(Added and amended [Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], §§ 861(b)(1), 862(b), Oct. 22, 2004, [118 Stat. 1618][/us/stat/118/1618], 1619.)
 
  __Amendments__ 
 
-    2004—Subsec. (a). [Pub. L. 108–357, § 862(b)][/us/pl/108/357/s862/b], substituted “section 4101(a)(3)” for “section 4101(a)(2)”.
+    2004—Subsec. (a). [Pub. L. 108–357][/us/pl/108/357], § 862(b), substituted “section 4101(a)(3)” for “section 4101(a)(2)”.
 
  __Effective Date of 2004 Amendment__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–357, title VIII, § 861(c)(2)][/us/pl/108/357/s861/c/2], Oct. 22, 2004, [118 Stat. 1619][/us/stat/118/1619], provided that: 
+[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 861(c)(2), Oct. 22, 2004, [118 Stat. 1619][/us/stat/118/1619], provided that: 
 
 > “The amendments made by subsection (b) \[enacting this section\] shall apply to penalties imposed after December 31, 2004.”
 
@@ -50,13 +50,13 @@
 ----------
 ----------
 
-[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1618
-[/us/pl/108/357/s862/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs862%2Fb
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s862/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs862%2Fb
 [/us/pl/108/357/s862/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs862%2Fc
 [/us/usc/t26/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4101
-[/us/pl/108/357/s861/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs861%2Fc%2F2
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1619
 
 

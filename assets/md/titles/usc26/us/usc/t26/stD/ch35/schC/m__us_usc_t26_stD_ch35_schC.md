@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–499, § 3(c)(2)][/us/pl/93/499/s3/c/2], Oct. 29, 1974, [88 Stat. 1551][/us/stat/88/1551], added item 4424.
+    1974—[Pub. L. 93–499][/us/pl/93/499], § 3(c)(2), Oct. 29, 1974, [88 Stat. 1551][/us/stat/88/1551], added item 4424.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/93/499/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499%2Fs3%2Fc%2F2
+[/us/pl/93/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F499
 [/us/stat/88/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1551
 
 

@@ -59,7 +59,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–406, title II, § 1016(b)(5)][/us/pl/93/406/s1016/b/5], Sept. 2, 1974, [88 Stat. 932][/us/stat/88/932], substituted “gift, and certain excise taxes” for “and gift taxes” in items 6861 and 6862.
+    1974—[Pub. L. 93–406, title II][/us/pl/93/406/tII], § 1016(b)(5), Sept. 2, 1974, [88 Stat. 932][/us/stat/88/932], substituted “gift, and certain excise taxes” for “and gift taxes” in items 6861 and 6862.
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s1016/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1016%2Fb%2F5
+[/us/pl/93/406/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtII
 [/us/stat/88/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F932
 
 

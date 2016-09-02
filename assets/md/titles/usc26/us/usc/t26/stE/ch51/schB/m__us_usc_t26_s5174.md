@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t26/stE/ch51/schB/m__us_usc_t26_s5173.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schB/m__us_usc_t26_s5175.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5174)
 
-## \[§ 5174. Repealed. [Pub. L. 96–39, title VIII, § 807(a)(14)][/us/pl/96/39/s807/a/14], July 26, 1979, [93 Stat. 282][/us/stat/93/282]\]
+## \[§ 5174. Repealed. [Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(a)(14), July 26, 1979, [93 Stat. 282][/us/stat/93/282]\]
 
-    Section, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1352][/us/stat/72/1352]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1905(a)(14), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834, related to withdrawal bonds.
+    Section, added [Pub. L. 85–859, title II][/us/pl/85/859/tII], § 201, Sept. 2, 1958, [72 Stat. 1352][/us/stat/72/1352]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1905(a)(14), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1820][/us/stat/90/1820], 1834, related to withdrawal bonds.
 
     A prior section 5174, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 630][/us/stat/68A/630], related to “registry of stills”, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859]. See sections 5179 and 5505(d) of this title.
 
-    Provisions similar to those comprising subsec. (a)(1) of section 5174, added by [Pub. L. 85–859, title I, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [725 Stat. 1352][/us/stat/725/1352], relating to the withdrawal from bonded premises of distilled spirits on the furnishing of a bond by the proprietor of the bonded premises to secure payment of the tax on such spirits, were contained in prior sections 5176(b) and 5232(b), [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 629][/us/stat/68A/629], 643, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
+    Provisions similar to those comprising subsec. (a)(1) of section 5174, added by [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 201, Sept. 2, 1958, [725 Stat. 1352][/us/stat/725/1352], relating to the withdrawal from bonded premises of distilled spirits on the furnishing of a bond by the proprietor of the bonded premises to secure payment of the tax on such spirits, were contained in prior sections 5176(b) and 5232(b), [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 629][/us/stat/68A/629], 643, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
 
  __Effective Date of Repeal__ 
 
@@ -32,16 +32,16 @@
 ----------
 ----------
 
-[/us/pl/96/39/s807/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F14
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F282
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtII
 [/us/stat/72/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1352
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1820
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F630
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
-[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/725/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F725%2F1352
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F629

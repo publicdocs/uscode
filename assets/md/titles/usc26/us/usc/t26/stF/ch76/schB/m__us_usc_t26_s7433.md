@@ -65,7 +65,7 @@
 
                 (ii) administrative costs may be awarded only if incurred on or after the date that the bankruptcy petition is filed.
 
-(Added [Pub. L. 100–647, title VI, § 6241(a)][/us/pl/100/647/s6241/a], Nov. 10, 1988, [102 Stat. 3747][/us/stat/102/3747]; amended [Pub. L. 104–168, title VIII][/us/pl/104/168], §§ 801(a), 802(a), July 30, 1996, [110 Stat. 1465][/us/stat/110/1465]; [Pub. L. 105–206, title III, § 3102(a)][/us/pl/105/206/s3102/a], (c), July 22, 1998, [112 Stat. 730][/us/stat/112/730].)
+(Added [Pub. L. 100–647, title VI][/us/pl/100/647/tVI], § 6241(a), Nov. 10, 1988, [102 Stat. 3747][/us/stat/102/3747]; amended [Pub. L. 104–168, title VIII][/us/pl/104/168/tVIII], §§ 801(a), 802(a), July 30, 1996, [110 Stat. 1465][/us/stat/110/1465]; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3102(a), (c), July 22, 1998, [112 Stat. 730][/us/stat/112/730].)
 
  __Prior Provisions__ 
 
@@ -73,19 +73,19 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–206, § 3102(a)(1)(A)][/us/pl/105/206/s3102/a/1/A], inserted “, or by reason of negligence,” after “recklessly or intentionally”.
+    1998—Subsec. (a). [Pub. L. 105–206][/us/pl/105/206], § 3102(a)(1)(A), inserted “, or by reason of negligence,” after “recklessly or intentionally”.
 
-    Subsec. (b). [Pub. L. 105–206, § 3102(a)(1)(B)(i)][/us/pl/105/206/s3102/a/1/B/i], (c)(2), in introductory provisions, inserted “or petition filed under subsection (e)” after “subsection (a)” and inserted “($100,000, in the case of negligence)” after “$1,000,000”.
+    Subsec. (b). [Pub. L. 105–206][/us/pl/105/206], § 3102(a)(1)(B)(i), (c)(2), in introductory provisions, inserted “or petition filed under subsection (e)” after “subsection (a)” and inserted “($100,000, in the case of negligence)” after “$1,000,000”.
 
-    Subsec. (b)(1). [Pub. L. 105–206, § 3102(a)(1)(B)(ii)][/us/pl/105/206/s3102/a/1/B/ii], inserted “or negligent” after “reckless or intentional”.
+    Subsec. (b)(1). [Pub. L. 105–206][/us/pl/105/206], § 3102(a)(1)(B)(ii), inserted “or negligent” after “reckless or intentional”.
 
-    Subsec. (d)(1). [Pub. L. 105–206, § 3102(a)(2)][/us/pl/105/206/s3102/a/2], substituted “Requirement that administrative remedies be exhausted” for “Award for damages may be reduced if administrative remedies not exhausted” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “The amount of damages awarded under subsection (b) may be reduced if the court determines that the plaintiff has not exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
+    Subsec. (d)(1). [Pub. L. 105–206][/us/pl/105/206], § 3102(a)(2), substituted “Requirement that administrative remedies be exhausted” for “Award for damages may be reduced if administrative remedies not exhausted” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “The amount of damages awarded under subsection (b) may be reduced if the court determines that the plaintiff has not exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
 
-    Subsec. (e). [Pub. L. 105–206, § 3102(c)(1)][/us/pl/105/206/s3102/c/1], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–206][/us/pl/105/206], § 3102(c)(1), added subsec. (e).
 
-    1996—Subsec. (b). [Pub. L. 104–168, § 801(a)][/us/pl/104/168/s801/a], substituted “$1,000,000” for “$100,000”.
+    1996—Subsec. (b). [Pub. L. 104–168][/us/pl/104/168], § 801(a), substituted “$1,000,000” for “$100,000”.
 
-    Subsec. (d)(1). [Pub. L. 104–168, § 802(a)][/us/pl/104/168/s802/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+    Subsec. (d)(1). [Pub. L. 104–168][/us/pl/104/168], § 802(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
     “(1) Requirement that administrative remedies be exhausted.—A judgment for damages shall not be awarded under subsection (b) unless the court determines that the plaintiff has exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
 
@@ -95,11 +95,11 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–168, title VIII, § 801(b)][/us/pl/104/168/s801/b], July 30, 1996, [110 Stat. 1465][/us/stat/110/1465], provided that: 
+[Pub. L. 104–168, title VIII][/us/pl/104/168/tVIII], § 801(b), July 30, 1996, [110 Stat. 1465][/us/stat/110/1465], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[July 30, 1996\].”
 
-[Pub. L. 104–168, title VIII, § 802(b)][/us/pl/104/168/s802/b], July 30, 1996, [110 Stat. 1465][/us/stat/110/1465], provided that: 
+[Pub. L. 104–168, title VIII][/us/pl/104/168/tVIII], § 802(b), July 30, 1996, [110 Stat. 1465][/us/stat/110/1465], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
 
@@ -111,25 +111,25 @@
 ----------
 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/pl/100/647/s6241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6241%2Fa
+[/us/pl/100/647/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVI
 [/us/stat/102/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3747
-[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVIII
 [/us/stat/110/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1465
-[/us/pl/105/206/s3102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F730
-[/us/pl/105/206/s3102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fa%2F1%2FA
-[/us/pl/105/206/s3102/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fa%2F1%2FB%2Fi
-[/us/pl/105/206/s3102/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fa%2F1%2FB%2Fii
-[/us/pl/105/206/s3102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fa%2F2
-[/us/pl/105/206/s3102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fc%2F1
-[/us/pl/104/168/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs801%2Fa
-[/us/pl/104/168/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs802%2Fa
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
+[/us/pl/104/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/206/s3102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3102%2Fd
 [/us/usc/t26/s7426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7426
-[/us/pl/104/168/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs801%2Fb
+[/us/pl/104/168/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVIII
 [/us/stat/110/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1465
-[/us/pl/104/168/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs802%2Fb
+[/us/pl/104/168/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtVIII
 [/us/stat/110/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1465
 
 

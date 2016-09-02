@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–39, title VIII, § 807(b)(6)][/us/pl/96/39/s807/b/6], July 26, 1979, [93 Stat. 290][/us/stat/93/290], substituted “Entry for deposit” for “Entry for deposit in storage” in item 5231 and struck out items 5233 “Bottling of distilled spirits in bond” and 5234 “Mingling and blending of distilled spirits”.
+    1979—[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(b)(6), July 26, 1979, [93 Stat. 290][/us/stat/93/290], substituted “Entry for deposit” for “Entry for deposit in storage” in item 5231 and struck out items 5233 “Bottling of distilled spirits in bond” and 5234 “Mingling and blending of distilled spirits”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s807/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fb%2F6
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F290
 
 

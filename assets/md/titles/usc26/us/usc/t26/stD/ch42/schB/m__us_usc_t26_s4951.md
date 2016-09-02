@@ -127,19 +127,19 @@
 
         For purposes of this section, a payment, out of assets or income of a trust described in section 501(c)(21), for the purposes described in subclause (I) or (IV) of section 501(c)(21)(A)(i) shall not be considered an act of self-dealing.
 
-(Added [Pub. L. 95–227, § 4(c)(1)][/us/pl/95/227/s4/c/1], Feb. 10, 1978, [92 Stat. 18][/us/stat/92/18]; amended [Pub. L. 96–596, § 2(a)(1)(G)][/us/pl/96/596/s2/a/1/G], (H), (2)(F), (3)(E), Dec. 24, 1980, [94 Stat. 3469–3471][/us/stat/94/3469-3471]; [Pub. L. 102–486, title XIX, § 1940(b)][/us/pl/102/486/s1940/b], Oct. 24, 1992, [106 Stat. 3035][/us/stat/106/3035].)
+(Added [Pub. L. 95–227][/us/pl/95/227], § 4(c)(1), Feb. 10, 1978, [92 Stat. 18][/us/stat/92/18]; amended [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(G), (H), (2)(F), (3)(E), Dec. 24, 1980, [94 Stat. 3469–3471][/us/stat/94/3469-3471]; [Pub. L. 102–486, title XIX][/us/pl/102/486/tXIX], § 1940(b), Oct. 24, 1992, [106 Stat. 3035][/us/stat/106/3035].)
 
  __Amendments__ 
 
     1992—Subsec. (f). [Pub. L. 102–486][/us/pl/102/486] substituted “subclause (I) or (IV) of section 501(c)(21)(A)(i)” for “clause (i) of section 501(c)(21)(A)”.
 
-    1980—Subsec. (b)(1). [Pub. L. 96–596, § 2(a)(1)(G)][/us/pl/96/596/s2/a/1/G], substituted “taxable period” for “correction period”.
+    1980—Subsec. (b)(1). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(G), substituted “taxable period” for “correction period”.
 
-    Subsec. (e)(1)(B), (C). [Pub. L. 96–596, § 2(a)(2)(F)][/us/pl/96/596/s2/a/2/F], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (e)(1)(B), (C). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(2)(F), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (e)(2)(B). [Pub. L. 96–596, § 2(a)(1)(H)][/us/pl/96/596/s2/a/1/H], substituted “taxable period” for “correction period”.
+    Subsec. (e)(2)(B). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(H), substituted “taxable period” for “correction period”.
 
-    Subsec. (e)(4), (5). [Pub. L. 96–596, § 2(a)(3)(E)][/us/pl/96/596/s2/a/3/E], redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under [section 6212 of this title][/us/usc/t26/s6212] with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+    Subsec. (e)(4), (5). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under [section 6212 of this title][/us/usc/t26/s6212] with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -160,17 +160,17 @@
 ----------
 ----------
 
-[/us/pl/95/227/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs4%2Fc%2F1
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F18
-[/us/pl/96/596/s2/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FG
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3469-3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3469-3471
-[/us/pl/102/486/s1940/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1940%2Fb
+[/us/pl/102/486/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXIX
 [/us/stat/106/3035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3035
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/96/596/s2/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FG
-[/us/pl/96/596/s2/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F2%2FF
-[/us/pl/96/596/s2/a/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FH
-[/us/pl/96/596/s2/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F3%2FE
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

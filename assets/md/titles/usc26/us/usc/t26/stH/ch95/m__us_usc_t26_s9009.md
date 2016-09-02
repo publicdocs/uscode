@@ -41,15 +41,15 @@
 
         (4) For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV][/us/pl/93/443], §§ 404(c)(12), (13), 406(b)(1), 409, Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1293, 1296, 1303; [Pub. L. 94–283, title III, § 304(a)][/us/pl/94/283/s304/a], May 11, 1976, [90 Stat. 498][/us/stat/90/498]; [Pub. L. 113–94, § 2(c)(1)][/us/pl/113/94/s2/c/1], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 569][/us/stat/85/569]; amended [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], §§ 404(c)(12), (13), 406(b)(1), 409, Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1293, 1296, 1303; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 304(a), May 11, 1976, [90 Stat. 498][/us/stat/90/498]; [Pub. L. 113–94][/us/pl/113/94], § 2(c)(1), Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2). [Pub. L. 113–94, § 2(c)(1)(A)][/us/pl/113/94/s2/c/1/A], inserted “and” at end.
+    2014—Subsec. (a)(2). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(1)(A), inserted “and” at end.
 
-    Subsec. (a)(3). [Pub. L. 113–94, § 2(c)(1)(B)][/us/pl/113/94/s2/c/1/B], which directed substitution of period for semicolon at end, was executed by substituting period for “; and” at end, to reflect the probable intent of Congress.
+    Subsec. (a)(3). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(1)(B), which directed substitution of period for semicolon at end, was executed by substituting period for “; and” at end, to reflect the probable intent of Congress.
 
-    Subsec. (a)(4) to (6). [Pub. L. 113–94, § 2(c)(1)(C)][/us/pl/113/94/s2/c/1/C], struck out pars. (4) to (6) which read as follows:
+    Subsec. (a)(4) to (6). [Pub. L. 113–94][/us/pl/113/94], § 2(c)(1)(C), struck out pars. (4) to (6) which read as follows:
 
     “(4) the expenses incurred by the national committee of a major party or minor party with respect to a presidential nominating convention;
 
@@ -57,15 +57,15 @@
 
     “(6) the amount of payments, if any, required from such committees under section 9008(h), and the reasons for each such payment.”
 
-    1976—Subsec. (c)(2). [Pub. L. 94–283, § 304(a)(1)][/us/pl/94/283/s304/a/1], inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
+    1976—Subsec. (c)(2). [Pub. L. 94–283][/us/pl/94/283], § 304(a)(1), inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
 
-    Subsec. (c)(4). [Pub. L. 94–283, § 304(a)(2)][/us/pl/94/283/s304/a/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 94–283][/us/pl/94/283], § 304(a)(2), added par. (4).
 
     1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], §§ 404(c)(12), 406(b)(1), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him” and added pars. (4) to (6).
 
     Subsec. (b). [Pub. L. 93–443][/us/pl/93/443], §§ 404(c)(13), 409(b), substituted “Commission”, “it” and “it” for “Comptroller General”, “he” and “him”, respectively, and inserted “in accordance with the provisions of subsection (c)” after “regulations”.
 
-    Subsec. (c). [Pub. L. 93–443, § 409(a)][/us/pl/93/443/s409/a], added subsec. (c).
+    Subsec. (c). [Pub. L. 93–443][/us/pl/93/443], § 409(a), added subsec. (c).
 
  __Effective Date of 1974 Amendment__ 
 
@@ -82,22 +82,22 @@
 ----------
 ----------
 
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F569
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1292
-[/us/pl/94/283/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fa
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F498
-[/us/pl/113/94/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F1
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
 [/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
-[/us/pl/113/94/s2/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F1%2FA
-[/us/pl/113/94/s2/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F1%2FB
-[/us/pl/113/94/s2/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs2%2Fc%2F1%2FC
-[/us/pl/94/283/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fa%2F1
-[/us/pl/94/283/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs304%2Fa%2F2
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
+[/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
-[/us/pl/93/443/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs409%2Fa
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/443/s410/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fc%2F1
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101

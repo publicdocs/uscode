@@ -31,7 +31,7 @@
 
         For purposes of this chapter, rules similar to the rules of section 3307 and 3308 shall apply.
 
-(Added [Pub. L. 98–76, title II, § 231(a)][/us/pl/98/76/s231/a], Aug. 12, 1983, [97 Stat. 427][/us/stat/97/427]; amended [Pub. L. 99–272, title XIII, § 13301(d)][/us/pl/99/272/s13301/d], Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]; [Pub. L. 100–647, title VII, § 7106(a)][/us/pl/100/647/s7106/a], Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773].)
+(Added [Pub. L. 98–76, title II][/us/pl/98/76/tII], § 231(a), Aug. 12, 1983, [97 Stat. 427][/us/stat/97/427]; amended [Pub. L. 99–272, title XIII][/us/pl/99/272/tXIII], § 13301(d), Apr. 7, 1986, [100 Stat. 327][/us/stat/100/327]; [Pub. L. 100–647, title VII][/us/pl/100/647/tVII], § 7106(a), Nov. 10, 1988, [102 Stat. 3773][/us/stat/102/3773].)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
     1988—[Pub. L. 100–647][/us/pl/100/647] amended section generally, substituting present provisions for former provisions relating to taxable period, which had provided, in subsec. (a), for a general rule and, in subsec. (b), for earlier termination if loans to rail unemployment fund repaid.
 
-    1986—Subsec. (a)(2), (3). [Pub. L. 99–272, § 13301(d)(1)][/us/pl/99/272/s13301/d/1], struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
+    1986—Subsec. (a)(2), (3). [Pub. L. 99–272][/us/pl/99/272], § 13301(d)(1), struck out “and before 1990, and” after “1986” in par. (2) and struck out par. (3) relating to the period beginning on Jan. 1, 1990, and ending on Sept. 30, 1990.
 
-    Subsec. (b). [Pub. L. 99–272, § 13301(d)(2)][/us/pl/99/272/s13301/d/2], substituted “The basic rate under section 3321(c)(1)(A) of the tax imposed by section 3321 shall not apply” for “The tax imposed by this chapter shall not apply” in introductory provision, and inserted “made before October 1, 1985,” in par. (1).
+    Subsec. (b). [Pub. L. 99–272][/us/pl/99/272], § 13301(d)(2), substituted “The basic rate under section 3321(c)(1)(A) of the tax imposed by section 3321 shall not apply” for “The tax imposed by this chapter shall not apply” in introductory provision, and inserted “made before October 1, 1985,” in par. (1).
 
  __Effective Date of 1988 Amendment__ 
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/pl/98/76/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2Fs231%2Fa
+[/us/pl/98/76/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F76%2FtII
 [/us/stat/97/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F427
-[/us/pl/99/272/s13301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13301%2Fd
+[/us/pl/99/272/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXIII
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
-[/us/pl/100/647/s7106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fa
+[/us/pl/100/647/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVII
 [/us/stat/102/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3773
 [/us/usc/t45/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs351
 [/us/usc/t45/s358/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs358%2Fa
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/99/272/s13301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13301%2Fd%2F1
-[/us/pl/99/272/s13301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13301%2Fd%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647/s7106/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs7106%2Fd
 [/us/usc/t26/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3321

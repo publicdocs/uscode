@@ -157,7 +157,7 @@
 
         The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).
 
-(Added [Pub. L. 109–58, title XIII, § 1307(b)][/us/pl/109/58/s1307/b], Aug. 8, 2005, [119 Stat. 1004][/us/stat/119/1004]; amended [Pub. L. 110–343, div. B, title I, § 112(a)][/us/pl/110/343/s112/a]–(e), Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824]; [Pub. L. 111–5, div. B, title I, § 1103(b)(2)(D)][/us/pl/111/5/s1103/b/2/D], Feb. 17, 2009, [123 Stat. 321][/us/stat/123/321].)
+(Added [Pub. L. 109–58, title XIII][/us/pl/109/58/tXIII], § 1307(b), Aug. 8, 2005, [119 Stat. 1004][/us/stat/119/1004]; amended [Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 112(a)–(e), Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1103(b)(2)(D), Feb. 17, 2009, [123 Stat. 321][/us/stat/123/321].)
 
  __References in Text__ 
 
@@ -169,15 +169,15 @@
 
     2009—Subsec. (b)(2). [Pub. L. 111–5][/us/pl/111/5] inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
 
-    2008—Subsec. (a). [Pub. L. 110–343, § 112(a)][/us/pl/110/343/s112/a], inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
+    2008—Subsec. (a). [Pub. L. 110–343][/us/pl/110/343], § 112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
 
-    Subsec. (c)(7)(H). [Pub. L. 110–343, § 112(e)][/us/pl/110/343/s112/e], added subpar. (H).
+    Subsec. (c)(7)(H). [Pub. L. 110–343][/us/pl/110/343], § 112(e), added subpar. (H).
 
-    Subsec. (d)(1). [Pub. L. 110–343, § 112(b)][/us/pl/110/343/s112/b], substituted “shall not exceed—” for “shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).” and added subpars. (A) and (B).
+    Subsec. (d)(1). [Pub. L. 110–343][/us/pl/110/343], § 112(b), substituted “shall not exceed—” for “shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).” and added subpars. (A) and (B).
 
-    Subsec. (d)(4). [Pub. L. 110–343, § 112(d)][/us/pl/110/343/s112/d], added par. (4).
+    Subsec. (d)(4). [Pub. L. 110–343][/us/pl/110/343], § 112(d), added par. (4).
 
-    Subsec. (f). [Pub. L. 110–343, § 112(c)][/us/pl/110/343/s112/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–343][/us/pl/110/343], § 112(c), added subsec. (f).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -185,7 +185,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. B, title I, § 112(f)][/us/pl/110/343/s112/f], Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824], provided that: 
+[Pub. L. 110–343, div. B, title I][/us/pl/110/343/dB/tI], § 112(f), Oct. 3, 2008, [122 Stat. 3824][/us/stat/122/3824], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].”
 
@@ -200,25 +200,25 @@
 ----------
 ----------
 
-[/us/pl/109/58/s1307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1307%2Fb
+[/us/pl/109/58/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXIII
 [/us/stat/119/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1004
-[/us/pl/110/343/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fa
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3824
-[/us/pl/111/5/s1103/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fb%2F2%2FD
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F321
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/343/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fa
-[/us/pl/110/343/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fe
-[/us/pl/110/343/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fb
-[/us/pl/110/343/s112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fd
-[/us/pl/110/343/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Fc
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t26/s48/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fm
 [/us/pl/111/5/s1103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1103%2Fc%2F1
 [/us/usc/t26/s25C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs25C
-[/us/pl/110/343/s112/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs112%2Ff
+[/us/pl/110/343/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdB%2FtI
 [/us/stat/122/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3824
 [/us/usc/t26/s48/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fm
 [/us/pl/109/58/s1307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1307%2Fd

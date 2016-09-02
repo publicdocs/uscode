@@ -87,7 +87,7 @@
 
         For provisions providing for interest for the period of the extension under this section, see section 6601.
 
-(Added [Pub. L. 99–514, title XII, § 1235(a)][/us/pl/99/514/s1235/a], Oct. 22, 1986, [100 Stat. 2570][/us/stat/100/2570]; amended [Pub. L. 100–647, title I, § 1012(p)(4)][/us/pl/100/647/s1012/p/4], (8), (25), (34), Nov. 10, 1988, [102 Stat. 3515][/us/stat/102/3515], 3517, 3519, 3522; [Pub. L. 108–357, title IV, § 413(c)(25)][/us/pl/108/357/s413/c/25], Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1235(a), Oct. 22, 1986, [100 Stat. 2570][/us/stat/100/2570]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(p)(4), (8), (25), (34), Nov. 10, 1988, [102 Stat. 3515][/us/stat/102/3515], 3517, 3519, 3522; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 413(c)(25), Oct. 22, 2004, [118 Stat. 1509][/us/stat/118/1509].)
 
  __Amendments__ 
 
@@ -97,11 +97,11 @@
 
     “(B) any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.”
 
-    1988—Subsec. (c)(2). [Pub. L. 100–647, § 1012(p)(4)][/us/pl/100/647/s1012/p/4], (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer” for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.”
+    1988—Subsec. (c)(2). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(4), (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer” for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.”
 
-    Subsec. (f). [Pub. L. 100–647, § 1012(p)(25)][/us/pl/100/647/s1012/p/25], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(25), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 100–647, § 1012(p)(8)][/us/pl/100/647/s1012/p/8], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–647][/us/pl/100/647], § 1012(p)(8), added subsec. (g).
 
  __Effective Date of 2004 Amendment__ 
 
@@ -122,16 +122,16 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2570
-[/us/pl/100/647/s1012/p/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3515
-[/us/pl/108/357/s413/c/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F25
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/100/647/s1012/p/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F4
-[/us/pl/100/647/s1012/p/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F25
-[/us/pl/100/647/s1012/p/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fp%2F8
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

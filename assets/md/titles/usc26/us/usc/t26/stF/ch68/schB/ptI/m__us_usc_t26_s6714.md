@@ -23,7 +23,7 @@
 
         No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-(Added [Pub. L. 103–66, title XIII, § 13173(b)][/us/pl/103/66/s13173/b], Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456].)
+(Added [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13173(b), Aug. 10, 1993, [107 Stat. 456][/us/stat/107/456].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/66/s13173/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13173%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F456
 [/us/usc/t26/s6715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6715
 [/us/pl/103/66/s13173/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13173%2Fd

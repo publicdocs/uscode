@@ -93,7 +93,7 @@
 
         In the case of property held by one person for life with remainder to another person, the deduction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant.
 
-(Added [Pub. L. 96–451, title III, § 301(a)][/us/pl/96/451/s301/a], Oct. 14, 1980, [94 Stat. 1989][/us/stat/94/1989]; amended [Pub. L. 97–354, § 3(g)][/us/pl/97/354/s3/g], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 99–514, title XIII, § 1301(j)(8)][/us/pl/99/514/s1301/j/8], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658]; [Pub. L. 108–357, title III, § 322(a)][/us/pl/108/357/s322/a]–(c)(4), Oct. 22, 2004, [118 Stat. 1474][/us/stat/118/1474], 1475; [Pub. L. 109–135, title IV, § 403(i)(1)][/us/pl/109/135/s403/i/1], Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
+(Added [Pub. L. 96–451, title III][/us/pl/96/451/tIII], § 301(a), Oct. 14, 1980, [94 Stat. 1989][/us/stat/94/1989]; amended [Pub. L. 97–354][/us/pl/97/354], § 3(g), Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(j)(8), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658]; [Pub. L. 108–357, title III][/us/pl/108/357/tIII], § 322(a)–(c)(4), Oct. 22, 2004, [118 Stat. 1474][/us/stat/118/1474], 1475; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 403(i)(1), Dec. 21, 2005, [119 Stat. 2624][/us/stat/119/2624].)
 
  __Prior Provisions__ 
 
@@ -101,27 +101,27 @@
 
  __Amendments__ 
 
-    2005—Subsec. (b)(1)(B). [Pub. L. 109–135, § 403(i)(1)(A)][/us/pl/109/135/s403/i/1/A], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
+    2005—Subsec. (b)(1)(B). [Pub. L. 109–135][/us/pl/109/135], § 403(i)(1)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
 
-    Subsec. (c)(4). [Pub. L. 109–135, § 403(i)(1)(B)][/us/pl/109/135/s403/i/1/B], reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+    Subsec. (c)(4). [Pub. L. 109–135][/us/pl/109/135], § 403(i)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
     “(A) In general.—Except as provided in subparagraph (B), this section shall not apply to trusts and estates.
 
     “(B) Amortization deduction allowed to estates.—The benefit of the deduction for amortization provided by subsection (a) shall be allowed to estates in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiary and the fiduciary under regulations prescribed by the Secretary. Any amount so apportioned to a beneficiary shall be taken into account for purposes of determining the amount allowable as a deduction under subsection (a) to such beneficiary.”
 
-    2004—[Pub. L. 108–357, § 322(c)(4)][/us/pl/108/357/s322/c/4], substituted “Treatment” for “Amortization” in section catchline.
+    2004—[Pub. L. 108–357][/us/pl/108/357], § 322(c)(4), substituted “Treatment” for “Amortization” in section catchline.
 
-    Subsec. (b). [Pub. L. 108–357, § 322(a)][/us/pl/108/357/s322/a], substituted “Treatment as expenses” for “Limitations” in heading.
+    Subsec. (b). [Pub. L. 108–357][/us/pl/108/357], § 322(a), substituted “Treatment as expenses” for “Limitations” in heading.
 
-    Subsec. (b)(1). [Pub. L. 108–357, § 322(a)][/us/pl/108/357/s322/a], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The aggregate amount of amortizable basis acquired during the taxable year which may be taken into account under subsection (a) for such taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
+    Subsec. (b)(1). [Pub. L. 108–357][/us/pl/108/357], § 322(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The aggregate amount of amortizable basis acquired during the taxable year which may be taken into account under subsection (a) for such taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703)).”
 
-    Subsec. (b)(2). [Pub. L. 108–357, § 322(c)(2)][/us/pl/108/357/s322/c/2], substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of subpar. (A) and in subpar. (B).
+    Subsec. (b)(2). [Pub. L. 108–357][/us/pl/108/357], § 322(c)(2), substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of subpar. (A) and in subpar. (B).
 
-    Subsec. (b)(3), (4). [Pub. L. 108–357, § 322(c)(1)][/us/pl/108/357/s322/c/1], struck out pars. (3) and (4) which related to inapplicability of section to trusts and applicability of section to estates, respectively.
+    Subsec. (b)(3), (4). [Pub. L. 108–357][/us/pl/108/357], § 322(c)(1), struck out pars. (3) and (4) which related to inapplicability of section to trusts and applicability of section to estates, respectively.
 
-    Subsec. (c)(2). [Pub. L. 108–357, § 322(b)][/us/pl/108/357/s322/b], inserted “which have not been taken into account under subsection (b)” after “expenditures”.
+    Subsec. (c)(2). [Pub. L. 108–357][/us/pl/108/357], § 322(b), inserted “which have not been taken into account under subsection (b)” after “expenditures”.
 
-    Subsec. (c)(4), (5). [Pub. L. 108–357, § 322(c)(3)][/us/pl/108/357/s322/c/3], added pars. (4) and (5) and struck out former par. (4) which related to basis allocation if the amount of the amortizable basis acquired during the taxable year of all qualified timber property with respect to which the taxpayer had made an election under subsec. (a) exceeded the amount of the limitation under subsec. (b)(1).
+    Subsec. (c)(4), (5). [Pub. L. 108–357][/us/pl/108/357], § 322(c)(3), added pars. (4) and (5) and struck out former par. (4) which related to basis allocation if the amount of the amortizable basis acquired during the taxable year of all qualified timber property with respect to which the taxpayer had made an election under subsec. (a) exceeded the amount of the limitation under subsec. (b)(1).
 
     1986—Subsec. (b)(1). [Pub. L. 99–514][/us/pl/99/514] substituted “section 7703” for “section 143”.
 
@@ -145,7 +145,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–451, title III, § 301(d)][/us/pl/96/451/s301/d], Oct. 14, 1980, [94 Stat. 1991][/us/stat/94/1991], provided that: 
+[Pub. L. 96–451, title III][/us/pl/96/451/tIII], § 301(d), Oct. 14, 1980, [94 Stat. 1991][/us/stat/94/1991], provided that: 
 
 > “The amendments made by this section \[enacting this section and amending sections 62 and 1245 of this title\] shall apply with respect to additions to capital account made after December 31, 1979.”
 
@@ -156,26 +156,26 @@
 ----------
 ----------
 
-[/us/pl/96/451/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2Fs301%2Fa
+[/us/pl/96/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2FtIII
 [/us/stat/94/1989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1989
-[/us/pl/97/354/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fg
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1689
-[/us/pl/99/514/s1301/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fj%2F8
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
-[/us/pl/108/357/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fa
+[/us/pl/108/357/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIII
 [/us/stat/118/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1474
-[/us/pl/109/135/s403/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fi%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2624
 [/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
-[/us/pl/109/135/s403/i/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fi%2F1%2FA
-[/us/pl/109/135/s403/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fi%2F1%2FB
-[/us/pl/108/357/s322/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fc%2F4
-[/us/pl/108/357/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fa
-[/us/pl/108/357/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fa
-[/us/pl/108/357/s322/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fc%2F2
-[/us/pl/108/357/s322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fc%2F1
-[/us/pl/108/357/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fb
-[/us/pl/108/357/s322/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs322%2Fc%2F3
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -191,7 +191,7 @@
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/97/354/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs6%2Fa
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
-[/us/pl/96/451/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2Fs301%2Fd
+[/us/pl/96/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F451%2FtIII
 [/us/stat/94/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1991
 
 

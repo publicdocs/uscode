@@ -83,15 +83,15 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94, § 32103(c)][/us/pl/114/94/s32103/c], div. C, title XXXII, § 32103(c), Dec. 4, 2015, [129 Stat. 1737][/us/stat/129/1737], added item 6307.
+    2015—[Pub. L. 114–94][/us/pl/114/94], § 32103(c), div. C, title XXXII, § 32103(c), Dec. 4, 2015, [129 Stat. 1737][/us/stat/129/1737], added item 6307.
 
-    2004—[Pub. L. 108–357, title VIII, § 881(a)(2)(B)][/us/pl/108/357/s881/a/2/B], Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626], added item 6306.
+    2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(a)(2)(B), Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626], added item 6306.
 
-    1998—[Pub. L. 105–206, title III, § 3466(b)][/us/pl/105/206/s3466/b], July 22, 1998, [112 Stat. 769][/us/stat/112/769], added item 6304.
+    1998—[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3466(b), July 22, 1998, [112 Stat. 769][/us/stat/112/769], added item 6304.
 
-    1976—[Pub. L. 94–455, title XIX, § 1906(b)(5)][/us/pl/94/455/s1906/b/5], Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], struck out item “6304. Collection under the Tariff Act”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(5), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], struck out item “6304. Collection under the Tariff Act”.
 
-    1975—[Pub. L. 93–647, § 101(b)(2)][/us/pl/93/647/s101/b/2], Jan. 4, 1975, [88 Stat. 2358][/us/stat/88/2358], added item 6305.
+    1975—[Pub. L. 93–647][/us/pl/93/647], § 101(b)(2), Jan. 4, 1975, [88 Stat. 2358][/us/stat/88/2358], added item 6305.
 
 ----------
 
@@ -100,15 +100,15 @@
 ----------
 ----------
 
-[/us/pl/114/94/s32103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32103%2Fc
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/stat/129/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1737
-[/us/pl/108/357/s881/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs881%2Fa%2F2%2FB
+[/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1626
-[/us/pl/105/206/s3466/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3466%2Fb
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F769
-[/us/pl/94/455/s1906/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F5
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1833
-[/us/pl/93/647/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647%2Fs101%2Fb%2F2
+[/us/pl/93/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F647
 [/us/stat/88/2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2358
 
 

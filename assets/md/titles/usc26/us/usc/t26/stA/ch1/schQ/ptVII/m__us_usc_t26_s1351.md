@@ -95,35 +95,35 @@
 
         for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
-(Added [Pub. L. 89–384, § 1(a)][/us/pl/89/384/s1/a], Apr. 8, 1966, [80 Stat. 99][/us/stat/80/99]; amended [Pub. L. 94–455, title X, § 1031(b)(3)][/us/pl/94/455/s1031/b/3], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1623][/us/stat/90/1623], 1834; [Pub. L. 95–600, title III, § 301(b)(17)][/us/pl/95/600/s301/b/17], Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823]; [Pub. L. 98–369, div. A, title I, § 42(a)(12)][/us/pl/98/369/s42/a/12], title II, § 211(b)(18), title IV, § 474(r)(25), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 756, 844; [Pub. L. 99–514, title XVIII, § 1812(a)(4)][/us/pl/99/514/s1812/a/4], Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833].)
+(Added [Pub. L. 89–384][/us/pl/89/384], § 1(a), Apr. 8, 1966, [80 Stat. 99][/us/stat/80/99]; amended [Pub. L. 94–455, title X][/us/pl/94/455/tX], § 1031(b)(3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1623][/us/stat/90/1623], 1834; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(17), Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 42(a)(12), title II, § 211(b)(18), title IV, § 474(r)(25), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 756, 844; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1812(a)(4), Oct. 22, 1986, [100 Stat. 2833][/us/stat/100/2833].)
 
  __Amendments__ 
 
     1986—Subsec. (d)(2). [Pub. L. 99–514][/us/pl/99/514] substituted “relating to recovery of tax benefit items” for “relating to recovery of bad debts, etc.”.
 
-    1984—Subsec. (a)(1). [Pub. L. 98–369, § 211(b)(18)(A)][/us/pl/98/369/s211/b/18/A], substituted “801” for “802” in two places.
+    1984—Subsec. (a)(1). [Pub. L. 98–369][/us/pl/98/369], § 211(b)(18)(A), substituted “801” for “802” in two places.
 
-    Subsec. (c)(2). [Pub. L. 98–369, § 211(b)(18)(B)][/us/pl/98/369/s211/b/18/B], substituted “section 807(c)” for “section 810(c)”.
+    Subsec. (c)(2). [Pub. L. 98–369][/us/pl/98/369], § 211(b)(18)(B), substituted “section 807(c)” for “section 810(c)”.
 
-    Subsec. (h). [Pub. L. 98–369, § 42(a)(12)][/us/pl/98/369/s42/a/12], substituted “section 1273(a)” for “section 1232(a)(2)”.
+    Subsec. (h). [Pub. L. 98–369][/us/pl/98/369], § 42(a)(12), substituted “section 1273(a)” for “section 1232(a)(2)”.
 
-    Subsec. (i)(1). [Pub. L. 98–369, § 474(r)(25)(A)][/us/pl/98/369/s474/r/25/A], substituted “section 27” for “section 33”.
+    Subsec. (i)(1). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(25)(A), substituted “section 27” for “section 33”.
 
-    Subsec. (i)(2). [Pub. L. 98–369, § 474(r)(25)(B)][/us/pl/98/369/s474/r/25/B], substituted “section 38 (relating to general business credit)” for “section 38 (relating to investment credit)”.
+    Subsec. (i)(2). [Pub. L. 98–369][/us/pl/98/369], § 474(r)(25)(B), substituted “section 38 (relating to general business credit)” for “section 38 (relating to investment credit)”.
 
-    Subsec. (i)(3). [Pub. L. 98–369, § 211(b)(18)(C)][/us/pl/98/369/s211/b/18/C], substituted “section 810” for “section 812”.
+    Subsec. (i)(3). [Pub. L. 98–369][/us/pl/98/369], § 211(b)(18)(C), substituted “section 810” for “section 812”.
 
     1978—Subsec. (d)(4). [Pub. L. 95–600][/us/pl/95/600] substituted “the rates of tax specified in section 11(b)” for “the normal tax rate provided by section 11(b) and the surtax rate provided by section 11(c) which are in effect”.
 
-    1976—Subsecs. (a)(2), (d)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    1976—Subsecs. (a)(2), (d)(2). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-    Subsec. (d)(3). [Pub. L. 94–455, § 1031(b)(3)][/us/pl/94/455/s1031/b/3], struck out provisions relating to an election to have limitation provided by section 904(a)(2) apply and to revocation of such an election previously made.
+    Subsec. (d)(3). [Pub. L. 94–455][/us/pl/94/455], § 1031(b)(3), struck out provisions relating to an election to have limitation provided by section 904(a)(2) apply and to revocation of such an election previously made.
 
-    Subsec. (i). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+    Subsec. (i). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -143,7 +143,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 89–384, § 2][/us/pl/89/384/s2], Apr. 8, 1966, [80 Stat. 105][/us/stat/80/105], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 89–384][/us/pl/89/384], § 2, Apr. 8, 1966, [80 Stat. 105][/us/stat/80/105], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendments made by section 1 (except subsection (b)) \[enacting this section and [section 6167 of this title][/us/usc/t26/s6167] and amending sections 46, 901, 6503, and 6601 of this title\] shall apply with respect to amounts received after December 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] added by section 1(a)) sustained after December 31, 1958.”
 
@@ -158,29 +158,29 @@
 ----------
 ----------
 
-[/us/pl/89/384/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs1%2Fa
+[/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/stat/80/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F99
-[/us/pl/94/455/s1031/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fb%2F3
+[/us/pl/94/455/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtX
 [/us/stat/90/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1623
-[/us/pl/95/600/s301/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F17
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2823
-[/us/pl/98/369/s42/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F12
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
-[/us/pl/99/514/s1812/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1812%2Fa%2F4
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2833
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369/s211/b/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F18%2FA
-[/us/pl/98/369/s211/b/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F18%2FB
-[/us/pl/98/369/s42/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F12
-[/us/pl/98/369/s474/r/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F25%2FA
-[/us/pl/98/369/s474/r/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F25%2FB
-[/us/pl/98/369/s211/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F18%2FC
-[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1031/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fb%2F3
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/98/369/s42/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs42%2Fa%2F12
@@ -198,9 +198,9 @@
 [/us/pl/94/455/s1031/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fb%2F3
 [/us/pl/94/455/s1031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fc
 [/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
-[/us/pl/89/384/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384%2Fs2
+[/us/pl/89/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F384
 [/us/stat/80/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F105
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s6167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6167
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

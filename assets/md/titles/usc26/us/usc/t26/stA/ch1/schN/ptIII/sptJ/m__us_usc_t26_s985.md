@@ -47,11 +47,11 @@
 
             Any change in the functional currency shall be treated as a change in the taxpayer’s method of accounting for purposes of section 481 under procedures to be established by the Secretary.
 
-(Added [Pub. L. 99–514, title XII, § 1261(a)][/us/pl/99/514/s1261/a], Oct. 22, 1986, [100 Stat. 2585][/us/stat/100/2585].)
+(Added [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(a), Oct. 22, 1986, [100 Stat. 2585][/us/stat/100/2585].)
 
  __Effective Date__ 
 
-[Pub. L. 99–514, title XII, § 1261(e)][/us/pl/99/514/s1261/e], Oct. 22, 1986, [100 Stat. 2591][/us/stat/100/2591], provided that:
+[Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1261(e), Oct. 22, 1986, [100 Stat. 2591][/us/stat/100/2591], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -72,9 +72,9 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1261/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fa
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2585
-[/us/pl/99/514/s1261/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1261%2Fe
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2591
 
 

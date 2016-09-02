@@ -31,11 +31,11 @@
 
         If no proceeding under section 6226 is begun with respect to any final partnership administrative adjustment during the 150-day period described in subsection (a), the deficiency assessed against any partner with respect to the partnership items to which such adjustment relates shall not exceed the amount determined in accordance with such adjustment.
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 652][/us/stat/96/652]; amended [Pub. L. 105–34, title XII, § 1239(a)][/us/pl/105/34/s1239/a], Aug. 5, 1997, [111 Stat. 1027][/us/stat/111/1027].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 652][/us/stat/96/652]; amended [Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1239(a), Aug. 5, 1997, [111 Stat. 1027][/us/stat/111/1027].)
 
  __Enactment of Part and Repeal and Reenactment of Section__ 
 
-[Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 628, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part II heading “Partnership Adjustments” and analysis consisting of items 6225 to 6227 are enacted, this section is repealed, and a new section 6225 following the Part II analysis is enacted to read as follows:
+[Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (c)(1), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 628, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, a new Part II heading “Partnership Adjustments” and analysis consisting of items 6225 to 6227 are enacted, this section is repealed, and a new section 6225 following the Part II analysis is enacted to read as follows:
 
 >     § 6225. Partnership adjustment by Secretary
 
@@ -153,7 +153,7 @@
 
     (C) in any other case, notice of the final partnership adjustment is mailed under section 6231.
 
-[Pub. L. 114–113, div. Q, title IV, § 411(a)][/us/pl/114/113/s411/a], (e), Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121], 3122, provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], subsection (c) of this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended as follows:
+[Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 411(a), (e), Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121], 3122, provided that, effective as if included in [section 1101 of Pub. L. 114–74][/us/pl/114/74/s1101], subsection (c) of this section (as added by [Pub. L. 114–74][/us/pl/114/74], see note above) is amended as follows:
 
     (1) in paragraph (4)(A)(i), by striking “in the case of ordinary income,”;
 
@@ -205,7 +205,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XII, § 1239(f)][/us/pl/105/34/s1239/f], Aug. 5, 1997, [111 Stat. 1028][/us/stat/111/1028], provided that: 
+[Pub. L. 105–34, title XII][/us/pl/105/34/tXII], § 1239(f), Aug. 5, 1997, [111 Stat. 1028][/us/stat/111/1028], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6226, 6230, 6501, 6512, 7421, 7459, and 7482 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -216,13 +216,13 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F652
-[/us/pl/105/34/s1239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Fa
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1027
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/114/113/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs411%2Fa
+[/us/pl/114/113/dQ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIV
 [/us/stat/129/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3121
 [/us/pl/114/74/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
@@ -233,7 +233,7 @@
 [/us/usc/t26/s6031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6031
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg
 [/us/usc/t26/s6221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6221
-[/us/pl/105/34/s1239/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1239%2Ff
+[/us/pl/105/34/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXII
 [/us/stat/111/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1028
 
 

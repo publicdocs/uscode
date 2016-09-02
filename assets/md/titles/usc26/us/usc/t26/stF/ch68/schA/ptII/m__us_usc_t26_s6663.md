@@ -27,7 +27,7 @@
 
         In the case of a joint return, this section shall not apply with respect to a spouse unless some part of the underpayment is due to the fraud of such spouse.
 
-(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2397][/us/stat/103/2397].)
+(Added [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7721(a), Dec. 19, 1989, [103 Stat. 2397][/us/stat/103/2397].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/239/s7721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2397
 
 

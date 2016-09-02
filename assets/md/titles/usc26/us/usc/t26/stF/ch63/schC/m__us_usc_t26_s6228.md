@@ -139,19 +139,19 @@
 
                 subparagraph (C) shall cease to apply with respect to such request, and the 2-year period referred to in clause (i)(II) of subparagraph (B) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
 
-(Added [Pub. L. 97–248, title IV, § 402(a)][/us/pl/97/248/s402/a], Sept. 3, 1982, [96 Stat. 656][/us/stat/96/656]; amended [Pub. L. 97–448, title III, § 306(c)(1)(B)][/us/pl/97/448/s306/c/1/B], Jan. 12, 1983, [96 Stat. 2406][/us/stat/96/2406]; [Pub. L. 102–572, title IX, § 902(b)(2)][/us/pl/102/572/s902/b/2], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–147, title IV, § 417(19)(B)][/us/pl/107/147/s417/19/B], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 97–248, title IV][/us/pl/97/248/tIV], § 402(a), Sept. 3, 1982, [96 Stat. 656][/us/stat/96/656]; amended [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 306(c)(1)(B), Jan. 12, 1983, [96 Stat. 2406][/us/stat/96/2406]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(2), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(19)(B), Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 114–74, title XI, § 1101(a)][/us/pl/114/74/s1101/a], (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
+    [Pub. L. 114–74, title XI][/us/pl/114/74/tXI], § 1101(a), (g), Nov. 2, 2015, [129 Stat. 625][/us/stat/129/625], 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this section is repealed.
 
  __Amendments__ 
 
-    2002—Subsec. (a)(1). [Pub. L. 107–147, § 417(19)(B)(i)][/us/pl/107/147/s417/19/B/i], substituted “subsection (c) of section 6227” for “subsection (b) of section 6227”.
+    2002—Subsec. (a)(1). [Pub. L. 107–147][/us/pl/107/147], § 417(19)(B)(i), substituted “subsection (c) of section 6227” for “subsection (b) of section 6227”.
 
-    Subsec. (a)(3)(A). [Pub. L. 107–147, § 417(19)(B)(ii)][/us/pl/107/147/s417/19/B/ii], struck out “subsection (b) of” before “section 6227”.
+    Subsec. (a)(3)(A). [Pub. L. 107–147][/us/pl/107/147], § 417(19)(B)(ii), struck out “subsection (b) of” before “section 6227”.
 
-    Subsec. (b)(1), (2)(A). [Pub. L. 107–147, § 417(19)(B)(iii)][/us/pl/107/147/s417/19/B/iii], substituted “subsection (d) of section 6227” for “subsection (c) of section 6227”.
+    Subsec. (b)(1), (2)(A). [Pub. L. 107–147][/us/pl/107/147], § 417(19)(B)(iii), substituted “subsection (d) of section 6227” for “subsection (c) of section 6227”.
 
     1992—Subsec. (a)(1)(C), (6). [Pub. L. 102–572][/us/pl/102/572] substituted “Court of Federal Claims” for “Claims Court”.
 
@@ -176,19 +176,19 @@
 ----------
 ----------
 
-[/us/pl/97/248/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs402%2Fa
+[/us/pl/97/248/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIV
 [/us/stat/96/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F656
-[/us/pl/97/448/s306/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs306%2Fc%2F1%2FB
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2406
-[/us/pl/102/572/s902/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F2
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/107/147/s417/19/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
-[/us/pl/114/74/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fa
+[/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F625
-[/us/pl/107/147/s417/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fi
-[/us/pl/107/147/s417/19/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fii
-[/us/pl/107/147/s417/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F19%2FB%2Fiii
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/114/74/s1101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1101%2Fg

@@ -23,11 +23,11 @@
 
         The Secretary shall prescribe such regulations as may be necessary to ensure that the purposes of subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982 (which repeal the special tax treatment for partial liquidations) may not be circumvented through the use of section 355, 351, or any other provision of law or regulations (including the consolidated return regulations).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 110][/us/stat/68A/110]; [Pub. L. 97–248, title II, § 222(d)][/us/pl/97/248/s222/d], Sept. 3, 1982, [96 Stat. 479][/us/stat/96/479]; [Pub. L. 99–514, title VI, § 631(e)(7)][/us/pl/99/514/s631/e/7], Oct. 22, 1986, [100 Stat. 2273][/us/stat/100/2273].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 110][/us/stat/68A/110]; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 222(d), Sept. 3, 1982, [96 Stat. 479][/us/stat/96/479]; [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 631(e)(7), Oct. 22, 1986, [100 Stat. 2273][/us/stat/100/2273].)
 
  __References in Text__ 
 
-    Subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982, referred to in subsec. (b), are subsecs. (a) and (b) of [Pub. L. 97–248, title II, § 222][/us/pl/97/248/s222], Sept. 3, 1982, [96 Stat. 478][/us/stat/96/478], which amended sections 331(a) and 336(a) of this title.
+    Subsections (a) and (b) of section 222 of the Tax Equity and Fiscal Responsibility Act of 1982, referred to in subsec. (b), are subsecs. (a) and (b) of [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 222, Sept. 3, 1982, [96 Stat. 478][/us/stat/96/478], which amended sections 331(a) and 336(a) of this title.
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F110
-[/us/pl/97/248/s222/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222%2Fd
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F479
-[/us/pl/99/514/s631/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs631%2Fe%2F7
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2273
-[/us/pl/97/248/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs222
+[/us/pl/97/248/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtII
 [/us/stat/96/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F478
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248

@@ -27,35 +27,35 @@
 
         Except as provided in section 4223(b), in any case in which a person is made liable for tax by the preceding provisions of this section, the tax (if based on the price for which the article is sold) shall be computed on the price at which such or similar articles are sold, in the ordinary course of trade, by manufacturers, producers, or importers, thereof, as determined by the Secretary.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 494][/us/stat/68A/494]; [Aug. 11, 1955, ch. 805, § 1(a)][/us/act/1955-08-11/ch805/s1/a], (b), [69 Stat. 689][/us/stat/69/689]; [Pub. L. 85–859, title I, § 118][/us/pl/85/859/s118], Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281]; [Pub. L. 86–418, § 2(a)][/us/pl/86/418/s2/a], Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 87–61, title II, § 205(b)][/us/pl/87/61/s205/b], June 29, 1961, [75 Stat. 126][/us/stat/75/126]; [Pub. L. 89–44, title II, § 208(c)][/us/pl/89/44/s208/c], June 21, 1965, [79 Stat. 141][/us/stat/79/141]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 2(b)(1)][/us/pl/95/227/s2/b/1], Feb. 10, 1978, [92 Stat. 11][/us/stat/92/11]; [Pub. L. 98–369, div. A, title VII, § 735(c)(7)][/us/pl/98/369/s735/c/7], July 18, 1984, [98 Stat. 983][/us/stat/98/983].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 494][/us/stat/68A/494]; [Aug. 11, 1955, ch. 805][/us/act/1955-08-11/ch805], § 1(a), (b), [69 Stat. 689][/us/stat/69/689]; [Pub. L. 85–859, title I][/us/pl/85/859/tI], § 118, Sept. 2, 1958, [72 Stat. 1281][/us/stat/72/1281]; [Pub. L. 86–418][/us/pl/86/418], § 2(a), Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 87–61, title II][/us/pl/87/61/tII], § 205(b), June 29, 1961, [75 Stat. 126][/us/stat/75/126]; [Pub. L. 89–44, title II][/us/pl/89/44/tII], § 208(c), June 21, 1965, [79 Stat. 141][/us/stat/79/141]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227][/us/pl/95/227], § 2(b)(1), Feb. 10, 1978, [92 Stat. 11][/us/stat/92/11]; [Pub. L. 98–369, div. A, title VII][/us/pl/98/369/dA/tVII], § 735(c)(7), July 18, 1984, [98 Stat. 983][/us/stat/98/983].)
 
  __Amendments__ 
 
-    1984—Subsec. (a). [Pub. L. 98–369, § 735(c)(7)(D)][/us/pl/98/369/s735/c/7/D], substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(7)(D), substituted “(other than a tire taxable under section 4071)” for “(other than an article specified in subsection (b), (c), or (d))”.
 
-    Subsec. (b). [Pub. L. 98–369, § 735(c)(7)(A)][/us/pl/98/369/s735/c/7/A], (B), struck out “and tubes” after “Tires” in heading, and in text substituted “If” for “Except as provided in subsection (d), if”, and struck out “or inner tube” before “taxable under section 4071”.
+    Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(7)(A), (B), struck out “and tubes” after “Tires” in heading, and in text substituted “If” for “Except as provided in subsection (d), if”, and struck out “or inner tube” before “taxable under section 4071”.
 
-    Subsec. (c). [Pub. L. 98–369, § 735(c)(7)(C)][/us/pl/98/369/s735/c/7/C], redesignated subsec. (e) as (c). Former subsec. (c), which related to automotive parts and accessories, was struck out.
+    Subsec. (c). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(7)(C), redesignated subsec. (e) as (c). Former subsec. (c), which related to automotive parts and accessories, was struck out.
 
-    Subsec. (d). [Pub. L. 98–369, § 735(c)(7)(C)][/us/pl/98/369/s735/c/7/C], struck out subsec. (d) which related to bicycle tires and tubes.
+    Subsec. (d). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(7)(C), struck out subsec. (d) which related to bicycle tires and tubes.
 
-    Subsec. (e). [Pub. L. 98–369, § 735(c)(7)(C)][/us/pl/98/369/s735/c/7/C], redesignated subsec. (e) as (c).
+    Subsec. (e). [Pub. L. 98–369][/us/pl/98/369], § 735(c)(7)(C), redesignated subsec. (e) as (c).
 
     1978—Subsec. (a). [Pub. L. 95–227][/us/pl/95/227] inserted provisions relating to applying first sentence of this subsection to coal taxable under [section 4121 of this title][/us/usc/t26/s4121].
 
     1976—Subsec. (e). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
-    1965—Subsec. (b). [Pub. L. 89–44, § 208(c)(1)][/us/pl/89/44/s208/c/1], (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
+    1965—Subsec. (b). [Pub. L. 89–44][/us/pl/89/44], § 208(c)(1), (2), struck out references to automobile receiving sets from heading, and “or an automobile radio or television receiving set taxable under section 4141,” before “and sells it”.
 
-    Subsec. (c). [Pub. L. 89–44, § 208(c)(3)][/us/pl/89/44/s208/c/3], (4), struck out reference to radio components and camera lenses from heading, and “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,” before “and uses it”.
+    Subsec. (c). [Pub. L. 89–44][/us/pl/89/44], § 208(c)(3), (4), struck out reference to radio components and camera lenses from heading, and “a radio or television component taxable under section 4141, or a camera lens taxable under section 4171,” before “and uses it”.
 
     1961—Subsec. (a). [Pub. L. 87–61][/us/pl/87/61] inserted sentence making subsection inapplicable in the case of gasoline used by any person, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
 
-    1960—Subsec. (a). [Pub. L. 86–418, § 2(a)(1)][/us/pl/86/418/s2/a/1], substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+    1960—Subsec. (a). [Pub. L. 86–418][/us/pl/86/418], § 2(a)(1), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-    Subsec. (b). [Pub. L. 86–418, § 2(a)(2)][/us/pl/86/418/s2/a/2], substituted “Except as provided in subsection (d), if any” for “If any.”
+    Subsec. (b). [Pub. L. 86–418][/us/pl/86/418], § 2(a)(2), substituted “Except as provided in subsection (d), if any” for “If any.”
 
-    Subsecs. (d), (e). [Pub. L. 86–418, § 2(a)(3)][/us/pl/86/418/s2/a/3], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 86–418][/us/pl/86/418], § 2(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
     1958—[Pub. L. 85–859][/us/pl/85/859] amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which made section inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
 
@@ -100,36 +100,36 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F494
-[/us/act/1955-08-11/ch805/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch805%2Fs1%2Fa
+[/us/act/1955-08-11/ch805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-11%2Fch805
 [/us/stat/69/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F689
-[/us/pl/85/859/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs118
+[/us/pl/85/859/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2FtI
 [/us/stat/72/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1281
-[/us/pl/86/418/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418%2Fs2%2Fa
+[/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
 [/us/stat/74/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F38
-[/us/pl/87/61/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs205%2Fb
+[/us/pl/87/61/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2FtII
 [/us/stat/75/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F126
-[/us/pl/89/44/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs208%2Fc
+[/us/pl/89/44/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2FtII
 [/us/stat/79/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F141
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/95/227/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227%2Fs2%2Fb%2F1
+[/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/stat/92/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F11
-[/us/pl/98/369/s735/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7
+[/us/pl/98/369/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVII
 [/us/stat/98/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F983
-[/us/pl/98/369/s735/c/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7%2FD
-[/us/pl/98/369/s735/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7%2FA
-[/us/pl/98/369/s735/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7%2FC
-[/us/pl/98/369/s735/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7%2FC
-[/us/pl/98/369/s735/c/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs735%2Fc%2F7%2FC
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/usc/t26/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4121
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/89/44/s208/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs208%2Fc%2F1
-[/us/pl/89/44/s208/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44%2Fs208%2Fc%2F3
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
+[/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/87/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61
-[/us/pl/86/418/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418%2Fs2%2Fa%2F1
-[/us/pl/86/418/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418%2Fs2%2Fa%2F2
-[/us/pl/86/418/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418%2Fs2%2Fa%2F3
+[/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
+[/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
+[/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
 [/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424

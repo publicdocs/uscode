@@ -17,7 +17,7 @@
 
     In addition to the penalty imposed by section 7203 (relating to willful failure to file return, supply information, or pay tax) any person required to supply information or to file a return under section 6011(c) who fails to supply such information or file such return at the time prescribed by the Secretary, or who files a return which does not show the information required, shall pay a penalty of $100 for each failure to supply information (but the total amount imposed on the delinquent person for all such failures during any calendar year shall not exceed $25,000) or a penalty of $1,000 for each failure to file a return, unless it is shown that such failure is due to reasonable cause.
 
-(Added [Pub. L. 92–178, title V, § 504(d)][/us/pl/92/178/s504/d], Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(15)(A)][/us/pl/98/369/s801/d/15/A], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 110–172, § 11(g)(21)][/us/pl/110/172/s11/g/21], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491].)
+(Added [Pub. L. 92–178, title V][/us/pl/92/178/tV], § 504(d), Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title VIII][/us/pl/98/369/dA/tVIII], § 801(d)(15)(A), July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 110–172][/us/pl/110/172], § 11(g)(21), Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491].)
 
  __Amendments__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/92/178/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs504%2Fd
+[/us/pl/92/178/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtV
 [/us/stat/85/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F551
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/98/369/s801/d/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs801%2Fd%2F15%2FA
+[/us/pl/98/369/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtVIII
 [/us/stat/98/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F997
-[/us/pl/110/172/s11/g/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F21
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/stat/121/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2491
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

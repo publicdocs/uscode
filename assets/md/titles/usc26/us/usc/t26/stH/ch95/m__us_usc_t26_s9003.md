@@ -57,7 +57,7 @@
 
         No candidate for the office of President or Vice President may receive amounts from the Presidential Election Campaign Fund under this chapter or chapter 96 unless such candidate has certified that any television commercial prepared or distributed by the candidate will be prepared in a manner which ensures that the commercial contains or is accompanied by closed captioning of the oral content of the commercial to be broadcast in line 21 of the vertical blanking interval, or is capable of being viewed by deaf and hearing impaired individuals via any comparable successor technology to line 21 of the vertical blanking interval.
 
-(Added [Pub. L. 92–178, title VIII, § 801][/us/pl/92/178/s801], Dec. 10, 1971, [85 Stat. 564][/us/stat/85/564]; amended [Pub. L. 93–53, § 6(c)][/us/pl/93/53/s6/c], July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV][/us/pl/93/443], §§ 404(c)(4), (5), 405(b), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1294; [Pub. L. 94–283, title III, § 306(a)(2)][/us/pl/94/283/s306/a/2], May 11, 1976, [90 Stat. 500][/us/stat/90/500]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 102–393, title V, § 534(a)][/us/pl/102/393/s534/a], Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764].)
+(Added [Pub. L. 92–178, title VIII][/us/pl/92/178/tVIII], § 801, Dec. 10, 1971, [85 Stat. 564][/us/stat/85/564]; amended [Pub. L. 93–53][/us/pl/93/53], § 6(c), July 1, 1973, [87 Stat. 139][/us/stat/87/139]; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], §§ 404(c)(4), (5), 405(b), Oct. 15, 1974, [88 Stat. 1292][/us/stat/88/1292], 1294; [Pub. L. 94–283, title III][/us/pl/94/283/tIII], § 306(a)(2), May 11, 1976, [90 Stat. 500][/us/stat/90/500]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 102–393, title V][/us/pl/102/393/tV], § 534(a), Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764].)
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 
     1974—Subsec. (a). [Pub. L. 93–443][/us/pl/93/443], §§ 404(c)(4), 405(b), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing, struck out in par. (1) “with respect to which payment is sought” after “campaign expenses” and struck out par. (4) requirement for an agreement to furnish statements of qualified campaign expenses and proposed qualified campaign expenses required under [section 9008 of this title][/us/usc/t26/s9008].
 
-    Subsecs. (b), (c). [Pub. L. 93–443, § 404(c)(5)][/us/pl/93/443/s404/c/5], substituted “Commission” for “Comptroller General” wherever appearing.
+    Subsecs. (b), (c). [Pub. L. 93–443][/us/pl/93/443], § 404(c)(5), substituted “Commission” for “Comptroller General” wherever appearing.
 
     1973—Subsec. (b)(2). [Pub. L. 93–53][/us/pl/93/53] substituted section “9006(d)” for “9006(c)”.
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–393, title V, § 534(b)][/us/pl/102/393/s534/b], Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764], provided that: 
+[Pub. L. 102–393, title V][/us/pl/102/393/tV], § 534(b), Oct. 6, 1992, [106 Stat. 1764][/us/stat/106/1764], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\].”
 
@@ -99,26 +99,26 @@
 ----------
 
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
-[/us/pl/92/178/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs801
+[/us/pl/92/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2FtVIII
 [/us/stat/85/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F564
-[/us/pl/93/53/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs6%2Fc
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F139
-[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1292
-[/us/pl/94/283/s306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fa%2F2
+[/us/pl/94/283/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2FtIII
 [/us/stat/90/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F500
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/102/393/s534/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs534%2Fa
+[/us/pl/102/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtV
 [/us/stat/106/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1764
 [/us/pl/102/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/usc/t26/s9008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9008
-[/us/pl/93/443/s404/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs404%2Fc%2F5
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
 [/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
-[/us/pl/102/393/s534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs534%2Fb
+[/us/pl/102/393/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2FtV
 [/us/stat/106/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1764
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/pl/94/283/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs306%2Fc

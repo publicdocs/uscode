@@ -45,7 +45,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 104–188, title I, § 1905(a)][/us/pl/104/188/s1905/a], Aug. 20, 1996, [110 Stat. 1913][/us/stat/110/1913].)
+(Added [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1905(a), Aug. 20, 1996, [110 Stat. 1913][/us/stat/110/1913].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–188, title I, § 1905(c)][/us/pl/104/188/s1905/c], Aug. 20, 1996, [110 Stat. 1913][/us/stat/110/1913], provided that: 
+[Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1905(c), Aug. 20, 1996, [110 Stat. 1913][/us/stat/110/1913], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date.”
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/104/188/s1905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1905%2Fa
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1913
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s6039G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6039G
-[/us/pl/104/188/s1905/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1905%2Fc
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1913
 
 

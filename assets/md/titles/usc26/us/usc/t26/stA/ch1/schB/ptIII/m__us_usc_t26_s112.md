@@ -69,37 +69,37 @@
 
             For purposes of this subsection, the Vietnam conflict began February 28, 1961, and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 34][/us/stat/68A/34]; [Pub. L. 89–739, § 1][/us/pl/89/739/s1], Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165]; [Pub. L. 92–279, § 1][/us/pl/92/279/s1], Apr. 26, 1972, [86 Stat. 124][/us/stat/86/124]; [Pub. L. 93–597, § 2(a)][/us/pl/93/597/s2/a], (b), Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950]; [Pub. L. 94–569, § 3(b)][/us/pl/94/569/s3/b], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 104–117, § 1(d)][/us/pl/104/117/s1/d], Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828]; [Pub. L. 104–188, title I, § 1704(t)(4)(A)][/us/pl/104/188/s1704/t/4/A], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887]; [Pub. L. 113–295, div. A, title II, § 221(a)(18)][/us/pl/113/295/s221/a/18], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 34][/us/stat/68A/34]; [Pub. L. 89–739][/us/pl/89/739], § 1, Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165]; [Pub. L. 92–279][/us/pl/92/279], § 1, Apr. 26, 1972, [86 Stat. 124][/us/stat/86/124]; [Pub. L. 93–597][/us/pl/93/597], § 2(a), (b), Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950]; [Pub. L. 94–569][/us/pl/94/569], § 3(b), Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 104–117][/us/pl/104/117], § 1(d), Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(t)(4)(A), Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(18), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2). [Pub. L. 113–295, § 221(a)(18)(A)][/us/pl/113/295/s221/a/18/A], struck out “(after June 24, 1950)” after “are or have”.
+    2014—Subsec. (c)(2). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(18)(A), struck out “(after June 24, 1950)” after “are or have”.
 
-    Subsec. (c)(3). [Pub. L. 113–295, § 221(a)(18)(B)][/us/pl/113/295/s221/a/18/B], substituted “such zone.” for “such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.”
+    Subsec. (c)(3). [Pub. L. 113–295][/us/pl/113/295], § 221(a)(18)(B), substituted “such zone.” for “such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.”
 
     1996—[Pub. L. 104–188][/us/pl/104/188] substituted “combat zone compensation” for “combat pay” in section catchline.
 
-    Subsec. (b). [Pub. L. 104–117, § 1(d)(1)][/us/pl/104/117/s1/d/1], substituted “the maximum enlisted amount” for “$500” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–117][/us/pl/104/117], § 1(d)(1), substituted “the maximum enlisted amount” for “$500” in introductory provisions.
 
-    Subsec. (c)(5). [Pub. L. 104–117, § 1(d)(2)][/us/pl/104/117/s1/d/2], added par. (5).
+    Subsec. (c)(5). [Pub. L. 104–117][/us/pl/104/117], § 1(d)(2), added par. (5).
 
     1976—Subsec. (a). [Pub. L. 94–569][/us/pl/94/569] substituted “after January 1978” for “beginning more than 2 years after the date of the enactment of this sentence” after “With respect to service in the combat zone designated for purposes of the Vietnam conflict, paragraph (2) shall not apply to any month”.
 
     Subsec. (b). [Pub. L. 94–569][/us/pl/94/569] substituted “after January 1978” for “beginning more than 2 years after the date of enactment of this sentence” after “With respect to service in the combat zone designated for purposes of the Vietnam conflict, paragraph (2) shall not apply to any month”.
 
-    1975—Subsec. (a). [Pub. L. 93–597, § 2(a)(3)][/us/pl/93/597/s2/a/3], inserted provision relating to the applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
+    1975—Subsec. (a). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(3), inserted provision relating to the applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
 
-    Subsec. (a)(1). [Pub. L. 93–597, § 2(a)(1)][/us/pl/93/597/s2/a/1], struck out “during an induction period” after “served in a combat zone”.
+    Subsec. (a)(1). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(1), struck out “during an induction period” after “served in a combat zone”.
 
-    Subsec. (a)(2). [Pub. L. 93–597, § 2(a)(2)][/us/pl/93/597/s2/a/2], substituted “; but this paragraph shall not apply for any month beginning more than 2 years after the date of the termination of combatant activities in such zone” for “during an induction period; but this paragraph shall not apply for any month during any part of which there are no combatant activities in any combat zone as determined under subsection (c)(3) of this section”.
+    Subsec. (a)(2). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(2), substituted “; but this paragraph shall not apply for any month beginning more than 2 years after the date of the termination of combatant activities in such zone” for “during an induction period; but this paragraph shall not apply for any month during any part of which there are no combatant activities in any combat zone as determined under subsection (c)(3) of this section”.
 
-    Subsec. (b). [Pub. L. 93–597, § 2(a)(3)][/us/pl/93/597/s2/a/3], inserted provision relating to applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
+    Subsec. (b). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(3), inserted provision relating to applicability of par. (2) with respect to service in the combat zone designated for purposes of the Vietnam conflict.
 
-    Subsec. (b)(1). [Pub. L. 93–597, § 2(a)(1)][/us/pl/93/597/s2/a/1], struck out “during an induction period” after “served in a combat zone”.
+    Subsec. (b)(1). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(1), struck out “during an induction period” after “served in a combat zone”.
 
-    Subsec. (b)(2). [Pub. L. 93–597, § 2(a)(2)][/us/pl/93/597/s2/a/2], substituted “; but this paragraph shall not apply for any month beginning more than 2 years after the date of the termination of combatant activities in such zone” for “during an induction period; but this paragraph shall not apply for any month during any part of which there are no combatant activities in any combat zone as determined under subsection (c)(3) of this section”.
+    Subsec. (b)(2). [Pub. L. 93–597][/us/pl/93/597], § 2(a)(2), substituted “; but this paragraph shall not apply for any month beginning more than 2 years after the date of the termination of combatant activities in such zone” for “during an induction period; but this paragraph shall not apply for any month during any part of which there are no combatant activities in any combat zone as determined under subsection (c)(3) of this section”.
 
-    Subsec. (c)(5). [Pub. L. 93–597, § 2(b)][/us/pl/93/597/s2/b], struck out par. (5) which defined “induction period”.
+    Subsec. (c)(5). [Pub. L. 93–597][/us/pl/93/597], § 2(b), struck out par. (5) which defined “induction period”.
 
     1972—Subsec. (d). [Pub. L. 92–279][/us/pl/92/279] added subsec. (d).
 
@@ -111,37 +111,37 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–597, § 2(c)][/us/pl/93/597/s2/c], Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950], provided that: 
+[Pub. L. 93–597][/us/pl/93/597], § 2(c), Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on July 1, 1973.”
 
  __Effective Date of 1972 Amendment__ 
 
-[Pub. L. 92–279, § 3(a)(1)][/us/pl/92/279/s3/a/1], Apr. 26, 1972, [86 Stat. 125][/us/stat/86/125], provided that: 
+[Pub. L. 92–279][/us/pl/92/279], § 3(a)(1), Apr. 26, 1972, [86 Stat. 125][/us/stat/86/125], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–739, § 2][/us/pl/89/739/s2], Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165], provided that: 
+[Pub. L. 89–739][/us/pl/89/739], § 2, Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
 
  __Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1089\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that: 
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title X, § 1089\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–294, provided that: 
 
 > “It is the sense of Congress that members of the Armed Forces who receive special pay under [section 310 of title 37][/us/usc/t37/s310], United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones.”
 
  __Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations__ 
 
-[Pub. L. 106–65, div. A, title VI, § 677][/us/pl/106/65/s677], Oct. 5, 1999, [113 Stat. 676][/us/stat/113/676], provided that: 
+[Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 677, Oct. 5, 1999, [113 Stat. 676][/us/stat/113/676], provided that: 
 
 > “It is the sense of Congress that a member of the Armed Forces who is receiving special pay under [section 310 of title 37][/us/usc/t37/s310], United States Code, while assigned to duty in support of a contingency operation should be treated under the Internal Revenue Code of 1986 in the same manner as a member of the Armed Forces serving in a combat zone (as defined in section 112 of the Internal Revenue Code of 1986).”
 
  __Availability of Certain Tax Benefits for Services as Part of Operation Allied Force__ 
 
-[Pub. L. 106–21, § 1][/us/pl/106/21/s1], Apr. 19, 1999, [113 Stat. 34][/us/stat/113/34], provided that:
+[Pub. L. 106–21][/us/pl/106/21], § 1, Apr. 19, 1999, [113 Stat. 34][/us/stat/113/34], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -183,7 +183,7 @@
 
  __Treatment of Certain Individuals Performing Services in Certain Hazardous Duty Areas; Effective Date__ 
 
-[Pub. L. 104–117, § 1][/us/pl/104/117/s1], Mar. 20, 1996, [110 Stat. 827][/us/stat/110/827], provided that:
+[Pub. L. 104–117][/us/pl/104/117], § 1, Mar. 20, 1996, [110 Stat. 827][/us/stat/110/827], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -235,7 +235,7 @@
 
  __Refund or Credit of Overpayment; Applicable Period__ 
 
-[Pub. L. 92–279, § 3(a)(2)][/us/pl/92/279/s3/a/2], (3), Apr. 26, 1972, [86 Stat. 125][/us/stat/86/125], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 92–279][/us/pl/92/279], § 3(a)(2), (3), Apr. 26, 1972, [86 Stat. 125][/us/stat/86/125], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(2) If refund or credit of any overpayment for any taxable year resulting from the application of the amendment made by the first section of this Act \[amending this section\] (including interest, additions to the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
 
@@ -337,61 +337,61 @@
 [/us/usc/t5/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5561
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F34
-[/us/pl/89/739/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739%2Fs1
+[/us/pl/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739
 [/us/stat/80/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1165
-[/us/pl/92/279/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279%2Fs1
+[/us/pl/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279
 [/us/stat/86/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F124
-[/us/pl/93/597/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1950
-[/us/pl/94/569/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569%2Fs3%2Fb
+[/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/stat/90/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2699
-[/us/pl/104/117/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1%2Fd
+[/us/pl/104/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117
 [/us/stat/110/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F828
-[/us/pl/104/188/s1704/t/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F4%2FA
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1887
-[/us/pl/113/295/s221/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18
+[/us/pl/113/295/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdA%2FtII
 [/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
-[/us/pl/113/295/s221/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18%2FA
-[/us/pl/113/295/s221/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
-[/us/pl/104/117/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1%2Fd%2F1
-[/us/pl/104/117/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1%2Fd%2F2
+[/us/pl/104/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117
+[/us/pl/104/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
 [/us/pl/94/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F569
-[/us/pl/93/597/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F3
-[/us/pl/93/597/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F1
-[/us/pl/93/597/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F2
-[/us/pl/93/597/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F3
-[/us/pl/93/597/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F1
-[/us/pl/93/597/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fa%2F2
-[/us/pl/93/597/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fb
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/pl/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279
 [/us/pl/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/93/597/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fc
+[/us/pl/93/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597
 [/us/stat/88/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1950
-[/us/pl/92/279/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279%2Fs3%2Fa%2F1
+[/us/pl/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279
 [/us/stat/86/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F125
-[/us/pl/89/739/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739%2Fs2
+[/us/pl/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739
 [/us/stat/80/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1165
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/106/65/s677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs677
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F676
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/106/21/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F21%2Fs1
+[/us/pl/106/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F21
 [/us/stat/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F34
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/104/117/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1
+[/us/pl/104/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117
 [/us/stat/110/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F827
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
 [/us/usc/t26/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3401
-[/us/pl/92/279/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279%2Fs3%2Fa%2F2
+[/us/pl/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279
 [/us/stat/86/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F125
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112
 [/us/usc/t26/s112/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs112%2Fc%2F3

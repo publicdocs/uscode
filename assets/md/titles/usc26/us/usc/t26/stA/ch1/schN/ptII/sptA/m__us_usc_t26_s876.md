@@ -27,15 +27,15 @@
 
         (2) Puerto Rico, see section 933.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 281][/us/stat/68A/281]; [Pub. L. 99–514, title XII, § 1272(b)][/us/pl/99/514/s1272/b], Oct. 22, 1986, [100 Stat. 2593][/us/stat/100/2593].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 281][/us/stat/68A/281]; [Pub. L. 99–514, title XII][/us/pl/99/514/tXII], § 1272(b), Oct. 22, 1986, [100 Stat. 2593][/us/stat/100/2593].)
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–514, § 1272(b)][/us/pl/99/514/s1272/b], inserted “, Guam, American Samoa, or the Northern Mariana Islands” in section catchline.
+    1986—[Pub. L. 99–514][/us/pl/99/514], § 1272(b), inserted “, Guam, American Samoa, or the Northern Mariana Islands” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–514, § 1272(b)][/us/pl/99/514/s1272/b], amended subsec. (a) generally, substituting “General rule” for “No application to certain alien residents of Puerto Rico” in heading and inserting references to residents of Guam, American Samoa, and the Northern Mariana Islands in text.
+    Subsec. (a). [Pub. L. 99–514][/us/pl/99/514], § 1272(b), amended subsec. (a) generally, substituting “General rule” for “No application to certain alien residents of Puerto Rico” in heading and inserting references to residents of Guam, American Samoa, and the Northern Mariana Islands in text.
 
-    Subsec. (b). [Pub. L. 99–514, § 1272(b)][/us/pl/99/514/s1272/b], amended subsec. (b) generally, inserting references to Guam, American Samoa, and the Northern Mariana Islands.
+    Subsec. (b). [Pub. L. 99–514][/us/pl/99/514], § 1272(b), amended subsec. (b) generally, inserting references to Guam, American Samoa, and the Northern Mariana Islands.
 
  __Effective Date of 1986 Amendment__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F281
-[/us/pl/99/514/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fb
+[/us/pl/99/514/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXII
 [/us/stat/100/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2593
-[/us/pl/99/514/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fb
-[/us/pl/99/514/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fb
-[/us/pl/99/514/s1272/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1272%2Fb
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1277
 [/us/usc/t26/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs931

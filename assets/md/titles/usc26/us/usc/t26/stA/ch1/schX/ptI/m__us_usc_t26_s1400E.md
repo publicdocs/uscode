@@ -299,7 +299,7 @@
 
             Any expansion under this subsection shall take effect as provided in subsection (b).
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–589; amended [Pub. L. 108–357, title II, § 222(a)][/us/pl/108/357/s222/a], Oct. 22, 2004, [118 Stat. 1431][/us/stat/118/1431]; [Pub. L. 109–135, title IV, § 412(rr)(1)][/us/pl/109/135/s412/rr/1], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
+(Added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 101(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–589; amended [Pub. L. 108–357, title II][/us/pl/108/357/tII], § 222(a), Oct. 22, 2004, [118 Stat. 1431][/us/stat/118/1431]; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(rr)(1), Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640].)
 
  __References in Text__ 
 
@@ -315,19 +315,19 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–357, title II, § 222(b)][/us/pl/108/357/s222/b], Oct. 22, 2004, [118 Stat. 1432][/us/stat/118/1432], provided that: 
+[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 222(b), Oct. 22, 2004, [118 Stat. 1432][/us/stat/118/1432], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 101 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by [section 1(a)(7) of Pub. L. 106–554][/us/pl/106/554/s1/a/7], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–587\].”
 
  __Audit and Report__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–599, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 101(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–599, provided that: 
 
 > “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
 
  __Advisory Council on Community Renewal__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, subtitle E, part II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–622, as amended by [Pub. L. 107–147, title IV, § 417(21)][/us/pl/107/147/s417/21], Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57]; [Pub. L. 108–311, title IV, § 408(b)(1)][/us/pl/108/311/s408/b/1], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192], provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–622, as amended by [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 417(21), Mar. 9, 2002, [116 Stat. 57][/us/stat/116/57]; [Pub. L. 108–311, title IV][/us/pl/108/311/tIV], § 408(b)(1), Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192], provided that:
 
 > “SEC. 151. __SHORT TITLE.__ 
 
@@ -434,27 +434,27 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/357/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs222%2Fa
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1431
-[/us/pl/109/135/s412/rr/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Frr%2F1
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t42/s5318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5318%2Fb%2F2
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
-[/us/pl/108/357/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs222%2Fb
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1432
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s417/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F21
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F57
-[/us/pl/108/311/s408/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fb%2F1
+[/us/pl/108/311/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2FtIV
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
 [/us/usc/t26/s469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs469
 

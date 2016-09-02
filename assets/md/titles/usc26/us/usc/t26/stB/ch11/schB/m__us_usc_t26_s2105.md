@@ -63,7 +63,7 @@
 
             This subsection shall not apply to estates of decedents dying after December 31, 2011.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I, § 108(d)][/us/pl/89/809/s108/d], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 98–369, div. A, title I, § 127(d)][/us/pl/98/369/s127/d], July 18, 1984, [98 Stat. 651][/us/stat/98/651]; [Pub. L. 100–647, title I, § 1012(g)(4)][/us/pl/100/647/s1012/g/4], Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 103–66, title XIII, § 13237(b)][/us/pl/103/66/s13237/b], Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 105–34, title XIII, § 1304(a)][/us/pl/105/34/s1304/a], Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040]; [Pub. L. 108–357, title IV, § 411(b)][/us/pl/108/357/s411/b], Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504]; [Pub. L. 110–343, div. C, title II, § 207(a)][/us/pl/110/343/s207/a], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 726(a)][/us/pl/111/312/s726/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I][/us/pl/89/809/tI], § 108(d), Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369/dA/tI], § 127(d), July 18, 1984, [98 Stat. 651][/us/stat/98/651]; [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1012(g)(4), Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13237(b), Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1304(a), Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040]; [Pub. L. 108–357, title IV][/us/pl/108/357/tIV], § 411(b), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504]; [Pub. L. 110–343, div. C, title II][/us/pl/110/343/dC/tII], § 207(a), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 726(a), Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316].)
 
  __Amendments__ 
 
@@ -89,13 +89,13 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title VII, § 726(b)][/us/pl/111/312/s726/b], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], provided that: 
+[Pub. L. 111–312, title VII][/us/pl/111/312/tVII], § 726(b), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2009.”
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title II, § 207(b)][/us/pl/110/343/s207/b], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], provided that: 
+[Pub. L. 110–343, div. C, title II][/us/pl/110/343/dC/tII], § 207(b), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to decedents dying after December 31, 2007.”
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XIII, § 1304(b)][/us/pl/105/34/s1304/b], Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040], provided that: 
+[Pub. L. 105–34, title XIII][/us/pl/105/34/tXIII], § 1304(b), Aug. 5, 1997, [111 Stat. 1040][/us/stat/111/1040], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
@@ -134,21 +134,21 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F397
-[/us/pl/89/809/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fd
+[/us/pl/89/809/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2FtI
 [/us/stat/80/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1572
-[/us/pl/98/369/s127/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs127%2Fd
+[/us/pl/98/369/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtI
 [/us/stat/98/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F651
-[/us/pl/100/647/s1012/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fg%2F4
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3501
-[/us/pl/103/66/s13237/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13237%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F508
-[/us/pl/105/34/s1304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1304%2Fa
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1040
-[/us/pl/108/357/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs411%2Fb
+[/us/pl/108/357/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtIV
 [/us/stat/118/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1504
-[/us/pl/110/343/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fa
+[/us/pl/110/343/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtII
 [/us/stat/122/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3865
-[/us/pl/111/312/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs726%2Fa
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3316
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -158,14 +158,14 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
-[/us/pl/111/312/s726/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs726%2Fb
+[/us/pl/111/312/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtVII
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
-[/us/pl/110/343/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs207%2Fb
+[/us/pl/110/343/dC/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2FdC%2FtII
 [/us/stat/122/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3865
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s411/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs411%2Fd%2F2
 [/us/usc/t26/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs871
-[/us/pl/105/34/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1304%2Fb
+[/us/pl/105/34/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXIII
 [/us/stat/111/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1040
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13237/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13237%2Fd

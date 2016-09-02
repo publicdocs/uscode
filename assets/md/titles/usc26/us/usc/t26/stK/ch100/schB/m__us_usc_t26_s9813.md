@@ -67,7 +67,7 @@
 
         this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
-(Added [Pub. L. 110–381, § 2(c)(1)][/us/pl/110/381/s2/c/1], Oct. 9, 2008, [122 Stat. 4084][/us/stat/122/4084].)
+(Added [Pub. L. 110–381][/us/pl/110/381], § 2(c)(1), Oct. 9, 2008, [122 Stat. 4084][/us/stat/122/4084].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 110–381, § 2(d)][/us/pl/110/381/s2/d], Oct. 9, 2008, [122 Stat. 4086][/us/stat/122/4086], provided that: 
+[Pub. L. 110–381][/us/pl/110/381], § 2(d), Oct. 9, 2008, [122 Stat. 4086][/us/stat/122/4086], provided that: 
 
 > “The amendments made by this Act \[enacting this section, [section 1185c of Title 29][/us/usc/t29/s1185c], Labor, and sections 300gg–7 and 300gg–54 of Title 42, The Public Health and Welfare\] shall apply with respect to plan years beginning on or after the date that is one year after the date of the enactment of this Act \[Oct. 9, 2008\] and to medically necessary leaves of absence beginning during such plan years.”
 
@@ -86,10 +86,10 @@
 ----------
 ----------
 
-[/us/pl/110/381/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fc%2F1
+[/us/pl/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381
 [/us/stat/122/4084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4084
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/110/381/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fd
+[/us/pl/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381
 [/us/stat/122/4086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4086
 [/us/usc/t29/s1185c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185c
 

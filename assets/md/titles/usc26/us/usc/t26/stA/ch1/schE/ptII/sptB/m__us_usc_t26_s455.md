@@ -71,13 +71,13 @@
 
         Notwithstanding the provisions of this section, any taxpayer who has, for taxable years prior to the first taxable year to which this section applies, reported his income under an established and consistent method or practice of accounting for prepaid subscription income (to which this section would apply if an election were made) may continue to report his income for taxable years to which this title applies in accordance with such method or practice.
 
-(Added [Pub. L. 85–866, title I, § 28(a)][/us/pl/85/866/s28/a], Sept. 2, 1958, [72 Stat. 1625][/us/stat/72/1625]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(67), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834.)
+(Added [Pub. L. 85–866, title I][/us/pl/85/866/tI], § 28(a), Sept. 2, 1958, [72 Stat. 1625][/us/stat/72/1625]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1901(a)(67), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834.)
 
  __Amendments__ 
 
-    1976—Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+    1976—Subsec. (c). [Pub. L. 94–455][/us/pl/94/455], § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-    Subsec. (c)(3)(B). [Pub. L. 94–455, § 1901(a)(67)][/us/pl/94/455/s1901/a/67], substituted “for his first taxable year in which he receives prepaid subscription income in the trade or business” for “for his first taxable year (i) which begins after December 31, 1957, and (ii) in which he receives prepaid subscription income in the trade or business”.
+    Subsec. (c)(3)(B). [Pub. L. 94–455][/us/pl/94/455], § 1901(a)(67), substituted “for his first taxable year in which he receives prepaid subscription income in the trade or business” for “for his first taxable year (i) which begins after December 31, 1957, and (ii) in which he receives prepaid subscription income in the trade or business”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 85–866, title I, § 28(c)][/us/pl/85/866/s28/c], Sept. 2, 1958, [72 Stat. 1626][/us/stat/72/1626], provided that: 
+[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 28(c), Sept. 2, 1958, [72 Stat. 1626][/us/stat/72/1626], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1957.”
 
@@ -96,16 +96,16 @@
 ----------
 ----------
 
-[/us/pl/85/866/s28/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs28%2Fa
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1625
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1775
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
-[/us/pl/94/455/s1901/a/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F67
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1901/a/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F67
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
-[/us/pl/85/866/s28/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs28%2Fc
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1626
 
 

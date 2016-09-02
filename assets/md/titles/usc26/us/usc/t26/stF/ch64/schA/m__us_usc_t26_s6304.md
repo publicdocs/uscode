@@ -43,15 +43,15 @@
 
         For civil action for violations of this section, see section 7433.
 
-(Added [Pub. L. 105–206, title III, § 3466(a)][/us/pl/105/206/s3466/a], July 22, 1998, [112 Stat. 768][/us/stat/112/768].)
+(Added [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3466(a), July 22, 1998, [112 Stat. 768][/us/stat/112/768].)
 
  __Prior Provisions__ 
 
-    A prior section 6304, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 776][/us/stat/68A/776], related to a cross reference to sections 4504 and 4601 for collection under the Tariff Act of 1930, prior to repeal by [Pub. L. 94–455, title XIX, § 1906(a)(18)][/us/pl/94/455/s1906/a/18], (d)(1), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1835, effective on first day of first month which begins more than 90 days after Oct. 4, 1976.
+    A prior section 6304, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 776][/us/stat/68A/776], related to a cross reference to sections 4504 and 4601 for collection under the Tariff Act of 1930, prior to repeal by [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(a)(18), (d)(1), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1835, effective on first day of first month which begins more than 90 days after Oct. 4, 1976.
 
  __Effective Date__ 
 
-[Pub. L. 105–206, title III, § 3466(c)][/us/pl/105/206/s3466/c], July 22, 1998, [112 Stat. 769][/us/stat/112/769], provided that: 
+[Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3466(c), July 22, 1998, [112 Stat. 769][/us/stat/112/769], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
@@ -63,13 +63,13 @@
 ----------
 
 [/us/usc/t15/s1692b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692b
-[/us/pl/105/206/s3466/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3466%2Fa
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F768
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F776
-[/us/pl/94/455/s1906/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F18
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1825
-[/us/pl/105/206/s3466/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3466%2Fc
+[/us/pl/105/206/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtIII
 [/us/stat/112/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F769
 
 

@@ -29,7 +29,7 @@
 
     (7) For alternative minimum tax, see section 55.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 11][/us/stat/68A/11]; [Pub. L. 88–272, title II, § 234(b)(4)][/us/pl/88/272/s234/b/4], Feb. 26, 1964, [78 Stat. 115][/us/stat/78/115]; [Pub. L. 91–172, title III, § 301(b)(3)][/us/pl/91/172/s301/b/3], Dec. 30, 1969, [83 Stat. 585][/us/stat/83/585]; [Pub. L. 94–12, title III, § 303(c)(2)][/us/pl/94/12/s303/c/2], Mar. 29, 1975, [89 Stat. 44][/us/stat/89/44]; [Pub. L. 95–600, title III, § 301(b)(1)][/us/pl/95/600/s301/b/1], Nov. 6, 1978, [92 Stat. 2820][/us/stat/92/2820]; [Pub. L. 98–369, div. A, title IV, § 474(r)(29)(E)][/us/pl/98/369/s474/r/29/E], July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 99–514, title VII, § 701(e)(4)(B)][/us/pl/99/514/s701/e/4/B], Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 11][/us/stat/68A/11]; [Pub. L. 88–272, title II][/us/pl/88/272/tII], § 234(b)(4), Feb. 26, 1964, [78 Stat. 115][/us/stat/78/115]; [Pub. L. 91–172, title III][/us/pl/91/172/tIII], § 301(b)(3), Dec. 30, 1969, [83 Stat. 585][/us/stat/83/585]; [Pub. L. 94–12, title III][/us/pl/94/12/tIII], § 303(c)(2), Mar. 29, 1975, [89 Stat. 44][/us/stat/89/44]; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 301(b)(1), Nov. 6, 1978, [92 Stat. 2820][/us/stat/92/2820]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 474(r)(29)(E), July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 99–514, title VII][/us/pl/99/514/tVII], § 701(e)(4)(B), Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343].)
 
  __Amendments__ 
 
@@ -82,17 +82,17 @@
 
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F11
-[/us/pl/88/272/s234/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs234%2Fb%2F4
+[/us/pl/88/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2FtII
 [/us/stat/78/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F115
-[/us/pl/91/172/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs301%2Fb%2F3
+[/us/pl/91/172/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtIII
 [/us/stat/83/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F585
-[/us/pl/94/12/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs303%2Fc%2F2
+[/us/pl/94/12/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtIII
 [/us/stat/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F44
-[/us/pl/95/600/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs301%2Fb%2F1
+[/us/pl/95/600/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtIII
 [/us/stat/92/2820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2820
-[/us/pl/98/369/s474/r/29/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F29%2FE
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F844
-[/us/pl/99/514/s701/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fe%2F4%2FB
+[/us/pl/99/514/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVII
 [/us/stat/100/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2343
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

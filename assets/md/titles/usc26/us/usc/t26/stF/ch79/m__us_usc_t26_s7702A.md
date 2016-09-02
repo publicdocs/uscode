@@ -135,35 +135,35 @@
 
             Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
 
-(Added [Pub. L. 100–647, title V, § 5012(c)(1)][/us/pl/100/647/s5012/c/1], Nov. 10, 1988, [102 Stat. 3662][/us/stat/102/3662]; amended [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7647(a), 7815(a)(1), (4), Dec. 19, 1989, [103 Stat. 2382][/us/stat/103/2382], 2414; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(a)(1), (2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 107–147, title IV, § 416(f)][/us/pl/107/147/s416/f], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55].)
+(Added [Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5012(c)(1), Nov. 10, 1988, [102 Stat. 3662][/us/stat/102/3662]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7647(a), 7815(a)(1), (4), Dec. 19, 1989, [103 Stat. 2382][/us/stat/103/2382], 2414; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(a)(1), (2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 416(f), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55].)
 
  __Amendments__ 
 
-    2002—Subsec. (c)(3)(A)(ii). [Pub. L. 107–147][/us/pl/107/147] repealed [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(a)(2)\]. See 2000 Amendment note below.
+    2002—Subsec. (c)(3)(A)(ii). [Pub. L. 107–147][/us/pl/107/147] repealed [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(a)(2)\]. See 2000 Amendment note below.
 
-    2000—Subsec. (a)(2). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(a)(1)\], inserted “or this paragraph” before period at end.
+    2000—Subsec. (a)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(a)(1)\], inserted “or this paragraph” before period at end.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(a)(2)\], which substituted “under the old contract” for “under the contract”, was repealed by [Pub. L. 107–147][/us/pl/107/147]. See Construction of 2002 Amendment note below.
+    Subsec. (c)(3)(A)(ii). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(a)(2)\], which substituted “under the old contract” for “under the contract”, was repealed by [Pub. L. 107–147][/us/pl/107/147]. See Construction of 2002 Amendment note below.
 
-    1989—Subsec. (c)(3)(B). [Pub. L. 101–239, § 7815(a)(1)][/us/pl/101/239/s7815/a/1], substituted “benefit increases” for “increases in future benefits” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘material change’ includes any increase in future benefits under the contract. Such term shall not include—
+    1989—Subsec. (c)(3)(B). [Pub. L. 101–239][/us/pl/101/239], § 7815(a)(1), substituted “benefit increases” for “increases in future benefits” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘material change’ includes any increase in future benefits under the contract. Such term shall not include—
 
     “(i) any increase which is attributable to the payment of premiums necessary to fund the lowest level of future benefits payable in the 1st 7 contract years (determined after taking into account death benefit increases described in subparagraph (A) or (B) of section 7702(e)(2)) or to crediting of interest or other earnings (including policyholder dividends) in respect of such premiums, and
 
     “(ii) to the extent provided in regulations, any cost-of-living increase based on an established broad-based index if such increase is funded ratably over the remaining life of the the contract.”
 
-    Subsec. (c)(4). [Pub. L. 101–239, § 7815(a)(4)][/us/pl/101/239/s7815/a/4], substituted “of $10,000 or less” for “under $10,000” in heading and “the same policyholder” for “the same insurer” in concluding provisions.
+    Subsec. (c)(4). [Pub. L. 101–239][/us/pl/101/239], § 7815(a)(4), substituted “of $10,000 or less” for “under $10,000” in heading and “the same policyholder” for “the same insurer” in concluding provisions.
 
-    Subsec. (c)(6). [Pub. L. 101–239, § 7647(a)][/us/pl/101/239/s7647/a], added par. (6).
+    Subsec. (c)(6). [Pub. L. 101–239][/us/pl/101/239], § 7647(a), added par. (6).
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title III, § 318(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645, provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by section 5012 of the Technical and Miscellaneous Revenue Act of 1988 \[[Pub. L. 100–647][/us/pl/100/647]\].”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title VII, § 7647(b)][/us/pl/101/239/s7647/b], Dec. 19, 1989, [103 Stat. 2383][/us/stat/103/2383], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7647(b), Dec. 19, 1989, [103 Stat. 2383][/us/stat/103/2383], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to contracts entered into on or after September 14, 1989.”
 
@@ -171,7 +171,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–647, title V, § 5012(e)][/us/pl/100/647/s5012/e], Nov. 10, 1988, [102 Stat. 3665][/us/stat/102/3665], as amended by [Pub. L. 101–239, title VII, § 7815(a)(2)][/us/pl/101/239/s7815/a/2], Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414], provided that:
+[Pub. L. 100–647, title V][/us/pl/100/647/tV], § 5012(e), Nov. 10, 1988, [102 Stat. 3665][/us/stat/102/3665], as amended by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7815(a)(2), Dec. 19, 1989, [103 Stat. 2414][/us/stat/103/2414], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -207,7 +207,7 @@
 
  __Construction of 2002 Amendment__ 
 
-[Pub. L. 107–147, title IV, § 416(f)][/us/pl/107/147/s416/f], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55], provided that: 
+[Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 416(f), Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55], provided that: 
 
 > “Paragraph (2) of section 318(a) of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by [section 1(a)(7) of Pub. L. 106–554][/us/pl/106/554/s1/a/7]\]([114 Stat. 2763][/us/stat/114/2763]A–645) \[amending this section\] is repealed, and clause (ii) of section 7702A(c)(3)(A) shall read and be applied as if the amendment made by such paragraph had not been enacted.”
 
@@ -218,37 +218,37 @@
 ----------
 ----------
 
-[/us/pl/100/647/s5012/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5012%2Fc%2F1
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3662
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2382
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/147/s416/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Ff
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/101/239/s7815/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fa%2F1
-[/us/pl/101/239/s7815/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fa%2F4
-[/us/pl/101/239/s7647/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7647%2Fa
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/101/239/s7647/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7647%2Fb
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2383
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s5012/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5012%2Fe
+[/us/pl/100/647/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtV
 [/us/stat/102/3665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3665
-[/us/pl/101/239/s7815/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7815%2Fa%2F2
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2414
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/107/147/s416/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs416%2Ff
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F55
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763

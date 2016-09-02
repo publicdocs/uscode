@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1987—[Pub. L. 100–203, title X, § 10242(c)(4)][/us/pl/100/203/s10242/c/4], Dec. 22, 1987, [101 Stat. 1330–423][/us/stat/101/1330-423], struck out item 813 “Foreign life insurance companies”.
+    1987—[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10242(c)(4), Dec. 22, 1987, [101 Stat. 1330–423][/us/stat/101/1330-423], struck out item 813 “Foreign life insurance companies”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10242/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10242%2Fc%2F4
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-423
 
 

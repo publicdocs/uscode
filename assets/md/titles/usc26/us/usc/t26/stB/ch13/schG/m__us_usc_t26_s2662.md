@@ -33,7 +33,7 @@
 
         The Secretary may by regulations require a return to be filed containing such information as he determines to be necessary for purposes of this chapter.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2728][/us/stat/100/2728].)
+(Added [Pub. L. 99–514, title XIV][/us/pl/99/514/tXIV], § 1431(a), Oct. 22, 1986, [100 Stat. 2728][/us/stat/100/2728].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 
  __Extension of Time for Filing Return__ 
 
-[Pub. L. 111–312, title III, § 301(d)(2)][/us/pl/111/312/s301/d/2], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], provided that: 
+[Pub. L. 111–312, title III][/us/pl/111/312/tIII], § 301(d)(2), Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300], provided that: 
 
 > “In the case of any generation-skipping transfer made after December 31, 2009, and before the date of the enactment of this Act \[Dec. 17, 2010\], the due date for filing any return under section 2662 of the Internal Revenue Code of 1986 (including any election required to be made on such a return) shall not be earlier than the date which is 9 months after the date of the enactment of this Act.”
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/99/514/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1431%2Fa
+[/us/pl/99/514/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIV
 [/us/stat/100/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2728
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
 [/us/usc/t26/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2601
-[/us/pl/111/312/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fd%2F2
+[/us/pl/111/312/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtIII
 [/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
 
 

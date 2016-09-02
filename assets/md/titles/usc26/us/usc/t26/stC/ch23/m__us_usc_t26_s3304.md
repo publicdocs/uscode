@@ -177,7 +177,7 @@
 
         (4) is a public or other nonprofit institution.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 443][/us/stat/68A/443]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, § 206, Aug. 10, 1970, [84 Stat. 697][/us/stat/84/697], 701, 704, 707, 708, 712; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 115(c)(1)][/us/pl/94/566/s115/c/1], (5), title III, §§ 312(a), (b), 314(a), title V, § 506(b), Oct. 20, 1976, [90 Stat. 2670][/us/stat/90/2670], 2671, 2679, 2680, 2687; [Pub. L. 95–19, title III, § 302(a)][/us/pl/95/19/s302/a], (c), (e), Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], 45; [Pub. L. 95–171, § 2(a)][/us/pl/95/171/s2/a], Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353]; [Pub. L. 95–216, title IV, § 403(b)][/us/pl/95/216/s403/b], Dec. 20, 1977, [91 Stat. 1561][/us/stat/91/1561]; [Pub. L. 96–364, title IV, § 414(a)][/us/pl/96/364/s414/a], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV, § 2408(a)][/us/pl/97/35/s2408/a], Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880]; [Pub. L. 97–248, title I, § 193(a)][/us/pl/97/248/s193/a], Sept. 3, 1982, [96 Stat. 408][/us/stat/96/408]; [Pub. L. 98–21, title V][/us/pl/98/21], §§ 515(b), 521(a), 523(a), Apr. 20, 1983, [97 Stat. 147][/us/stat/97/147], 148; [Pub. L. 99–272, title XII, § 12401(b)(1)][/us/pl/99/272/s12401/b/1], Apr. 7, 1986, [100 Stat. 297][/us/stat/100/297]; [Pub. L. 99–514, title XVIII, § 1899A(43)][/us/pl/99/514/s1899A/43], Oct. 22, 1986, [100 Stat. 2960][/us/stat/100/2960]; [Pub. L. 101–649, title I, § 162(e)(4)][/us/pl/101/649/s162/e/4], Nov. 29, 1990, [104 Stat. 5011][/us/stat/104/5011]; [Pub. L. 102–164, title III, § 302(a)][/us/pl/102/164/s302/a], Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 102–318, title IV, § 401(a)(1)][/us/pl/102/318/s401/a/1], July 3, 1992, [106 Stat. 298][/us/stat/106/298]; [Pub. L. 103–182, title V, § 507(b)(1)][/us/pl/103/182/s507/b/1], Dec. 8, 1993, [107 Stat. 2154][/us/stat/107/2154]; [Pub. L. 103–465, title VII, § 702(b)][/us/pl/103/465/s702/b], (c)(1), Dec. 8, 1994, [108 Stat. 4997][/us/stat/108/4997]; [Pub. L. 104–193, title I, § 110][/us/pl/104/193/s110](l)(1), formerly § 110(l)(2), title III, § 316(g)(2), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173], 2218, renumbered [Pub. L. 105–33, title V, § 5514(a)(2)][/us/pl/105/33/s5514/a/2], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 107–147, title II, § 209(d)(1)][/us/pl/107/147/s209/d/1], Mar. 9, 2002, [116 Stat. 33][/us/stat/116/33]; [Pub. L. 109–280, title XI, § 1105(a)][/us/pl/109/280/s1105/a], Aug. 17, 2006, [120 Stat. 1060][/us/stat/120/1060]; [Pub. L. 110–328, § 3(c)][/us/pl/110/328/s3/c], Sept. 30, 2008, [122 Stat. 3572][/us/stat/122/3572]; [Pub. L. 110–458, title I, § 111(b)][/us/pl/110/458/s111/b], Dec. 23, 2008, [122 Stat. 5113][/us/stat/122/5113]; [Pub. L. 112–96, title II][/us/pl/112/96], §§ 2103(a), 2161(b)(1)(A), Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161], 172.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 443][/us/stat/68A/443]; [Pub. L. 91–373, title I][/us/pl/91/373/tI], §§ 104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, § 206, Aug. 10, 1970, [84 Stat. 697][/us/stat/84/697], 701, 704, 707, 708, 712; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], §§ 1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 115(c)(1), (5), title III, §§ 312(a), (b), 314(a), title V, § 506(b), Oct. 20, 1976, [90 Stat. 2670][/us/stat/90/2670], 2671, 2679, 2680, 2687; [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 302(a), (c), (e), Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], 45; [Pub. L. 95–171][/us/pl/95/171], § 2(a), Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353]; [Pub. L. 95–216, title IV][/us/pl/95/216/tIV], § 403(b), Dec. 20, 1977, [91 Stat. 1561][/us/stat/91/1561]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 414(a), Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2408(a), Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880]; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 193(a), Sept. 3, 1982, [96 Stat. 408][/us/stat/96/408]; [Pub. L. 98–21, title V][/us/pl/98/21/tV], §§ 515(b), 521(a), 523(a), Apr. 20, 1983, [97 Stat. 147][/us/stat/97/147], 148; [Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12401(b)(1), Apr. 7, 1986, [100 Stat. 297][/us/stat/100/297]; [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1899A(43), Oct. 22, 1986, [100 Stat. 2960][/us/stat/100/2960]; [Pub. L. 101–649, title I][/us/pl/101/649/tI], § 162(e)(4), Nov. 29, 1990, [104 Stat. 5011][/us/stat/104/5011]; [Pub. L. 102–164, title III][/us/pl/102/164/tIII], § 302(a), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059]; [Pub. L. 102–318, title IV][/us/pl/102/318/tIV], § 401(a)(1), July 3, 1992, [106 Stat. 298][/us/stat/106/298]; [Pub. L. 103–182, title V][/us/pl/103/182/tV], § 507(b)(1), Dec. 8, 1993, [107 Stat. 2154][/us/stat/107/2154]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 702(b), (c)(1), Dec. 8, 1994, [108 Stat. 4997][/us/stat/108/4997]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(l)(1), formerly § 110(l)(2), title III, § 316(g)(2), Aug. 22, 1996, [110 Stat. 2173][/us/stat/110/2173], 2218, renumbered [Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5514(a)(2), Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 107–147, title II][/us/pl/107/147/tII], § 209(d)(1), Mar. 9, 2002, [116 Stat. 33][/us/stat/116/33]; [Pub. L. 109–280, title XI][/us/pl/109/280/tXI], § 1105(a), Aug. 17, 2006, [120 Stat. 1060][/us/stat/120/1060]; [Pub. L. 110–328][/us/pl/110/328], § 3(c), Sept. 30, 2008, [122 Stat. 3572][/us/stat/122/3572]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 111(b), Dec. 23, 2008, [122 Stat. 5113][/us/stat/122/5113]; [Pub. L. 112–96, title II][/us/pl/112/96/tII], §§ 2103(a), 2161(b)(1)(A), Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161], 172.)
 
  __References in Text__ 
 
@@ -185,55 +185,55 @@
 
     Section 6402(f)(4)(B), referred to in subsec. (a)(4)(G)(ii), does not relate to penalties and interest. Provisions relating to penalties and interest are found elsewhere in section 6402(f).
 
-    The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is [Pub. L. 91–373, title II][/us/pl/91/373], Aug. 10, 1970, [84 Stat. 708][/us/stat/84/708], as amended, which is set out as a note below.
+    The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is [Pub. L. 91–373, title II][/us/pl/91/373/tII], Aug. 10, 1970, [84 Stat. 708][/us/stat/84/708], as amended, which is set out as a note below.
 
     Section 212(d)(5) of the Immigration and Nationality Act, referred to in subsec. (a)(14)(A), is classified to [section 1182(d)(5) of Title 8][/us/usc/t8/s1182/d/5], Aliens and Nationality.
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (a)(15)(A)(i)(II), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (a)(15)(A)(i)(II), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I][/us/pl/93/445/tI], § 101, Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
  __Amendments__ 
 
-    2012—Subsec. (a)(4)(D). [Pub. L. 112–96, § 2103(a)][/us/pl/112/96/s2103/a], substituted “shall” for “may”.
+    2012—Subsec. (a)(4)(D). [Pub. L. 112–96][/us/pl/112/96], § 2103(a), substituted “shall” for “may”.
 
-    Subsec. (a)(4)(E). [Pub. L. 112–96, § 2161(b)(1)(A)][/us/pl/112/96/s2161/b/1/A], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor;”.
+    Subsec. (a)(4)(E). [Pub. L. 112–96][/us/pl/112/96], § 2161(b)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor;”.
 
-    2008—Subsec. (a). [Pub. L. 110–458, § 111(b)(2)][/us/pl/110/458/s111/b/2], struck out concluding provisions which read as follows: “Compensation shall not be reduced under paragraph (15) for any pension, retirement or retired pay, annuity, or similar payment which is not includible in gross income of the individual for the taxable year in which paid because it was part of a rollover distribution.”
+    2008—Subsec. (a). [Pub. L. 110–458][/us/pl/110/458], § 111(b)(2), struck out concluding provisions which read as follows: “Compensation shall not be reduced under paragraph (15) for any pension, retirement or retired pay, annuity, or similar payment which is not includible in gross income of the individual for the taxable year in which paid because it was part of a rollover distribution.”
 
     Subsec. (a)(4)(G). [Pub. L. 110–328][/us/pl/110/328] added subpar. (G).
 
-    Subsec. (a)(15). [Pub. L. 110–458, § 111(b)(1)][/us/pl/110/458/s111/b/1], inserted “(A) subject to subparagraph (B),” after par. designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), substituted “, and” for semicolon at end of cl. (ii), and added subpar. (B).
+    Subsec. (a)(15). [Pub. L. 110–458][/us/pl/110/458], § 111(b)(1), inserted “(A) subject to subparagraph (B),” after par. designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), substituted “, and” for semicolon at end of cl. (ii), and added subpar. (B).
 
     2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280] added concluding provisions.
 
     2002—Subsec. (a)(4)(B). [Pub. L. 107–147][/us/pl/107/147] inserted “or 903(d)(4)” before “of the Social Security Act”.
 
-    1996—Subsec. (a)(16)(A). [Pub. L. 104–193, § 316(g)(2)(C)][/us/pl/104/193/s316/g/2/C], struck out “and” at end.
+    1996—Subsec. (a)(16)(A). [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(C), struck out “and” at end.
 
-    [Pub. L. 104–193, § 316(g)(2)(A)][/us/pl/104/193/s316/g/2/A], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    [Pub. L. 104–193, § 110][/us/pl/104/193/s110](l)(1), formerly § 110(l)(2), as renumbered by [Pub. L. 105–33][/us/pl/105/33], substituted “eligibility for assistance, or the amount of such assistance, under a State program funded” for “eligibility for aid or services, or the amount of such aid or services, under a State plan for aid and services to needy families with children approved”.
+    [Pub. L. 104–193][/us/pl/104/193], § 110(l)(1), formerly § 110(l)(2), as renumbered by [Pub. L. 105–33][/us/pl/105/33], substituted “eligibility for assistance, or the amount of such assistance, under a State program funded” for “eligibility for aid or services, or the amount of such aid or services, under a State plan for aid and services to needy families with children approved”.
 
-    Subsec. (a)(16)(B). [Pub. L. 104–193, § 316(g)(2)(E)][/us/pl/104/193/s316/g/2/E], added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (a)(16)(B). [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(E), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 104–193, § 316(g)(2)(B)][/us/pl/104/193/s316/g/2/B], substituted “information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;” for “such information is used only for the purposes authorized under subparagraph (A);”.
+    [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(B), substituted “information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;” for “such information is used only for the purposes authorized under subparagraph (A);”.
 
-    [Pub. L. 104–193, § 316(g)(2)(A)][/us/pl/104/193/s316/g/2/A], substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+    [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-    Subsec. (a)(16)(C). [Pub. L. 104–193, § 316(g)(2)(D)][/us/pl/104/193/s316/g/2/D], redesignated subpar. (B) as (C).
+    Subsec. (a)(16)(C). [Pub. L. 104–193][/us/pl/104/193], § 316(g)(2)(D), redesignated subpar. (B) as (C).
 
-    1994—Subsec. (a)(4)(C). [Pub. L. 103–465, § 702(c)(1)][/us/pl/103/465/s702/c/1], inserted “, or the withholding of Federal, State, or local individual income tax,” after “health insurance”.
+    1994—Subsec. (a)(4)(C). [Pub. L. 103–465][/us/pl/103/465], § 702(c)(1), inserted “, or the withholding of Federal, State, or local individual income tax,” after “health insurance”.
 
-    Subsec. (a)(17) to (19). [Pub. L. 103–465, § 702(b)][/us/pl/103/465/s702/b], struck out “and” at end of par. (17), added par. (18), and redesignated former par. (18) as (19).
+    Subsec. (a)(17) to (19). [Pub. L. 103–465][/us/pl/103/465], § 702(b), struck out “and” at end of par. (17), added par. (18), and redesignated former par. (18) as (19).
 
     1993—Subsec. (a)(4)(F). [Pub. L. 103–182][/us/pl/103/182] added subpar. (F).
 
     1992—Subsec. (a)(4)(E). [Pub. L. 102–318][/us/pl/102/318] added subpar. (E).
 
-    1991—Subsec. (a)(6)(A)(ii)(I). [Pub. L. 102–164, § 302(a)(1)][/us/pl/102/164/s302/a/1], substituted “may be denied” for “shall be denied”.
+    1991—Subsec. (a)(6)(A)(ii)(I). [Pub. L. 102–164][/us/pl/102/164], § 302(a)(1), substituted “may be denied” for “shall be denied”.
 
-    Subsec. (a)(6)(A)(iii), (iv). [Pub. L. 102–164, § 302(a)(2)][/us/pl/102/164/s302/a/2], which directed that “and” be struck out at end of cls. (iii) and (iv), could be executed only to cl. (iv) because “and” did not appear at end of cl. (iii).
+    Subsec. (a)(6)(A)(iii), (iv). [Pub. L. 102–164][/us/pl/102/164], § 302(a)(2), which directed that “and” be struck out at end of cls. (iii) and (iv), could be executed only to cl. (iv) because “and” did not appear at end of cl. (iii).
 
-    Subsec. (a)(6)(A)(vi). [Pub. L. 102–164, § 302(a)(2)][/us/pl/102/164/s302/a/2], added cl. (vi).
+    Subsec. (a)(6)(A)(vi). [Pub. L. 102–164][/us/pl/102/164], § 302(a)(2), added cl. (vi).
 
     1990—Subsec. (a)(14)(A). [Pub. L. 101–649][/us/pl/101/649] struck out reference to section 203(a)(7) of Immigration and Nationality Act.
 
@@ -241,13 +241,13 @@
 
     Subsec. (a)(6)(A)(iii). [Pub. L. 99–514][/us/pl/99/514] struck out “and” at end.
 
-    1983—Subsec. (a)(4)(C). [Pub. L. 98–21, § 523(a)][/us/pl/98/21/s523/a], added subpar. (C).
+    1983—Subsec. (a)(4)(C). [Pub. L. 98–21][/us/pl/98/21], § 523(a), added subpar. (C).
 
-    Subsec. (a)(6)(A)(ii)(I), (iii), (iv). [Pub. L. 98–21, § 521(a)(2)][/us/pl/98/21/s521/a/2], substituted “shall be denied” for “may be denied”.
+    Subsec. (a)(6)(A)(ii)(I), (iii), (iv). [Pub. L. 98–21][/us/pl/98/21], § 521(a)(2), substituted “shall be denied” for “may be denied”.
 
-    Subsec. (a)(6)(A)(v). [Pub. L. 98–21, § 521(a)(1)][/us/pl/98/21/s521/a/1], added cl. (v).
+    Subsec. (a)(6)(A)(v). [Pub. L. 98–21][/us/pl/98/21], § 521(a)(1), added cl. (v).
 
-    Subsec. (a)(17), (18). [Pub. L. 98–21, § 515(b)][/us/pl/98/21/s515/b], added par. (17) and redesignated former par. (17) as (18).
+    Subsec. (a)(17), (18). [Pub. L. 98–21][/us/pl/98/21], § 515(b), added par. (17) and redesignated former par. (17) as (18).
 
     1982—Subsec. (a)(6)(A)(ii). [Pub. L. 97–248][/us/pl/97/248] redesignated existing provisions as provisions preceding subcl. (I) and subcl. (I), and in such provisions as so redesignated, struck out “(other than an institution of higher education)” after “capacity for an educational institution”, substituted “2” for “two”, and inserted “except that” at end of subcl. (I), and added subcl. (II).
 
@@ -255,47 +255,47 @@
 
     1980—Subsec. (a)(15). [Pub. L. 96–364][/us/pl/96/364] inserted provisions relating to applicability to any pension, retirement or retired pay, annuity, or other similar periodic payment.
 
-    1977—Subsec. (a)(6)(A)(i). [Pub. L. 95–19, § 302(c)(1)][/us/pl/95/19/s302/c/1], (2), inserted a comma between “instructional” and “research”, substituted “two successive academic years or terms” for “two successive academic years”, and struck out “and” after “the second of such academic years or terms,”.
+    1977—Subsec. (a)(6)(A)(i). [Pub. L. 95–19][/us/pl/95/19], § 302(c)(1), (2), inserted a comma between “instructional” and “research”, substituted “two successive academic years or terms” for “two successive academic years”, and struck out “and” after “the second of such academic years or terms,”.
 
-    Subsec. (a)(6)(A)(iii). [Pub. L. 95–19, § 302(c)(3)][/us/pl/95/19/s302/c/3], added cl. (iii).
+    Subsec. (a)(6)(A)(iii). [Pub. L. 95–19][/us/pl/95/19], § 302(c)(3), added cl. (iii).
 
     Subsec. (a)(6)(A)(iv). [Pub. L. 95–171][/us/pl/95/171] added cl. (iv).
 
-    Subsec. (a)(14)(A). [Pub. L. 95–19, § 302(a)][/us/pl/95/19/s302/a], substituted “who was lawfully admitted for permanent residence at the time such services were performed, was lawfully present for purposes of performing such services, or was permanently residing in the United States under color of law at the time such services were performed (including an alien who was” for “who has been lawfully admitted for permanent residence or otherwise is permanently residing in the United States under color of law (including an alien who is”.
+    Subsec. (a)(14)(A). [Pub. L. 95–19][/us/pl/95/19], § 302(a), substituted “who was lawfully admitted for permanent residence at the time such services were performed, was lawfully present for purposes of performing such services, or was permanently residing in the United States under color of law at the time such services were performed (including an alien who was” for “who has been lawfully admitted for permanent residence or otherwise is permanently residing in the United States under color of law (including an alien who is”.
 
-    Subsec. (a)(15). [Pub. L. 95–19, § 302(e)][/us/pl/95/19/s302/e], substituted “March 31, 1980” for “September 30, 1979”.
+    Subsec. (a)(15). [Pub. L. 95–19][/us/pl/95/19], § 302(e), substituted “March 31, 1980” for “September 30, 1979”.
 
     Subsec. (a)(16), (17). [Pub. L. 95–216][/us/pl/95/216] added par. (16). Former par. (16) redesignated (17).
 
     1976—Subsec. (a)(3). [Pub. L. 94–455][/us/pl/94/455], §§ 1903(a)(14)(A), 1906(b)(13)(C), inserted “of the Treasury” after “to the Secretary” and struck out “[49 Stat. 640][/us/stat/49/640]; [52 Stat. 1104][/us/stat/52/1104], 1105;” before “[42 U.S.C. 1104][/us/usc/t42/s1104]”.
 
-    Subsec. (a)(6)(A). [Pub. L. 94–566, § 115(c)(1)][/us/pl/94/566/s115/c/1], designated existing provisions as cl. (i), added cl. (ii), and in cl. (i) as so designated substituted “educational institution” for “institution of higher education”, “an agreement provides” for “the contract provides”, and “if such individual performs such services in the first of such academic years (or terms) and if there is a contract or reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic years or terms, and” for “who has a contract to perform services in any such capacity for any institution or institutions of higher education for both of such academic years or both of such terms, and”.
+    Subsec. (a)(6)(A). [Pub. L. 94–566][/us/pl/94/566], § 115(c)(1), designated existing provisions as cl. (i), added cl. (ii), and in cl. (i) as so designated substituted “educational institution” for “institution of higher education”, “an agreement provides” for “the contract provides”, and “if such individual performs such services in the first of such academic years (or terms) and if there is a contract or reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic years or terms, and” for “who has a contract to perform services in any such capacity for any institution or institutions of higher education for both of such academic years or both of such terms, and”.
 
-    Subsec. (a)(6)(B). [Pub. L. 94–566, § 506(b)][/us/pl/94/566/s506/b], substituted “section 3309(a)(1)” for “section 3309(a)(1)(A)”.
+    Subsec. (a)(6)(B). [Pub. L. 94–566][/us/pl/94/566], § 506(b), substituted “section 3309(a)(1)” for “section 3309(a)(1)(A)”.
 
-    Subsec. (a)(12). [Pub. L. 94–566, § 312(a)][/us/pl/94/566/s312/a], substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the right to elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
+    Subsec. (a)(12). [Pub. L. 94–566][/us/pl/94/566], § 312(a), substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the right to elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
 
-    Subsec. (a)(13) to (16). [Pub. L. 94–566, § 314(a)][/us/pl/94/566/s314/a], added pars. (13) to (15) and redesignated former par. (13) as (16).
+    Subsec. (a)(13) to (16). [Pub. L. 94–566][/us/pl/94/566], § 314(a), added pars. (13) to (15) and redesignated former par. (13) as (16).
 
-    Subsec. (c). [Pub. L. 94–566, § 312(b)][/us/pl/94/566/s312/b], provided that on Oct. 31 of any taxable year after 1977, the Secretary shall not certify any State which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the Unemployment Compensation Amendments of 1976 to be included therein, or has with respect to the 12-month period ending on such Oct. 31, failed to comply substantially with any such provision.
+    Subsec. (c). [Pub. L. 94–566][/us/pl/94/566], § 312(b), provided that on Oct. 31 of any taxable year after 1977, the Secretary shall not certify any State which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the Unemployment Compensation Amendments of 1976 to be included therein, or has with respect to the 12-month period ending on such Oct. 31, failed to comply substantially with any such provision.
 
     [Pub. L. 94–455][/us/pl/94/455], §§ 1903(a)(14)(B), 1906(b)(13)(C), (E), inserted “of the Treasury” after “certify to the Secretary”, substituted “the Secretary of Labor shall” for “the Secretary shall” and struck out “(10-month period in the case of October 31, 1972)” after “to the 12-month period”.
 
-    Subsec. (f). [Pub. L. 94–566, § 115(c)(5)][/us/pl/94/566/s115/c/5], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–566][/us/pl/94/566], § 115(c)(5), added subsec. (f).
 
     1970—Subsec. (a)(6) to (13). [Pub. L. 91–373][/us/pl/91/373], §§ 104(a), 108(a), 121(a), 206, added pars. (6) to (12) and redesignated former par. (6) as (13).
 
-    Subsec. (c). [Pub. L. 91–373, § 131(b)(2)][/us/pl/91/373/s131/b/2], clarified provisions governing procedure to be followed with respect to a finding of the Secretary of Labor that a state has failed to comply substantially with any of the provisions of subsec. (a)(5).
+    Subsec. (c). [Pub. L. 91–373][/us/pl/91/373], § 131(b)(2), clarified provisions governing procedure to be followed with respect to a finding of the Secretary of Labor that a state has failed to comply substantially with any of the provisions of subsec. (a)(5).
 
-    [Pub. L. 91–373, § 142(f)][/us/pl/91/373/s142/f], substituted “October 31” for “December 31” as certification date and “12-month period ending on such October 31” for “taxable year” and prohibited certifications for failure to amend State laws to contain provisions required by reason of enactment of the Employment Security Amendments of 1970.
+    [Pub. L. 91–373][/us/pl/91/373], § 142(f), substituted “October 31” for “December 31” as certification date and “12-month period ending on such October 31” for “taxable year” and prohibited certifications for failure to amend State laws to contain provisions required by reason of enactment of the Employment Security Amendments of 1970.
 
-    Subsec. (d). [Pub. L. 91–373, § 142(g)][/us/pl/91/373/s142/g], substituted “If at any time” for “If, at any time during the taxable year,”.
+    Subsec. (d). [Pub. L. 91–373][/us/pl/91/373], § 142(g), substituted “If at any time” for “If, at any time during the taxable year,”.
 
-    Subsec. (e). [Pub. L. 91–373, § 142(h)][/us/pl/91/373/s142/h], added subsec. (e).
+    Subsec. (e). [Pub. L. 91–373][/us/pl/91/373], § 142(h), added subsec. (e).
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–96, title II, § 2103(c)][/us/pl/112/96/s2103/c], Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161], provided that: 
+[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2103(c), Feb. 22, 2012, [126 Stat. 161][/us/stat/126/161], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 503 of Title 42][/us/usc/t42/s503], The Public Health and Welfare\] shall apply to weeks beginning after the end of the first session of the State legislature which begins after the date of enactment of this Act \[Feb. 22, 2012\].”
 
@@ -303,13 +303,13 @@
 
     Amendment by [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
-[Pub. L. 110–328, § 3(e)][/us/pl/110/328/s3/e], Sept. 30, 2008, [122 Stat. 3573][/us/stat/122/3573], provided that: 
+[Pub. L. 110–328][/us/pl/110/328], § 3(e), Sept. 30, 2008, [122 Stat. 3573][/us/stat/122/3573], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 6103 and 6402 of this title\] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of enactment of this Act \[Sept. 30, 2008\].”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title XI, § 1105(b)][/us/pl/109/280/s1105/b], Aug. 17, 2006, [120 Stat. 1060][/us/stat/120/1060], provided that: 
+[Pub. L. 109–280, title XI][/us/pl/109/280/tXI], § 1105(b), Aug. 17, 2006, [120 Stat. 1060][/us/stat/120/1060], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to weeks beginning on or after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -321,13 +321,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 702(d)][/us/pl/103/465/s702/d], Dec. 8, 1994, [108 Stat. 4997][/us/stat/108/4997], provided that: 
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 702(d), Dec. 8, 1994, [108 Stat. 4997][/us/stat/108/4997], provided that: 
 
 > “The amendments made by this section \[amending this section, sections 3306 and 3402 of this title, and [section 503 of Title 42][/us/usc/t42/s503], The Public Health and Welfare\] shall apply to payments made after December 31, 1996.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–164, title III, § 302(b)][/us/pl/102/164/s302/b], Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059], provided that: 
+[Pub. L. 102–164, title III][/us/pl/102/164/tIII], § 302(b), Nov. 15, 1991, [105 Stat. 1059][/us/stat/105/1059], provided that: 
 
 > “The amendments made by this section \[amending this section\] section shall apply in the case of compensation paid for weeks beginning on or after the date of the enactment of this Act \[Nov. 15, 1991\].”
 
@@ -341,19 +341,19 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 98–21, title V, § 521(b)][/us/pl/98/21/s521/b], Apr. 20, 1983, [97 Stat. 147][/us/stat/97/147], provided that:
+[Pub. L. 98–21, title V][/us/pl/98/21/tV], § 521(b), Apr. 20, 1983, [97 Stat. 147][/us/stat/97/147], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply in the case of compensation paid for weeks beginning on or after April 1, 1984.
 
 >     “(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to comply with the amendment made by this section, the amendment made by this section shall apply in the case of compensation paid for weeks which begin on or after April 1, 1984, and after the end of the first session of the State legislature which begins after the date of the enactment of this Act \[Apr. 20, 1983\], or which began prior to the date of the enactment of this Act and remained in session for at least twenty-five calendar days after such date of enactment. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
-[Pub. L. 98–21, title V, § 523(c)][/us/pl/98/21/s523/c], Apr. 20, 1983, [97 Stat. 149][/us/stat/97/149], provided that: 
+[Pub. L. 98–21, title V][/us/pl/98/21/tV], § 523(c), Apr. 20, 1983, [97 Stat. 149][/us/stat/97/149], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 503 of Title 42][/us/usc/t42/s503], The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Apr. 20, 1983\].”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–248, title I, § 193(b)][/us/pl/97/248/s193/b], Sept. 3, 1982, [96 Stat. 409][/us/stat/96/409], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 193(b), Sept. 3, 1982, [96 Stat. 409][/us/stat/96/409], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) The amendment made by subsection (a) \[amending this section\] shall apply to weeks of unemployment beginning after the date of the enactment of this Act \[Sept. 3, 1982\].
 
@@ -361,31 +361,31 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–364, title IV, § 414(b)][/us/pl/96/364/s414/b], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310], provided that: 
+[Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 414(b), Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to certifications of States for 1981 and subsequent years.”
 
  __Effective Date of 1977 Amendments__ 
 
-[Pub. L. 95–216, title IV, § 403(d)][/us/pl/95/216/s403/d], Dec. 20, 1977, [91 Stat. 1562][/us/stat/91/1562], provided that: 
+[Pub. L. 95–216, title IV][/us/pl/95/216/tIV], § 403(d), Dec. 20, 1977, [91 Stat. 1562][/us/stat/91/1562], provided that: 
 
 > “The amendments made by this section \[enacting [section 611 of Title 42][/us/usc/t42/s611], The Public Health and Welfare, and amending this section and [section 602 of Title 42][/us/usc/t42/s602]\] shall be effective on the date of the enactment of this Act \[Dec. 20, 1977\].”
 
-[Pub. L. 95–171, § 2(b)][/us/pl/95/171/s2/b], Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353], provided that: 
+[Pub. L. 95–171][/us/pl/95/171], § 2(b), Nov. 12, 1977, [91 Stat. 1353][/us/stat/91/1353], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to weeks of unemployment which begin after December 31, 1977.”
 
-[Pub. L. 95–19, title III, § 302(d)(1)][/us/pl/95/19/s302/d/1], Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
+[Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 302(d)(1), Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendment made by section 314 of the Unemployment Compensation Amendments of 1976.”
 
-[Pub. L. 95–19, title III, § 302(d)(3)][/us/pl/95/19/s302/d/3], Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
+[Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 302(d)(3), Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45], provided that: 
 
 > “The amendments made by subsection (c) \[amending this section\] shall take effect as if included in the amendments made by section 115(c) of the Unemployment Compensation Amendments of 1976.”
 
  __Effective Date of 1976 Amendments__ 
 
-[Pub. L. 94–566, title I, § 115(d)][/us/pl/94/566/s115/d], Oct. 20, 1976, [90 Stat. 2671][/us/stat/90/2671], as amended by [Pub. L. 95–19, title III, § 301(a)][/us/pl/95/19/s301/a], Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43], effective Oct. 20, 1976, provided that:
+[Pub. L. 94–566, title I][/us/pl/94/566/tI], § 115(d), Oct. 20, 1976, [90 Stat. 2671][/us/stat/90/2671], as amended by [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 301(a), Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43], effective Oct. 20, 1976, provided that:
 
 >     “(1)
 
@@ -397,7 +397,7 @@
 
 >     “(2) In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by subsection (c) \[amending this section and [section 3309 of this title][/us/usc/t26/s3309]\] shall only apply with respect to weeks of unemployment which begin after December 31, 1978 (or if earlier, the date provided by State law).”
 
-[Pub. L. 94–566, title I, § 116(f)][/us/pl/94/566/s116/f], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(f), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “Effective dates.—
 
@@ -413,23 +413,23 @@
 
 >     The amendments made by subsection (e) \[amending sections 8501, 8503, 8504, 8521, and 8522 of Title 5, Government Organization and Employees\] shall apply with respect to benefit years beginning on or after the later of October 1, 1976, or the first day of the first week for which compensation becomes payable under an unemployment compensation law of the Virgin Islands which is approved by the Secretary of Labor under section 3304(a) of the Internal Revenue Code of 1986.”
 
-[Pub. L. 94–566, title III, § 312(c)][/us/pl/94/566/s312/c], Oct. 20, 1976, [90 Stat. 2679][/us/stat/90/2679], as amended by [Pub. L. 95–19, title III, § 301(b)][/us/pl/95/19/s301/b], Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43], effective Oct. 20, 1976, provided that:
+[Pub. L. 94–566, title III][/us/pl/94/566/tIII], § 312(c), Oct. 20, 1976, [90 Stat. 2679][/us/stat/90/2679], as amended by [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 301(b), Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43], effective Oct. 20, 1976, provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply with respect to certifications of States for 1978 and subsequent years.
 
 >     “(2) In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by this section \[amending this section\] shall apply with respect to the certification of such State for 1979 and subsequent years.”
 
-[Pub. L. 94–566, title III, § 314(b)][/us/pl/94/566/s314/b], Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680], provided that: 
+[Pub. L. 94–566, title III][/us/pl/94/566/tIII], § 314(b), Oct. 20, 1976, [90 Stat. 2680][/us/stat/90/2680], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to certifications of States for 1978 and subsequent years, or for 1979 and subsequent years in the case of States the legislatures of which do not meet in a regular session which closes in the calendar year 1977.”
 
-[Pub. L. 94–566, title V, § 506(c)][/us/pl/94/566/s506/c], Oct. 20, 1976, [90 Stat. 2687][/us/stat/90/2687], as amended by [Pub. L. 95–19, title III, § 301(c)][/us/pl/95/19/s301/c], Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], effective Oct. 20, 1976, provided that:
+[Pub. L. 94–566, title V][/us/pl/94/566/tV], § 506(c), Oct. 20, 1976, [90 Stat. 2687][/us/stat/90/2687], as amended by [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 301(c), Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], effective Oct. 20, 1976, provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 3309 of this title][/us/usc/t26/s3309]\] shall apply with respect to certifications of States for 1978 and subsequent years, but only with respect to services performed after December 31, 1977.
 
 >     “(2) In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by this section \[amending this section and [section 3309 of this title][/us/usc/t26/s3309]\] shall apply with respect to the certification of such State for 1979 and subsequent years, but only with respect to services performed after December 31, 1978.”
 
-\[[Pub. L. 95–19, title III, § 301(d)][/us/pl/95/19/s301/d], Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], provided that: 
+\[[Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 301(d), Apr. 12, 1977, [91 Stat. 44][/us/stat/91/44], provided that: 
 
 > “The amendments made by this section \[amending this Effective Date of 1976 Amendment note in three places\] shall take effect on October 20, 1976.”
 
@@ -437,17 +437,17 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–373, title I, § 104(d)][/us/pl/91/373/s104/d], Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–373, title I][/us/pl/91/373/tI], § 104(d), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) Subject to the provisions of paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and enacting [section 3309 of this title][/us/usc/t26/s3309]\] shall apply with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after December 31, 1971. The amendment made by subsection (c) \[amending [section 3303 of this title][/us/usc/t26/s3303]\] shall take effect January 1, 1970.
 
 >     “(2) Section 3304(a)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a) of this section) shall not be a requirement for the State law of any State prior to July 1, 1972, if the legislature of such State does not meet in a regular session which closes during the calendar year 1971.”
 
-[Pub. L. 91–373, title I, § 108(b)][/us/pl/91/373/s108/b], Aug. 10, 1970, [84 Stat. 701][/us/stat/84/701], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 91–373, title I][/us/pl/91/373/tI], § 108(b), Aug. 10, 1970, [84 Stat. 701][/us/stat/84/701], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to certification of State laws for 1972 and subsequent years; except that section 3304(a)(12) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall not be a requirement for the State law of any State prior to July 1, 1972, if the legislature of such State does not meet in a regular session which closes during the calendar year 1971, or prior to January 1, 1975, if compliance with such requirement would necessitate a change in the constitution of such State.”
 
-[Pub. L. 91–373, title I, § 121(b)][/us/pl/91/373/s121/b], Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 91–373, title I][/us/pl/91/373/tI], § 121(b), Aug. 10, 1970, [84 Stat. 702][/us/stat/84/702], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1) Subject to the provisions of paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect January 1, 1972, and shall apply to the taxable year 1972 and taxable years thereafter.
 
@@ -457,7 +457,7 @@
 
  __Self-Employment Assistance Programs__ 
 
-[Pub. L. 112–96, title II][/us/pl/112/96], §§ 2182–2184, Feb. 22, 2012, [126 Stat. 182–184][/us/stat/126/182-184], provided that:
+[Pub. L. 112–96, title II][/us/pl/112/96/tII], §§ 2182–2184, Feb. 22, 2012, [126 Stat. 182–184][/us/stat/126/182-184], provided that:
 
 > “SEC. 2182. __GRANTS FOR SELF-EMPLOYMENT ASSISTANCE PROGRAMS.__ 
 
@@ -587,13 +587,13 @@
 
  __Treatment of Additional Regular Compensation__ 
 
-[Pub. L. 111–92, § 8][/us/pl/111/92/s8], Nov. 6, 2009, [123 Stat. 2988][/us/stat/123/2988], provided that: 
+[Pub. L. 111–92][/us/pl/111/92], § 8, Nov. 6, 2009, [123 Stat. 2988][/us/stat/123/2988], provided that: 
 
 > “The monthly equivalent of any additional compensation paid by reason of section 2002 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in [Public Law 111–5][/us/pl/111/5] ([26 U.S.C. 3304][/us/usc/t26/s3304] note; [123 Stat. 438][/us/stat/123/438] \[437\]) shall be disregarded after the date of the enactment of this Act \[Nov. 6, 2009\] in considering the amount of income and assets of an individual for purposes of determining such individual’s eligibility for, or amount of, benefits under the Supplemental Nutrition Assistance Program (SNAP).”
 
  __Increase in Unemployment Compensation Benefits__ 
 
-[Pub. L. 111–5, div. B, title II, § 2002][/us/pl/111/5/s2002], Feb. 17, 2009, [123 Stat. 437][/us/stat/123/437], as amended by [Pub. L. 111–118, div. B, § 1009(a)(2)][/us/pl/111/118/s1009/a/2], Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144, § 2(a)(2)][/us/pl/111/144/s2/a/2], Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157, § 2(a)(2)][/us/pl/111/157/s2/a/2], Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116], provided that:
+[Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2002, Feb. 17, 2009, [123 Stat. 437][/us/stat/123/437], as amended by [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1009(a)(2), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144][/us/pl/111/144], § 2(a)(2), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157][/us/pl/111/157], § 2(a)(2), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116], provided that:
 
 >     “(a)  __Federal-State Agreements__  __.—__ 
 
@@ -701,7 +701,7 @@
 
 >             “(B) unemployment compensation (as defined by section 85(b) of the Internal Revenue Code of 1986) provided under any program administered by a State under an agreement with the Secretary.”
 
-\[[Pub. L. 111–157, § 2(c)][/us/pl/111/157/s2/c], Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117], provided that: 
+\[[Pub. L. 111–157][/us/pl/111/157], § 2(c), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117], provided that: 
 
 > “The amendments made by this section \[amending [section 2002 of Pub. L. 111–5][/us/pl/111/5/s2002], set out above, and [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], [section 5 of Pub. L. 110–449][/us/pl/110/449/s5], and sections 4004 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out below\] shall take effect as if included in the enactment of the Temporary Extension Act of 2010 ([Public Law 111–144][/us/pl/111/144]).”
 
@@ -709,7 +709,7 @@
 
  __Full Federal Funding of Extended Unemployment Compensation for a Limited Period__ 
 
-[Pub. L. 111–5, div. B, title II, § 2005][/us/pl/111/5/s2005], Feb. 17, 2009, [123 Stat. 444][/us/stat/123/444], as amended by [Pub. L. 111–118, div. B, § 1009(a)(3)][/us/pl/111/118/s1009/a/3], Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144, § 2(a)(3)][/us/pl/111/144/s2/a/3], Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157, § 2(a)(3)][/us/pl/111/157/s2/a/3], Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205, § 2(a)(2)][/us/pl/111/205/s2/a/2], July 22, 2010, [124 Stat. 2236][/us/stat/124/2236]; [Pub. L. 111–312, title V, § 501(a)(2)][/us/pl/111/312/s501/a/2], Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II, § 201(a)(2)][/us/pl/112/78/s201/a/2], Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II, § 2123(a)][/us/pl/112/96/s2123/a], Feb. 22, 2012, [126 Stat. 166][/us/stat/126/166]; [Pub. L. 112–240, title V, § 502(a)][/us/pl/112/240/s502/a], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that:
+[Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2005, Feb. 17, 2009, [123 Stat. 444][/us/stat/123/444], as amended by [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1009(a)(3), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144][/us/pl/111/144], § 2(a)(3), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157][/us/pl/111/157], § 2(a)(3), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205][/us/pl/111/205], § 2(a)(2), July 22, 2010, [124 Stat. 2236][/us/stat/124/2236]; [Pub. L. 111–312, title V][/us/pl/111/312/tV], § 501(a)(2), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II][/us/pl/112/78/tII], § 201(a)(2), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2123(a), Feb. 22, 2012, [126 Stat. 166][/us/stat/126/166]; [Pub. L. 112–240, title V][/us/pl/112/240/tV], § 502(a), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -753,31 +753,31 @@
 
 >     The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section.”
 
-\[[Pub. L. 112–240, title V, § 502(d)][/us/pl/112/240/s502/d], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
+\[[Pub. L. 112–240, title V][/us/pl/112/240/tV], § 502(d), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
 
 > “The amendments made by this section \[amending [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], set out above, and [section 5 of Pub. L. 110–449][/us/pl/110/449/s5] and [section 203 of Pub. L. 91–373][/us/pl/91/373/s203], set out below\] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 (\[subtitle B of title II of\] [Public Law 112–96][/us/pl/112/96]).”
 
 \]
 
-\[[Pub. L. 112–96, title II, § 2123(d)][/us/pl/112/96/s2123/d], Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167], provided that: 
+\[[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2123(d), Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167], provided that: 
 
 > “The amendments made by this section \[amending [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], set out above, and [section 5 of Pub. L. 110–449][/us/pl/110/449/s5] and [section 203 of Pub. L. 91–373][/us/pl/91/373/s203], set out below\] shall take effect as if included in the enactment of the Temporary Payroll Tax Cut Continuation Act of 2011 ([Public Law 112–78][/us/pl/112/78]).”
 
 \]
 
-\[[Pub. L. 112–78, title II, § 201(c)][/us/pl/112/78/s201/c], Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], provided that: 
+\[[Pub. L. 112–78, title II][/us/pl/112/78/tII], § 201(c), Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], provided that: 
 
 > “The amendments made by this section \[amending [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], set out above, [section 5 of Pub. L. 110–449][/us/pl/110/449/s5], sections 4004 and 4007 of [Pub. L. 110–252][/us/pl/110/252], and [section 203 of Pub. L. 91–373][/us/pl/91/373/s203], set out below\] shall take effect as if included in the enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 ([Public Law 111–312][/us/pl/111/312]).”
 
 \]
 
-\[[Pub. L. 111–312, title V, § 501(c)][/us/pl/111/312/s501/c], Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307], provided that: 
+\[[Pub. L. 111–312, title V][/us/pl/111/312/tV], § 501(c), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307], provided that: 
 
 > “The amendments made by this section \[amending [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], set out above, and [section 5 of Pub. L. 110–449][/us/pl/110/449/s5] and sections 4004 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out below\] shall take effect as if included in the enactment of the Unemployment Compensation Extension Act of 2010 ([Public Law 111–205][/us/pl/111/205]).”
 
 \]
 
-\[[Pub. L. 111–205, § 2(d)][/us/pl/111/205/s2/d], July 22, 2010, [124 Stat. 2237][/us/stat/124/2237], provided that: 
+\[[Pub. L. 111–205][/us/pl/111/205], § 2(d), July 22, 2010, [124 Stat. 2237][/us/stat/124/2237], provided that: 
 
 > “The amendments made by this section \[amending [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005], set out above, and [section 5 of Pub. L. 110–449][/us/pl/110/449/s5] and sections 4001, 4004, and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out below\] shall take effect as if included in the enactment of the Continuing Extension Act of 2010 ([Public Law 111–157][/us/pl/111/157]).”
 
@@ -787,7 +787,7 @@
 
  __Temporary Federal Matching for the First Week of Extended Benefits for States With No Waiting Week__ 
 
-[Pub. L. 110–449, § 5][/us/pl/110/449/s5], Nov. 21, 2008, [122 Stat. 5015][/us/stat/122/5015]; as amended by [Pub. L. 111–5, div. B, title II, § 2005(d)(1)][/us/pl/111/5/s2005/d/1], Feb. 17, 2009, [123 Stat. 444][/us/stat/123/444]; [Pub. L. 111–118, div. B, § 1009(a)(4)][/us/pl/111/118/s1009/a/4], Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144, § 2(a)(4)][/us/pl/111/144/s2/a/4], Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157, § 2(a)(4)][/us/pl/111/157/s2/a/4], Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205, § 2(a)(3)][/us/pl/111/205/s2/a/3], July 22, 2010, [124 Stat. 2236][/us/stat/124/2236]; [Pub. L. 111–312, title V, § 501(a)(3)][/us/pl/111/312/s501/a/3], Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II, § 201(a)(3)][/us/pl/112/78/s201/a/3], Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II, § 2123(b)][/us/pl/112/96/s2123/b], Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167]; [Pub. L. 112–240, title V, § 502(b)][/us/pl/112/240/s502/b], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
+[Pub. L. 110–449][/us/pl/110/449], § 5, Nov. 21, 2008, [122 Stat. 5015][/us/stat/122/5015]; as amended by [Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2005(d)(1), Feb. 17, 2009, [123 Stat. 444][/us/stat/123/444]; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1009(a)(4), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144][/us/pl/111/144], § 2(a)(4), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157][/us/pl/111/157], § 2(a)(4), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205][/us/pl/111/205], § 2(a)(3), July 22, 2010, [124 Stat. 2236][/us/stat/124/2236]; [Pub. L. 111–312, title V][/us/pl/111/312/tV], § 501(a)(3), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II][/us/pl/112/78/tII], § 201(a)(3), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2123(b), Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167]; [Pub. L. 112–240, title V][/us/pl/112/240/tV], § 502(b), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
 
 > “With respect to weeks of unemployment beginning after the date of the enactment of this Act \[Nov. 21, 2008\] and ending on or before June 30, 2014, subparagraph (B) of section 204(a)(2) of the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note) shall not apply.”
 
@@ -805,7 +805,7 @@
 
  __Emergency Unemployment Compensation, 2008__ 
 
-[Pub. L. 110–252, title IV][/us/pl/110/252], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353], as amended by [Pub. L. 110–449][/us/pl/110/449], §§ 2–4, Nov. 21, 2008, [122 Stat. 5014][/us/stat/122/5014], 5015; [Pub. L. 111–5, div. B, title II, § 2001][/us/pl/111/5/s2001], Feb. 17, 2009, [123 Stat. 436][/us/stat/123/436]; [Pub. L. 111–92][/us/pl/111/92], §§ 2(a), 3(a), (b), 4(a), (b), 5, 6, Nov. 6, 2009, [123 Stat. 2984–2987][/us/stat/123/2984-2987]; [Pub. L. 111–118, div. B, § 1009(a)(1)][/us/pl/111/118/s1009/a/1], (b), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144, § 2(a)(1)][/us/pl/111/144/s2/a/1], (b), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157, § 2(a)(1)][/us/pl/111/157/s2/a/1], (b), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205][/us/pl/111/205], §§ 2(a)(1), (b), (c), 3(a), 4, July 22, 2010, [124 Stat. 2236–2238][/us/stat/124/2236-2238]; [Pub. L. 111–312, title V, § 501(a)(1)][/us/pl/111/312/s501/a/1], (b), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II, § 201(a)(1)][/us/pl/112/78/s201/a/1], (b), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282], 1283; [Pub. L. 112–96, title II][/us/pl/112/96], §§ 2122(a)–(e), 2141, 2142(a), (c), 2143, 2181(b), Feb. 22, 2012, [126 Stat. 163–166][/us/stat/126/163-166], 168–170, 180; [Pub. L. 112–240, title V][/us/pl/112/240], §§ 501(a), (b), 503(a), Jan. 2, 2013, [126 Stat. 2343][/us/stat/126/2343], 2344, provided that:
+[Pub. L. 110–252, title IV][/us/pl/110/252/tIV], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353], as amended by [Pub. L. 110–449][/us/pl/110/449], §§ 2–4, Nov. 21, 2008, [122 Stat. 5014][/us/stat/122/5014], 5015; [Pub. L. 111–5, div. B, title II][/us/pl/111/5/dB/tII], § 2001, Feb. 17, 2009, [123 Stat. 436][/us/stat/123/436]; [Pub. L. 111–92][/us/pl/111/92], §§ 2(a), 3(a), (b), 4(a), (b), 5, 6, Nov. 6, 2009, [123 Stat. 2984–2987][/us/stat/123/2984-2987]; [Pub. L. 111–118, div. B][/us/pl/111/118/dB], § 1009(a)(1), (b), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144][/us/pl/111/144], § 2(a)(1), (b), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157][/us/pl/111/157], § 2(a)(1), (b), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205][/us/pl/111/205], §§ 2(a)(1), (b), (c), 3(a), 4, July 22, 2010, [124 Stat. 2236–2238][/us/stat/124/2236-2238]; [Pub. L. 111–312, title V][/us/pl/111/312/tV], § 501(a)(1), (b), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II][/us/pl/112/78/tII], § 201(a)(1), (b), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282], 1283; [Pub. L. 112–96, title II][/us/pl/112/96/tII], §§ 2122(a)–(e), 2141, 2142(a), (c), 2143, 2181(b), Feb. 22, 2012, [126 Stat. 163–166][/us/stat/126/163-166], 168–170, 180; [Pub. L. 112–240, title V][/us/pl/112/240/tV], §§ 501(a), (b), 503(a), Jan. 2, 2013, [126 Stat. 2343][/us/stat/126/2343], 2344, provided that:
 
 >  __“__  __federal-state agreements__ 
 
@@ -1393,35 +1393,35 @@
 
 >     No compensation under this title shall be payable for any week subsequent to the last week described in subsection (a).”
 
-\[[Pub. L. 112–240, title V, § 501(c)][/us/pl/112/240/s501/c], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
+\[[Pub. L. 112–240, title V][/us/pl/112/240/tV], § 501(c), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
 
 > “The amendments made by this section \[amending sections 4004 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out above\] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 (\[subtitle B of title II of\] [Public Law 112–96][/us/pl/112/96])”
 
 .\]
 
-\[[Pub. L. 112–240, title V, § 503(b)][/us/pl/112/240/s503/b], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
+\[[Pub. L. 112–240, title V][/us/pl/112/240/tV], § 503(b), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
 
 > “The amendments made by this section \[amending [section 4004 of Pub. L. 110–252][/us/pl/110/252/s4004], set out above\] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 (\[subtitle B of title II of\] [Public Law 112–96][/us/pl/112/96]).”
 
 \]
 
-\[[Pub. L. 112–96, title II, § 2122(f)][/us/pl/112/96/s2122/f], Feb. 22, 2012, [126 Stat. 166][/us/stat/126/166], provided that:
+\[[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2122(f), Feb. 22, 2012, [126 Stat. 166][/us/stat/126/166], provided that:
 
     \[“(1) In general.—The amendments made by subsections (b), (c), and (d) \[amending sections 4001 and 4002 of [Pub. L. 110–252][/us/pl/110/252], set out above\] shall take effect as of February 28, 2012, and shall apply with respect to weeks of unemployment beginning after that date.
 
     \[“(2) Week defined.—For purposes of this subsection, the term ‘week’ has the meaning given such term under section 4006 of the Supplemental Appropriations Act, 2008 \[[Pub. L. 110–252][/us/pl/110/252], set out above\].”\]
 
-\[[Pub. L. 112–96, title II, § 2142(b)][/us/pl/112/96/s2142/b], Feb. 22, 2012, [126 Stat. 169][/us/stat/126/169], provided that: 
+\[[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2142(b), Feb. 22, 2012, [126 Stat. 169][/us/stat/126/169], provided that: 
 
 > “Not later than 30 days after the date of enactment of this Act \[Feb. 22, 2012\], the Secretary shall issue guidance on the implementation of the reemployment services and reemployment and eligibility assessment activities required to be provided under the amendment made by subsection (a) \[amending [section 4001 of Pub. L. 110–252][/us/pl/110/252/s4001], set out above\].”
 
 \]
 
-    \[[Pub. L. 112–96, § 2142(c)(2)(A)][/us/pl/112/96/s2142/c/2/A], which directed amendment of [section 4004(e)(1)(G) of Pub. L. 110–252][/us/pl/110/252/s4004/e/1/G], set out above, by striking out “and” at the end, could not be executed because of the prior identical amendment by [Pub. L. 112–96, § 2122(e)(1)][/us/pl/112/96/s2122/e/1].\]
+    \[[Pub. L. 112–96][/us/pl/112/96], § 2142(c)(2)(A), which directed amendment of [section 4004(e)(1)(G) of Pub. L. 110–252][/us/pl/110/252/s4004/e/1/G], set out above, by striking out “and” at the end, could not be executed because of the prior identical amendment by [Pub. L. 112–96][/us/pl/112/96], § 2122(e)(1).\]
 
-    \[[Pub. L. 112–96, § 2142(c)(2)(C)][/us/pl/112/96/s2142/c/2/C], which directed amendment of [section 4004(e) of Pub. L. 110–252][/us/pl/110/252/s4004/e], set out above, by adding par. (3) “at the end”, was executed by adding par. (3) after par. (2), to reflect the probable intent of Congress.\]
+    \[[Pub. L. 112–96][/us/pl/112/96], § 2142(c)(2)(C), which directed amendment of [section 4004(e) of Pub. L. 110–252][/us/pl/110/252/s4004/e], set out above, by adding par. (3) “at the end”, was executed by adding par. (3) after par. (2), to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 112–96, title II, § 2144][/us/pl/112/96/s2144], Feb. 22, 2012, [126 Stat. 171][/us/stat/126/171], provided that: 
+\[[Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2144, Feb. 22, 2012, [126 Stat. 171][/us/stat/126/171], provided that: 
 
 > “Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008 ([Public Law 110–252][/us/pl/110/252]; [26 U.S.C. 3304][/us/usc/t26/s3304] note) shall not apply with respect to a State that has enacted a law before March 1, 2012, that, upon taking effect, would violate such subsection.”
 
@@ -1433,7 +1433,7 @@
 
     \[Amendment by section 2(a)(1), (b), (c) of [Pub. L. 111–205][/us/pl/111/205] to sections 4001, 4004, and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out above, effective as if included in [Pub. L. 111–157][/us/pl/111/157], see [section 2(d) of Pub. L. 111–205][/us/pl/111/205/s2/d], set out following [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005] above.\]
 
-\[[Pub. L. 111–205, § 3(b)][/us/pl/111/205/s3/b], July 22, 2010, [124 Stat. 2238][/us/stat/124/2238], provided that: 
+\[[Pub. L. 111–205][/us/pl/111/205], § 3(b), July 22, 2010, [124 Stat. 2238][/us/stat/124/2238], provided that: 
 
 > “The amendment made by this section \[amending [section 4002 of Pub. L. 110–252][/us/pl/110/252/s4002], set out above\] shall apply to individuals whose benefit years, as described in section 4002(g)(1)(B) \[of\] the Supplemental Appropriations Act, 2008 ([Public Law 110–252][/us/pl/110/252]; [26 U.S.C. 3304][/us/usc/t26/s3304] note), as amended by this section, expire after the date of enactment of this Act \[July 22, 2010\].”
 
@@ -1441,25 +1441,25 @@
 
     \[Amendment by section 2(a)(1), (b) of [Pub. L. 111–157][/us/pl/111/157] to sections 4004 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out above, effective as if included in the enactment of [Pub. L. 111–144][/us/pl/111/144], see [section 2(c) of Pub. L. 111–157][/us/pl/111/157/s2/c], set out following [section 2002 of Pub. L. 111–5][/us/pl/111/5/s2002] above.\]
 
-\[[Pub. L. 111–92, § 2(b)][/us/pl/111/92/s2/b], Nov. 6, 2009, [123 Stat. 2984][/us/stat/123/2984], provided that: 
+\[[Pub. L. 111–92][/us/pl/111/92], § 2(b), Nov. 6, 2009, [123 Stat. 2984][/us/stat/123/2984], provided that: 
 
 > “The amendments made by this section \[amending [section 4002 of Pub. L. 110–252][/us/pl/110/252/s4002], set out above\] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 \[[Pub. L. 110–252][/us/pl/110/252]\], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Nov. 6, 2009\].”
 
 \]
 
-\[[Pub. L. 111–92, § 3(c)][/us/pl/111/92/s3/c], Nov. 6, 2009, [123 Stat. 2985][/us/stat/123/2985], provided that: 
+\[[Pub. L. 111–92][/us/pl/111/92], § 3(c), Nov. 6, 2009, [123 Stat. 2985][/us/stat/123/2985], provided that: 
 
 > “The amendments made by this section \[amending sections 4002 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out above\] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 \[[Pub. L. 110–252][/us/pl/110/252]\], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Nov. 6, 2009\].”
 
 \]
 
-\[[Pub. L. 111–92, § 4(c)][/us/pl/111/92/s4/c], Nov. 6, 2009, [123 Stat. 2986][/us/stat/123/2986], provided that: 
+\[[Pub. L. 111–92][/us/pl/111/92], § 4(c), Nov. 6, 2009, [123 Stat. 2986][/us/stat/123/2986], provided that: 
 
 > “The amendments made by this section \[amending sections 4002 and 4007 of [Pub. L. 110–252][/us/pl/110/252], set out above\] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 \[[Pub. L. 110–252][/us/pl/110/252]\], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Nov. 6, 2009\].”
 
 \]
 
-\[[Pub. L. 110–449, § 6][/us/pl/110/449/s6], Nov. 21, 2008, [122 Stat. 5015][/us/stat/122/5015], provided that:
+\[[Pub. L. 110–449][/us/pl/110/449], § 6, Nov. 21, 2008, [122 Stat. 5015][/us/stat/122/5015], provided that:
 
     \[“(a) In General.—The amendments made by sections 2, 3, and 4 \[amending title IV of [Pub. L. 110–252][/us/pl/110/252], set out as a note above\] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 \[[Pub. L. 110–252][/us/pl/110/252]\], subject to subsection (b).
 
@@ -1467,7 +1467,7 @@
 
  __Additional Temporary Extended Unemployment Compensation for Displaced Airline Related Workers__ 
 
-[Pub. L. 108–11, title IV, § 4002][/us/pl/108/11/s4002], Apr. 16, 2003, [117 Stat. 607][/us/stat/117/607], provided that:
+[Pub. L. 108–11, title IV][/us/pl/108/11/tIV], § 4002, Apr. 16, 2003, [117 Stat. 607][/us/stat/117/607], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -1567,7 +1567,7 @@
 
  __Temporary Extended Unemployment Compensation__ 
 
-[Pub. L. 107–147, title II][/us/pl/107/147], Mar. 9, 2002, [116 Stat. 26][/us/stat/116/26], as amended by [Pub. L. 108–1, § 1(a)][/us/pl/108/1/s1/a], Jan. 8, 2003, [117 Stat. 3][/us/stat/117/3]; [Pub. L. 108–26, § 2(a)][/us/pl/108/26/s2/a], May 28, 2003, [117 Stat. 751][/us/stat/117/751]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 107–147, title II][/us/pl/107/147/tII], Mar. 9, 2002, [116 Stat. 26][/us/stat/116/26], as amended by [Pub. L. 108–1][/us/pl/108/1], § 1(a), Jan. 8, 2003, [117 Stat. 3][/us/stat/117/3]; [Pub. L. 108–26][/us/pl/108/26], § 2(a), May 28, 2003, [117 Stat. 751][/us/stat/117/751]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
 > “SEC. 201. __SHORT TITLE.__ 
 
@@ -1791,13 +1791,13 @@
 
 >     The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section and the amendments made by this section.”
 
-\[[Pub. L. 108–26, § 2(b)][/us/pl/108/26/s2/b], May 28, 2003, [117 Stat. 751][/us/stat/117/751], provided that: 
+\[[Pub. L. 108–26][/us/pl/108/26], § 2(b), May 28, 2003, [117 Stat. 751][/us/stat/117/751], provided that: 
 
 > “The amendments made by this section \[amending [section 208 of Pub. L. 107–147][/us/pl/107/147/s208], set out above\] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 ([Public Law 107–147][/us/pl/107/147] \[title II\]; [116 Stat. 21][/us/stat/116/21] \[26\]).”
 
 \]
 
-\[[Pub. L. 108–1, § 1(b)][/us/pl/108/1/s1/b], Jan. 8, 2003, [117 Stat. 4][/us/stat/117/4], provided that: 
+\[[Pub. L. 108–1][/us/pl/108/1], § 1(b), Jan. 8, 2003, [117 Stat. 4][/us/stat/117/4], provided that: 
 
 > “The amendment made by this section \[amending [section 208 of Pub. L. 107–147][/us/pl/107/147/s208], set out above\] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 ([Public Law 107–147][/us/pl/107/147] \[title II\]; [116 Stat. 21][/us/stat/116/21] \[26\]).”
 
@@ -1805,11 +1805,11 @@
 
  __Profiling of New Claimants for Regular Unemployment Compensation__ 
 
-    [Pub. L. 103–6, § 4][/us/pl/103/6/s4], Mar. 4, 1993, [107 Stat. 34][/us/stat/107/34], directed Secretary of Labor to establish program for encouraging adoption and implementation by all States of system of profiling all new claimants for regular unemployment compensation to determine which claimants might be likely to exhaust regular unemployment compensation and might need reemployment assistance services, directed Secretary to provide technical assistance and advice to States in development of model profiling systems and procedures for such systems and to provide to each State, from funds available for this purpose, such funds as determined necessary, and directed Secretary to report to Congress on operation and effectiveness of profiling systems adopted by States along with continuation and legislative recommendations, prior to repeal by [Pub. L. 103–152, § 4(e)][/us/pl/103/152/s4/e], Nov. 24, 1993, [107 Stat. 1518][/us/stat/107/1518].
+    [Pub. L. 103–6][/us/pl/103/6], § 4, Mar. 4, 1993, [107 Stat. 34][/us/stat/107/34], directed Secretary of Labor to establish program for encouraging adoption and implementation by all States of system of profiling all new claimants for regular unemployment compensation to determine which claimants might be likely to exhaust regular unemployment compensation and might need reemployment assistance services, directed Secretary to provide technical assistance and advice to States in development of model profiling systems and procedures for such systems and to provide to each State, from funds available for this purpose, such funds as determined necessary, and directed Secretary to report to Congress on operation and effectiveness of profiling systems adopted by States along with continuation and legislative recommendations, prior to repeal by [Pub. L. 103–152][/us/pl/103/152], § 4(e), Nov. 24, 1993, [107 Stat. 1518][/us/stat/107/1518].
 
  __Treatment of Persian Gulf Crisis Reservists__ 
 
-[Pub. L. 102–318, title I, § 104][/us/pl/102/318/s104], July 3, 1992, [106 Stat. 293][/us/stat/106/293], provided that: 
+[Pub. L. 102–318, title I][/us/pl/102/318/tI], § 104, July 3, 1992, [106 Stat. 293][/us/stat/106/293], provided that: 
 
 > “If—
 
@@ -1825,11 +1825,11 @@
 
  __Study and Report by Federal Advisory Council on Suspension of Eligibility Requirements for Unemployment Benefits__ 
 
-    [Pub. L. 102–318, title II, § 202(b)(2)][/us/pl/102/318/s202/b/2], July 3, 1992, [106 Stat. 297][/us/stat/106/297], directed Federal Advisory Council established under [42 U.S.C. 1108][/us/usc/t42/s1108] to conduct a study of the provisions suspended by the amendment made by [section 202(b)(1) of Pub. L. 102–318][/us/pl/102/318/s202/b/1], enacting [section 202(a)(7) of Pub. L. 91–373][/us/pl/91/373/s202/a/7], set out below, and to submit, not later than Feb. 1, 1994, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate, a report of its recommendations on such suspended provisions.
+    [Pub. L. 102–318, title II][/us/pl/102/318/tII], § 202(b)(2), July 3, 1992, [106 Stat. 297][/us/stat/106/297], directed Federal Advisory Council established under [42 U.S.C. 1108][/us/usc/t42/s1108] to conduct a study of the provisions suspended by the amendment made by [section 202(b)(1) of Pub. L. 102–318][/us/pl/102/318/s202/b/1], enacting [section 202(a)(7) of Pub. L. 91–373][/us/pl/91/373/s202/a/7], set out below, and to submit, not later than Feb. 1, 1994, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate, a report of its recommendations on such suspended provisions.
 
  __Information Required With Respect to Taxation of Unemployment Benefits__ 
 
-[Pub. L. 102–318, title III, § 301][/us/pl/102/318/s301], July 3, 1992, [106 Stat. 297][/us/stat/106/297], provided that:
+[Pub. L. 102–318, title III][/us/pl/102/318/tIII], § 301, July 3, 1992, [106 Stat. 297][/us/stat/106/297], provided that:
 
 >     “(a) __Information on Unemployment Benefits.—__ 
 
@@ -1847,17 +1847,17 @@
 
  __Emergency Unemployment Compensation Act of 1991__ 
 
-    [Pub. L. 102–164, § 1][/us/pl/102/164/s1], titles I, II, Nov. 15, 1991, [105 Stat. 1049][/us/stat/105/1049], 1056, as amended by [Pub. L. 102–182, § 3(a)(1)][/us/pl/102/182/s3/a/1]–(6), Dec. 4, 1991, [105 Stat. 1234][/us/stat/105/1234]; [Pub. L. 102–244][/us/pl/102/244], §§ 1(a), (b), 2, Feb. 7, 1992, [106 Stat. 3][/us/stat/106/3], 4; [Pub. L. 102–318, title I][/us/pl/102/318], §§ 101(a)–(d), 102(a), 103(a), 107, July 3, 1992, [106 Stat. 290–293][/us/stat/106/290-293], 295; [Pub. L. 103–6, § 2(a)][/us/pl/103/6/s2/a]–(c), Mar. 4, 1993, [107 Stat. 33][/us/stat/107/33]; [Pub. L. 103–152][/us/pl/103/152], §§ 2(a)–(d), 3(a), Nov. 24, 1993, [107 Stat. 1516][/us/stat/107/1516], 1517, known as the “Emergency Unemployment Compensation Act of 1991”, established an emergency unemployment compensation program for individuals eligible during the period of Nov. 17, 1991, to Feb. 5, 1994, and directed the Secretary of Labor to carry out a job search assistance demonstration program with a final report to Congress on the effectiveness of the demonstration program due not later than 5 years after the commencement of the program.
+    [Pub. L. 102–164][/us/pl/102/164], § 1, titles I, II, Nov. 15, 1991, [105 Stat. 1049][/us/stat/105/1049], 1056, as amended by [Pub. L. 102–182][/us/pl/102/182], § 3(a)(1)–(6), Dec. 4, 1991, [105 Stat. 1234][/us/stat/105/1234]; [Pub. L. 102–244][/us/pl/102/244], §§ 1(a), (b), 2, Feb. 7, 1992, [106 Stat. 3][/us/stat/106/3], 4; [Pub. L. 102–318, title I][/us/pl/102/318/tI], §§ 101(a)–(d), 102(a), 103(a), 107, July 3, 1992, [106 Stat. 290–293][/us/stat/106/290-293], 295; [Pub. L. 103–6][/us/pl/103/6], § 2(a)–(c), Mar. 4, 1993, [107 Stat. 33][/us/stat/107/33]; [Pub. L. 103–152][/us/pl/103/152], §§ 2(a)–(d), 3(a), Nov. 24, 1993, [107 Stat. 1516][/us/stat/107/1516], 1517, known as the “Emergency Unemployment Compensation Act of 1991”, established an emergency unemployment compensation program for individuals eligible during the period of Nov. 17, 1991, to Feb. 5, 1994, and directed the Secretary of Labor to carry out a job search assistance demonstration program with a final report to Congress on the effectiveness of the demonstration program due not later than 5 years after the commencement of the program.
 
  __Determination of Amount of Federal Share With Respect to Certain Extended Benefits Payments__ 
 
-[Pub. L. 100–203, title IX, § 9151][/us/pl/100/203/s9151], Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9151, Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322], provided that: 
 
 > “For the purpose of determining the amount of the Federal payment to any State under section 204(a)(1) of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373], set out below\] with respect to the implementation of paragraph (3) of section 202(a) of such Act \[[section 202(a) of Pub. L. 91–373][/us/pl/91/373/s202/a], set out below\] (as added by section 1024(a) of the Omnibus Reconciliation Act of 1980 \[[Pub. L. 96–499][/us/pl/96/499]\]), such paragraph shall be considered to apply only with respect to weeks of unemployment beginning after October 31, 1981, except that for any State in which the State legislature did not meet in 1981, it shall be considered to apply for such purpose only with respect to weeks of unemployment beginning after October 31, 1982.”
 
  __Demonstration Program To Provide Self-Employment Allowances for Eligible Individuals__ 
 
-[Pub. L. 100–203, title IX, § 9152][/us/pl/100/203/s9152], Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322], as amended by [Pub. L. 100–647, title VIII, § 8301][/us/pl/100/647/s8301], Nov. 10, 1988, [102 Stat. 3798][/us/stat/102/3798], provided that:
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9152, Dec. 22, 1987, [101 Stat. 1330–322][/us/stat/101/1330-322], as amended by [Pub. L. 100–647, title VIII][/us/pl/100/647/tVIII], § 8301, Nov. 10, 1988, [102 Stat. 3798][/us/stat/102/3798], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2001,7 +2001,7 @@
 
  __Supplemental Unemployment Compensation for Certain Individuals__ 
 
-[Pub. L. 99–272, title XII, § 12402][/us/pl/99/272/s12402], Apr. 7, 1986, [100 Stat. 298][/us/stat/100/298], provided that:
+[Pub. L. 99–272, title XII][/us/pl/99/272/tXII], § 12402, Apr. 7, 1986, [100 Stat. 298][/us/stat/100/298], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2045,13 +2045,13 @@
 
  __Amortization Payments for States With Independent Retirement Plans From Funds for Increased Costs of Administration of Unemployment Compensation Laws; Changes in State Laws; Increased Claims; Salary Costs__ 
 
-[Pub. L. 99–88, title I, § 100][/us/pl/99/88/s100], Aug. 15, 1985, [99 Stat. 344][/us/stat/99/344], provided that: 
+[Pub. L. 99–88, title I][/us/pl/99/88/tI], § 100, Aug. 15, 1985, [99 Stat. 344][/us/stat/99/344], provided that: 
 
 > “Whenever funds are made available, now or hereafter, in this or any other Act for the administration of unemployment compensation laws to meet increased costs of administration resulting from changes in a State law or increases in the number of unemployment insurance claims filed and claims paid or increased salary costs resulting from changes in State salary compensation plans embracing employees of the State generally over those upon which the State’s basic allocation was based, which cannot be provided for by normal budgetary adjustment, amortization payments for States which had independent retirement plans prior to 1980 in their State Employment Security Agencies and States agencies administering the State’s unemployment compensation law may be paid from such funds.”
 
  __Arrangements To Prevent Payments of Unemployment Compensation to Retirees and Prisoners__ 
 
-[Pub. L. 98–135, title II, § 206][/us/pl/98/135/s206], Oct. 24, 1983, [97 Stat. 861][/us/stat/97/861], provided that:
+[Pub. L. 98–135, title II][/us/pl/98/135/tII], § 206, Oct. 24, 1983, [97 Stat. 861][/us/stat/97/861], provided that:
 
 >     “(a) The Secretary of Labor, the Director of the Office of Personnel Management, and the Attorney General are directed to enter into arrangements to make available to the States, computer or other data regarding current and retired Federal employees and Federal prisoners so that States may review the eligibility of these individuals for unemployment compensation, and take action where appropriate.
 
@@ -2059,7 +2059,7 @@
 
  __Short-Time Compensation__ 
 
-[Pub. L. 112–96, title II][/us/pl/112/96], §§ 2162–2165, Feb. 22, 2012, [126 Stat. 173–178][/us/stat/126/173-178], provided that:
+[Pub. L. 112–96, title II][/us/pl/112/96/tII], §§ 2162–2165, Feb. 22, 2012, [126 Stat. 173–178][/us/stat/126/173-178], provided that:
 
 > “SEC. 2162. __TEMPORARY FINANCING OF SHORT-TIME COMPENSATION PAYMENTS IN STATES WITH PROGRAMS IN LAW.__ 
 
@@ -2349,9 +2349,9 @@
 
 >     In developing the model legislative language and guidance under subsection (a), and in order to meet the requirements of subsection (b), the Secretary shall consult with employers, labor organizations, State workforce agencies, and other program experts.”
 
-    [Pub. L. 102–318, title IV, § 401(b)][/us/pl/102/318/s401/b]–(d), July 3, 1992, [106 Stat. 299][/us/stat/106/299], which related to assistance in implementing short-time compensation programs, was repealed by [Pub. L. 112–96, title II, § 2161(b)(3)][/us/pl/112/96/s2161/b/3], Feb. 22, 2012, [126 Stat. 172][/us/stat/126/172].
+    [Pub. L. 102–318, title IV][/us/pl/102/318/tIV], § 401(b)–(d), July 3, 1992, [106 Stat. 299][/us/stat/106/299], which related to assistance in implementing short-time compensation programs, was repealed by [Pub. L. 112–96, title II][/us/pl/112/96/tII], § 2161(b)(3), Feb. 22, 2012, [126 Stat. 172][/us/stat/126/172].
 
-[Pub. L. 97–248, title I, § 194][/us/pl/97/248/s194], Sept. 3, 1982, [96 Stat. 409][/us/stat/96/409], provided that:
+[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 194, Sept. 3, 1982, [96 Stat. 409][/us/stat/96/409], provided that:
 
 >     “(a) It is the purpose of this section to assist States which provide partial unemployment benefits to individuals whose workweeks are reduced pursuant to an employer plan under which such reductions are made in lieu of temporary layoffs.
 
@@ -2425,11 +2425,11 @@
 
  __Federal Supplemental Compensation Act of 1982__ 
 
-    [Pub. L. 97–248, title VI][/us/pl/97/248], subtitle A (§§ 601–606), Sept. 3, 1982, [96 Stat. 702][/us/stat/96/702], as amended by [Pub. L. 97–424, title V, § 544(a)][/us/pl/97/424/s544/a], (d), Jan. 6, 1983, [96 Stat. 2196][/us/stat/96/2196]; [Pub. L. 97–448, title III, § 310(a)][/us/pl/97/448/s310/a], Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411]; [Pub. L. 98–21, title V][/us/pl/98/21], §§ 501, 502, 504, 505, Apr. 20, 1983, [97 Stat. 141][/us/stat/97/141], 144; [Pub. L. 98–92, § 1(a)][/us/pl/98/92/s1/a], Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; [Pub. L. 98–118, § 1][/us/pl/98/118/s1], Oct. 11, 1983, [97 Stat. 803][/us/stat/97/803]; [Pub. L. 98–135, title I][/us/pl/98/135], §§ 101, 102, Oct. 24, 1983, [97 Stat. 857][/us/stat/97/857]; [Pub. L. 99–15, § 1(a)][/us/pl/99/15/s1/a], (b), Apr. 4, 1985, [99 Stat. 37][/us/stat/99/37], known as the “Federal Supplemental Compensation Act of 1982”, authorized States to enter into and participate in an agreement with the Secretary of Labor providing for States to make payments of Federal supplemental compensation for weeks beginning before Apr. 1, 1985, to eligible individuals who had exhausted their rights or had no right to regular compensation under State law.
+    [Pub. L. 97–248, title VI][/us/pl/97/248/tVI], subtitle A (§§ 601–606), Sept. 3, 1982, [96 Stat. 702][/us/stat/96/702], as amended by [Pub. L. 97–424, title V][/us/pl/97/424/tV], § 544(a), (d), Jan. 6, 1983, [96 Stat. 2196][/us/stat/96/2196]; [Pub. L. 97–448, title III][/us/pl/97/448/tIII], § 310(a), Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411]; [Pub. L. 98–21, title V][/us/pl/98/21/tV], §§ 501, 502, 504, 505, Apr. 20, 1983, [97 Stat. 141][/us/stat/97/141], 144; [Pub. L. 98–92][/us/pl/98/92], § 1(a), Sept. 2, 1983, [97 Stat. 608][/us/stat/97/608]; [Pub. L. 98–118][/us/pl/98/118], § 1, Oct. 11, 1983, [97 Stat. 803][/us/stat/97/803]; [Pub. L. 98–135, title I][/us/pl/98/135/tI], §§ 101, 102, Oct. 24, 1983, [97 Stat. 857][/us/stat/97/857]; [Pub. L. 99–15][/us/pl/99/15], § 1(a), (b), Apr. 4, 1985, [99 Stat. 37][/us/stat/99/37], known as the “Federal Supplemental Compensation Act of 1982”, authorized States to enter into and participate in an agreement with the Secretary of Labor providing for States to make payments of Federal supplemental compensation for weeks beginning before Apr. 1, 1985, to eligible individuals who had exhausted their rights or had no right to regular compensation under State law.
 
  __Modification of Agreements Under Federal Supplemental Compensation Act of 1982__ 
 
-[Pub. L. 99–15, § 1(c)][/us/pl/99/15/s1/c], Apr. 4, 1985, [99 Stat. 37][/us/stat/99/37], provided that: 
+[Pub. L. 99–15][/us/pl/99/15], § 1(c), Apr. 4, 1985, [99 Stat. 37][/us/stat/99/37], provided that: 
 
 > “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Apr. 4, 1985\], propose to each State with which he has in effect an agreement under section 602 of the Federal Supplemental Compensation Act of 1982 \[[section 602 of Pub. L. 97–248][/us/pl/97/248/s602], set out above\] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act \[subtitle A of title VI of [Pub. L. 97–248][/us/pl/97/248], set out above\] in accordance with the amendments made by this Act \[amending the Federal Supplemental Compensation Act of 1982\]. Notwithstanding any other provision of law, if any State fails or refuses within the three-week period beginning on the date the Secretary of Labor proposes such modification to such State, to enter into such modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the close of such three-week period. Pending modification (or termination) of the agreement, States may pay Federal supplemental compensation in accordance with the amendments made by this Act for weeks beginning after March 31, 1985, and shall be reimbursed in accordance with the provisions of the Federal Supplemental Compensation Act of 1982.”
 
@@ -2441,13 +2441,13 @@
 
  __Termination of Federal-State Supplemental Unemployment Compensation Agreements With States Failing To Renegotiate__ 
 
-[Pub. L. 97–424, title V, § 544(c)][/us/pl/97/424/s544/c], Jan. 6, 1983, [96 Stat. 2197][/us/stat/96/2197], provided that: 
+[Pub. L. 97–424, title V][/us/pl/97/424/tV], § 544(c), Jan. 6, 1983, [96 Stat. 2197][/us/stat/96/2197], provided that: 
 
 > “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Jan. 6, 1983\], propose to each State with which he has in effect an agreement under section 602 of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 602 of Pub. L. 97–248][/us/pl/97/248/s602], set out above\] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act \[sections 601 to 606 of [Pub. L. 97–248][/us/pl/97/248], set out above\] in accordance with the amendments made by this Act \[amending [section 602(e) of Pub. L. 97–248][/us/pl/97/248/s602/e], set out above\]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before such three-week period.”
 
  __Certification of State Unemployment Laws; Effective Dates__ 
 
-[Pub. L. 97–35, title XXIV, § 2408(b)][/us/pl/97/35/s2408/b], Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2408(b), Aug. 13, 1981, [95 Stat. 880][/us/stat/95/880], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(1)
 
@@ -2479,67 +2479,67 @@
 
 >             the date ‘1981’ in paragraph (1)(B) shall be deemed to be ‘1982’.”
 
-[Pub. L. 96–499, title X, § 1025][/us/pl/96/499/s1025], Dec. 5, 1980, [94 Stat. 2660][/us/stat/94/2660], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1025, Dec. 5, 1980, [94 Stat. 2660][/us/stat/94/2660], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “On October 31 of any taxable year after 1980, the Secretary of Labor shall not certify any State, as provided in section 3304(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the preceding provisions of this subtitle \[subtitle C of title X of [Pub. L. 96–499][/us/pl/96/499], Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656], which enacted [section 8509 of Title 5][/us/usc/t5/s8509], Government Organization and Employees, and [section 1109 of Title 42][/us/usc/t42/s1109], The Public Health and Welfare, enacted provisions set out as notes under this section and [section 8509 of Title 5][/us/usc/t5/s8509], and amended provisions set out as notes under this section\] to be included therein, or has with respect to the 12-month period ending on such October 31, failed to comply substantially with any such provision.”
 
  __Transfer of Funds to Federal Unemployment Trust Fund as Prerequisite to Approval of Virgin Islands Unemployment Compensation Law__ 
 
-[Pub. L. 94–566, title I, § 116(g)][/us/pl/94/566/s116/g], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
+[Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(g), Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that: 
 
 > “The Secretary of Labor shall not approve an unemployment compensation law of the Virgin Islands under section 3304(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] until the Governor of the Virgin Islands has approved the transfer to the Federal Unemployment Trust Fund established by section 904 of the Social Security Act \[[42 U.S.C. 1104][/us/usc/t42/s1104]\] of an amount equal to the dollar balance credited to the unemployment subfund of the Virgin Islands established under [section 310 of title 24][/us/usc/t24/s310] of the Virgin Islands Code.”
 
  __Federal Reimbursement for Benefits Paid to Newly Covered Workers During Transition Period__ 
 
-    [Pub. L. 94–566, title I, § 121][/us/pl/94/566/s121], Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided for payment of compensation for any week of unemployment beginning on or after Jan. 1, 1978, for services not covered by State unemployment compensation law during 1-year period ending Dec. 31, 1975, with the Secretary of Labor to pay to the unemployment fund of such State an amount equal to the Federal reimbursement.
+    [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 121, Oct. 20, 1976, [90 Stat. 2673][/us/stat/90/2673], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided for payment of compensation for any week of unemployment beginning on or after Jan. 1, 1978, for services not covered by State unemployment compensation law during 1-year period ending Dec. 31, 1975, with the Secretary of Labor to pay to the unemployment fund of such State an amount equal to the Federal reimbursement.
 
  __Emergency Unemployment Compensation Act of 1974__ 
 
-    [Pub. L. 93–572][/us/pl/93/572], §§ 101–105, Dec. 31, 1974, [88 Stat. 1869–1872][/us/stat/88/1869-1872], as amended by [Pub. L. 94–12, title VII, § 701(a)][/us/pl/94/12/s701/a], Mar. 29, 1975, [89 Stat. 65][/us/stat/89/65]; [Pub. L. 94–45, title I][/us/pl/94/45], §§ 101(a)–(f), 102(a), 103(a), 106, June 30, 1975, [89 Stat. 236–239][/us/stat/89/236-239]; [Pub. L. 94–566, title I, § 116(d)(3)][/us/pl/94/566/s116/d/3], Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672]; [Pub. L. 95–19, title I][/us/pl/95/19], §§ 101(a), 102(a)–(c), 103(a), 104(a), 105(a), 107(a), Apr. 12, 1977, [91 Stat. 39–42][/us/stat/91/39-42]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], known as the “Emergency Unemployment Compensation Act of 1974”, provided that, for weeks ending before Jan. 31, 1978, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
+    [Pub. L. 93–572][/us/pl/93/572], §§ 101–105, Dec. 31, 1974, [88 Stat. 1869–1872][/us/stat/88/1869-1872], as amended by [Pub. L. 94–12, title VII][/us/pl/94/12/tVII], § 701(a), Mar. 29, 1975, [89 Stat. 65][/us/stat/89/65]; [Pub. L. 94–45, title I][/us/pl/94/45/tI], §§ 101(a)–(f), 102(a), 103(a), 106, June 30, 1975, [89 Stat. 236–239][/us/stat/89/236-239]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(d)(3), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672]; [Pub. L. 95–19, title I][/us/pl/95/19/tI], §§ 101(a), 102(a)–(c), 103(a), 104(a), 105(a), 107(a), Apr. 12, 1977, [91 Stat. 39–42][/us/stat/91/39-42]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], known as the “Emergency Unemployment Compensation Act of 1974”, provided that, for weeks ending before Jan. 31, 1978, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
 
  __Modification of Agreements With States To Reflect Amendments Under Emergency Unemployment Compensation Extension Act of 1977__ 
 
-[Pub. L. 95–19, title I, § 106][/us/pl/95/19/s106], Apr. 12, 1977, [91 Stat. 42][/us/stat/91/42], provided that: 
+[Pub. L. 95–19, title I][/us/pl/95/19/tI], § 106, Apr. 12, 1977, [91 Stat. 42][/us/stat/91/42], provided that: 
 
 > “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Apr. 12, 1977\], propose to each State with which he has in effect an agreement under section 102 of the Emergency Compensation Act of 1974 \[[Pub. L. 93–572][/us/pl/93/572], set out above\] a modification of such agreement designed to provide for the payment of emergency compensation under such Act in accordance with the amendments made by this title \[enacting sections 102(h) and 105(b) of the Emergency Unemployment Compensation Act of 1974, amending sections 102(b)(2), (c)(3)(A)(ii), (e), (f)(2), 104(b), and 105(a) of that Act, and enacting provisions set out as notes under this section\]. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposes such a modification of such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such 3-week period.”
 
  __Modification of Agreements With States To Reflect Amendments Under Unemployment Compensation Amendments of 1976__ 
 
-[Pub. L. 94–566, title VI, § 604][/us/pl/94/566/s604], Oct. 20, 1976, [90 Stat. 2691][/us/stat/90/2691], provided that: 
+[Pub. L. 94–566, title VI][/us/pl/94/566/tVI], § 604, Oct. 20, 1976, [90 Stat. 2691][/us/stat/90/2691], provided that: 
 
-> “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Oct. 20, 1976\], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II, § 202][/us/pl/93/567/s202], set out below\] a modification of such agreement designed to provide for the payment of special unemployment assistance under such Act in accordance with the amendments made by sections 601, 602, and 603 of this title \[set out as a Special Unemployment Assistance Programs note below\]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such three-week period.”
+> “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[Oct. 20, 1976\], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567/tII], § 202, set out below\] a modification of such agreement designed to provide for the payment of special unemployment assistance under such Act in accordance with the amendments made by sections 601, 602, and 603 of this title \[set out as a Special Unemployment Assistance Programs note below\]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such three-week period.”
 
  __Agreements Under Emergency Unemployment Compensation Act of 1974 To Be Modified To Reflect Amendment of the Act by Emergency Compensation and Special Unemployment Assistance Extension Act of 1975__ 
 
-[Pub. L. 94–45, title I, § 105][/us/pl/94/45/s105], June 30, 1975, [89 Stat. 239][/us/stat/89/239], provided that: 
+[Pub. L. 94–45, title I][/us/pl/94/45/tI], § 105, June 30, 1975, [89 Stat. 239][/us/stat/89/239], provided that: 
 
 > “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[June 30, 1975\], propose to each State with which he has in effect an agreement under section 102 of the Emergency Unemployment Compensation Act of 1974 \[[Pub. L. 93–567][/us/pl/93/567], set out below\] a modification of such agreement designed to provide for the payment of the emergency compensation benefits allowable under such Act by reason of the amendments made by this part \[part A (§§ 101–106) of title I of [Pub. L. 94–45][/us/pl/94/45], enacting and amending provisions set out as notes under this section\]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
 
  __Agreements Under Emergency Unemployment Compensation Act of 1974 To Be Modified To Reflect Amendment of the Act by Tax Reduction Act of 1975__ 
 
-[Pub. L. 94–12, title VII, § 701(b)][/us/pl/94/12/s701/b], Mar. 29, 1975, [89 Stat. 66][/us/stat/89/66], provided that: 
+[Pub. L. 94–12, title VII][/us/pl/94/12/tVII], § 701(b), Mar. 29, 1975, [89 Stat. 66][/us/stat/89/66], provided that: 
 
 > “The Secretary of Labor shall, at the earliest practicable date after the enactment of this Act \[Mar. 29, 1975\], propose to each State with which he has in effect an agreement entered into pursuant to section 102 of the Emergency Unemployment Compensation Act of 1974 \[[Pub. L. 93–572][/us/pl/93/572], set out above\] a modification of such agreement designed to cause payments of emergency compensation thereunder to be made in the manner prescribed by such Act, as amended by subsection (a) of this section \[amending section 102(e) of the Emergency Unemployment Compensation Act of 1974\]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any such State shall fail or refuse, within a reasonable time after the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
 
  __National Commission on Unemployment Compensation__ 
 
-    [Pub. L. 94–566, title IV, § 411][/us/pl/94/566/s411], Oct. 20, 1976, [90 Stat. 2681][/us/stat/90/2681], as amended by [Pub. L. 95–19, title III, § 303][/us/pl/95/19/s303], Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45]; [Pub. L. 96–84][/us/pl/96/84], §§ 1(a), (b), 2, 3(a), Oct. 10, 1979, [93 Stat. 653][/us/stat/93/653], 654, related to establishment, membership, powers, duties, etc., of the National Commission on Unemployment Compensation, and required a final report not later than July 1, 1980, respecting findings, conclusions, and recommendations, with termination of the Commission on the ninetieth day after the date of submission of the final report to the President.
+    [Pub. L. 94–566, title IV][/us/pl/94/566/tIV], § 411, Oct. 20, 1976, [90 Stat. 2681][/us/stat/90/2681], as amended by [Pub. L. 95–19, title III][/us/pl/95/19/tIII], § 303, Apr. 12, 1977, [91 Stat. 45][/us/stat/91/45]; [Pub. L. 96–84][/us/pl/96/84], §§ 1(a), (b), 2, 3(a), Oct. 10, 1979, [93 Stat. 653][/us/stat/93/653], 654, related to establishment, membership, powers, duties, etc., of the National Commission on Unemployment Compensation, and required a final report not later than July 1, 1980, respecting findings, conclusions, and recommendations, with termination of the Commission on the ninetieth day after the date of submission of the final report to the President.
 
  __Special Unemployment Assistance Programs__ 
 
-    [Pub. L. 93–567, title II][/us/pl/93/567], §§ 201–224, Dec. 31, 1974, [88 Stat. 1850–1853][/us/stat/88/1850-1853], as amended by [Pub. L. 94–45, title II][/us/pl/94/45], §§ 201–203, June 30, 1975, [89 Stat. 240–242][/us/stat/89/240-242]; [Pub. L. 94–444, § 6(a)][/us/pl/94/444/s6/a], (b), Oct. 1, 1976, [90 Stat. 1481][/us/stat/90/1481]; [Pub. L. 94–566, title VI][/us/pl/94/566], §§ 601(a), 602(a)–(d), 603(a), Oct. 20, 1976, [90 Stat. 2689–2691][/us/stat/90/2689-2691]; [Pub. L. 96–499, title X, § 1021][/us/pl/96/499/s1021], Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(21), (f)(15)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422, 2681–431, established, with respect to weeks of unemployment ending before June 30, 1978, temporary Federal program of special unemployment assistance for workers who were unemployed during period of aggravated unemployment and who were not otherwise eligible for unemployment allowances under any other law, and provided for Federal reimbursement for unemployment benefits paid on basis of public service employment for services performed in weeks before Dec. 5, 1980.
+    [Pub. L. 93–567, title II][/us/pl/93/567/tII], §§ 201–224, Dec. 31, 1974, [88 Stat. 1850–1853][/us/stat/88/1850-1853], as amended by [Pub. L. 94–45, title II][/us/pl/94/45/tII], §§ 201–203, June 30, 1975, [89 Stat. 240–242][/us/stat/89/240-242]; [Pub. L. 94–444][/us/pl/94/444], § 6(a), (b), Oct. 1, 1976, [90 Stat. 1481][/us/stat/90/1481]; [Pub. L. 94–566, title VI][/us/pl/94/566/tVI], §§ 601(a), 602(a)–(d), 603(a), Oct. 20, 1976, [90 Stat. 2689–2691][/us/stat/90/2689-2691]; [Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1021, Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(21), (f)(15)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–422, 2681–431, established, with respect to weeks of unemployment ending before June 30, 1978, temporary Federal program of special unemployment assistance for workers who were unemployed during period of aggravated unemployment and who were not otherwise eligible for unemployment allowances under any other law, and provided for Federal reimbursement for unemployment benefits paid on basis of public service employment for services performed in weeks before Dec. 5, 1980.
 
  __Agreements Under Special Unemployment Assistance Program To Be Modified To Reflect Amendment of Program by Emergency Compensation and Special Unemployment Assistance Extension Act of 1975__ 
 
-[Pub. L. 94–45, title II, § 204(a)][/us/pl/94/45/s204/a], June 30, 1975, [89 Stat. 242][/us/stat/89/242], provided that: 
+[Pub. L. 94–45, title II][/us/pl/94/45/tII], § 204(a), June 30, 1975, [89 Stat. 242][/us/stat/89/242], provided that: 
 
-> “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[June 30, 1975\], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567], set out above\] a modification of such agreement designed to provide for the payment of the special unemployment assistance allowable under such Act by reason of the amendments made by section 201 \[amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974\]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act \[June 30, 1975\], to enter into such a modification of any such agreement, the Secretary of Labor shall terminate such agreement.”
+> “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act \[June 30, 1975\], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567/tII], set out above\] a modification of such agreement designed to provide for the payment of the special unemployment assistance allowable under such Act by reason of the amendments made by section 201 \[amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974\]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act \[June 30, 1975\], to enter into such a modification of any such agreement, the Secretary of Labor shall terminate such agreement.”
 
  __Special Unemployment Assistance Programs; Individuals Performing Services for Educational Institutions or Agencies__ 
 
-[Pub. L. 94–32, title I, § 101][/us/pl/94/32/s101], June 12, 1975, [89 Stat. 178][/us/stat/89/178], provided in part that: 
+[Pub. L. 94–32, title I][/us/pl/94/32/tI], § 101, June 12, 1975, [89 Stat. 178][/us/stat/89/178], provided in part that: 
 
-> “Funds appropriated by this Act \[Second Supplemental Appropriations Act, 1975\], or any other Act, for the payments of special unemployment assistance under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567], set out above\] shall not be used for making such payments of assistance or waiting period credit, beginning after the date of enactment of this Act \[June 12, 1975\], to any individual who performs services in an instructional, research, or principal administrative capacity for an educational institution or agency with respect to any week commencing during the period between two successive academic years (or, when the contract provides instead for a similar period between two regular but not successive terms, during such similar period) if—
+> “Funds appropriated by this Act \[Second Supplemental Appropriations Act, 1975\], or any other Act, for the payments of special unemployment assistance under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567/tII], set out above\] shall not be used for making such payments of assistance or waiting period credit, beginning after the date of enactment of this Act \[June 12, 1975\], to any individual who performs services in an instructional, research, or principal administrative capacity for an educational institution or agency with respect to any week commencing during the period between two successive academic years (or, when the contract provides instead for a similar period between two regular but not successive terms, during such similar period) if—
 
 >     “(1) such individual performed services in any such capacity for any educational institution or agency for the first of such academic years or terms; and
 
@@ -2547,11 +2547,11 @@
 
  __Emergency Unemployment Compensation Act of 1971__ 
 
-    [Pub. L. 92–224, title II][/us/pl/92/224], §§ 201–206, Dec. 29, 1971, [85 Stat. 811–814][/us/stat/85/811-814], as amended by [Pub. L. 92–329][/us/pl/92/329], §§ 1, 2(e), June 30, 1972, [86 Stat. 398][/us/stat/86/398]; [Pub. L. 93–368, § 4(a)][/us/pl/93/368/s4/a], Aug. 7, 1974, [88 Stat. 420][/us/stat/88/420]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], known as the “Emergency Unemployment Compensation Act of 1971”, provided that, for weeks ending before Mar. 31, 1973, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
+    [Pub. L. 92–224, title II][/us/pl/92/224/tII], §§ 201–206, Dec. 29, 1971, [85 Stat. 811–814][/us/stat/85/811-814], as amended by [Pub. L. 92–329][/us/pl/92/329], §§ 1, 2(e), June 30, 1972, [86 Stat. 398][/us/stat/86/398]; [Pub. L. 93–368][/us/pl/93/368], § 4(a), Aug. 7, 1974, [88 Stat. 420][/us/stat/88/420]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], known as the “Emergency Unemployment Compensation Act of 1971”, provided that, for weeks ending before Mar. 31, 1973, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
 
  __Federal-State Extended Unemployment Compensation Act of 1970__ 
 
-[Pub. L. 91–373, title II][/us/pl/91/373], Aug. 10, 1970, [84 Stat. 708][/us/stat/84/708], as amended by [Pub. L. 92–599, title V, § 501][/us/pl/92/599/s501], Oct. 27, 1972, [86 Stat. 1326][/us/stat/86/1326]; [Pub. L. 93–53, § 5][/us/pl/93/53/s5], July 1, 1973, [87 Stat. 137][/us/stat/87/137]; [Pub. L. 93–233, § 20][/us/pl/93/233/s20], Dec. 31, 1973, [87 Stat. 974][/us/stat/87/974]; [Pub. L. 93–256, § 2][/us/pl/93/256/s2], Mar. 28, 1974, [88 Stat. 53][/us/stat/88/53]; [Pub. L. 93–329, § 2][/us/pl/93/329/s2], June 30, 1974, [88 Stat. 288][/us/stat/88/288]; [Pub. L. 93–368, § 3][/us/pl/93/368/s3], Aug. 7, 1974, [88 Stat. 420][/us/stat/88/420]; [Pub. L. 93–572][/us/pl/93/572], §§ 106–108, Dec. 31, 1974, [88 Stat. 1872][/us/stat/88/1872]; [Pub. L. 94–45, title I, § 102(b)][/us/pl/94/45/s102/b], June 30, 1975, [89 Stat. 238][/us/stat/89/238]; [Pub. L. 94–566, title I, § 116(d)(1)][/us/pl/94/566/s116/d/1], (2), title II, § 212(a), title III, § 311(a), (b), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672], 2677, 2678; [Pub. L. 96–364, title IV, § 416(a)][/us/pl/96/364/s416/a], Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 96–499, title X][/us/pl/96/499], §§ 1022(a), 1024(a), Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656], 2658; [Pub. L. 97–35, title XXIV][/us/pl/97/35], §§ 2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, § 2505(b), Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874], 875, 876, 884; [Pub. L. 97–248, title I, § 191(a)][/us/pl/97/248/s191/a], Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407]; [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1081; [Pub. L. 98–21, title V, § 522(a)][/us/pl/98/21/s522/a], Apr. 20, 1983, [97 Stat. 148][/us/stat/97/148]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–318, title II][/us/pl/102/318], §§ 201, 202(a)(1), (b)(1), July 3, 1992, [106 Stat. 295][/us/stat/106/295], 296; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–312, title V, § 502][/us/pl/111/312/s502], Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II, § 201(a)(4)][/us/pl/112/78/s201/a/4], Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II][/us/pl/112/96], §§ 2123(c), 2181(a), Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167], 179; [Pub. L. 112–240, title V, § 502(c)][/us/pl/112/240/s502/c], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided:
+[Pub. L. 91–373, title II][/us/pl/91/373/tII], Aug. 10, 1970, [84 Stat. 708][/us/stat/84/708], as amended by [Pub. L. 92–599, title V][/us/pl/92/599/tV], § 501, Oct. 27, 1972, [86 Stat. 1326][/us/stat/86/1326]; [Pub. L. 93–53][/us/pl/93/53], § 5, July 1, 1973, [87 Stat. 137][/us/stat/87/137]; [Pub. L. 93–233][/us/pl/93/233], § 20, Dec. 31, 1973, [87 Stat. 974][/us/stat/87/974]; [Pub. L. 93–256][/us/pl/93/256], § 2, Mar. 28, 1974, [88 Stat. 53][/us/stat/88/53]; [Pub. L. 93–329][/us/pl/93/329], § 2, June 30, 1974, [88 Stat. 288][/us/stat/88/288]; [Pub. L. 93–368][/us/pl/93/368], § 3, Aug. 7, 1974, [88 Stat. 420][/us/stat/88/420]; [Pub. L. 93–572][/us/pl/93/572], §§ 106–108, Dec. 31, 1974, [88 Stat. 1872][/us/stat/88/1872]; [Pub. L. 94–45, title I][/us/pl/94/45/tI], § 102(b), June 30, 1975, [89 Stat. 238][/us/stat/89/238]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(d)(1), (2), title II, § 212(a), title III, § 311(a), (b), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672], 2677, 2678; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 416(a), Sept. 26, 1980, [94 Stat. 1310][/us/stat/94/1310]; [Pub. L. 96–499, title X][/us/pl/96/499/tX], §§ 1022(a), 1024(a), Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656], 2658; [Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], §§ 2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, § 2505(b), Aug. 13, 1981, [95 Stat. 874][/us/stat/95/874], 875, 876, 884; [Pub. L. 97–248, title I][/us/pl/97/248/tI], § 191(a), Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407]; [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1081; [Pub. L. 98–21, title V][/us/pl/98/21/tV], § 522(a), Apr. 20, 1983, [97 Stat. 148][/us/stat/97/148]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 102–318, title II][/us/pl/102/318/tII], §§ 201, 202(a)(1), (b)(1), July 3, 1992, [106 Stat. 295][/us/stat/106/295], 296; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–312, title V][/us/pl/111/312/tV], § 502, Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II][/us/pl/112/78/tII], § 201(a)(4), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282]; [Pub. L. 112–96, title II][/us/pl/112/96/tII], §§ 2123(c), 2181(a), Feb. 22, 2012, [126 Stat. 167][/us/stat/126/167], 179; [Pub. L. 112–240, title V][/us/pl/112/240/tV], § 502(c), Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided:
 
 > “Sec. 201. \[Short Title\] This title may be cited as the ‘Federal-State Extended Unemployment Compensation Act of 1970’.
 
@@ -2869,43 +2869,43 @@
 
     \[Amendment by [section 201(a)(4) of Pub. L. 112–78][/us/pl/112/78/s201/a/4] to [section 203 of Pub. L. 91–373][/us/pl/91/373/s203], set out above, effective as if included in the enactment of [Pub. L. 111–312][/us/pl/111/312], see [section 201(c) of Pub. L. 112–78][/us/pl/112/78/s201/c], set out following [section 2005 of Pub. L. 111–5][/us/pl/111/5/s2005] above.\]
 
-\[[Pub. L. 102–318, title II, § 202(a)(2)][/us/pl/102/318/s202/a/2], July 3, 1992, [106 Stat. 296][/us/stat/106/296], provided that:
+\[[Pub. L. 102–318, title II][/us/pl/102/318/tII], § 202(a)(2), July 3, 1992, [106 Stat. 296][/us/stat/106/296], provided that:
 
     \[“(A) In general.—Notwithstanding any other provision of law, the amendment made by paragraph (1) \[amending [section 202(a)(5) of Pub. L. 91–373][/us/pl/91/373/s202/a/5], set out above\] shall apply for purposes of extended unemployment compensation and emergency unemployment compensation to weeks of unemployment beginning on or after the date of the enactment of this Act \[July 3, 1992\].
 
     \[“(B) Waiver of recovery of certain overpayments.—On and after the date of the enactment of this Act, no repayment of any emergency unemployment compensation shall be required under section 105 of the Emergency Unemployment Compensation Act of 1991 ([Public Law 102–164][/us/pl/102/164], as amended \[formerly set out above\]) if the individual would have been entitled to receive such compensation had the amendment made by paragraph (1) applied to all weeks beginning before the date of the enactment of this Act.”\]
 
-\[[Pub. L. 98–21, title V, § 522(b)][/us/pl/98/21/s522/b], Apr. 20, 1983, [97 Stat. 148][/us/stat/97/148], provided that: 
+\[[Pub. L. 98–21, title V][/us/pl/98/21/tV], § 522(b), Apr. 20, 1983, [97 Stat. 148][/us/stat/97/148], provided that: 
 
 > “The amendment made by this section \[amending [section 202(a)(3)(A)(ii) of Pub. L. 91–373][/us/pl/91/373/s202/a/3/A/ii], set out above\] shall become effective on the date of the enactment of this Act \[Apr. 20, 1983\].”
 
 \]
 
-\[[Pub. L. 97–248, title I, § 191(b)][/us/pl/97/248/s191/b], Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407], provided that:
+\[[Pub. L. 97–248, title I][/us/pl/97/248/tI], § 191(b), Sept. 3, 1982, [96 Stat. 407][/us/stat/96/407], provided that:
 
     \[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending [section 204(a)(2) of Pub. L. 91–373][/us/pl/91/373/s204/a/2], set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after October 1, 1983.
 
     \[“(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to provide for rounding down of unemployment compensation amounts, the amendment made by this section \[amending [section 204(a)(2) of Pub. L. 91–373][/us/pl/91/373/s204/a/2], set out above\] shall apply in the case of compensation paid to individuals during eligibility periods which begin on or after October 1, 1983, and after the end of the first session of the State legislature which begins after the date of the enactment of this Act \[Sept. 3, 1982\], or which began prior to the date of the enactment of this Act and remained in session for at least twenty-five calendar days after such date of enactment. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”\]
 
-\[[Pub. L. 97–35, title XXIV, § 2401(c)][/us/pl/97/35/s2401/c], Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
+\[[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2401(c), Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
 
 > “The amendments made by this section \[amending sections 203 and 204(a)(3), (4) of [Pub. L. 91–373][/us/pl/91/373], set out above\] shall apply to weeks beginning after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 \]
 
-\[[Pub. L. 97–35, title XXIV, § 2402(b)][/us/pl/97/35/s2402/b], Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
+\[[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2402(b), Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
 
 > “The amendment made by subsection (a) \[amending [section 203(e)(1)(A) of Pub. L. 91–373][/us/pl/91/373/s203/e/1/A], set out above\] shall apply for purposes of determining whether there are State ‘on’ or ‘off’ indicators for weeks beginning after the date of the enactment of this Act \[Aug. 13, 1981\]. For purposes of making such determinations for such weeks, such amendment shall be deemed to be in effect for all weeks whether beginning before, on, or after such date of enactment.”
 
 \]
 
-\[[Pub. L. 97–35, title XXIV, § 2403(b)][/us/pl/97/35/s2403/b], Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
+\[[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2403(b), Aug. 13, 1981, [95 Stat. 875][/us/stat/95/875], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 203(d) of Pub. L. 91–373][/us/pl/91/373/s203/d], set out above\] shall apply to weeks beginning after September 25, 1982.”
 
 \]
 
-\[[Pub. L. 97–35, title XXIV, § 2404(c)][/us/pl/97/35/s2404/c], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876], provided that: 
+\[[Pub. L. 97–35, title XXIV][/us/pl/97/35/tXXIV], § 2404(c), Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876], provided that: 
 
 > “The amendments made by this section \[amending section 202(a)(5), (6) of [Pub. L. 91–373][/us/pl/91/373], set out above\] shall apply with respect to extended compensation and sharable regular compensation payable for weeks which begin after September 25, 1982.”
 
@@ -2915,19 +2915,19 @@
 
     \[Amendment by [section 2505(b) of Pub. L. 97–35][/us/pl/97/35/s2505/b] (amending [section 204(a)(2)(C) of Pub. L. 91–373][/us/pl/91/373/s204/a/2/C], set out above) applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, and transitional provisions applicable, see [section 2514 of Pub. L. 97–35][/us/pl/97/35/s2514], set out as an Effective Date of 1981 Amendment and Transitional Provisions note under [section 2291 of Title 19][/us/usc/t19/s2291], Customs Duties.\]
 
-\[[Pub. L. 96–499, title X, § 1022(b)][/us/pl/96/499/s1022/b], Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656], provided that:
+\[[Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1022(b), Dec. 5, 1980, [94 Stat. 2656][/us/stat/94/2656], provided that:
 
     \[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending [section 204(a)(2) of Pub. L. 91–373][/us/pl/91/373/s204/a/2], set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after the date of the enactment of this Act \[Dec. 5, 1980\].
 
     \[“(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to eliminate its current policy of paying regular compensation to an individual for his first week of otherwise compensable unemployment, the amendments made by this section \[amending [section 204(a)(2) of Pub. L. 91–373][/us/pl/91/373/s204/a/2], set out above\] shall apply in the case of compensation paid to individuals during eligibility periods beginning after the end of the first regularly scheduled session of the State legislature ending more than thirty days after the date of the enactment of this Act \[Dec. 5, 1980\].”\]
 
-\[[Pub. L. 96–499, title X, § 1024(b)][/us/pl/96/499/s1024/b], Dec. 5, 1980, [94 Stat. 2660][/us/stat/94/2660], provided that: 
+\[[Pub. L. 96–499, title X][/us/pl/96/499/tX], § 1024(b), Dec. 5, 1980, [94 Stat. 2660][/us/stat/94/2660], provided that: 
 
 > “The amendment made by this section \[amending [section 202(a) of Pub. L. 91–373][/us/pl/91/373/s202/a], set out above\] shall apply with respect to weeks of unemployment beginning after March 31, 1981.”
 
 \]
 
-\[[Pub. L. 96–364, title IV, § 416(b)][/us/pl/96/364/s416/b], Sept. 26, 1980, [94 Stat. 1311][/us/stat/94/1311], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+\[[Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 416(b), Sept. 26, 1980, [94 Stat. 1311][/us/stat/94/1311], as amended by [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
     \[“(1) In general.—The amendment made by subsection (a) \[amending subsec. 202(c) of [Pub. L. 91–373][/us/pl/91/373], set out above\] shall apply to weeks of unemployment beginning after October 1, 1980; except that such amendment shall not be a requirement of any State law under section 3304(a)(11) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for any week which begins before June 1, 1981.
 
@@ -2935,13 +2935,13 @@
 
     \[[Section 116(f)(1) of Pub. L. 94–566][/us/pl/94/566/s116/f/1], set out as an Effective Date of 1976 Amendment note above, provided in part that the deletion of “the Virgin Islands or” from [section 202(a)(1) of Pub. L. 91–373][/us/pl/91/373/s202/a/1], set out above, and the insertion of “and the Virgin Islands” in section 205(8) thereof shall take effect on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under [section 3304(a) of this title][/us/usc/t26/s3304/a] an unemployment compensation law submitted to him by the Virgin Islands for approval.\]
 
-\[[Pub. L. 94–566, title II, § 212(b)][/us/pl/94/566/s212/b], Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677], provided that: 
+\[[Pub. L. 94–566, title II][/us/pl/94/566/tII], § 212(b), Oct. 20, 1976, [90 Stat. 2677][/us/stat/90/2677], provided that: 
 
 > “The amendment made by this section \[enacting [section 204(a)(4) of Pub. L. 91–373][/us/pl/91/373/s204/a/4], set out above\] shall apply with respect to compensation paid for weeks of unemployment beginning on or after January 1, 1979.”
 
 \]
 
-\[[Pub. L. 94–566, title III, § 311(c)][/us/pl/94/566/s311/c], Oct. 20, 1976, [90 Stat. 2679][/us/stat/90/2679], provided that: 
+\[[Pub. L. 94–566, title III][/us/pl/94/566/tIII], § 311(c), Oct. 20, 1976, [90 Stat. 2679][/us/stat/90/2679], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending [section 203(d) of Pub. L. 91–373][/us/pl/91/373/s203/d], set out above\] shall apply to weeks beginning after December 31, 1976, and the amendments made by subsection (b) of this section \[amending [section 203(e) of Pub. L. 91–373][/us/pl/91/373/s203/e], set out above\] shall apply to weeks beginning after March 30, 1977.”
 
@@ -2949,9 +2949,9 @@
 
  __Study and Report by Secretary of Labor Covering Emergency Unemployment Compensation Program and Special Unemployment Assistance Program; Report On or Before__  __Jan. 1, 1977__ 
 
-[Pub. L. 94–45, title I, § 104][/us/pl/94/45/s104], June 30, 1975, [89 Stat. 238][/us/stat/89/238], provided that: 
+[Pub. L. 94–45, title I][/us/pl/94/45/tI], § 104, June 30, 1975, [89 Stat. 238][/us/stat/89/238], provided that: 
 
-> “The Secretary of Labor shall conduct a study and review of the program established by the Emergency Unemployment Compensation Act of 1974 \[[Pub. L. 93–572][/us/pl/93/572], set out above\] and the program established under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567], set out above\] and shall submit to the Congress not later than January 1, 1977, a report on such study and review. Such study and review shall include—
+> “The Secretary of Labor shall conduct a study and review of the program established by the Emergency Unemployment Compensation Act of 1974 \[[Pub. L. 93–572][/us/pl/93/572], set out above\] and the program established under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 \[[Pub. L. 93–567, title II][/us/pl/93/567/tII], set out above\] and shall submit to the Congress not later than January 1, 1977, a report on such study and review. Such study and review shall include—
 
 >     “(1) the employment, economic, and demographic characteristics of individuals receiving benefits under either such program,
 
@@ -2961,7 +2961,7 @@
 
  __Loans to Unemployment Fund of Virgin Islands__ 
 
-[Pub. L. 94–45, title III, § 301][/us/pl/94/45/s301], June 30, 1975, [89 Stat. 243][/us/stat/89/243], as amended by [Pub. L. 94–354][/us/pl/94/354], July 12, 1976, [90 Stat. 888][/us/stat/90/888]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+[Pub. L. 94–45, title III][/us/pl/94/45/tIII], § 301, June 30, 1975, [89 Stat. 243][/us/stat/89/243], as amended by [Pub. L. 94–354][/us/pl/94/354], July 12, 1976, [90 Stat. 888][/us/stat/90/888]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
 >     “(a)
 
@@ -2989,7 +2989,7 @@
 
  __Unemployment Compensation Law of Commonwealth of Puerto Rico__ 
 
-[Pub. L. 86–778, title V, § 543(b)][/us/pl/86/778/s543/b], Sept. 13, 1960, [74 Stat. 986][/us/stat/74/986], provided that: 
+[Pub. L. 86–778, title V][/us/pl/86/778/tV], § 543(b), Sept. 13, 1960, [74 Stat. 986][/us/stat/74/986], provided that: 
 
 > “The unemployment compensation law of the Commonwealth of Puerto Rico shall be considered as meeting the requirements of—
 
@@ -3013,129 +3013,129 @@
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F443
-[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F697
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1809
-[/us/pl/94/566/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F1
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2670
-[/us/pl/95/19/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fa
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F44
-[/us/pl/95/171/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs2%2Fa
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1353
-[/us/pl/95/216/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs403%2Fb
+[/us/pl/95/216/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIV
 [/us/stat/91/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1561
-[/us/pl/96/364/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs414%2Fa
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1310
-[/us/pl/97/35/s2408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2408%2Fa
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F880
-[/us/pl/97/248/s193/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs193%2Fa
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F408
-[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F147
-[/us/pl/99/272/s12401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12401%2Fb%2F1
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F297
-[/us/pl/99/514/s1899A/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1899A%2F43
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2960
-[/us/pl/101/649/s162/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs162%2Fe%2F4
+[/us/pl/101/649/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtI
 [/us/stat/104/5011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5011
-[/us/pl/102/164/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs302%2Fa
+[/us/pl/102/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtIII
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
-[/us/pl/102/318/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs401%2Fa%2F1
+[/us/pl/102/318/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtIV
 [/us/stat/106/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F298
-[/us/pl/103/182/s507/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs507%2Fb%2F1
+[/us/pl/103/182/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtV
 [/us/stat/107/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2154
-[/us/pl/103/465/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs702%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4997
-[/us/pl/104/193/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2173
-[/us/pl/105/33/s5514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fa%2F2
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
-[/us/pl/107/147/s209/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs209%2Fd%2F1
+[/us/pl/107/147/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtII
 [/us/stat/116/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F33
-[/us/pl/109/280/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1105%2Fa
+[/us/pl/109/280/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXI
 [/us/stat/120/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1060
-[/us/pl/110/328/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328%2Fs3%2Fc
+[/us/pl/110/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328
 [/us/stat/122/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3572
-[/us/pl/110/458/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs111%2Fb
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5113
-[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F161
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtII
 [/us/stat/84/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F708
 [/us/usc/t8/s1182/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fd%2F5
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
-[/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
-[/us/pl/112/96/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2103%2Fa
-[/us/pl/112/96/s2161/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2161%2Fb%2F1%2FA
-[/us/pl/110/458/s111/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs111%2Fb%2F2
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/110/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328
-[/us/pl/110/458/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs111%2Fb%2F1
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
-[/us/pl/104/193/s316/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FC
-[/us/pl/104/193/s316/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FA
-[/us/pl/104/193/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/193/s316/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FE
-[/us/pl/104/193/s316/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FB
-[/us/pl/104/193/s316/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FA
-[/us/pl/104/193/s316/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2%2FD
-[/us/pl/103/465/s702/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs702%2Fc%2F1
-[/us/pl/103/465/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs702%2Fb
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
-[/us/pl/102/164/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs302%2Fa%2F1
-[/us/pl/102/164/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs302%2Fa%2F2
-[/us/pl/102/164/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs302%2Fa%2F2
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/21/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs523%2Fa
-[/us/pl/98/21/s521/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs521%2Fa%2F2
-[/us/pl/98/21/s521/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs521%2Fa%2F1
-[/us/pl/98/21/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs515%2Fb
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
-[/us/pl/95/19/s302/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fc%2F1
-[/us/pl/95/19/s302/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fc%2F3
+[/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
+[/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
 [/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
-[/us/pl/95/19/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fa
-[/us/pl/95/19/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fe
+[/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
+[/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
 [/us/pl/95/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/stat/49/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F640
 [/us/stat/52/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1104
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
-[/us/pl/94/566/s115/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F1
-[/us/pl/94/566/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs506%2Fb
-[/us/pl/94/566/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs312%2Fa
-[/us/pl/94/566/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs314%2Fa
-[/us/pl/94/566/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs312%2Fb
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/pl/94/566/s115/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fc%2F5
+[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/91/373/s131/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs131%2Fb%2F2
-[/us/pl/91/373/s142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Ff
-[/us/pl/91/373/s142/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fg
-[/us/pl/91/373/s142/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fh
-[/us/pl/112/96/s2103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2103%2Fc
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F161
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/110/328/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328%2Fs3%2Fe
+[/us/pl/110/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F328
 [/us/stat/122/3573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3573
-[/us/pl/109/280/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1105%2Fb
+[/us/pl/109/280/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXI
 [/us/stat/120/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1060
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
@@ -3143,10 +3143,10 @@
 [/us/pl/104/193/s316/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs316%2Fg%2F2
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/103/465/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs702%2Fd
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/4997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4997
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
-[/us/pl/102/164/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs302%2Fb
+[/us/pl/102/164/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtIII
 [/us/stat/105/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1059
 [/us/pl/101/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649
 [/us/pl/101/649/s161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs161%2Fa
@@ -3154,76 +3154,76 @@
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s12401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12401%2Fc
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
-[/us/pl/98/21/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs521%2Fb
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F147
-[/us/pl/98/21/s523/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs523%2Fc
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F149
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
-[/us/pl/97/248/s193/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs193%2Fb
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F409
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/96/364/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs414%2Fb
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1310
-[/us/pl/95/216/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2Fs403%2Fd
+[/us/pl/95/216/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F216%2FtIV
 [/us/stat/91/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1562
 [/us/usc/t42/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs611
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
-[/us/pl/95/171/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171%2Fs2%2Fb
+[/us/pl/95/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F171
 [/us/stat/91/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1353
-[/us/pl/95/19/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fd%2F1
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F45
-[/us/pl/95/19/s302/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs302%2Fd%2F3
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F45
-[/us/pl/94/566/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs115%2Fd
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2671
-[/us/pl/95/19/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs301%2Fa
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F43
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
-[/us/pl/94/566/s116/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Ff
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/93/57/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F57%2Fs102
 [/us/usc/t29/s49d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49d
 [/us/usc/t42/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1301
 [/us/usc/t26/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3306
-[/us/pl/94/566/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs312%2Fc
+[/us/pl/94/566/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIII
 [/us/stat/90/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2679
-[/us/pl/95/19/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs301%2Fb
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F43
-[/us/pl/94/566/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs314%2Fb
+[/us/pl/94/566/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIII
 [/us/stat/90/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2680
-[/us/pl/94/566/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs506%2Fc
+[/us/pl/94/566/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtV
 [/us/stat/90/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2687
-[/us/pl/95/19/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs301%2Fc
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F44
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
-[/us/pl/95/19/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs301%2Fd
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F44
-[/us/pl/91/373/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fd
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F699
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t26/s3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3309
 [/us/usc/t26/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3303
-[/us/pl/91/373/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs108%2Fb
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F701
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/91/373/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs121%2Fb
+[/us/pl/91/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtI
 [/us/stat/84/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F702
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/91/373/s142/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fi
 [/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
-[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/182-184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F182-184
 [/us/usc/t26/s3306/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3306%2Ft
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
@@ -3235,18 +3235,18 @@
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/111/92/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs8
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2988
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/stat/123/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F438
-[/us/pl/111/5/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2002
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F437
-[/us/pl/111/118/s1009/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1009%2Fa%2F2
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3471
-[/us/pl/111/144/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs2%2Fa%2F2
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F42
-[/us/pl/111/157/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fa%2F2
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1116
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/stat/122/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2356
@@ -3256,30 +3256,30 @@
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/stat/122/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2353
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/111/157/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fc
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1117
 [/us/pl/111/5/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2002
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
-[/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F444
-[/us/pl/111/118/s1009/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1009%2Fa%2F3
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3471
-[/us/pl/111/144/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs2%2Fa%2F3
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F42
-[/us/pl/111/157/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fa%2F3
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1116
-[/us/pl/111/205/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205%2Fs2%2Fa%2F2
+[/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
 [/us/stat/124/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2236
-[/us/pl/111/312/s501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs501%2Fa%2F2
+[/us/pl/111/312/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtV
 [/us/stat/124/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3307
-[/us/pl/112/78/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fa%2F2
+[/us/pl/112/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtII
 [/us/stat/125/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1282
-[/us/pl/112/96/s2123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2123%2Fa
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F166
-[/us/pl/112/240/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs502%2Fa
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
@@ -3290,32 +3290,32 @@
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/112/240/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs502%2Fd
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
 [/us/pl/91/373/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/112/96/s2123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2123%2Fd
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F167
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
 [/us/pl/91/373/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203
 [/us/pl/112/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78
-[/us/pl/112/78/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fc
+[/us/pl/112/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtII
 [/us/stat/125/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1283
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/91/373/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
-[/us/pl/111/312/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs501%2Fc
+[/us/pl/111/312/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtV
 [/us/stat/124/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3307
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
-[/us/pl/111/205/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205%2Fs2%2Fd
+[/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
 [/us/stat/124/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2237
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
 [/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
@@ -3326,25 +3326,25 @@
 [/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/pl/111/157/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fc
 [/us/pl/111/5/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2002
-[/us/pl/110/449/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs5
+[/us/pl/110/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449
 [/us/stat/122/5015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5015
-[/us/pl/111/5/s2005/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005%2Fd%2F1
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F444
-[/us/pl/111/118/s1009/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1009%2Fa%2F4
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3471
-[/us/pl/111/144/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs2%2Fa%2F4
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F42
-[/us/pl/111/157/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fa%2F4
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1116
-[/us/pl/111/205/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205%2Fs2%2Fa%2F3
+[/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
 [/us/stat/124/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2236
-[/us/pl/111/312/s501/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs501%2Fa%2F3
+[/us/pl/111/312/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtV
 [/us/stat/124/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3307
-[/us/pl/112/78/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fa%2F3
+[/us/pl/112/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtII
 [/us/stat/125/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1282
-[/us/pl/112/96/s2123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2123%2Fb
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F167
-[/us/pl/112/240/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs502%2Fb
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
@@ -3378,29 +3378,29 @@
 [/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/pl/111/157/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fc
 [/us/pl/111/5/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2002
-[/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
+[/us/pl/110/252/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2FtIV
 [/us/stat/122/2353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2353
 [/us/pl/110/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449
 [/us/stat/122/5014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5014
-[/us/pl/111/5/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2001
+[/us/pl/111/5/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtII
 [/us/stat/123/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F436
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2984-2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2984-2987
-[/us/pl/111/118/s1009/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2Fs1009%2Fa%2F1
+[/us/pl/111/118/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F118%2FdB
 [/us/stat/123/3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3471
-[/us/pl/111/144/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs2%2Fa%2F1
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F42
-[/us/pl/111/157/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fa%2F1
+[/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/stat/124/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1116
 [/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
 [/us/stat/124/2236-2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2236-2238
-[/us/pl/111/312/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs501%2Fa%2F1
+[/us/pl/111/312/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtV
 [/us/stat/124/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3307
-[/us/pl/112/78/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fa%2F1
+[/us/pl/112/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtII
 [/us/stat/125/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1282
-[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/163-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F163-166
-[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2343
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
@@ -3442,27 +3442,27 @@
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/112/240/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs501%2Fc
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/112/240/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs503%2Fb
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/pl/110/252/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4004
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/112/96/s2122/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2122%2Ff
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F166
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/112/96/s2142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2142%2Fb
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F169
 [/us/pl/110/252/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4001
-[/us/pl/112/96/s2142/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2142%2Fc%2F2%2FA
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/110/252/s4004/e/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4004%2Fe%2F1%2FG
-[/us/pl/112/96/s2122/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2122%2Fe%2F1
-[/us/pl/112/96/s2142/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2142%2Fc%2F2%2FC
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/110/252/s4004/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4004%2Fe
-[/us/pl/112/96/s2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2144
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F171
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
@@ -3481,7 +3481,7 @@
 [/us/pl/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157
 [/us/pl/111/205/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205%2Fs2%2Fd
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
-[/us/pl/111/205/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205%2Fs3%2Fb
+[/us/pl/111/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F205
 [/us/stat/124/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2238
 [/us/pl/110/252/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4002
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
@@ -3491,23 +3491,23 @@
 [/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/pl/111/157/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs2%2Fc
 [/us/pl/111/5/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2002
-[/us/pl/111/92/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs2%2Fb
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2984
 [/us/pl/110/252/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252%2Fs4002
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/111/92/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs3%2Fc
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2985
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/111/92/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs4%2Fc
+[/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
 [/us/stat/123/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2986
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/110/449/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449%2Fs6
+[/us/pl/110/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F449
 [/us/stat/122/5015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5015
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
 [/us/pl/110/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F252
-[/us/pl/108/11/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2Fs4002
+[/us/pl/108/11/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtIV
 [/us/stat/117/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F607
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/stat/116/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F21
@@ -3526,13 +3526,13 @@
 [/us/stat/117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F3
 [/us/pl/108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F1
 [/us/stat/117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F3
-[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtII
 [/us/stat/116/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F26
-[/us/pl/108/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F1%2Fs1%2Fa
+[/us/pl/108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F1
 [/us/stat/117/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F3
-[/us/pl/108/26/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F26%2Fs2%2Fa
+[/us/pl/108/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F26
 [/us/stat/117/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F751
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
@@ -3550,50 +3550,50 @@
 [/us/usc/t42/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1103
 [/us/usc/t42/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1103%2Fb
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
-[/us/pl/108/26/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F26%2Fs2%2Fb
+[/us/pl/108/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F26
 [/us/stat/117/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F751
 [/us/pl/107/147/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs208
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/stat/116/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F21
-[/us/pl/108/1/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F1%2Fs1%2Fb
+[/us/pl/108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F1
 [/us/stat/117/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F4
 [/us/pl/107/147/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs208
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/stat/116/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F21
-[/us/pl/103/6/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6%2Fs4
+[/us/pl/103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6
 [/us/stat/107/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F34
-[/us/pl/103/152/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152%2Fs4%2Fe
+[/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1518
-[/us/pl/102/318/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs104
+[/us/pl/102/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtI
 [/us/stat/106/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F293
 [/us/pl/102/164/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs101%2Fd
-[/us/pl/102/318/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs202%2Fb%2F2
+[/us/pl/102/318/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtII
 [/us/stat/106/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F297
 [/us/usc/t42/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1108
 [/us/pl/102/318/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs202%2Fb%2F1
 [/us/pl/91/373/s202/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa%2F7
-[/us/pl/102/318/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs301
+[/us/pl/102/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtIII
 [/us/stat/106/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F297
-[/us/pl/102/164/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs1
+[/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
 [/us/stat/105/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1049
-[/us/pl/102/182/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182%2Fs3%2Fa%2F1
+[/us/pl/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F182
 [/us/stat/105/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1234
 [/us/pl/102/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F244
 [/us/stat/106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3
-[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtI
 [/us/stat/106/290-293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F290-293
-[/us/pl/103/6/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6%2Fs2%2Fa
+[/us/pl/103/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F6
 [/us/stat/107/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F33
 [/us/pl/103/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F152
 [/us/stat/107/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1516
-[/us/pl/100/203/s9151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9151
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-322
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/91/373/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
-[/us/pl/100/203/s9152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9152
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-322
-[/us/pl/100/647/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs8301
+[/us/pl/100/647/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtVIII
 [/us/stat/102/3798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3798
 [/us/usc/t42/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104%2Fa
 [/us/usc/t42/s503/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503%2Fa%2F5
@@ -3601,7 +3601,7 @@
 [/us/usc/t42/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs501
 [/us/usc/t18/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1001
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/99/272/s12402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12402
+[/us/pl/99/272/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXII
 [/us/stat/100/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F298
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s602/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs602%2Ff%2F2%2FB
@@ -3609,11 +3609,11 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/97/248/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs602
 [/us/pl/97/248/s604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs604%2Fa
-[/us/pl/99/88/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2Fs100
+[/us/pl/99/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F88%2FtI
 [/us/stat/99/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F344
-[/us/pl/98/135/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F135%2Fs206
+[/us/pl/98/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F135%2FtII
 [/us/stat/97/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F861
-[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/173-178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F173-178
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t26/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3306
@@ -3628,30 +3628,30 @@
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/102/318/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs401%2Fb
+[/us/pl/102/318/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtIV
 [/us/stat/106/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F299
-[/us/pl/112/96/s2161/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs2161%2Fb%2F3
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F172
-[/us/pl/97/248/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs194
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F409
 [/us/usc/t29/s1002/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F35
-[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/97/248/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtVI
 [/us/stat/96/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F702
-[/us/pl/97/424/s544/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs544%2Fa
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2196
-[/us/pl/97/448/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs310%2Fa
+[/us/pl/97/448/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2FtIII
 [/us/stat/96/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2411
-[/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F141
-[/us/pl/98/92/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92%2Fs1%2Fa
+[/us/pl/98/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F92
 [/us/stat/97/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F608
-[/us/pl/98/118/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118%2Fs1
+[/us/pl/98/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F118
 [/us/stat/97/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F803
-[/us/pl/98/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F135
+[/us/pl/98/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F135%2FtI
 [/us/stat/97/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F857
-[/us/pl/99/15/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F15%2Fs1%2Fa
+[/us/pl/99/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F15
 [/us/stat/99/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F37
-[/us/pl/99/15/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F15%2Fs1%2Fc
+[/us/pl/99/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F15
 [/us/stat/99/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F37
 [/us/pl/97/248/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs602
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
@@ -3661,140 +3661,140 @@
 [/us/pl/98/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21
 [/us/stat/97/141-144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F141-144
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
-[/us/pl/97/424/s544/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs544%2Fc
+[/us/pl/97/424/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtV
 [/us/stat/96/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2197
 [/us/pl/97/248/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs602
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248/s602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs602%2Fe
-[/us/pl/97/35/s2408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2408%2Fb
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F880
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/96/499/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1025
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2660
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
 [/us/stat/94/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2656
 [/us/usc/t5/s8509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8509
 [/us/usc/t42/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1109
 [/us/usc/t5/s8509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8509
-[/us/pl/94/566/s116/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fg
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t42/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1104
 [/us/usc/t24/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs310
-[/us/pl/94/566/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs121
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2673
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/93/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F572
 [/us/stat/88/1869-1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1869-1872
-[/us/pl/94/12/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs701%2Fa
+[/us/pl/94/12/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVII
 [/us/stat/89/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F65
-[/us/pl/94/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45
+[/us/pl/94/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtI
 [/us/stat/89/236-239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F236-239
-[/us/pl/94/566/s116/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fd%2F3
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2672
-[/us/pl/95/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19
+[/us/pl/95/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtI
 [/us/stat/91/39-42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F39-42
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/95/19/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs106
+[/us/pl/95/19/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtI
 [/us/stat/91/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F42
 [/us/pl/93/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F572
-[/us/pl/94/566/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs604
+[/us/pl/94/566/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtVI
 [/us/stat/90/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2691
-[/us/pl/93/567/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2Fs202
-[/us/pl/94/45/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs105
+[/us/pl/93/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2FtII
+[/us/pl/94/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtI
 [/us/stat/89/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F239
 [/us/pl/93/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567
 [/us/pl/94/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45
-[/us/pl/94/12/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs701%2Fb
+[/us/pl/94/12/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2FtVII
 [/us/stat/89/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F66
 [/us/pl/93/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F572
-[/us/pl/94/566/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs411
+[/us/pl/94/566/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIV
 [/us/stat/90/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2681
-[/us/pl/95/19/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2Fs303
+[/us/pl/95/19/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F19%2FtIII
 [/us/stat/91/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F45
 [/us/pl/96/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F84
 [/us/stat/93/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F653
-[/us/pl/93/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567
+[/us/pl/93/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2FtII
 [/us/stat/88/1850-1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1850-1853
-[/us/pl/94/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45
+[/us/pl/94/45/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtII
 [/us/stat/89/240-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F240-242
-[/us/pl/94/444/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F444%2Fs6%2Fa
+[/us/pl/94/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F444
 [/us/stat/90/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1481
-[/us/pl/94/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566
+[/us/pl/94/566/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtVI
 [/us/stat/90/2689-2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2689-2691
-[/us/pl/96/499/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1021
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2656
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/94/45/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs204%2Fa
+[/us/pl/94/45/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtII
 [/us/stat/89/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F242
-[/us/pl/93/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567
-[/us/pl/94/32/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2Fs101
+[/us/pl/93/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2FtII
+[/us/pl/94/32/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F32%2FtI
 [/us/stat/89/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F178
-[/us/pl/93/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567
-[/us/pl/92/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F224
+[/us/pl/93/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2FtII
+[/us/pl/92/224/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F224%2FtII
 [/us/stat/85/811-814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F811-814
 [/us/pl/92/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F329
 [/us/stat/86/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F398
-[/us/pl/93/368/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368%2Fs4%2Fa
+[/us/pl/93/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368
 [/us/stat/88/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F420
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
+[/us/pl/91/373/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtII
 [/us/stat/84/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F708
-[/us/pl/92/599/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F599%2Fs501
+[/us/pl/92/599/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F599%2FtV
 [/us/stat/86/1326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1326
-[/us/pl/93/53/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53%2Fs5
+[/us/pl/93/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F53
 [/us/stat/87/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F137
-[/us/pl/93/233/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233%2Fs20
+[/us/pl/93/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F233
 [/us/stat/87/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F974
-[/us/pl/93/256/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F256%2Fs2
+[/us/pl/93/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F256
 [/us/stat/88/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F53
-[/us/pl/93/329/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F329%2Fs2
+[/us/pl/93/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F329
 [/us/stat/88/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F288
-[/us/pl/93/368/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368%2Fs3
+[/us/pl/93/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F368
 [/us/stat/88/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F420
 [/us/pl/93/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F572
 [/us/stat/88/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1872
-[/us/pl/94/45/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs102%2Fb
+[/us/pl/94/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtI
 [/us/stat/89/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F238
-[/us/pl/94/566/s116/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fd%2F1
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2672
-[/us/pl/96/364/s416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs416%2Fa
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1310
-[/us/pl/96/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2656
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F874
-[/us/pl/97/248/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs191%2Fa
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F407
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/pl/98/21/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs522%2Fa
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F148
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/102/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318
+[/us/pl/102/318/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtII
 [/us/stat/106/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F295
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/111/312/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs502
+[/us/pl/111/312/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2FtV
 [/us/stat/124/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3307
-[/us/pl/112/78/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fa%2F4
+[/us/pl/112/78/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2FtII
 [/us/stat/125/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1282
-[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtII
 [/us/stat/126/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F167
-[/us/pl/112/240/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs502%2Fc
+[/us/pl/112/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2FtV
 [/us/stat/126/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2344
 [/us/usc/t26/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3311
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
@@ -3818,27 +3818,27 @@
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/112/78/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F78%2Fs201%2Fc
 [/us/pl/111/5/s2005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs2005
-[/us/pl/102/318/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs202%2Fa%2F2
+[/us/pl/102/318/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2FtII
 [/us/stat/106/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F296
 [/us/pl/91/373/s202/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa%2F5
 [/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
-[/us/pl/98/21/s522/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs522%2Fb
+[/us/pl/98/21/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2FtV
 [/us/stat/97/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F148
 [/us/pl/91/373/s202/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa%2F3%2FA%2Fii
-[/us/pl/97/248/s191/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs191%2Fb
+[/us/pl/97/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtI
 [/us/stat/96/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F407
 [/us/pl/91/373/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F2
 [/us/pl/91/373/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F2
-[/us/pl/97/35/s2401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2401%2Fc
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F875
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
-[/us/pl/97/35/s2402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2402%2Fb
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F875
 [/us/pl/91/373/s203/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203%2Fe%2F1%2FA
-[/us/pl/97/35/s2403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2403%2Fb
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F875
 [/us/pl/91/373/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203%2Fd
-[/us/pl/97/35/s2404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2404%2Fc
+[/us/pl/97/35/tXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXXIV
 [/us/stat/95/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F876
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -3848,40 +3848,40 @@
 [/us/pl/91/373/s204/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F2%2FC
 [/us/pl/97/35/s2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2514
 [/us/usc/t19/s2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2291
-[/us/pl/96/499/s1022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1022%2Fb
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2656
 [/us/pl/91/373/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F2
 [/us/pl/91/373/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F2
-[/us/pl/96/499/s1024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs1024%2Fb
+[/us/pl/96/499/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2FtX
 [/us/stat/94/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2660
 [/us/pl/91/373/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa
-[/us/pl/96/364/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs416%2Fb
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1311
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/pl/94/566/s116/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Ff%2F1
 [/us/pl/91/373/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs202%2Fa%2F1
 [/us/usc/t26/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa
-[/us/pl/94/566/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs212%2Fb
+[/us/pl/94/566/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtII
 [/us/stat/90/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2677
 [/us/pl/91/373/s204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs204%2Fa%2F4
-[/us/pl/94/566/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs311%2Fc
+[/us/pl/94/566/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtIII
 [/us/stat/90/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2679
 [/us/pl/91/373/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203%2Fd
 [/us/pl/91/373/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs203%2Fe
-[/us/pl/94/45/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs104
+[/us/pl/94/45/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtI
 [/us/stat/89/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F238
 [/us/pl/93/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F572
-[/us/pl/93/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567
-[/us/pl/94/45/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2Fs301
+[/us/pl/93/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F567%2FtII
+[/us/pl/94/45/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F45%2FtIII
 [/us/stat/89/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F243
 [/us/pl/94/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F354
 [/us/stat/90/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F888
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/usc/t42/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1321
-[/us/pl/86/778/s543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs543%2Fb
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F986
 [/us/usc/t26/s3304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa%2F2
 [/us/usc/t26/s3304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa%2F3

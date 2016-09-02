@@ -17,7 +17,7 @@
 
     In the case of an assistance eligible individual (as defined in section 3001 of title III of division B of the American Recovery and Reinvestment Act of 2009), gross income does not include any premium reduction provided under subsection (a) of such section.
 
-(Added [Pub. L. 111–5, div. B, title III, § 3001(a)(15)(A)][/us/pl/111/5/s3001/a/15/A], Feb. 17, 2009, [123 Stat. 465][/us/stat/123/465]; amended [Pub. L. 111–144, § 3(b)(5)(B)][/us/pl/111/144/s3/b/5/B], Mar. 2, 2010, [124 Stat. 44][/us/stat/124/44].)
+(Added [Pub. L. 111–5, div. B, title III][/us/pl/111/5/dB/tIII], § 3001(a)(15)(A), Feb. 17, 2009, [123 Stat. 465][/us/stat/123/465]; amended [Pub. L. 111–144][/us/pl/111/144], § 3(b)(5)(B), Mar. 2, 2010, [124 Stat. 44][/us/stat/124/44].)
 
  __References in Text__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/111/5/s3001/a/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F15%2FA
+[/us/pl/111/5/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtIII
 [/us/stat/123/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F465
-[/us/pl/111/144/s3/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144%2Fs3%2Fb%2F5%2FB
+[/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
 [/us/stat/124/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F44
 [/us/pl/111/5/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001
 [/us/stat/123/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F455

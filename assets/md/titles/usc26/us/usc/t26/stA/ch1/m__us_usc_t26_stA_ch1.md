@@ -281,33 +281,33 @@
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–135, title I, § 101(b)(4)][/us/pl/109/135/s101/b/4], Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593], substituted “Short-Term Regional Benefits” for “New York Liberty Zone Benefits” in subchapter Y.
+    2005—[Pub. L. 109–135, title I][/us/pl/109/135/tI], § 101(b)(4), Dec. 21, 2005, [119 Stat. 2593][/us/stat/119/2593], substituted “Short-Term Regional Benefits” for “New York Liberty Zone Benefits” in subchapter Y.
 
-    2004—[Pub. L. 108–357, title II, § 248(b)(2)][/us/pl/108/357/s248/b/2], Oct. 22, 2004, [118 Stat. 1457][/us/stat/118/1457], added subchapter R.
+    2004—[Pub. L. 108–357, title II][/us/pl/108/357/tII], § 248(b)(2), Oct. 22, 2004, [118 Stat. 1457][/us/stat/118/1457], added subchapter R.
 
-    2002—[Pub. L. 107–147, title III, § 301(c)][/us/pl/107/147/s301/c], Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40], added subchapter Y.
+    2002—[Pub. L. 107–147, title III][/us/pl/107/147/tIII], § 301(c), Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40], added subchapter Y.
 
-    2000—[Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–600, added subchapter X.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(7) \[title I, § 101(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–600, added subchapter X.
 
-    1997—[Pub. L. 105–34, title VII, § 701(c)][/us/pl/105/34/s701/c], Aug. 5, 1997, [111 Stat. 869][/us/stat/111/869], added subchapter W.
+    1997—[Pub. L. 105–34, title VII][/us/pl/105/34/tVII], § 701(c), Aug. 5, 1997, [111 Stat. 869][/us/stat/111/869], added subchapter W.
 
-    1993—[Pub. L. 103–66, title XIII, § 13301(b)][/us/pl/103/66/s13301/b], Aug. 10, 1993, [107 Stat. 555][/us/stat/107/555], added subchapter U.
+    1993—[Pub. L. 103–66, title XIII][/us/pl/103/66/tXIII], § 13301(b), Aug. 10, 1993, [107 Stat. 555][/us/stat/107/555], added subchapter U.
 
-    1986—[Pub. L. 99–514, title XIII, § 1303(c)(1)][/us/pl/99/514/s1303/c/1], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658], struck out subchapter U “General stock ownership plans”.
+    1986—[Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1303(c)(1), Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658], struck out subchapter U “General stock ownership plans”.
 
-    1982—[Pub. L. 97–354, § 5(b)][/us/pl/97/354/s5/b], Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697], substituted in subchapter S “Tax treatment of S corporations and their shareholders” for “Election of certain small business corporations as to taxable status”.
+    1982—[Pub. L. 97–354][/us/pl/97/354], § 5(b), Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697], substituted in subchapter S “Tax treatment of S corporations and their shareholders” for “Election of certain small business corporations as to taxable status”.
 
-    1980—[Pub. L. 96–589, § 3(a)(2)][/us/pl/96/589/s3/a/2], Dec. 24, 1980, [94 Stat. 3400][/us/stat/94/3400], added subchapter V.
+    1980—[Pub. L. 96–589][/us/pl/96/589], § 3(a)(2), Dec. 24, 1980, [94 Stat. 3400][/us/stat/94/3400], added subchapter V.
 
-    1978—[Pub. L. 95–600, title VI, § 601(c)(1)][/us/pl/95/600/s601/c/1], Nov. 6, 1978, [92 Stat. 2897][/us/stat/92/2897], added subchapter U.
+    1978—[Pub. L. 95–600, title VI][/us/pl/95/600/tVI], § 601(c)(1), Nov. 6, 1978, [92 Stat. 2897][/us/stat/92/2897], added subchapter U.
 
-    1966—[Pub. L. 89–389, § 4(b)(2)][/us/pl/89/389/s4/b/2], Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116], struck out subchapter R effective January 1, 1969.
+    1966—[Pub. L. 89–389][/us/pl/89/389], § 4(b)(2), Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116], struck out subchapter R effective January 1, 1969.
 
-    1962—[Pub. L. 87–834, § 17(b)(4)][/us/pl/87/834/s17/b/4], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051], added subchapter T.
+    1962—[Pub. L. 87–834][/us/pl/87/834], § 17(b)(4), Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051], added subchapter T.
 
-    1960—[Pub. L. 86–779, § 10(c)][/us/pl/86/779/s10/c], Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009], added to subchapter M heading “and real estate investment trusts”.
+    1960—[Pub. L. 86–779][/us/pl/86/779], § 10(c), Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009], added to subchapter M heading “and real estate investment trusts”.
 
-    1958—[Pub. L. 85–866, title I, § 64(d)(1)][/us/pl/85/866/s64/d/1], Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656], added subchapter S.
+    1958—[Pub. L. 85–866, title I][/us/pl/85/866/tI], § 64(d)(1), Sept. 2, 1958, [72 Stat. 1656][/us/stat/72/1656], added subchapter S.
 
 ----------
 
@@ -316,33 +316,33 @@
 ----------
 ----------
 
-[/us/pl/109/135/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs101%2Fb%2F4
+[/us/pl/109/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtI
 [/us/stat/119/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2593
-[/us/pl/108/357/s248/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs248%2Fb%2F2
+[/us/pl/108/357/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtII
 [/us/stat/118/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1457
-[/us/pl/107/147/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs301%2Fc
+[/us/pl/107/147/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIII
 [/us/stat/116/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F40
-[/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/105/34/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs701%2Fc
+[/us/pl/105/34/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtVII
 [/us/stat/111/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F869
-[/us/pl/103/66/s13301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13301%2Fb
+[/us/pl/103/66/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtXIII
 [/us/stat/107/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F555
-[/us/pl/99/514/s1303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fc%2F1
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
-[/us/pl/97/354/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fb
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1697
-[/us/pl/96/589/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs3%2Fa%2F2
+[/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/stat/94/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3400
-[/us/pl/95/600/s601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fc%2F1
+[/us/pl/95/600/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2FtVI
 [/us/stat/92/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2897
-[/us/pl/89/389/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389%2Fs4%2Fb%2F2
+[/us/pl/89/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F389
 [/us/stat/80/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F116
-[/us/pl/87/834/s17/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs17%2Fb%2F4
+[/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/stat/76/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1051
-[/us/pl/86/779/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779%2Fs10%2Fc
+[/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/stat/74/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1009
-[/us/pl/85/866/s64/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fd%2F1
+[/us/pl/85/866/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2FtI
 [/us/stat/72/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1656
 
 

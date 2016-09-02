@@ -35,7 +35,7 @@
 
         The written statement required under the preceding sentence shall be furnished to the individual on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added [Pub. L. 109–280, title VIII, § 844(d)(1)][/us/pl/109/280/s844/d/1], Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012].)
+(Added [Pub. L. 109–280, title VIII][/us/pl/109/280/tVIII], § 844(d)(1), Aug. 17, 2006, [120 Stat. 1012][/us/stat/120/1012].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s844/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fd%2F1
+[/us/pl/109/280/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVIII
 [/us/stat/120/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1012
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72

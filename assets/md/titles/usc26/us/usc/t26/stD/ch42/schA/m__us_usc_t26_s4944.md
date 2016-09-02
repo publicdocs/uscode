@@ -69,7 +69,7 @@
 
             An investment which jeopardizes the carrying out of exempt purposes shall be considered to be removed from jeopardy when such investment is sold or otherwise disposed of, and the proceeds of such sale or other disposition are not investments which jeopardize the carrying out of exempt purposes.
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 511][/us/stat/83/511]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–596, § 2(a)(1)(E)][/us/pl/96/596/s2/a/1/E], (2)(D), (3)(D), Dec. 24, 1980, [94 Stat. 3469–3471][/us/stat/94/3469-3471]; [Pub. L. 109–280, title XII, § 1212(d)][/us/pl/109/280/s1212/d], Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074].)
+(Added [Pub. L. 91–172, title I][/us/pl/91/172/tI], § 101(b), Dec. 30, 1969, [83 Stat. 511][/us/stat/83/511]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(E), (2)(D), (3)(D), Dec. 24, 1980, [94 Stat. 3469–3471][/us/stat/94/3469-3471]; [Pub. L. 109–280, title XII][/us/pl/109/280/tXII], § 1212(d), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074].)
 
  __Codification__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–280, § 1212(d)(1)][/us/pl/109/280/s1212/d/1], substituted “10 percent” for “5 percent” in pars. (1) and (2). See Codification note above.
+    2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280], § 1212(d)(1), substituted “10 percent” for “5 percent” in pars. (1) and (2). See Codification note above.
 
-    Subsec. (d)(2). [Pub. L. 109–280, § 1212(d)(2)][/us/pl/109/280/s1212/d/2], substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+    Subsec. (d)(2). [Pub. L. 109–280][/us/pl/109/280], § 1212(d)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
 
-    1980—Subsec. (b)(1). [Pub. L. 96–596, § 2(a)(1)(E)][/us/pl/96/596/s2/a/1/E], substituted “taxable period” for “correction period”.
+    1980—Subsec. (b)(1). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(1)(E), substituted “taxable period” for “correction period”.
 
-    Subsec. (e)(1)(B), (C). [Pub. L. 96–596, § 2(a)(2)(D)][/us/pl/96/596/s2/a/2/D], added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (e)(1)(B), (C). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(2)(D), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (e)(3). [Pub. L. 96–596, § 2(a)(3)(D)][/us/pl/96/596/s2/a/3/D], struck out par. (3), which defined correction period, with respect to any investment which jeopardizes the carrying out of exempt purposes, as the period beginning with the date on which such investment is entered into and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which a deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about removal from jeopardy.
+    Subsec. (e)(3). [Pub. L. 96–596][/us/pl/96/596], § 2(a)(3)(D), struck out par. (3), which defined correction period, with respect to any investment which jeopardizes the carrying out of exempt purposes, as the period beginning with the date on which such investment is entered into and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under [section 6212 of this title][/us/usc/t26/s6212], extended by any period in which a deficiency cannot be assessed under [section 6213(a) of this title][/us/usc/t26/s6213/a] and any other period which the Secretary determines is reasonable and necessary to bring about removal from jeopardy.
 
     1976—Subsec. (e)(3)(B). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -104,20 +104,20 @@
 ----------
 ----------
 
-[/us/pl/91/172/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs101%2Fb
+[/us/pl/91/172/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2FtI
 [/us/stat/83/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F511
-[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
-[/us/pl/96/596/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FE
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/stat/94/3469-3471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3469-3471
-[/us/pl/109/280/s1212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fd
+[/us/pl/109/280/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXII
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
 [/us/pl/109/280/s1212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fd
-[/us/pl/109/280/s1212/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fd%2F1
-[/us/pl/109/280/s1212/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fd%2F2
-[/us/pl/96/596/s2/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F1%2FE
-[/us/pl/96/596/s2/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F2%2FD
-[/us/pl/96/596/s2/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596%2Fs2%2Fa%2F3%2FD
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
+[/us/pl/96/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F596
 [/us/usc/t26/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6212
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455

@@ -59,9 +59,9 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–168, title XII, § 1209(b)][/us/pl/104/168/s1209/b], July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], substituted “Expenses of detection of underpayments and fraud, etc.” for “Expenses of detection and punishment of frauds.” in item 7623.
+    1996—[Pub. L. 104–168, title XII][/us/pl/104/168/tXII], § 1209(b), July 30, 1996, [110 Stat. 1474][/us/stat/110/1474], substituted “Expenses of detection of underpayments and fraud, etc.” for “Expenses of detection and punishment of frauds.” in item 7623.
 
-    1988—[Pub. L. 100–690, title VII, § 7602(d)(1)][/us/pl/100/690/s7602/d/1], Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], added item 7624.
+    1988—[Pub. L. 100–690, title VII][/us/pl/100/690/tVII], § 7602(d)(1), Nov. 18, 1988, [102 Stat. 4508][/us/stat/102/4508], added item 7624.
 
 ----------
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/104/168/s1209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2Fs1209%2Fb
+[/us/pl/104/168/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F168%2FtXII
 [/us/stat/110/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1474
-[/us/pl/100/690/s7602/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7602%2Fd%2F1
+[/us/pl/100/690/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtVII
 [/us/stat/102/4508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4508
 
 

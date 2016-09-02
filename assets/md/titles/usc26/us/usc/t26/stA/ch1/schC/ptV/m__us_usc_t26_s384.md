@@ -153,15 +153,15 @@
 
         (2) contributions of property to a corporation.
 
-(Added [Pub. L. 100–203, title X, § 10226(a)][/us/pl/100/203/s10226/a], Dec. 22, 1987, [101 Stat. 1330–414][/us/stat/101/1330-414]; amended [Pub. L. 100–647, title II, § 2004(m)(1)][/us/pl/100/647/s2004/m/1]–(4), Nov. 10, 1988, [102 Stat. 3606][/us/stat/102/3606], 3607; [Pub. L. 101–239, title VII, § 7812(c)(1)][/us/pl/101/239/s7812/c/1], Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412].)
+(Added [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10226(a), Dec. 22, 1987, [101 Stat. 1330–414][/us/stat/101/1330-414]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(m)(1)–(4), Nov. 10, 1988, [102 Stat. 3606][/us/stat/102/3606], 3607; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7812(c)(1), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412].)
 
  __Amendments__ 
 
     1989—Subsec. (e)(1). [Pub. L. 101–239][/us/pl/101/239] substituted “built-in gain” for “build-in gain”.
 
-    1988—Subsec. (a). [Pub. L. 100–647, § 2004(m)(1)(A)][/us/pl/100/647/s2004/m/1/A], amended subsec. (a) generally, making changes in substance and structure.
+    1988—Subsec. (a). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(1)(A), amended subsec. (a) generally, making changes in substance and structure.
 
-    Subsec. (b). [Pub. L. 100–647, § 2004(m)(3)][/us/pl/100/647/s2004/m/3], substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
+    Subsec. (b). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(3), substituted “corporations under common control” for “50 percent of gain corporation held” in heading and amended text generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply if more than 50 percent of the stock (by vote and value) of the gain corporation was held throughout the 5-year period ending on the acquisition date—
 
     “(1) in any case described in subsection (a)(1), by members of the affiliated group referred to in subsection (a)(1), or
 
@@ -169,13 +169,13 @@
 
     For purposes of the preceding sentence, stock described in section 1504(a)(4) shall not be taken into account.”
 
-    Subsec. (c)(1)(A). [Pub. L. 100–647, § 2004(m)(1)(D)][/us/pl/100/647/s2004/m/1/D], substituted “subsection (a)(1)(B)” for “subsection (a)(2)”.
+    Subsec. (c)(1)(A). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(1)(D), substituted “subsection (a)(1)(B)” for “subsection (a)(2)”.
 
-    Subsec. (c)(2). [Pub. L. 100–647, § 2004(m)(1)(C)][/us/pl/100/647/s2004/m/1/C], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘acquisition date’ means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection (a)(2), the date of the distribution or transfer in the liquidation or reorganization.”
+    Subsec. (c)(2). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘acquisition date’ means the date on which the gain corporation becomes a member of the affiliated group or, in any case described in subsection (a)(2), the date of the distribution or transfer in the liquidation or reorganization.”
 
-    Subsec. (c)(4) to (8). [Pub. L. 100–647, § 2004(m)(1)(B)][/us/pl/100/647/s2004/m/1/B], redesignated par. (4) as (8) and added pars. (4) to (7).
+    Subsec. (c)(4) to (8). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(1)(B), redesignated par. (4) as (8) and added pars. (4) to (7).
 
-    Subsecs. (e), (f). [Pub. L. 100–647, § 2004(m)(2)][/us/pl/100/647/s2004/m/2], (4), substituted “a corporation” for “the gain corporation” in subsec. (e)(2), redesignated subsec. (e) as (f), and added subsec. (e).
+    Subsecs. (e), (f). [Pub. L. 100–647][/us/pl/100/647], § 2004(m)(2), (4), substituted “a corporation” for “the gain corporation” in subsec. (e)(2), redesignated subsec. (e) as (f), and added subsec. (e).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -183,11 +183,11 @@
 
  __Effective Date of 1988 Amendment__ 
 
-    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+    Amendment by [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, [Pub. L. 100–203, title X][/us/pl/100/203/tX], to which such amendment relates, see [section 2004(u) of Pub. L. 100–647][/us/pl/100/647/s2004/u], set out as a note under [section 56 of this title][/us/usc/t26/s56].
 
  __Effective Date__ 
 
-[Pub. L. 100–203, title X, § 10226(c)][/us/pl/100/203/s10226/c], Dec. 22, 1987, [101 Stat. 1330–416][/us/stat/101/1330-416], provided that: 
+[Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10226(c), Dec. 22, 1987, [101 Stat. 1330–416][/us/stat/101/1330-416], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall apply in cases where the acquisition date (as defined in section 384(c)(2) of the Internal Revenue Code of 1986 as added by this section) is after December 15, 1987; except that such amendments shall not apply in the case of any transaction pursuant to—
 
@@ -197,7 +197,7 @@
 
  __Election To Have Amendments by__  __[__  __Pub. L. 100–647__  __][/us/pl/100/647]__  __Not Apply__ 
 
-[Pub. L. 100–647, title II, § 2004(m)(5)][/us/pl/100/647/s2004/m/5], Nov. 10, 1988, [102 Stat. 3607][/us/stat/102/3607], provided that: 
+[Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2004(m)(5), Nov. 10, 1988, [102 Stat. 3607][/us/stat/102/3607], provided that: 
 
 > “In any case where the acquisition date (as defined in section 384(c)(2) of the 1986 Code as amended by this subsection) is before March 31, 1988, the acquiring corporation may elect to have the amendments made by this subsection not apply. Such an election shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe and shall be made not later than the later of the due date (including extensions) for filing the return for the taxable year of the acquiring corporation in which the acquisition date occurs or the date 120 days after the date of the enactment of this Act \[Nov. 10, 1989\]. Such an election, once made, shall be irrevocable.”
 
@@ -208,31 +208,31 @@
 ----------
 ----------
 
-[/us/pl/100/203/s10226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10226%2Fa
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-414
-[/us/pl/100/647/s2004/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F1
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3606
-[/us/pl/101/239/s7812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7812%2Fc%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2412
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/647/s2004/m/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F1%2FA
-[/us/pl/100/647/s2004/m/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F3
-[/us/pl/100/647/s2004/m/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F1%2FD
-[/us/pl/100/647/s2004/m/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F1%2FC
-[/us/pl/100/647/s2004/m/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F1%2FB
-[/us/pl/100/647/s2004/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F2
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/pl/100/647/s2004/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fu
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
-[/us/pl/100/203/s10226/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10226%2Fc
+[/us/pl/100/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtX
 [/us/stat/101/1330-416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-416
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
-[/us/pl/100/647/s2004/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2004%2Fm%2F5
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3607
 
 

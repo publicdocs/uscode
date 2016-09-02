@@ -49,7 +49,7 @@
 
             No penalty shall be imposed by this section on any person for any failure which is attributable to a failure occurring before January 1, 1983, if the person has made all reasonable efforts to correct such pre-1983 failure.
 
-(Added [Pub. L. 97–248, title III, § 334(c)(1)][/us/pl/97/248/s334/c/1], Sept. 3, 1982, [96 Stat. 627][/us/stat/96/627]; amended [Pub. L. 99–514, title XVIII, § 1848(e)(1)][/us/pl/99/514/s1848/e/1], Oct. 22, 1986, [100 Stat. 2857][/us/stat/100/2857].)
+(Added [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 334(c)(1), Sept. 3, 1982, [96 Stat. 627][/us/stat/96/627]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1848(e)(1), Oct. 22, 1986, [100 Stat. 2857][/us/stat/100/2857].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
+    Amendment by [Pub. L. 99–514][/us/pl/99/514] effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369/dA], to which such amendment relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Effective Date__ 
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/97/248/s334/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs334%2Fc%2F1
+[/us/pl/97/248/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2FtIII
 [/us/stat/96/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F627
-[/us/pl/99/514/s1848/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1848%2Fe%2F1
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2857
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
 [/us/pl/97/248/s334/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs334%2Fe%2F3

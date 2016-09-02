@@ -83,19 +83,19 @@
 
  __Amendments__ 
 
-    1995—[Pub. L. 104–7, § 2(c)][/us/pl/104/7/s2/c], Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], struck out item for part V “Changes to effectuate F.C.C. policy”.
+    1995—[Pub. L. 104–7][/us/pl/104/7], § 2(c), Apr. 11, 1995, [109 Stat. 93][/us/stat/109/93], struck out item for part V “Changes to effectuate F.C.C. policy”.
 
-    1990—[Pub. L. 101–508, title XI, § 11801(b)(9)][/us/pl/101/508/s11801/b/9], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part VIII “Distributions pursuant to Bank Holding Company Act”.
+    1990—[Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(b)(9), Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item for part VIII “Distributions pursuant to Bank Holding Company Act”.
 
-    1981—[Pub. L. 97–34, title V, § 501(d)(3)][/us/pl/97/34/s501/d/3], Aug. 13, 1981, [95 Stat. 327][/us/stat/95/327], substituted “Wash sales; straddles” for “Wash sales of stock or securities” in item for part VII.
+    1981—[Pub. L. 97–34, title V][/us/pl/97/34/tV], § 501(d)(3), Aug. 13, 1981, [95 Stat. 327][/us/stat/95/327], substituted “Wash sales; straddles” for “Wash sales of stock or securities” in item for part VII.
 
-    1976—[Pub. L. 94–455, title XIX, § 1901(b)(32)(I)][/us/pl/94/455/s1901/b/32/I], Oct. 4, 1976, [90 Stat. 1800][/us/stat/90/1800], struck out item for part IX “Distributions pursuant to orders enforcing the antitrust laws”.
+    1976—[Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1901(b)(32)(I), Oct. 4, 1976, [90 Stat. 1800][/us/stat/90/1800], struck out item for part IX “Distributions pursuant to orders enforcing the antitrust laws”.
 
-    [Pub. L. 94–452, § 2(c)][/us/pl/94/452/s2/c], Oct. 2, 1976, [90 Stat. 1512][/us/stat/90/1512], struck out “of 1956” after “Bank Holding Company Act” in item for part VIII.
+    [Pub. L. 94–452][/us/pl/94/452], § 2(c), Oct. 2, 1976, [90 Stat. 1512][/us/stat/90/1512], struck out “of 1956” after “Bank Holding Company Act” in item for part VIII.
 
-    1962—[Pub. L. 87–403, § 1(b)][/us/pl/87/403/s1/b], Feb. 2, 1962, [76 Stat. 5][/us/stat/76/5], added item for part IX.
+    1962—[Pub. L. 87–403][/us/pl/87/403], § 1(b), Feb. 2, 1962, [76 Stat. 5][/us/stat/76/5], added item for part IX.
 
-    1956—[Act May 9, 1956, ch. 240, § 10(b)][/us/act/1956-05-09/ch240/s10/b], [70 Stat. 146][/us/stat/70/146], added item for part VIII.
+    1956—[Act May 9, 1956, ch. 240][/us/act/1956-05-09/ch240], § 10(b), [70 Stat. 146][/us/stat/70/146], added item for part VIII.
 
 ----------
 
@@ -104,19 +104,19 @@
 ----------
 ----------
 
-[/us/pl/104/7/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7%2Fs2%2Fc
+[/us/pl/104/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F7
 [/us/stat/109/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F93
-[/us/pl/101/508/s11801/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F9
+[/us/pl/101/508/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXI
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
-[/us/pl/97/34/s501/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs501%2Fd%2F3
+[/us/pl/97/34/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2FtV
 [/us/stat/95/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F327
-[/us/pl/94/455/s1901/b/32/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F32%2FI
+[/us/pl/94/455/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXIX
 [/us/stat/90/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1800
-[/us/pl/94/452/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452%2Fs2%2Fc
+[/us/pl/94/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F452
 [/us/stat/90/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1512
-[/us/pl/87/403/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403%2Fs1%2Fb
+[/us/pl/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403
 [/us/stat/76/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F5
-[/us/act/1956-05-09/ch240/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240%2Fs10%2Fb
+[/us/act/1956-05-09/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-09%2Fch240
 [/us/stat/70/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F146
 
 

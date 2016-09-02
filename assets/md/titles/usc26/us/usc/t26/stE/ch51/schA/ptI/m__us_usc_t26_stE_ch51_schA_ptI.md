@@ -67,7 +67,7 @@
 
  __Amendments__ 
 
-    1979—[Pub. L. 96–39, title VIII, § 807(b)(1)][/us/pl/96/39/s807/b/1], July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item relating to subpart B “Rectification”.
+    1979—[Pub. L. 96–39, title VIII][/us/pl/96/39/tVIII], § 807(b)(1), July 26, 1979, [93 Stat. 290][/us/stat/93/290], struck out item relating to subpart B “Rectification”.
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/96/39/s807/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fb%2F1
+[/us/pl/96/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtVIII
 [/us/stat/93/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F290
 
 

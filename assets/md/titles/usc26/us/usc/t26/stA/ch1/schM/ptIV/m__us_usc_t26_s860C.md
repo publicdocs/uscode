@@ -99,15 +99,15 @@
 
             For special treatment of income in excess of daily accruals, see section 860E.
 
-(Added [Pub. L. 99–514, title VI, § 671(a)][/us/pl/99/514/s671/a], Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309]; amended [Pub. L. 100–647, title I, § 1006(t)(1)][/us/pl/100/647/s1006/t/1], (8)(C), (21), Nov. 10, 1988, [102 Stat. 3419][/us/stat/102/3419], 3421, 3426.)
+(Added [Pub. L. 99–514, title VI][/us/pl/99/514/tVI], § 671(a), Oct. 22, 1986, [100 Stat. 2309][/us/stat/100/2309]; amended [Pub. L. 100–647, title I][/us/pl/100/647/tI], § 1006(t)(1), (8)(C), (21), Nov. 10, 1988, [102 Stat. 3419][/us/stat/102/3419], 3421, 3426.)
 
  __Amendments__ 
 
-    1988—Subsec. (b)(1). [Pub. L. 100–647, § 1006(t)(21)][/us/pl/100/647/s1006/t/21], substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
+    1988—Subsec. (b)(1). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
 
-    Subsec. (b)(1)(E). [Pub. L. 100–647, § 1006(t)(8)(C)][/us/pl/100/647/s1006/t/8/C], added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(8)(C), added subpar. (E).
 
-    Subsec. (e)(1). [Pub. L. 100–647, § 1006(t)(1)][/us/pl/100/647/s1006/t/1], substituted “ordinary” for “ordinary income” in heading and amended text generally. Prior to amendment, text read as follows: “Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income.”
+    Subsec. (e)(1). [Pub. L. 100–647][/us/pl/100/647], § 1006(t)(1), substituted “ordinary” for “ordinary income” in heading and amended text generally. Prior to amendment, text read as follows: “Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income.”
 
  __Effective Date of 1988 Amendment__ 
 
@@ -120,13 +120,13 @@
 ----------
 ----------
 
-[/us/pl/99/514/s671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs671%2Fa
+[/us/pl/99/514/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtVI
 [/us/stat/100/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2309
-[/us/pl/100/647/s1006/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F1
+[/us/pl/100/647/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtI
 [/us/stat/102/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3419
-[/us/pl/100/647/s1006/t/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F21
-[/us/pl/100/647/s1006/t/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F8%2FC
-[/us/pl/100/647/s1006/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Ft%2F1
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
