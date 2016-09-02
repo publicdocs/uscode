@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td colspan="2"> (Effective Feb. 1, 1977, as amended to Jan. 15, 2013)  </td>
+    <td colspan="2"> (Effective Feb. 1, 1977, as amended to Jan. 2, 2014)  </td>
 
   </tr>
 
